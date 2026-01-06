@@ -1,0 +1,283 @@
+[
+  {
+    "id": 15387,
+    "name": "Myrentacar WW",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2022/3/28/15387-d9ba6b56ab62c500.svg",
+    "img": "platform/15387.svg",
+    "categories": [
+      {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Car Rentals",
+        "id": 91,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Car Rentals",
+      "id": 91,
+      "language": "en",
+      "parent": {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 18153,
+    "name": "Economybookings Many GEO's",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2020/10/2/18153-cc5470d792ef365d.png",
+    "img": "platform/18153.png",
+    "categories": [
+      {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Car Rentals",
+        "id": 91,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Car Rentals",
+      "id": 91,
+      "language": "en",
+      "parent": {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 18989,
+    "name": "QEEQ WW",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/15/18989-5ce88a0b69e6d75a.svg",
+    "img": "platform/18989.svg",
+    "categories": [
+      {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Car Rentals",
+        "id": 91,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Car Rentals",
+      "id": 91,
+      "language": "en",
+      "parent": {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 20065,
+    "name": "DiscoverCars WW",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2020/11/30/20065-6703f84905227d30.png",
+    "img": "platform/20065.png",
+    "categories": [
+      {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Car Rentals",
+        "id": 91,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Car Rentals",
+      "id": 91,
+      "language": "en",
+      "parent": {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 87108,
+    "name": "Movida BR CPA",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/3/20/87108-909f4e90b13ba6a5.svg",
+    "img": "platform/87108.svg",
+    "categories": [
+      {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Car Rentals",
+        "id": 91,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Car Rentals",
+      "id": 91,
+      "language": "en",
+      "parent": {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 144021,
+    "name": "Альмак Прокат RU",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/10/1/144021-ad634b0d7ff530b9.svg",
+    "img": "platform/144021.svg",
+    "categories": [
+      {
+        "name": "Car Rentals",
+        "id": 91,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Cars",
+        "id": 256,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Car Rentals",
+      "id": 91,
+      "language": "en",
+      "parent": {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 144297,
+    "name": "America-carrental MX",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/11/27/144297-74d1295df02ccf85.svg",
+    "img": "platform/144297.svg",
+    "categories": [
+      {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Car Rentals",
+        "id": 91,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Car Rentals",
+      "id": 91,
+      "language": "en",
+      "parent": {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      }
+    }
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "id": 21842,
+    "name": "X-Fit",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2022/8/3/21842-0565b8320f3fd383.png",
+    "img": "platform/21842.png",
+    "categories": [
+      {
+        "name": "Fitness",
+        "id": 205,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Fitness",
+      "id": 205,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 27773,
+    "name": "Tough Mudder UK",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/29/27773-90b5a30ba8e5861e.svg",
+    "img": "platform/27773.svg",
+    "categories": [
+      {
+        "name": "Fitness",
+        "id": 205,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Fitness",
+      "id": 205,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 28241,
+    "name": "ISSA Many Geos",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2022/4/15/28241-5a3fd3c5619966f6.png",
+    "img": "platform/28241.png",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Fitness",
+        "id": 205,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Fitness",
+      "id": 205,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 109297,
+    "name": "Apollo UA",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/3/31/109297-a8ec6fe834b1a953.svg",
+    "img": "platform/109297.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Fitness",
+        "id": 205,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Smart Tracking_UA",
+        "id": 379,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Fitness",
+      "id": 205,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  }
+]

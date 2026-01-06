@@ -1,0 +1,642 @@
+[
+  {
+    "id": 20493,
+    "name": "HoraCredit RO",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2022/6/2/20493-b9f1d91e4034ce08.svg",
+    "img": "platform/20493.svg",
+    "categories": [
+      {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Loans",
+        "id": 9,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Credit Services, Cash Management Services",
+        "id": 106,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Payday Loans",
+        "id": 105,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Loans",
+      "id": 9,
+      "language": "en",
+      "parent": {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 25944,
+    "name": "Zonky CZ",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/6/25/25944-cdad5b2c52f884c5.svg",
+    "img": "platform/25944.svg",
+    "categories": [
+      {
+        "name": "Loans",
+        "id": 9,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Loans",
+      "id": 9,
+      "language": "en",
+      "parent": {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 29148,
+    "name": "Viaconto RO",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2022/7/13/29148-21f1a7e216c2ad74.svg",
+    "img": "platform/29148.svg",
+    "categories": [
+      {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Loans",
+        "id": 9,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Loans",
+      "id": 9,
+      "language": "en",
+      "parent": {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 32035,
+    "name": "Sol Crédito MX",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/31/32035-fd763674e6184049.svg",
+    "img": "platform/32035.svg",
+    "categories": [
+      {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Loans",
+        "id": 9,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Loans",
+      "id": 9,
+      "language": "en",
+      "parent": {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 32932,
+    "name": "CoolCredit cz",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/9/14/32932-c3a1c5af0853c7bb.svg",
+    "img": "platform/32932.svg",
+    "categories": [
+      {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Loans",
+        "id": 9,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Loans",
+      "id": 9,
+      "language": "en",
+      "parent": {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 42348,
+    "name": "Vistacredit CZ CPS",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/12/8/42348-7ec6a4f5880fac9e.svg",
+    "img": "platform/42348.svg",
+    "categories": [
+      {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Loans",
+        "id": 9,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Payday Loans",
+        "id": 105,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Credit Services, Cash Management Services",
+        "id": 106,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Loans",
+      "id": 9,
+      "language": "en",
+      "parent": {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 100491,
+    "name": "Proficredit cz CPS",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/6/10/100491-6c1081d94f844f75.svg",
+    "img": "platform/100491.svg",
+    "categories": [
+      {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Loans",
+        "id": 9,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Loans",
+      "id": 9,
+      "language": "en",
+      "parent": {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 101203,
+    "name": "Zonky cz CPS",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/6/25/101203-6f5b992b58ad3f25.svg",
+    "img": "platform/101203.svg",
+    "categories": [
+      {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Loans",
+        "id": 9,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Loans",
+      "id": 9,
+      "language": "en",
+      "parent": {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 120523,
+    "name": "Credito365",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/23/120523-aad968f776df218d.svg",
+    "img": "platform/120523.svg",
+    "categories": [
+      {
+        "name": "Loans",
+        "id": 9,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Loans",
+      "id": 9,
+      "language": "en",
+      "parent": {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 121746,
+    "name": "AvaFin (Crediton) CZ/SK",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/6/17/121746-955b922a45a40978.svg",
+    "img": "platform/121746.svg",
+    "categories": [
+      {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Loans",
+        "id": 9,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Loans",
+      "id": 9,
+      "language": "en",
+      "parent": {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 121764,
+    "name": "Сreditportal CZ/SK",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/2/13/121764-1000afbec062f1dd.svg",
+    "img": "platform/121764.svg",
+    "categories": [
+      {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Loans",
+        "id": 9,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Loans",
+      "id": 9,
+      "language": "en",
+      "parent": {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 131897,
+    "name": "Western Union Many GEOs",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/7/21/131897-6859ac500c8fed45.svg",
+    "img": "platform/131897.svg",
+    "categories": [
+      {
+        "name": "Loans",
+        "id": 9,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Credit Services, Cash Management Services",
+        "id": 106,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Forex",
+        "id": 82,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Investments",
+        "id": 126,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Insurance",
+        "id": 37,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Credit Cards",
+        "id": 10,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Mortgage",
+        "id": 107,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Car Loans",
+        "id": 83,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Payday Loans",
+        "id": 105,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Deposits",
+        "id": 50,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Debit cards",
+        "id": 88,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Loans",
+      "id": 9,
+      "language": "en",
+      "parent": {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 145562,
+    "name": "$Lana MX",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/10/20/145562-9d0cc1aa365d94b8.svg",
+    "img": "platform/145562.svg",
+    "categories": [
+      {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Loans",
+        "id": 9,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Loans",
+      "id": 9,
+      "language": "en",
+      "parent": {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    }
+  }
+]

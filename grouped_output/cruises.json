@@ -1,0 +1,132 @@
+[
+  {
+    "id": 18183,
+    "name": "RaynaTours Many Geos",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/3/12/18183-80201c4cc1c1b8ea.jpg",
+    "img": "platform/18183.jpg",
+    "categories": [
+      {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Cruises",
+        "id": 211,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Tours",
+        "id": 234,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Package Holidays",
+        "id": 45,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Cruises",
+      "id": 211,
+      "language": "en",
+      "parent": {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 21892,
+    "name": "Круиз.онлайн RU",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/9/4/21892-41504baef4f201da.svg",
+    "img": "platform/21892.svg",
+    "categories": [
+      {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Cruises",
+        "id": 211,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Cruises",
+      "id": 211,
+      "language": "en",
+      "parent": {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 29633,
+    "name": "Донинтурфлот",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2022/10/17/29633-9a3fb7670f8900c2.jpg",
+    "img": "platform/29633.jpg",
+    "categories": [
+      {
+        "name": "Cruises",
+        "id": 211,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Cruises",
+      "id": 211,
+      "language": "en",
+      "parent": {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      }
+    }
+  }
+]

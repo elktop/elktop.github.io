@@ -1,0 +1,74 @@
+[
+  {
+    "id": 488,
+    "name": "Teamo - Revshare",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/12/488-0531dca730e488af.svg",
+    "img": "platform/488.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Dating Services",
+        "id": 38,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Dating Services",
+      "id": 38,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 20867,
+    "name": "linkyou",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/12/20867-7e08f9428bd86faf.svg",
+    "img": "platform/20867.svg",
+    "categories": [
+      {
+        "name": "Dating Services",
+        "id": 38,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Dating Services",
+      "id": 38,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  }
+]

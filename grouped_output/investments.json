@@ -1,0 +1,110 @@
+[
+  {
+    "id": 23313,
+    "name": "ICICI Lombard Bike CPS",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/1/11/23313-ea3fdb5abd333104.svg",
+    "img": "platform/23313.svg",
+    "categories": [
+      {
+        "name": "Investments",
+        "id": 126,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Investments",
+      "id": 126,
+      "language": "en",
+      "parent": {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 27203,
+    "name": "AU Bank [CPA] IN",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/5/13/27203-665162a0e4d9f2b4.svg",
+    "img": "platform/27203.svg",
+    "categories": [
+      {
+        "name": "Investments",
+        "id": 126,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Investments",
+      "id": 126,
+      "language": "en",
+      "parent": {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 43795,
+    "name": "Upstox [Android, CPA] IN",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/10/23/43795-c44c35e2a5f826cf.svg",
+    "img": "platform/43795.svg",
+    "categories": [
+      {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Investments",
+        "id": 126,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Investments",
+      "id": 126,
+      "language": "en",
+      "parent": {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    }
+  }
+]

@@ -1,0 +1,274 @@
+[
+  {
+    "id": 7489,
+    "name": "REG.RU",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/9/8/7489-bcb8c8ef7d561a9c.png",
+    "img": "platform/7489.png",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "B2B Online Services",
+        "id": 206,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "IT Services & Soft",
+        "id": 122,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "B2B Online Services",
+      "id": 206,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 27592,
+    "name": "Tapfiliate WW",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/10/24/27592-3626e152fd211043.png",
+    "img": "platform/27592.png",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "B2B Online Services",
+        "id": 206,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Other Services",
+        "id": 93,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "IT Services & Soft",
+        "id": 122,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "B2B Online Services",
+      "id": 206,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 29459,
+    "name": "Ostrovok.ru Командировки",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/20/29459-d5e67e3e514dc6c5.png",
+    "img": "platform/29459.png",
+    "categories": [
+      {
+        "name": "B2B Online Services",
+        "id": 206,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "B2B Online Services",
+      "id": 206,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 31041,
+    "name": "Контур Эльба",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/5/3/31041-8c8fad223b4d09ab.svg",
+    "img": "platform/31041.svg",
+    "categories": [
+      {
+        "name": "B2B Online Services",
+        "id": 206,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "IT Services & Soft",
+        "id": 122,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "B2B Online Services",
+      "id": 206,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 101317,
+    "name": "Unihost CPS WW",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/10/101317-385320afab749579.svg",
+    "img": "platform/101317.svg",
+    "categories": [
+      {
+        "name": "B2B Online Services",
+        "id": 206,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Smart Tracking_UA",
+        "id": 379,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "B2B Online Services",
+      "id": 206,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 130818,
+    "name": "WLW B2B Directory Affiliate Program",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/8/12/130818-815f443d1a6e74a8.svg",
+    "img": "platform/130818.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "B2B Online Services",
+        "id": 206,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "B2B Online Services",
+      "id": 206,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  }
+]

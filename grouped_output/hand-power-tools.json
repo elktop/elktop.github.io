@@ -1,0 +1,330 @@
+[
+  {
+    "id": 19919,
+    "name": "АгроСемФонд",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/14/19919-1a7ba1889a509096.svg",
+    "img": "platform/19919.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Hand & Power tools",
+        "id": 102,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Gifts & Flowers",
+        "id": 72,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Hand & Power tools",
+      "id": 102,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 21527,
+    "name": "Garshinka",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/21/21527-73e65841f615c031.svg",
+    "img": "platform/21527.svg",
+    "categories": [
+      {
+        "name": "Hand & Power tools",
+        "id": 102,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Hand & Power tools",
+      "id": 102,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 26467,
+    "name": "onlinesemena.ru",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2022/1/18/26467-627820360aab155f.jpg",
+    "img": "platform/26467.jpg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Hand & Power tools",
+        "id": 102,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Hand & Power tools",
+      "id": 102,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 28256,
+    "name": "Hyundai Power Products UK",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/29/28256-8b4f8b6d32207755.svg",
+    "img": "platform/28256.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Hand & Power tools",
+        "id": 102,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Hand & Power tools",
+      "id": 102,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 29551,
+    "name": "Kubaninstrument",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/4/10/29551-6386e3fe773ed55c.svg",
+    "img": "platform/29551.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Hand & Power tools",
+        "id": 102,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Hand & Power tools",
+      "id": 102,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 35495,
+    "name": "Gardenmart24",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/4/25/35495-97d3cf43408ddefb.svg",
+    "img": "platform/35495.svg",
+    "categories": [
+      {
+        "name": "Hand & Power tools",
+        "id": 102,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "SME",
+        "id": 215,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Back to school 2025",
+        "id": 371,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Hand & Power tools",
+      "id": 102,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 37060,
+    "name": "Harfington Many GEOs",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/6/14/37060-10b6f52537638733.svg",
+    "img": "platform/37060.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Hand & Power tools",
+        "id": 102,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Hand & Power tools",
+      "id": 102,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 159043,
+    "name": "Meshnology - Meshtastic & LoRa Hardware Specialist",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/12/26/159043-e33945248d4da33c.svg",
+    "img": "platform/159043.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Hand & Power tools",
+        "id": 102,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Household Appliances & Electronics",
+        "id": 65,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Hand & Power tools",
+      "id": 102,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  }
+]

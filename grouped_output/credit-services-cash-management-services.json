@@ -1,0 +1,138 @@
+[
+  {
+    "id": 19541,
+    "name": "PaisaBazaar Credit Score [CPL] IN",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/8/12/19541-956fc802e60c679d.svg",
+    "img": "platform/19541.svg",
+    "categories": [
+      {
+        "name": "Credit Services, Cash Management Services",
+        "id": 106,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Credit Services, Cash Management Services",
+      "id": 106,
+      "language": "en",
+      "parent": {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 32396,
+    "name": "SOS credit CZ",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/1/25/32396-3f5f6ebf8a39c981.svg",
+    "img": "platform/32396.svg",
+    "categories": [
+      {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Credit Services, Cash Management Services",
+        "id": 106,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Payday Loans",
+        "id": 105,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Loans",
+        "id": 9,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Credit Services, Cash Management Services",
+      "id": 106,
+      "language": "en",
+      "parent": {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 37713,
+    "name": "Walutomat PL",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/7/2/37713-86a880a1cde9239a.jpg",
+    "img": "platform/37713.jpg",
+    "categories": [
+      {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Credit Services, Cash Management Services",
+        "id": 106,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Credit Services, Cash Management Services",
+      "id": 106,
+      "language": "en",
+      "parent": {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    }
+  }
+]

@@ -1,0 +1,240 @@
+[
+  {
+    "id": 21070,
+    "name": "Т- Мобайл (SIM-карты)",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/2/21070-44b909eb66a0025f.svg",
+    "img": "platform/21070.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Telecommunications",
+        "id": 20,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Back to school 2025",
+        "id": 371,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Telecommunications",
+      "id": 20,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 36195,
+    "name": "",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/5/30/36195-a9579484fec735f0.svg",
+    "img": "platform/36195.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Telecommunications",
+        "id": 20,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "IT Services & Soft",
+        "id": 122,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Back to school 2025",
+        "id": 371,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Telecommunications",
+      "id": 20,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 44814,
+    "name": "Global YO WW",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/8/7/44814-9ce2fca0c7b24128.svg",
+    "img": "platform/44814.svg",
+    "categories": [
+      {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Telecommunications",
+        "id": 20,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Telecommunications",
+      "id": 20,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 105262,
+    "name": "English (US)",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/19/105262-e9a6b920ed84449b.svg",
+    "img": "platform/105262.svg",
+    "categories": [
+      {
+        "name": "Telecommunications",
+        "id": 20,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "IT Services & Soft",
+        "id": 122,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Smart Tracking_UA",
+        "id": 379,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Telecommunications",
+      "id": 20,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 120932,
+    "name": "СберМобайл RU",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/31/120932-a78f80156bfd728c.svg",
+    "img": "platform/120932.svg",
+    "categories": [
+      {
+        "name": "Telecommunications",
+        "id": 20,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Oktoberfest 2025",
+        "id": 373,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Telecommunications",
+      "id": 20,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  }
+]

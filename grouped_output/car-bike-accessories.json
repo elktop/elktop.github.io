@@ -1,0 +1,188 @@
+[
+  {
+    "id": 19213,
+    "name": "AvtoALL",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2020/10/21/19213-aef6a8ea558561bc.png",
+    "img": "platform/19213.png",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Car & Bike Accessories",
+        "id": 92,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Car & Bike Accessories",
+      "id": 92,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 21894,
+    "name": "Euro-diski",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2022/7/21/21894-27f9f1cf3321a6bb.jpg",
+    "img": "platform/21894.jpg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Car & Bike Accessories",
+        "id": 92,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "New Year Festival 2026",
+        "id": 378,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Car & Bike Accessories",
+      "id": 92,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 36507,
+    "name": "Mirdvornikov",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/6/28/36507-fb748c261130af76.svg",
+    "img": "platform/36507.svg",
+    "categories": [
+      {
+        "name": "Car & Bike Accessories",
+        "id": 92,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Car & Bike Accessories",
+      "id": 92,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 41872,
+    "name": "Virtual llantas MX",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/9/11/41872-72bb6f47345913ae.svg",
+    "img": "platform/41872.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Car & Bike Accessories",
+        "id": 92,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Car & Bike Accessories",
+      "id": 92,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 134970,
+    "name": "Кореана RU",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/7/31/134970-0547af589aeb553b.svg",
+    "img": "platform/134970.svg",
+    "categories": [
+      {
+        "name": "Car & Bike Accessories",
+        "id": 92,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Car & Bike Accessories",
+      "id": 92,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  }
+]

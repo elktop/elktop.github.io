@@ -1,0 +1,86 @@
+[
+  {
+    "id": 29788,
+    "name": "TK-laser UA",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/10/10/29788-937287a479678990.svg",
+    "img": "platform/29788.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Healthcare Services",
+        "id": 120,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Smart Tracking_UA",
+        "id": 379,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Healthcare Services",
+      "id": 120,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 145953,
+    "name": "Cura Care [CPS] IN",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/10/27/145953-7c5509c0485855d9.svg",
+    "img": "platform/145953.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Healthcare Services",
+        "id": 120,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Healthcare Services",
+      "id": 120,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  }
+]

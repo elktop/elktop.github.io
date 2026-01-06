@@ -1,0 +1,202 @@
+[
+  {
+    "id": 27558,
+    "name": "Вкусвилл HR",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2022/1/19/27558-6148bf3503980966.png",
+    "img": "platform/27558.png",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Jobs and freelance",
+        "id": 257,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Jobs and freelance",
+      "id": 257,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 28594,
+    "name": "jcat",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/22/28594-abf871d370114a44.svg",
+    "img": "platform/28594.svg",
+    "categories": [
+      {
+        "name": "Jobs and freelance",
+        "id": 257,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Jobs and freelance",
+      "id": 257,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 43800,
+    "name": "HeadHunter (hh.kz) KZ",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/1/9/43800-a461ba12c62af757.svg",
+    "img": "platform/43800.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Jobs and freelance",
+        "id": 257,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Back to school 2025",
+        "id": 371,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Jobs and freelance",
+      "id": 257,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 99414,
+    "name": "Multilogin WW",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/6/14/99414-1f7b45d4a02de06a.svg",
+    "img": "platform/99414.svg",
+    "categories": [
+      {
+        "name": "Jobs and freelance",
+        "id": 257,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "IT Services & Soft",
+        "id": 122,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Movies & Music",
+        "id": 203,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "News and Media",
+        "id": 310,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Other Services",
+        "id": 93,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Jobs and freelance",
+      "id": 257,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  }
+]

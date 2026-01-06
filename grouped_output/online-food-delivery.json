@@ -1,0 +1,1003 @@
+[
+  {
+    "id": 4855,
+    "name": "2 Берега",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/4/9/4855-a9a4885fb2f3d178.svg",
+    "img": "platform/4855.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Online Food Delivery",
+        "id": 204,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Back to school 2025",
+        "id": 371,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Online Food Delivery",
+      "id": 204,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 15192,
+    "name": "Нияма",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2022/12/8/15192-e2aefb8d7e971f24.png",
+    "img": "platform/15192.png",
+    "categories": [
+      {
+        "name": "Online Food Delivery",
+        "id": 204,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Online Food Delivery",
+      "id": 204,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 15909,
+    "name": "Growfood",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2022/8/19/15909-488fa91cea6409b5.png",
+    "img": "platform/15909.png",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Online Food Delivery",
+        "id": 204,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Online Food Delivery",
+      "id": 204,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 18262,
+    "name": "Level Kitchen",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/12/18262-1cde42718b4579d7.svg",
+    "img": "platform/18262.svg",
+    "categories": [
+      {
+        "name": "Online Food Delivery",
+        "id": 204,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Food & Food delivery",
+        "id": 63,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "New Year Festival 2026",
+        "id": 378,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Online Food Delivery",
+      "id": 204,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 18780,
+    "name": "Foodband",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/10/7/18780-06b292277055c0b6.svg",
+    "img": "platform/18780.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Online Food Delivery",
+        "id": 204,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Online Food Delivery",
+      "id": 204,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 18904,
+    "name": "justfood",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/5/27/18904-9688558adcd9e51c.svg",
+    "img": "platform/18904.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Online Food Delivery",
+        "id": 204,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Food & Food delivery",
+        "id": 63,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Online Food Delivery",
+      "id": 204,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 19806,
+    "name": "Ollis",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2022/3/29/19806-092f2aaff2f4b24b.jpg",
+    "img": "platform/19806.jpg",
+    "categories": [
+      {
+        "name": "Online Food Delivery",
+        "id": 204,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Back to school 2025",
+        "id": 371,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Online Food Delivery",
+      "id": 204,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 20736,
+    "name": "sushi-master",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2022/2/28/20736-c32ab475e73af6ae.jpg",
+    "img": "platform/20736.jpg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Online Food Delivery",
+        "id": 204,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Food & Food delivery",
+        "id": 63,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Online Food Delivery",
+      "id": 204,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 21734,
+    "name": "Pizza-allo",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/2/5/21734-37bcf0015ba7b728.png",
+    "img": "platform/21734.png",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Online Food Delivery",
+        "id": 204,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Online Food Delivery",
+      "id": 204,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 22320,
+    "name": "BeFit",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/10/15/22320-c9f0495221a967d3.svg",
+    "img": "platform/22320.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Online Food Delivery",
+        "id": 204,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Back to school 2025",
+        "id": 371,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "New Year Festival 2026",
+        "id": 378,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Online Food Delivery",
+      "id": 204,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 22771,
+    "name": "My Food",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/12/22771-2a112c9de18e2464.svg",
+    "img": "platform/22771.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Online Food Delivery",
+        "id": 204,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Food & Food delivery",
+        "id": 63,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "New Year Festival 2026",
+        "id": 378,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Online Food Delivery",
+      "id": 204,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 26110,
+    "name": "pizzasushiwok",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/2/9/26110-5ec1a4f01b6f3d2e.svg",
+    "img": "platform/26110.svg",
+    "categories": [
+      {
+        "name": "Online Food Delivery",
+        "id": 204,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Online Food Delivery",
+      "id": 204,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 27278,
+    "name": "Yandex eda",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2022/1/14/27278-0abb3d0c54679551.png",
+    "img": "platform/27278.png",
+    "categories": [
+      {
+        "name": "Online Food Delivery",
+        "id": 204,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Online Food Delivery",
+      "id": 204,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 28724,
+    "name": "Hello Chef AE links & promo codes",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/5/3/28724-a5d9660d3f74afb3.svg",
+    "img": "platform/28724.svg",
+    "categories": [
+      {
+        "name": "Online Food Delivery",
+        "id": 204,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Other Services",
+        "id": 93,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Online Food Delivery",
+      "id": 204,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 28861,
+    "name": "Польза",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2022/7/11/28861-1d3131378dd1cd4c.png",
+    "img": "platform/28861.png",
+    "categories": [
+      {
+        "name": "Online Food Delivery",
+        "id": 204,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Healthcare Services",
+        "id": 120,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Online Food Delivery",
+      "id": 204,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 32072,
+    "name": "Wolt  DEU, CYP, GEO, JPN, LTU, LVA, MLT, KAZ",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/1/11/32072-a61d74b1e0f8008b.svg",
+    "img": "platform/32072.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Online Food Delivery",
+        "id": 204,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Online Food Delivery",
+      "id": 204,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 33072,
+    "name": "crosspack.ru",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/2/13/33072-6d67c4768e52184e.jpg",
+    "img": "platform/33072.jpg",
+    "categories": [
+      {
+        "name": "Online Food Delivery",
+        "id": 204,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Online Food Delivery",
+      "id": 204,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 42857,
+    "name": "Pizzahut.ru",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/9/29/42857-53a6001b991894b6.svg",
+    "img": "platform/42857.svg",
+    "categories": [
+      {
+        "name": "Online Food Delivery",
+        "id": 204,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Online Food Delivery",
+      "id": 204,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 46169,
+    "name": "dominopizza.ru",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/2/16/46169-141d26c717e9301d.svg",
+    "img": "platform/46169.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Online Food Delivery",
+        "id": 204,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Back to school 2025",
+        "id": 371,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Online Food Delivery",
+      "id": 204,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 90282,
+    "name": "Simply Meal RU",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/2/20/90282-3709b868479b24fb.svg",
+    "img": "platform/90282.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Online Food Delivery",
+        "id": 204,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Back to school 2025",
+        "id": 371,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "New Year Festival 2026",
+        "id": 378,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Online Food Delivery",
+      "id": 204,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 92120,
+    "name": "WOLT CZ PL HU GR SK HR RS",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/5/10/92120-8c987e88a6327ddb.svg",
+    "img": "platform/92120.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Online Food Delivery",
+        "id": 204,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Online Food Delivery",
+      "id": 204,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 95451,
+    "name": "Prostoeda.pro",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/5/20/95451-4743e966ca8725d3.svg",
+    "img": "platform/95451.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Online Food Delivery",
+        "id": 204,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Food & Food delivery",
+        "id": 63,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Online Food Delivery",
+      "id": 204,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 95470,
+    "name": "UberEats UK",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/3/29/95470-b55affbfe8a881b7.svg",
+    "img": "platform/95470.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Online Food Delivery",
+        "id": 204,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Online Food Delivery",
+      "id": 204,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  }
+]

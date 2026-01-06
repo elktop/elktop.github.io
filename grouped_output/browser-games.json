@@ -1,0 +1,74 @@
+[
+  {
+    "id": 173,
+    "name": "ТехноМагия [DOI, CPP] RU+CIS",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/12/173-c27ee762eb392ea7.svg",
+    "img": "platform/173.svg",
+    "categories": [
+      {
+        "name": "Browser Games",
+        "id": 15,
+        "language": "en",
+        "parent": {
+          "name": "Online Games",
+          "id": 6,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Games",
+        "id": 6,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Browser Games",
+      "id": 15,
+      "language": "en",
+      "parent": {
+        "name": "Online Games",
+        "id": 6,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 104404,
+    "name": "Playhop [Revshare] Many GEOs",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/10/10/104404-645952a4d44bb50a.svg",
+    "img": "platform/104404.svg",
+    "categories": [
+      {
+        "name": "Online Games",
+        "id": 6,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Browser Games",
+        "id": 15,
+        "language": "en",
+        "parent": {
+          "name": "Online Games",
+          "id": 6,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Browser Games",
+      "id": 15,
+      "language": "en",
+      "parent": {
+        "name": "Online Games",
+        "id": 6,
+        "language": "en",
+        "parent": null
+      }
+    }
+  }
+]

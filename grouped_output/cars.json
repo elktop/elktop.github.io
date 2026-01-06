@@ -1,0 +1,50 @@
+[
+  {
+    "id": 90288,
+    "name": "Turbosto UA",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/3/7/90288-49ca3d04665f5f8c.svg",
+    "img": "platform/90288.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Cars",
+        "id": 256,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Smart Tracking_UA",
+        "id": 379,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Cars",
+      "id": 256,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  }
+]

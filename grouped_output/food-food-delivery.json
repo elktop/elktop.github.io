@@ -1,0 +1,444 @@
+[
+  {
+    "id": 17220,
+    "name": "Tasty Coffee",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/5/11/17220-2ef89f8d806226bb.png",
+    "img": "platform/17220.png",
+    "categories": [
+      {
+        "name": "Food & Food delivery",
+        "id": 63,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Gifts & Flowers",
+        "id": 72,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Food & Food delivery",
+      "id": 63,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 19328,
+    "name": "online.globus.ru",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/11/30/19328-9341624c1b8afe28.png",
+    "img": "platform/19328.png",
+    "categories": [
+      {
+        "name": "Food & Food delivery",
+        "id": 63,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Pets",
+        "id": 74,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Oktoberfest 2025",
+        "id": 373,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Food & Food delivery",
+      "id": 63,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 26886,
+    "name": "Vipfish",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/12/20/26886-8297124a3607c947.png",
+    "img": "platform/26886.png",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Food & Food delivery",
+        "id": 63,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Food Delivery",
+        "id": 204,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "New Year Festival 2026",
+        "id": 378,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Food & Food delivery",
+      "id": 63,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 29640,
+    "name": "Hvalwaters",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2022/10/21/29640-8ea76f8638bfda15.png",
+    "img": "platform/29640.png",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Food & Food delivery",
+        "id": 63,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Food Delivery",
+        "id": 204,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Food & Food delivery",
+      "id": 63,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 30934,
+    "name": "sushishop.ru",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/1/17/30934-8b1d59765b22500f.jpg",
+    "img": "platform/30934.jpg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Food & Food delivery",
+        "id": 63,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Online Food Delivery",
+        "id": 204,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Food & Food delivery",
+      "id": 63,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 95657,
+    "name": "Nespresso.press",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/4/8/95657-b4cc7cca067b4597.svg",
+    "img": "platform/95657.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Food & Food delivery",
+        "id": 63,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Household Appliances & Electronics",
+        "id": 65,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Food & Food delivery",
+      "id": 63,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 102797,
+    "name": "Emami Zanducare [ CPS ] IN",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/6/26/102797-e73770522c420f8c.svg",
+    "img": "platform/102797.svg",
+    "categories": [
+      {
+        "name": "Food & Food delivery",
+        "id": 63,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "eHealth",
+        "id": 202,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Food & Food delivery",
+      "id": 63,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 143298,
+    "name": "YAGODAR | ЯГОДАР UA",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/9/29/143298-47d2aa4f846f0fe0.svg",
+    "img": "platform/143298.svg",
+    "categories": [
+      {
+        "name": "Food & Food delivery",
+        "id": 63,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "eHealth",
+        "id": 202,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Food & Food delivery",
+      "id": 63,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 143665,
+    "name": "ThrowMeNot AE",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/9/23/143665-9e18afccf8fa6479.svg",
+    "img": "platform/143665.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Food & Food delivery",
+        "id": 63,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Food & Food delivery",
+      "id": 63,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  }
+]

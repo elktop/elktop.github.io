@@ -1,0 +1,3165 @@
+[
+  {
+    "id": 121746,
+    "name": "AvaFin (Crediton) CZ/SK",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/6/17/121746-955b922a45a40978.svg",
+    "img": "platform/121746.svg",
+    "categories": [
+      {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Loans",
+        "id": 9,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Loans",
+      "id": 9,
+      "language": "en",
+      "parent": {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 121764,
+    "name": "Сreditportal CZ/SK",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/2/13/121764-1000afbec062f1dd.svg",
+    "img": "platform/121764.svg",
+    "categories": [
+      {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Loans",
+        "id": 9,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Loans",
+      "id": 9,
+      "language": "en",
+      "parent": {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 121766,
+    "name": "Apex Affiliate Program AE GB NZ US",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/3/31/121766-4c7493002a48f112.svg",
+    "img": "platform/121766.svg",
+    "categories": [
+      {
+        "name": "Online Games",
+        "id": 6,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Game Stores and Services",
+        "id": 214,
+        "language": "en",
+        "parent": {
+          "name": "Online Games",
+          "id": 6,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Game Stores and Services",
+      "id": 214,
+      "language": "en",
+      "parent": {
+        "name": "Online Games",
+        "id": 6,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 121943,
+    "name": "DelSol MX",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/2/18/121943-43942d1ef345e90f.svg",
+    "img": "platform/121943.svg",
+    "categories": [
+      {
+        "name": "Furniture & Homeware",
+        "id": 66,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "eHealth",
+        "id": 202,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Gifts & Flowers",
+        "id": 72,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Personal Care & Pharmacy",
+        "id": 67,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Furniture & Homeware",
+      "id": 66,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 122185,
+    "name": "Manset UA",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/2/24/122185-7c005e72c39f4237.svg",
+    "img": "platform/122185.svg",
+    "categories": [
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 122340,
+    "name": "Яндекс 360 для бизнеса RU",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/3/7/122340-c8b4c68d7e5ae20a.svg",
+    "img": "platform/122340.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "IT Services & Soft",
+        "id": 122,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "IT Services & Soft",
+      "id": 122,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 124239,
+    "name": "2ndNumber.tel Virtual SMS",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/3/11/124239-6d48ab2205788082.svg",
+    "img": "platform/124239.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "IT Services & Soft",
+        "id": 122,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Mobile Services",
+        "id": 115,
+        "language": "en",
+        "parent": {
+          "name": "Mobile Programs",
+          "id": 79,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Mobile Programs",
+        "id": 79,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Utilities",
+        "id": 113,
+        "language": "en",
+        "parent": {
+          "name": "Mobile Programs",
+          "id": 79,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Telecommunications",
+        "id": 20,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "IT Services & Soft",
+      "id": 122,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 124270,
+    "name": "Phooto BR",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/3/12/124270-02f854e8979d56ec.svg",
+    "img": "platform/124270.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Photography",
+        "id": 309,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Photography",
+      "id": 309,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 124592,
+    "name": "Box Many GEOs",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/3/20/124592-821ac000d1128ee3.svg",
+    "img": "platform/124592.svg",
+    "categories": [
+      {
+        "name": "Online Education",
+        "id": 98,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Other Services",
+        "id": 93,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Jobs and freelance",
+        "id": 257,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "B2B Online Services",
+        "id": 206,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "IT Services & Soft",
+        "id": 122,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Movies & Music",
+        "id": 203,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Telecommunications",
+        "id": 20,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Online Education",
+      "id": 98,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 124769,
+    "name": "Онлайн-школа Вебиум",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/3/27/124769-1992e349a14022ed.svg",
+    "img": "platform/124769.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Online Education",
+        "id": 98,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Online Education",
+      "id": 98,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 124842,
+    "name": "Planet Sports Asia [CPS] ID",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/3/21/124842-58d2e6deb8be9e60.svg",
+    "img": "platform/124842.svg",
+    "categories": [
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Sports & Outdoor",
+        "id": 85,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 124949,
+    "name": "Only-me RU",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/6/19/124949-c09fb6230ed2b35c.svg",
+    "img": "platform/124949.svg",
+    "categories": [
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 124955,
+    "name": "Ladymakeup PL, IL",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/4/15/124955-84952fafc86da2a9.svg",
+    "img": "platform/124955.svg",
+    "categories": [
+      {
+        "name": "Personal Care & Pharmacy",
+        "id": 67,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Personal Care & Pharmacy",
+      "id": 67,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 125451,
+    "name": "Go Colors [CPS] IN",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/4/23/125451-6de99f34268210d1.svg",
+    "img": "platform/125451.svg",
+    "categories": [
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 125954,
+    "name": "LETOILE AE QA",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/6/10/125954-6c40181500fc6d3b.svg",
+    "img": "platform/125954.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Personal Care & Pharmacy",
+        "id": 67,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Personal Care & Pharmacy",
+      "id": 67,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 126715,
+    "name": "Bellroy Many GEOs",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/4/25/126715-c01893690c7f63c7.svg",
+    "img": "platform/126715.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 127034,
+    "name": "GGPick [CPS] ManyGEOs",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/5/30/127034-076b839dea3f9f0b.svg",
+    "img": "platform/127034.svg",
+    "categories": [
+      {
+        "name": "Online Games",
+        "id": 6,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Other Services",
+        "id": 93,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Game Stores and Services",
+        "id": 214,
+        "language": "en",
+        "parent": {
+          "name": "Online Games",
+          "id": 6,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Client Games",
+        "id": 254,
+        "language": "en",
+        "parent": {
+          "name": "Online Games",
+          "id": 6,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Movies & Music",
+        "id": 203,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Other Services",
+      "id": 93,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 127037,
+    "name": "Notta AI WW",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/5/21/127037-ca7b0cd155d1fced.svg",
+    "img": "platform/127037.svg",
+    "categories": [
+      {
+        "name": "Other Services",
+        "id": 93,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "B2B Online Services",
+        "id": 206,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "IT Services & Soft",
+        "id": 122,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Other Services",
+      "id": 93,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 127045,
+    "name": "Picsart WW",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/4/24/127045-ebaa8747efb1afd1.svg",
+    "img": "platform/127045.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Other Services",
+        "id": 93,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Jobs and freelance",
+        "id": 257,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Photography",
+        "id": 309,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Movies & Music",
+        "id": 203,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "IT Services & Soft",
+        "id": 122,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Other Services",
+      "id": 93,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 127068,
+    "name": "Insperia RU",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/10/24/127068-45f464ade4ce0274.svg",
+    "img": "platform/127068.svg",
+    "categories": [
+      {
+        "name": "Online Education",
+        "id": 98,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Online Education",
+      "id": 98,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 127996,
+    "name": "AOMEI [CPS] WW",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/5/27/127996-f450da1da49bf0dd.svg",
+    "img": "platform/127996.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "IT Services & Soft",
+        "id": 122,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "IT Services & Soft",
+      "id": 122,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 128030,
+    "name": "Clove Oral Care [ CPS ] IN",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/7/2/128030-2580d9dc2dcae5bb.svg",
+    "img": "platform/128030.svg",
+    "categories": [
+      {
+        "name": "Personal Care & Pharmacy",
+        "id": 67,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Personal Care & Pharmacy",
+      "id": 67,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 128491,
+    "name": "WAUDOG UA",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/10/16/128491-9b589f127f6679c5.svg",
+    "img": "platform/128491.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Pets",
+        "id": 74,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Pets",
+      "id": 74,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 128889,
+    "name": "Litgorod RU",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/5/28/128889-2ad9e54782181a9c.svg",
+    "img": "platform/128889.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Books",
+        "id": 70,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Books",
+      "id": 70,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 128892,
+    "name": "7way PL, FR, IT, ES, UK",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/6/27/128892-732130a199ae3178.svg",
+    "img": "platform/128892.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Household Appliances & Electronics",
+        "id": 65,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Household Appliances & Electronics",
+      "id": 65,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 128994,
+    "name": "Point Blank [CPP] RU + CIS",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/5/23/128994-826bb003f87bd78a.svg",
+    "img": "platform/128994.svg",
+    "categories": [
+      {
+        "name": "Client Games",
+        "id": 254,
+        "language": "en",
+        "parent": {
+          "name": "Online Games",
+          "id": 6,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Games",
+        "id": 6,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Client Games",
+      "id": 254,
+      "language": "en",
+      "parent": {
+        "name": "Online Games",
+        "id": 6,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 130084,
+    "name": "HDFC Pixel Credit Card [ CPL ] IN",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/6/16/130084-e816c7e3c4a7ef76.svg",
+    "img": "platform/130084.svg",
+    "categories": [
+      {
+        "name": "Insurance",
+        "id": 37,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Credit Cards",
+        "id": 10,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Mortgage",
+        "id": 107,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Car Loans",
+        "id": 83,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Payday Loans",
+        "id": 105,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Deposits",
+        "id": 50,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Debit cards",
+        "id": 88,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Loans",
+        "id": 9,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Credit Services, Cash Management Services",
+        "id": 106,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Forex",
+        "id": 82,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Investments",
+        "id": 126,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Insurance",
+      "id": 37,
+      "language": "en",
+      "parent": {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 130132,
+    "name": "Forsaken World: Возрождение [CPP, Android] RU + CIS",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/8/11/130132-a17d279d5184b780.svg",
+    "img": "platform/130132.svg",
+    "categories": [
+      {
+        "name": "Online Games",
+        "id": 6,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Mobile Games",
+        "id": 213,
+        "language": "en",
+        "parent": {
+          "name": "Online Games",
+          "id": 6,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Mobile Games",
+      "id": 213,
+      "language": "en",
+      "parent": {
+        "name": "Online Games",
+        "id": 6,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 130741,
+    "name": "Corsair WW",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/10/27/130741-4902ff414d2f0ee9.svg",
+    "img": "platform/130741.svg",
+    "categories": [
+      {
+        "name": "Hobby & Stationery",
+        "id": 89,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Smart Home",
+        "id": 198,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Household Appliances & Electronics",
+        "id": 65,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Hobby & Stationery",
+      "id": 89,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 130818,
+    "name": "WLW B2B Directory Affiliate Program",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/8/12/130818-815f443d1a6e74a8.svg",
+    "img": "platform/130818.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "B2B Online Services",
+        "id": 206,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "B2B Online Services",
+      "id": 206,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 130820,
+    "name": "Vigbo RU",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/7/3/130820-90ef8f0a4ab07715.svg",
+    "img": "platform/130820.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "IT Services & Soft",
+        "id": 122,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "IT Services & Soft",
+      "id": 122,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 130916,
+    "name": "GGDrop.com [CPS] Many GEOs",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/7/21/130916-fd959b6de25ad3bb.svg",
+    "img": "platform/130916.svg",
+    "categories": [
+      {
+        "name": "Online Games",
+        "id": 6,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Game Stores and Services",
+        "id": 214,
+        "language": "en",
+        "parent": {
+          "name": "Online Games",
+          "id": 6,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Game Stores and Services",
+      "id": 214,
+      "language": "en",
+      "parent": {
+        "name": "Online Games",
+        "id": 6,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 131144,
+    "name": "Boardmix WW",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/6/25/131144-a0c2e90c6a9ea7ec.svg",
+    "img": "platform/131144.svg",
+    "categories": [
+      {
+        "name": "IT Services & Soft",
+        "id": 122,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Online Education",
+        "id": 98,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "IT Services & Soft",
+      "id": 122,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 131724,
+    "name": "Armatatour RU",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/7/1/131724-cf32a8a89265588f.svg",
+    "img": "platform/131724.svg",
+    "categories": [
+      {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Package Holidays",
+        "id": 45,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Package Holidays",
+      "id": 45,
+      "language": "en",
+      "parent": {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 131897,
+    "name": "Western Union Many GEOs",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/7/21/131897-6859ac500c8fed45.svg",
+    "img": "platform/131897.svg",
+    "categories": [
+      {
+        "name": "Loans",
+        "id": 9,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Credit Services, Cash Management Services",
+        "id": 106,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Forex",
+        "id": 82,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Investments",
+        "id": 126,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Insurance",
+        "id": 37,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Credit Cards",
+        "id": 10,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Mortgage",
+        "id": 107,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Car Loans",
+        "id": 83,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Payday Loans",
+        "id": 105,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Deposits",
+        "id": 50,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Debit cards",
+        "id": 88,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Loans",
+      "id": 9,
+      "language": "en",
+      "parent": {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 132842,
+    "name": "ProHoster WW",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/7/16/132842-d9ea6b9dab0d1842.svg",
+    "img": "platform/132842.svg",
+    "categories": [
+      {
+        "name": "IT Services & Soft",
+        "id": 122,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "IT Services & Soft",
+      "id": 122,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 134816,
+    "name": "100балльный репетитор RU",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/9/24/134816-24b933507cb7efc9.svg",
+    "img": "platform/134816.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Online Education",
+        "id": 98,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "New Year Festival 2026",
+        "id": 378,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Online Education",
+      "id": 98,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 134970,
+    "name": "Кореана RU",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/7/31/134970-0547af589aeb553b.svg",
+    "img": "platform/134970.svg",
+    "categories": [
+      {
+        "name": "Car & Bike Accessories",
+        "id": 92,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Car & Bike Accessories",
+      "id": 92,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 135105,
+    "name": "Top of the Results AU CA GB NZ US",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/8/1/135105-880a9da5ea83c519.svg",
+    "img": "platform/135105.svg",
+    "categories": [
+      {
+        "name": "IT Services & Soft",
+        "id": 122,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Utilities",
+        "id": 113,
+        "language": "en",
+        "parent": {
+          "name": "Mobile Programs",
+          "id": 79,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Mobile Programs",
+        "id": 79,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "IT Services & Soft",
+      "id": 122,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 135305,
+    "name": "CVC BR (EN)",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/8/5/135305-adde20263d9509b9.svg",
+    "img": "platform/135305.svg",
+    "categories": [
+      {
+        "name": "Hotels",
+        "id": 41,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Vacation Rentals",
+        "id": 212,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Flights",
+        "id": 44,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Hotels",
+      "id": 41,
+      "language": "en",
+      "parent": {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 136045,
+    "name": "Cleaning Superstore UAE",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/11/11/136045-0b181b613d345d02.svg",
+    "img": "platform/136045.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Marketplaces (including Chinese Stores)",
+        "id": 96,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Marketplaces (including Chinese Stores)",
+      "id": 96,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 138313,
+    "name": "Speech2Text RU",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/9/19/138313-64d350702d6136c4.svg",
+    "img": "platform/138313.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "IT Services & Soft",
+        "id": 122,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "IT Services & Soft",
+      "id": 122,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 140351,
+    "name": "Converse [CPS] IN",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/8/11/140351-f5f453270e3e5774.svg",
+    "img": "platform/140351.svg",
+    "categories": [
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 140380,
+    "name": "ЕГЭLand RU",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/9/10/140380-01222bd603311c61.svg",
+    "img": "platform/140380.svg",
+    "categories": [
+      {
+        "name": "Online Education",
+        "id": 98,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Online Education",
+      "id": 98,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 140389,
+    "name": "Haus & kinder [ CPS ] IN",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/8/11/140389-53558af5f57d29e0.svg",
+    "img": "platform/140389.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Furniture & Homeware",
+        "id": 66,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Furniture & Homeware",
+      "id": 66,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 140449,
+    "name": "AirAdvisor",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/9/30/140449-5b26b5d7ad91610a.svg",
+    "img": "platform/140449.svg",
+    "categories": [
+      {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Flights",
+        "id": 44,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Flights",
+      "id": 44,
+      "language": "en",
+      "parent": {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 141650,
+    "name": "Dragon Egg [CPP, Android] RU + CIS",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/8/18/141650-5a644ee927d67314.svg",
+    "img": "platform/141650.svg",
+    "categories": [
+      {
+        "name": "Mobile Games",
+        "id": 213,
+        "language": "en",
+        "parent": {
+          "name": "Online Games",
+          "id": 6,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Games",
+        "id": 6,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Mobile Games",
+      "id": 213,
+      "language": "en",
+      "parent": {
+        "name": "Online Games",
+        "id": 6,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 142242,
+    "name": "Shopee [CPS] VN",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/8/28/142242-b01ebf2568b57d3d.svg",
+    "img": "platform/142242.svg",
+    "categories": [
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Personal Care & Pharmacy",
+        "id": 67,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Books",
+        "id": 70,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Liquors",
+        "id": 199,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Tobacco",
+        "id": 201,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Hobby & Stationery",
+        "id": 89,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Hand & Power tools",
+        "id": 102,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Household Appliances & Electronics",
+        "id": 65,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Cars & Bikes",
+        "id": 196,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Smart Home",
+        "id": 198,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Pets",
+        "id": 74,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "eHealth",
+        "id": 202,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Car & Bike Accessories",
+        "id": 92,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Furniture & Homeware",
+        "id": 66,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Toys, Kids & Babies",
+        "id": 69,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Gifts & Flowers",
+        "id": 72,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Jewelry & Luxury Goods",
+        "id": 200,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Sports & Outdoor",
+        "id": 85,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Marketplaces (including Chinese Stores)",
+        "id": 96,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Food & Food delivery",
+        "id": 63,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 142245,
+    "name": "Malare - завод красок для дома и бизнеса RU",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/9/17/142245-8a7b4997b4991000.svg",
+    "img": "platform/142245.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Furniture & Homeware",
+        "id": 66,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Hand & Power tools",
+        "id": 102,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Furniture & Homeware",
+      "id": 66,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 142248,
+    "name": "Maxmassage RU",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/9/9/142248-ca5a9285df31ed2d.svg",
+    "img": "platform/142248.svg",
+    "categories": [
+      {
+        "name": "Hobby & Stationery",
+        "id": 89,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Personal Care & Pharmacy",
+        "id": 67,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Household Appliances & Electronics",
+        "id": 65,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Hobby & Stationery",
+      "id": 89,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 142763,
+    "name": "Stories of Bible AU CA UK US",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/9/16/142763-97755456c52de18f.svg",
+    "img": "platform/142763.svg",
+    "categories": [
+      {
+        "name": "Books",
+        "id": 70,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Books",
+      "id": 70,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 142825,
+    "name": "Ticombo - Global Event Tickets Many GEOs",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/10/13/142825-77f616015645fd63.svg",
+    "img": "platform/142825.svg",
+    "categories": [
+      {
+        "name": "Event Tickets & Entertainments",
+        "id": 99,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Event Tickets & Entertainments",
+      "id": 99,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 143287,
+    "name": "Meibi MX",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/9/18/143287-d94fa4009de80272.svg",
+    "img": "platform/143287.svg",
+    "categories": [
+      {
+        "name": "Adult",
+        "id": 216,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Adult",
+      "id": 216,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 143298,
+    "name": "YAGODAR | ЯГОДАР UA",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/9/29/143298-47d2aa4f846f0fe0.svg",
+    "img": "platform/143298.svg",
+    "categories": [
+      {
+        "name": "Food & Food delivery",
+        "id": 63,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "eHealth",
+        "id": 202,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Food & Food delivery",
+      "id": 63,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 143665,
+    "name": "ThrowMeNot AE",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/9/23/143665-9e18afccf8fa6479.svg",
+    "img": "platform/143665.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Food & Food delivery",
+        "id": 63,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Food & Food delivery",
+      "id": 63,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 143666,
+    "name": "Bank Neo [Android, CPA] ID",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/9/23/143666-f6dfae79c24857e0.svg",
+    "img": "platform/143666.svg",
+    "categories": [
+      {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Payday Loans",
+        "id": 105,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Deposits",
+        "id": 50,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Debit cards",
+        "id": 88,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Insurance",
+        "id": 37,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Credit Cards",
+        "id": 10,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Mortgage",
+        "id": 107,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Car Loans",
+        "id": 83,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Loans",
+        "id": 9,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Credit Services, Cash Management Services",
+        "id": 106,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Forex",
+        "id": 82,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Investments",
+        "id": 126,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Payday Loans",
+      "id": 105,
+      "language": "en",
+      "parent": {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 143711,
+    "name": "Ricewear RU",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/10/27/143711-8105abd9b6260961.svg",
+    "img": "platform/143711.svg",
+    "categories": [
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 144021,
+    "name": "Альмак Прокат RU",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/10/1/144021-ad634b0d7ff530b9.svg",
+    "img": "platform/144021.svg",
+    "categories": [
+      {
+        "name": "Car Rentals",
+        "id": 91,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Cars",
+        "id": 256,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Car Rentals",
+      "id": 91,
+      "language": "en",
+      "parent": {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 144071,
+    "name": "Kion RU",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/11/14/144071-ec57fec967679867.svg",
+    "img": "platform/144071.svg",
+    "categories": [
+      {
+        "name": "IT Services & Soft",
+        "id": 122,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "IT Services & Soft",
+      "id": 122,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 144262,
+    "name": "Aramya [CPS] IN",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/10/6/144262-e1305638412aa436.svg",
+    "img": "platform/144262.svg",
+    "categories": [
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  }
+]

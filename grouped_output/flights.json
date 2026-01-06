@@ -1,0 +1,356 @@
+[
+  {
+    "id": 1678,
+    "name": "Aviasales WW",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/2/5/1678-2b9e921ee7b75847.png",
+    "img": "platform/1678.png",
+    "categories": [
+      {
+        "name": "Flights",
+        "id": 44,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Flights",
+      "id": 44,
+      "language": "en",
+      "parent": {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 13688,
+    "name": "JetRadar.com INT",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/2/5/13688-8f7d86cb3762b22b.png",
+    "img": "platform/13688.png",
+    "categories": [
+      {
+        "name": "Flights",
+        "id": 44,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Flights",
+      "id": 44,
+      "language": "en",
+      "parent": {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 14080,
+    "name": "AnywayAnyday RU UA DE US",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/2/8/14080-2215677fade7698d.svg",
+    "img": "platform/14080.svg",
+    "categories": [
+      {
+        "name": "Flights",
+        "id": 44,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Oktoberfest 2025",
+        "id": 373,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Flights",
+      "id": 44,
+      "language": "en",
+      "parent": {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 14674,
+    "name": "Aviakassa RU",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/7/7/14674-a62f87315004bca5.png",
+    "img": "platform/14674.png",
+    "categories": [
+      {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Flights",
+        "id": 44,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "11.11 & Black Friday 2025",
+        "id": 377,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Flights",
+      "id": 44,
+      "language": "en",
+      "parent": {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 29892,
+    "name": "Flysmartavia",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2022/11/18/29892-62c31413941889cd.jpg",
+    "img": "platform/29892.jpg",
+    "categories": [
+      {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Flights",
+        "id": 44,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Flights",
+      "id": 44,
+      "language": "en",
+      "parent": {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 39738,
+    "name": "Mytrip.com WW",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/12/3/39738-7fc9e48be7f54b93.svg",
+    "img": "platform/39738.svg",
+    "categories": [
+      {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Flights",
+        "id": 44,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Flights",
+      "id": 44,
+      "language": "en",
+      "parent": {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 39739,
+    "name": "Gotogate WW",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/30/39739-d864f35e57eaf4c2.svg",
+    "img": "platform/39739.svg",
+    "categories": [
+      {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Flights",
+        "id": 44,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Flights",
+      "id": 44,
+      "language": "en",
+      "parent": {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 77120,
+    "name": "Авиа в Т-Банке RU",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/24/77120-f4e5349351f557ec.svg",
+    "img": "platform/77120.svg",
+    "categories": [
+      {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Flights",
+        "id": 44,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "11.11 & Black Friday 2025",
+        "id": 377,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Flights",
+      "id": 44,
+      "language": "en",
+      "parent": {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 140449,
+    "name": "AirAdvisor",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/9/30/140449-5b26b5d7ad91610a.svg",
+    "img": "platform/140449.svg",
+    "categories": [
+      {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Flights",
+        "id": 44,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Flights",
+      "id": 44,
+      "language": "en",
+      "parent": {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      }
+    }
+  }
+]

@@ -1,0 +1,144 @@
+[
+  {
+    "id": 36179,
+    "name": "Smart Spending l Snoop Finance [CPA, Android] UK",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/5/17/36179-e4826739081548be.svg",
+    "img": "platform/36179.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Mobile Services",
+        "id": 115,
+        "language": "en",
+        "parent": {
+          "name": "Mobile Programs",
+          "id": 79,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Mobile Programs",
+        "id": 79,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Mobile Services",
+      "id": 115,
+      "language": "en",
+      "parent": {
+        "name": "Mobile Programs",
+        "id": 79,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 39241,
+    "name": "Headway Many Geos",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/10/17/39241-a0dc3269d72f438a.svg",
+    "img": "platform/39241.svg",
+    "categories": [
+      {
+        "name": "Mobile Programs",
+        "id": 79,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Mobile Services",
+        "id": 115,
+        "language": "en",
+        "parent": {
+          "name": "Mobile Programs",
+          "id": 79,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Other Services",
+        "id": 93,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "IT Services & Soft",
+        "id": 122,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Mobile Services",
+      "id": 115,
+      "language": "en",
+      "parent": {
+        "name": "Mobile Programs",
+        "id": 79,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 98613,
+    "name": "Italki [CPA, iOS + Android] WW",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/3/18/98613-58dcbe2472a204ef.svg",
+    "img": "platform/98613.svg",
+    "categories": [
+      {
+        "name": "Mobile Programs",
+        "id": 79,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Mobile Services",
+        "id": 115,
+        "language": "en",
+        "parent": {
+          "name": "Mobile Programs",
+          "id": 79,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Mobile Services",
+      "id": 115,
+      "language": "en",
+      "parent": {
+        "name": "Mobile Programs",
+        "id": 79,
+        "language": "en",
+        "parent": null
+      }
+    }
+  }
+]

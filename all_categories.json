@@ -1,0 +1,292 @@
+[
+  {
+    "label": "Package Holidays",
+    "value": "package-holidays",
+    "count": 7
+  },
+  {
+    "label": "Buses",
+    "value": "buses",
+    "count": 1
+  },
+  {
+    "label": "Flights",
+    "value": "flights",
+    "count": 9
+  },
+  {
+    "label": "Hotels",
+    "value": "hotels",
+    "count": 11
+  },
+  {
+    "label": "Trains",
+    "value": "trains",
+    "count": 1
+  },
+  {
+    "label": "Tours",
+    "value": "tours",
+    "count": 2
+  },
+  {
+    "label": "Cruises",
+    "value": "cruises",
+    "count": 3
+  },
+  {
+    "label": "Vacation Rentals",
+    "value": "vacation-rentals",
+    "count": 1
+  },
+  {
+    "label": "Car Rentals",
+    "value": "car-rentals",
+    "count": 7
+  },
+  {
+    "label": "Pets",
+    "value": "pets",
+    "count": 5
+  },
+  {
+    "label": "Marketplaces (including Chinese Stores)",
+    "value": "marketplaces-including-chinese-stores",
+    "count": 13
+  },
+  {
+    "label": "Books",
+    "value": "books",
+    "count": 6
+  },
+  {
+    "label": "Personal Care & Pharmacy",
+    "value": "personal-care-pharmacy",
+    "count": 47
+  },
+  {
+    "label": "Food & Food delivery",
+    "value": "food-food-delivery",
+    "count": 9
+  },
+  {
+    "label": "Adult",
+    "value": "adult",
+    "count": 4
+  },
+  {
+    "label": "Car & Bike Accessories",
+    "value": "car-bike-accessories",
+    "count": 5
+  },
+  {
+    "label": "Hobby & Stationery",
+    "value": "hobby-stationery",
+    "count": 11
+  },
+  {
+    "label": "Toys, Kids & Babies",
+    "value": "toys-kids-babies",
+    "count": 6
+  },
+  {
+    "label": "Hand & Power tools",
+    "value": "hand-power-tools",
+    "count": 8
+  },
+  {
+    "label": "Furniture & Homeware",
+    "value": "furniture-homeware",
+    "count": 22
+  },
+  {
+    "label": "Household Appliances & Electronics",
+    "value": "household-appliances-electronics",
+    "count": 51
+  },
+  {
+    "label": "Jewelry & Luxury Goods",
+    "value": "jewelry-luxury-goods",
+    "count": 3
+  },
+  {
+    "label": "eHealth",
+    "value": "ehealth",
+    "count": 3
+  },
+  {
+    "label": "Cars & Bikes",
+    "value": "cars-bikes",
+    "count": 6
+  },
+  {
+    "label": "Sports & Outdoor",
+    "value": "sports-outdoor",
+    "count": 12
+  },
+  {
+    "label": "Gifts & Flowers",
+    "value": "gifts-flowers",
+    "count": 4
+  },
+  {
+    "label": "Smart Home",
+    "value": "smart-home",
+    "count": 3
+  },
+  {
+    "label": "Clothing, Footwear, Accessories",
+    "value": "clothing-footwear-accessories",
+    "count": 104
+  },
+  {
+    "label": "Fitness",
+    "value": "fitness",
+    "count": 4
+  },
+  {
+    "label": "Transportation services",
+    "value": "transportation-services",
+    "count": 1
+  },
+  {
+    "label": "Photography",
+    "value": "photography",
+    "count": 2
+  },
+  {
+    "label": "Other Services",
+    "value": "other-services",
+    "count": 30
+  },
+  {
+    "label": "Online Education",
+    "value": "online-education",
+    "count": 50
+  },
+  {
+    "label": "Art & Collecting",
+    "value": "art-collecting",
+    "count": 1
+  },
+  {
+    "label": "Event Tickets & Entertainments",
+    "value": "event-tickets-entertainments",
+    "count": 6
+  },
+  {
+    "label": "Jobs and freelance",
+    "value": "jobs-and-freelance",
+    "count": 4
+  },
+  {
+    "label": "B2B Online Services",
+    "value": "b2b-online-services",
+    "count": 6
+  },
+  {
+    "label": "Healthcare Services",
+    "value": "healthcare-services",
+    "count": 2
+  },
+  {
+    "label": "Dating Services",
+    "value": "dating-services",
+    "count": 2
+  },
+  {
+    "label": "IT Services & Soft",
+    "value": "it-services-soft",
+    "count": 35
+  },
+  {
+    "label": "News and Media",
+    "value": "news-and-media",
+    "count": 1
+  },
+  {
+    "label": "Cars",
+    "value": "cars",
+    "count": 1
+  },
+  {
+    "label": "Telecommunications",
+    "value": "telecommunications",
+    "count": 5
+  },
+  {
+    "label": "Online Food Delivery",
+    "value": "online-food-delivery",
+    "count": 23
+  },
+  {
+    "label": "Movies & Music",
+    "value": "movies-music",
+    "count": 4
+  },
+  {
+    "label": "Credit Cards",
+    "value": "credit-cards",
+    "count": 7
+  },
+  {
+    "label": "Payday Loans",
+    "value": "payday-loans",
+    "count": 6
+  },
+  {
+    "label": "Deposits",
+    "value": "deposits",
+    "count": 2
+  },
+  {
+    "label": "Investments",
+    "value": "investments",
+    "count": 3
+  },
+  {
+    "label": "Loans",
+    "value": "loans",
+    "count": 13
+  },
+  {
+    "label": "Insurance",
+    "value": "insurance",
+    "count": 8
+  },
+  {
+    "label": "Credit Services, Cash Management Services",
+    "value": "credit-services-cash-management-services",
+    "count": 3
+  },
+  {
+    "label": "Mobile Games",
+    "value": "mobile-games",
+    "count": 2
+  },
+  {
+    "label": "Game Stores and Services",
+    "value": "game-stores-and-services",
+    "count": 17
+  },
+  {
+    "label": "Browser Games",
+    "value": "browser-games",
+    "count": 2
+  },
+  {
+    "label": "Client Games",
+    "value": "client-games",
+    "count": 10
+  },
+  {
+    "label": "Mobile Services",
+    "value": "mobile-services",
+    "count": 3
+  },
+  {
+    "label": "Mobile E-commerce",
+    "value": "mobile-e-commerce",
+    "count": 1
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "id": 9467,
+    "name": "Gold UA",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2020/10/5/9467-9908bb2f0d9c5985.png",
+    "img": "platform/9467.png",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Jewelry & Luxury Goods",
+        "id": 200,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Jewelry & Luxury Goods",
+      "id": 200,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 23259,
+    "name": "Часы Молния Many GEOs",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/9/23259-2df8ba27ac7adc41.svg",
+    "img": "platform/23259.svg",
+    "categories": [
+      {
+        "name": "Jewelry & Luxury Goods",
+        "id": 200,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Jewelry & Luxury Goods",
+      "id": 200,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 91169,
+    "name": "Mie.ru",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/4/16/91169-f7f5688832b16655.svg",
+    "img": "platform/91169.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Jewelry & Luxury Goods",
+        "id": 200,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Oktoberfest 2025",
+        "id": 373,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Jewelry & Luxury Goods",
+      "id": 200,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  }
+]

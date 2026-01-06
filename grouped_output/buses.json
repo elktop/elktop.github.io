@@ -1,0 +1,38 @@
+[
+  {
+    "id": 16290,
+    "name": "Unitiki",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2020/10/1/16290-04ff2d9e2afdac2b.jpg",
+    "img": "platform/16290.jpg",
+    "categories": [
+      {
+        "name": "Buses",
+        "id": 207,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Buses",
+      "id": 207,
+      "language": "en",
+      "parent": {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      }
+    }
+  }
+]

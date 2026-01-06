@@ -1,0 +1,38 @@
+[
+  {
+    "id": 48884,
+    "name": "Super Interessante BR (Grupo Abril)",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/10/48884-8c9e89a73a818031.svg",
+    "img": "platform/48884.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "News and Media",
+        "id": 310,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "News and Media",
+      "id": 310,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  }
+]

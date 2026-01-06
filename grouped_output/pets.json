@@ -1,0 +1,182 @@
+[
+  {
+    "id": 26623,
+    "name": "",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/5/24/26623-6c0d1047b2f1b43b.svg",
+    "img": "platform/26623.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Pets",
+        "id": 74,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Pets",
+      "id": 74,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 27653,
+    "name": "ЗооОптТорг",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2022/2/4/27653-21868e7ea453f354.jpg",
+    "img": "platform/27653.jpg",
+    "categories": [
+      {
+        "name": "Pets",
+        "id": 74,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Pets",
+      "id": 74,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 28221,
+    "name": "Zooplus DE",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/9/6/28221-2ad1b703831233d0.svg",
+    "img": "platform/28221.svg",
+    "categories": [
+      {
+        "name": "Pets",
+        "id": 74,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Pets",
+      "id": 74,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 40716,
+    "name": "Старая Ферма",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/14/40716-6140055e55c7fb39.svg",
+    "img": "platform/40716.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Pets",
+        "id": 74,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Pets",
+      "id": 74,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 128491,
+    "name": "WAUDOG UA",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/10/16/128491-9b589f127f6679c5.svg",
+    "img": "platform/128491.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Pets",
+        "id": 74,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Pets",
+      "id": 74,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    }
+  }
+]

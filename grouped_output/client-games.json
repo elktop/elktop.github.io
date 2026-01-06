@@ -1,0 +1,362 @@
+[
+  {
+    "id": 22174,
+    "name": "Nextrp [CPP] RU + CIS",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2020/11/19/22174-f70a9ef601ddd3b0.png",
+    "img": "platform/22174.png",
+    "categories": [
+      {
+        "name": "Online Games",
+        "id": 6,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Client Games",
+        "id": 254,
+        "language": "en",
+        "parent": {
+          "name": "Online Games",
+          "id": 6,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Client Games",
+      "id": 254,
+      "language": "en",
+      "parent": {
+        "name": "Online Games",
+        "id": 6,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 22185,
+    "name": "Ragnarok Online [CPP] Many GEOs",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/7/26/22185-6b3cd03c294a34e0.svg",
+    "img": "platform/22185.svg",
+    "categories": [
+      {
+        "name": "Online Games",
+        "id": 6,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Client Games",
+        "id": 254,
+        "language": "en",
+        "parent": {
+          "name": "Online Games",
+          "id": 6,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Client Games",
+      "id": 254,
+      "language": "en",
+      "parent": {
+        "name": "Online Games",
+        "id": 6,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 22478,
+    "name": "War Thunder [CPP] Many GEOs",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/7/22478-7170f76b1adb74be.svg",
+    "img": "platform/22478.svg",
+    "categories": [
+      {
+        "name": "Client Games",
+        "id": 254,
+        "language": "en",
+        "parent": {
+          "name": "Online Games",
+          "id": 6,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Games",
+        "id": 6,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Client Games",
+      "id": 254,
+      "language": "en",
+      "parent": {
+        "name": "Online Games",
+        "id": 6,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 22781,
+    "name": "World of Tanks [CPP + Winback] WW",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/7/22781-56fe0b16051f01e5.svg",
+    "img": "platform/22781.svg",
+    "categories": [
+      {
+        "name": "Client Games",
+        "id": 254,
+        "language": "en",
+        "parent": {
+          "name": "Online Games",
+          "id": 6,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Games",
+        "id": 6,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Client Games",
+      "id": 254,
+      "language": "en",
+      "parent": {
+        "name": "Online Games",
+        "id": 6,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 22948,
+    "name": "Crossout [CPP] Many GEOs",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/7/22948-6a9cc523178ac9fb.svg",
+    "img": "platform/22948.svg",
+    "categories": [
+      {
+        "name": "Client Games",
+        "id": 254,
+        "language": "en",
+        "parent": {
+          "name": "Online Games",
+          "id": 6,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Games",
+        "id": 6,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Client Games",
+      "id": 254,
+      "language": "en",
+      "parent": {
+        "name": "Online Games",
+        "id": 6,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 22964,
+    "name": "Star Conflict [CPP] Many GEOs",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/7/22964-5046104b306deff7.svg",
+    "img": "platform/22964.svg",
+    "categories": [
+      {
+        "name": "Client Games",
+        "id": 254,
+        "language": "en",
+        "parent": {
+          "name": "Online Games",
+          "id": 6,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Games",
+        "id": 6,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Client Games",
+      "id": 254,
+      "language": "en",
+      "parent": {
+        "name": "Online Games",
+        "id": 6,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 23335,
+    "name": "Малиновка [CPP] RU+CIS",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/4/19/23335-2ffc0b90686fbf90.svg",
+    "img": "platform/23335.svg",
+    "categories": [
+      {
+        "name": "Online Games",
+        "id": 6,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Client Games",
+        "id": 254,
+        "language": "en",
+        "parent": {
+          "name": "Online Games",
+          "id": 6,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Client Games",
+      "id": 254,
+      "language": "en",
+      "parent": {
+        "name": "Online Games",
+        "id": 6,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 24821,
+    "name": "Enlisted [CPP] Many GEOs",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/12/24821-431828689c39b053.svg",
+    "img": "platform/24821.svg",
+    "categories": [
+      {
+        "name": "Client Games",
+        "id": 254,
+        "language": "en",
+        "parent": {
+          "name": "Online Games",
+          "id": 6,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Games",
+        "id": 6,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Client Games",
+      "id": 254,
+      "language": "en",
+      "parent": {
+        "name": "Online Games",
+        "id": 6,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 33754,
+    "name": "AMAZING ONLINE [CPP] RU+CIS",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/20/33754-9450f03997edc72b.svg",
+    "img": "platform/33754.svg",
+    "categories": [
+      {
+        "name": "Online Games",
+        "id": 6,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Client Games",
+        "id": 254,
+        "language": "en",
+        "parent": {
+          "name": "Online Games",
+          "id": 6,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Client Games",
+      "id": 254,
+      "language": "en",
+      "parent": {
+        "name": "Online Games",
+        "id": 6,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 128994,
+    "name": "Point Blank [CPP] RU + CIS",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/5/23/128994-826bb003f87bd78a.svg",
+    "img": "platform/128994.svg",
+    "categories": [
+      {
+        "name": "Client Games",
+        "id": 254,
+        "language": "en",
+        "parent": {
+          "name": "Online Games",
+          "id": 6,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Games",
+        "id": 6,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Client Games",
+      "id": 254,
+      "language": "en",
+      "parent": {
+        "name": "Online Games",
+        "id": 6,
+        "language": "en",
+        "parent": null
+      }
+    }
+  }
+]

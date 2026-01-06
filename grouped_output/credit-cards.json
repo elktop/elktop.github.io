@@ -1,0 +1,254 @@
+[
+  {
+    "id": 24964,
+    "name": "ICICI CC [CPL] IN",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/5/7/24964-fb1c4097db91a35c.png",
+    "img": "platform/24964.png",
+    "categories": [
+      {
+        "name": "Credit Cards",
+        "id": 10,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Credit Cards",
+      "id": 10,
+      "language": "en",
+      "parent": {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 25915,
+    "name": "IndusInd Tiger Credit Card [CPA] IN",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/9/6/25915-3ff94aa55fff6515.jpg",
+    "img": "platform/25915.jpg",
+    "categories": [
+      {
+        "name": "Credit Cards",
+        "id": 10,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Credit Cards",
+      "id": 10,
+      "language": "en",
+      "parent": {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 32565,
+    "name": "SBI CC [CPA] IN",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/7/6/32565-fa7f205eff8a1882.svg",
+    "img": "platform/32565.svg",
+    "categories": [
+      {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Credit Cards",
+        "id": 10,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Credit Cards",
+      "id": 10,
+      "language": "en",
+      "parent": {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 42701,
+    "name": "Axis bank CC [CPA] IN",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/9/27/42701-11b21ed6d62b70a0.svg",
+    "img": "platform/42701.svg",
+    "categories": [
+      {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Credit Cards",
+        "id": 10,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Credit Cards",
+      "id": 10,
+      "language": "en",
+      "parent": {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 102424,
+    "name": "Bajaj Finserv [EMI Card] IN",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/6/12/102424-09fb2f107b651f5c.svg",
+    "img": "platform/102424.svg",
+    "categories": [
+      {
+        "name": "Credit Cards",
+        "id": 10,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Credit Cards",
+      "id": 10,
+      "language": "en",
+      "parent": {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 111413,
+    "name": "Tata Neu Credit Card [CPD] IN",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/10/9/111413-419c58ed75bb2dd9.svg",
+    "img": "platform/111413.svg",
+    "categories": [
+      {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Credit Cards",
+        "id": 10,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Credit Cards",
+      "id": 10,
+      "language": "en",
+      "parent": {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 146567,
+    "name": "Jupiter Money [ Android , CPA ] IN",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/11/7/146567-c2a7d5cb27d0dbf1.svg",
+    "img": "platform/146567.svg",
+    "categories": [
+      {
+        "name": "Credit Cards",
+        "id": 10,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Credit Cards",
+      "id": 10,
+      "language": "en",
+      "parent": {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    }
+  }
+]

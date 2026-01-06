@@ -1,0 +1,74 @@
+[
+  {
+    "id": 130132,
+    "name": "Forsaken World: Возрождение [CPP, Android] RU + CIS",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/8/11/130132-a17d279d5184b780.svg",
+    "img": "platform/130132.svg",
+    "categories": [
+      {
+        "name": "Online Games",
+        "id": 6,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Mobile Games",
+        "id": 213,
+        "language": "en",
+        "parent": {
+          "name": "Online Games",
+          "id": 6,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Mobile Games",
+      "id": 213,
+      "language": "en",
+      "parent": {
+        "name": "Online Games",
+        "id": 6,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 141650,
+    "name": "Dragon Egg [CPP, Android] RU + CIS",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/8/18/141650-5a644ee927d67314.svg",
+    "img": "platform/141650.svg",
+    "categories": [
+      {
+        "name": "Mobile Games",
+        "id": 213,
+        "language": "en",
+        "parent": {
+          "name": "Online Games",
+          "id": 6,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Games",
+        "id": 6,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Mobile Games",
+      "id": 213,
+      "language": "en",
+      "parent": {
+        "name": "Online Games",
+        "id": 6,
+        "language": "en",
+        "parent": null
+      }
+    }
+  }
+]

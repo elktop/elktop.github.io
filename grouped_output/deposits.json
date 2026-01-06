@@ -1,0 +1,74 @@
+[
+  {
+    "id": 22594,
+    "name": "Kotak 811 Savings Account [CPA] IN",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/5/12/22594-1c0cd542a0dac208.svg",
+    "img": "platform/22594.svg",
+    "categories": [
+      {
+        "name": "Deposits",
+        "id": 50,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Deposits",
+      "id": 50,
+      "language": "en",
+      "parent": {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 23326,
+    "name": "IndusInd Saving Account [CPL] IN",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/9/14/23326-643bf8e62cf26fec.svg",
+    "img": "platform/23326.svg",
+    "categories": [
+      {
+        "name": "Deposits",
+        "id": 50,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Deposits",
+      "id": 50,
+      "language": "en",
+      "parent": {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    }
+  }
+]

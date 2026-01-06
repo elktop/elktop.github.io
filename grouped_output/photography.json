@@ -1,0 +1,80 @@
+[
+  {
+    "id": 121315,
+    "name": "Retouch4me WW",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/3/20/121315-2556d96d2827bae5.svg",
+    "img": "platform/121315.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Photography",
+        "id": 309,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "category": {
+      "name": "Photography",
+      "id": 309,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  },
+  {
+    "id": 124270,
+    "name": "Phooto BR",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/3/12/124270-02f854e8979d56ec.svg",
+    "img": "platform/124270.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Photography",
+        "id": 309,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "category": {
+      "name": "Photography",
+      "id": 309,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    }
+  }
+]
