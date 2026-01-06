@@ -1,11 +1,8 @@
 [
   {
-    "id": 44734,
-    "name": "",
-    "name_aliases": "travel.mts.ru, тревел., мтс, мтс путешествия, тревел мтс, МТС Travel, ьеы екфмуд",
     "site_url": "https://travel.mts.ru/",
-    "description": " ",
-    "status": "active",
+    "name": "",
+    "img": "platform/44734.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/11/3/44734-30d406936978553a.svg",
     "categories": [
       {
@@ -81,7 +78,18 @@
         }
       }
     ],
-    "img": "platform/44734.svg",
+    "id": 44734,
+    "category": {
+      "name": "Vacation Rentals",
+      "id": 212,
+      "language": "en",
+      "parent": {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      }
+    },
     "affiliate": {
       "goto_link": "https://bywiola.com/g/kuolpa81e95af0702a271a3410bd27/?erid=5jtCeReNwxHpfQTGQpwkgXt",
       "landings": [
@@ -97,17 +105,6 @@
         }
       ],
       "cashback_link_data": null
-    },
-    "category": {
-      "name": "Vacation Rentals",
-      "id": 212,
-      "language": "en",
-      "parent": {
-        "name": "Travel & Tourism",
-        "id": 40,
-        "language": "en",
-        "parent": null
-      }
     }
   }
 ]

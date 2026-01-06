@@ -1,11 +1,8 @@
 [
   {
-    "id": 36179,
-    "name": "Smart Spending l Snoop Finance [CPA, Android] UK",
-    "name_aliases": "smart Spending",
     "site_url": "https://play.google.com/store/apps/details?id=app.snoop&hl=en&gl=US",
-    "description": "Join the new offer Smart Spending l Snoop Finance [CPA, Android] UK!   \r\n\r\nFrom anywhere, at any time, on one app, you’ll have access to the discounts you love provided exclusively by your employer, including the weekly promotions when your discounts get even bigger. You can use the app to purchase Instant Vouchers and save them to a digital wallet for future use, earn Cashback when shopping online with your phone, and use Cashback towards Instant Voucher purchases to make your savings go even further! But there are heaps more features you’ll love:\r\n\r\n\r\n\tHuge choice\r\n\tOnline shopping\r\n\tIntelligent basket\r\n\tSafe & secure\r\n\tYour account\r\n\r\n\r\nAllowed traffic sources:\r\n\r\n\r\n\tMobile web\r\n\tInapp Traffic\r\n\tGoodle ads UAC\r\n\r\n\r\nProhibited traffic sources:\r\n\r\n\r\n\tSocial media (FB, Instagram, Tiktok)\r\n\tYoutube\r\n\tSnapchat\r\n\tIncentive traffic\r\n",
-    "status": "active",
+    "name": "Smart Spending l Snoop Finance [CPA, Android] UK",
+    "img": "platform/36179.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/5/17/36179-e4826739081548be.svg",
     "categories": [
       {
@@ -32,12 +29,7 @@
         "parent": null
       }
     ],
-    "img": "platform/36179.svg",
-    "affiliate": {
-      "goto_link": "https://rzekl.com/g/9ifuo3o6bg5af0702a2739c473cb39/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 36179,
     "category": {
       "name": "Mobile Services",
       "id": 115,
@@ -48,15 +40,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://rzekl.com/g/9ifuo3o6bg5af0702a2739c473cb39/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 39241,
-    "name": "Headway Many Geos",
-    "name_aliases": "Headway, хэдвэй",
     "site_url": "https://play.google.com/store/apps/details?id=com.headway.books",
-    "description": "Headway Many GEO\r\nIF You need MMP links - please request them.\r\nGEO :\r\nUK, AU, CA ,Europe, LATAM, Other\r\n\r\nTracker: Appsflyer Mobmio\r\nPaid event: subscription_success_trial, subscription_success_nontrial\r\nUser flow: app install - app open - free trial - subscription purchase\r\nAllowed traffic sources:\r\n\r\n\r\n\tIn-app\r\n\tUnity Ads\r\n\tApplovin\r\n\tBigo Ads\r\n\tMintegral\r\n\tSnapchat\r\n\tSEO\r\n\r\n\r\nVTA is allowed\r\nPostInstall - 30 days\r\nValidation process: Appsflyer +CRM\r\nNOTES:\r\n1. Name campaigns like this Agency_AppName_OS_Geo\r\n2. Avoid exceeded dimensions (don't use to many values of media_sources and other parameters), the details are there:\r\n\r\nAlso important, please always add to your links: utm_source=affiliate\r\n\r\nHard KPI:\r\n\r\n\r\n\tinstalls - 5000 per source\r\n\tfraud - not more than 20%\r\n\tretention rates - client will just look at the % of users who get back to the product after some periods from corresponding installs.\r\n\trefund rates - refunds/subscriptions, no more than 12%\r\n\tchargbacks rates - refunds/subscriptions, no more than 3%\r\n\t\r\n\tCreatives: https://drive.google.com/drive/u/0/folders/1q_1FaCqpPFVk6eN0PGkXVdSX0zM_iFhsv\r\n",
-    "status": "active",
+    "name": "Headway Many Geos",
+    "img": "platform/39241.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/10/17/39241-a0dc3269d72f438a.svg",
     "categories": [
       {
@@ -105,7 +99,18 @@
         }
       }
     ],
-    "img": "platform/39241.svg",
+    "id": 39241,
+    "category": {
+      "name": "Mobile Services",
+      "id": 115,
+      "language": "en",
+      "parent": {
+        "name": "Mobile Programs",
+        "id": 79,
+        "language": "en",
+        "parent": null
+      }
+    },
     "affiliate": {
       "goto_link": "https://dorinebeaumont.com/g/0lsosy937l5af0702a278cba3b3b49/",
       "landings": [
@@ -126,26 +131,12 @@
         }
       ],
       "cashback_link_data": null
-    },
-    "category": {
-      "name": "Mobile Services",
-      "id": 115,
-      "language": "en",
-      "parent": {
-        "name": "Mobile Programs",
-        "id": 79,
-        "language": "en",
-        "parent": null
-      }
     }
   },
   {
-    "id": 98613,
-    "name": "Italki [CPA, iOS + Android] WW",
-    "name_aliases": "italki, айтоки, италки, йтолки",
     "site_url": "https://play.google.com/store/apps/details?id=br.com.digio&hl=en",
-    "description": "Join a new affiliate program Italki [CPA, iOS + Android] WW\r\n\r\nItalki is a language learning platform that connects users with native-speaking tutors for personalized, flexible online lessons. It offers a wide range of languages and tailored teaching to help learners improve their skills effectively.\r\n\r\nGEO: WW with no exeptions\r\nPaid event: first purchase \r\nTracker: Adjust\r\nAntifraud: Adjust FraudPrefentionSuite + Own database\r\n\r\nAllowed traffic sources:\r\n- META Ads (Facebook/ Instagram placements)\r\n- In-app networks\r\n- Unity Ads\r\n- Applovin\r\n- Bigo Ads\r\n- Mintegral\r\n- Appnext\r\n- ASA\r\n- Snapchat\r\n- TikTok Ads\r\n\r\n\r\nVTA is NOT allowed\r\nPostInstall -90 days\r\n\r\nValidation dased on CRM",
-    "status": "active",
+    "name": "Italki [CPA, iOS + Android] WW",
+    "img": "platform/98613.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/3/18/98613-58dcbe2472a204ef.svg",
     "categories": [
       {
@@ -166,12 +157,7 @@
         }
       }
     ],
-    "img": "platform/98613.svg",
-    "affiliate": {
-      "goto_link": "https://flcoz.com/g/9ks8krpbbq5af0702a279911c0dd7a/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 98613,
     "category": {
       "name": "Mobile Services",
       "id": 115,
@@ -182,6 +168,11 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://flcoz.com/g/9ks8krpbbq5af0702a279911c0dd7a/",
+      "landings": [],
+      "cashback_link_data": null
     }
   }
 ]

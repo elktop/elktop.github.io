@@ -1,11 +1,8 @@
 [
   {
-    "id": 22352,
-    "name": "MaxLife Insurance [CPS] IN",
-    "name_aliases": "max life, mazluge, Insurance, Max Life Insurence,",
     "site_url": "https://www.maxlifeinsurance.com/",
-    "description": "Company description : Max Life Insurance, one of the foremost life insurance companies in India, believes in contributing to the social and economic development of the society. See how we are making a difference to people’s lives. they have plans like Online Insurance Plans, Online Term Plan, Child Plans, Retirement Plans, ULIP Plans, NRI Plans, Defence Plans, Tools & Calculators, Real Value Tool, Continue with existing eQuote, Investment Plan, Sabse Pahle Life Insurance, Tax Saving Investment etc.\r\n\r\nCampaign Description : Campaign is on CPS model wherein we need to bring genuine term insurance sales for the brand.\r\n\r\nValidation Criteria : Approved Sales. \r\n\r\nKPI : ATS should be INR 24,000 without GST\r\n\r\nIt is an offline campaign.\r\n\r\n \r\n\r\n ",
-    "status": "active",
+    "name": "MaxLife Insurance [CPS] IN",
+    "img": "platform/22352.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/8/2/22352-e7737c976b8b6527.svg",
     "categories": [
       {
@@ -26,12 +23,7 @@
         "parent": null
       }
     ],
-    "img": "platform/22352.svg",
-    "affiliate": {
-      "goto_link": "https://tjzuh.com/g/sbim6rqhhn5af0702a2733bd52e9ca/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 22352,
     "category": {
       "name": "Insurance",
       "id": 37,
@@ -42,15 +34,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://tjzuh.com/g/sbim6rqhhn5af0702a2733bd52e9ca/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 23632,
-    "name": "EKTA Traveling Insurance Any GEOs",
-    "name_aliases": "EKTA Traveling, Travel Insurance, Insurance, summer, vacation, rest",
     "site_url": "https://ektatraveling.com",
-    "description": "EKTA Traveling is a new generation fintech company that offers high-tech insurance products in the following segments: tourism and aviation, financial risk insurance, property and equipment insurance. The insurance products are fully digitalized, which makes it possible to improve the quality and speed of customer service both at the stage of selling insurance and at the stage of applying for an insured event.\r\n\r\nBenefits for webmasters:\r\n\r\n\r\n\tOne landing - one offer;\r\n\tTransparent model of confirmation and cancellation of purchases by the client - solely upon request;\r\n\twidespread geography for promoting the product WorldWide (Any contries)\r\n\r\n\r\nA wide range of available advertising tools (except for spam, adult and doorway)\r\nConvenient and comprehensible landing page in many languages, which works correctly on all devices and browsers\r\nReliable company, in 2019 about 3,000,000 clients became our clients.\r\nWe are open to dialogue and are ready to improve the page / advertising materials to increase the conversion to sale.\r\nUpon achieving good sales results, we can offer additional bonuses.\r\nFunctional technical support\r\n\r\nWorld Wide Travel Health Insurance + Covid\r\n\r\nThis offer is for people who travel or go abroad. Everyone between the ages of 1 and 100 can buy it online on a website. You will receive your insurance policy by email within 2-3 minutes. There is a multilingual technical support chat 24/7.\r\n\r\nThere are 3 packages from cheap to expensive – Start, Gold, Max+\r\n\r\nPayment for an insurance policy is automated. It is made right on the website. You don`t need to leave a request, cause we don`t have a sales department. The product prices featured on the website are displayed in USD.\r\n\r\nTravel insurance (offer) is suitable for a broad audience:\r\n\r\nTourists, travelers, pregnant, grandfathers, grandmothers, students, people who go to a full-time job, business trip, a conference. Any kind of tour package, cruise, liner.\r\n\r\nTypes of holidays:\r\n\r\nTourism, active leisure, all sports amateur and professional, all kinds of extreme time.\r\n\r\nIt is suitable for citizens of any country and to apply for a visa\r\n\r\nMost civilized countries demand travel insurance covering COVID-19 for entry into the country. This is why the topic is highly relevant.\r\n\r\nTourists can choose any transport for their travel insurance – air, sea, railway, or auto.\r\n\r\nFollowed the link for detailed information on the insurance product and target audience: https://docs.google.com/spreadsheets/d/1zv_NzcbTWyUys3YJn08qH6z6MbHYxoKpPAGrLfW-PU0\r\n\r\nCreatives for placement in advertising sources are available at the link:\r\n\r\nhttps://drive.google.com/drive/u/2/folders/1mflBLrA1zr2QjEf2dPGqtbC4znW4A3kQ\r\n\r\nGEO: World Wide\r\n\r\nLimits of the leads: Absent\r\n\r\nBenefits of the Ekta Traveling insurance policy\r\n\r\n\r\n\tCovers COVID-19\r\n\tValid all over the world\r\n\tFavorable price for insurance\r\n\tFavorable filling of insurance\r\n\tNo hidden clauses in the contract\r\n\tSimplified online purchase form\r\n\tThe site accepts payments from all countries of the world\r\n\tPayment system immediately on the site, without extra transition\r\n\r\n\r\nLimitation by the traffic:\r\n\r\n\r\n\tYou can use traffic sources that are not on the list (for instance, Pornhub). \r\n\tIt is forbidden to maintain groups (accounts/channels) in any social networks and messengers on behalf of the advertiser or with the brand name of the company, as well as use the company name in the domain name.\r\n\tWe forbid context on the brand, any geo in any language, motivated traffic for this offer.\r\n\tYou can use doorway traffic only through prelanding.\r\n",
-    "status": "active",
+    "name": "EKTA Traveling Insurance Any GEOs",
+    "img": "platform/23632.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/12/3/23632-37ab8af4d95e022d.svg",
     "categories": [
       {
@@ -83,7 +77,18 @@
         "parent": null
       }
     ],
-    "img": "platform/23632.svg",
+    "id": 23632,
+    "category": {
+      "name": "Insurance",
+      "id": 37,
+      "language": "en",
+      "parent": {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    },
     "affiliate": {
       "goto_link": "https://uhtkc.com/g/vv0sleumno5af0702a27861831ace6/",
       "landings": [
@@ -189,26 +194,12 @@
         }
       ],
       "cashback_link_data": null
-    },
-    "category": {
-      "name": "Insurance",
-      "id": 37,
-      "language": "en",
-      "parent": {
-        "name": "Financial Programs",
-        "id": 7,
-        "language": "en",
-        "parent": null
-      }
     }
   },
   {
-    "id": 24486,
-    "name": "ICICI Lombard [CPS] IN",
-    "name_aliases": "ICICLomadr ICICLOMABARD ICICILOMARD",
     "site_url": "https://www.icicilombard.com/",
-    "description": "Company Description: ICICI Lombard GIC Ltd. is one of the leading private general insurance company in India with a Gross Written Premium (GWP) of Rs 135.93 billion for the year ended March 31, 2020. ICICI Lombard is available digitally through Il Take Care App for all your insurance and wellness needs. This app is a one-stop solution for all your claims, policy renewal, paying premiums, storing all documents on the app - whether health, travel or motor.ICICI Lombard General Insurance Company Limited is a general insurance company in India. It is engaged in general insurance, reinsurance, insurance claims management, and investment management.\r\n\r\nCampaign Description: ICICI Lombard campaign is a CPS campaign wherein we must bring genuine sales to client. The advertiser is offering its affiliates to run it with mentioned targeted cities and audiences. \r\n\r\nTargeting: Pan India\r\n\r\nTargeting audience: Age Group: 24+, Male, ,Monthly Income: 25000 & above, DRR : 100 Leads.\r\n\r\nCampaign Objective: To generate sales for ICICI Lombard.\r\n\r\nSoft KPI -\r\n\r\nLead to Sale ratio to be maintained above 3%\r\nAverage policy amount should not be below 12K\r\n\r\n \r\n\r\n ",
-    "status": "active",
+    "name": "ICICI Lombard [CPS] IN",
+    "img": "platform/24486.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/4/19/24486-4036ba24a31caeaa.svg",
     "categories": [
       {
@@ -229,12 +220,7 @@
         }
       }
     ],
-    "img": "platform/24486.svg",
-    "affiliate": {
-      "goto_link": "https://tjzuh.com/g/gijdfu271p5af0702a27ae105d1407/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 24486,
     "category": {
       "name": "Insurance",
       "id": 37,
@@ -245,15 +231,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://tjzuh.com/g/gijdfu271p5af0702a27ae105d1407/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 27658,
-    "name": "ePojisteni CZ CPL",
-    "name_aliases": "ePojisteni, Epojisteni",
     "site_url": "https://www.epojisteni.cz/",
-    "description": "ePojištění is the largest and most important insurance comparator on the Czech Internet. It concludes more than 1,000 auto insurance contracts per week. They are known in the media and their prices are really the lowest. They cooperate with all insurance companies on the Czech market.\r\n\r\nImplementation of new measurement for eInsurance campaigns!\r\n\r\nAll tracking links are redirected to the main ePojištění.cz campaign (formerly Povinné ručení ePojištění.cz), to which we have added individual URLs and all creative elements from other ePojištění campaigns.\r\n\r\nTherefore, there will now be only one campaign called ePojištění.cz in the eSpolupráce menu, where you will be able to precisely target other ePojištění campaigns via individual URLs. Therefore, if you need to target exactly one of the ePojštění campaigns (for example, property insurance), you need to generate a new tracking link with the appropriate URL so that you can link exactly to the required landing page (or form) of the ePojštění campaign. By generating a new link, you will also speed up page loading (no redirection will take place).\r\n\r\nIt is also important to say that XSELL also works between individual campaigns.\r\n\r\nRunaways:\r\nAs for follow-ups, automatic measurement is no longer possible after stopping the original campaigns. Therefore, all overruns will be finished immediately after sending reports from the advertiser!\r\n\r\nConversion measurement:\r\nThe new measurement is set up so that Postback is called on every request. However, the commission model for this campaign is set as CPL (pay per lead). For this reason, duplicate conversions are created, which are immediately rejected because they are the same leads. However, if multiple inquiries arise from one (same) lead, which subsequently convert into closed and paid contracts, you are entitled to a commission for each of these conversions according to the appropriate reward (depending on the type of campaign).\r\n\r\n\r\nExample:\r\n--- \"Affiliate partner brings in a lead that creates a demand for liability insurance. So the affiliate gets paid for the lead. Subsequently, this same contact (lead) generates another demand for accident insurance, travel insurance and property insurance. This causes that for liability this affiliate partner no longer gets paid for the lead, but in the case of a negotiated and paid contract for the other requests (accident insurance, property insurance and travel insurance), the commission is normally calculated for the partner according to the conditions of the given campaign.\" ---\r\n\r\nNo bidding on keywords and titles listed in THIS DOCUMENT! Violation of this prohibition may lead to blocking in ePojisteni.cz campaigns.\r\n\r\nCommission model: Payment for a valid lead - callable and interested in POV. The conversion appears in the system within 10 minutes. \r\n\r\nAttention! Only quality leads get paid! Advertiser reserves the right to retroactively reject invalid leads.\r\nWhat is quality further in the rules:\r\nThe minimum sales conversion threshold should be between 12% and 30%. If the conversion is below the minimum threshold, such registrations will not be paid.\r\n\r\nCZ\r\n\r\nePojištění je největším a nejvýznamnějším srovnávačem pojištění na českém internetu. Týdně uzavírá více jak 1000 smluv ohledně pojištění vozidel. Jsou mediálně známí a jejich ceny jsou skutečně nejnižší. Spolupracují se všemi pojišťovnami na českém trhu.\r\n\r\nImplementace nového měření u kampaní ePojištění!\r\n\r\nVeškeré tracking linky jsou přesměrovány na hlavní kampaň ePojištění.cz (dříve Povinné ručení ePojištění.cz), do které jsme přidali jednotlivé URLs a všechny kreativní prvky z ostatních kampaní ePojištění.\r\n\r\nNově tedy bude v nabídce eSpolupráce pouze jedna kampaň s názvem ePojištění.cz, kde budete moci přesně cílit přes jednotlivé URLs i na ostatní kampaně ePojištění. Pokud tedy potřebujete zacílit přesně na jednu z kampaní ePojištění (například pojištění majetku), je třeba si vygenerovat nový tracking link s patřičnou URL, abyste mohli přesně odkazovat na požadovanou landing page (nebo formulář) kampaně ePojištění majetek. Vygenerováním nového linku tak navíc urychlíte načítání stránky (nebude probíhat přesměrování).\r\n\r\nDůležité je také říct, že zároveň funguje XSELL mezi jednotlivými kampaněmi.\r\n\r\nDoběhy:\r\nCo se týká doběhů, tak automatické měření již po zastavení původních kampaní není možné. Proto veškeré doběhy budou dohrávány vzápětí po zaslání reportů od inzerenta!\r\n\r\nMěření konverzí:\r\nNové měření je nastaveno tak, že se Postback volá při každé poptávce. Provizní model u této kampaně je však nastaven jako CPL (platba za lead). Z toho důvodu se vytváří duplicitní konverze, které jsou ihned zamítány, jelikož jde o stejné leady. Pokud ale z jednoho (stejného) leadu vznikne vícero poptávek, které následně konvertují do uzavřených a zaplacených smluv, vzniká Vám nárok na provizi za každou z těchto konverzí podle patřičné odměny (dle typu kampaně).\r\n\r\n\r\nPříklad:\r\n--- \"Affiliate partner přivede lead, který vytvoří poptávku na povinné ručení. Partner tedy dostane platbu za lead. Následně tento stejný kontakt (lead) vytvoří další poptávku na havarijní pojištění, cestovní pojištění a pojištění majetku. To způsobí, že za povinné ručení už tento affiliate partner nedostává zaplaceno za lead, ale v případě sjednané a zaplacené smlouvy u těch ostatních poptávek (havarijní pojištění, pojištění majetku a cestovní pojištění) se partnerovi počítá provize normálně dle podle podmínek dané kampaně.\" ---\r\n\r\n \r\n\r\nZákaz bidování na klíčová slova a názvy uvedené v TOMTO DOKUMENTU! Porušení tohoto zákazu může vést k blokaci v kampaních ePojisteni.cz.\r\n\r\nProvizní model:Platba za validní lead - dovolatelný a se zájmem o POV. Konverze se v systému objevuje do 10 minut.\r\n\r\nPozor! Pouze kvalitní leady podléhají platbě! Inzerent si vyhrazuje právo zpětně zamítnout nevalidní leady.\r\nCo je kvalita dále v pravidlech:\r\nMinimální práh konverze prodeje by měl být od 18 % do 30 %. Pokud je konverze pod minimální hranicí, takové registrace nebudou zaplaceny.",
-    "status": "active",
+    "name": "ePojisteni CZ CPL",
+    "img": "platform/27658.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/6/21/27658-7ec2aa0dad59e4c9.svg",
     "categories": [
       {
@@ -274,7 +262,18 @@
         }
       }
     ],
-    "img": "platform/27658.svg",
+    "id": 27658,
+    "category": {
+      "name": "Insurance",
+      "id": 37,
+      "language": "en",
+      "parent": {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    },
     "affiliate": {
       "goto_link": "https://xnmik.com/g/dukhgb1mzh5af0702a274f71057c1b/",
       "landings": [
@@ -295,26 +294,12 @@
         }
       ],
       "cashback_link_data": null
-    },
-    "category": {
-      "name": "Insurance",
-      "id": 37,
-      "language": "en",
-      "parent": {
-        "name": "Financial Programs",
-        "id": 7,
-        "language": "en",
-        "parent": null
-      }
     }
   },
   {
-    "id": 28652,
-    "name": "Acko Bike [CPS] IN",
-    "name_aliases": "acto , echo , ako",
     "site_url": "https://www.acko.com/lp/new-bike/",
-    "description": "Company Description :\r\nAcko is a general insurance company having more that 50 Million unique users .ACKO is an IRDAI licensed (IRDAI Registration No: 157) General Insurance company offering  Car, Two-Wheeler, Taxi and Health Insurance plans on www.acko.com. They are also partnered with leading Indian companies like Amazon, Ola, MakeMyTrip, Zomato, OYO, RedBus, etc to offer insurance like mobile screen insurance, passenger cover, and much more.ACKO has sold more than 60 Crore insurance policies .\r\n\r\nCampaign Description : The campaign is based on CPS MODEL . \r\n\r\nTarget Geo : Pan India",
-    "status": "active",
+    "name": "Acko Bike [CPS] IN",
+    "img": "platform/28652.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/5/4/28652-2e0ad2f8e3e96bbe.png",
     "categories": [
       {
@@ -335,7 +320,18 @@
         }
       }
     ],
-    "img": "platform/28652.png",
+    "id": 28652,
+    "category": {
+      "name": "Insurance",
+      "id": 37,
+      "language": "en",
+      "parent": {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    },
     "affiliate": {
       "goto_link": "https://tjzuh.com/g/77fgwqsklk5af0702a27829ab83632/",
       "landings": [
@@ -356,26 +352,12 @@
         }
       ],
       "cashback_link_data": null
-    },
-    "category": {
-      "name": "Insurance",
-      "id": 37,
-      "language": "en",
-      "parent": {
-        "name": "Financial Programs",
-        "id": 7,
-        "language": "en",
-        "parent": null
-      }
     }
   },
   {
-    "id": 44851,
-    "name": "Tu Momento Seguros MX",
-    "name_aliases": "Seguros\r\nCarros\r\nSeguros de autos \r\nautos \r\nCars\r\nInsurance\r\nEnsurance\r\nSegruros",
     "site_url": "https://www.tumomento.com/",
-    "description": " \r\n\r\nMomento Seguros es una compañía de seguros mexicana que ofrece seguros de auto. Fue fundada en 2022 y está regulada por la Comisión Nacional de Seguros y Fianzas (CNSF).\r\n\r\nLa misión de Momento Seguros es \"democratizar la industria aseguradora en México\". La compañía busca ofrecer seguros de auto asequibles y accesibles a todos los mexicanos.\r\n\r\nMomento Seguros ofrece una amplia gama de coberturas para autos, incluyendo:\r\n\r\n\r\n\tResponsabilidad civil\r\n\tDaños materiales\r\n\tGastos médicos\r\n\tRobo\r\n\tIncendio\r\n\tAsistencia vial\r\n\r\n\r\nLa compañía también ofrece pagos flexibles y un proceso de cotización y contratación sencillo.\r\n\r\nVentajas de Momento Seguros:\r\n\r\n\r\n\tSeguros asequibles\r\n\tCoberturas flexibles\r\n\tPagos flexibles\r\n\tProceso de cotización y contratación sencillo\r\n",
-    "status": "active",
+    "name": "Tu Momento Seguros MX",
+    "img": "platform/44851.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/11/7/44851-d61e94ceaf9301c0.svg",
     "categories": [
       {
@@ -396,12 +378,7 @@
         }
       }
     ],
-    "img": "platform/44851.svg",
-    "affiliate": {
-      "goto_link": "https://xpuvo.com/g/60tsptlg235af0702a27642064ff5c/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 44851,
     "category": {
       "name": "Insurance",
       "id": 37,
@@ -412,15 +389,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://xpuvo.com/g/60tsptlg235af0702a27642064ff5c/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 103282,
-    "name": "ePojisteni CZ CPS",
-    "name_aliases": "ePojisteni, Epojisteni",
     "site_url": "https://www.epojisteni.cz/",
-    "description": "ePojištění is the largest and most important insurance comparator on the Czech Internet. It concludes more than 1,000 auto insurance contracts per week. They are known in the media and their prices are really the lowest. They cooperate with all insurance companies on the Czech market.\r\n\r\nImplementation of new measurement for eInsurance campaigns!\r\n\r\nAll tracking links are redirected to the main ePojištění.cz campaign (formerly Povinné ručení ePojištění.cz), to which we have added individual URLs and all creative elements from other ePojištění campaigns.\r\n\r\nTherefore, there will now be only one campaign called ePojištění.cz in the eSpolupráce menu, where you will be able to precisely target other ePojištění campaigns via individual URLs. Therefore, if you need to target exactly one of the ePojštění campaigns (for example, property insurance), you need to generate a new tracking link with the appropriate URL so that you can link exactly to the required landing page (or form) of the ePojštění campaign. By generating a new link, you will also speed up page loading (no redirection will take place).\r\n\r\nIt is also important to say that XSELL also works between individual campaigns.\r\n\r\nRunaways:\r\nAs for follow-ups, automatic measurement is no longer possible after stopping the original campaigns. Therefore, all overruns will be finished immediately after sending reports from the advertiser!\r\n\r\n\r\nATTENTION:\r\nIt is not possible to set redirection for IFRAME forms! It is therefore necessary to generate them again and implement them on your websites from the new ePojištění.cz campaign ( ePojisteni CZ CPL). Loading old IFRAMS won't work!\r\n\r\n\r\nExample:\r\n--- \"Affiliate partner brings in a lead that creates a demand for liability insurance. So the affiliate gets paid for the lead. Subsequently, this same contact (lead) generates another demand for accident insurance, travel insurance and property insurance. This causes that for liability this affiliate partner no longer gets paid for the lead, but in the case of a negotiated and paid contract for the other requests (accident insurance, property insurance and travel insurance), the commission is normally calculated for the partner according to the conditions of the given campaign.\" ---\r\n\r\nNo bidding on keywords and titles listed in THIS DOCUMENT! Violation of this prohibition may lead to blocking in ePojisteni.cz campaigns.\r\n\r\nCZ\r\n\r\nePojištění je největším a nejvýznamnějším srovnávačem pojištění na českém internetu. Týdně uzavírá více jak 1000 smluv ohledně pojištění vozidel. Jsou mediálně známí a jejich ceny jsou skutečně nejnižší. Spolupracují se všemi pojišťovnami na českém trhu.\r\n\r\nImplementace nového měření u kampaní ePojištění!\r\n\r\nVeškeré tracking linky jsou přesměrovány na hlavní kampaň ePojištění.cz (dříve Povinné ručení ePojištění.cz), do které jsme přidali jednotlivé URLs a všechny kreativní prvky z ostatních kampaní ePojištění.\r\n\r\nNově tedy bude v nabídce eSpolupráce pouze jedna kampaň s názvem ePojištění.cz, kde budete moci přesně cílit přes jednotlivé URLs i na ostatní kampaně ePojištění. Pokud tedy potřebujete zacílit přesně na jednu z kampaní ePojištění (například pojištění majetku), je třeba si vygenerovat nový tracking link s patřičnou URL, abyste mohli přesně odkazovat na požadovanou landing page (nebo formulář) kampaně ePojištění majetek. Vygenerováním nového linku tak navíc urychlíte načítání stránky (nebude probíhat přesměrování).\r\n\r\nDůležité je také říct, že zároveň funguje XSELL mezi jednotlivými kampaněmi.\r\n\r\nDoběhy:\r\nCo se týká doběhů, tak automatické měření již po zastavení původních kampaní není možné. Proto veškeré doběhy budou dohrávány vzápětí po zaslání reportů od inzerenta!\r\n\r\nPOZOR:\r\nU IFRAME formulářů není možné nastavit přesměrování! Je tedy nutné vygenerovat si je znovu a implementovat je na Vaše weby právě z nové kampaně ePojištění.cz (ePojisteni CZ CPL). Načítání starých IFRAMŮ nebude fungovat!\r\n\r\n\r\nPříklad:\r\n--- \"Affiliate partner přivede lead, který vytvoří poptávku na povinné ručení. Partner tedy dostane platbu za lead. Následně tento stejný kontakt (lead) vytvoří další poptávku na havarijní pojištění, cestovní pojištění a pojištění majetku. To způsobí, že za povinné ručení už tento affiliate partner nedostává zaplaceno za lead, ale v případě sjednané a zaplacené smlouvy u těch ostatních poptávek (havarijní pojištění, pojištění majetku a cestovní pojištění) se partnerovi počítá provize normálně dle podle podmínek dané kampaně.\" ---\r\n\r\n \r\n\r\nZákaz bidování na klíčová slova a názvy uvedené v TOMTO DOKUMENTU! Porušení tohoto zákazu může vést k blokaci v kampaních ePojisteni.cz.",
-    "status": "active",
+    "name": "ePojisteni CZ CPS",
+    "img": "platform/103282.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/6/21/103282-b5173832e06c2ef4.svg",
     "categories": [
       {
@@ -441,7 +420,18 @@
         "parent": null
       }
     ],
-    "img": "platform/103282.svg",
+    "id": 103282,
+    "category": {
+      "name": "Insurance",
+      "id": 37,
+      "language": "en",
+      "parent": {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    },
     "affiliate": {
       "goto_link": "https://plrvq.com/g/zliwa1ny2q5af0702a272502638220/",
       "landings": [
@@ -462,26 +452,12 @@
         }
       ],
       "cashback_link_data": null
-    },
-    "category": {
-      "name": "Insurance",
-      "id": 37,
-      "language": "en",
-      "parent": {
-        "name": "Financial Programs",
-        "id": 7,
-        "language": "en",
-        "parent": null
-      }
     }
   },
   {
-    "id": 130084,
-    "name": "HDFC Pixel Credit Card [ CPL ] IN",
-    "name_aliases": "HDFC Picel, hdfc cards",
     "site_url": "https://applyonline.hdfcbank.com/",
-    "description": "Drive high-intent leads for the HDFC Pixel Play Credit Card, a tailor-made financial product designed for digitally savvy and entertainment-first users. This campaign operates on a Cost Per Lead (CPL) model, where you are paid for every qualified lead generated through your promotional efforts.\r\n\r\nCampaign Objective:\r\nGenerate qualified leads (completed application forms) from users interested in applying for the HDFC Pixel Play Credit Card. Leads must meet predefined eligibility criteria.\r\n\r\nPayout Model: Cost Per Lead (CPL) – Fixed payout per approved lead",
-    "status": "active",
+    "name": "HDFC Pixel Credit Card [ CPL ] IN",
+    "img": "platform/130084.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/6/16/130084-e816c7e3c4a7ef76.svg",
     "categories": [
       {
@@ -612,12 +588,7 @@
         }
       }
     ],
-    "img": "platform/130084.svg",
-    "affiliate": {
-      "goto_link": "https://tjzuh.com/g/4vwhsx3iw25af0702a27500820a33f/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 130084,
     "category": {
       "name": "Insurance",
       "id": 37,
@@ -628,6 +599,11 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://tjzuh.com/g/4vwhsx3iw25af0702a27500820a33f/",
+      "landings": [],
+      "cashback_link_data": null
     }
   }
 ]

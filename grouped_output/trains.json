@@ -1,11 +1,8 @@
 [
   {
-    "id": 104846,
-    "name": "Rukita [CPS] ID",
-    "name_aliases": "Rukita, Kost, Kosan, Apartment, AirBNB, Housing, Rumah, Perumahan, sewa rumah, sewa kost, sewa apartemen, sewa apartement, coliving, mewah, fancy, boarding house",
     "site_url": "https://www.rukita.co/",
-    "description": "Rukita is a proptech company that improves the quality of rental housing in Indonesia by providing lifestyle residences with complete services and superior hospitality. Rukita is now available in 21 major cities spread across Java, Sumatra, and Bali and has served more than 30,000 residents.\r\n\r\nIn July 2022, Rukita received an award with the title of Best Proptech Start Up - Indonesia at the 2022 Global Brands Magazine Awards. This international award is a recognition of Rukita's commitment to innovation, quality, branding activities, customer service and business performance, as well as the development of a strong proptech system in Indonesia. In the same year, Rukita also received the title of \"Best of The Best\" at two events at once, namely the Indonesia Customer Service Champions (ICSC) and the Indonesia Digital Marketing Champions (IDMC) organized by SWA Magazine and Business Digest.\r\n\r\nThe two prestigious awards also helped establish Rukita's position as a market leader in the proptech sector in Indonesia. Thanks to Rukita's commitment to innovation and sustainability aspects, Rukita has again received the title of Promising Startups in Asia from Asia Corporate Excellence and Sustainability (ACES) in 2023.\r\n\r\nCampaign Description: Rukita allows the publisher to earn a commission every time a customer checkouts on their website (for apartment, rooms, or houses rent) through Admitad's affiliate link.\r\n\r\nTarget Geo: Indonesia\r\n\r\nCookie time: 30 days\r\n\r\nAllowed Traffic: Mentioned in the traffic sources tab.\r\n\r\nValidation Cycle: 30 days\r\n\r\nTracking: Tracking code\r\n\r\nObjective: To generate sales for the Rukita Indonesia campaign.\r\n\r\nRukita allows its publisher to earn good revenue if the sale is generated using a publisher link.\r\n\r\nNegative Keywords: birtch control: aborsi, obat, misoprostol, cytotec, pil aborsi, gastrul, klinik aborsi, drugs: narkoba, drugs, obat tidur, zat adiktif, napza, get rich quick scheme: mlm, lottery, network marketing, instant money, porn-related: porn, sex, bokep, xxx, hentai, porno, simontok, Gambling: judi, casino, slot, togel, hoki178, slot thailand, piala88, kerahoki, slot gacor, hajarhoki, langit 69, dukun slot, dewahoki, gg hoki, ninja 388, Metafisik: dukun, santet, santet online, mantra, pelet, guna guna, sihir, pemikat, pesugihan, nyupang, Penipuan\r\n\r\n ",
-    "status": "active",
+    "name": "Rukita [CPS] ID",
+    "img": "platform/104846.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/12/104846-fba10e932ef4abfd.svg",
     "categories": [
       {
@@ -153,12 +150,7 @@
         }
       }
     ],
-    "img": "platform/104846.svg",
-    "affiliate": {
-      "goto_link": "https://gndrz.com/g/v9wg4yyuuh5af0702a27ddcbd5d092/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 104846,
     "category": {
       "name": "Trains",
       "id": 208,
@@ -169,6 +161,11 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://gndrz.com/g/v9wg4yyuuh5af0702a27ddcbd5d092/",
+      "landings": [],
+      "cashback_link_data": null
     }
   }
 ]

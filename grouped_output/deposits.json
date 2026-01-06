@@ -1,11 +1,8 @@
 [
   {
-    "id": 22594,
-    "name": "Kotak 811 Savings Account [CPA] IN",
-    "name_aliases": "Kotakk11, Kotakk8111, Kotaak 811, kotaak, 811",
     "site_url": "https://www.kotak811.com/open-zero-balance-savings-account",
-    "description": "Company’s Detail: Kotak 811 is a product of Kotak Mahindra bank. Kotak Mahindra Group is one of India's leading financial services conglomerates. In February 2003, Kotak Mahindra Finance Ltd., the Group's flagship company, received banking license from the Reserve Bank of India, becoming the first non-banking finance company in India to convert into a bank\r\n811 is a new age bank account offered by Kotak Mahindra Bank. You can open a 811 account by downloading the Kotak Mobile Banking App and registering using your Aadhaar number, PAN and other basic details. You can set up a mobile banking PIN and start using your account immediately.\r\n\r\nCampaign’s Detail: Kotak811 ofers 6%* interest p.a. on the balance. This is a zero balance savings account with a variety of offers and varients.\r\n\r\nCampaign’s Objective: The campaign needs to be promoted on cost per account open module where the validation will be done on successful account open.\r\n\r\nInterest on Savings Account balance: 3.50% p.a. up to Rs. 1 lakh | 4% p.a. over Rs. 1 lakh and up to Rs. 5 crores | 3.75% p.a. above Rs. 5 crores. Applicable for Resident Accounts only. The interest rates are subject to change. Visit www.kotak.com for latest information on interest rates.\r\n\r\n ",
-    "status": "active",
+    "name": "Kotak 811 Savings Account [CPA] IN",
+    "img": "platform/22594.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/5/12/22594-1c0cd542a0dac208.svg",
     "categories": [
       {
@@ -26,12 +23,7 @@
         "parent": null
       }
     ],
-    "img": "platform/22594.svg",
-    "affiliate": {
-      "goto_link": "https://tjzuh.com/g/mbprflrshq5af0702a2741a3f81e9d/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 22594,
     "category": {
       "name": "Deposits",
       "id": 50,
@@ -42,15 +34,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://tjzuh.com/g/mbprflrshq5af0702a2741a3f81e9d/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 23326,
-    "name": "IndusInd Saving Account [CPL] IN",
-    "name_aliases": "Induslnd, indasind, indusend",
     "site_url": "https://www.indusind.com/in/en/personal/accounts/saving-account.html",
-    "description": "Company Description: IndusInd Bank is a universal Bank with a widespread banking footprint with over 2.5 crore customers, over 5,000 distribution points and nearly 2,000 branches across the country. With ‘Sustainability’ at the core, we offer a wide array of products and services for individuals and corporates including microfinance, personal loans, personal and & commercial vehicles loans, credit cards and SME loans. We are also a preferred banking partner for various Government entities, PSUs and large corporates.\r\n\r\nCampaign description:  It is a CPL(cost per lead) campaign wherein we must open savings account for Indusind Saving Bank Account. The advertiser is offering its affiliates to run it in PAN India. All allowed promotional methods are selected under traffic sources.\r\n\r\nTargeting : 22 - 45 | Pan India\r\n\r\nObjective: The campaign needs to be promoted on cost per account open module where the validation will be done on a successful account open.\r\n\r\n ",
-    "status": "active",
+    "name": "IndusInd Saving Account [CPL] IN",
+    "img": "platform/23326.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/9/14/23326-643bf8e62cf26fec.svg",
     "categories": [
       {
@@ -71,12 +65,7 @@
         "parent": null
       }
     ],
-    "img": "platform/23326.svg",
-    "affiliate": {
-      "goto_link": "https://tjzuh.com/g/lio8jy1wbd5af0702a27475dd8c3b0/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 23326,
     "category": {
       "name": "Deposits",
       "id": 50,
@@ -87,6 +76,11 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://tjzuh.com/g/lio8jy1wbd5af0702a27475dd8c3b0/",
+      "landings": [],
+      "cashback_link_data": null
     }
   }
 ]

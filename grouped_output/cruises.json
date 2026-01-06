@@ -1,11 +1,8 @@
 [
   {
-    "id": 18183,
-    "name": "RaynaTours Many Geos",
-    "name_aliases": "raynatours, rayna tours, кфнтфещгкы, кфнтф ещгкы, райнатурс, райна турс, райна, rayna,int, инт, INT, ИНТ",
     "site_url": "https://www.raynatours.com/",
-    "description": "RaynaTours Many Geos affiliate campaign\r\n\r\nRayna Tours and Travels – one of the most reputable DMC in the UAE, provides high-quality hospitality services since 2006. Thanks to the enthusiasm, dedication, and hard work of each and every member of Rayna’s family they are believed to be the trend setter in travel services. Wherever you wish to go, Rayna will implement every feasible measure to ensure that you travel with utmost convenience and safety.\r\n\r\nAdvantages for choosing Rayna Tours:\r\n\r\n\r\n\tAffordable prices\r\n\tHigh-quality services\r\n\tNumerous discount deals\r\n\tVisas, Hotel Bookings, Transfer& transportation services, activity planning\r\n\t24/7 Online help \r\n\tTripAdvisor Certificate of Excellence\r\n\tLost of promotional materials: banners, coupons etc.\r\n\tGenerous commission\r\n\tLots of allowed traffic types traffic\r\n\tThe highest CR is from United Arab Emirates, India, United States, Denmark, Germany\r\n\tGEO : worldwide\r\n\r\n\r\nJoin the RaynaTours WW Affiliate Program!\r\n\r\n ",
-    "status": "active",
+    "name": "RaynaTours Many Geos",
+    "img": "platform/18183.jpg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/3/12/18183-80201c4cc1c1b8ea.jpg",
     "categories": [
       {
@@ -48,7 +45,18 @@
         }
       }
     ],
-    "img": "platform/18183.jpg",
+    "id": 18183,
+    "category": {
+      "name": "Cruises",
+      "id": 211,
+      "language": "en",
+      "parent": {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      }
+    },
     "affiliate": {
       "goto_link": "https://xpuvo.com/g/ofc53p8nis5af0702a27e94db72a90/",
       "landings": [
@@ -254,26 +262,12 @@
         }
       ],
       "cashback_link_data": null
-    },
-    "category": {
-      "name": "Cruises",
-      "id": 211,
-      "language": "en",
-      "parent": {
-        "name": "Travel & Tourism",
-        "id": 40,
-        "language": "en",
-        "parent": null
-      }
     }
   },
   {
-    "id": 21892,
-    "name": "Круиз.онлайн RU",
-    "name_aliases": "Круиз Онлайн, круиз онлайн, круиз, kruiz online, kruizonline, rhebp jykfqy, лкгшя щтдшту, Твой круиз, tvoi kruiz",
     "site_url": "https://kruiz.online/",
-    "description": "Круиз.онлайн — крупнейший сервис для удобного поиска и бронирования морских и речных круизов по России и миру. Мы помогаем выбрать лучший маршрут и собрать идеальный отдых, не теряя время на сложные поиски и сомнения. Простота, прозрачность и поддержка на каждом этапе — с нами ваши путешествия становятся ближе!\r\n\r\n Зарабатывайте вместе с Круиз Онлайн!\r\nПредлагаем вам присоединиться к нашей партнерской программе и зарабатывать продвигая круизы по всему миру.\r\n\r\nНаши преимущества для партнеров:\r\n\r\n\r\n\tВознаграждение от каждой продажи круиза\r\n\tГЕО - worldwide\r\n\tДля ТОП партнеров дополнительная мотивация и повышение ставки\r\n\tОгромное количество промо-материалов, креативов и живого контента от наших покупателей\r\n\tОплата в месяц отправления круиза\r\n\r\n\r\nПочему партнеры выбирают нас? Немного о наших цифрах:\r\n\r\n\r\n\t106 теплоходов с возможностью онлайн бронирования кают\r\n\t14 000+ маршрутов по всему миру (реки и моря)\r\n\t53 500 туристов воспользовались нашими услугами\r\n\t90% онлайн бронирования. Также с каждым потенциальным клиентом связывается наш внутренний call центр\r\n\t3000+ положительных отзывов\r\n\r\n\r\nМы рады обсудить разнообразные виды сотрудничества! Особенно если ты владеешь следующими ресурсами:\r\n\r\n\r\n\tКонтентные сайты\r\n\tАгрегатор промокодов/купонов под тревел сегмент\r\n\tГруппа в социальной сети (тут рассматриваем любую вплоть до ОК)\r\n\tYouTube канал (предпочитаемые тематики - лайфстайл, путешествия, семейные, подкасты, исторические)\r\n\tСвой видео или текстовый блог\r\n\t\r\n\tДля вебмастеров: \r\n\t \r\n\tРучная сверка раз в месяц\r\n\tМодерация вебмастеров 2 раза в неделю\r\n\tВыдача именных промокодов\r\n\t\r\n\tКод ККТУ: 5.3.1\r\n",
-    "status": "active",
+    "name": "Круиз.онлайн RU",
+    "img": "platform/21892.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/9/4/21892-41504baef4f201da.svg",
     "categories": [
       {
@@ -294,7 +288,18 @@
         }
       }
     ],
-    "img": "platform/21892.svg",
+    "id": 21892,
+    "category": {
+      "name": "Cruises",
+      "id": 211,
+      "language": "en",
+      "parent": {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      }
+    },
     "affiliate": {
       "goto_link": "https://ujhjj.com/g/n5wvpwwi5m5af0702a27c29ca9d9f1/?erid=MvGzQC98w3Z1gMq1oS9Q1Suw",
       "landings": [
@@ -310,26 +315,12 @@
         }
       ],
       "cashback_link_data": null
-    },
-    "category": {
-      "name": "Cruises",
-      "id": 211,
-      "language": "en",
-      "parent": {
-        "name": "Travel & Tourism",
-        "id": 40,
-        "language": "en",
-        "parent": null
-      }
     }
   },
   {
-    "id": 29633,
-    "name": "Донинтурфлот",
-    "name_aliases": "doninturflot, донинтурфлот, вщтштегкадще",
     "site_url": "https://doninturflot.com/",
-    "description": "АО «Донинтурфлот» — ведущая российская круизная компания с многолетней историей, которая вот уже более 30 лет осуществляет круизы по всем судоходным линиям Европейской части России.\r\n\r\nАО «Донинтурфлот» создаёт уникальные туристические маршруты, позволяющие отдохнуть на борту настоящего теплохода и поближе познакомиться с богатой историей России. На выбор десять комфортабельных теплоходов, каждый из которых оборудован всем, что может понадобиться для полноценного отдыха и комфортного проживания в течение всей поездки.\r\n \r\n\r\nВажно:\r\nЗаказ будет подтвержден и оплачен только после проведения круиза.\r\nОриентировочно сезон выполнения круизов начинается в апреле и заканчивается в октябре, но бронирования круизов, в том числе и ранние, осуществляются в течение всего календарного года.\r\n \r\n\r\nПреимущества для покупателей:\r\n\r\n\r\n\tБольшой выбор круизов от оператора\r\n\tТематические круизы\r\n\t9 комфортабельных теплоходов\r\n\tВыгодные акции и спецпредложения\r\n\tУдобный интерфейс для бронирования\r\n\tПерсональный менеджер\r\n\r\n\r\n \r\n\r\nПреимущества для партнеров:\r\n\r\n\r\n\tУникальный для рынка, качественный продукт\r\n\tСредний чек: 150 000 руб\r\n\tВысокая конверсия и комиссия \r\n\tСквозная аналитика гарантирует оплату за каждую продажу\r\n\r\n\r\n \r\n\r\nПортрет ЦА\r\n\r\n\r\n\tПол: \r\n\tженский = 63,7 %\r\n\tмужской = 36,3 %\r\n\t \r\n\tВозраст:\r\n\t55 лет и старше = 46,4 %\r\n\t45-54 года = 19,2 %\r\n\t35‑44 года = 13,6 %\r\n\t25‑34 года = 11,9 %\r\n\t18‑24 года = 8,19 %\r\n\tмладше 18 лет = 0,63 %\r\n\t \r\n\tДоход:\r\n\tвыше среднего\r\n\r\n\r\n \r\n\r\nТоп-товары:\r\n\r\n5 из 9 теплоходов компании относятся к категории «Премиум», 4 из 9 теплоходов относятся к категории \"Комфорт\". \r\n\r\n \r\n\r\nТоп по городам:\r\n\r\n\r\n\tМосква = 33,8 %\r\n\tСанкт-Петербург = 15 %\r\n\tРостов-на-Дону = 4,89 %\r\n\tСамара = 3,27 %\r\n\tНижний Новгород = 2,06 %\r\n\tКраснодар = 1,82 %\r\n\tЧелябинск = 1,53 %\r\n\tЕкатеринбург = 0,92 %\r\n\tИркутск = 0,92 %\r\n\r\n\r\n \r\n\r\nМинус-слова на БРЕНД:\r\nДонинтурфлот\r\ndoninturflot \r\nТеплоходы:\r\nАлександра (Т.Г. Шевченко) \r\nАнтон Чехов\r\nГенерал Лавриненков\r\nИгорь Стравинский\r\nВолга Стар\r\nИван Бунин\r\nМаксим Литвинов\r\nСергей Дягилев\r\nТихий Дон\r\n\r\n \r\n\r\nС Уважением, Партнерская программа «Донинтурфлот»!",
-    "status": "active",
+    "name": "Донинтурфлот",
+    "img": "platform/29633.jpg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/10/17/29633-9a3fb7670f8900c2.jpg",
     "categories": [
       {
@@ -350,12 +341,7 @@
         "parent": null
       }
     ],
-    "img": "platform/29633.jpg",
-    "affiliate": {
-      "goto_link": "https://ficca2021.com/g/txrz1nd3ky5af0702a2711c78c3848/?erid=2bL9aMPo2e49hMef4pfV71RiqJ",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 29633,
     "category": {
       "name": "Cruises",
       "id": 211,
@@ -366,6 +352,11 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://ficca2021.com/g/txrz1nd3ky5af0702a2711c78c3848/?erid=2bL9aMPo2e49hMef4pfV71RiqJ",
+      "landings": [],
+      "cashback_link_data": null
     }
   }
 ]

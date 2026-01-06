@@ -1,11 +1,8 @@
 [
   {
-    "id": 23313,
-    "name": "ICICI Lombard Bike CPS",
-    "name_aliases": "ICCCI ICCIC ICICII direct, icici directcpa",
     "site_url": "https://www.icicilombard.com/",
-    "description": "Company Description:  ICICI Lombard is synonymous with trust and reliability. It's bike insurance is a top choice among customers for several reasons such as Instant policy issuance, 24X7 roadside assistance, Digital claims inspection, Service guarantee, etc. Bike insurance safeguards you financially if your bike or two-wheeler is involved in an accident or gets stolen or damaged due to natural or man-made damages. Two-wheeler insurance covers the cost of repairs or replacement, ensuring you don't have to shoulder the financial burden alone.\r\nMost online 2-wheeler insurance policies offer coverage for both – damage to the bike and damage to a third-party. A third-party bike insurance cover costs when your bike causes damage or injury to someone else or their property. In India, two-wheeler insurance isn't just a financial safeguard—it's mandatory under the Motor Vehicles Act, 1988. Ensuring your two-wheeler is insured helps you stay compliant with the law while offering peace of mind on every ride. \r\n\r\nCampaign Description: It is a CPS (Cost per Sale) campaign in which client wants to generate maximum revenue for its Bike insurance campaign.\r\n\r\nObjective: The main objective of the campaign is to generate maximum revenue/sales for client.",
-    "status": "active",
+    "name": "ICICI Lombard Bike CPS",
+    "img": "platform/23313.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/1/11/23313-ea3fdb5abd333104.svg",
     "categories": [
       {
@@ -26,12 +23,7 @@
         "parent": null
       }
     ],
-    "img": "platform/23313.svg",
-    "affiliate": {
-      "goto_link": "https://tjzuh.com/g/jvtichtaxq5af0702a279db9c1c432/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 23313,
     "category": {
       "name": "Investments",
       "id": 126,
@@ -42,15 +34,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://tjzuh.com/g/jvtichtaxq5af0702a279db9c1c432/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 27203,
-    "name": "AU Bank [CPA] IN",
-    "name_aliases": "AU small finance bank, AU borrowings, AU saving account",
     "site_url": "https://www.aubank.in",
-    "description": "Company Description- AU is a dream that was started 25 years ago by Mr. Sanjay Agarwal, a merit holder Chartered Accountant and a first-generation entrepreneur. Founded in Jaipur in 1996 as Au Financiers, a non-deposit-taking Non-Banking Finance Company (NBFC), it effectively worked on funding economic growth, especially for the under-served and un-served low & middle-class individuals. \r\n\r\nCampaign Description- AU Bank CPA gives an opportunity for affiliates to earn good revenue if the accounts open are delivered through affiliate links.\r\n\r\nAge & Income Targeting – 25+years, 6 Lacs & above\r\nGeo-Targeting – Top 10 Metros (Except South Cities)\r\n\r\nCampaign Requirement:- To deliver quality leads with a 15% KPI of Saving account open",
-    "status": "active",
+    "name": "AU Bank [CPA] IN",
+    "img": "platform/27203.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/5/13/27203-665162a0e4d9f2b4.svg",
     "categories": [
       {
@@ -71,12 +65,7 @@
         "parent": null
       }
     ],
-    "img": "platform/27203.svg",
-    "affiliate": {
-      "goto_link": "https://tjzuh.com/g/31uew4sg1l5af0702a272f8a740306/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 27203,
     "category": {
       "name": "Investments",
       "id": 126,
@@ -87,15 +76,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://tjzuh.com/g/31uew4sg1l5af0702a272f8a740306/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 43795,
-    "name": "Upstox [Android, CPA] IN",
-    "name_aliases": "upstocks,upstockas,",
     "site_url": "https://upstox.com/",
-    "description": "Company's Description: Upstox was founded with the vision of making financial investing easy, equitable, and affordable to all Indian investors. It offers online investments in stocks, derivatives, commodities, currencies, mutual funds and ETFs for both professional traders and investors. It has also ensured full transparency in pricing by offering zero brokerage on equity delivery trades and up to Rs. 20 per order for intraday, F&O, commodities, and currencies. \r\n\r\nCampaign Description: It is a CPA (Cost per Acquisition) campaign in which affiliates must divert the traffic to the advertiser website and drive qualified acquisitions. Advertisers offering their affiliates to run it in Pan India with the targeting of audience which mentioned under the targeting criteria. All allowed promotional methods are selected under traffic sources.\r\n\r\nTargeting: Pan India\r\n\r\nTarget Audience: 21 – 45 yrs,  Income above 5 lakhs p.a.\r\n\r\nObjective: To tap potential customers and deliver qualified conversions for Upstox",
-    "status": "active",
+    "name": "Upstox [Android, CPA] IN",
+    "img": "platform/43795.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/10/23/43795-c44c35e2a5f826cf.svg",
     "categories": [
       {
@@ -116,12 +107,7 @@
         }
       }
     ],
-    "img": "platform/43795.svg",
-    "affiliate": {
-      "goto_link": "https://wbbsv.com/g/z8ijs7fuyl5af0702a271ed4a9c5e3/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 43795,
     "category": {
       "name": "Investments",
       "id": 126,
@@ -132,6 +118,11 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://wbbsv.com/g/z8ijs7fuyl5af0702a271ed4a9c5e3/",
+      "landings": [],
+      "cashback_link_data": null
     }
   }
 ]

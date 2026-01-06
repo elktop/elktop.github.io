@@ -1,11 +1,8 @@
 [
   {
-    "id": 15218,
-    "name": "Floraexpress",
-    "name_aliases": "Floraexpress, Flora express, Flora-express, Floraexpres, Flora-expres, Flora expres, Флораэкспресс, Флора-экспресс, Флора экспресс, цветы , цветочный, букеты, доставка цветов, доставка букетов, служба доставки цветов и подарков, доставка цветов по москве, россии и всему миру, флорист, цветы на заказ",
     "site_url": "https://www.floraexpress.ru/",
-    "description": "Floraexpress — компания по международной доставке цветов и подарков, работающая с 2006 года. Ассортимент: более 500 букетов и композиций.\r\n\r\nПортрет ЦА:\r\n\r\n\r\n\tМужчины и женщины 25–50 лет.\r\n\tОсновные клиенты: мужчины, заказывающие цветы и подарки для женщин (подарки, праздники, юбилеи, свидания).\r\n\r\n\r\nГеография: Россия.\r\n\r\nПреимущества для партнёров:\r\n\r\n\r\n\tОригинальный ассортимент (ежемесячно 15–20 новых букетов).\r\n\tВысокий уровень доверия бренду (10+ лет на рынке).\r\n\tКонкурентные цены.\r\n\tКруглосуточный сервис.\r\n\tВысокая доля постоянных клиентов.\r\n\tБольшое количество настоящих отзывов в Рунете.\r\n\r\n\r\nПреимущества для клиентов:\r\n\r\n\r\n\tБыстрая и бесплатная доставка.\r\n\tРегулярные акции, включая промо перед праздниками.\r\n\tБукет дня со скидкой 15% (разные в разных регионах).\r\n\tУмение выполнять нестандартные заказы.\r\n\tКруглосуточная поддержка.\r\n\tНадёжность и качество: международный опыт, проверенные партнёры.\r\n\r\n\r\nУсловия доставки:\r\n\r\n\r\n\tДоставка по всей России.\r\n\tБесплатная доставка.\r\n\tСкорость зависит от региона, большинство заказов доставляется в день обращения.\r\n\r\n\r\nКак проходит сверка:\r\nРаз в месяц с 1-14 число, ручная.\r\n\r\nДанные об ОРД (ККТУ):\r\n7.1.2 ИНТЕРНЕТ-ТОРГОВЛЯ (ПРОЧЕЕ)\r\n\r\nВыдача промокодов:\r\nЕсть возможность выдачи именных промокодов по запросу.\r\n\r\nИнформация про модерацию:\r\nМодерация проводится 3 раза в неделю.",
-    "status": "active",
+    "name": "Floraexpress",
+    "img": "platform/15218.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/6/15218-4343911c873f090f.svg",
     "categories": [
       {
@@ -37,7 +34,18 @@
         }
       }
     ],
-    "img": "platform/15218.svg",
+    "id": 15218,
+    "category": {
+      "name": "Hobby & Stationery",
+      "id": 89,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
     "affiliate": {
       "goto_link": "https://ujhjj.com/g/bg71l7yp655af0702a27c1e2b709c0/?erid=MvGzQC98w3Z1gMq1kwrGzNyN",
       "landings": [
@@ -63,26 +71,12 @@
         }
       ],
       "cashback_link_data": null
-    },
-    "category": {
-      "name": "Hobby & Stationery",
-      "id": 89,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
     }
   },
   {
-    "id": 15585,
-    "name": "Издательство «МИФ»",
-    "name_aliases": "Издательство «МИФ», МИФ",
     "site_url": "https://www.mann-ivanov-ferber.ru/",
-    "description": "\r\nПодключайтесь к партнерской программе интернет-магазина издательства «МИФ»!\r\n\r\n\r\n\r\nИздательство МИФ воплощает самые вдохновляющие идеи. С 2005 года выпускаем полезные книги по саморазвитию, творчеству, бизнесу и маркетингу, ЗОЖу и расширяющие кругозор. А также крутые книги для детей и родителей.   \r\n\r\nПреимущества для покупателей:\r\n\r\n\r\n\tШирокий выбор книг для всех возрастов\r\n\tДоступные цены \r\n\tКниги, отобранные экспертами\r\n\tСобственная программа лояльности\r\n\tЕжемесячные акции\r\n\tВсе скидки на сайте суммируются\r\n\tБесплатная доставка заказа от 3 000 руб. по всей России\r\n\r\n\r\nПреимущества для вебмастеров:\r\n\r\n\r\n\tВысокое вознаграждение\r\n\tШирокий ассортимент товаров\r\n\tБольшой выбор типов трафика и инструментов для вебмастеров            \r\n\r\n\r\nГЕО - РФ\r\n\r\nВозможен ли частичный выкуп - нет\r\n\r\nСредний чек - 1 500 рублей   \r\n\r\nЦелевая аудитория:\r\n\r\n\r\n\tМужчины - 34%\r\n\tЖенжины - 66%\r\n\r\n\r\nВозраст:\r\n\r\n\r\n\t25-34 - 40%\r\n\t35-44 - 22%\r\n\t18-24 - 18%\r\n\tОстальные - 20%\r\n\r\n\r\nРегионы:\r\n\r\n\r\n\tМосква - 29%\r\n\tСанкт-Петербург - 11%\r\n\tМосковская область - 6%\r\n\tКраснодарский край - 5%\r\n\tОстальные - 49%\r\n\r\n\r\nДля вебмастеров:\r\n\r\n\r\n\tРучная сверка раз в месяц.\r\n\tМодерация вебмастеров 2 раза в неделю.\r\n\tВозможна выдача именных промокодов.\r\n\r\n\r\nДанные об ОРД. Код ККТУ: 30.4.2",
-    "status": "active",
+    "name": "Издательство «МИФ»",
+    "img": "platform/15585.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/3/28/15585-1f8e8f0d4356d65a.svg",
     "categories": [
       {
@@ -142,12 +136,7 @@
         "parent": null
       }
     ],
-    "img": "platform/15585.svg",
-    "affiliate": {
-      "goto_link": "https://codeaven.com/g/laq08uprbv5af0702a275799280e31/?erid=MvGzQC98w3Z1gMq1kx5N5i8h",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 15585,
     "category": {
       "name": "Hobby & Stationery",
       "id": 89,
@@ -158,15 +147,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://codeaven.com/g/laq08uprbv5af0702a275799280e31/?erid=MvGzQC98w3Z1gMq1kx5N5i8h",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 17378,
-    "name": "Букет СПБ RU",
-    "name_aliases": "букет, цветы, подарки",
     "site_url": "https://www.buket-piter.ru/",
-    "description": "О компании:\r\n\r\n\"Букет-СПБ\" - интернет-магазин доставки цветов, это целый мир, попадая в который, Вы можете реализовать свои цветочные фантазии. C нами доставка цветов и подарков становится простой и приятной. У нас, Вы всегда сможете выбрать и купить прекрасные букеты, оригинальные композиции из свежих цветов или подарки в виде мягких игрушек, воздушных шариков и многое другое. Мы всегда рады помочь клиенту реализовать идею о доставке цветов, самым шикарным образом.\r\n\r\nВ нашу команду входят настоящие профессионалы, обладающих необходимым опытом и мастерством. Флористы-дизайнеры - постоянные участники различных конкурсов и состязаний России и Европы, постоянно совершенствуют свои навыки, проходя обучение в странах Европы: Латвии, Швейцарии и Германии. Наш ассортимент постоянно обновляется. И помимо цветов (в срезе и горшечных), которые уже давно известны Российскому покупателю, в нашем ассортименте Вы встретите и редкие экзотические растения, которые приятно удивят Вас своим внешним видом. Наши основные поставщики - представители Голландии, Эквадора, Колумбии и Кении. Поэтому наши работы - всегда модные, стильные и креативные.\r\n\r\nПортрет целевой аудитории:\r\n\r\nСанкт-Петербург, Москва\r\n\r\nДемография (М,Ж всех возрастов). Цветы покупают все.\r\n\r\nПреимущества для покупателей\r\n\r\nДоставка по СПБ при заказе от 3500 бесплатно\r\n\r\nОгромный выбор букетов\r\n\r\nВсегда свежие цветы\r\n\r\nПрофессиональные флористы\r\n\r\n \r\n\r\nДля вебмастеров:\r\n\r\n\r\n\tРучная сверка раз в месяц.\r\n\tМодерация вебмастеров 2 раза в неделю.\r\n\tВыдача промокодов отсутствует.\r\n\r\n\r\nДанные об ОРД. Код ККТУ: 30.12.1",
-    "status": "active",
+    "name": "Букет СПБ RU",
+    "img": "platform/17378.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/5/17378-2b8bf049c97b2140.svg",
     "categories": [
       {
@@ -187,18 +178,7 @@
         "parent": null
       }
     ],
-    "img": "platform/17378.svg",
-    "affiliate": {
-      "goto_link": "https://thevospad.com/g/rqllu32o6h5af0702a279d0b0aeedb/?erid=MvGzQC98w3Z1gMq1mT52hNuk",
-      "landings": [
-        {
-          "id": 25248,
-          "name": "ЧП",
-          "code": "ba2961bf7e"
-        }
-      ],
-      "cashback_link_data": null
-    },
+    "id": 17378,
     "category": {
       "name": "Hobby & Stationery",
       "id": 89,
@@ -209,15 +189,23 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://thevospad.com/g/rqllu32o6h5af0702a279d0b0aeedb/?erid=MvGzQC98w3Z1gMq1mT52hNuk",
+      "landings": [
+        {
+          "id": 25248,
+          "name": "ЧП",
+          "code": "ba2961bf7e"
+        }
+      ],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 21382,
-    "name": "Арт-маркет \"Красный Карандаш\"",
-    "name_aliases": "Krasniykarandash, Красный карандаш, Rhfcysq rfhfylfi, лкфытшнлфкфтвфыр",
     "site_url": "https://krasniykarandash.ru/",
-    "description": "Сеть арт-маркетов \"Красный Карандаш\" – это крупнейший продавец художественных товаров в России. Более 30 000 видов красок, кистей, холстов и всего того, что нужно творческому человеку. Наши клиенты – профессиональные художники, студенты художественных вузов, а также непрофессиональные художники. Среди ассортимента магазинов, находящихся в Москве, а также интернет-магазина, который осуществляет доставку по всей России, есть абсолютно все товары, необходимые для художников. Представлены самые распространенные и недорогие товары и художественные инструменты класса люкс, производящиеся ограниченными тиражами.\r\n\r\nПортрет ЦА:\r\n\r\n\r\n\tДемография: студенты (17-23), художники (23-70), м/ж: 30/70.\r\n\tДополнительные данные: учащиеся средних и высших учебных заведений по дизайну, архитектуре, искусству, профессиональные и непрофессиональные художники, родители учащихся в художественных учебных заведениях.\r\n\r\n\r\nГеография:\r\n\r\nМосква и МО, Россия.\r\n\r\nПреимущества работы для партнёров:\r\n\r\n\r\n\tВысокий спрос на продукцию (как среди профессионалов, так и среди любителей).\r\n\tШирокий ассортимент, подходящий разным сегментам аудитории.\r\n\tСтабильная доставка и позитивный имидж бренда.\r\n\tКлиенты активно ищут где дешевле и с недорогой доставкой, что повышает конверсию.\r\n\r\n\r\nПреимущества для клиентов:\r\n\r\n\r\n\tНедорогая доставка.\r\n\tКачественная упаковка товара (не помнется бумага, не разольется краска).\r\n\tДоставка по всей России.\r\n\tЛучший ассортимент.\r\n\tПрофессиональные консультанты-художники в магазине и колл-центре.\r\n\r\n\r\nУсловия доставки:\r\n\r\n\r\n\tДоставка по Москве и регионам России.\r\n\tНедорогая стоимость доставки.\r\n\tАкцент на надежной упаковке.\r\n\r\n\r\nКак проходит сверка:\r\nРаз в месяц с 1-14 число, автосверка.\r\n\r\nДанные об ОРД (ККТУ):\r\n7.1.2 ИНТЕРНЕТ-ТОРГОВЛЯ (ПРОЧЕЕ)\r\n\r\nВыдача промокодов:\r\nЕсть возможность выдачи именных промокодов по запросу.\r\n\r\nИнформация про модерацию:\r\nМодерация проводится 3 раза в неделю.",
-    "status": "active",
+    "name": "Арт-маркет \"Красный Карандаш\"",
+    "img": "platform/21382.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/17/21382-1e3c5c584bcc1774.svg",
     "categories": [
       {
@@ -255,18 +243,7 @@
         "parent": null
       }
     ],
-    "img": "platform/21382.svg",
-    "affiliate": {
-      "goto_link": "https://rzekl.com/g/4pmv8klbb75af0702a275f8e5138d9/?erid=25H8d7vbP8SRTvJ4r3KggN",
-      "landings": [
-        {
-          "id": 21878,
-          "name": "Чёрная пятница 2022",
-          "code": "5cf01a68f5"
-        }
-      ],
-      "cashback_link_data": null
-    },
+    "id": 21382,
     "category": {
       "name": "Hobby & Stationery",
       "id": 89,
@@ -277,15 +254,23 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://rzekl.com/g/4pmv8klbb75af0702a275f8e5138d9/?erid=25H8d7vbP8SRTvJ4r3KggN",
+      "landings": [
+        {
+          "id": 21878,
+          "name": "Чёрная пятница 2022",
+          "code": "5cf01a68f5"
+        }
+      ],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 22921,
-    "name": "Alamy WW",
-    "name_aliases": "alamy, almy, фдфьн, photo library, stock, photo, Alamy, online",
     "site_url": "https://www.alamy.com",
-    "description": "Alamy is the world’s most diverse stock photo library.\r\n\r\nAlamy is the world’s most diverse stock photo library with close to 200 million creative and editorial stock photos, vectors, 360-degree images and videos from individual photographers, picture agencies and archives. Its global contributor base supplies upwards of 100,000 new images a day to the company’s online platform.\r\n\r\nFounded in 1999, Alamy was built on a vision to change the world of picture buying and selling. The company has successfully developed technical expertise, great customer service, strong photographer relations and a powerful brand story, to deliver a compelling proposition to the world’s picture buyers.\r\n\r\nThe library offers creative and editorial stock photography sourced from a network of over 100,000 photographers and 650 picture agencies and archives. Its customers span the globe, covering the publishing, advertising, design, corporate and broadcast sectors.\r\n\r\nAlamy’s headquarters are in Oxfordshire, United Kingdom. It has offices in the United States and India, as well as a team based in Australia.",
-    "status": "active",
+    "name": "Alamy WW",
+    "img": "platform/22921.jpeg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/11/1/22921-f5ce96445c8652e4.jpeg",
     "categories": [
       {
@@ -317,18 +302,7 @@
         "parent": null
       }
     ],
-    "img": "platform/22921.jpeg",
-    "affiliate": {
-      "goto_link": "https://rzekl.com/g/2iccuet8eh5af0702a275796bcdfd3/",
-      "landings": [
-        {
-          "id": 19949,
-          "name": "Spain - landing page",
-          "code": "2cbbda29df"
-        }
-      ],
-      "cashback_link_data": null
-    },
+    "id": 22921,
     "category": {
       "name": "Hobby & Stationery",
       "id": 89,
@@ -339,15 +313,23 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://rzekl.com/g/2iccuet8eh5af0702a275796bcdfd3/",
+      "landings": [
+        {
+          "id": 19949,
+          "name": "Spain - landing page",
+          "code": "2cbbda29df"
+        }
+      ],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 23405,
-    "name": "Zavvi Many Geos",
-    "name_aliases": "Zavvi, яфммш, Zavi",
     "site_url": "https://www.zavvi.com/",
-    "description": "Zavvi.com has established itself as a specialist entertainment retailer for ever-popular Video Games, Consoles, DVD, Blu-ray and our new selection of exclusive Steelbooks, not to mention a great new range of clothing, toys, gadgets and more.\r\n\r\nOur affiliates enjoy daily deals, regular price drops, updated special offers, as well as the chance to check out and pre-order all the hottest and most sought after products.  Whether you’re looking to find a dvd for a great night in, interactive game for endless hours or entertainment or the latest from the music scene you’ll find it all and more on Zavvi.com.\r\n\r\nSome of the orders remain pending for a long time, because of the preorders os items out stock. The commission will be paid out when the order is completely dispatched. ",
-    "status": "active",
+    "name": "Zavvi Many Geos",
+    "img": "platform/23405.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/6/23405-eb3cc847fc62cdd3.svg",
     "categories": [
       {
@@ -368,12 +350,7 @@
         "parent": null
       }
     ],
-    "img": "platform/23405.svg",
-    "affiliate": {
-      "goto_link": "https://dhwnh.com/g/m3bgfwcojd5af0702a27fbdc97414a/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 23405,
     "category": {
       "name": "Hobby & Stationery",
       "id": 89,
@@ -384,15 +361,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://dhwnh.com/g/m3bgfwcojd5af0702a27fbdc97414a/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 26821,
-    "name": "Cotosen WW",
-    "name_aliases": "котосен, cotosen, kotosen, cotocen, kotocen, cotisen, cotasen, catasen",
     "site_url": "https://www.cotosen.com/",
-    "description": "Cotosen is the leading online store that combines function with fashion, convenience with comfort. Setting the standard for tactical, outdoor clothing and accessories worldwide.\r\n\r\nWe are looking for potential partners to do a win-win business through affiliate network.\r\n\r\nIf you want to make money with your traffic resource, blog/social media, website or any marketing channels, welcome to JOIN Cotosen.com Affiliate Program.\r\n\r\nBENEFIT FOR Publishers\r\n\r\n- Rich& Exclusive Creatives\r\n\r\n- Periodical Newsletter With Hot Creatives\r\n\r\n- A Dedicated Program Team Help You Succeed\r\n\r\n- Low return rate\r\n\r\n- Solid products\r\n\r\n- Good EPC\r\n\r\nOur target audience: Worldwide\r\n\r\nBonus Scale available\r\n\r\nMarch TOP products here.\r\n\r\nWe are happy to create a successful business together with you!",
-    "status": "active",
+    "name": "Cotosen WW",
+    "img": "platform/26821.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/11/17/26821-760d33b232b51b31.png",
     "categories": [
       {
@@ -446,7 +425,18 @@
         }
       }
     ],
-    "img": "platform/26821.png",
+    "id": 26821,
+    "category": {
+      "name": "Hobby & Stationery",
+      "id": 89,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
     "affiliate": {
       "goto_link": "https://gndrz.com/g/7ez2cndy8k5af0702a27fe9cf762a5/",
       "landings": [
@@ -472,26 +462,12 @@
         }
       ],
       "cashback_link_data": null
-    },
-    "category": {
-      "name": "Hobby & Stationery",
-      "id": 89,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
     }
   },
   {
-    "id": 35866,
-    "name": "Beurer BY",
-    "name_aliases": "беурер шоп, беурер, берурер, беруер, иугкук, иукгук, beruer, beurer, theth, theth, Beurer, бойрер, беурер, бауэр, бёрер, бойрэр, буерер, бурер, берер, бюрер, борер, бойлер, брорер, бюрэр, биуер, бьерер",
     "site_url": "https://beurer-belarus.by/",
-    "description": "Beurer - эксклюзивный дистрибьютор немецкой техники Beurer в Беларуси. Beurer - лидер на рынке инновационных товаров в области здоровья, красоты и комфорта.\r\n\r\nС 1919 г. компания Beurer GmbH является одним из мировых лидеров на рынке инновационных изделий в области здоровья и хорошего самочувствия. Техника для здоровья Бойрер – качественная немецкая продукция для Вашего хорошего самочувствия, комфорта и красоты. Вся продукция разработана для сохранения и улучшения здоровья, поддержания Вашей физической формы, отличного самочувствия и привлекательной внешности.\r\n\r\nПортрет целевой аудитории:\r\n\r\n\r\n\tЖенщины – 66,7%, Мужчины – 33,3%\r\n\tВозраст 25 - 55 лет\r\n\tСредний и выше среднего уровень дохода\r\n\tСледят за здоровьем\r\n\t83,95% пользователи мобильных устройств, 14,22% пользователей десктопной версии сайта\r\n\r\n\r\nПреимущества для клиентов:\r\n\r\n\r\n\tШирокий ассортимент товаров - новинки Beurer появляются у нас в наличии в приоритетную очередь\r\n\tВыгодные цены - цены первого поставщика, за счет отсутствия посредников в цепи поставок\r\n\tДлинная гарантия - предоставляем гарантию производителя от 3 лет\r\n\tНемецкие стандарты качества - продукция испытана в ведущих научно-исследовательских организациях\r\n\r\n\r\nПопулярные товары (категории): \r\n\r\n\r\n\tМассажеры\r\n\tУход за кожей (щеточки для лица)\r\n\tВентиляторы\r\n\tГидромассажные ванночки\r\n\tТонометры\r\n\r\n\r\nРекомендации по позиционированию бренда:\r\n\r\n\r\n\tЭксклюзивный дистрибьютер Beurer в Беларуси\r\n\tНемецкое качество, официальная гарантия от 3 лет, гарантия на тонометры 5 лет\r\n\tЧестные цены\r\n\tТовары для красоты, здоровья и комфорта из Германии\r\n\tДля тонометров – сделано в Германии\r\n\r\n\r\nПреимущества для веб-мастеров:\r\n\r\n\r\n\tСотрудничество с известным брендом\r\n\tРегулярные выплаты \r\n\tВысокий процент подтверждения \r\n\tКонкурентная ставка и высокий средний чек\r\n\tВремя жизни куки - 90 дней!\r\n\r\n\r\nОсобенности работы оффера:\r\n\r\n\r\n\tЕжемесячная ручная сверка \r\n\tВ программе доступен промокодный инструмент и смарт промокоды\r\n\tРегулярная модерация на стороне Адмитад\r\n\r\n\r\n\r\nС Уважением, Парнерская программа Beurer BY!",
-    "status": "active",
+    "name": "Beurer BY",
+    "img": "platform/35866.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/4/21/35866-48ebad5c8fbdec4b.svg",
     "categories": [
       {
@@ -523,18 +499,7 @@
         }
       }
     ],
-    "img": "platform/35866.svg",
-    "affiliate": {
-      "goto_link": "https://bednari.com/g/uxxovshng45af0702a279e49faa7fb/",
-      "landings": [
-        {
-          "id": 26886,
-          "name": "Скидочные товары",
-          "code": "d3e96878d4"
-        }
-      ],
-      "cashback_link_data": null
-    },
+    "id": 35866,
     "category": {
       "name": "Hobby & Stationery",
       "id": 89,
@@ -545,15 +510,23 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://bednari.com/g/uxxovshng45af0702a279e49faa7fb/",
+      "landings": [
+        {
+          "id": 26886,
+          "name": "Скидочные товары",
+          "code": "d3e96878d4"
+        }
+      ],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 43020,
-    "name": "Woodestic Many Geos",
-    "name_aliases": "woodestic, woodestic.com, woodestic com",
     "site_url": "https://woodestic.com",
-    "description": "\r\n\r\nAbout our company:\r\nWoodestic is a premium wooden board game manufacturer founded in Hungary in 2012. We are an enthusiastic team handcrafting and selling high-quality wooden board games worldwide. Our mission is to provide a unique and lasting gaming experience for people, in the form of board games, anywhere in the world!\r\n\r\n\r\n\r\nWoodestic Crokinole Tournament:\r\nCrokinole, a timeless tabletop skill game that blends dexterity, strategy, and fun, has its roots in 19th-century Canada. In recent times, it has experienced a resurgence in popularity on this side of the Atlantic.\r\n\r\nWoodestic Crokinole Elite:\r\nThese stunning boards are made individually. The pattern of the intarsia is all unique, with no duplications, and there is only ONE board from each pattern. All of the intarsias are designed by our craftsman, the items are placed into their place one by one. The leather ditch is made carefully by a professional manufacturer who makes sure that the result is the most premium crokinole ditch ever.\r\n\r\nWoodestic Crokinole Exclusive:\r\nTournament-size Crokinole with the image of your choice printed on the surface of the board.\r\n\r\nWoodestic Crokinole Mini:\r\nThis board is an excellent option for individuals with restricted space who desire a high-quality board. Moreover, it's well-suited for children who might find a full-sized board too cumbersome for their play.\r\n\r\nWoodestic Carrom:\r\nIt all began with a single glass-surfaced Carrom board found in a palace in Patiala, India. The basic rules are similar to billiards at first glance, where the objective is to shoot discs (the Carrom men and the Queen) into holes in the corners of the court using a larger shooting disc.\r\n\r\nWoodestic PitRush:\r\nPitRush is a family board game originating from Hungary, accommodating 2-6 players. It offers two distinct gameplay modes tailored to various preferences. One involves lively and chaotic mass swiping, while the other demands strategic and tactical skill.\r\n\r\nWoodestic Sling:\r\nSling is an exhilarating tabletop flicking game designed for you and your friends to enjoy. In this game, participants aim to propel all of their discs across the table to strike their opponents' discs, trigger the lock, and secure a triumphant win.\r\n\r\n\r\n\r\nUser-friendly website:\r\nThe website is designed to provide a streamlined shopping experience for customers. https://woodestic.com/\r\n\r\nSocial media:\r\nVarious social media platforms, and a strong presence in different media.\r\n\r\n\r\n\tFacebook\r\n\tInstagram\r\n\tTikTok\r\n\tTwitter\r\n\tYouTube\r\n\r\n\r\nAbout our customers:\r\n\r\nGender\r\n\r\n\r\n\tFemale: ~30%\r\n\tMale: ~70%\r\n\r\n\r\nAge\r\n\r\n\r\n\t18-34: ~20%\r\n\t35-54: ~45%\r\n\t55+: ~35%\r\n\r\n\r\nMore:\r\n\r\n\r\n\tMostly highly educated (university)\r\n\tMost of them buy the boards as a gift for someone\r\n\t5000+ satisfied customers\r\n\tThey appreciate that they get more for their money\r\n\r\n\r\nCampaign Description:\r\nWoodestic provides an opportunity for the publisher to earn commission every time a customer purchases through Admitad's affiliate link.\r\n\r\nCampaign Objective:\r\nThe cooperation aims to drive traffic and increase sales on Woodestic website.\r\n\r\nCommission rate for affiliates:\r\nFor such high-value products 10% commission is a great deal. The commission is paid after board game sets only.\r\n\r\nTracking clarity:\r\n30-Day Cookie Period – Visitors from affiliate sites can generate sales and earn commissions within 30 days of clicking.\r\n\r\nGEO:\r\nWorldwide. You can be anywhere in the world, our goal is to spread the joy of Woodestic games all over the world.\r\n\r\nLet’s game! :)",
-    "status": "active",
+    "name": "Woodestic Many Geos",
+    "img": "platform/43020.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/10/26/43020-69381cae5e2062d9.svg",
     "categories": [
       {
@@ -574,12 +547,7 @@
         }
       }
     ],
-    "img": "platform/43020.svg",
-    "affiliate": {
-      "goto_link": "https://naiawork.com/g/do86ucnzhx5af0702a27c586cc6aee/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 43020,
     "category": {
       "name": "Hobby & Stationery",
       "id": 89,
@@ -590,15 +558,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://naiawork.com/g/do86ucnzhx5af0702a27c586cc6aee/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 130741,
-    "name": "Corsair WW",
-    "name_aliases": "corsair, Corsair WW, corsair.com",
     "site_url": "https://corsair.com",
-    "description": "We make high-performance memory, ultra-efficient power supplies, PC cases, PC and CPU cooling solutions, solid-state storage, and provide gaming keyboards, mice, headsets and mouse pads to eSports professionals and anyone passionate about PC gaming.",
-    "status": "active",
+    "name": "Corsair WW",
+    "img": "platform/130741.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/10/27/130741-4902ff414d2f0ee9.svg",
     "categories": [
       {
@@ -641,12 +611,7 @@
         }
       }
     ],
-    "img": "platform/130741.svg",
-    "affiliate": {
-      "goto_link": "https://ntzgd.com/g/hpl2levo9f5af0702a2745cfa0a3aa/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 130741,
     "category": {
       "name": "Hobby & Stationery",
       "id": 89,
@@ -657,15 +622,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://ntzgd.com/g/hpl2levo9f5af0702a2745cfa0a3aa/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 142248,
-    "name": "Maxmassage RU",
-    "name_aliases": "Maxmassage, максмассаж, ьфчьфыыфпу, vfrcvfccf;, vfccf;, массаж, массажеры, массажные приборы",
     "site_url": "https://maxmassage.ru/",
-    "description": "Интернет-магазин Maxmassage с 2012 года занимается продажей аппаратов для прессотерапии и лимфодренажа: для дома, салонов красоты и медицинских центров. Сотрудничаем с частными докторами, школами бега, центрами эстетической косметологии, санаториями и детским центром физической реабилитации и спорта «ГРОССКО». На основе экспертного опыта разработан собственный бренд массажной техники Rebodi.\r\n\r\nПреимущества для покупателей:\r\n\r\n\r\n\tЭксклюзивный дистрибьютор южнокорейского бренда Welbutech;\r\n\tШирокий ассортимент товаров для комплексного ухода за телом;\r\n\t Посещаем фабрики производителей для доработки устройств и контроля качества;\r\n\tШоурумы в Москве и Санкт-Петербурге для тестдрайва массажёров;\r\n\tСобственный сервисный центр;\r\n\tБесплатные профессиональные консультации по выбору аппарата;\r\n\tБольшой выбор способов оплаты: при получении товара или на сайте; банковская карта, наличные, рассрочка, оплата частями, кредит, безналичный расчёт;\r\n\tБесплатная доставка в крупные города России при заказе от 5000 рублей;\r\n\tВыгодные цены и скидки по программе лояльности;\r\n\tАкции каждую неделю.\r\n\r\n\r\nПортрет целевой аудитории:\r\n\r\n\r\n\tПол: 70% женщин и 30% мужчин;\r\n\tВозраст: старше 55 - 38%; 35-44 лет- 20%; 25-34 и 45-54 лет - по 17%.\r\n\tГеография: Москва и МО 18,1%, Санкт-Петербург и ЛО - 6,9%, Краснодарская область 4,6%, Свердловская область 3,3%, остальное из разных городов.\r\n\tСреди интересов Рестораны, Интернет-банкинг, Одежда, Отдых и путешествия, недвижимость --> Платежеспособная аудитория\r\n\r\n\r\nПопулярные товары: массажеры Rebodi для комплексного ухода за телом; лимфодренажные аппараты Zam-02, Zam Z-Sport и Zam Luxury.",
-    "status": "active",
+    "name": "Maxmassage RU",
+    "img": "platform/142248.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/9/9/142248-ca5a9285df31ed2d.svg",
     "categories": [
       {
@@ -708,12 +675,7 @@
         }
       }
     ],
-    "img": "platform/142248.svg",
-    "affiliate": {
-      "goto_link": "https://kdbov.com/g/qfciv0bmuk5af0702a278b8c8bdf7b/?erid=2bL9aMPo2e49hMef4rqUn6AVp6",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 142248,
     "category": {
       "name": "Hobby & Stationery",
       "id": 89,
@@ -724,6 +686,11 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://kdbov.com/g/qfciv0bmuk5af0702a278b8c8bdf7b/?erid=2bL9aMPo2e49hMef4rqUn6AVp6",
+      "landings": [],
+      "cashback_link_data": null
     }
   }
 ]

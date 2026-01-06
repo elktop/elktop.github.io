@@ -1,12 +1,9 @@
 {
   "data": [
     {
-      "id": 37980,
-      "name": "Mamash UA",
-      "name_aliases": "Мамаш, mamash",
       "site_url": "https://mamash.ua/",
-      "description": "MAMASH – український нішевий бренд доглядової косметики. В асортименті засоби для обличчя, волосся і тіла. \r\n\r\nСеред постійних клієнтів відомі особистості та найвпливовіші українські лідери думок, більшість з яких залишаються з MAMASH ще з часів заснування. За рахунок цього є велика довіра та впізнаваність. \r\n\r\nБренд веде активну волонтерську діяльність, про яку неодноразово згадували у своїх матеріалах міжнародні глянці VOGUE та ELLE.\r\n\r\nВся продукція виготовляється у Львові з повністю сертифікованих у Європі активів за сприяння провідних світових лабораторій-партнерів бренду: CLR (Берлін), Cobiosa (Барселона) та Infinitec (Барселона). \r\n\r\nУ всіх засобах використовується нішевий парфум, який для бренду виготовляє французька парфумерна компанія Jean Niel.\r\n\r\nЖоден інгредієнт не тестується на тваринах, не містить парабенів, спиртів, формальдегідів, SLES/SLS, барвників. \r\n\r\nСеред колекцій MAMASH: \r\n\r\n\r\n\t15 систем догляду для обличчя;\r\n\t4 прогресивні лінійки для відновлення та росту волосся;\r\n\t6 комплексів для догляду за тілом.\r\n\r\n\r\nДогляд для обличчя, тіла і волосся від MAMASH — це унікальні діючі формули з високою концентрацією активів для того, щоб твоя шкіра відчула трохи магії. \r\n\r\nПереваги для клієнтів:\r\n\r\n\r\n\tбезкоштовна консультація кваліфікованого косметолога для підбору засобів; \r\n\tбезкоштовна доставка;\r\n\tподарунки до замовлень від суми 1500 грн\r\n\tзнижки на комплексні набори \r\n\r\n\r\nПортрет цільової аудиторії \r\n\r\n\r\n\tОсновна цільова аудиторія – жінки віком від 25 років з вищою освітою та середнім рівнем доходу. Вони приділяють увагу саморозвитку та, зокрема, догляду за собою. Б`юті-ритуали для них – це важлива частина дня, яка приносить не тільки користь, а й задоволення від процесу. Вони обирають догляд, в якості якого впевнені. Більшість жінок, які обирають MAMASH, залишаються з брендом протягом багатьох років.\r\n\r\n\r\nПопулярні товари \r\n\r\n\r\n\tКомплексний набір для волосся Niacinamide Theraphy Prestige\r\n\tКомплексний набір для волося Filler Therapy Prestige\r\n\tКомплексний набір Encapsulated Retinol Standard \r\n\tКомплексний набір Anti-Glycation Prestige\r\n\tКрем для обличчя з SPF 30 \r\n\tКомплексний антицелюлітний набір Sunrise in Sicily Prestige  \r\n\r\n\r\nРекомендації щодо позиціонування бренду\r\n\r\n\r\n\tMAMASH – український нішевий бренд доглядової косметики.\r\n\tПерше, на що звертаєш увагу — вишуканість дизайну та його лаконічність.\r\n\tСклад і ефективність засобів: всі інгредієнти, які використовуються для виготовлення засобів, мають європейську сертифікацію. Постійні партнери бренду – провідні європейські лабораторії по виготовленню активів.\r\n\tОсновне, на чому зараз зосереджена діяльність бренду — активне волонтерство. Про реалізовані проєкти можна більше дізнатись у соц. мережах бренду.\r\n",
-      "status": "active",
+      "name": "Mamash UA",
+      "img": "platform/37980.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2023/6/23/37980-5f0bc39b25e03866.svg",
       "categories": [
         {
@@ -39,12 +36,7 @@
           "parent": null
         }
       ],
-      "img": "platform/37980.svg",
-      "affiliate": {
-        "goto_link": "https://bywiola.com/g/rasbm4geee5af0702a272b2a4ed853/",
-        "landings": [],
-        "cashback_link_data": null
-      },
+      "id": 37980,
       "category": {
         "name": "Personal Care & Pharmacy",
         "id": 67,
@@ -55,15 +47,17 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://bywiola.com/g/rasbm4geee5af0702a272b2a4ed853/",
+        "landings": [],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 38150,
-      "name": "Iherb.group",
-      "name_aliases": "айхерб, fq[th,, шруки",
       "site_url": "https://iherbgroup.ru",
-      "description": "iHerb — крупнейший интернет-магазин, предлагающий более 35 000 тысяч товаров, включая БАДЫ, средства для домашнего ухода, натуральную косметику, витамины, аромамасла, товары для дома. Доставка в любую точку России СДЭК или Почта России. Принимаем любые российские банковские карты.\r\n\r\n \r\n\r\n\r\nПреимущества для клиентов:\r\n\r\nПредлагаем полный ассортимент iHerb, принимаем российские банковские карты, доставляем в любую точку России за 3-4 недели, не требуем заполнения таможенных деклараций.\r\n\r\n \r\n\r\n\r\nПортрет целевой аудитории:\r\n\r\nПокупатели со средним и выше среднего доходами, которые заботятся о своем здоровье, красоте и образе жизни, заинтересованы в составе и качестве продуктов, которые потребляют и используют в повседневной жизни. \r\n\r\n \r\n\r\n\r\nПопулярные товары:\r\n\r\nВитамины групп B,C,D,E, омега\r\n\r\n \r\n\r\n\r\nРекомендации по позиционированию бренда: \r\n\r\nАкцент нужно сделать на том что можно оформлять заказы как раньше, скорость доставки практически такая же, ассортимент прежний\r\n\r\n\r\n\tРучная сверка раз в месяц\r\n\tКод ККТУ: 15.3.5\r\n\tВыдача именных и smart промокодов\r\n\tМодерация 2 раза в неделю\r\n\r\n\r\nС Уважением, Партнерская программа iHerb!",
-      "status": "active",
+      "name": "Iherb.group",
+      "img": "platform/38150.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/23/38150-a8b3c61d705ecb4d.svg",
       "categories": [
         {
@@ -84,12 +78,7 @@
           }
         }
       ],
-      "img": "platform/38150.svg",
-      "affiliate": {
-        "goto_link": "https://xnmik.com/g/ncvzabqdgm5af0702a2762343b7806/?erid=2bL9aMPo2e49hMef4pfzYmiQPz",
-        "landings": [],
-        "cashback_link_data": null
-      },
+      "id": 38150,
       "category": {
         "name": "Personal Care & Pharmacy",
         "id": 67,
@@ -100,15 +89,17 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://xnmik.com/g/ncvzabqdgm5af0702a2762343b7806/?erid=2bL9aMPo2e49hMef4pfzYmiQPz",
+        "landings": [],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 38227,
-      "name": "Gait KW QA",
-      "name_aliases": "gait, جايت، جيت",
       "site_url": "https://gait.com.kw/g_kw_en",
-      "description": "All things Apple. Including experts.\r\n\r\nGait offers the best possible Apple experience through expert advice and a wide range of exclusive services that ensure you get the most out of your Apple products for your personal, business, and educational purchases and upgrades.\r\n\r\nOur first store opened in The Avenues Mall, Phase 4, and since then we've grown to 4 retail stores that are conveniently situated across the country, as well as an online store.\r\n\r\nYour local Apple experts can assist during the discovery stage, ensuring you purchase the right and complete solution for your needs, are able to set up your new devices easily, and remain committed to ensuring you enjoy your Apple products beyond the purchase stage.  We are here to service and repair your Apple products, and when the time comes to upgrade, we can assist with your upgrade to a new Apple product.\r\n\r\nWe're expanding our Apple Premium Partner store to Qatar. We'll be offering the latest Apple products, services, and accessories to customers in this exciting new market. Our focus on innovation and technology aligns well with Qatar's aspirations to be a hub for advanced technology in the region. We're dedicated to providing excellent customer service and support, and we're excited to contribute to Qatar's growth and development.",
-      "status": "active",
+      "name": "Gait KW QA",
+      "img": "platform/38227.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/18/38227-a09fdcffa5254381.svg",
       "categories": [
         {
@@ -129,12 +120,7 @@
           }
         }
       ],
-      "img": "platform/38227.svg",
-      "affiliate": {
-        "goto_link": "https://zallj.com/g/fidnk4kp0w5af0702a27a331958848/",
-        "landings": [],
-        "cashback_link_data": null
-      },
+      "id": 38227,
       "category": {
         "name": "Household Appliances & Electronics",
         "id": 65,
@@ -145,15 +131,17 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://zallj.com/g/fidnk4kp0w5af0702a27a331958848/",
+        "landings": [],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 38329,
-      "name": "Pro32.com",
-      "name_aliases": "Про32, про, ghj32, ghj",
       "site_url": "https://pro32.com",
-      "description": "Добро пожаловать! \r\nПрисоединяйтесь к партнёрской программе «PRO32». \r\n\r\nО компании: \r\n\r\nPRO32 — поставщик эффективных ИТ‑решений для бизнеса, государственных структур и домашних пользователей. \r\n\r\n Мы — российская IT‑компания с 19‑летним опытом работы в международном бизнесе и обширной экспертизой в разработке и продаже программного обеспечения.  \r\n\r\nПодробнее на www.pro32.com \r\n\r\nПреимущества для партнёров: \r\n\r\n\r\n\tВознаграждение выплачивается за все продукты \"PRO32\" вне зависимости от их категории и стоимости. \r\n\tСоздайте новый источник доходов для вашего бизнеса. \r\n\tВыпускайте рекламные акции и конкурсы, которые доступны только через наш партнёрский канал. \r\n\tМы ценим каждого партнёра, мы всегда готовы помочь в поддержке их продаж. \r\n\tВсе продажи отслеживаются в течение 30 дней с момента перехода по ссылке, поэтому, даже, если пользователю необходимо некоторое время, чтобы решиться на покупку, вы всё равно сможете получить комиссию. \r\n\tПовышайте трафик своего сайта с помощью продвижения мирового лидера в области решений IT-безопасности. \r\n\r\n\r\n  \r\n\r\nРешения, за которые предусмотрено вознаграждение: \r\n\r\nPRO32 Total Security \r\nБазовая интернет-защита компьютеров и ноутбуков на базе операционной системы Windows с минимальным потреблением системных ресурсов устройства. \r\n\r\nPRO32 Ultimate Security \r\nКомплексная антивирусная защита для устройств на базе операционных систем Windows и Android с функциями защиты онлайн-платежей, с функциями резервного копирования данных. \r\n\r\nPRO32 Mobile Security \r\nЗащита мобильных устройств на базе операционной системы Android от киберугроз, вредоносных приложений и физической кражи. \r\n\r\nPRO32 Office Security Base \r\nБазовый антивирус для защиты малого бизнеса в комплектах для 5, 10, 15 и 20 устройств. Подходит компаниям, которым не требуется консоль управления администратора. \r\n\r\n  \r\n\r\nТакже оплачиваются покупки решений:   \r\n\r\nPRO32 Connect удаленный доступ \r\nItHelper безопасная сеть (VPN) \r\nOfficeSuite офисный приложение (аналог MS Office) \r\n\r\n \r\n\r\nМинус-слова: ESET, продлить ESET, PRO32 это ESET \r\n\r\nПортрет целевой аудитории: \r\n\r\n\r\n\tЯдро аудитории: мужчины и женщины 25-55 лет \r\n\tЖенат/замужем, есть дети, есть домашние животные \r\n\tНе женат/ не замужем, детей нет, домашних животных нет \r\n\tЗанятость: офисный работник/IT специалист \r\n\tОбразование: высшее образование \r\n\r\n\r\nИнтересы:  \r\n\r\n\r\n\tбухгалтерские, финансовые услуги, инвестиции \r\n\tпокупки онлайн \r\n\tактивные пользователи десктопных и мобильных устройств \r\n\tпутешествия и активный отдых \r\n\tесть автомобиль \r\n\r\n\r\n \r\n\r\nГеография: крупные города \r\n\r\n \r\n\r\nПреимущества для клиентов: \r\n\r\n\r\n\tСамый быстрый и легкий антивирус по международной оценке AV comparatives \r\n\tВыгодная стоимость решений \r\n\tМноголетние лицензии \r\n\tРоссийская разработка  \r\n\tБыстрая доставка купленных решений на электронную почту \r\n\tКачественная и доступная техническая поддержка \r\n\r\n\r\nПопулярные решения: \r\n\r\n\r\n\tАнтивирус PRO32 Total Security \r\n\tАнтивирус PRO32 Ultimate Security \r\n\tУдаленный доступ PRO32 Connect \r\n\r\n\r\n Рекомендации по позиционированию бренда: \r\n\r\n\r\n\tНовый антивирус PRO32 на российском рынке \r\n\tБыстрый антивирус PRO32 \r\n\tЛегкий антивирус PRO32 \r\n\r\n\r\nДля вебмастеров:\r\n\r\n\r\n\tРучная сверка раз в месяц.\r\n\tМодерация вебмастеров 2 раза в неделю.\r\n\tВыдача именных промокодов\r\n\r\n\r\nДанные об ОРД. Код ККТУ: 9.2.1\r\n\r\nС уважением,  \r\n\r\nПартнерская программа «PRO32». \r\n\r\n \r\n\r\n ",
-      "status": "active",
+      "name": "Pro32.com",
+      "img": "platform/38329.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/2/38329-adb321875bef3220.svg",
       "categories": [
         {
@@ -186,7 +174,18 @@
           "parent": null
         }
       ],
-      "img": "platform/38329.svg",
+      "id": 38329,
+      "category": {
+        "name": "IT Services & Soft",
+        "id": 122,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
       "affiliate": {
         "goto_link": "https://dhwnh.com/g/ifnfdpbjf35af0702a27218237fc8f/?erid=2bL9aMPo2e49hMef4pfzYr9Mwx",
         "landings": [
@@ -207,26 +206,12 @@
           }
         ],
         "cashback_link_data": null
-      },
-      "category": {
-        "name": "IT Services & Soft",
-        "id": 122,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
       }
     },
     {
-      "id": 38693,
-      "name": "НАДПО",
-      "name_aliases": "nadpo.ru,nadpo, надпо, тфвзщ, Национальная академия дополнительного профессионального образования",
       "site_url": "https://nadpo.ru/",
-      "description": "Партнерская программа Академии НАДПО (https://nadpo.ru)\r\n\r\nНациональная Академии Дополнительного Профессионального Образования (НАДПО)\r\n\r\n\r\n\tСпециализируемся на дистанционных курсах переподготовки и повышения квалификации\r\n\tОсновной профиль Академии – психология, наши студенты могут освоить профессию психолога и начать консультировать уже через 6-12 месяцев обучения\r\n\tТакже проводим курсы по педагогике, дефектологии, менеджменту, физ.культуре и спорту, нутрициологии и другим направлениям социальной сферы\r\n\r\n\r\nЦелевая аудитория:\r\n\r\n\r\n\tЖенщины - 72%\r\n\tВозраст 25-54 года - 79%\r\n\tТип устройства – mobile+tablet - 73%, desktop - 27%\r\n\r\n\r\nПреимущества для вебмастеров:\r\n\r\n\r\n\tВысокие конверсии – конверсия из лида в подтвержденный заказ до 69% у топ-партнеров, средняя 43%\r\n\tПлатим комиссию за первую и повторные покупки курса одним пользователем\r\n\tВысокий средний чек – 61 436 ₽\r\n\tПоддержка вебмастеров на всех этапах работы с оффером – ответим на вопросы, подготовим нужные материалы\r\n\tБонусная мотивационная шкала для вебмастеров – чем выше сумма продаж, тем выше вознаграждение\r\n\tСверяем и передаем Сети статусы заказов уже на второй рабочий день месяца\r\n\tВ 2025 – два новых тарифа для веб-мастеров\r\n\r\n\r\nПреимущества для покупателей:\r\n\r\n\r\n\t100% дистанционное обучение\r\n\tДиплом установленного государством образца\r\n\t80% всех преподавателей являются докторами и кандидатами наук с практическим опытом работы\r\n\tВходим в ТОП-3 среди лидеров организаций онлайн-образования РФ\r\n\tЛицензия Министерства образования РФ № Л035-01298-77/00181484, которую можно проверить на сайте Рособрнадзора\r\n\tРассрочка 0% от 2 месяцев. Возможность взять рассрочку от Академии без участия банков\r\n\tБолее 797+ курсов обучения в 12 сферах\r\n\t85000+ выпускников\r\n\tВ стоимость обучения входят HR консультации и консультации по развитию личного бренда\r\n\tБесплатная консультация в подборе курса обучения под цели клиента и финансовые возможности\r\n\r\n\r\nРост среднего чека за последние месяцы в динамике: \r\n\r\n\r\n\tОктябрь 2024 – 30 697 ₽\r\n\tЯнварь 2025 – 50 606 ₽\r\n\tМарт 2025 – 61 436 ₽\r\n\r\n\r\nОблако тегов - что ищет наша аудитория перед покупкой у нас:\r\n\r\n\r\n\tПсихология, нутрициология, психолог-консультант, курсы с дипломом московского вуза, курсы с налоговым вычетом, дпо, академия онлайн, нейропсихолог, детская психология, психотерапия, физическая культура и спорт, сексология, кпт, когнитивно-поведенческая психотерапия, психосоматика, логопедия, арт-терапия, семейная психология\r\n\r\n\r\n Список минус-слов, вводные по гео и направлениям (для контекстной рекламы)\r\n\r\nРучная сверка раз в месяц\r\n\r\nМодерация вебмастеров 2-3 раза в неделю",
-      "status": "active",
+      "name": "НАДПО",
+      "img": "platform/38693.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2024/4/3/38693-aac7070380112c32.svg",
       "categories": [
         {
@@ -259,7 +244,18 @@
           "parent": null
         }
       ],
-      "img": "platform/38693.svg",
+      "id": 38693,
+      "category": {
+        "name": "Online Education",
+        "id": 98,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
       "affiliate": {
         "goto_link": "https://xyowz.com/g/h2nbelj9dj5af0702a27fbae08d226/?erid=2bL9aMPo2e49hMef4pfzfGHGWU",
         "landings": [
@@ -320,26 +316,12 @@
           }
         ],
         "cashback_link_data": null
-      },
-      "category": {
-        "name": "Online Education",
-        "id": 98,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
       }
     },
     {
-      "id": 38740,
-      "name": "Autopiter KZ",
-      "name_aliases": "Autopiter, автопитер, фгещпшеук, fdnjgbnth",
       "site_url": "https://autopiter.kz/",
-      "description": "Autopiter.kz - крупнейший интернет-магазин автозапчастей, занимающийся оптовой и розничной продажей запчастей для легковых, грузовых автомобилей, спецтехники и мотоциклов.\r\n\r\nКомпания работает с 1998 года и входит в топ 5 интернет-магазинов по продаже автозапчастей по Казахстану. \r\n\r\nAutopiter - это более 35 тысяч магазинов и сервисов, представленных в 600 городах, 500+ млн запчастей и 500 млн позиций на сайте, 170 тысяч посетителей в сутки!\r\n\r\n \r\n\r\nЦА:\r\n\r\n\r\n\t95% мужчины, от 25-55 лет\r\n\tактивно интересуются техническим устройством автомобиля, мотоциклов, спецтехники\r\n\tменеджер/мастер по СТО, которому нужна деталь\r\n\tДоход: средний\r\n\r\n\r\n \r\n \r\nПреимущества для клиентов:\r\n\r\n\r\n\tБольшой ассортимент по выгодным ценам\r\n\tРедкие и эксклюзивные запчасти\r\n\tКаталоги оригинальных запчастей и аналогов\r\n\tОбширная логистика \r\n\tБесплатная доставка «до двери», самовывоз\r\n\tОплата при получении заказа\r\n\tУдобная и лояльная система возвратов\r\n\tСроки поставки от 0 дня\r\n\tГарантия на всю продукцию, все заказы тщательно проверяются перед отправкой\r\n\tЛичный менеджер для решения нестандартных вопросов\r\n\tПомощь в подборе автозапчастей\r\n\tБонусные программы\r\n\r\n\r\n \r\n\r\nПреимущества для партнёров:\r\n\r\n\r\n\tВысокий коэффициент конверсии сайта за счёт популярности бренда\r\n\tВысокая посещаемость \r\n\t65% покупок совершаются при первом визите\r\n\tЧестное подтверждение заявок\r\n\tДостойное вознаграждение за подтвержденную заявку\r\n\tОперативная сверка и своевременная выплата\r\n\tСпециальное предложение для партнёров, привлекающих оптовых клиентов\r\n\tПостоянно работаем над увеличением конверсии\r\n\tРаботаем над повышением узнаваемости бренда в online и offline\r\n\tВсегда открыты для ваших предложений\r\n\r\n\r\n \r\n\r\nОсобенности работы оффера:\r\n\r\n\r\n\tЕжемесячная ручная сверка\r\n\tВ программе не доступен промокодный инструмент\r\n\tРегулярная модерация на стороне Адмитад\r\n\r\n\r\n \r\n\r\nВниманию партнеров:\r\nОсновная аудитория Autopiter.kz – оптовые Клиенты. Поэтому есть некоторые особенности в работе с заказами оптовых Клиентов.\r\nОплате подлежат:\r\n- все заказы новых Клиентов, \r\n- заказы ранее зарегистрированных на сайте autopiter.kz Клиентов, при условии, что у этих Клиентов не было заказов за последние 3 месяца (реактивированные Клиенты).\r\n\r\nУважаемые партнёры, в программе категорически запрещена контекстная реклама с использованием ключевых слов \"автопитер\", \"автопитер.rp\", \"autopiter\", \"autopiter.kz\" и их производных в любой вариации, а также в сочетании с любыми другими словами.\r\nТе партнёры, которые будут использовать подобные ключевые слова в контекстной рекламе - будут отключены от партнёрской программы без возможности сохранения заработка.\r\n\r\n \r\n\r\nС уважением, Партнерская программа Autopiter.kz!",
-      "status": "active",
+      "name": "Autopiter KZ",
+      "img": "platform/38740.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/8/38740-547b60bef3f46830.svg",
       "categories": [
         {
@@ -371,12 +353,7 @@
           }
         }
       ],
-      "img": "platform/38740.svg",
-      "affiliate": {
-        "goto_link": "https://xmknb.com/g/ffyafoii2o5af0702a27ea08f2c368/",
-        "landings": [],
-        "cashback_link_data": null
-      },
+      "id": 38740,
       "category": {
         "name": "Cars & Bikes",
         "id": 196,
@@ -387,15 +364,17 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://xmknb.com/g/ffyafoii2o5af0702a27ea08f2c368/",
+        "landings": [],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 38910,
-      "name": "Allegra K Many GEOs",
-      "name_aliases": "Allegra K",
       "site_url": "https://www.allegra-k.com/",
-      "description": "Allegra K® is an online fashion store. Our aim is to elaborately provide superior quality clothes at a reasonable price for everyone. We own strong and complex supply chain and talented designers’ team in this industry. We always listen to our customers’ opinion and strive to find the innovative ways to improve and deliver the most satisfying products. Regardless of a diverse range of body types, personality and gender, you can find clothes that fit.",
-      "status": "active",
+      "name": "Allegra K Many GEOs",
+      "img": "platform/38910.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2023/6/28/38910-7b12fecf5b3b3671.svg",
       "categories": [
         {
@@ -422,18 +401,7 @@
           "parent": null
         }
       ],
-      "img": "platform/38910.svg",
-      "affiliate": {
-        "goto_link": "https://dorinebeaumont.com/g/aozpgoz74i5af0702a27cdeebe7d54/",
-        "landings": [
-          {
-            "id": 31196,
-            "name": "Black Friday Sales",
-            "code": "f14fe34989"
-          }
-        ],
-        "cashback_link_data": null
-      },
+      "id": 38910,
       "category": {
         "name": "Clothing, Footwear, Accessories",
         "id": 64,
@@ -444,15 +412,23 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://dorinebeaumont.com/g/aozpgoz74i5af0702a27cdeebe7d54/",
+        "landings": [
+          {
+            "id": 31196,
+            "name": "Black Friday Sales",
+            "code": "f14fe34989"
+          }
+        ],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 39232,
-      "name": "Steamgold [CPS] RU",
-      "name_aliases": "Steamgold, Стимголд",
       "site_url": "https://steamgold.ru/",
-      "description": "Подключайтесь к партнерской программе Steamgold [CPS] RU!\r\n\r\nСтили проекта для акционных материалов\r\nАктуальные баннеры\r\nБаннеры для осенней распродажи Steam 2025\r\nЗимняя распродажа 2025\r\n\r\n\r\nСтимголд — надежный партнер для цифровых товаров, особенно когда дело доходит до пополнения аккаунта в Стиме. Мы знаем, как важно иметь достаточно средств для покупки желаемых игр и дополнений, поэтому наша команда всегда готова помочь.\r\n\r\nНаши услуги предоставляют пользователям возможность легко и безопасно пополнить свои аккаунты в Стиме. Мы гарантируем мгновенное пополнение, так что вы можете начать играть в новую игру или использовать дополнение немедленно после покупки.\r\n\r\nСтимголд обеспечивает высокий уровень безопасности, поскольку все операции проходят через защищенные серверы. Ваша конфиденциальность и безопасность — наш приоритет. Мы предлагаем конкурентные цены и широкий спектр опций платежа, что делает нас удобным и доступным решением для всех пользователей Стима.\r\n\r\nВ программе также заведены лэндинги, ведущие на страницы пополнения игр и сервисов*:\r\n\r\n\r\n\tBattle.net\r\n\tPlaystation Network\r\n\tXbox\r\n\tApex Legends\r\n\tFree Fire\r\n\tGenshin Impact\r\n\tGoddess of Victory: Nikke\r\n\tHonkai: Star Rail\r\n\tHonor of Kings\r\n\tMinecraft\r\n\tPUBG Mobile\r\n\tRoblox\r\n\tValorant\r\n\tZenless Zone Zero\r\n\r\n\r\nСтимголд — ваши надежные руки в мире цифровых товаров. Мы здесь, чтобы помочь вам получить максимальное удовольствие от вашего игрового опыта в Стиме. Присоединяйтесь к нам и убедитесь в этом самостоятельно!\r\n\r\nСтили проекта и исходники для материалов\r\n\r\nВсе актуальные новости в нашем Telegram-канале Admitad | Games!",
-      "status": "active",
+      "name": "Steamgold [CPS] RU",
+      "img": "platform/39232.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2023/10/20/39232-03d0fd4424f1a26b.svg",
       "categories": [
         {
@@ -473,7 +449,18 @@
           }
         }
       ],
-      "img": "platform/39232.svg",
+      "id": 39232,
+      "category": {
+        "name": "Game Stores and Services",
+        "id": 214,
+        "language": "en",
+        "parent": {
+          "name": "Online Games",
+          "id": 6,
+          "language": "en",
+          "parent": null
+        }
+      },
       "affiliate": {
         "goto_link": "https://dorinebeaumont.com/g/btdvcjk5wi5af0702a276e4ff1910f/?erid=2bL9aMPo2e49hMef4pfzfRDCrs",
         "landings": [
@@ -549,26 +536,12 @@
           }
         ],
         "cashback_link_data": null
-      },
-      "category": {
-        "name": "Game Stores and Services",
-        "id": 214,
-        "language": "en",
-        "parent": {
-          "name": "Online Games",
-          "id": 6,
-          "language": "en",
-          "parent": null
-        }
       }
     },
     {
-      "id": 39241,
-      "name": "Headway Many Geos",
-      "name_aliases": "Headway, хэдвэй",
       "site_url": "https://play.google.com/store/apps/details?id=com.headway.books",
-      "description": "Headway Many GEO\r\nIF You need MMP links - please request them.\r\nGEO :\r\nUK, AU, CA ,Europe, LATAM, Other\r\n\r\nTracker: Appsflyer Mobmio\r\nPaid event: subscription_success_trial, subscription_success_nontrial\r\nUser flow: app install - app open - free trial - subscription purchase\r\nAllowed traffic sources:\r\n\r\n\r\n\tIn-app\r\n\tUnity Ads\r\n\tApplovin\r\n\tBigo Ads\r\n\tMintegral\r\n\tSnapchat\r\n\tSEO\r\n\r\n\r\nVTA is allowed\r\nPostInstall - 30 days\r\nValidation process: Appsflyer +CRM\r\nNOTES:\r\n1. Name campaigns like this Agency_AppName_OS_Geo\r\n2. Avoid exceeded dimensions (don't use to many values of media_sources and other parameters), the details are there:\r\n\r\nAlso important, please always add to your links: utm_source=affiliate\r\n\r\nHard KPI:\r\n\r\n\r\n\tinstalls - 5000 per source\r\n\tfraud - not more than 20%\r\n\tretention rates - client will just look at the % of users who get back to the product after some periods from corresponding installs.\r\n\trefund rates - refunds/subscriptions, no more than 12%\r\n\tchargbacks rates - refunds/subscriptions, no more than 3%\r\n\t\r\n\tCreatives: https://drive.google.com/drive/u/0/folders/1q_1FaCqpPFVk6eN0PGkXVdSX0zM_iFhsv\r\n",
-      "status": "active",
+      "name": "Headway Many Geos",
+      "img": "platform/39241.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2024/10/17/39241-a0dc3269d72f438a.svg",
       "categories": [
         {
@@ -617,7 +590,18 @@
           }
         }
       ],
-      "img": "platform/39241.svg",
+      "id": 39241,
+      "category": {
+        "name": "Mobile Services",
+        "id": 115,
+        "language": "en",
+        "parent": {
+          "name": "Mobile Programs",
+          "id": 79,
+          "language": "en",
+          "parent": null
+        }
+      },
       "affiliate": {
         "goto_link": "https://dorinebeaumont.com/g/0lsosy937l5af0702a278cba3b3b49/",
         "landings": [
@@ -638,26 +622,12 @@
           }
         ],
         "cashback_link_data": null
-      },
-      "category": {
-        "name": "Mobile Services",
-        "id": 115,
-        "language": "en",
-        "parent": {
-          "name": "Mobile Programs",
-          "id": 79,
-          "language": "en",
-          "parent": null
-        }
       }
     },
     {
-      "id": 39284,
-      "name": "Ultahost WW",
-      "name_aliases": "Ultahost Affiliate Program",
       "site_url": "https://Ultahost.com",
-      "description": "Ultahost is a leader in fast Hosting solutions for mission critical sites and apps. Own your cheapest web server with the highest virtual reliability. We are the Recommended Envato Hosting provider. UltaHost is a leading web hosting solutions company, Since our founding in 2018, We has continually became the fastest and the next generation web hosting provider.\r\n\r\nEarn from every sale based on your traffic level. Promote a trusted service loved by millions. Join an affiliate program that values your partnership. Get sales commission not only for yearly plans as our competitors do! But monthly sales as well.",
-      "status": "active",
+      "name": "Ultahost WW",
+      "img": "platform/39284.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2023/9/1/39284-9c6b0ef9a2874768.svg",
       "categories": [
         {
@@ -684,12 +654,7 @@
           }
         }
       ],
-      "img": "platform/39284.svg",
-      "affiliate": {
-        "goto_link": "https://tjzuh.com/g/p94q6juobv5af0702a279b33e1379c/",
-        "landings": [],
-        "cashback_link_data": null
-      },
+      "id": 39284,
       "category": {
         "name": "Other Services",
         "id": 93,
@@ -700,15 +665,17 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://tjzuh.com/g/p94q6juobv5af0702a279b33e1379c/",
+        "landings": [],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 39458,
-      "name": "Ticketscloud RU",
-      "name_aliases": "тикетсклауд, nbrtncrkfel, ешслуеысдщгв, Ticketscloud,ТИКЕТСКЛАУД",
       "site_url": "https://ticketscloud.com/",
-      "description": "Ticketscloud — надежный партнер для тысяч организаторов мероприятий, билетных систем и площадок в России уже более 9 лет. Даем все инструменты создателям фестивалей, концертов и вечеринок для организации мероприятий, которые останутся в памяти зрителей. Финансовая аналитика, ивент консалтинг, умная система настройки продаж билетов, организация входной группы и надежные партнеры — решения Ticketscloud подходят и новичкам и профессионалам рынка развлечений.\r\n\r\nПреимущества для клиентов:\r\n\r\n\r\n\tвывод денежных средств в течение 5 рабочих дней;\r\n\tшлюзы с более чем 60 агентами;\r\n\tприложение-витрина vibeapp – защита от подделок, контроль вторичного рынка, коммуникация со зрителями;\r\n\tорганизатор может установить сервисный сбор в желаемом объеме, он полностью суммируется в доход организатора;\r\n\tнастройка автоматического изменения цены и дополнительных триггеров в виджете для увеличения конверсии;\r\n\tавтоматизированные отмены и переносы мероприятий с оповещением зрителей и билетных операторов;\r\n\tпромо-рассылки; выгрузка баз из личного кабинета с фильтрами по датам, мероприятиям, статусам заказов;\r\n\tвозможность работы на зарубежном рынке;\r\n\tприем иностранных карт;\r\n\tавтоматическая отправка счета и закрывающих документов для покупателей юр. лиц;\r\n\tпомощь в построении стратегии продаж;\r\n\tпрозрачная динамика продаж с детальной аналитикой в личном кабинете и мобильном приложении по датам, мероприятиям, каналам продаж, статусам заказов;\r\n\tгибкие и автоматизированные отчеты по расписанию, интеграции с основными сервисами аналитики;\r\n\tинструменты для промо; промокоды, промо-акции, виральные промокоды, динамические промокоды;\r\n\tнастройки ролей доступов для всех членов команды – аналитик, бухгалтер, администратор, менеджер, артист;\r\n\tкастомизация внешнего вида виджета, билета, письма;\r\n\tнастройка дополнительных полей для сбора необходимой информации и уведомлений при покупке билета;\r\n\tавтоматизированный электронный документооборот;\r\n\tотправка бесплатных пригласительных билетов, служба заботы для организаторов и зрителей, степень удовлетворенности ответами 97%, среднее время ответа 2 минуты\r\n\r\n\r\n \r\n\r\nПортрет целевой аудитории:\r\n\r\nОрганизаторы мероприятий (концертов, вечеринок и фестивалей), площадки с репертуаром и продажей билетов (клубы, бары, концертные залы и т.д.), артисты и их менеджеры, самостоятельно занимающиеся распространением билетов и промо мероприятий, промоутеры и концертные агентства, билетные распространители (владельцы ресурсов с продажей билетов на мероприятия), в перспективе еще и подрядчики мероприятий концертной индустрии* (площадки, арендодатели светового/звукового оборудования, кейтеринг и т.д.).  \r\n\r\nЯдро ЦА - до 30 лет,  новички с проблемой мультизадачности и открытые к технологиям.\r\n\r\n \r\n\r\nПопулярные товары:\r\n\r\nПлатформа Ticketscloud\r\n\r\n \r\n\r\nРекомендации по позиционированию бренда:\r\n\r\nВ тексте объявления использовать/обыгрывать следующие формулировки:\r\n\r\n\r\n\tПерсональный цифровой помощник для организации мероприятий\r\n\tСоздавать мероприятия легко и надежно\r\n\tTicketscloud умеет решать любые задачи индустрии развлечений \r\n\r\n\r\nВ дополнениях и расширениях прописывать/обыгрывать:\r\n\r\n\r\n\t1 договор вместо 50\r\n\tУдобный личный кабинет\r\n\tСканирование билетов\r\n\tОблачная касса\r\n\tВиджет для продажи билетов\r\n\tСтратегия продаж\r\n\tИнструменты для промо\r\n\r\n\r\nДля вебмастеров:\r\n\r\n\r\n\tРучная сверка раз в месяц.\r\n\tМодерация вебмастеров 2 раза в неделю.\r\n\tВыдача промокодов отсутствует.\r\n\r\n\r\nДанные об ОРД. Код ККТУ: 9.2.1\r\n\r\nС Уважением, Партнерская программа Ticketscloud.com!",
-      "status": "active",
+      "name": "Ticketscloud RU",
+      "img": "platform/39458.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2024/1/15/39458-d8d541e95fdab907.svg",
       "categories": [
         {
@@ -751,12 +718,7 @@
           }
         }
       ],
-      "img": "platform/39458.svg",
-      "affiliate": {
-        "goto_link": "https://kdbov.com/g/7ipc88k0k45af0702a27b5dae7b08e/?erid=2bL9aMPo2e49hMef4pgUXYbdgC",
-        "landings": [],
-        "cashback_link_data": null
-      },
+      "id": 39458,
       "category": {
         "name": "Other Services",
         "id": 93,
@@ -767,15 +729,17 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://kdbov.com/g/7ipc88k0k45af0702a27b5dae7b08e/?erid=2bL9aMPo2e49hMef4pgUXYbdgC",
+        "landings": [],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 39738,
-      "name": "Mytrip.com WW",
-      "name_aliases": "mytrip, MyTrip, ьнекшз, my rtip, my trip",
       "site_url": "https://www.mytrip.com/",
-      "description": "What is Mytrip\r\nMytrip is one of the world’s largest travel agents, helping more than 7 million people book flights every year. We work with over 800 airlines, covering 99% of all possible routes – and always at highly competitive prices. We’re active in more than 75 markets, and we make it easy for travelers by accepting most local currencies and payment methods.\r\n\r\nThe Mytrip affiliate program\r\nOur affiliate program is open to partners worldwide. Whether you’re just getting started or already established, we give you the tools and support you need to grow on a global scale. By joining, you’ll be working with a well-known travel brand and gain access to an international platform.\r\n\r\nSupport & services\r\nOur affiliate team is excited to welcome you on board and build a strong partnership for years to come. And of course, our customer service is available 24/7, ready to help travelers wherever they are and in their own language.\r\n\r\nTerms\r\nA maximum commission of EUR 85 per booking applies, meaning bookings with an order value exceeding USD 2,145 will receive a commission of EUR 85.\r\n\r\nBrand bidding is not allowed and will result in immediate suspension from our program. Combinations like \"Mytrip voucher codes\" and \"Mytrip cashback\" are considered brand bidding, and will result in immediate suspension.\r\nAs a publisher participating in our affiliate program, you agree not to use the following brand names on your sites in connection with promoting our affiliate offerings: American Airlines, Thai Smile, Delta Airlines, Air Canada, Indigo, Air France, KLM, United Airlines, Alaskan Airlines, Hawaiian Airlines, Ryanair.\r\nPublishers are strictly prohibited from using our brand name in their display URLs or landing page URLs. No usage of our brand name in any form within display URLs and landing page URLs.\r\n\r\nCookie period: 30 days",
-      "status": "active",
+      "name": "Mytrip.com WW",
+      "img": "platform/39738.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2025/12/3/39738-7fc9e48be7f54b93.svg",
       "categories": [
         {
@@ -802,12 +766,7 @@
           "parent": null
         }
       ],
-      "img": "platform/39738.svg",
-      "affiliate": {
-        "goto_link": "https://bednari.com/g/7nd768vzxk5af0702a270b22a746bd/",
-        "landings": [],
-        "cashback_link_data": null
-      },
+      "id": 39738,
       "category": {
         "name": "Flights",
         "id": 44,
@@ -818,15 +777,17 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://bednari.com/g/7nd768vzxk5af0702a270b22a746bd/",
+        "landings": [],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 39739,
-      "name": "Gotogate WW",
-      "name_aliases": "gotogate, Gotogate, пщещпфеу, go to gate,",
       "site_url": "https://www.gotogate.com/",
-      "description": "What is Gotogate\r\nGotogate is among the biggest global travel agents, with more than 7 million airline tickets sold annually. We offer highly competitively priced airline tickets across 800+ airline companies and cover flights across 99% of all route combinations. We are constantly growing and active across 75+ markets and accept most common local currencies and payment options.\r\n\r\nAbout the Gotogate affiliate program\r\nOur affiliate program is a globally inclusive initiative, open to qualified applicants from around the world. The program provides resources and support to help affiliates succeed on an international scale. \r\n\r\nServices\r\nOur dedicated affiliate marketing team looks forward to welcoming you aboard the Gotogate Affiliate Marketing program and to expanding our collaboration over the next many years to come. Our customer service team works 24/7 to ensure happy customers no matter where they are situated or what language they speak.\r\n\r\nTerms\r\nBrand bidding is not allowed and will result in immediate suspension from our program. Combinations like \"Gotogate voucher codes\" and \"Gotogate cashback\" are considered brand bidding, and will result in immediate suspension.As a publisher participating in our affiliate program, you agree not to use the following brand names on your sites in connection with promoting our affiliate offerings: American Airlines, Thai Smile, Delta Airlines, Air Canada, Indigo, Air France, KLM, United Airlines, Alaskan Airlines, Hawaiian Airlines, Ryanair.\r\n\r\nPublishers are strictly prohibited from using our brand name in their display URLs or landing page URLs. No usage of our brand name in any form within display URLs and landing page URLs\r\n\r\nCookie period: 30 days",
-      "status": "active",
+      "name": "Gotogate WW",
+      "img": "platform/39739.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/30/39739-d864f35e57eaf4c2.svg",
       "categories": [
         {
@@ -847,12 +808,7 @@
           }
         }
       ],
-      "img": "platform/39739.svg",
-      "affiliate": {
-        "goto_link": "https://zejcl.com/g/s1xryc9j195af0702a2737873c6bfe/",
-        "landings": [],
-        "cashback_link_data": null
-      },
+      "id": 39739,
       "category": {
         "name": "Flights",
         "id": 44,
@@ -863,15 +819,17 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://zejcl.com/g/s1xryc9j195af0702a2737873c6bfe/",
+        "landings": [],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 40315,
-      "name": "hidemyname vpn",
-      "name_aliases": "hidemy.name, hmn, HideMy name, HideMy.Name, hidemy, vpn hmn, vpn, vpn service, hmn service, hidemyname, ршву, ршвуьнтфьу, хайдмайнэйм, хайд, hide, hidemyna.me, hidemyna, hidemyname",
       "site_url": "https://hide.mn/",
-      "description": "Join the affiliate program VPN hidemyname\r\n\r\nThe company hidemyname was founded in 2006 and is a leading service provider, offering users the most convenient and comfortable access to VPN services. Our network adheres to principles of anonymity, security, and internet freedom. Thanks to easy installation, user-friendly interface, and competitive pricing, millions of users choose VPN services from hidemyname.\r\n\r\n\r\n\r\nThe list of videos that webmasters can use in their campaigns can be found here.\r\n\r\nAdvantages for customers:\r\n\r\n\r\n\tSecure file and message exchange of any level of confidentiality (without the ability to trace the connection).\r\n\tUnblock all possible protocols and websites.\r\n\tTransparent operation for any application (once the VPN is activated, all applications automatically gain secure network access).\r\n\t2048-bit encryption of all traffic (maximum protection against traffic interception and personal data).\r\n\tChoose from 94 servers located in 68 cities across 43 countries worldwide (server channels up to 10 Gbps).\r\n\tFull support for all desktop operating systems, mobile devices (iOS & Android), and routers.\r\n\tOne subscription for all devices. You can use our service on five devices simultaneously.\r\n\tSecure connection to public Wi-Fi.\r\n\t24/7 technical support.\r\n\r\n\r\nPersonal Security:\r\n\r\n\r\n\tAt home / At work / In public places (cafes, metros)\r\n\tOnline payments\r\n\tEmail correspondence\r\n\tMessaging apps\r\n\tNetwork activity logs, tracking which websites you visit\r\n\tInformation about the files you exchange\r\n\tProtection on public networks\r\n\r\n\r\nFinancial Benefits for Users:\r\n\r\n\r\n\tOnline purchases (airline tickets, games)\r\n\tCurrency exchange\r\n\tStock market transactions\r\n\tRentals (hotels, cars)\r\n\r\n\r\nAccess (at home, at work, in public places):\r\n\r\n\r\n\tFree 1-day trial\r\n\tAffordable pricing (like a burger or a movie ticket)\r\n\tEasy setup\r\n\tAccess to websites restricted by the country or for certain countries (FB, last.fm, Ya.Music, Ivi.ru)\r\n\tAccess to adult content and similar themes (PornHub, etc.)\r\n\tAccess to programs (Skype, Telegram, Torrent)\r\n\tBlock access to undesired websites and protocols (last.fm, Ya.Music, Spotify)\r\n\tCompatible with all devices (desktop applications for Win-Linux, mobile applications for Android-iOS, SmartTV, router firmware)\r\n\tUse on up to 5 devices simultaneously\r\n\r\n\r\nProtection against Cybercriminals who may:\r\n\r\n\r\n\tSteal personal data\r\n\tSteal passwords\r\n\tSteal financial data\r\n\tSteal money/cryptocurrency\r\n\tCommit illegal activities on your behalf\r\n\r\n\r\nKey advantages of HMN:\r\n\r\n\r\n\tOperating for 15 years since 2006\r\n\tBased in Belize jurisdiction (Central America, borders Guatemala and Mexico)\r\n\tVarious price plans (day, 1 month, 6 months, 1 year, 2 years, 5 years)\r\n\tOver 121 servers, 64 cities, 45 countries\r\n\tConstantly increasing the number of servers distributed across countries\r\n\t30-day money-back guarantee if you are unsatisfied with the service\r\n\r\n\r\nBenefits for partners:\r\n\r\n\r\n\tHigh commission for purchases\r\n\thidemyname has a good reputation with many positive reviews online\r\n\tEasy monetization of traffic with the best conversion rates in the segment\r\n\t90-day Cookie lifespan\r\n\tA wide range of traffic types and tools for webmasters.\r\n\r\n\r\n \r\n\r\n\r\n\t\r\n\t\t\r\n\t\t\t\r\n\t\t\tJoin the hidemyname VPN affiliate program and earn more with us!\r\n\t\t\r\n\t\r\n\r\n\r\n ",
-      "status": "active",
+      "name": "hidemyname vpn",
+      "img": "platform/40315.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2024/9/30/40315-e2a9d12c9b7cab20.svg",
       "categories": [
         {
@@ -898,18 +856,7 @@
           "parent": null
         }
       ],
-      "img": "platform/40315.svg",
-      "affiliate": {
-        "goto_link": "https://codeaven.com/g/d6ig17yj385af0702a27cfba9fca8a/",
-        "landings": [
-          {
-            "id": 28661,
-            "name": "Domain RU 2",
-            "code": "7649acc696"
-          }
-        ],
-        "cashback_link_data": null
-      },
+      "id": 40315,
       "category": {
         "name": "IT Services & Soft",
         "id": 122,
@@ -920,15 +867,23 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://codeaven.com/g/d6ig17yj385af0702a27cfba9fca8a/",
+        "landings": [
+          {
+            "id": 28661,
+            "name": "Domain RU 2",
+            "code": "7649acc696"
+          }
+        ],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 40417,
-      "name": "Doctorslon KZ",
-      "name_aliases": "doctorslon, ljrnjhckjy, докторслон, доктор слон, вщсещкыдщт, вщлещк ыдщт",
       "site_url": "https://doctorslon.kz/",
-      "description": "«Доктор Слон» — интернет-магазин, специализирующийся на ирригаторах, зубных щетках и всевозможных средствах по уходу за полостью рта. Мы стремимся предложить нашим клиентам максимальный выбор товаров с оптимальным соотношением цены и качества.\r\n\r\n\r\nПортрет ЦА:\r\n \r\n\r\nПол:\r\n\r\n\r\n\tЖенщины - 65,6 %\r\n\tМужчины - 34,4%\r\n\r\n\r\nВозраст:\r\n\r\n\r\n\tот 18 до 24 - 18,29%\r\n\tот 25 до 34 - 25,98%\r\n\tот 35 до 44 - 23,9%\r\n\tот 45 до 54 - 14,96%\r\n\tот 55 до 64 - 10,66%\r\n\t65+ - 6,21%\r\n\r\n\r\nПреимущества для веб-мастеров:\r\n\r\n\r\n\tКонкурентные ставки по сегменту\r\n\tВысокий процент подтверждения \r\n\tАкции и рекламные материалы \r\n\tПоддержка и надежное сотрудничество\r\n\r\n\r\nПреимущества для клиентов:\r\n\r\n\r\n\tбесплатная доставка курьером от 20 000 тг\r\n\tвесь товар сертифицирован\r\n\tрасширенная гарантия на большинство товаров\r\n\tтолько оригинальная продукция, а не подделки, которые можно купить на маркетплейсах\r\n\tиндивидуальная помощь в подборе каждому клиенту\r\n\tбесплатная консультация стоматолога онлайн https://doctorslon.kz/company/ask/\r\n\tакции и скидки https://doctorslon.kz/company/actions/\r\n\tподарочные сертификаты https://doctorslon.kz/company/actions/650073/\r\n\tреферальная программа для клиентов https://doctorslon.kz/company/actions/459915/\r\n\tпрограмма лояльности https://doctorslon.kz/company/actions/21181/\r\n\r\n\r\nОсобенности работы оффера:\r\n\r\n\r\n\tЕжемесячная ручная сверка\r\n\tВ программе доступен промокодный инструмент / смарт промокоды\r\n\tРегулярная модерация на стороне Адмитад\r\n\r\n\r\n \r\n\r\n\r\nПопулярные товары\r\n\r\n\r\n\tИрригаторы\r\n\tэлектрические зубные щетки\r\n\tингаляторы\r\n\tтонометры\r\n\r\n\r\nЧто важно в подаче информации о Докторслон\r\n\r\nЗадача - познакомить аудиторию с нашим брендом; рассказать, что Докторслон - это магазин, где можно не только купить любое средство гигиены для полости рта и получить профессиональную консультацию, но и проконсультироваться онлайн (бесплатно) с практикующими стоматологами: детскими стоматологами, ортодонтами, ортопедами, имплантологами.\r\n\r\n\r\n\tкрупнейший специализированный магазин средств гигиены и профилактики\r\n\tнас рекомендуют 8 из 10 стоматологов\r\n\tпостоянно изучаем рынок, тестируем, советуемся со стоматологами, выбираем лучшее\r\n\tподбираем средства гигиены индивидуально для каждого клиента: все консультанты получают базовое стоматологическое образование\r\n\tконсультации со стоматологом-онлайн на сайте и в приложении\r\n\tэко-проект по сбору использованных зубных щёток\r\n\tПомощь консультанта, который разбирается в продукции\r\n\tЭкспертность в уходе за полостью рта\r\n\r\n\r\n \r\n\r\nПодключайтесь к партнерской программе Doctorslon!",
-      "status": "active",
+      "name": "Doctorslon KZ",
+      "img": "platform/40417.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/14/40417-364de08f3dd8504e.svg",
       "categories": [
         {
@@ -960,12 +915,7 @@
           }
         }
       ],
-      "img": "platform/40417.svg",
-      "affiliate": {
-        "goto_link": "https://yknhc.com/g/ttfls6sqis5af0702a27ef285ae838/",
-        "landings": [],
-        "cashback_link_data": null
-      },
+      "id": 40417,
       "category": {
         "name": "Personal Care & Pharmacy",
         "id": 67,
@@ -976,15 +926,17 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://yknhc.com/g/ttfls6sqis5af0702a27ef285ae838/",
+        "landings": [],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 40489,
-      "name": "Freedom WW",
-      "name_aliases": "Freedom WW, freedom.to",
       "site_url": "https://freedom.to",
-      "description": "Digital distractions are worse than ever. Freedom blocks them. No other screen time solution gives you the powerful multi-device control of Freedom. Mac, Windows, iOS, Android, or Chrome – we've got you covered.",
-      "status": "active",
+      "name": "Freedom WW",
+      "img": "platform/40489.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2023/9/22/40489-512ad9c5c802a728.svg",
       "categories": [
         {
@@ -1005,12 +957,7 @@
           }
         }
       ],
-      "img": "platform/40489.svg",
-      "affiliate": {
-        "goto_link": "https://ficca2021.com/g/ed45pebje85af0702a27d816286443/",
-        "landings": [],
-        "cashback_link_data": null
-      },
+      "id": 40489,
       "category": {
         "name": "Other Services",
         "id": 93,
@@ -1021,15 +968,17 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://ficca2021.com/g/ed45pebje85af0702a27d816286443/",
+        "landings": [],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 40500,
-      "name": "wau.ru",
-      "name_aliases": "ллскин, ддылшт, kkcrby, crby,  wau.ru,  wau, dfe, вау, цфн",
       "site_url": "https://wau.ru/",
-      "description": "WAU - девайсы и косметика с ВАУ-эффектом! Это самые современные технологии для омоложения, поддержания красоты и здоровья в домашних условиях. В линейке 15 девайсов и премиальная корейская косметика Petit Ra. Ключевые продукты: VIA, MAMI, LED Mask, MIGA, RIKA, EMI\r\n\r\nПреимущества для клиентов:\r\n\r\nГарантия результата - если через 60 дней вы не увидите результат от процедур с нашими Бьюти-девайсами, то мы вернём деньги!\r\n\r\nАссортимент девайсов WAU\r\nЛинейка WAU включает в себя девайсы для комплексной заботы о себе - от аппаратов для лица до перкуссионного массажера. В косметической линейке также представлены уходовые средства для всех этапов заботы о коже разных типов. \r\n\r\nКачество - все девайсы и косметика разработаны с использованием самых современных и эффективных технологий и материалов в области красоты и здоровья.\r\n\r\nКосметика Petit Ra имеет высокоэффективные составы, которые в лечении применяют врачи-косметологи. Косметика не маскирует эстетические недостатки, а устраняет их. \r\n\r\nВсе девайсы выполнены в стильном дизайне из высококачественных материалов, даря эстетическое удовольствие от ухода за собой. А также они компактные, благодаря чему их удобно брать с собой в поездки и путешествия.\r\n\r\nБесплатные консультации специалистов - эксперты и косметологи WAU готовы подобрать индивидуальный уход под потребности кожи и ответить на любые вопросы.  \r\n\r\nПортрет целевой аудитории:\r\n\r\n\r\n\t\r\n\t\t\r\n\t\t\t\r\n\t\t\tЖенщины 25-55, ядро 35-45. \r\n\r\n\t\t\tДоход: средний и выше\r\n\r\n\t\t\tИнтересы: красота и здоровье, следят за собой и здоровьем, интересуются модой, косметологическими услугами\r\n\r\n\t\t\t \r\n\r\n\t\t\tГеография:\r\n\r\n\t\t\tМосква и область, Санкт-Петербург и область, города миллионники, но есть клиенты и из городов меньше.\r\n\r\n\t\t\tХарактеристики аудитории можно расширять, так как наши товары потенциально могут быть интересны всем женщинам, есть возможность покупки в рассрочку и доставка в любую точку РФ. \r\n\t\t\t\r\n\t\t\r\n\t\r\n\r\n\r\nРекомендации по позиционированию бренда:\r\n\r\n 1) наши девайсы позволяют проводить салонные процедуры регулярно в домашних условиях, а по стоимости сравнимы с 2-3 походами к косметологу. \r\nМожно использовать слоган: Девайсы и косметика с ВАУ-эффектом! \r\n\r\n2) уверенность бренда в качестве своей продукции: Гарантия результата - если через 60 дней вы не увидите результат от процедур с аппаратами WAU, то компания вернёт деньги! \r\nМожно использовать слоган: Если через 60 дней вы не увидите результат, вернём деньги!\r\n\r\n3) во всех девайсах (от массажеров до зеркал) используются только самые современные технологии, с проверенной эффективностью. \r\nМожно использовать: WAU - это самые современные инновационные технологии для омоложения, поддержания красоты и здоровья вашей кожи в домашних условиях\r\n\r\n4) в косметической линейке под брендом Petit Ra используются только эффективные комбинации натуральных компонентов, которые лечат, а не маскируют. Воплощает в себе все лучшее, за что ценится корейская косметика. \r\nМожно использовать: \r\nПремиальная косметика Petit Ra не маскирует эстетические недостатки, а устраняет причину появления. \r\nНатуральные и действенные составы и компоненты.\r\n \r\n\r\nСписок Минус слов: https://disk.yandex.ru/d/aRnXinGFqRBHJQ \r\n\r\nПреимущества для партнёров:\r\n\r\n- Широкая продуктовая линейка\r\n\r\n- Большой ассортимент товаров и частая ротация акций и скидок, что повышает конверсию партнёрских ссылок.\r\n\r\n- Баннеры, промо-материалы, промокоды и специальные условия для сезонных кампаний.\r\n\r\n- Прозрачный трекинг и регулярные выплаты по стандартным правилам сети.\r\n\r\n- Поддержка и аналитика\r\n\r\nУсловия доставки \r\n\r\n- Способы доставки\r\n\r\n  Курьерская доставка по городу, почтоматы/пункт выдачи заказов, самовывоз из магазинов-партнёров (если доступно). Конкретные опции зависят от региона и наличия товара.\r\n\r\n- Сроки доставки\r\n\r\n  От 1–2 рабочих дней по городу до 5–10 рабочих дней по регионам; точные сроки указываются при оформлении заказа.\r\n\r\n- Стоимость доставки\r\n\r\n  Может быть бесплатной при достижении минимальной суммы заказа или по промокоду; иначе фиксированная или рассчитанная по тарифам перевозчика.\r\n\r\n- Упаковка и сохранность\r\n\r\n  Товары упаковываются в защитную упаковку; при получении рекомендуется проверять целостность и комплектацию.\r\n\r\n- Возврат и обмен\r\n\r\n  Правила возврата и обмена соответствуют закону о защите прав потребителей: в течение установленного периода (обычно 14 дней для непродовольственных товаров) возможен возврат при сохранности товара и упаковки; для товаров надлежащего качества — с учётом исключений (индивидуальные изделия, средства личной гигиены и т. п.). Точные условия доступны на сайте wau.ru в разделе «Доставка и возврат».\r\n\r\nКак проходит сверка:\r\nРаз в месяц с 1-14 число, ручная.\r\n\r\nВыдача промокодов:\r\nЕсть возможность выдачи именных промокодов по запросу.\r\n\r\nИнформация про модерацию:\r\nМодерация проводится 3 раза в неделю.",
-      "status": "active",
+      "name": "wau.ru",
+      "img": "platform/40500.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2024/3/6/40500-23ac6f3edd093e38.svg",
       "categories": [
         {
@@ -1061,12 +1010,7 @@
           }
         }
       ],
-      "img": "platform/40500.svg",
-      "affiliate": {
-        "goto_link": "https://codeaven.com/g/7q8usxb8w55af0702a275054ae159b/?erid=2bL9aMPo2e49hMef4pgUkafdv5",
-        "landings": [],
-        "cashback_link_data": null
-      },
+      "id": 40500,
       "category": {
         "name": "Household Appliances & Electronics",
         "id": 65,
@@ -1077,15 +1021,17 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://codeaven.com/g/7q8usxb8w55af0702a275054ae159b/?erid=2bL9aMPo2e49hMef4pgUkafdv5",
+        "landings": [],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 40582,
-      "name": "Bang Bang Education",
-      "name_aliases": "bangbangeducation.ru, бенгбенгедьюкейшн, Bang Bang Education (BBE) , BBE,  Bang Bang , бэнгбэнг, образование, школа, школы, егэ, огэ, ифтпифтп, ииу, ифтп ифтп увгсфешщт, ,tyu,tyu, ,'yu ,'yu",
       "site_url": "https://bangbangeducation.ru",
-      "description": "BBE — это школа креативных дисциплин и сообщество для тех, кто хочет состояться в индустрии.\r\n\r\nПрограммы создают ведущие специалисты-практики — те, кто формирует визуальную культуру сегодня. Каждый может выбрать подход, который нравится, и педагога, который вдохновляет.\r\n\r\nПреимущества для покупателей:\r\n\r\n\r\n\tФундаментальные программы для дизайнеров\r\n\tМножество материалов, интенсивов и курсов\r\n\tПрофессиональное комьюнити, обучение у лидеров рынка\r\n\tПомощь в получении новой профессии и освоении актуальных навыков\r\n\r\n\r\nПреимущества для вебмастеров:\r\n\r\n\r\n\tОбширный выбор типов трафика\r\n\tДостойная ставка вознаграждения\r\n\tШирокая целевая аудитория\r\n\tБольшая посещаемость сайта (узнаваемость бренда)\r\n\tПредоставление именных промокодов и эксклюзивных условий для топовых вебмастеров\r\n\tТОП курсов по продажам (ссылка)\r\n\r\n\r\nОграничения трафика:\r\n\r\n\r\n\tОплата ведется за заявки на платные курсы\r\n\tПри самостоятельном изготовлении креативов, необходимо направлять их на согласование\r\n\tЗапрещено использовать браузерные расширения на сайте Bang Bang Education\r\n\tЗапрещено делиться партнерскими ссылками в официальных группах, видео Bang Bang Education\r\n\tЗапрещено использование бренда Bang Bang Education и его вариаций в названии домена\r\n\tЗапрещено создавать страницы в соцсетях, группы, аккаунты от лица Bang Bang Education и с описанием: официальный сайт, официальная группа и.т.д.\r\n\tЗапрещается распространение партнерских ссылок, баннеров и рекламных материалов посредством рассылки спама любым техническим способом (т.е. рассылки электронных сообщений без предварительного получения согласия абонента или адресата такой рассылки, смс рассылки).\r\n\tЗапрещено использовать в тексте объявлений названия других компаний, продающих онлайн-курсы.\r\n\r\n\r\nВ партнерской программе не могут принимать участие интернет-ресурсы, которые:\r\n\r\n\r\n\tсодержат информацию порнографического характера;\r\n\tпропагандируют насилие;\r\n\tрасовое, половое, религиозное и другие формы неравенства; деятельность, прямо запрещенную законодательством РФ;\r\n\tнарушают законодательство о правах на результаты интеллектуальной деятельности\r\n\r\n\r\nЦелевая аудитория: \r\n\r\n\r\n\tМужчины - 29,3%\r\n\tЖенщины- 70,7%\r\n\r\n\r\nВозраст:\r\n\r\n\r\n\t18-24 -19,5%\r\n\t25-34 - 64,1%\r\n\t35-44 -10,45\r\n\tОстальные - 6%\r\n\r\n\r\nРегионы\r\n\r\n\r\n\tМосква и МО - 26,9%\r\n\tСанкт-Петербург - 6,3%\r\n\tНижегородская область - 2,4%\r\n\tСвердловская область - 1,1%\r\n\tНовосибирская область - 0,7%\r\n\tОстальные - 62,6%\r\n\r\n\r\nТип устройства\r\n\r\n\r\n\tmobile+tablet - 55,6%\r\n\tdesktop - 44,4%\r\n\r\n\r\nВажно:  Список стоп-слов для ведения контекстной рекламы\r\n\r\nС 01.01.2025 по правилам работы партнерской программы запрещено размещать рекламные материалы на всех площадках связанных с компанией Meta (Facebook, Instagram и WhatsApp).\r\n\r\nКак проходит сверка: ручная сверка, проходит в начале каждого месяца.\r\n\r\nВыдача промокодов: в программе возможно получить именной промокод.\r\n\r\nИнформация про модерацию: проводится оперативно, 3 раза в неделю.\r\n\r\n \r\n\r\n ",
-      "status": "active",
+      "name": "Bang Bang Education",
+      "img": "platform/40582.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/30/40582-d9499a01963b562a.svg",
       "categories": [
         {
@@ -1106,7 +1052,18 @@
           }
         }
       ],
-      "img": "platform/40582.svg",
+      "id": 40582,
+      "category": {
+        "name": "Online Education",
+        "id": 98,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
       "affiliate": {
         "goto_link": "https://dhwnh.com/g/faxhilvyyw5af0702a2719f6940153/?erid=2bL9aMPo2e49hMef4pgUkcAxpQ",
         "landings": [
@@ -1127,26 +1084,12 @@
           }
         ],
         "cashback_link_data": null
-      },
-      "category": {
-        "name": "Online Education",
-        "id": 98,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
       }
     },
     {
-      "id": 40594,
-      "name": "Яндекс Аренда RU",
-      "name_aliases": "arenda.yandex.ru, arenda.yandex, arenda, yandex, яндекс, аренда, недвижимость, фкутвф, фкутвф нфтвуч, нфтвуч, yandexarenda, нфтвуч фкутвф, нфтвуч, Яндекс  Аренда",
       "site_url": "https://arenda.yandex.ru/",
-      "description": "  \r\n\r\nИнформация о компании:\r\nЯндекс Аренда — сервис долгосрочной аренды квартир.\r\n\r\nПортрет целевой аудитории: \r\n\r\n\r\n\tВозраст: 25-45.\r\n\tПол: 50% женщины / 50% мужчины.\r\n\tДоход: выше среднего, высокий, премиум.\r\n\r\n\r\nПреимущества для веб-мастеров:\r\n\r\n\r\n\tНадежный рекламодатель;\r\n\tУникальный сервис аренды квартир;\r\n\tВысокие ставки по целевым действиям.\r\n\r\n\r\nПреимущества для клиентов:\r\n\r\n\r\n\tЯндекс Аренда возьмёт на себя заботы по сдаче квартиры;\r\n\tСъемка квартиры и 3D-тур,  подбор и проверка жильцов, всё это на стороне сервиса;\r\n\tСпециалисты сервиса помогут сдать квартиру выгодно, а ещё подскажут, когда поднять арендную плату;\r\n\tДеньги за аренду придут день в день благодаря финзащите от сервиса;\r\n\tЕсли жильцы неожиданно съедут или что-то сломают, сервис компенсирует простой и убытки;\r\n\tПоддержка сервиса будет на связи на протяжении всего периода сдачи квартиры.\r\n\r\n\r\nПромокоды:\r\nОтсутствуют.\r\n\r\nСверка заказов:\r\nПроводится вручную один раз в месяц.\r\n\r\nМодерация вебмастеров:\r\nПроводится три раза в неделю.\r\n\r\nОтклонение заказов / отключение партнёра за:\r\n\r\n\r\n\tконтекстную рекламу на бренд,\r\n\tиспользование запрещённых видов трафика.\r\n\r\n\r\nКОД ККТУ: 13.1.2",
-      "status": "active",
+      "name": "Яндекс Аренда RU",
+      "img": "platform/40594.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2024/9/20/40594-86233c3dc6dbb45c.svg",
       "categories": [
         {
@@ -1184,12 +1127,7 @@
           "parent": null
         }
       ],
-      "img": "platform/40594.svg",
-      "affiliate": {
-        "goto_link": "https://naiawork.com/g/s044jlxitb5af0702a27ebb581a40b/?erid=2bL9aMPo2e49hMef4pgUkcBdwC",
-        "landings": [],
-        "cashback_link_data": null
-      },
+      "id": 40594,
       "category": {
         "name": "Other Services",
         "id": 93,
@@ -1200,15 +1138,17 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://naiawork.com/g/s044jlxitb5af0702a27ebb581a40b/?erid=2bL9aMPo2e49hMef4pgUkcBdwC",
+        "landings": [],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 40716,
-      "name": "Старая Ферма",
-      "name_aliases": "Cnfhfz athvf, старая ферма, стараяферма,cnfhfzathvf, зоомагазин, догит, ljubn, вщпуфе, dogeat",
       "site_url": "https://www.dogeat.ru/",
-      "description": "Зоомагазин «Старая ферма» работает на рынке товаров для животных с 2009 года. В ассортиментe магазина представлены все мировые производители зоотоваров по самым выгодным ценам и насчитывает более 20 000 позиций. Вы сможете подобрать для своего питомца зоотовары в любом ценовом сегменте, от эконом-класса до премиальных брендов.\r\n\r\nПортрет целевой аудитории:\r\n\r\n\r\n\tМ и Ж (преимущественное женщины);\r\n\t25+, имеют питомцев;\r\n\tУчаствуют в благотворительности для животных;\r\n\tЯвляются собственниками питомников или каким-то другим образом их жизнь связана с животными.  \r\n\r\n\r\nПреимущества для вебмастеров:\r\n\r\n\r\n\tФиксированная % ставка;\r\n\tИменные и общие промокоды;\r\n\tКрупнейшая сеть зоотоваров.\r\n\r\n\r\nПреимущества для клиентов:\r\n\r\n\r\n\tВыгодные цены;\r\n\tШирокая ассортиментная линейка + наличие эксклюзивных брендов, таких как OASY;\r\n\tГарантия качества товаров;\r\n\tСкидка за регистрацию;\r\n\tБесплатная консультация вет.врача;\r\n\tУдобная доставка, магазин работает по всей РФ (кроме ДНР, ЛНР и Калининграда).\r\n\r\n\r\nПопулярные товары:\r\n\r\n\r\n\tКорма для кошек и собак.\r\n\r\n\r\nРекомендации по позиционированию бренда:\r\n\r\nМагазин \"Старая ферма\" работает напрямую со всеми производителями, что позволяет предлагать самые выгодные цены и защиту от контрафакта.\r\n\r\nМинус-слова: Старая Ферма\r\n \r\n\r\nРучная сверка раз в месяц\r\n\r\nМодерация вебмастеров 2-3 раза в неделю\r\n\r\n \r\n\r\nС Уважением, Партнерская программа Зоомагазин «Старая ферма»!",
-      "status": "active",
+      "name": "Старая Ферма",
+      "img": "platform/40716.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/14/40716-6140055e55c7fb39.svg",
       "categories": [
         {
@@ -1229,18 +1169,7 @@
           }
         }
       ],
-      "img": "platform/40716.svg",
-      "affiliate": {
-        "goto_link": "https://naiawork.com/g/etaza1ejru5af0702a273f42da7610/?erid=2bL9aMPo2e49hMef4pgUkgauYg",
-        "landings": [
-          {
-            "id": 29351,
-            "name": "Киберпонедельник 2025",
-            "code": "f2c67d0c87"
-          }
-        ],
-        "cashback_link_data": null
-      },
+      "id": 40716,
       "category": {
         "name": "Pets",
         "id": 74,
@@ -1251,15 +1180,23 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://naiawork.com/g/etaza1ejru5af0702a273f42da7610/?erid=2bL9aMPo2e49hMef4pgUkgauYg",
+        "landings": [
+          {
+            "id": 29351,
+            "name": "Киберпонедельник 2025",
+            "code": "f2c67d0c87"
+          }
+        ],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 40817,
-      "name": "redsolution.company",
-      "name_aliases": "redsolution.company, RED , ред, ред компани",
       "site_url": "https://redsolution.company/",
-      "description": "RED SOLUTION – инновационный проект бытовой техники и электроники, запущенный командой, на счету которой уже есть успешный 15-летний опыт создания и продвижения известного бренда. Ассортимент бренда RED SOLUTION охватывает большинство категорий бытовой техники для дома и кухни, а также выводит уникальные для российского рынка товарные группы, такие как персональные роботы-помощники и электротранспорт. В ближайших планах расширить ассортимент в сторону крупной бытовой техники, аудиосистем, товаров для здоровья и спорта, и товаров для животных.\r\n\r\n Преимущества для клиентов\r\n\r\n\r\n\tИнновационные товары в самом современном дизайне и функционале\r\n\tРазвитая сервисная поддержка\r\n\r\n\r\nЯдро ЦА: Люди 25-35 лет с активной позицией и образом жизни, достатком выше среднего. Делятся на две категории: холостые и семейные. Холостые – мужчины и женщины, 25-34 года, живут в большом городе, сконцентрированы на работе, саморазвитии и ЗОЖе. Семейные – мужчины и женщины, 35-54 лет, состоят в браке, есть дети. Покупкой качественной техники хотят облегчить себе жизнь.\r\n\r\nПопулярные товары\r\n\r\nДля дома: умный робот-пылесос RV-RL6000S, вертикальный беспроводной пылесос RV-UR3100, RV-UR3200, парогенератор RSS-5906, ультразвуковой увлажнитель RHF-3340, фен RF-500\r\n\r\nДля кухни: умная мультиварка RMC-M800S, компактные кофемашины RCM-1540, RCM-1550, грили RGM-M805, RGM-G850P, кухонная машина RKM-4021, умная духовая печь RO-5727S\r\n\r\nРекомендации по позиционированию бренда\r\n\r\nRED SOLUTION это инновационный бренд бытовой техники. За счет внедрения передовых технологий он способен быстро откликаться на потребности современных людей, которые стремятся вывести свой быт на новый уровень комфорта, простоты и удовольствия от процесса и результата.\r\n\r\n«Инновации» – внедряем инновации в обиход, упрощаем быт, дарим удовольствие от процесса уборки, приготовления пищи и ухода за собой.\r\n\r\n«Передовые технологии» — умная техника и техника с передовыми решениями в промышленных технологиях.\r\n\r\n«Быстрый отклик» — скорость вывода наших новинок на рынок.\r\n\r\n \r\n\r\nКак проходит сверка:\r\nРаз в месяц с 1-14 число, ручная\r\n\r\nДанные об ОРД:\r\nКод ККТУ 3.2.1\r\n\r\nВыдача промокодов:\r\nВыдают промокоды\r\n\r\nИнформация про модерацию:\r\nНа стороне Admitad",
-      "status": "active",
+      "name": "redsolution.company",
+      "img": "platform/40817.jpg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2024/6/10/40817-4c56a5ed4bf759cb.jpg",
       "categories": [
         {
@@ -1286,12 +1223,7 @@
           "parent": null
         }
       ],
-      "img": "platform/40817.jpg",
-      "affiliate": {
-        "goto_link": "https://xcdus.com/g/rv80ywrpwu5af0702a27f8d31ee3d3/?erid=2bL9aMPo2e49hMef4pgUki6FDF",
-        "landings": [],
-        "cashback_link_data": null
-      },
+      "id": 40817,
       "category": {
         "name": "Household Appliances & Electronics",
         "id": 65,
@@ -1302,15 +1234,17 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://xcdus.com/g/rv80ywrpwu5af0702a27f8d31ee3d3/?erid=2bL9aMPo2e49hMef4pgUki6FDF",
+        "landings": [],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 41597,
-      "name": "MyHeritage DNA WW",
-      "name_aliases": "MyHeritage, My Heritage, my heritage, MYHERITAGE, dna",
       "site_url": "https://www.myheritage.com/",
-      "description": "Looking for a meaningful gift this Black Friday? Give the gift of discovering your roots with the MyHeritage DNA test.\r\n\r\nA simple cheek swab is all it takes to unlock fascinating details about your ancestry and potentially connect with relatives from over 2,100 regions worldwide. Imagine finding long-lost family members or learning something new about where you come from!\r\n\r\nAlong with the DNA test, you’ll get a 30-day free trial of MyHeritage’s family history subscription. This gives you access to powerful tools for building your family tree, exploring over 21 billion historical records, and using AI to bring your family photos to life.\r\n\r\nThis holiday season, MyHeritage DNA is on sale, and you can save even more with the code ADMIT10 for free shipping!",
-      "status": "active",
+      "name": "MyHeritage DNA WW",
+      "img": "platform/41597.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2024/11/18/41597-5bf4ef2b3fe781fa.svg",
       "categories": [
         {
@@ -1337,18 +1271,7 @@
           "parent": null
         }
       ],
-      "img": "platform/41597.svg",
-      "affiliate": {
-        "goto_link": "https://naiawork.com/g/kmz7w822uc5af0702a27e403a0fd30/",
-        "landings": [
-          {
-            "id": 29559,
-            "name": "MyHeritage Genealogy package FR",
-            "code": "c38cef33ea"
-          }
-        ],
-        "cashback_link_data": null
-      },
+      "id": 41597,
       "category": {
         "name": "Books",
         "id": 70,
@@ -1359,15 +1282,23 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://naiawork.com/g/kmz7w822uc5af0702a27e403a0fd30/",
+        "landings": [
+          {
+            "id": 29559,
+            "name": "MyHeritage Genealogy package FR",
+            "code": "c38cef33ea"
+          }
+        ],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 41774,
-      "name": "Lelo WW",
-      "name_aliases": "ll, lolo, лело",
       "site_url": "https://www.lelo.com/",
-      "description": "LELO is a Swedish intimate lifestyle company that designs, develops, and manufactures luxury sex toys, BDSM accessories, and massage products. Sold in over 50 international markets, LELO is headquartered in Stockholm, Sweden with multiple offices worldwide.\r\n\r\nThousands of publishers are currently members of the LELO Adult Toys Affiliate Program. Commissions are determined by the type of publisher and their traffic sources.\r\n\r\nThis program offers:\r\n\r\n\r\n\tWorldwide shipping\r\n\tExclusive promo codes\r\n\tProduct samples available for selected Partners\r\n\r\n\r\n ",
-      "status": "active",
+      "name": "Lelo WW",
+      "img": "platform/41774.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2023/9/13/41774-07b3ee4735f4b745.svg",
       "categories": [
         {
@@ -1388,12 +1319,7 @@
           }
         }
       ],
-      "img": "platform/41774.svg",
-      "affiliate": {
-        "goto_link": "https://qwpeg.com/g/30s6gljz0k5af0702a277528b61f3b/",
-        "landings": [],
-        "cashback_link_data": null
-      },
+      "id": 41774,
       "category": {
         "name": "Adult",
         "id": 216,
@@ -1404,15 +1330,17 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://qwpeg.com/g/30s6gljz0k5af0702a277528b61f3b/",
+        "landings": [],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 41872,
-      "name": "Virtual llantas MX",
-      "name_aliases": "Neumaticos, \r\nllantas\r\nCars\r\nVirtual\r\nVi\r\nBirtual\r\nAutomotive\r\nAutopartes\r\nAutos",
       "site_url": "https://www.virtualllantas.mx/",
-      "description": "Hold time 30 días\r\n\r\nPaid time 30 dias\r\n\r\nVirtual Llantas México es una tienda online de llantas que ofrece una amplia selección de llantas para automóviles y camionetas. La empresa fue fundada en 2022 y tiene su sede en San Andrés Cholula, Puebla.\r\n\r\nVirtual Llantas México ofrece una variedad de beneficios a sus clientes, incluyendo:\r\n\r\n\r\n\tPrecios competitivos: La empresa ofrece precios competitivos en una amplia gama de llantas.\r\n\tFacilidad de uso: La página web de la empresa es fácil de usar y navegar.\r\n\tAmplia selección: La empresa ofrece una amplia selección de llantas de las principales marcas.\r\n\tEnvío gratis: La empresa ofrece envío gratis a todo el país.\r\n\r\n\r\nDatos adicionales sobre Virtual Llantas México:\r\n\r\n\r\n\tMarcas: La empresa ofrece llantas de las principales marcas, incluyendo Michelin, Bridgestone, Continental, Pirelli, Hankook y Yokohama.\r\n\tTamaños: La empresa ofrece llantas en una amplia gama de tamaños, para una variedad de vehículos.\r\n\tGarantía: La empresa ofrece una garantía de 5 años en todas sus llantas.\r\n\r\n\r\nSi está buscando comprar llantas online en México, Virtual Llantas México es una opción que vale la pena considerar. La empresa ofrece una amplia selección de llantas, precios competitivos, facilidad de uso y envío gratis.\r\n\r\nhttps://www.virtualllantas.mx/promociones-de-llantas/promo/liquidacion/#inicio-carga\r\n\r\nExpertos en mejorar CUALQUIER PRECIO...\r\nSi la ves más barata ¡Te lo mejoramos!",
-      "status": "active",
+      "name": "Virtual llantas MX",
+      "img": "platform/41872.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2023/9/11/41872-72bb6f47345913ae.svg",
       "categories": [
         {
@@ -1433,12 +1361,7 @@
           }
         }
       ],
-      "img": "platform/41872.svg",
-      "affiliate": {
-        "goto_link": "https://kjuzv.com/g/ix34jm0hsx5af0702a273a3bd7dad0/",
-        "landings": [],
-        "cashback_link_data": null
-      },
+      "id": 41872,
       "category": {
         "name": "Car & Bike Accessories",
         "id": 92,
@@ -1449,15 +1372,17 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://kjuzv.com/g/ix34jm0hsx5af0702a273a3bd7dad0/",
+        "landings": [],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 42007,
-      "name": "ACredit CPS KZ",
-      "name_aliases": "акредит, фскувше, кредит, скувше, acredit, frhtlbn, credit, rhtlbn",
       "site_url": "https://acredit.kz/",
-      "description": "Acredit - это сервис онлайн-микрокредитов, благодаря которому можно быстро и удобно решить финансовые вопросы за несколько минут, без дополнительных документов и посещения офиса.\r\n\r\n \r\n\r\nВоронка:\r\n\r\n\r\n\tРегистрация\r\n\tПерсональные данные\r\n\tДобавление карты/счета\r\n\tПодтверждение условий\r\n\tОжидание ответа/рассмотрение заявки\r\n\tПодтверждение личности\r\n\tПодписание договора\r\n\tПолучение денег\r\n\r\n\r\nЦА:\r\n\r\n\r\n\tгражданство Казахстана\r\n\tвозраст от 18 до 65 лет\r\n\tналичие номера счета (IBAN) банковской карты или текущего счета (для перечисления микрокредитных средств)\r\n\r\n\r\nПреимущества партнерской программы для партнеров:\r\n\r\n\r\n\tВысокий процент подтверждения\r\n\tСредняя обработка конверсии - 22 дня\r\n\tВозможность согласования индивидуальных условий \r\n\r\n\r\nПреимущества партнерской программы для клиентов:\r\n\r\n\r\n\tМикрокредит можно оформить, не выходя из дома или работы, прямо на номер счета (IBAN) карты или номер текущего счета (IBAN) в банке\r\n\tпервый микрокредит до 150 000 тенге\r\n\tпрозрачные условия получения кредита\r\n\tмикрокредит быстро, без залога, без длительных процедур оформления и проверок\r\n\r\n\r\nУсловия кредита:\r\n\r\n\r\n\tМинимальная сумма микрокредита - 20 000 тенге\r\n\tМаксимальная сумма микрокредита - 175 000 тенге\r\n\tСрок до 30 дней\r\n\tГЭСВ - ставка от 0,01% в день (от 3,65% годовых) ГЭСВ от 3,7% до 179%*\r\n\r\n\r\nОсобенности работы оффера:\r\n\r\n\r\n\tЕжемесячная ручная сверка\r\n\tВ программе не доступен промокодный инструмент\r\n\tРегулярная модерация на стороне Адмитад\r\n\r\n\r\n \r\n\r\nРазрешается использование промоматериалов только рекламодателя. Запрашивать дополнительные промо и согласовывать собственные варианты необходимо со службой поддержки сети.\r\nЗа нарушение возможен штраф вплоть до полной отмены конверсий и бан!",
-      "status": "active",
+      "name": "ACredit CPS KZ",
+      "img": "platform/42007.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2023/9/8/42007-ec4d6c4424a317ed.svg",
       "categories": [
         {
@@ -1478,12 +1403,7 @@
           }
         }
       ],
-      "img": "platform/42007.svg",
-      "affiliate": {
-        "goto_link": "https://bywiola.com/g/3qfrpa97lj5af0702a27838ab0aac0/",
-        "landings": [],
-        "cashback_link_data": null
-      },
+      "id": 42007,
       "category": {
         "name": "Payday Loans",
         "id": 105,
@@ -1494,15 +1414,17 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://bywiola.com/g/3qfrpa97lj5af0702a27838ab0aac0/",
+        "landings": [],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 42148,
-      "name": "Travelking PL & HU",
-      "name_aliases": "Travelking, Travel king",
       "site_url": "https://travelking.pl/",
-      "description": "ENG\r\n\r\nDo you love traveling and enjoy spending your free time exploring beautiful places in Poland or abroad? Whether you prefer a relaxing wellness vacation, active time in nature or prefer sightseeing at Travelking you will find the perfect vacation for you.\r\n\r\nAlready more than 900,000 satisfied customers from Poland, the Czech Republic, Slovakia and Hungary have proven that you can rely on Travelking to organize your vacation.\r\n\r\nToday, with Travelking you can choose from more than 900 stays in Poland and 8 other European countries. The most popular among customers are the relaxing wellness stays. Throughout the year, stays in the stunning Austrian mountains and exploring the natural and cultural beauty of Poland are in high demand. In addition, Travelking offers stays in attractive ski resorts such as Austria, Slovakia and Slovenia, where you can spend the perfect (not only) winter holidays.\r\n\r\nIf you're a travel lover, you'll be happy to know that you can now get a PLN 100 discount on all stays with Travelking. For every purchase of more than PLN 1,000. This includes discounted stays and Travelbomb, which will save you at least another 30% off the price! The money you save will certainly come in handy during your dream stay!\r\n\r\nPL\r\n\r\nKochasz podróże i lubisz spędzać wolny czas na odkrywaniu pięknych miejsc w Polsce lub za granicą? Niezależnie od tego, czy preferujesz relaksujące wakacje z wellness, aktywny czas na łonie natury, czy wolisz zwiedzać zabytki w Travelking znajdziesz idealne wakacje dla siebie.\r\n\r\nJuż ponad 900 000 zadowolonych klientów z Polski, Czech, Słowacji i Węgier udowodniło, że można polegać na Travelking przy organizacji wakacji.\r\n\r\nObecnie z Travelking można wybierać z ponad 900 pobytów w Polsce i 8 innych krajach europejskich. Największą popularnością wśród klientów cieszą się pełne relaksu pobyty wellness. Przez cały rok dużym zainteresowaniem cieszą się pobyty w zachwycających austriackich górach oraz odkrywanie naturalnego i kulturowego piękna Polski. Ponadto w ofercie Travelking znajdują się pobyty w atrakcyjnych ośrodkach narciarskich, takich jak Austria, Słowacja czy Słowenia, gdzie można spędzić idealne (nie tylko) ferie zimowe.\r\n\r\nJeśli jesteś miłośnikiem podróży, z pewnością ucieszy Cię wiadomość, że teraz możesz otrzymać 100 zł zniżki na wszystkie pobyty z Travelking. Za każdy zakup powyżej 1000 zł. Dotyczy to również pobytów zniżkowych i Travelbomb, dzięki którym zaoszczędzisz co najmniej kolejne 30% ceny! Zaoszczędzone pieniądze z pewnością przydadzą się podczas wymarzonego pobytu!\r\n\r\nHU\r\n\r\nSzeretsz utazni, és szívesen töltöd szabadidődet gyönyörű helyek felfedezésével Lengyelországban vagy külföldön? Akár a pihentető wellness-nyaralást, akár a vidéki aktív időtöltést, akár a városnézést kedveli, a Travelkingnél megtalálja a tökéletes nyaralást az Ön számára.\r\n\r\nMár több mint 900 000 elégedett ügyfél Lengyelországból, Csehországból, Szlovákiából és Magyarországról bizonyította, hogy a Travelkingre bátran hagyatkozhat nyaralása megszervezésében.\r\n\r\nMa a Travelkinggel több mint 900 lengyelországi és 8 másik európai országban található szálláshely közül választhat. Az ügyfelek körében a legnépszerűbbek a pihentető wellness-üdülések. Egész évben nagy a kereslet a lenyűgöző osztrák hegyekben való tartózkodásra és Lengyelország természeti és kulturális szépségeinek felfedezésére. Emellett a Travelking olyan vonzó síparadicsomokban kínál üdüléseket, mint Ausztria, Szlovákia és Szlovénia, ahol tökéletes (nem csak) téli vakációt tölthet.\r\n\r\nHa Ön az utazás szerelmese, örömmel fogja tudni, hogy mostantól 100 font kedvezményt kaphat a Travelkinggel történő összes tartózkodásra. Minden 1000 font feletti vásárlás esetén. Ez vonatkozik a kedvezményes üdülésekre és a Travelbombára is, amivel legalább további 30%-ot spórolhatsz az árból! A megtakarított pénz biztosan jól fog jönni az álmai során!\r\n\r\n \r\n\r\n ",
-      "status": "active",
+      "name": "Travelking PL & HU",
+      "img": "platform/42148.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2023/11/1/42148-acc3e8710ac31851.svg",
       "categories": [
         {
@@ -1545,12 +1467,7 @@
           }
         }
       ],
-      "img": "platform/42148.svg",
-      "affiliate": {
-        "goto_link": "https://vxrlm.com/g/dquwu4q32h5af0702a277eaf385c59/",
-        "landings": [],
-        "cashback_link_data": null
-      },
+      "id": 42148,
       "category": {
         "name": "Tours",
         "id": 234,
@@ -1561,15 +1478,17 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://vxrlm.com/g/dquwu4q32h5af0702a277eaf385c59/",
+        "landings": [],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 42158,
-      "name": "Ridmi UA",
-      "name_aliases": "ридми, рыдмы, рідмі, ridmi, hslvs, hblvb",
       "site_url": "https://ridmi.com.ua/",
-      "description": "Книжковий інтернет-магазин RIDMI, працюємо на книжковому ринку України з 2018 року. За цей час нашими клієнтами стали тисячі жителів країни.\r\n\r\nМи регулярно відстежуємо новинки, щоб радувати читачів. Місія книжкового інтернет-магазину RIDMI — надавати сучасній людині потрібну, корисну та актуальну інформацію з потрібних тем. \r\n\r\nНаш ассортимент налічує:\r\n ⁃ Понад 10000 паперових книг;\r\n ⁃ Понад 4000 електронних книг;\r\n ⁃ До 1000 журналів.",
-      "status": "active",
+      "name": "Ridmi UA",
+      "img": "platform/42158.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2023/10/17/42158-3f1937c76eda253a.svg",
       "categories": [
         {
@@ -1602,12 +1521,7 @@
           "parent": null
         }
       ],
-      "img": "platform/42158.svg",
-      "affiliate": {
-        "goto_link": "https://xnmik.com/g/d23nmwjwa85af0702a27dc1723da5b/",
-        "landings": [],
-        "cashback_link_data": null
-      },
+      "id": 42158,
       "category": {
         "name": "Books",
         "id": 70,
@@ -1618,15 +1532,17 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://xnmik.com/g/d23nmwjwa85af0702a27dc1723da5b/",
+        "landings": [],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 42327,
-      "name": "High Street MX",
-      "name_aliases": "Moda\r\nHigh\r\nJi\r\nStret\r\nStreet \r\nApparel \r\nRopa\r\nModa\r\nMujeres",
       "site_url": "https://highstreet.com.mx/",
-      "description": "Hold time: 30 días\r\n\r\nPaid Time: 30 días\r\n\r\nPay day: High Street México es una tienda de moda en línea que vende una variedad de ropa, accesorios y calzado para mujeres y hombres. La empresa fue fundada en 2015 y tiene su sede en la Ciudad de México. High Street México tiene más de 100,000 productos en stock y ofrece envío gratis en pedidos superiores a $1,299. La empresa cuenta con un equipo de más de 100 empleados y está comprometida a brindar a sus clientes una excelente experiencia de compra.\r\n\r\nAquí hay algunas de las características clave de High Street México:\r\n\r\n\r\n\tAmplia selección de ropa, accesorios y calzado para mujeres y hombres.\r\n\tEnvío gratis en pedidos superiores a $1,299.\r\n\tPrecios competitivos.\r\n\tDevoluciones y cambios fáciles.\r\n\tAtención al cliente amable y servicial.\r\n\r\n\r\nHigh Street México es una tienda de moda en línea en crecimiento que se compromete a brindar a sus clientes una excelente experiencia de compra. La empresa ofrece una amplia selección de ropa, accesorios y calzado a precios competitivos. High Street México también ofrece envío gratis en pedidos superiores a $1,299 y devoluciones y cambios fáciles.\r\n\r\nAquí hay algunos de los desafíos que enfrenta High Street México:\r\n\r\n\r\n\tLa competencia de otras tiendas de moda en línea.\r\n\tEl auge de la moda rápida.\r\n\tLa necesidad de actualizar constantemente su inventario para mantenerse a la vanguardia de las tendencias.\r\n\tLa necesidad de brindar una excelente experiencia al cliente para competir con las tiendas físicas.\r\n\r\n\r\nA pesar de estos desafíos, High Street México está bien posicionada para crecer en el futuro. La empresa tiene una marca fuerte y una base de clientes leales. High Street México también está expandiendo su oferta de productos y sus esfuerzos de marketing.",
-      "status": "active",
+      "name": "High Street MX",
+      "img": "platform/42327.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2023/9/14/42327-babc8a6019b08e2a.svg",
       "categories": [
         {
@@ -1647,12 +1563,7 @@
           }
         }
       ],
-      "img": "platform/42327.svg",
-      "affiliate": {
-        "goto_link": "https://rzekl.com/g/mcfc5fp7fc5af0702a27298ef85878/",
-        "landings": [],
-        "cashback_link_data": null
-      },
+      "id": 42327,
       "category": {
         "name": "Clothing, Footwear, Accessories",
         "id": 64,
@@ -1663,15 +1574,17 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://rzekl.com/g/mcfc5fp7fc5af0702a27298ef85878/",
+        "landings": [],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 42348,
-      "name": "Vistacredit CZ CPS",
-      "name_aliases": "vistacredit, vista credit",
       "site_url": "https://vistacredit.cz/",
-      "description": "Výhodná půjčka pro podnikatele, OSVČ, živnostníky - až 8000 Kč na 70 dnů .\r\n\r\nPodmínky pro poskytnutí úvěru:\r\n\r\nÚvěrovaný, dále jen Klient se rozumí fyzická osoba podnikající ve věku od 18 do 65 let, která má plnou způsobilost k právním úkonům, vlastní živnostenské oprávnění, je občanem České republiky s trvalým pobytem na území České republiky a která uzavírá jako dlužník s Věřitelem Rámcovou smlouvu a Smlouvu o podnikatelském Úvěru a jedná při tom v rámci obchodní nebo jiné podnikatelské činnosti.\r\n\r\nENG\r\n\r\nFavorable loan for entrepreneurs, self-employed, self-employed - up to CZK 8,000 for 70 days.\r\n\r\nConditions for granting a loan:\r\n\r\nBorrower, hereinafter referred to as Client, means a natural person doing business between the ages of 18 and 65, who has full legal capacity, owns a trade license, is a citizen of the Czech Republic with permanent residence in the territory of the Czech Republic, and who, as a debtor, concludes a Framework Agreement with the Lender and the Business Loan Agreement and acts in the course of business or other business activities.\r\n\r\n ",
-      "status": "active",
+      "name": "Vistacredit CZ CPS",
+      "img": "platform/42348.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2023/12/8/42348-7ec6a4f5880fac9e.svg",
       "categories": [
         {
@@ -1720,12 +1633,7 @@
           "parent": null
         }
       ],
-      "img": "platform/42348.svg",
-      "affiliate": {
-        "goto_link": "https://ogsib.com/g/arsvj5ot8r5af0702a2717738bf913/",
-        "landings": [],
-        "cashback_link_data": null
-      },
+      "id": 42348,
       "category": {
         "name": "Loans",
         "id": 9,
@@ -1736,15 +1644,17 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://ogsib.com/g/arsvj5ot8r5af0702a2717738bf913/",
+        "landings": [],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 42483,
-      "name": "Avito Путешествия RU",
-      "name_aliases": "Fdbnj gjcenjxyj, Посуточно, Авито, avito posutochno, фмшещ зщыгещсртщ",
       "site_url": "https://www.avito.ru/moskva/kvartiry/sdam/posutochno/-ASgBAgICAkSSA8gQ8AeSUg/",
-      "description": "\r\n\r\nAvito Путешествия - это надежный ресурс для онлайн-бронирования. Помимо большого выбора, сервис предоставляет пользователям удобство поиска и выбора, гарантии безопасности, поддержку 24/7. На Авито можно закрыть любую задачу по посуточной аренде (жилье в отпуск/жилье на короткую поездку/жилье для командировки)\r\n\r\n \r\n\r\nДанные о целевой аудитории:\r\n\r\nПол\r\n\r\n\r\n\tЖенщины – 53%\r\n\tМужчины – 47%\r\n\r\n\r\nВозраст (по количеству продаж): \r\n\r\n\r\n\t16-24 – 23%\r\n\t25-34 – 34%\r\n\t35-44 – 26%\r\n\t45-49 – 10%\r\n\t50 и старше – 7%\r\n\r\n\r\nГЕО ЦА: \r\n\r\n\r\n\tМосква и МО – 13%\r\n\tгорода миллионники – 23%\r\n\t500-1 млн жителей – 21%\r\n\t250-500к жителей – 24%\r\n\t100-250к – 19%\r\n\r\n\r\nПопулярные направления (ссылки на самые конверсионные направления можно найти в разделе Лендинги):\r\n\r\n\r\n\tМосква\r\n\tСанкт-Петербург\r\n\tКазань\r\n\tКраснодар \r\n\tЕкатеринбург\r\n\tСочи\r\n\r\n\r\nПреимущества для клиентов:\r\n\r\n\r\n\tОнлайн бронирование посуточных квартир\r\n\tБезопасность сделок\r\n\tБольшой выбор квартир для посуточной аренды по всей России\r\n\tКруглосуточная поддержка\r\n\tВсе объявления проходят модерацию, что позволяет без рисков арендовать квартиру\r\n\tВладелец получает деньги только после заселения гостя\r\n\r\n\r\n \r\n\r\n Преимущества работы с партнерской программой:\r\n\r\n\r\n\tИзвестный бренд, которому доверяют пользователи\r\n\tШирокий ассортимент рекламных материалов\r\n\tВысокотехнологичный и удобный сайт\r\n\tВозможность получить индивидуальные условия\r\n\r\n\r\n \r\n\r\nС Уважением, Партнерская программа Avito Путешествия!",
-      "status": "active",
+      "name": "Avito Путешествия RU",
+      "img": "platform/42483.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2024/4/22/42483-aea076ae9e42bcdf.svg",
       "categories": [
         {
@@ -1765,7 +1675,18 @@
           "parent": null
         }
       ],
-      "img": "platform/42483.svg",
+      "id": 42483,
+      "category": {
+        "name": "Hotels",
+        "id": 41,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      },
       "affiliate": {
         "goto_link": "https://naiawork.com/g/w3n1x1sgd05af0702a270f5f635295/?erid=5jtCeReNwxHpfQTGQbdPVK3",
         "landings": [
@@ -1856,26 +1777,12 @@
           }
         ],
         "cashback_link_data": null
-      },
-      "category": {
-        "name": "Hotels",
-        "id": 41,
-        "language": "en",
-        "parent": {
-          "name": "Travel & Tourism",
-          "id": 40,
-          "language": "en",
-          "parent": null
-        }
       }
     },
     {
-      "id": 42616,
-      "name": "Bewakoof [Web, App, CPS] IN",
-      "name_aliases": "bewakof, bevakoof, bekoof, bewkuf",
       "site_url": "https://www.bewakoof.com/",
-      "description": "Company Description - Bewakoof is a lifestyle fashion brand that makes creative, distinctive fashion for the trendy, contemporary Indian. Bewakoof was created on the principle of creating impact through innovation, honesty and thoughtfulness. With a team of 400 members, and 8 Million+ products sold till date. They like to experiment freely, which allows them to balance creativity and relatability, and our innovative designs. Their range of products is always fresh and up-to-date, and they clock sales of over 1 lakh products a month. Their innovation focus extends to their operations as well. They are vertically integrated, manufacture their own products, and cut out the middleman wherever possible. This direct-to-consumer model allows them to create high-quality fashion at affordable prices. A thoughtful brand, they actively attempt to minimise their environmental footprint and maximise their social impact. These efforts are integrated right into their day-to-day operations, from rainwater harvesting to paper packaging to employee benefits.\r\n\r\nCampaign Description - This is a Cost per Sale (CPS) campaign, where the publishers need to drive sales on Bewakoof's App & website.\r\n\r\nTarget/Region - PAN India\r\n\r\nValidation Criteria-Successful Delivered Sales. ",
-      "status": "active",
+      "name": "Bewakoof [Web, App, CPS] IN",
+      "img": "platform/42616.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2025/7/21/42616-1ec7ab8ca5c9a996.svg",
       "categories": [
         {
@@ -1896,12 +1803,7 @@
           }
         }
       ],
-      "img": "platform/42616.svg",
-      "affiliate": {
-        "goto_link": "https://tjzuh.com/g/el5arbwari5af0702a278f3bde6dea/",
-        "landings": [],
-        "cashback_link_data": null
-      },
+      "id": 42616,
       "category": {
         "name": "Clothing, Footwear, Accessories",
         "id": 64,
@@ -1912,15 +1814,17 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://tjzuh.com/g/el5arbwari5af0702a278f3bde6dea/",
+        "landings": [],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 42701,
-      "name": "Axis bank CC [CPA] IN",
-      "name_aliases": "axis bank, acix bank",
       "site_url": "https://www.axisbank.com/retail/cards/credit-card",
-      "description": "Company Description: Axis Bank Limited, formerly known as UTI Bank (1993–2007), is an Indian banking and financial services company headquartered in Mumbai, Maharashtra. It is India's third largest private sector bank by assets and Fourth largest by Market capitalisation. It sells financial services to large and mid-size companies, SMEs and retail businesses.\r\n\r\nAs of 30 June 2016, 30.81% shares are owned by the promoters and the promoter group (United India Insurance Company Limited, Oriental Insurance Company Limited, National Insurance Company Limited, New India Assurance Company Ltd, GIC, LIC and UTI). The remaining 69.19% shares are owned by mutual funds, FIIs, banks, insurance companies, corporate bodies and individual investors\r\n\r\nCampaign Description: The campaign needs to be promoted on the CPA (cost per card issuance) module. Partner would get a payout on Card issuance. \r\n\r\nPartners/DSA need to convince customer (Criteria: Net Salary min 15K & above, Self-employed Rs 4 lakh latest ITR) for credit card basis its benefits, value proposition & need to assist to complete IPA journey (digital lead generation process). IPA journey is very short & simple, The customer needs to fill in his personal & occupational details in journey , need to select credit card & then needs to submit a digital application. \r\n\r\nBased on IPA journey output either application would be approved or declined. For approved cases\r\n\r\n\r\n\tIf only KYC needs to be collected then the Partner needs to guide the customer to complete the Video KYC process, the card would be booked in a short span under this process. \r\n\tIf Income + KYC needs to be collected from the customer then these leads would be taken care of by Axis Bank, Bank Centralized pickup team would fix an appointment with the customer & will complete the documentation process digitally\r\n\r\n\r\nCard-wise Categorization:\r\n\r\n\r\n\t\r\n\t\t\r\n\t\t\tCard Type\r\n\t\t\tCategory\r\n\t\t\r\n\t\t\r\n\t\t\tVistara Infinite\r\n\t\t\tTrue Affluent\r\n\t\t\r\n\t\t\r\n\t\t\tMagnus Credit Card\r\n\t\t\tTrue Affluent\r\n\t\t\r\n\t\t\r\n\t\t\tAxis Bank Atlas Credit Card\r\n\t\t\tTrue Affluent\r\n\t\t\r\n\t\t\r\n\t\t\tMy Zone Visa Card\r\n\t\t\tRetail\r\n\t\t\r\n\t\t\r\n\t\t\tIndian-Oil Axis Bank Credit Card\r\n\t\t\tRetail\r\n\t\t\r\n\t\t\r\n\t\t\tAxis Bank Flipkart Credit Card\r\n\t\t\tRetail\r\n\t\t\r\n\t\t\r\n\t\t\tAxis Bank Health Credit Card\r\n\t\t\tRetail\r\n\t\t\r\n\t\t\r\n\t\t\tSpiceJet Axis Bank Voyage Credit Card\r\n\t\t\tRetail\r\n\t\t\r\n\t\t\r\n\t\t\tPride Signature Card\r\n\t\t\tRetail\r\n\t\t\r\n\t\t\r\n\t\t\tFlipkart Axis Bank Super Elite Credit Card\r\n\t\t\tRetail\r\n\t\t\r\n\t\t\r\n\t\t\tNeo Credit Card\r\n\t\t\tRetail\r\n\t\t\r\n\t\t\r\n\t\t\tSamsung Axis Bank Signature Credit Card\r\n\t\t\tRetail\r\n\t\t\r\n\t\t\r\n\t\t\tAxis Bank Ace Credit Card\r\n\t\t\tRetail\r\n\t\t\r\n\t\t\r\n\t\t\tPrivilege Credit Card\r\n\t\t\tEmerging Affluent\r\n\t\t\r\n\t\t\r\n\t\t\tVistara Platinum\r\n\t\t\tEmerging Affluent\r\n\t\t\r\n\t\t\r\n\t\t\tVistara Signature\r\n\t\t\tEmerging Affluent\r\n\t\t\r\n\t\t\r\n\t\t\tAXIS BANK SELECT CREDIT CARD\r\n\t\t\tEmerging Affluent\r\n\t\t\r\n\t\t\r\n\t\t\tSpiceJet Axis Bank Voyage Black Credit Card\r\n\t\t\tEmerging Affluent\r\n\t\t\r\n\t\r\n",
-      "status": "active",
+      "name": "Axis bank CC [CPA] IN",
+      "img": "platform/42701.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2023/9/27/42701-11b21ed6d62b70a0.svg",
       "categories": [
         {
@@ -1941,12 +1845,7 @@
           }
         }
       ],
-      "img": "platform/42701.svg",
-      "affiliate": {
-        "goto_link": "https://tjzuh.com/g/bksx608d4a5af0702a2759db77a9b5/",
-        "landings": [],
-        "cashback_link_data": null
-      },
+      "id": 42701,
       "category": {
         "name": "Credit Cards",
         "id": 10,
@@ -1957,15 +1856,17 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://tjzuh.com/g/bksx608d4a5af0702a2759db77a9b5/",
+        "landings": [],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 42753,
-      "name": "Dyson Direct [CPS] IN",
-      "name_aliases": "dyson india, dison, dyson electronics",
       "site_url": "https://dyson.in",
-      "description": "Company Description:- Founded in 1993, At Dyson, they are focused on solving the problems that others have ignored; solving them first using technology and ingenuity. In order to achieve this, they need to pioneer technologies that are different and authentic. This is the core of what they do and who they are. They must strive to create the future, every single day by developing new things, different things, things that go against the grain with a diverse and global team of ingenious minds.\r\n\r\nCampaign Description:- Dyson CPS gives an opportunity for affiliates to earn good revenue if the sales are delivered through affiliate links.This is a offline campaign . \r\n\r\nTarget Market- Pan India\r\n\r\nCampaign Objective- To deliver successful sales for Dyson CPS",
-      "status": "active",
+      "name": "Dyson Direct [CPS] IN",
+      "img": "platform/42753.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2023/10/3/42753-048f68454439be3c.svg",
       "categories": [
         {
@@ -1986,12 +1887,7 @@
           }
         }
       ],
-      "img": "platform/42753.svg",
-      "affiliate": {
-        "goto_link": "https://tjzuh.com/g/zi1vni9ajw5af0702a27255ab3066d/",
-        "landings": [],
-        "cashback_link_data": null
-      },
+      "id": 42753,
       "category": {
         "name": "Clothing, Footwear, Accessories",
         "id": 64,
@@ -2002,15 +1898,17 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://tjzuh.com/g/zi1vni9ajw5af0702a27255ab3066d/",
+        "landings": [],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 42771,
-      "name": "Innvictus MX",
-      "name_aliases": "invictus\r\nSports\r\nInnvictus\r\nInn\r\nShoes\r\nZapatos\r\nTenis\r\nRopa deportiva\r\napparel",
       "site_url": "https://www.innvictus.com/",
-      "description": "Resumen\r\n\r\nInnvictus es una cadena mexicana de tiendas deportivas que ofrece una amplia gama de productos para una variedad de deportes, incluyendo tenis, ropa, accesorios y equipos. La cadena cuenta con más de 100 tiendas en México, ubicadas en ciudades principales y destinos turísticos.\r\n\r\nMercado\r\n\r\nEl mercado de artículos deportivos en México está en crecimiento. El aumento de la participación en actividades deportivas y el aumento del poder adquisitivo de la población están impulsando la demanda de productos deportivos. Innvictus está bien posicionado para aprovechar este crecimiento, ya que ofrece una amplia gama de productos de alta calidad a precios competitivos.\r\n\r\nOferta\r\n\r\nInnvictus ofrece una amplia gama de productos deportivos, incluyendo:\r\n\r\n\r\n\tTenis para correr, basquetbol, fútbol, gym, tenis y otros deportes.\r\n\tRopa deportiva para hombres, mujeres y niños.\r\n\tAccesorios deportivos, como balones, mochilas, relojes y gafas.\r\n\tEquipos deportivos para una variedad de deportes, como fútbol, basquetbol, voleibol y béisbol.\r\n\r\n\r\nPuntos clave\r\n\r\n\r\n\tInnvictus es una cadena mexicana de tiendas deportivas con más de 100 tiendas en México.\r\n\tLa cadena ofrece una amplia gama de productos deportivos de alta calidad a precios competitivos.\r\n\tInnvictus está bien posicionado para aprovechar el crecimiento del mercado de artículos deportivos en México.\r\n\r\n\r\nOportunidades\r\n\r\n\r\n\tEl mercado de artículos deportivos en México está en crecimiento.\r\n\tInnvictus ofrece una amplia gama de productos de alta calidad a precios competitivos.\r\n\tInnvictus está invirtiendo en mejorar la experiencia del cliente.\r\n",
-      "status": "active",
+      "name": "Innvictus MX",
+      "img": "platform/42771.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2023/9/27/42771-a91e33ea9e10070d.svg",
       "categories": [
         {
@@ -2042,12 +1940,7 @@
           }
         }
       ],
-      "img": "platform/42771.svg",
-      "affiliate": {
-        "goto_link": "https://bednari.com/g/opmjbvs3m45af0702a27183ca0a8db/",
-        "landings": [],
-        "cashback_link_data": null
-      },
+      "id": 42771,
       "category": {
         "name": "Clothing, Footwear, Accessories",
         "id": 64,
@@ -2058,15 +1951,17 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://bednari.com/g/opmjbvs3m45af0702a27183ca0a8db/",
+        "landings": [],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 42812,
-      "name": "Yuplay [CPS] WW",
-      "name_aliases": "yuplay, юплей, .gktq, нгздфн",
       "site_url": "https://www.yuplay.com/",
-      "description": "This Mitgame affiliate program is powered by the Admitad infrastructure.\r\n\r\nJoin Yuplay [CPS] WW Partnership Program\r\n\r\nBanners \r\n\r\nYuplay - Discover Top Deals on PC games for all platforms at our store.\r\n\r\nBecome our Partner and Start Making Money by promoting Yuplay products. Earn thousands of dollars/euros every single month!\r\n\r\nCurrencies: EUR, USD, GBP, GBP, CAD\r\n\r\nSocials:\r\nhttps://www.instagram.com/yuplay_com/\r\nhttps://twitter.com/YUPLAY_COM/\r\nhttps://www.facebook.com/yuplaystore/\r\nhttps://www.tiktok.com/@yuplay.com",
-      "status": "active",
+      "name": "Yuplay [CPS] WW",
+      "img": "platform/42812.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2023/10/13/42812-da853f437ef2d2ef.svg",
       "categories": [
         {
@@ -2087,12 +1982,7 @@
           }
         }
       ],
-      "img": "platform/42812.svg",
-      "affiliate": {
-        "goto_link": "https://dhwnh.com/g/07dloelw9o5af0702a27c5f0f33c6d/",
-        "landings": [],
-        "cashback_link_data": null
-      },
+      "id": 42812,
       "category": {
         "name": "Game Stores and Services",
         "id": 214,
@@ -2103,15 +1993,17 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://dhwnh.com/g/07dloelw9o5af0702a27c5f0f33c6d/",
+        "landings": [],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 42857,
-      "name": "Pizzahut.ru",
-      "name_aliases": "пиццахат, gbwwf[fn, зшяяфрге, pizahut",
       "site_url": "https://pizzahut.ru",
-      "description": "Рестораны «Pizza Hut» работают в России в Москве и Санкт-Петербурге. В меню представлено более 30 видов пиццы, в том числе с сырным бортиком, а также римские пиццеты, выгодные комбо и сеты на все случаи жизни, разнообразные закуски, десерты и напитки.\r\n\r\nГЕО-ТАРГЕНТИНГ: \r\n \r\n\r\nЗапрет на брендовые запросы в Яндекс директ: пицца хат, пиццаН\r\n\r\n \r\n\r\nПреимущества для клиентов:\r\n\r\n\r\n\tБольшой выбор пиццы и прочих блюд.\r\n\tОтменный вкус и качество.\r\n\tВыгодные комбо и сеты.\r\n\tБыстрая доставка.\r\n\tПостоянные акции и скидки, промо коды на пиццу в подарок.\r\n\tСистема лояльности, благодаря которой можно получать кешбэк баллами за заказы и оплачивать ими часть заказа.\r\n\tВозможность добавлять или исключать ингредиенты пиццы на свой вкус.\r\n\r\n\r\n \r\n\r\nПортрет целевой аудитории:\r\n\r\n\r\n\tМужчины и женщины 50/50, 22-45, доход средний и средний+, семьи, работники офисов, студенты.\r\n\r\n\r\n \r\n\r\nПопулярные товары:\r\n\r\n\r\n\tПицца, комбо наборы, бургеры\r\n\r\n\r\n \r\n\r\nРекомендации по позиционированию бренда:\r\n\r\nPizza Hut является одной из самых крупных сетей-пиццерий в мире, главные ценности бренда -  инновационность, креативность и усовершенствование вкуса до идеала. Так в меню постоянно появляются сочные и вкусные новинки: бургеры, разнообразные закуски и десерты. Постоянно совершенствуются коронные блюда Pizza Hut. Появились новые пиццы на римском тесте, которые уже завоевали сердца гостей, а традиционные были усовершенствованы во вкусе. Однако, неизменным, как и раньше, остаётся качество ингредиентов, яркий вкус блюд и забота о гостях.\r\n\r\nО нашем традиционном тесте:\r\n\r\nМы используем классическое тесто для приготовления пиццы. При приготовлении оно растягивается руками. Это тонкое, пористое и хрустящее тесто.\r\n\r\nО наших пиццах с сырным бортиком:\r\n\r\nОснова пиццы - традиционное тесто с бортиками, внутри которых находится тягучий, плавленый сыр моцарелла.\r\n\r\nГЕО: https://docs.google.com/spreadsheets/d/1mS6CdshjxmnvB17j9ROQH5C9Dy05f8AL/edit?usp=sharing&ouid=105548953670623029452&rtpof=true&sd=true\r\n\r\nРучная сверка раз в месяц\r\nКод ККТУ: 8.1.1\r\nВыдача именных промокодов\r\nМодерация 2 раза в неделю\r\n\r\nС Уважением, Партнерская программа «Pizza Hut»!\r\n\r\n ",
-      "status": "active",
+      "name": "Pizzahut.ru",
+      "img": "platform/42857.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2023/9/29/42857-53a6001b991894b6.svg",
       "categories": [
         {
@@ -2132,12 +2024,7 @@
           "parent": null
         }
       ],
-      "img": "platform/42857.svg",
-      "affiliate": {
-        "goto_link": "https://naiawork.com/g/dlmyqudetx5af0702a27ba0ab394fc/?erid=2bL9aMPo2e49hMef4pgV6NB46c",
-        "landings": [],
-        "cashback_link_data": null
-      },
+      "id": 42857,
       "category": {
         "name": "Online Food Delivery",
         "id": 204,
@@ -2148,15 +2035,17 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://naiawork.com/g/dlmyqudetx5af0702a27ba0ab394fc/?erid=2bL9aMPo2e49hMef4pgV6NB46c",
+        "landings": [],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 43020,
-      "name": "Woodestic Many Geos",
-      "name_aliases": "woodestic, woodestic.com, woodestic com",
       "site_url": "https://woodestic.com",
-      "description": "\r\n\r\nAbout our company:\r\nWoodestic is a premium wooden board game manufacturer founded in Hungary in 2012. We are an enthusiastic team handcrafting and selling high-quality wooden board games worldwide. Our mission is to provide a unique and lasting gaming experience for people, in the form of board games, anywhere in the world!\r\n\r\n\r\n\r\nWoodestic Crokinole Tournament:\r\nCrokinole, a timeless tabletop skill game that blends dexterity, strategy, and fun, has its roots in 19th-century Canada. In recent times, it has experienced a resurgence in popularity on this side of the Atlantic.\r\n\r\nWoodestic Crokinole Elite:\r\nThese stunning boards are made individually. The pattern of the intarsia is all unique, with no duplications, and there is only ONE board from each pattern. All of the intarsias are designed by our craftsman, the items are placed into their place one by one. The leather ditch is made carefully by a professional manufacturer who makes sure that the result is the most premium crokinole ditch ever.\r\n\r\nWoodestic Crokinole Exclusive:\r\nTournament-size Crokinole with the image of your choice printed on the surface of the board.\r\n\r\nWoodestic Crokinole Mini:\r\nThis board is an excellent option for individuals with restricted space who desire a high-quality board. Moreover, it's well-suited for children who might find a full-sized board too cumbersome for their play.\r\n\r\nWoodestic Carrom:\r\nIt all began with a single glass-surfaced Carrom board found in a palace in Patiala, India. The basic rules are similar to billiards at first glance, where the objective is to shoot discs (the Carrom men and the Queen) into holes in the corners of the court using a larger shooting disc.\r\n\r\nWoodestic PitRush:\r\nPitRush is a family board game originating from Hungary, accommodating 2-6 players. It offers two distinct gameplay modes tailored to various preferences. One involves lively and chaotic mass swiping, while the other demands strategic and tactical skill.\r\n\r\nWoodestic Sling:\r\nSling is an exhilarating tabletop flicking game designed for you and your friends to enjoy. In this game, participants aim to propel all of their discs across the table to strike their opponents' discs, trigger the lock, and secure a triumphant win.\r\n\r\n\r\n\r\nUser-friendly website:\r\nThe website is designed to provide a streamlined shopping experience for customers. https://woodestic.com/\r\n\r\nSocial media:\r\nVarious social media platforms, and a strong presence in different media.\r\n\r\n\r\n\tFacebook\r\n\tInstagram\r\n\tTikTok\r\n\tTwitter\r\n\tYouTube\r\n\r\n\r\nAbout our customers:\r\n\r\nGender\r\n\r\n\r\n\tFemale: ~30%\r\n\tMale: ~70%\r\n\r\n\r\nAge\r\n\r\n\r\n\t18-34: ~20%\r\n\t35-54: ~45%\r\n\t55+: ~35%\r\n\r\n\r\nMore:\r\n\r\n\r\n\tMostly highly educated (university)\r\n\tMost of them buy the boards as a gift for someone\r\n\t5000+ satisfied customers\r\n\tThey appreciate that they get more for their money\r\n\r\n\r\nCampaign Description:\r\nWoodestic provides an opportunity for the publisher to earn commission every time a customer purchases through Admitad's affiliate link.\r\n\r\nCampaign Objective:\r\nThe cooperation aims to drive traffic and increase sales on Woodestic website.\r\n\r\nCommission rate for affiliates:\r\nFor such high-value products 10% commission is a great deal. The commission is paid after board game sets only.\r\n\r\nTracking clarity:\r\n30-Day Cookie Period – Visitors from affiliate sites can generate sales and earn commissions within 30 days of clicking.\r\n\r\nGEO:\r\nWorldwide. You can be anywhere in the world, our goal is to spread the joy of Woodestic games all over the world.\r\n\r\nLet’s game! :)",
-      "status": "active",
+      "name": "Woodestic Many Geos",
+      "img": "platform/43020.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2023/10/26/43020-69381cae5e2062d9.svg",
       "categories": [
         {
@@ -2177,12 +2066,7 @@
           }
         }
       ],
-      "img": "platform/43020.svg",
-      "affiliate": {
-        "goto_link": "https://naiawork.com/g/do86ucnzhx5af0702a27c586cc6aee/",
-        "landings": [],
-        "cashback_link_data": null
-      },
+      "id": 43020,
       "category": {
         "name": "Hobby & Stationery",
         "id": 89,
@@ -2193,15 +2077,17 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://naiawork.com/g/do86ucnzhx5af0702a27c586cc6aee/",
+        "landings": [],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 43361,
-      "name": "Whirlpool MX/CO",
-      "name_aliases": "Whirlpool\r\nWhirlpol\r\nWhirpool\r\nWhirpool\r\nRefrigeradores\r\nCongeladores\r\nElectronicos\r\nLabadoras\r\nLavadoras",
       "site_url": "https://www.whirlpool.mx/",
-      "description": "90 días de pago\r\n\r\n30 días de cocina\r\n\r\nBañera de hidromasaje incluye:\r\n\r\n\r\n\tRefrigeradores con tecnología SmartSense, que ajusta automáticamente la temperatura del refrigerador para mantener los alimentos frescos por más tiempo.\r\n\tLavadoras con tecnología 6th Sense, que detectan el tipo y la cantidad de ropa para ajustar el ciclo de lavado y ahorrar agua y energía.\r\n\tSecadoras con tecnología SmartDry, que detectan el nivel de humedad de la ropa para apagarse automáticamente cuando está seca, evitando el sobresecado y el daño a la ropa.\r\n\tCocinas con tecnología SmartCook, que permite cocinar los alimentos de manera uniforme y rápida.\r\n\tHornos con tecnología SmartRoast, que ajusta automáticamente la temperatura y el tiempo de cocción para obtener resultados perfectos.\r\n\r\n\r\nWhirlpool se compromete a ofrecer productos innovadores y de alta calidad que mejoren la vida de sus clientes.\r\n\r\nTodas nuestras marcas son parte de la Corporación Whirlpool, líder mundial en la fabricación y comercialización de electrodomésticos, con aproximadamente $20 mil millones de dólares en ventas anuales, 77,000 empleados y más de 59 centros de diseño, producción y estudios científicos alrededor del mundo.",
-      "status": "active",
+      "name": "Whirlpool MX/CO",
+      "img": "platform/43361.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2023/10/17/43361-a4433a27a8b7a214.svg",
       "categories": [
         {
@@ -2233,12 +2119,7 @@
           }
         }
       ],
-      "img": "platform/43361.svg",
-      "affiliate": {
-        "goto_link": "https://rzekl.com/g/hkjqq2fi8q5af0702a2782ed2bb6aa/",
-        "landings": [],
-        "cashback_link_data": null
-      },
+      "id": 43361,
       "category": {
         "name": "Furniture & Homeware",
         "id": 66,
@@ -2249,15 +2130,17 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://rzekl.com/g/hkjqq2fi8q5af0702a2782ed2bb6aa/",
+        "landings": [],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 43382,
-      "name": "MYINDIA RU",
-      "name_aliases": "myindia, MYINDIA, vjz bylbz , моя индия, MYINDIA.RU",
       "site_url": "https://myindia.ru/",
-      "description": "MYINDIA.RU - крупнейший маркетплейс индийских товаров в Российской Федерации и странах СНГ, работает с 2018 года. Компания продуктивно сотрудничает с крупными YouTube-блогерами, которые знакомят аудиторию с MYINDIA.RU, что помогает приобрести новых клиентов. Маркетплейс доставляет напрямую из Индии пищевые аюрведические добавки, натуральные уходовые и ароматические средства, специи, сладости и другие продукты, декор и текстиль ручной работы, украшения и аксессуары, священную атрибутику, а также многое другое, включая товары мировых брендов.\r\n\r\nПортрет ЦА:\r\n\r\n\r\n\tПол: Женщины — 70,1%, Мужчины — 29,9%\r\n\tВозраст:\r\n\t25–34 — 16,4%\r\n\t35–44 — 19,3%\r\n\t45–54 — 24%\r\n\tИнтересы: красота и здоровье, одежда и аксессуары, развлечения и досуг, отдых и путешествия.\r\n\r\n\r\nГеография: \r\n\r\n\r\n\tМосква и область — 27,4%\r\n\tСанкт-Петербург и область — 8,62%\r\n\tКраснодарский край — 3,8%\r\n\tСвердловская область — 2,32%\r\n\tНижегородская область — 2,08%\r\n\r\n\r\nПреимущества для партнёров:\r\n\r\n\r\n\tИзвестный маркетплейс с высокой узнаваемостью.\r\n\tОбширный ассортимент: от аюрведы до текстиля.\r\n\tПостоянный раздел «Акции».\r\n\tГибкая система скидок и промо.\r\n\tЛояльная аудитория с высоким LTV.\r\n\tОпыт работы с лидерами мнений.\r\n\r\n\r\nПреимущества для клиентов:\r\n\r\n\r\n\tГарантированно оригинальные товары из Индии.\r\n\tЦены ниже, чем у конкурентов.\r\n\tСезонные и праздничные акции.\r\n\tБонусная программа лояльности.\r\n\tОптовые продажи.\r\n\tБесплатная доставка в большинство стран.\r\n\r\n\r\nУсловия доставки:\r\n\r\n\r\n\tБесплатная доставка по РФ при заказе от минимальной суммы (условия на сайте).\r\n\tДоставка напрямую из Индии.\r\n\tВозможность экспресс-доставки (в зависимости от региона).\r\n\r\n\r\nКак проходит сверка:\r\nРаз в месяц с 1-14 число, ручная.\r\n\r\nДанные об ОРД (ККТУ):\r\n7.1.1 МАРКЕТПЛЕЙСЫ\r\n\r\nВыдача промокодов:\r\nЕсть возможность выдачи именных промокодов по запросу.\r\n\r\nИнформация про модерацию:\r\nМодерация проводится 3 раза в неделю.",
-      "status": "active",
+      "name": "MYINDIA RU",
+      "img": "platform/43382.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2024/10/17/43382-dadc98d9241d290e.svg",
       "categories": [
         {
@@ -2300,12 +2183,7 @@
           }
         }
       ],
-      "img": "platform/43382.svg",
-      "affiliate": {
-        "goto_link": "https://dorinebeaumont.com/g/hrtmgqfk7k5af0702a274ed2ce7ed5/?erid=2bL9aMPo2e49hMef4pgVCwBskU",
-        "landings": [],
-        "cashback_link_data": null
-      },
+      "id": 43382,
       "category": {
         "name": "Smart Home",
         "id": 198,
@@ -2316,15 +2194,17 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://dorinebeaumont.com/g/hrtmgqfk7k5af0702a274ed2ce7ed5/?erid=2bL9aMPo2e49hMef4pgVCwBskU",
+        "landings": [],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 43795,
-      "name": "Upstox [Android, CPA] IN",
-      "name_aliases": "upstocks,upstockas,",
       "site_url": "https://upstox.com/",
-      "description": "Company's Description: Upstox was founded with the vision of making financial investing easy, equitable, and affordable to all Indian investors. It offers online investments in stocks, derivatives, commodities, currencies, mutual funds and ETFs for both professional traders and investors. It has also ensured full transparency in pricing by offering zero brokerage on equity delivery trades and up to Rs. 20 per order for intraday, F&O, commodities, and currencies. \r\n\r\nCampaign Description: It is a CPA (Cost per Acquisition) campaign in which affiliates must divert the traffic to the advertiser website and drive qualified acquisitions. Advertisers offering their affiliates to run it in Pan India with the targeting of audience which mentioned under the targeting criteria. All allowed promotional methods are selected under traffic sources.\r\n\r\nTargeting: Pan India\r\n\r\nTarget Audience: 21 – 45 yrs,  Income above 5 lakhs p.a.\r\n\r\nObjective: To tap potential customers and deliver qualified conversions for Upstox",
-      "status": "active",
+      "name": "Upstox [Android, CPA] IN",
+      "img": "platform/43795.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2023/10/23/43795-c44c35e2a5f826cf.svg",
       "categories": [
         {
@@ -2345,12 +2225,7 @@
           }
         }
       ],
-      "img": "platform/43795.svg",
-      "affiliate": {
-        "goto_link": "https://wbbsv.com/g/z8ijs7fuyl5af0702a271ed4a9c5e3/",
-        "landings": [],
-        "cashback_link_data": null
-      },
+      "id": 43795,
       "category": {
         "name": "Investments",
         "id": 126,
@@ -2361,15 +2236,17 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://wbbsv.com/g/z8ijs7fuyl5af0702a271ed4a9c5e3/",
+        "landings": [],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 43800,
-      "name": "HeadHunter (hh.kz) KZ",
-      "name_aliases": "hh, [[, [tl [fynth, [tl[fynth, хедхантер, хх, хед хантер, кз, ххкз, кзхх",
       "site_url": "https://hh.kz",
-      "description": "hh.kz – крупнейшая онлайн-рекрутинг платформа в Казахстане, клиентами которой являются порядка 100 тыс. компаний. Обширная база кандидатов hh.kz содержит более 4,8 млн резюме, а среднее дневное количество вакансий превышает 40 тыс.\r\n\r\n \r\n\r\nПортрет ЦА:\r\n\r\n\r\n\tБольшая часть аудитории по возрастным характеристикам попадет в диапазон примерно 25-55 лет;\r\n\tНовые, ранее не регистрировавшиеся на hh.ru работодатели с реальным юридическим лицом, зарегистрированным в РК;\r\n\tCEO, заместитель директора, директор, главы отделов, секретари, личные помощники;\r\n\thr-generalist, менеджеры по персоналу, инспекторы по кадрам;\r\n\tВсе работодатели РК, все отрасли, малый/средний/крупный бизнес и ИП\r\n\r\n\r\n \r\n\r\nПреимущества работы с программой:\r\n\r\n\r\n\tВысокая конверсия за счет узнаваемости бренда и большого кол-ва резюме в нашей базе (более 7 260 000);\r\n\tРазрешены почти все виды трафика;\r\n\tДостойное вознаграждение;\r\n\tПредоставление дополнительных рекламных материалов по запросу\r\n\r\n\r\n \r\n\r\nОсобенности работы оффера:\r\n\r\n\r\n\tЕжемесячная ручная сверка\r\n\tВ программе не предусмотрен промокодный инструмент\r\n\tРегулярная модерация на стороне Адмитад\r\n\r\n\r\n \r\n\r\nЕсли вы планируете создавать креативы самостоятельно, то сделайте их согласно нашему брендбуку и пришлите нам на модерацию Брендбук можно найти по ссылке.\r\n\r\n\r\nМы рекомендуем использовать следующие страницы в качестве посадочных для привлечения ЦА на наш сайт:\r\n\r\n\r\n\thttps://hh.kz/\r\n\thttps://hh.kz/employer\r\n\r\n\r\nТакже мы собрали страницы всех проф. областей. При интересе работодателя к найму людей определенной профессии, можно сразу предложить посадку на соответствующую страницу, где можно посмотреть и оценить резюме целевых соискателей.\r\n\r\n \r\n\r\nВажно:\r\n\r\n\r\n\t1. Основной страницей для продвижения является https://hh.kz/ или https://hh.kz/employer.\r\n\t2. Напоминаем вам о необходимости генерировать партнерскую ссылку на выбранный лендинг.\r\n\r\n\r\n \r\n\r\nУсловия для партнеров по офферу «Подтвержденный работодатель»\r\n\r\nОплачивается зарегистрированный и подтвержденный welcome-службой работодатель\r\n\r\nУсловия оффера выполнены, если:\r\n\r\n\r\n\tклиент ранее не регистрировался на hh.kz;\r\n\tклиент при регистрации указал контактную информацию, по которой с ним удалось связаться службе первой линии;\r\n\tклиент предоставил подтверждающие документы о юр. лице;\r\n\tклиент находится в РК и заинтересован в использовании онлайн-рекрутинг платформы HeadHunter;\r\n\tрегистрация клиента не является фродовой\r\n\r\n\r\nКритерии некачественного (фродового) заказа:\r\n\r\n\r\n\tклиент не знает о том, что он зарегистрирован на HeadHunter;\r\n\tклиент не подходит под ГЕО и ЦА (например, юр. лицо не в РК, ошибочная регистрация соискателя, зарегистрировавшаяся компания занимается MLM, незаконной деятельностью, мошенническими схемами);\r\n\tклиент мотивирован зарегистрироваться и пройти подтверждение за вознаграждение: мотивированный трафик, трафик с буксов;\r\n\tклиента привлекли с сайтов-конкурентов;\r\n\tклиента привлекли с нарушением правил данного оффера\r\n\r\n\r\n \r\n\r\n\r\nПодключайтесь к партнерской программе hh.kz прямо сейчас!",
-      "status": "active",
+      "name": "HeadHunter (hh.kz) KZ",
+      "img": "platform/43800.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2024/1/9/43800-a461ba12c62af757.svg",
       "categories": [
         {
@@ -2396,12 +2273,7 @@
           "parent": null
         }
       ],
-      "img": "platform/43800.svg",
-      "affiliate": {
-        "goto_link": "https://lsuix.com/g/2notnud4ny5af0702a278c76cb9049/",
-        "landings": [],
-        "cashback_link_data": null
-      },
+      "id": 43800,
       "category": {
         "name": "Jobs and freelance",
         "id": 257,
@@ -2412,15 +2284,17 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://lsuix.com/g/2notnud4ny5af0702a278c76cb9049/",
+        "landings": [],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 43824,
-      "name": "Karpov.courses",
-      "name_aliases": "rfhgjdrehcs, rfhgjd rehcs, лфкзщмюсщгкыуы, лфкзщм, карпов, карповкурсы, карпов курсы, карпов курсес, курсы карпова, карповkarpov, karpov courses\r\n, karpov course, kc, carpov courses, karpov.courses, анатолий карпов, karpovcourses, лфкзщм сщгкыуы, лфкзщм, rfhgjd rehctc, rfhgjd rehcs, rfhgjd rehc",
       "site_url": "https://karpov.courses",
-      "description": " \r\n\r\nkarpov.courses — это школа Data Science для любого уровня подготовки.\r\nМы помогаем людям любого возраста осваивать современные профессии в Data Science, и находить работу мечты. Наши преподаватели — ведущие аналитики, ML-инженеры и разработчики с опытом работы в топовых IT- компаниях.\r\n\r\n \r\n\r\n\r\nПортрет целевой аудитории:\r\nЕсть курсы для любого уровня: с нуля для старта в профессии, для начинающих, чтобы набраться опыта и для продвинутых специалистов, которые хотят расти дальше\r\n\r\nЦелевая аудитория:  %\r\nМужчины  63,4\r\nЖенщины  36,6\r\n\r\nВозраст  %\r\n18-24  21\r\n25-34  52,6\r\n35-44  15,2\r\nОстальные  11,2\r\n\r\nРегионы  %\r\nМосква и МО  29,2\r\nСанкт-Петербург  9,05\r\nМосковская область  9,6\r\n\r\n \r\n\r\nПреимущества для веб-мастеров \r\n\r\n\r\n\t•  Высокий средний чек (75-80 000)\r\n\t•  Высокий показатель трудоустройства - 74,5% \r\n\t•  Узнаваемый бренд \r\n\t•  Большое количество выпускников - 50 000\r\n\t•  Крупные корпоративные клиенты: Т-Банк, Сбер, Леруа Мерлен, Familia\r\n\t•  Образовательная лицензия \r\n\t•  Наши выпускники уже трудоустроены в ведущих компаниях: VK, Яндекс, Ozon, HeadHunter, IVI и Авито\r\n\t•  Обучение можно пройти за счет работодателя \r\n\t•  Короткий срок обучения (в среднем - около 5 месяцев, по рынку - около года) \r\n\t•  Есть возможность международной оплаты \r\n\t•  Есть возможность рассрочки \r\n\t•  Высокая конверсия в продажу (выше чем по рынку)\r\n\r\n\r\n \r\n\r\nПреимущества для клиентов \r\n\r\n\r\n\tПрактикоориентированность: обучение построено на актуальных задачах бизнеса и проходит на реальной рабочей инфраструктуре.\r\n\tИнтенсивность: наше обучение — своего рода образовательный буткэмп, где максимум знаний даётся за минимальный срок, так чтобы актуальность знаний не терялась и вы быстрее смогли достичь желаемого результата. А если темп покажется слишком быстрым, всегда можно скорректировать сроки обучения.\r\n\tАвторы и преподаватели курсов — практикующие аналитики: наши преподаватели и авторы курсов — ведущие аналитики, ML-инженеры и разработчики с опытом работы в топовых IT- компаниях.\r\n\t74,5% наших выпускников находят работу в течение трёх месяцев\r\n\tСпециалисты с дипломом школы ценятся в топовых компаниях: VK, Яндекс, Ozon, HeadHunter, IVI, Авито\r\n\tСобственная учебная платформа и поддержка во время обучения: записи лекций можно смотреть в удобное время, а практика проходит прямо на учебной платформе. Во время обучения студентам помогают эксперты курсов: они проверяют и разбирают домашние задания, а также отвечают на вопросы\r\n\t Возможность оплаты в рассрочку, через работодателя, а также опция международной оплаты\r\n\r\n\r\n Рекомендации по позиционированию бренда:\r\n\r\n\r\n\tОбучение аналитике от аналитиков: основатели школы — ведущие аналитики из Яндекс и ВКонтакте, которые передадут свой опыт и знания студентам\r\n\t74,5% студентов школы находят работу в течение трёх месяцев: мы вместе с вами проходим путь от составления сильного резюме до получения работы и адаптации на новом рабочем месте\r\n\tДаём максимум знаний за минимальный срок, но так чтобы качество знаний не терялось\r\n\tОбучение на актуальных задачах бизнеса\r\n\tУчим лучшим практикам индустрии\r\n\r\n\r\n \r\n\r\nЧто нельзя использовать: легкий способ войти в IT, заработай 300к/сек, гарантируем трудоустройство\r\n\r\n \r\n\r\nКак проходит сверка (периодичность, автоматическая или ручная)\r\nРаз в месяц с 1-14 число.\r\n\r\n \r\n\r\nДанные об ОРД\r\nКод ККТУ 30.5.1\r\n\r\n \r\n\r\nВыдача промокодов (именные, смарт, одноразовые итп)\r\nИменные и общие. \r\n\r\n \r\n\r\nИнформация про модерацию\r\nНесколько раз в неделю.\r\n\r\n \r\n\r\nС Уважением, Партнерская программа Karpov.courses!",
-      "status": "active",
+      "name": "Karpov.courses",
+      "img": "platform/43824.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2023/12/1/43824-b2d4f9934b6ead2f.svg",
       "categories": [
         {
@@ -2447,7 +2321,18 @@
           "parent": null
         }
       ],
-      "img": "platform/43824.svg",
+      "id": 43824,
+      "category": {
+        "name": "Online Education",
+        "id": 98,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
       "affiliate": {
         "goto_link": "https://bywiola.com/g/f8t0ue6xes5af0702a273b8a152381/?erid=2bL9aMPo2e49hMef4pgVKJL7of",
         "landings": [
@@ -2523,26 +2408,12 @@
           }
         ],
         "cashback_link_data": null
-      },
-      "category": {
-        "name": "Online Education",
-        "id": 98,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
       }
     },
     {
-      "id": 44243,
-      "name": "Eduson.academy",
-      "name_aliases": "Академия Eduson, Эдюсон, увгыщт, 'l.cjy",
       "site_url": "https://eduson.academy/",
-      "description": "Eduson – онлайн-академия востребованных профессий. За 10 лет 450 000 человек решили получить инструменты для работы в Академии, а мы создали более 70 курсов-профессий для этого. Eduson — это Edtech-компания №1 в дополнительном обучении по версии Smart Ranking, победитель в номинации «Выбор рынка» на Edtechs Awards.\r\n\r\nЦелевая аудитория:\r\n\r\n\r\n\tМужчины — 67,4%\r\n\tЖенщины — 32,6%\r\n\r\n\r\nВозраст:\r\n\r\n\r\n\t18-24 — 7,08%\r\n\t25-34 — 28,5%\r\n\t35-44 — 26,9%\r\n\t45-54 — 20,2%\r\n\tОстальные — 17,4%\r\n\r\n\r\nСфера деятельности:\r\n\r\n\r\n\tначинающие специалисты\r\n\tте, кто хочет сменить профессию\r\n\tте, кому нужно оперативно освоить определенный навык для работы или повышения\r\n\r\n\r\nТакже, есть описание ЦА отдельно для каждого курса, найти можно в таблице:  Топ курсы - подробная информация\r\n\r\nПреимущества для веб-мастеров:\r\n\r\n\r\n\tодна из самых высоких ставок за оплаченный заказ;\r\n\tширокая продуктовая линейка;\r\n\tсредняя конверсия из заявки в покупку 30%;\r\n\tвозможность работать с оплатой за лида (согласуется с менеджером);\r\n\tрегулярные акции и повышение ставки;\r\n\tмедийная поддержка, коллаборации с крупными брендами.\r\n\tвысокие средние чеки в зависимости от кластеризации продукта:\r\n\r\n\r\nСамый дорогой курс Executive MBA — 330.000 руб.\r\nКурсы МВА и Директорские — 135.000 руб.\r\nКурсы по IT — 98.000 руб.\r\nКурсы по Финансам — 97.000 руб.\r\nКурсы по Менеджменту — 79.000 руб.\r\nКурсы по Дизайну — 73.000 руб.\r\nКурсы по Аналитике — 75.000 руб.\r\nКурсы по МПП (Маркетплейсы, Продакт, Проджект) — 72.000 руб.\r\nКурсы по Маркетингу — 65.000 руб.\r\nКурсы по HR — 65.000 руб.\r\nКурсы по Бухгалтерии — 50.000 руб.\r\n\r\nПреимущества для клиентов:\r\n\r\n\r\n\tинтерактивные уроки, тренажеры, игры и кейсы со сценариями;\r\n\tдоступ к курсам навсегда, можно проходить в своём темпе;\r\n\tпостоянная поддержка личного куратора на 1 год;\r\n\tпомощь в трудоустройстве;\r\n\tофициальный диплом и удостоверение о повышении квалификации;\r\n\tпреподаватели, профессора Гарварда, Стенфорда, Лондонской школы бизнеса, а также ведущие российские эксперты и практики;\r\n\tфокус на практике, многие преподаватели работают в сфере, которую преподают.\r\n\r\n\r\nНаправления: IT, маркетинг, HR, аналитика, финансы, бухгалтерия, продажи, менеджмент, бизнес, soft skills.\r\n\r\nТоп-курсы (кратко):\r\n\r\n1. Операционный директор — https://eduson.academy/operations-director CR 5% \r\n\r\n2. Менеджер по работе с маркетплейсами — https://eduson.academy/marketplace  CR 3,2%\r\n\r\n3. Генеральный директор — https://eduson.academy/gen-dir CR 4,5%\r\n\r\n4. Коммерческий директор — https://eduson.academy/com-dir-new CR 3,7% \r\n\r\n5. Аналитик данных — https://eduson.academy/data-analyst CR 4,5%\r\n\r\n6. Бизнес-аналитик — https://eduson.academy/business-analyst CR 4,3%\r\n\r\n7. Excel и Google-таблицы — https://eduson.academy/excel CR 10,3% \r\n\r\n8. Бухгалтер — https://eduson.academy/accountant CR 4,5%\r\n\r\n9. HR бизнес-партнер — https://eduson.academy/hr-business-partner CR 5,1% \r\n\r\n10. Инженер по тестированию — https://eduson.academy/qa-autotester CR 6,8%\r\n\r\n*под CR указана конверсия Визит → Лид за июнь 2024\r\n\r\nПосадочные:\r\n\r\nГлавная — https://eduson.academy СR 1,5% \r\n\r\nКаталог популярные курсы — https://eduson.academy/catalogue/popular CR 4,1% \r\n\r\nКаталог ИТ-профессии — https://eduson.academy/it-all CR 5% \r\n\r\nКаталог Управление и бизнес — https://eduson.academy/catalogue/management-and-business CR 3,9% \r\n\r\nКаталог Аналитика — https://eduson.academy/catalogue/analytics CR 1,9%\r\n\r\nКаталог HR — https://eduson.academy/catalogue/hr CR 3,1% \r\n\r\nКаталог Маркетинг — https://eduson.academy/catalogue/marketing CR 3% \r\n\r\nКаталог Финансы — https://eduson.academy/catalogue/finance CR 3,7% \r\n\r\nКаталог Бухгалтерия — https://eduson.academy/catalogue/accounting CR 2,7% \r\n\r\nКаталог Маркетплейсы — https://eduson.academy/catalogue/marketplace CR 6% \r\n\r\n*под CR указана конверсия Визит → Лид за октябрь 2023\r\n\r\nБиблиотека баннеров\r\n\r\nСтоп-слова\r\n\r\nКейсы\r\n\r\nКурсы/ца курсов/баннеры\r\n \r\n\r\nРучная сверка раз в месяц\r\n\r\nМодерация вебмастеров 2-3 раза в неделю\r\n\r\n \r\n\r\nС Уважением, Партнерская программа Eduson.academy!",
-      "status": "active",
+      "name": "Eduson.academy",
+      "img": "platform/44243.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2023/10/31/44243-73ca961299a8ff94.svg",
       "categories": [
         {
@@ -2569,7 +2440,18 @@
           "parent": null
         }
       ],
-      "img": "platform/44243.svg",
+      "id": 44243,
+      "category": {
+        "name": "Online Education",
+        "id": 98,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
       "affiliate": {
         "goto_link": "https://yknhc.com/g/9lnpm2l1ka5af0702a277e0a786efe/?erid=5jtCeReNwxHpfQTGQpntmtK",
         "landings": [
@@ -2645,26 +2527,12 @@
           }
         ],
         "cashback_link_data": null
-      },
-      "category": {
-        "name": "Online Education",
-        "id": 98,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
       }
     },
     {
-      "id": 44618,
-      "name": "",
-      "name_aliases": "cuva, кува, ква.кг, сгмф, redf, cuva.ru",
       "site_url": "https://cuva.ru",
-      "description": "",
-      "status": "active",
+      "name": "",
+      "img": "platform/44618.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2023/12/21/44618-9539a4bfd0ce3452.svg",
       "categories": [
         {
@@ -2685,7 +2553,18 @@
           }
         }
       ],
-      "img": "platform/44618.svg",
+      "id": 44618,
+      "category": {
+        "name": "Hotels",
+        "id": 41,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      },
       "affiliate": {
         "goto_link": "https://ficca2021.com/g/r4ra35y8q35af0702a27d234a74a1f/?erid=2bL9aMPo2e49hMef4pgVKTEP43",
         "landings": [
@@ -2706,26 +2585,12 @@
           }
         ],
         "cashback_link_data": null
-      },
-      "category": {
-        "name": "Hotels",
-        "id": 41,
-        "language": "en",
-        "parent": {
-          "name": "Travel & Tourism",
-          "id": 40,
-          "language": "en",
-          "parent": null
-        }
       }
     },
     {
-      "id": 44734,
-      "name": "",
-      "name_aliases": "travel.mts.ru, тревел., мтс, мтс путешествия, тревел мтс, МТС Travel, ьеы екфмуд",
       "site_url": "https://travel.mts.ru/",
-      "description": " ",
-      "status": "active",
+      "name": "",
+      "img": "platform/44734.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2023/11/3/44734-30d406936978553a.svg",
       "categories": [
         {
@@ -2801,7 +2666,18 @@
           }
         }
       ],
-      "img": "platform/44734.svg",
+      "id": 44734,
+      "category": {
+        "name": "Vacation Rentals",
+        "id": 212,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      },
       "affiliate": {
         "goto_link": "https://bywiola.com/g/kuolpa81e95af0702a271a3410bd27/?erid=5jtCeReNwxHpfQTGQpwkgXt",
         "landings": [
@@ -2817,26 +2693,12 @@
           }
         ],
         "cashback_link_data": null
-      },
-      "category": {
-        "name": "Vacation Rentals",
-        "id": 212,
-        "language": "en",
-        "parent": {
-          "name": "Travel & Tourism",
-          "id": 40,
-          "language": "en",
-          "parent": null
-        }
       }
     },
     {
-      "id": 44814,
-      "name": "Global YO WW",
-      "name_aliases": "https://www.globalyo.com/, globalyo, Globalyo WW, globalyo.com",
       "site_url": "https://www.globalyo.com/",
-      "description": "Join our Global YO affiliate program and earn a commission for each eSIM data plan purchase made through your referrals.\r\n\r\nShare Global YO with your readers, followers, site visitors, or customers and start earning today by helping them stay connected with our top-rated eSIMs.\r\n\r\nIt's a win-win – they get reliable, global connectivity, and you earn for every purchase they make!\r\n\r\nBanners\r\n\r\n- Lightening-fast mobile data in 200+ countries\r\n- Mobile and landline calls with YO SHOUT\r\n- 500+ indie movies and watch parties\r\n- Personalized travel tips and AI-generated celebrity city guides\r\n- 27k local radio stations\r\n- YOYO$ rewards you can earn and spend in the app\r\n- The coolest traveler's club\r\nAnd so much more...\r\n\r\n ",
-      "status": "active",
+      "name": "Global YO WW",
+      "img": "platform/44814.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2024/8/7/44814-9ce2fca0c7b24128.svg",
       "categories": [
         {
@@ -2869,12 +2731,7 @@
           "parent": null
         }
       ],
-      "img": "platform/44814.svg",
-      "affiliate": {
-        "goto_link": "https://zmgig.com/g/hphyrzofyp5af0702a277801e98dae/",
-        "landings": [],
-        "cashback_link_data": null
-      },
+      "id": 44814,
       "category": {
         "name": "Telecommunications",
         "id": 20,
@@ -2885,15 +2742,17 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://zmgig.com/g/hphyrzofyp5af0702a277801e98dae/",
+        "landings": [],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 44851,
-      "name": "Tu Momento Seguros MX",
-      "name_aliases": "Seguros\r\nCarros\r\nSeguros de autos \r\nautos \r\nCars\r\nInsurance\r\nEnsurance\r\nSegruros",
       "site_url": "https://www.tumomento.com/",
-      "description": " \r\n\r\nMomento Seguros es una compañía de seguros mexicana que ofrece seguros de auto. Fue fundada en 2022 y está regulada por la Comisión Nacional de Seguros y Fianzas (CNSF).\r\n\r\nLa misión de Momento Seguros es \"democratizar la industria aseguradora en México\". La compañía busca ofrecer seguros de auto asequibles y accesibles a todos los mexicanos.\r\n\r\nMomento Seguros ofrece una amplia gama de coberturas para autos, incluyendo:\r\n\r\n\r\n\tResponsabilidad civil\r\n\tDaños materiales\r\n\tGastos médicos\r\n\tRobo\r\n\tIncendio\r\n\tAsistencia vial\r\n\r\n\r\nLa compañía también ofrece pagos flexibles y un proceso de cotización y contratación sencillo.\r\n\r\nVentajas de Momento Seguros:\r\n\r\n\r\n\tSeguros asequibles\r\n\tCoberturas flexibles\r\n\tPagos flexibles\r\n\tProceso de cotización y contratación sencillo\r\n",
-      "status": "active",
+      "name": "Tu Momento Seguros MX",
+      "img": "platform/44851.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2023/11/7/44851-d61e94ceaf9301c0.svg",
       "categories": [
         {
@@ -2914,12 +2773,7 @@
           }
         }
       ],
-      "img": "platform/44851.svg",
-      "affiliate": {
-        "goto_link": "https://xpuvo.com/g/60tsptlg235af0702a27642064ff5c/",
-        "landings": [],
-        "cashback_link_data": null
-      },
+      "id": 44851,
       "category": {
         "name": "Insurance",
         "id": 37,
@@ -2930,15 +2784,17 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://xpuvo.com/g/60tsptlg235af0702a27642064ff5c/",
+        "landings": [],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 44880,
-      "name": "",
-      "name_aliases": "Chad, ChatGPT, chadgpt.ru, GPT, чад пзе, чадджепети, чат пзе, пзе, chad gpt, xflgpt, срфв, срфе, срфепзе, срфе пзе, Нейросеть, VPN, Chad AI",
       "site_url": "https://chadgpt.ru",
-      "description": "Rules for assigning an identifier (token) and applying the \"Advertisement\" marking on ad creatives\r\nIn fulfillment of the requirements of Federal Law No. 38-FZ \"On advertising\" dated March 13, 2006, the parties have agreed on the following:\r\n1. The publisher undertakes to use ad creatives in the form they were provided to them or were hosted in the Admitad system.\r\n2. If the publisher designs ad creatives on their own, based on the source materials provided to them or hosted in the Admitad system, for further placement, the publisher undertakes to assign an identifier (token) and apply the \"Advertisement\" marking on such ad creatives, ensuring full compliance with Federal Law No. 38-FZ \"On advertising\" dated March 13, 2006, and other regulations, by concluding the relevant agreement with the advertising data operator.\r\n3. The publisher is responsible for assigning an identifier (token) and applying the \"Advertising\" marking, and is responsible, as an advertiser, for the content and credibility of ad creatives they designed. The publisher also guarantees that the content of such ad creatives does not violate the current legislation of the Russian Federation, including the exclusive intellectual property rights and rights to the equivalent means of individualization.\r\n4. If the publisher violates the requirements regarding placement of ad creatives, including the requirements stipulated in the affiliate program, the publisher shall pay the fine that equals to the total of all rewards accrued or paid for the period of placement of such ad creatives made with violation of the requirements of the affiliate program and Federal Law No. 38-FZ \"On advertising\" dated March 13, 2006. The publisher shall also compensate Admitad for losses including, but not limited to, the requirements of the Advertisers/Clients, administrative fines imposed by Russian authorities.",
-      "status": "active",
+      "name": "",
+      "img": "platform/44880.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2023/11/28/44880-59f8aef44d7aa960.svg",
       "categories": [
         {
@@ -2959,12 +2815,7 @@
           }
         }
       ],
-      "img": "platform/44880.svg",
-      "affiliate": {
-        "goto_link": "https://grfpr.com/g/34g1j74pfv5af0702a27aa3255da32/?erid=2bL9aMPo2e49hMef4pgVRsMGnf",
-        "landings": [],
-        "cashback_link_data": null
-      },
+      "id": 44880,
       "category": {
         "name": "IT Services & Soft",
         "id": 122,
@@ -2975,15 +2826,17 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://grfpr.com/g/34g1j74pfv5af0702a27aa3255da32/?erid=2bL9aMPo2e49hMef4pgVRsMGnf",
+        "landings": [],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 45296,
-      "name": "",
-      "name_aliases": "aptekiplus.ru, fgntrfgk.c, fgntrf, fgntrb, аптека плюс, аптеки, аптекаплюс, aptekiplus",
       "site_url": "https://aptekiplus.ru/",
-      "description": "",
-      "status": "active",
+      "name": "",
+      "img": "platform/45296.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2024/1/10/45296-adf02f14d781cbbc.svg",
       "categories": [
         {
@@ -3004,12 +2857,7 @@
           }
         }
       ],
-      "img": "platform/45296.svg",
-      "affiliate": {
-        "goto_link": "https://tsygg.com/g/2m4nkfyzhp5af0702a27f724164c66/?erid=2bL9aMPo2e49hMef4pgVRznDVL",
-        "landings": [],
-        "cashback_link_data": null
-      },
+      "id": 45296,
       "category": {
         "name": "Personal Care & Pharmacy",
         "id": 67,
@@ -3020,15 +2868,17 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://tsygg.com/g/2m4nkfyzhp5af0702a27f724164c66/?erid=2bL9aMPo2e49hMef4pgVRznDVL",
+        "landings": [],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 45373,
-      "name": "",
-      "name_aliases": "https://bungly.ru/,  bungly.ru, bungly, бангли",
       "site_url": "https://bungly.ru/",
-      "description": "",
-      "status": "active",
+      "name": "",
+      "img": "platform/45373.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2024/2/12/45373-f9f637ad734d0736.svg",
       "categories": [
         {
@@ -3066,12 +2916,7 @@
           "parent": null
         }
       ],
-      "img": "platform/45373.svg",
-      "affiliate": {
-        "goto_link": "https://rkdro.com/g/639t4hq54u5af0702a2747b5c02a03/?erid=2bL9aMPo2e49hMef4pgVS5EWfY",
-        "landings": [],
-        "cashback_link_data": null
-      },
+      "id": 45373,
       "category": {
         "name": "Clothing, Footwear, Accessories",
         "id": 64,
@@ -3082,15 +2927,17 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://rkdro.com/g/639t4hq54u5af0702a2747b5c02a03/?erid=2bL9aMPo2e49hMef4pgVS5EWfY",
+        "landings": [],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 45469,
-      "name": "Blackberrys New [CPS] IN",
-      "name_aliases": "blakberry, bleckburry, blackbury, blackbeyr",
       "site_url": "https://blackberrys.com/",
-      "description": "Company Description- Blackberrys exists in a man’s world to be his partner-in-success, as he sprints towards his ambitions with a burning desire to keep winning. The brand will do all it takes to enable this man to write his success story, while keeping him sharp and always in style. From trousers, suits, jackets and blazers for formal occasions to bringing in khakis, shirts, denims, t-shirts and inner wear, shoes and accessories, Blackberrys has turned out to be a one-stop shop for men’s growing fashion needs.\r\n\r\nCampaign Description- Blackberrys CPS gives an opportunity for affiliates to earn good revenue if the sales are delivered through affiliate links.\r\n\r\nTarget Market- Pan India",
-      "status": "active",
+      "name": "Blackberrys New [CPS] IN",
+      "img": "platform/45469.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2023/12/27/45469-5ee49d91c0c825ed.svg",
       "categories": [
         {
@@ -3111,12 +2958,7 @@
           }
         }
       ],
-      "img": "platform/45469.svg",
-      "affiliate": {
-        "goto_link": "https://tjzuh.com/g/lv4rd63bk25af0702a27d42ea64a2c/",
-        "landings": [],
-        "cashback_link_data": null
-      },
+      "id": 45469,
       "category": {
         "name": "Clothing, Footwear, Accessories",
         "id": 64,
@@ -3127,15 +2969,17 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://tjzuh.com/g/lv4rd63bk25af0702a27d42ea64a2c/",
+        "landings": [],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 45856,
-      "name": "Tochkalubvi",
-      "name_aliases": "njxrf, njxrf k.,db, точка, точкалюбви, точка любви, ещсрлф, ещсрлфдгимш",
       "site_url": "https://www.tochkalubvi.ru/",
-      "description": "\r\n\r\nТочка Любви - официальный интернет-магазин и одна из крупнейших онлайн-площадок по продаже товаров взрослых в России. \r\n\r\n \r\n\r\nНаш ассортимент – это более чем 20 тысяч наименований товаров любых форм, цветов и размеров, которые помогают нашим клиентам приумножить любовь, воплотить фантазии в реальность и тем самым разнообразить сексуальную жизнь.\r\n\r\n \r\n\r\nТочка Любви это: \r\n\r\n\r\n\t100% оригинальные сертифицированные интимные изделия, безопасные для здоровья;\r\n\t100% анонимность при заказе и получении;\r\n\tБесплатная круглосуточная консультация на сайте и по телефону;\r\n\tБыстрая доставка по всей России.\r\n\r\n\r\nС 2010 года Точка Любви помогает своим клиентам менять сексуальную жизнь при помощи высококлассной продукции от самых востребованных производителей рынка интимных товаров. Мы реализуем исключительно оригинальную и проверенную продукцию с подтвержденными сертификатами и гарантиями качества на все товары.\r\n\r\n \r\n\r\nПочему именно Точка Любви?\r\n\r\n\r\n\tПри заказе на сумму более 3990 рублей доставка осуществляется бесплатно\r\n\tЛучшее качество товара\r\n\tОнлайн-магазин работает 24 часа в сутки и принимает заказы по всей России!\r\n\tИндивидуальный подход к каждому клиенту, быстрое размещение заказа, удобные способы оплаты!\r\n\tМы работаем только с проверенными брендами!\r\n\tУ нас самая быстрая доставка по территории России\r\n\tМы обеспечиваем контроль всех этапов покупки\r\n\tПредоставляем возможность отслеживания товара в онлайн-режиме!\r\n\t100% конфиденциальность\r\n\tГарантируем сохранность всех персональных данных заказчика, тщательно упаковываем товары без указания магазина и упоминания о содержимом!\r\n\tПредоставляем сертификаты качества\r\n\tАссортимент Точки Любви абсолютно безопасен для здоровья, и мы можем подтвердить это с помощью соответствующей документации.\r\n\r\n\r\n \r\n\r\nЦелевая аудитория: 18+, гео РФ.\r\n\r\nВ Точке Любви можно приобрести множество изделий со скидками до 40%!\r\n\r\n \r\n\r\nНаши топовые товары:\r\n\r\n\r\n\tSatisfyer Pro Penguin Next Generation\r\n\tWe-Vibe Verge\r\n\tSatisfyer Partner Toy Plus Remote\r\n\tА также другие бренды, такие как: Lelo, Fun Factory, Mystim, OVO, Doc Johnson, Womanizer, Shunga, Svakom.\r\n\r\n\r\nПриобретайте их со скидками до 40%!\r\n\r\nДля вебмастеров:\r\n\r\n\r\n\tРучная сверка раз в месяц.\r\n\tМодерация вебмастеров 2 раза в неделю.\r\n\tВыдача именных и smart промокодов.\r\n\r\n\r\nПолучай удовольствие с нами, получай удовольствие больше нас!\r\n\r\n \r\n\r\nС Уважением, Партнерская программа, Точка Любви!",
-      "status": "active",
+      "name": "Tochkalubvi",
+      "img": "platform/45856.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2025/7/24/45856-ab3d524ebe5195b8.svg",
       "categories": [
         {
@@ -3174,12 +3018,7 @@
           "parent": null
         }
       ],
-      "img": "platform/45856.svg",
-      "affiliate": {
-        "goto_link": "https://ypetp.com/g/g2hbvgtv6m5af0702a2741e58a6524/?erid=2bL9aMPo2e49hMef4pgVYYJNu2",
-        "landings": [],
-        "cashback_link_data": null
-      },
+      "id": 45856,
       "category": {
         "name": "Adult",
         "id": 216,
@@ -3190,15 +3029,17 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://ypetp.com/g/g2hbvgtv6m5af0702a2741e58a6524/?erid=2bL9aMPo2e49hMef4pgVYYJNu2",
+        "landings": [],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 45941,
-      "name": "CCLeanerWW",
-      "name_aliases": "CCLeaner  WW, CCLeaner WW, CCLeaner, https://CCLeaner.com/ccleaner, CCLeaner.com, soft, Professional,",
       "site_url": "https://www.ccleaner.com/ccleaner",
-      "description": "CCleaner is the number-one tool for cleaning and optimizing PC.\r\n\r\nTrusted by millions and critically acclaimed, there’s a reason why CCleaner is the world’s favorite PC optimization tool.\r\n\r\nBanner\r\n\r\n\r\n \r\n",
-      "status": "active",
+      "name": "CCLeanerWW",
+      "img": "platform/45941.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2024/4/4/45941-bc5fbd56e62d2ed2.svg",
       "categories": [
         {
@@ -3241,12 +3082,7 @@
           }
         }
       ],
-      "img": "platform/45941.svg",
-      "affiliate": {
-        "goto_link": "https://ewwhk.com/g/vsfagei7ke5af0702a274c1b220628/",
-        "landings": [],
-        "cashback_link_data": null
-      },
+      "id": 45941,
       "category": {
         "name": "Other Services",
         "id": 93,
@@ -3257,15 +3093,17 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://ewwhk.com/g/vsfagei7ke5af0702a274c1b220628/",
+        "landings": [],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 45959,
-      "name": "1-ofd.ru",
-      "name_aliases": "первый офд, gthdsq jal, 1щав",
       "site_url": "https://www.1-ofd.ru/",
-      "description": "Первый ОФД - инновационная компания, специализирующаяся на IT-сервисах для ритейла, рынка e-commerce и производственных компаний сегмента FMCG по всей России. В линейку сервисов «Первого ОФД» входит: услуга передачи фискальных данных (ОФД), сервис аренды облачных касс «под ключ», электронный документооборот (ЭДО), онлайн-аналитика на основе данных о продажах из чеков, а также комплексное кассовое решение «Росритейл».\r\n\r\nПортрет целевой аудитории:\r\n\r\nПредприниматели (онлайн- и офлайн- ритейлеры), которые только запустили свой бизнес.\r\n\r\nПреимущества для клиентов :\r\n\r\n\r\n\tУправление всеми сервисами через единый Личный Кабинет\r\n\tПолное сопровождение клиента от регистрации в ФНС до настройки кассы\r\n\tПоддержка дальнейшей работы 24/7\r\n\r\n\r\nРекомендации по позиционированию бренда:\r\n\r\nРосритейл – это комплексное кассовое решение, которое позволит предпринимателям сэкономить время на подключении и управлении всеми необходимыми сервисами и сконцентрироваться на развитии бизнеса. Росритейл поможет закрыть сразу несколько важных потребностей в одном окне: приобрести и зарегистрировать в ФНС кассу с настроенным эквайрингом, подключенными ОФД и товароучетной системой. Это позволит новым предпринимателям соблюдать требования 54-ФЗ и сэкономить время на оформление электронных чеков для ФНС.\r\n\r\n \r\n\r\nОблачная касса https://www.1-ofd.ru/rent-cloud-box/\r\n\r\nПервый ОФД - инновационная компания, специализирующаяся на IT-сервисах для ритейла, рынка e-commerce и производственных компаний сегмента FMCG по всей России. В линейку сервисов «Первого ОФД» входит: услуга передачи фискальных данных (ОФД), сервис аренды облачных касс «под ключ», электронный документооборот (ЭДО), онлайн-аналитика на основе данных о продажах из чеков, а также комплексное кассовое решение «Росритейл».\r\n\r\nИнформацию брать отсюда: https://okassa.1-ofd.ru/\r\n\r\n \r\n\r\nС Уважением, Партнерская программа Первый ОФД!",
-      "status": "active",
+      "name": "1-ofd.ru",
+      "img": "platform/45959.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2023/12/26/45959-fa18f3a98b6ed577.svg",
       "categories": [
         {
@@ -3314,12 +3152,7 @@
           }
         }
       ],
-      "img": "platform/45959.svg",
-      "affiliate": {
-        "goto_link": "https://zallj.com/g/yo25e1w1tz5af0702a27b17e829c53/?erid=2bL9aMPo2e49hMef4pgVYbFgeg",
-        "landings": [],
-        "cashback_link_data": null
-      },
+      "id": 45959,
       "category": {
         "name": "IT Services & Soft",
         "id": 122,
@@ -3330,15 +3163,17 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://zallj.com/g/yo25e1w1tz5af0702a27b17e829c53/?erid=2bL9aMPo2e49hMef4pgVYbFgeg",
+        "landings": [],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 46013,
-      "name": "Puma TR",
-      "name_aliases": "puma, Puma, Pma,",
       "site_url": "https://tr.puma.com",
-      "description": "Program Description\r\n\r\nTake advantage of the PUMA affiliate program. It offers you a great opportunity to share in PUMA’s success.\r\n\r\nPUMA is one of the world’s leading sports brands, designing, developing, selling, and marketing footwear, apparel and accessories. For over 65 years, PUMA has established a history of making fast product designs for the fastest athletes on the planet. PUMA offers performance and sport-inspired lifestyle products in categories such as Football, Running, Training and Motorsport (Ferrari, Mercedes, BMW, Red Bull Racing). It engages in exciting collaborations with renowned designs. PUMA is also known for the partnership with artists such as DJ Snake, Dua Lipa and more, which has given way to a number of new product designs.\r\n\r\nThe PUMA online shop offers a huge variety of products. The most important benefits are:\r\n· fast shipping\r\n· largest product selection worldwide\r\n· cost free returns\r\n· free standard delivery\r\n· Long attribution period\r\n\r\nVouchercodes for PUMA must only be used with authorisation from either PUMA or Admitad directly. Anybody caught using a vouchercode taken from another site will be asked to remove it immediately and may face commission sanctions with non compliance.\r\n\r\nSearch Policy\r\nWe reserve all rights in our trade name and trademarks; therefore you agree not to purchase or bid for the placement of our name, trademarks, technologies, collection names or any variation or misspellings thereof. Please see our terms and conditions for complete search policy and contact us if you have questions.\r\nFeel free to contact us in case you need more information or have suggestions regarding the PUMA affiliate program. We are counting on you and will do our best to ensure a good and profitable cooperation!\r\n\r\nSign up today and join the FOREVER FASTER Team\r\n\r\nYours\r\n\r\nPUMA Affiliate-Team\r\n\r\n ",
-      "status": "active",
+      "name": "Puma TR",
+      "img": "platform/46013.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2024/2/22/46013-6ae0915424820a75.svg",
       "categories": [
         {
@@ -3365,12 +3200,7 @@
           "parent": null
         }
       ],
-      "img": "platform/46013.svg",
-      "affiliate": {
-        "goto_link": "https://rcpsj.com/g/1diesae2p95af0702a2736c4c71279/",
-        "landings": [],
-        "cashback_link_data": null
-      },
+      "id": 46013,
       "category": {
         "name": "Clothing, Footwear, Accessories",
         "id": 64,
@@ -3381,15 +3211,17 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://rcpsj.com/g/1diesae2p95af0702a2736c4c71279/",
+        "landings": [],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 46169,
-      "name": "dominopizza.ru",
-      "name_aliases": "dominopizza.ru, домино, димонпицца, вщьштщ, вщьштщзшяяф, пицца, еда, доставка, ljvbyj, ljvbyjgbwwf, DOMИNO PIZZA",
       "site_url": "https://dominopizza.ru/",
-      "description": "DOMИNO PIZZA сегодня:\r\n\r\n- Одна из самых крупных сетей по доставке пиццы в России!\r\n- У нас сейчас более 100 ресторанов, преимущественно в Москве и Московской области\r\n- Быстрая доставка пиццы от 30 минут\r\n\r\nРаботай с нами, будь лучшим и стань эксклюзивным вебмастером-партнером DOMИNO PIZZA\r\n\r\nПочему покупатели выбирают нас?\r\n\r\n1. Выгодные акции. Акции «5 Больших пицц», «Третья пицца в подарок», «2 большие пиццы от 999» завоевали сердца наших постоянных покупателей и продолжают радовать\r\n2. Качество используемых продуктов. Мы используем самые качественные ингредиенты для приготовления пицц\r\n3. Нас выбирают за возможность выбирать. Ассортимент пицц удовлетворит самые взыскательные вкусы\r\n\r\nГЕО:\r\n\r\n\r\n\tМосква;\r\n\tБалашиха;\r\n\tДомодедово;\r\n\t Котельники;\r\n\tЛобня;\r\n\tПушкино;\r\n\tЩёлково;\r\n\tВидное;\r\n\tКоммунарка;\r\n\tКрасногорск;\r\n\tЛюберцы;\r\n\tМытищи;\r\n\tРеутов\r\n\r\n\r\nТоп пицц - Пепперони, 4 сыра и Домино пицца\r\nТоп акций: 2+1 в подарок и 2 от 999 руб.\r\n\r\nОсновная ЦА: Мужчины/Женщины (50/50); со средним доходом; возраст 25-44\r\n\r\nДля вебмастеров:\r\n\r\n\r\n\tРучная сверка раз в месяц.\r\n\tМодерация вебмастеров 2 раза в неделю.\r\n\tВыдача именных промокодов\r\n\r\n\r\nДанные об ОРД. Код ККТУ: 8.1.1",
-      "status": "active",
+      "name": "dominopizza.ru",
+      "img": "platform/46169.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2024/2/16/46169-141d26c717e9301d.svg",
       "categories": [
         {
@@ -3422,12 +3254,7 @@
           "parent": null
         }
       ],
-      "img": "platform/46169.svg",
-      "affiliate": {
-        "goto_link": "https://kjuzv.com/g/b6bacbcqv75af0702a27e318436f52/?erid=2bL9aMPo2e49hMef4pgyQk9mYq",
-        "landings": [],
-        "cashback_link_data": null
-      },
+      "id": 46169,
       "category": {
         "name": "Online Food Delivery",
         "id": 204,
@@ -3438,15 +3265,17 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://kjuzv.com/g/b6bacbcqv75af0702a27e318436f52/?erid=2bL9aMPo2e49hMef4pgyQk9mYq",
+        "landings": [],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 48884,
-      "name": "Super Interessante BR (Grupo Abril)",
-      "name_aliases": "Super interessante",
       "site_url": "https://super.abril.com.br/",
-      "description": "Promova os planos de \"Assinatura Digital\" e \"Digital + Impresso\" da Super Interessante, com acesso ilimitado a todos os títulos..O usuário terá uma experiência única de entretenimento e acesso a assuntos variados e divertidos dentro do universo da cultura, ciência, atualidades com a Revista mais Interessante de todos os tempos na palma da mão.\r\n\r\nEste programa é ideal se a sua audiência tem interesse em:\r\n\r\n\r\n\tConsumir conteúdo variado de curiosidades e entretenimento;\r\n\tLeitura de qualidade sobre ciências, tecnologia, natureza e atualidades;\r\n",
-      "status": "active",
+      "name": "Super Interessante BR (Grupo Abril)",
+      "img": "platform/48884.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/10/48884-8c9e89a73a818031.svg",
       "categories": [
         {
@@ -3467,12 +3296,7 @@
           }
         }
       ],
-      "img": "platform/48884.svg",
-      "affiliate": {
-        "goto_link": "https://qbzdl.com/g/auo2v261as5af0702a27ba527eaa02/",
-        "landings": [],
-        "cashback_link_data": null
-      },
+      "id": 48884,
       "category": {
         "name": "News and Media",
         "id": 310,
@@ -3483,15 +3307,17 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://qbzdl.com/g/auo2v261as5af0702a27ba527eaa02/",
+        "landings": [],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 48995,
-      "name": "",
-      "name_aliases": "mts.ru/personal/vybrat-nomer, МТС Красивый номер, МТС, ьеы, номер, телефон, выбрать номер",
       "site_url": "https://mts.ru/personal/vybrat-nomer/",
-      "description": "",
-      "status": "active",
+      "name": "",
+      "img": "platform/48995.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2023/12/15/48995-2c873a00c63c66ea.svg",
       "categories": [
         {
@@ -3534,12 +3360,7 @@
           }
         }
       ],
-      "img": "platform/48995.svg",
-      "affiliate": {
-        "goto_link": "https://xmknb.com/g/637t7kjrg75af0702a274340cd7ba5/?erid=5jtCeReNwxHpfQTGtvK7hd1",
-        "landings": [],
-        "cashback_link_data": null
-      },
+      "id": 48995,
       "category": {
         "name": "Other Services",
         "id": 93,
@@ -3550,15 +3371,17 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://xmknb.com/g/637t7kjrg75af0702a274340cd7ba5/?erid=5jtCeReNwxHpfQTGtvK7hd1",
+        "landings": [],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 49307,
-      "name": "",
-      "name_aliases": "aqara.ru, акара, фйфкф, aqara.ru, frfhf",
       "site_url": "https://aqara.ru",
-      "description": "",
-      "status": "active",
+      "name": "",
+      "img": "platform/49307.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2023/12/22/49307-0302a7d5eeaa48b8.svg",
       "categories": [
         {
@@ -3590,12 +3413,7 @@
           }
         }
       ],
-      "img": "platform/49307.svg",
-      "affiliate": {
-        "goto_link": "https://gndrz.com/g/a0xuyucz7q5af0702a27a69a5c0e88/?erid=2bL9aMPo2e49hMef4pgyXDEJu5",
-        "landings": [],
-        "cashback_link_data": null
-      },
+      "id": 49307,
       "category": {
         "name": "Household Appliances & Electronics",
         "id": 65,
@@ -3606,15 +3424,17 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://gndrz.com/g/a0xuyucz7q5af0702a27a69a5c0e88/?erid=2bL9aMPo2e49hMef4pgyXDEJu5",
+        "landings": [],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 49316,
-      "name": "Jumbo AE",
-      "name_aliases": "jumbo, jumbo electronics, جمبو",
       "site_url": "https://www.jumbo.ae/",
-      "description": "Program Top-Sellers: https://docs.google.com/spreadsheets/d/12oH-uYkHwn4rTAxtZtlB_FmliPAAlLOqSGrFc3bUo1E/edit?usp=sharing\r\n\r\nAt Jumbo, we are passionate about technology and even more passionate about earning the trust of our customers.\r\n\r\nFew things signal the dawn of a new era like the revolution that Jumbo heralded into UAE over 40 years ago. The late Mr. M R Chhabria founded the company that went on to transform the consumer electronics landscape in UAE and grew into what we are today - a formidable corporate.\r\n\r\nGuided by our founder’s philosophy and defined by our varied portfolio, unique strengths and skills, we have grown from strength to strength over the last four decades. Through strategic diversification, we aim to create a future where everyone has access to the best that the world can offer.\r\n\r\nWe believe in the significance of long-term partnerships – precisely why our brands, customers, associates and employees have been our long-standing allies and will remain with us in our march towards a bigger and brighter tomorrow.\r\n\r\nFrom being a brick and mortar retailer, Jumbo Retail has grown into an OmniChannel Retailer providing the most seamless shopping experience, be it online or in-store.\r\n\r\nOur evolution is embodied in steady and significant growth that Jumbo OmniChannel Retail has seen in the last 4 decades. Since 1974, Jumbo has continued to be UAE’s most trusted retailer with an omnichannel retail experience. The concept offers superior experience and customized offerings on latest technology products and services, online as well as offline.\r\n\r\nJumbo OmniChannel Retail offers the best in mobile phones, laptops, TVs, home theatres, cameras, gaming, lifestyle products, accessories and telecom services. As a strategic partner for high end premium brands like SONY and DYSON, Jumbo OmniChannel Retail manages brand boutiques too. It also operates DU franchise stores across UAE. Jumbo offers after-sales service from Jumbo Serve (the largest service centre in the UAE) and installation support as well as smart home services from Jumbo UnwiredCrew. We also offer other value added services such as Jumbo Salama and Jumbo Exchange.\r\n\r\nJumbo OmniChannel Retail continues to be the pioneer tech-retailer in the region.",
-      "status": "active",
+      "name": "Jumbo AE",
+      "img": "platform/49316.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2023/12/15/49316-7c1d6d7a81efa628.svg",
       "categories": [
         {
@@ -3635,12 +3455,7 @@
           }
         }
       ],
-      "img": "platform/49316.svg",
-      "affiliate": {
-        "goto_link": "https://grfpr.com/g/gpx4rqbpkb5af0702a27dda4f3f08f/",
-        "landings": [],
-        "cashback_link_data": null
-      },
+      "id": 49316,
       "category": {
         "name": "Household Appliances & Electronics",
         "id": 65,
@@ -3651,6 +3466,11 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://grfpr.com/g/gpx4rqbpkb5af0702a27dda4f3f08f/",
+        "landings": [],
+        "cashback_link_data": null
       }
     }
   ],

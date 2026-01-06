@@ -1,11 +1,8 @@
 [
   {
-    "id": 16026,
-    "name": "Sprinthost",
-    "name_aliases": "Спринтхост, Спринтбокс, Спринт хост, Спринт хостинг, Sprinthost, Sprintbox, Sprint Host, Sprinthosting, Sprint hosting, Спрингхост, Springhost",
     "site_url": "https://sprinthost.ru/",
-    "description": "Партнерская система Спринтхост \r\n\r\nХостинг-провайдер Спринтхост входит в число лидеров российского рынка хостинга.  С 2005 года мы оказываем услуги виртуального хостинга, аренды выделенных серверов, виртуальных выделенных серверов (VDS), регистрации доменов. Наши клиенты — частные лица, государственные и коммерческие организации, всего более 100 000 клиентов.\r\n\r\nПреимущества для веб-мастеров:\r\n\r\n\r\n\tСверка заказов производится еженедельно по понедельникам;\r\n\tВысокий уровень и скорость конверсии — клиенты оплачивают в первые дни после регистрации;\r\n\tВ оффере участвуют все услуги Спринтхост, кроме аренды выделенного сервера;\r\n\tСамый популярный тип оплаты 1 год использования услуг;\r\n\tСрок жизни файла Post Click Cookie в браузере клиента 30 дней;\r\n\tВысокий рейтинг компании на независимых обзорных площадках; \r\n\tКачественные и запоминающиеся рекламные материалы.\r\n\r\n\r\nПреимущества для клиентов:\r\n\r\n\r\n\tСамый быстрый хостинг на NVMe от 129рублей;\r\n\tБесплатный тестовый период 30 дней;\r\n\tДружелюбная техническая поддержка 24/7 и ответы на любые вопросы новичков;\r\n\tБыстрый удобный перенос сайтов от сторонних хостинг-провайдеров;\r\n\tУдобная панель управления собственной разработки;\r\n\tУстановка CMS в один клик;\r\n\tБесплатные SSL-сертификаты и домены в подарок;\r\n\tУдобная панель управления;\r\n\tАвтоматическое резервное копирование.\r\n\r\n\r\nДействующие спецпредложения для клиентов:\r\n\r\n\r\n\tДомен в подарок;\r\n\tЗа перенос сайта и 3 месяца хостинга в подарок;\r\n\t12 месяцев хостинга по цене 10.\r\n\r\n\r\nУслуги Спринтхост:\r\n\r\n\r\n\tВиртуальный хостинг; \r\n\tХостинг для 1С-Битрикс;\r\n\tПремиум-хостинг;\r\n\tVDS;\r\n\tДомены.\r\n\r\n\r\nЦелевая аудитория:\r\n\r\nГеография:\r\n\r\n\r\n\tРоссия: 71%\r\n\tКазахстан: 4%\r\n\tУкраина: 3%\r\n\tАрмения: 3%\r\n\tБеларусь: 3%\r\n\tСША: 2%\r\n\r\n\r\nПол:\r\n\r\n\r\n\tМужчины: 75%\r\n\tЖенщины: 25%\r\n\r\n\r\nВозраст:\r\n\r\n\r\n\t18 - 24 года — 16%\r\n\t25 - 34 года — 39%\r\n\t35 - 44 года — 23%\r\n\r\n\r\nДля вебмастеров\r\n\r\n- Ручная сверка раз в месяц.\r\n\r\n- Модерация вебмастеров 2 раза в неделю.\r\n\r\n- Нет выдачи именных промокодов.\r\n\r\nДанные об ОРД. Код ККТУ: 25.1.5",
-    "status": "active",
+    "name": "Sprinthost",
+    "img": "platform/16026.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/2/2/16026-1ccb0d7ff2844de4.png",
     "categories": [
       {
@@ -26,18 +23,7 @@
         }
       }
     ],
-    "img": "platform/16026.png",
-    "affiliate": {
-      "goto_link": "https://dkfrh.com/g/mxmtlx74bh5af0702a27b183dfeeb8/?erid=MvGzQC98w3Z1gMq1kxXQnm7r",
-      "landings": [
-        {
-          "id": 30926,
-          "name": "Премиум",
-          "code": "0730467c4a"
-        }
-      ],
-      "cashback_link_data": null
-    },
+    "id": 16026,
     "category": {
       "name": "IT Services & Soft",
       "id": 122,
@@ -48,15 +34,23 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://dkfrh.com/g/mxmtlx74bh5af0702a27b183dfeeb8/?erid=MvGzQC98w3Z1gMq1kxXQnm7r",
+      "landings": [
+        {
+          "id": 30926,
+          "name": "Премиум",
+          "code": "0730467c4a"
+        }
+      ],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 17314,
-    "name": "Depositphotos [CPS] WW",
-    "name_aliases": "депозитфотос, depositphotos, ltgjpbnajnjc, int, инт",
     "site_url": "https://depositphotos.com/",
-    "description": "Depositphotos is a stock photography platform that offers a unique selection of high-quality photographs, vectors, videos, and illustrations. This photo bank currently has over 70 million files and is growing thanks to their community of talented photographers. \r\n \r\n\r\nWith a library of more than 70 million files, advanced search algorithms, and flexible pricing, Depositphotos is one of the best platforms for creative solutions of any scale. Depositphotos works well for individuals as well as companies and bigger businesses looking for visual solutions.\r\n\r\nFeel free to use banners, text links and promo codes in your promotional campaigns. \r\n\r\nYou will earn a 23% commission from every type of purchase made by a user you refer to Depositphotos.",
-    "status": "active",
+    "name": "Depositphotos [CPS] WW",
+    "img": "platform/17314.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/10/27/17314-c3f358b37b3c9295.svg",
     "categories": [
       {
@@ -105,12 +99,7 @@
         "parent": null
       }
     ],
-    "img": "platform/17314.svg",
-    "affiliate": {
-      "goto_link": "https://dhwnh.com/g/iadwayodtm5af0702a276f61936a04/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 17314,
     "category": {
       "name": "IT Services & Soft",
       "id": 122,
@@ -121,15 +110,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://dhwnh.com/g/iadwayodtm5af0702a276f61936a04/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 18867,
-    "name": "NordVPN WW",
-    "name_aliases": "nordvpn.com, nordvpncom, тщквмзтсщь, тщквмзтюсщь, vpn, internet, online, services, nordvpn",
     "site_url": "https://nordvpn.com/",
-    "description": "NordVPN is a trusted online security solution, used by over 1 million Internet users worldwide.\r\n\r\n\r\n\tMilitary-grade encryption - NordVPN protects your Internet traffic with cutting-edge security technologies, ensuring strong and reliable encryption between your device and a VPN server. By default, NordVPN apps use the OpenVPN and IKEv2/IPSec protocols to guarantee the ultimate protection of your sensitive data.\r\n\tCyberSec - The CyberSec feature automatically blocks suspicious websites so that no malware or other cyber threats can infect your device. It also secures your device from participating in DDoS attacks even if malware has already infected it. In addition, CyberSec prevents intrusive online ads from loading and slowing down your browser.\r\n\tSecure streaming - NordVPN offers more than 4863 ultra-fast servers in 62 countries so that you can enjoy your streaming experience on any device, at any place and any time. With NordVPN, you don’t have to choose between entertainment and online security – you can have both at the same time.\r\n\tStrict no-logs policy - NordVPN is based away from the EU and US jurisdictions and is not required to collect your personal data and information. That means nothing is recorded, monitored, stored, logged or passed to third parties. We cannot provide any details about your Internet activity even if you request it yourself. Why? Because we have nothing to provide.\r\n\r\n\r\nWhy join the NordVPN affiliate program?\r\n\r\n\r\n\tHigh conversion rate - Our trusted brand & effective promo material means the traffic you send to NordVPN will convert!\r\n\tWe convert all geos & types of traffic - We take it all and convert into revenue for you. We offer global campaigns, so the world is your customer base.\r\n\tGenerous commissions - One of the highest commissions in the VPN market. Lifetime revenue share!\r\n\r\n\r\nJoin the NordVPN affiliate program and earn more with us!",
-    "status": "active",
+    "name": "NordVPN WW",
+    "img": "platform/18867.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/9/18867-a419856a8d70eb0a.svg",
     "categories": [
       {
@@ -150,7 +141,18 @@
         "parent": null
       }
     ],
-    "img": "platform/18867.svg",
+    "id": 18867,
+    "category": {
+      "name": "IT Services & Soft",
+      "id": 122,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
     "affiliate": {
       "goto_link": "https://qwpeg.com/g/mai1uhgx165af0702a27004ed038cb/",
       "landings": [
@@ -171,26 +173,12 @@
         }
       ],
       "cashback_link_data": null
-    },
-    "category": {
-      "name": "IT Services & Soft",
-      "id": 122,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
     }
   },
   {
-    "id": 21749,
-    "name": "Adminvps",
-    "name_aliases": "adminvps, адимнвпс, flvbydgc, фвьштмзы",
     "site_url": "https://adminvps.ru/",
-    "description": "AdminVPS - первая российская хостинг-компания, которая стала предоставлять услуги по системе “Все включено”.\r\n\r\nКомпания работает на рынке с 2015 года, и за это время нам доверили свои сайты более 5000 клиентов. Из них 70% - это владельцы средних и крупных интернет-магазинов с миллионной посещаемостью, для которых особенно важна скорость и стабильная работа сайтов. И эти клиенты остаются с нами навсегда!\r\nОгромное количество клиентов приходит к нам по “сарафанному радио”, т.к. основный акцент мы делаем на качество услуг и повышение лояльности клиентов. На протяжении долгого времени мы занимаем топовые позиции во всех рейтингах о хостингах, а также среди блогеров и лидеров мнений.\r\n\r\nПортрет ЦА:\r\n\r\nПол:\r\n\r\n\r\n\tМужчины (90%) | Женщины (10%)\r\n\t70% - владельцы интернет-магазинов\r\n\r\n\r\nВозраст:\r\n\r\n\r\n\t25-34 года (50%)\r\n\t35-44 года (24%)\r\n\t45-54 года (12%)\r\n\t18-24 года (10%)\r\n\r\n\r\nПреимущества для клиентов:\r\n\r\n\r\n\tУникальная система ВСЕ ВКЛЮЧЕНО\r\n\tКвалифицированная техподдержка 24*7*365\r\n\tБесплатная панель управления ISPmanager\r\n\tБесплатные SSL сертификаты\r\n\tБесплатное администрирование для всех тарифов\r\n\tБесплатная защита от DDoS атак на уровне L3-L5\r\n\tМолниеносная техподдержка: среднее время ответа техподдержки 3-15 минут\r\n\tУ нас самый высокий % реальных положительных отзывов от клиентов!\r\n\r\n\r\nПреимущества для партнеров:\r\n\r\n\r\n\tВ оффере участвуют любые тарифы любой услуги виртуального хостинга и VPS серверов\r\n\tВам всегда доступна абсолютно прозрачная статистика начислений по каждому клиенту!\r\n\tВысокий процент выплат\r\n\tБольшой пакет готовых партнерских материалов\r\n\tМаксимально возможный LTV по услугам виртуального хостинга и VPS серверам!\r\n\tНизкие цены хостинга за высокое качество - лучшее преимущество для клиентов!\r\n\r\n\r\nОсновные услуги\r\n\r\n\r\n\tVPS/VDS серверы\r\n\tВиртуальный хостинг\r\n\tВыделенные серверы\r\n\tРегистрация доменов\r\n\tи многое другое!\r\n\r\n\r\nКак проходит сверка (периодичность, автоматическая или ручная)\r\nРаз в месяц с 1-14 число. Ручная.\r\n\r\nДанные об ОРД\r\nКод ККТУ 6.1.1\r\n\r\nВыдача промокодов (именные, смарт, одноразовые итп)\r\nрекламодатель предоставляет именные промокоды\r\n\r\nИнформация про модерацию\r\nНесколько раз в неделю.",
-    "status": "active",
+    "name": "Adminvps",
+    "img": "platform/21749.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/12/21749-2295977214968c64.svg",
     "categories": [
       {
@@ -211,12 +199,7 @@
         "parent": null
       }
     ],
-    "img": "platform/21749.svg",
-    "affiliate": {
-      "goto_link": "https://naiawork.com/g/3s9n4xo7za5af0702a27f771e68994/?erid=MvGzQC98w3Z1gMq1oRvTqi6B",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 21749,
     "category": {
       "name": "IT Services & Soft",
       "id": 122,
@@ -227,15 +210,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://naiawork.com/g/3s9n4xo7za5af0702a27f771e68994/?erid=MvGzQC98w3Z1gMq1oRvTqi6B",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 22143,
-    "name": "Norton [CPS] Many Geos",
-    "name_aliases": "Norton antivirus, antivirus, nortan, notran, notron, notron anti virus",
     "site_url": "https://www.norton.com/",
-    "description": "Company Description: NortonLifeLock Inc. is a global leader in consumer Cyber Safety, protecting and empowering people to live their digital lives safely. The ‘Norton’ brand is trusted by over 80 million users in more than 150 countries, and has an array of antivirus, online privacy (VPN), and identity theft protection products to keep your devices & digital lives cyber-safe.\r\n\r\nCampaign Objective: The objective of the campaign is to sell various Norton products & services (Antivirus, VPN, Mobile Security, etc).\r\n\r\nWhy Join?\r\n\r\n\r\n\t‘Norton’ has worldwide brand recognition\r\n\tGenerous payouts/commissions\r\n\tUnlimited referral fees – there is no cap on commissions as long as you keep converting sales\r\n\t60 day cookie window\r\n\tMultiple products with varied price points\r\n\tAccount management support\r\n\tIt’s FREE! No joining fees\r\n\r\n\r\nNote :- US and CA, IN, TR geos orders are not payble.\r\n\r\n ",
-    "status": "active",
+    "name": "Norton [CPS] Many Geos",
+    "img": "platform/22143.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/13/22143-49b05d631dd8a6ff.svg",
     "categories": [
       {
@@ -267,7 +252,18 @@
         }
       }
     ],
-    "img": "platform/22143.svg",
+    "id": 22143,
+    "category": {
+      "name": "IT Services & Soft",
+      "id": 122,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
     "affiliate": {
       "goto_link": "https://tjzuh.com/g/4nnqeux1te5af0702a2711184c9701/",
       "landings": [
@@ -343,26 +339,12 @@
         }
       ],
       "cashback_link_data": null
-    },
-    "category": {
-      "name": "IT Services & Soft",
-      "id": 122,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
     }
   },
   {
-    "id": 23427,
-    "name": "Cloudways WW",
-    "name_aliases": "Cloudways, cloudway, cloud ways, cloud way, сдщгвцфны",
     "site_url": "https://www.cloudways.com/",
-    "description": "Focus on building great websites, not on web hosting complexities. Our managed hosting platform gives digital agencies and ecommerce businesses flexibility and choice in how websites are hosted. Backed by 24/7/365 support, you’re guaranteed peace of mind.",
-    "status": "active",
+    "name": "Cloudways WW",
+    "img": "platform/23427.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/6/23427-be3b38fa08f3d4b2.svg",
     "categories": [
       {
@@ -389,7 +371,18 @@
         "parent": null
       }
     ],
-    "img": "platform/23427.svg",
+    "id": 23427,
+    "category": {
+      "name": "IT Services & Soft",
+      "id": 122,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
     "affiliate": {
       "goto_link": "https://bednari.com/g/veijema2me5af0702a27a1c426e0e9/",
       "landings": [
@@ -415,26 +408,12 @@
         }
       ],
       "cashback_link_data": null
-    },
-    "category": {
-      "name": "IT Services & Soft",
-      "id": 122,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
     }
   },
   {
-    "id": 24655,
-    "name": "Clevguard WW",
-    "name_aliases": "clevguard, clevgard, rktdufhl, клевгард, сдумпгфкв, клэвгард",
     "site_url": "https://www.clevguard.com/",
-    "description": "ClevGuard is a one-stop solution provider for parental control and cell phone/computer monitoring. Our products is compatible with Android, iOS and Windows PC.\r\n\r\nAdvantages for users:\r\n\r\nAt ClevGuard we’re dedicated to helping you protect your loved ones and secure your data. We focus a great deal on user trust and adopt every user’s ideas.\r\n\r\nAdvantages for publishers:\r\n\r\n\r\n\tHigh Quality Software\r\n\t​​​​Our products have been proven by many famous publications around the world, which makes the conversion rate higher than the industrial average.\r\n\tDedicated Support\r\n\tThe professional advice, support and help by a dedicated affiliate team. We will also provide banners/promotional materials to you.\r\n\r\n\r\nTarget audience:\r\n\r\nFamilies, parents, companies and people who needs monitoring solution. (FOR LEGAL USE ONLY)\r\n\r\n ",
-    "status": "active",
+    "name": "Clevguard WW",
+    "img": "platform/24655.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/3/15/24655-c92b7e8139a55e2b.png",
     "categories": [
       {
@@ -455,12 +434,7 @@
         "parent": null
       }
     ],
-    "img": "platform/24655.png",
-    "affiliate": {
-      "goto_link": "https://rzekl.com/g/ssrh4l6w8i5af0702a2776c0f0264c/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 24655,
     "category": {
       "name": "IT Services & Soft",
       "id": 122,
@@ -471,15 +445,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://rzekl.com/g/ssrh4l6w8i5af0702a2776c0f0264c/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 25249,
-    "name": "TurboVPN WW",
-    "name_aliases": "turbovpn, турбовпн, егкищмзт",
     "site_url": "https://turbovpn.com/",
-    "description": "Bonus will be applied during validation.\r\n\r\nTurbo VPN is a VPN that is known for its portability and speed. Turbo VPN is an extremely light application on devices. For instance, the free version Turbo VPN Lite on Android takes up less than 6MB of storage. Such handiness also makes our product to be a fast VPN proxy that will not slow down users' internet speed. What's more, we offer more than 21000 servers in over 45+ countries which allow users to circumvent nearly all geo-blocking restrictions and censorship. And our features including strict no-log policy, AES-256 encryption, ISP throttling detector, private DNS & leak protection, and more are all aimed to protect users' digital privacy and online traffic. Turbo VPN is available on Windows, macOS, Android, and iOS that can protect up to 5 devices simultaneously. We offer premium membership with a 30-day money-back guarantee.\r\n\r\nWe stand ready to serve you across the world:\r\n· Asia Pacific\r\n· North and South America\r\n· Europe\r\n· Middle East\r\n\r\nWhat does Turbo VPN do?\r\n\r\nTurbo VPN offers reliable, fast, and secure VPN services for paid or non-paid users. We also take full care of our customers by providing 24/7 live customer support and a 30-day money-back guarantee. Our mission goal is to provide affordable and reliable VPN proxy service for everyone anywhere. We advocate for total freedom of the internet and digital privacy that an equal internet environment should be accessible for everyone. \r\n\r\nWhat are the advantages for users?\r\n\r\n    For users, using Turbo VPN have huge advantages. Turbo VPN is an extremely fast and light VPN service that will not slow down users' internet speed and will not take up a lot of storage on users' devices. Therefore, it's a convenient and portable application for users. And our 21000+ servers in over 45 countries allow users to access nearly all content and websites without geo-blocking restrictions and censorship. Also, by using Turbo VPN, users' digital privacy, online traffic, browsing history, and IP address will be fully protected and encrypted. It's a reliable, fast, and portable VPN Proxy that has huge benefits on users' daily usage of media devices. \r\n\r\nWhat are the advantages for publishers?\r\n\r\nCompetitive commissions with fast payout\r\nGet the most rewarding commission in the VPN industry with fast payouts by promoting Turbo VPN.\r\n\r\nMarketing tips and support\r\nWe offer marketing tips and support. Provide easy-to-use tracking and reporting tools to help you better understand and reach an audience.\r\n\r\nHigh conversion rate\r\nThe most devoted team for helping you to generate a high conversion rate.\r\n\r\nDedicated affiliate account managers\r\nWork with the best practitioners in the VPN industry as your working partner. Get customized and dedicated support from our affiliate managers for driving your success.\r\n\r\nTarget audience\r\nOur target audience is people who consume media heavily. People who want to bypass geo-blocking restriction or censorship to access content and websites including watch live sports, stream blocked videos or websites, or play games are our target audience. Also, people who want to encrypt or protect their browsing history, online traffic, or IP address are our target audience as well. Besides, our users are composed of 75% male and 25% female, which means that the marketing strategies should be largely focused on males than females. Most of the users are comparatively young that 46% of Turbo VPN users are around 18-24 and 25% of Turbo VPN users are around 25-34. Therefore, our marketing strategies should take this fact into concern. \r\n\r\nOur Target Demographic regions are United States, United Kingdom, Australia, Canada, Indonesia, India, Singapore, Malaysia, Italy, Russia, UAE, Saudi Arabia, South Korea, and more. ",
-    "status": "active",
+    "name": "TurboVPN WW",
+    "img": "platform/25249.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/9/24/25249-37aa6fea5015e46e.png",
     "categories": [
       {
@@ -506,18 +482,7 @@
         "parent": null
       }
     ],
-    "img": "platform/25249.png",
-    "affiliate": {
-      "goto_link": "https://grfpr.com/g/exe221unkp5af0702a27ddf84d4c0b/",
-      "landings": [
-        {
-          "id": 30329,
-          "name": "TurboVPN",
-          "code": "7c0f3e5fcc"
-        }
-      ],
-      "cashback_link_data": null
-    },
+    "id": 25249,
     "category": {
       "name": "IT Services & Soft",
       "id": 122,
@@ -528,15 +493,23 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://grfpr.com/g/exe221unkp5af0702a27ddf84d4c0b/",
+      "landings": [
+        {
+          "id": 30329,
+          "name": "TurboVPN",
+          "code": "7c0f3e5fcc"
+        }
+      ],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 27304,
-    "name": "Adheart",
-    "name_aliases": "adheart, ad heart, adhert, adhart, адхерт, ад херт, ад харт, фвруфке, дополню",
     "site_url": "https://adheart.me/",
-    "description": "Adheart — це підписний сервіс для аналітики реклами у Meta Ads (Facebook та Instagram). Він дає можливість у кілька кліків знаходити, аналізувати та завантажувати рекламні креативи з усього світу. Інструмент незамінний для арбітражників, маркетологів та власників бізнесу, які працюють з платним трафіком.\r\n\r\nПродукт працює за моделлю передплати. Користувач купує доступ до функцій сервісу та отримує щоденну квоту на пошук і аналітику реклами.\r\n\r\nВаріанти підписки:\r\n\r\n\r\n\tStart — $70/місяць, дає по 100 пошуків на день\r\n\tPro — $90/місяць, дає по 300 пошуків на день\r\n\r\n\r\nСервіс Adheart дозволяє:\r\n\r\n\r\n\tШукати рекламу конкурентів за ключовими словами, тематиками, країнами, мовами та іншими фільтрами\r\n\tЗнаходити зв'язки типу «оффер + креатив» і швидко запускати власні кампанії\r\n\tАналізувати fanpage, домени, мобільні застосунки лідерів ринку\r\n\tСтежити за рекламними трендами у різних нішах, вертикалях і країнах\r\n\tЗавантажувати будь-які креативи одним кліком\r\n\tСтворювати власні добірки креативів\r\n\r\n\r\nЦільова аудиторія:\r\n\r\n\r\n\tТаргетологи та маркетологи — аналізують рекламу конкурентів, знаходять ідеї для кампаній, економлять час на створенні креативів\r\n\tАрбітражники та медійбайєри — знаходять робочі зв’язки, економлять гроші на тестах\r\n\tВласники магазинів та дропшиппери — шукають трендові товари і ідеї рекламних креативів, які працюють у конкурентів\r\n\r\n\r\nЧому користувачі обирають Adheart:\r\n\r\n\r\n\tУкраїнський сервіс\r\n\tНайбільша база рекламних оголошень Meta серед інших спаїв\r\n\tЗібрана реклама з усього світу — 239 гео, включаючи екзотичні\r\n\tНові рекламні оголошення додаються декілька разів на день\r\n\tГнучка система фільтрів — можна знайти буквально будь-яку рекламу\r\n\tМожна завантажити будь-який креатив у гарній якості без водяних знаків\r\n\r\n\r\nПереваги для партнерів:\r\n\r\n\r\n\tКонкурентна ставка\r\n\tВисокий відсоток схвалень та швидке опрацювання\r\n\t90 днів дії кукіс\r\n\tДодаткові бонуси для топових вебів\r\n\tМаркетингові матеріали на будь-які інфоприводи\r\n\tВідкриті до проведення спільних промокампаній\r\n\r\n\r\nОбмеження:\r\n\r\n\r\n\tЗаборонено запуск контекстної реклами на бренд Adheart (перелік мінус-слів — за посиланням)\r\n\tПодвійна монетизація заборонена: не можна поєднувати CPA-винагороду через Admitad і одночасно отримувати RevShare з внутрішньої реферальної програми Adheart від тих самих користувачі\r\n\r\n\r\n ",
-    "status": "active",
+    "name": "Adheart",
+    "img": "platform/27304.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/11/13/27304-3352b694253c3d58.svg",
     "categories": [
       {
@@ -569,7 +542,18 @@
         "parent": null
       }
     ],
-    "img": "platform/27304.svg",
+    "id": 27304,
+    "category": {
+      "name": "IT Services & Soft",
+      "id": 122,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
     "affiliate": {
       "goto_link": "https://gndrz.com/g/abtozfz0rw5af0702a27af5f4d982e/",
       "landings": [
@@ -590,26 +574,12 @@
         }
       ],
       "cashback_link_data": null
-    },
-    "category": {
-      "name": "IT Services & Soft",
-      "id": 122,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
     }
   },
   {
-    "id": 27641,
-    "name": "Яндекс Бизнес [CPS] RU",
-    "name_aliases": "Яндекс.Бизнес, яндекс бизнес, я.бизнес, я бизнес, яндекс подписка, Рекламная подписка, Рекламная подписка от Яндекс Бизнеса, Яндекс Бизнес, нфтвуч, zyltrc, zyltrc ,bpytc",
     "site_url": "https://business.yandex.ru/",
-    "description": " \r\n\r\nЯндекс.Бизнес — это сервис для автоматического запуска интернет-рекламы для малого бизнеса\r\n \r\n\r\nЦелевая аудитория:\r\n\r\n\r\n\tМужчины/женщины – 24/50\r\n\tКлючевой сегмент – владельцы малого и среднего бизнеса\r\n\r\n\r\nГеография – Россия (города с населением > 350 000)\r\n\r\n \r\n\r\nПреимущества для партнеров:\r\nПочему стоит сотрудничать с Яндекс Бизнесом?\r\n\r\n\r\n\tфиксированная комиссия за покупку;\r\n\tподтверждение заказа 90-100%;\r\n\tpost-сlick сookie - 52 дня;\r\n\r\n\r\nПреимущества для клиентов:\r\n\r\n\r\n\tЯндекс Бизнес сам создаст и настроит рекламные объявления;\r\n\tПокажет объявления сразу на нескольких площадках в интернете;\r\n\tПроследит за бюджетом (Перенаправит деньги на объявления, которые приводят больше всего клиентов, а неэффективные донастроит или остановит).\r\n\t \r\n\r\n\r\nКак проходит сверка (периодичность, автоматическая или ручная)\r\nРаз в месяц с 1-14 число. Ручная.\r\n\r\n \r\n\r\nДанные об ОРД\r\nКод ККТУ 30.10.3\r\n\r\n \r\n\r\nВыдача промокодов (именные, смарт, одноразовые итп)\r\nнет\r\n\r\n \r\n\r\nИнформация про модерацию\r\nНесколько раз в неделю.\r\n\r\nСколько стоит рекламная подписка Яндекс Бизнеса:\r\n\r\n\r\nСтоимость начинается от 3 000 ₽ и рассчитывается индивидуально для каждого бизнеса. Цена зависит от того, чем вы занимается предприниматель, где находится, много ли у него конкурентов и потенциальных клиентов и на какой срок планирует подключить рекламу.\r\n\r\nДополнительные рекламные материалы\r\n\r\n",
-    "status": "active",
+    "name": "Яндекс Бизнес [CPS] RU",
+    "img": "platform/27641.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/5/31/27641-00705ef8d8a6b438.svg",
     "categories": [
       {
@@ -641,12 +611,7 @@
         }
       }
     ],
-    "img": "platform/27641.svg",
-    "affiliate": {
-      "goto_link": "https://bednari.com/g/tsur35yw0t5af0702a27ff277dce71/?erid=5jtCeReNwxHpfQTEuVz11H1",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 27641,
     "category": {
       "name": "IT Services & Soft",
       "id": 122,
@@ -657,15 +622,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://bednari.com/g/tsur35yw0t5af0702a27ff277dce71/?erid=5jtCeReNwxHpfQTEuVz11H1",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 28476,
-    "name": "iolo WW",
-    "name_aliases": "iolo, иоло, шщдщ",
     "site_url": "https://www.iolo.com/",
-    "description": "Affiliate Program Welcome Video \r\n \r\n\r\niolo develops patented technology and award-winning software that repairs, optimizes, and protects computers, to maximize system speed and performance while keeping them safe. With a global presence in 33 countries and products in 11 languages, tens of millions of people have used iolo’s products for their PC optimization, security, and data recovery needs for over two decades.\r\n\r\nThe company’s product line, distinguished by its flagship performance optimization suite System Mechanic®, is sold throughout the world at over 20,000 retail storefronts including Best Buy and Office Depot, and can be purchased from leading major e-tailers such as Amazon. The products are also sold at a multitude of domestic and international distributors and resellers.\r\n\r\nHeadquartered in Pasadena, California, and a part of RealDefense LLC, iolo is widely recognized by both consumers and industry experts as a worldwide leader in the system utility software market.\r\n\r\nBenefits of Joining the iolo WW Affiliate Program: \r\n\r\n\r\n\t30-day cookie period \r\n\tFull range of promotional materials\r\n\tiolo has received lots of press on our products. Check out a selection of recent reviews here.\r\n\r\n\r\n\r\n\t\r\n\t\t\r\n\t\t\t\r\n\t\t\tiolo Promotional Videos\r\n\r\n\t\t\tAdd Promotional Videos To Your Website: Would you like to add high-quality videos that promote iolo's products to your website (in less than 2 minutes)? Now you can! Check out the links below:\r\n\r\n\t\t\t\r\n\t\t\t\tInstall On Additional PCs\r\n\t\t\t\tCheck for Leaked Passwords\r\n\t\t\t\tStop Bloatware with Startup Optimizer\r\n\t\t\t\tOptimize Your Internet\r\n\t\t\t\tHow to Check for iolo Product Updates\r\n\t\t\t\tProtect Your Online Privacy with Privacy Guardian\r\n\t\t\t\tMultitasking Made Easy NL version\r\n\t\t\t\r\n\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t \r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\r\n\t\t\t\r\n\t\t\r\n\t\t\r\n\t\t\t \r\n\t\t\r\n\t\r\n",
-    "status": "active",
+    "name": "iolo WW",
+    "img": "platform/28476.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/4/15/28476-77ae0f6d78db9243.svg",
     "categories": [
       {
@@ -686,7 +653,18 @@
         }
       }
     ],
-    "img": "platform/28476.svg",
+    "id": 28476,
+    "category": {
+      "name": "IT Services & Soft",
+      "id": 122,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
     "affiliate": {
       "goto_link": "https://codeaven.com/g/elxyi4js1i5af0702a274c82334b24/",
       "landings": [
@@ -722,26 +700,12 @@
         }
       ],
       "cashback_link_data": null
-    },
-    "category": {
-      "name": "IT Services & Soft",
-      "id": 122,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
     }
   },
   {
-    "id": 28586,
-    "name": "МТС Интернет + ТВ",
-    "name_aliases": "МТС Интернет + ТВ, vnc, vnc bynthytn, vnc bynthytn+nd, bynthytn, ьеы, мтс, мтс интернет, интернет, тв+интернет, ьеы интернет, ьеы интернет+тв,moskva.mts.ru, mts.ru,  mts/ru",
     "site_url": "https://moskva.mts.ru/personal/dlya-doma/checkconnect/moskva/all-mts",
-    "description": "МТС Интернет + ТВ — комплексное предложение от одного из крупнейших операторов России, включающее подключение домашнего интернета и телевидения.\r\n\r\nПортрет ЦА:\r\n\r\nМужчины и женщины 25–55 лет, семьи, пользователи, желающие объединить интернет и ТВ в одном пакете, клиенты, ценящие удобство и экономию.\r\n\r\nГеография: Россия. \r\n\r\nПреимущества для партнёров:\r\n\r\n\r\n\tШирокая аудитория благодаря федеральному охвату.\r\n\tПопулярный бренд с высоким доверием пользователей.\r\n\r\n\r\nПреимущества для клиентов:\r\n\r\n\r\n\tУдобство выбора и смены пакета услуг в любое время (через ЛК или салоны МТС).\r\n\tОплата одного счёта за все подключённые услуги.\r\n\tВозможность подключить сразу несколько сервисов по единому пакету.\r\n\tЭкономия времени и денег при комплексном подключении.\r\n\tВыгодные тарифы: оптом всегда дешевле.\r\n\r\n\r\nУсловия доставки:\r\n\r\nДоставка и подключение зависят от конкретного региона.\r\nДля подключения GPON-интернета и IPTV необходимы роутер и ТВ-приставка от МТС (аренда, рассрочка или покупка).\r\nВозможные варианты оборудования:\r\nWi-Fi роутер: покупка — 6300 ₽, рассрочка — 600 ₽/мес, аренда — от 149 ₽/мес.\r\nТВ-приставка: покупка — 5300 ₽, рассрочка — 500 ₽/мес.\r\nДоп. оборудование: Wi-Fi репитер — 350 ₽/мес (рассрочка), PLC-адаптер — 150 ₽/мес (рассрочка).\r\n\r\nКак проходит сверка:\r\nРаз в месяц с 1-14 число, ручная.\r\n\r\nДанные об ОРД (ККТУ):\r\n25.1.2 ИНТЕРНЕТ-ПРОВАЙДЕР\r\n\r\nВыдача промокодов:\r\nНет возможности выдачи именных промокодов по запросу.\r\n\r\nИнформация про модерацию:\r\nМодерация проводится 3 раза в неделю.",
-    "status": "active",
+    "name": "МТС Интернет + ТВ",
+    "img": "platform/28586.jpg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/9/30/28586-a7135032fe8767f7.jpg",
     "categories": [
       {
@@ -784,7 +748,18 @@
         }
       }
     ],
-    "img": "platform/28586.jpg",
+    "id": 28586,
+    "category": {
+      "name": "IT Services & Soft",
+      "id": 122,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
     "affiliate": {
       "goto_link": "https://axavl.com/g/l4zfvbwu245af0702a27bda050f982/?erid=5jtCeReNwxHpfQTEuxJzuEV",
       "landings": [
@@ -810,26 +785,12 @@
         }
       ],
       "cashback_link_data": null
-    },
-    "category": {
-      "name": "IT Services & Soft",
-      "id": 122,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
     }
   },
   {
-    "id": 29036,
-    "name": "F-secure WW",
-    "name_aliases": "Fsecure, f secure, secure, а-ыусгку, аыусгк",
     "site_url": "https://www.f-secure.com/",
-    "description": "F-Secure offers award-winning internet security and privacy products. We keep tens of millions of customers safe online with over 30 years’ experience.\r\nWe recruit the best minds in the industry while keeping a relentless focus on growing the next generation of cyber security pros.\r\nOur experts continually disrupt the industry. Their research-led approach, victories at hacking contests, and talks at conferences win respect around the globe.\r\n\r\n\r\n\tFounded in 1988\r\n\tOver 1700 employees\r\n\tListed on NASDAQ OMX, Helsinki\r\n\tOffices in Europe, North America and Asia Pacific\r\n\tRevenue of €236 million and adjusted EBITDA of €36.5 million (15.4%) for 2021\r\n\tCorporate security revenue has increased year-on-year since 2015\r\n\tOver 100,000 corporate customers in corporate product business, more than 300 enterprises served through consulting and tens of millions of consumer customers protected through consumer security products\r\n",
-    "status": "active",
+    "name": "F-secure WW",
+    "img": "platform/29036.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/7/6/29036-93bcac73b1594949.png",
     "categories": [
       {
@@ -850,12 +811,7 @@
         "parent": null
       }
     ],
-    "img": "platform/29036.png",
-    "affiliate": {
-      "goto_link": "https://thevospad.com/g/kzooqy4r6i5af0702a2761840cf25b/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 29036,
     "category": {
       "name": "IT Services & Soft",
       "id": 122,
@@ -866,15 +822,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://thevospad.com/g/kzooqy4r6i5af0702a2761840cf25b/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 34688,
-    "name": "PureVPN Many Geos",
-    "name_aliases": "purevpn, PureVPN, vpn pure, згкумзт, pure vpn, PURE vpn",
     "site_url": "https://www.purevpn.com/",
-    "description": "PureVPN provides an unrestricted browsing experience with protection against all online threats with a  self-managed VPN constellation of 6500+ servers in 78+ countries. PureVPN empowers you to access everything on the internet while remaining protected.\r\nPureVPN offers some of the highest commissions in the VPN industry. Here are some of the reasons why PureVPN affiliate program is the best:\r\nBenefits of PureVPN Affiliate Program:\r\nBest payouts in the industry – up to 100% commissions.\r\nSpecial commission and bonuses for high achievers.\r\nA 90-day cookie period means more opportunities for conversion.\r\nReal-time tracking with a last-click contribution.\r\nDedicated Account Managers for optimization.\r\n24/7 live chat support!",
-    "status": "active",
+    "name": "PureVPN Many Geos",
+    "img": "platform/34688.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/30/34688-0dcd013a50a53b6e.svg",
     "categories": [
       {
@@ -906,12 +864,7 @@
         }
       }
     ],
-    "img": "platform/34688.svg",
-    "affiliate": {
-      "goto_link": "https://plrvq.com/g/ayvzzawv405af0702a27dd63dd688c/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 34688,
     "category": {
       "name": "IT Services & Soft",
       "id": 122,
@@ -922,15 +875,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://plrvq.com/g/ayvzzawv405af0702a27dd63dd688c/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 38329,
-    "name": "Pro32.com",
-    "name_aliases": "Про32, про, ghj32, ghj",
     "site_url": "https://pro32.com",
-    "description": "Добро пожаловать! \r\nПрисоединяйтесь к партнёрской программе «PRO32». \r\n\r\nО компании: \r\n\r\nPRO32 — поставщик эффективных ИТ‑решений для бизнеса, государственных структур и домашних пользователей. \r\n\r\n Мы — российская IT‑компания с 19‑летним опытом работы в международном бизнесе и обширной экспертизой в разработке и продаже программного обеспечения.  \r\n\r\nПодробнее на www.pro32.com \r\n\r\nПреимущества для партнёров: \r\n\r\n\r\n\tВознаграждение выплачивается за все продукты \"PRO32\" вне зависимости от их категории и стоимости. \r\n\tСоздайте новый источник доходов для вашего бизнеса. \r\n\tВыпускайте рекламные акции и конкурсы, которые доступны только через наш партнёрский канал. \r\n\tМы ценим каждого партнёра, мы всегда готовы помочь в поддержке их продаж. \r\n\tВсе продажи отслеживаются в течение 30 дней с момента перехода по ссылке, поэтому, даже, если пользователю необходимо некоторое время, чтобы решиться на покупку, вы всё равно сможете получить комиссию. \r\n\tПовышайте трафик своего сайта с помощью продвижения мирового лидера в области решений IT-безопасности. \r\n\r\n\r\n  \r\n\r\nРешения, за которые предусмотрено вознаграждение: \r\n\r\nPRO32 Total Security \r\nБазовая интернет-защита компьютеров и ноутбуков на базе операционной системы Windows с минимальным потреблением системных ресурсов устройства. \r\n\r\nPRO32 Ultimate Security \r\nКомплексная антивирусная защита для устройств на базе операционных систем Windows и Android с функциями защиты онлайн-платежей, с функциями резервного копирования данных. \r\n\r\nPRO32 Mobile Security \r\nЗащита мобильных устройств на базе операционной системы Android от киберугроз, вредоносных приложений и физической кражи. \r\n\r\nPRO32 Office Security Base \r\nБазовый антивирус для защиты малого бизнеса в комплектах для 5, 10, 15 и 20 устройств. Подходит компаниям, которым не требуется консоль управления администратора. \r\n\r\n  \r\n\r\nТакже оплачиваются покупки решений:   \r\n\r\nPRO32 Connect удаленный доступ \r\nItHelper безопасная сеть (VPN) \r\nOfficeSuite офисный приложение (аналог MS Office) \r\n\r\n \r\n\r\nМинус-слова: ESET, продлить ESET, PRO32 это ESET \r\n\r\nПортрет целевой аудитории: \r\n\r\n\r\n\tЯдро аудитории: мужчины и женщины 25-55 лет \r\n\tЖенат/замужем, есть дети, есть домашние животные \r\n\tНе женат/ не замужем, детей нет, домашних животных нет \r\n\tЗанятость: офисный работник/IT специалист \r\n\tОбразование: высшее образование \r\n\r\n\r\nИнтересы:  \r\n\r\n\r\n\tбухгалтерские, финансовые услуги, инвестиции \r\n\tпокупки онлайн \r\n\tактивные пользователи десктопных и мобильных устройств \r\n\tпутешествия и активный отдых \r\n\tесть автомобиль \r\n\r\n\r\n \r\n\r\nГеография: крупные города \r\n\r\n \r\n\r\nПреимущества для клиентов: \r\n\r\n\r\n\tСамый быстрый и легкий антивирус по международной оценке AV comparatives \r\n\tВыгодная стоимость решений \r\n\tМноголетние лицензии \r\n\tРоссийская разработка  \r\n\tБыстрая доставка купленных решений на электронную почту \r\n\tКачественная и доступная техническая поддержка \r\n\r\n\r\nПопулярные решения: \r\n\r\n\r\n\tАнтивирус PRO32 Total Security \r\n\tАнтивирус PRO32 Ultimate Security \r\n\tУдаленный доступ PRO32 Connect \r\n\r\n\r\n Рекомендации по позиционированию бренда: \r\n\r\n\r\n\tНовый антивирус PRO32 на российском рынке \r\n\tБыстрый антивирус PRO32 \r\n\tЛегкий антивирус PRO32 \r\n\r\n\r\nДля вебмастеров:\r\n\r\n\r\n\tРучная сверка раз в месяц.\r\n\tМодерация вебмастеров 2 раза в неделю.\r\n\tВыдача именных промокодов\r\n\r\n\r\nДанные об ОРД. Код ККТУ: 9.2.1\r\n\r\nС уважением,  \r\n\r\nПартнерская программа «PRO32». \r\n\r\n \r\n\r\n ",
-    "status": "active",
+    "name": "Pro32.com",
+    "img": "platform/38329.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/2/38329-adb321875bef3220.svg",
     "categories": [
       {
@@ -963,7 +918,18 @@
         "parent": null
       }
     ],
-    "img": "platform/38329.svg",
+    "id": 38329,
+    "category": {
+      "name": "IT Services & Soft",
+      "id": 122,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
     "affiliate": {
       "goto_link": "https://dhwnh.com/g/ifnfdpbjf35af0702a27218237fc8f/?erid=2bL9aMPo2e49hMef4pfzYr9Mwx",
       "landings": [
@@ -984,26 +950,12 @@
         }
       ],
       "cashback_link_data": null
-    },
-    "category": {
-      "name": "IT Services & Soft",
-      "id": 122,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
     }
   },
   {
-    "id": 40315,
-    "name": "hidemyname vpn",
-    "name_aliases": "hidemy.name, hmn, HideMy name, HideMy.Name, hidemy, vpn hmn, vpn, vpn service, hmn service, hidemyname, ршву, ршвуьнтфьу, хайдмайнэйм, хайд, hide, hidemyna.me, hidemyna, hidemyname",
     "site_url": "https://hide.mn/",
-    "description": "Join the affiliate program VPN hidemyname\r\n\r\nThe company hidemyname was founded in 2006 and is a leading service provider, offering users the most convenient and comfortable access to VPN services. Our network adheres to principles of anonymity, security, and internet freedom. Thanks to easy installation, user-friendly interface, and competitive pricing, millions of users choose VPN services from hidemyname.\r\n\r\n\r\n\r\nThe list of videos that webmasters can use in their campaigns can be found here.\r\n\r\nAdvantages for customers:\r\n\r\n\r\n\tSecure file and message exchange of any level of confidentiality (without the ability to trace the connection).\r\n\tUnblock all possible protocols and websites.\r\n\tTransparent operation for any application (once the VPN is activated, all applications automatically gain secure network access).\r\n\t2048-bit encryption of all traffic (maximum protection against traffic interception and personal data).\r\n\tChoose from 94 servers located in 68 cities across 43 countries worldwide (server channels up to 10 Gbps).\r\n\tFull support for all desktop operating systems, mobile devices (iOS & Android), and routers.\r\n\tOne subscription for all devices. You can use our service on five devices simultaneously.\r\n\tSecure connection to public Wi-Fi.\r\n\t24/7 technical support.\r\n\r\n\r\nPersonal Security:\r\n\r\n\r\n\tAt home / At work / In public places (cafes, metros)\r\n\tOnline payments\r\n\tEmail correspondence\r\n\tMessaging apps\r\n\tNetwork activity logs, tracking which websites you visit\r\n\tInformation about the files you exchange\r\n\tProtection on public networks\r\n\r\n\r\nFinancial Benefits for Users:\r\n\r\n\r\n\tOnline purchases (airline tickets, games)\r\n\tCurrency exchange\r\n\tStock market transactions\r\n\tRentals (hotels, cars)\r\n\r\n\r\nAccess (at home, at work, in public places):\r\n\r\n\r\n\tFree 1-day trial\r\n\tAffordable pricing (like a burger or a movie ticket)\r\n\tEasy setup\r\n\tAccess to websites restricted by the country or for certain countries (FB, last.fm, Ya.Music, Ivi.ru)\r\n\tAccess to adult content and similar themes (PornHub, etc.)\r\n\tAccess to programs (Skype, Telegram, Torrent)\r\n\tBlock access to undesired websites and protocols (last.fm, Ya.Music, Spotify)\r\n\tCompatible with all devices (desktop applications for Win-Linux, mobile applications for Android-iOS, SmartTV, router firmware)\r\n\tUse on up to 5 devices simultaneously\r\n\r\n\r\nProtection against Cybercriminals who may:\r\n\r\n\r\n\tSteal personal data\r\n\tSteal passwords\r\n\tSteal financial data\r\n\tSteal money/cryptocurrency\r\n\tCommit illegal activities on your behalf\r\n\r\n\r\nKey advantages of HMN:\r\n\r\n\r\n\tOperating for 15 years since 2006\r\n\tBased in Belize jurisdiction (Central America, borders Guatemala and Mexico)\r\n\tVarious price plans (day, 1 month, 6 months, 1 year, 2 years, 5 years)\r\n\tOver 121 servers, 64 cities, 45 countries\r\n\tConstantly increasing the number of servers distributed across countries\r\n\t30-day money-back guarantee if you are unsatisfied with the service\r\n\r\n\r\nBenefits for partners:\r\n\r\n\r\n\tHigh commission for purchases\r\n\thidemyname has a good reputation with many positive reviews online\r\n\tEasy monetization of traffic with the best conversion rates in the segment\r\n\t90-day Cookie lifespan\r\n\tA wide range of traffic types and tools for webmasters.\r\n\r\n\r\n \r\n\r\n\r\n\t\r\n\t\t\r\n\t\t\t\r\n\t\t\tJoin the hidemyname VPN affiliate program and earn more with us!\r\n\t\t\r\n\t\r\n\r\n\r\n ",
-    "status": "active",
+    "name": "hidemyname vpn",
+    "img": "platform/40315.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/9/30/40315-e2a9d12c9b7cab20.svg",
     "categories": [
       {
@@ -1030,18 +982,7 @@
         "parent": null
       }
     ],
-    "img": "platform/40315.svg",
-    "affiliate": {
-      "goto_link": "https://codeaven.com/g/d6ig17yj385af0702a27cfba9fca8a/",
-      "landings": [
-        {
-          "id": 28661,
-          "name": "Domain RU 2",
-          "code": "7649acc696"
-        }
-      ],
-      "cashback_link_data": null
-    },
+    "id": 40315,
     "category": {
       "name": "IT Services & Soft",
       "id": 122,
@@ -1052,15 +993,23 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://codeaven.com/g/d6ig17yj385af0702a27cfba9fca8a/",
+      "landings": [
+        {
+          "id": 28661,
+          "name": "Domain RU 2",
+          "code": "7649acc696"
+        }
+      ],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 44880,
-    "name": "",
-    "name_aliases": "Chad, ChatGPT, chadgpt.ru, GPT, чад пзе, чадджепети, чат пзе, пзе, chad gpt, xflgpt, срфв, срфе, срфепзе, срфе пзе, Нейросеть, VPN, Chad AI",
     "site_url": "https://chadgpt.ru",
-    "description": "Rules for assigning an identifier (token) and applying the \"Advertisement\" marking on ad creatives\r\nIn fulfillment of the requirements of Federal Law No. 38-FZ \"On advertising\" dated March 13, 2006, the parties have agreed on the following:\r\n1. The publisher undertakes to use ad creatives in the form they were provided to them or were hosted in the Admitad system.\r\n2. If the publisher designs ad creatives on their own, based on the source materials provided to them or hosted in the Admitad system, for further placement, the publisher undertakes to assign an identifier (token) and apply the \"Advertisement\" marking on such ad creatives, ensuring full compliance with Federal Law No. 38-FZ \"On advertising\" dated March 13, 2006, and other regulations, by concluding the relevant agreement with the advertising data operator.\r\n3. The publisher is responsible for assigning an identifier (token) and applying the \"Advertising\" marking, and is responsible, as an advertiser, for the content and credibility of ad creatives they designed. The publisher also guarantees that the content of such ad creatives does not violate the current legislation of the Russian Federation, including the exclusive intellectual property rights and rights to the equivalent means of individualization.\r\n4. If the publisher violates the requirements regarding placement of ad creatives, including the requirements stipulated in the affiliate program, the publisher shall pay the fine that equals to the total of all rewards accrued or paid for the period of placement of such ad creatives made with violation of the requirements of the affiliate program and Federal Law No. 38-FZ \"On advertising\" dated March 13, 2006. The publisher shall also compensate Admitad for losses including, but not limited to, the requirements of the Advertisers/Clients, administrative fines imposed by Russian authorities.",
-    "status": "active",
+    "name": "",
+    "img": "platform/44880.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/11/28/44880-59f8aef44d7aa960.svg",
     "categories": [
       {
@@ -1081,12 +1030,7 @@
         }
       }
     ],
-    "img": "platform/44880.svg",
-    "affiliate": {
-      "goto_link": "https://grfpr.com/g/34g1j74pfv5af0702a27aa3255da32/?erid=2bL9aMPo2e49hMef4pgVRsMGnf",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 44880,
     "category": {
       "name": "IT Services & Soft",
       "id": 122,
@@ -1097,15 +1041,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://grfpr.com/g/34g1j74pfv5af0702a27aa3255da32/?erid=2bL9aMPo2e49hMef4pgVRsMGnf",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 45959,
-    "name": "1-ofd.ru",
-    "name_aliases": "первый офд, gthdsq jal, 1щав",
     "site_url": "https://www.1-ofd.ru/",
-    "description": "Первый ОФД - инновационная компания, специализирующаяся на IT-сервисах для ритейла, рынка e-commerce и производственных компаний сегмента FMCG по всей России. В линейку сервисов «Первого ОФД» входит: услуга передачи фискальных данных (ОФД), сервис аренды облачных касс «под ключ», электронный документооборот (ЭДО), онлайн-аналитика на основе данных о продажах из чеков, а также комплексное кассовое решение «Росритейл».\r\n\r\nПортрет целевой аудитории:\r\n\r\nПредприниматели (онлайн- и офлайн- ритейлеры), которые только запустили свой бизнес.\r\n\r\nПреимущества для клиентов :\r\n\r\n\r\n\tУправление всеми сервисами через единый Личный Кабинет\r\n\tПолное сопровождение клиента от регистрации в ФНС до настройки кассы\r\n\tПоддержка дальнейшей работы 24/7\r\n\r\n\r\nРекомендации по позиционированию бренда:\r\n\r\nРосритейл – это комплексное кассовое решение, которое позволит предпринимателям сэкономить время на подключении и управлении всеми необходимыми сервисами и сконцентрироваться на развитии бизнеса. Росритейл поможет закрыть сразу несколько важных потребностей в одном окне: приобрести и зарегистрировать в ФНС кассу с настроенным эквайрингом, подключенными ОФД и товароучетной системой. Это позволит новым предпринимателям соблюдать требования 54-ФЗ и сэкономить время на оформление электронных чеков для ФНС.\r\n\r\n \r\n\r\nОблачная касса https://www.1-ofd.ru/rent-cloud-box/\r\n\r\nПервый ОФД - инновационная компания, специализирующаяся на IT-сервисах для ритейла, рынка e-commerce и производственных компаний сегмента FMCG по всей России. В линейку сервисов «Первого ОФД» входит: услуга передачи фискальных данных (ОФД), сервис аренды облачных касс «под ключ», электронный документооборот (ЭДО), онлайн-аналитика на основе данных о продажах из чеков, а также комплексное кассовое решение «Росритейл».\r\n\r\nИнформацию брать отсюда: https://okassa.1-ofd.ru/\r\n\r\n \r\n\r\nС Уважением, Партнерская программа Первый ОФД!",
-    "status": "active",
+    "name": "1-ofd.ru",
+    "img": "platform/45959.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/12/26/45959-fa18f3a98b6ed577.svg",
     "categories": [
       {
@@ -1154,12 +1100,7 @@
         }
       }
     ],
-    "img": "platform/45959.svg",
-    "affiliate": {
-      "goto_link": "https://zallj.com/g/yo25e1w1tz5af0702a27b17e829c53/?erid=2bL9aMPo2e49hMef4pgVYbFgeg",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 45959,
     "category": {
       "name": "IT Services & Soft",
       "id": 122,
@@ -1170,15 +1111,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://zallj.com/g/yo25e1w1tz5af0702a27b17e829c53/?erid=2bL9aMPo2e49hMef4pgVYbFgeg",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 90777,
-    "name": "Placeit Many Geos",
-    "name_aliases": "placeit, PlaceIt, здфсуше, place it",
     "site_url": "https://placeit.net",
-    "description": "Placeit is a powerful DIY design tool - allowing anyone to effortlessly create designs, mockups, logos & more in just seconds. All within Placeit’s powerful and intuitive web application.",
-    "status": "active",
+    "name": "Placeit Many Geos",
+    "img": "platform/90777.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/11/24/90777-b7c3d62dc9e59f2c.svg",
     "categories": [
       {
@@ -1199,12 +1142,7 @@
         "parent": null
       }
     ],
-    "img": "platform/90777.svg",
-    "affiliate": {
-      "goto_link": "https://ogsib.com/g/5lgod8xrl55af0702a27edcd6b5910/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 90777,
     "category": {
       "name": "IT Services & Soft",
       "id": 122,
@@ -1215,15 +1153,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://ogsib.com/g/5lgod8xrl55af0702a27edcd6b5910/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 93854,
-    "name": "Lunaproxy WW",
-    "name_aliases": "lunaproxy, proxy, lunaproxy.com, residential proxy, proxy server, rotating proxy, http proxy, static proxy",
     "site_url": "https://www.lunaproxy.com/",
-    "description": " LunaProxy is one of the best and cheapest residential proxy service providers with over 200 million residential and static proxies to give you an edge for your scraping proxy use case!\r\n\r\n\r\n\tEthically sourced residential proxy pool - 200 million clean residential IPs from real homes\r\n\tGlobal coverage without boundaries - 195+ countries with free, precise targeting\r\n\tSuitable for a variety of business scenarios - social media management, web scraping, data collection, and more\r\n\tMulti-protocol compatibility - Supports HTTP(S)/Socks5 protocols and seamlessly integrates with popular tools\r\n\r\n\r\nWhy join the LunaProxy affiliate program?\r\n\r\n\r\n\tGenerous commissions - Earn commissions on any plan. Lifetime revenue sharing!\r\n\tHigh conversion rates - Our trusted brand and effective promotional materials mean the traffic you send to LunaProxy will convert.\r\n\tConvert global traffic - No matter where your audience comes from, we have the proxy solutions they need. We serve clients worldwide and help you monetize your global traffic.\r\n\r\n\r\nImportant Notes:\r\n1. Refund requests will cancel commissions.\r\n2. Wallet top-ups/payments are not eligible for commissions.",
-    "status": "active",
+    "name": "Lunaproxy WW",
+    "img": "platform/93854.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/3/28/93854-60c5b35acb3b8a84.svg",
     "categories": [
       {
@@ -1272,12 +1212,7 @@
         "parent": null
       }
     ],
-    "img": "platform/93854.svg",
-    "affiliate": {
-      "goto_link": "https://vxrlm.com/g/jqzp7g4r0b5af0702a27bb83e0e1ca/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 93854,
     "category": {
       "name": "IT Services & Soft",
       "id": 122,
@@ -1288,15 +1223,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://vxrlm.com/g/jqzp7g4r0b5af0702a27bb83e0e1ca/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 104545,
-    "name": "PC Sales Online Many GEOs",
-    "name_aliases": "PC Sales, PC,  Sales Online",
     "site_url": "https://pcsalesonline.com",
-    "description": "PC Sales Online is a service that specializes in selling OEM licenses for Microsoft products. Our offerings include:\r\n\r\n• Windows 7/8/10/11 Operating System\r\n\r\n• Microsoft Office 2013/2016/2019/2021 for PC and MAC\r\n\r\n• Windows Server\r\n\r\nOur extensive range of products has helped us establish a solid brand with over 10,000 customer reviews, averaging 4.5 out of 5 stars.\r\n\r\nJoin the affiliate  program PC Sales Online today!Brand positioning tips: tell publishers what they should emphasize; specify words or phrases they should use in ads, etc.",
-    "status": "active",
+    "name": "PC Sales Online Many GEOs",
+    "img": "platform/104545.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/26/104545-f77886878dbbc9c1.svg",
     "categories": [
       {
@@ -1317,12 +1254,7 @@
         "parent": null
       }
     ],
-    "img": "platform/104545.svg",
-    "affiliate": {
-      "goto_link": "https://ewwhk.com/g/fwsqlvbm305af0702a27bec73bd971/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 104545,
     "category": {
       "name": "IT Services & Soft",
       "id": 122,
@@ -1333,15 +1265,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://ewwhk.com/g/fwsqlvbm305af0702a27bec73bd971/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 114701,
-    "name": "Homestyler WW",
-    "name_aliases": "Homestyler WW, homestyler_CN, Homestyler, Home Styler",
     "site_url": "https://www.homestyler.com/",
-    "description": "Originated from Autodesk in 2009, Homestyler is one of the world’s first online 3D design websites providing cloud-based rendering.\r\n\r\nAs a global leading design platform, Homestyler has served over 15 million registered designers in 220+ countries and regions for over 10 years.\r\n\r\nHomestyler creates tens of millions renders and design projects for designers each year.\r\n\r\nPlease note: Attribution model — First-Touch Attribution",
-    "status": "active",
+    "name": "Homestyler WW",
+    "img": "platform/114701.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/9/114701-eaaa963c5e2ae236.svg",
     "categories": [
       {
@@ -1368,12 +1302,7 @@
         "parent": null
       }
     ],
-    "img": "platform/114701.svg",
-    "affiliate": {
-      "goto_link": "https://cafxq.com/g/swlngq9rrz5af0702a2728a65238d7/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 114701,
     "category": {
       "name": "IT Services & Soft",
       "id": 122,
@@ -1384,15 +1313,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://cafxq.com/g/swlngq9rrz5af0702a2728a65238d7/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 115530,
-    "name": "Capcut Many Geos",
-    "name_aliases": "Capcut, Capcut Many Geos",
     "site_url": "https://www.capcut.com/",
-    "description": "CapCut is a video editing app for individual users, offering a wide range of video editing features.",
-    "status": "active",
+    "name": "Capcut Many Geos",
+    "img": "platform/115530.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/11/14/115530-b18d213fb2763865.svg",
     "categories": [
       {
@@ -1413,12 +1344,7 @@
         }
       }
     ],
-    "img": "platform/115530.svg",
-    "affiliate": {
-      "goto_link": "https://vxrlm.com/g/yql92s6edn5af0702a27a2384364af/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 115530,
     "category": {
       "name": "IT Services & Soft",
       "id": 122,
@@ -1429,15 +1355,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://vxrlm.com/g/yql92s6edn5af0702a27a2384364af/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 116972,
-    "name": "Coohom WW",
-    "name_aliases": "https://coohom.com/, Coohom, \r\nCoohom WW, coohom.com",
     "site_url": "https://www.coohom.com/",
-    "description": "Join Coohom Affiliate Partner Program now to promote the world's leading 3D visualization software! HIGH COMMISSION RATE! Easier to earn more! We're always waiting for you to join, as long as you like to share and want to earn!",
-    "status": "active",
+    "name": "Coohom WW",
+    "img": "platform/116972.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/2/20/116972-52e2df1636573d22.svg",
     "categories": [
       {
@@ -1464,12 +1392,7 @@
         "parent": null
       }
     ],
-    "img": "platform/116972.svg",
-    "affiliate": {
-      "goto_link": "https://uuwgc.com/g/c4x41k7tdt5af0702a27c6b4dfe60d/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 116972,
     "category": {
       "name": "IT Services & Soft",
       "id": 122,
@@ -1480,15 +1403,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://uuwgc.com/g/c4x41k7tdt5af0702a27c6b4dfe60d/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 118860,
-    "name": "WPS Office WW",
-    "name_aliases": "wps, WPS Office",
     "site_url": "https://www.wps.com/",
-    "description": " \r\n\r\nWho Are We?\r\n\r\n\r\n\tWe are a software company with over 30 years of experience. Our flagship product, WPS Office, is a leading office suite trusted by users worldwide.\r\n\tWPS Office serves over 500 million monthly active users globally, offering seamless compatibility across Windows, mac OS, iOS, Android, and Linux. With features like document editing, spreadsheets, presentations, and PDF tools, it’s designed to help professionals work smarter.\r\n\tPowered by advanced AI technology, tools like Docs Smart Create, AI Spell Check, Slides Smart Create, and Parallel Translate deliver a fresh, efficient office experience.\r\n\r\n\r\n \r\n\r\nWhy Choose WPS Office? \r\n\r\n\r\n\t  All-in-One Solution: WPS Office combines document editing, spreadsheets, presentations, and PDF tools in one lightweight app.\r\n\t  Free & Affordable: The free version is feature-rich, making it a great alternative to Microsoft Office. The paid version adds even more premium features at a low cost.\r\n\t  Cross-Platform: Switch effortlessly between web, mobile, and desktop. Work anytime, anywhere.\r\n\t  Real-Time Collaboration: Edit documents, spreadsheets, and presentations with your team online. Share feedback instantly.\r\n\t  Compatible with Microsoft Office: Open, edit, and save Word, Excel, and PowerPoint files without compatibility issues.\r\n\t  Template Library: Access thousands of templates for resumes, reports, and presentations with your WPS account.\r\n\t  Secure & Reliable: Your data is safe with us. We comply with global security standards like ISO 27701, ISO 9001, and ISO 20000.\r\n\t  Regular Updates: Our team rolls out updates frequently, introducing new features and enhancing your experience.\r\n\r\n\r\n \r\n\r\nSubscribe to WPS Pro and Get:\r\n\r\n\r\n\tAdvanced PDF Tools: Edit, convert, fill, sign, merge, and split PDF s.\r\n\tWPS Cloud: 20GB of secure cloud storage for your files.\r\n\tExclusive Templates: 10,000+ professional templates for Pro users.\r\n\tExtract Text: Extract text from PDF s or images.\r\n\tAd-Free Experience: Work without interruptions from ads. Subscribe to WPS AI and Unlock:\r\n\tDocs Smart Create: Generate articles, summaries, sales emails, and more in seconds. \r\n\tAI Spell Check: Fix spelling and grammar mistakes with one click.\r\n\t Slides Smart Create: Create professional presentations with a single command.\r\n\t Parallel Translate: Generate side-by-side translations directly in your document. Supports 100+ languages.\r\n\t Chat PDF: Summarize lengthy PDF s quickly and efficiently.\r\n\t  WPS Photos: Tools for background removal, photo enhancement, and batch processing.\r\n\r\n\r\nTry Before You Subscribe!\r\n\r\n \r\n\r\nWe offer all new users a free trial to experience the features firsthand before subscribing:\r\n\r\n\r\n\t  WPS Pro: Get a 7-day free trial to explore all the premium features.\r\n\t  WPS AI: Get a 3-day free trial to discover the power of AI-driven tools.\r\n\r\n\r\n \r\n\r\n\r\nWhy Join the WPS Office Affiliate Program?\r\n\r\n1. Generous Earnings\r\n\r\n2. Program Perks:\r\n\r\n\r\n\t90-Day Cookie Window\r\n\tPerformance Bonuses\r\n\tCustom Support\r\n\tFree Premium Trial\r\n\r\n\r\n3. High Conversion Rates:\r\n\r\n\r\n\tUp to 70% conversion rate from organic website visitors.            \r\n\tAd click-to-install conversion rates between 10%-30%. \r\n\r\n\r\n \r\n\r\nWho Are Our Users?\r\n\r\nOur target audience includes educators, students, and professionals. They need a versatile and cost-effective office suite for work, study, and personal projects.\r\n\r\n \r\n\r\n2025 Marketing Plan:\r\n\r\n\r\n\tSeasonal Promotions: Special discounts during back-to-school, Black Friday, and other shopping seasons. We run 1-2 campaigns every quarter.        \r\n\tExclusive Affiliate Deals: Customized promotions for affiliates.        \r\n\tAffiliate Rewards: Extra commissions and bonuses during key campaigns.\r\n\t \r\n\r\n\r\nJoin Us Today!\r\n\r\nWPS Office is a trusted brand that delivers incredible value to both users and affiliates. Partner with us to reach a global audience and earn attractive rewards. Let’s work together for mutual success! \r\n\r\n ",
-    "status": "active",
+    "name": "WPS Office WW",
+    "img": "platform/118860.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/16/118860-c3150395d3cedbbf.svg",
     "categories": [
       {
@@ -1559,7 +1484,18 @@
         "parent": null
       }
     ],
-    "img": "platform/118860.svg",
+    "id": 118860,
+    "category": {
+      "name": "IT Services & Soft",
+      "id": 122,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
     "affiliate": {
       "goto_link": "https://yynbx.com/g/nv5qc75bd95af0702a270e10b6b7ca/",
       "landings": [
@@ -1600,26 +1536,12 @@
         }
       ],
       "cashback_link_data": null
-    },
-    "category": {
-      "name": "IT Services & Soft",
-      "id": 122,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
     }
   },
   {
-    "id": 120432,
-    "name": "Thordata WW",
-    "name_aliases": "thordataco_HK, Thordata AU BR CA CN, Thordata",
     "site_url": "https://www.thordata.com/",
-    "description": "Thordata offers an advanced, ethical proxy network with over 60 million residential IP addresses covering over 195 countries. Products include Residential Proxies, ISP Proxies, Datacenter Proxies and Unlimited Proxies.\r\n\r\nImportant Notes:\r\n1. Refund requests will cancel commissions.\r\n2. Commissions will be deducted for refunds within 60 days of PayPal or credit card payments.\r\n\r\nProxy Plans:\r\nDynamic Residential Proxies - Regular Plans: 5GB-350GB.\r\nDynamic Residential Proxies - Enterprise Plans: 600GB-3000GB.\r\nUnlimited Proxies.\r\nStatic ISP Proxies.\r\nDatacenter Proxies.",
-    "status": "active",
+    "name": "Thordata WW",
+    "img": "platform/120432.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/2/21/120432-29bbe9dc13a2b119.svg",
     "categories": [
       {
@@ -1646,12 +1568,7 @@
         "parent": null
       }
     ],
-    "img": "platform/120432.svg",
-    "affiliate": {
-      "goto_link": "https://heqgr.com/g/io8l389mo35af0702a27fe5733b304/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 120432,
     "category": {
       "name": "IT Services & Soft",
       "id": 122,
@@ -1662,15 +1579,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://heqgr.com/g/io8l389mo35af0702a27fe5733b304/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 122340,
-    "name": "Яндекс 360 для бизнеса RU",
-    "name_aliases": "360.yandex.ru, 360, 360яндекс, яндекс, для бизнеса, 360 для бизнеса, zyltrc, нфтвуч",
     "site_url": "https://360.yandex.ru/business/tariff/",
-    "description": "Яндекс 360 для бизнеса\r\n\r\nПрисоединяйтесь к партнёрской программе Яндекс 360 для бизнеса\r\n\r\nЯндекс 360 — единый онлайн-офис с сервисами для совместной работы. Он насчитывает более чем 150 000 компаний-клиентов.\r\n\r\nЛучшие предложения для работы с документами, организации процессов, общения с аудиторией \r\n\r\n\r\n\t\r\n\t\t\r\n\t\t\t\r\n\t\t\tКорпоративная почта\r\n\r\n\t\t\tПочта для бизнеса на едином домене\r\n\t\t\t\r\n\t\t\t\r\n\t\t\tДиск\r\n\r\n\t\t\tОблачное хранилище файлов для каждого сотрудника\r\n\t\t\t\r\n\t\t\t\r\n\t\t\tМессенджер\r\n\r\n\t\t\tСервис для рабочего общения в защищённых чатах\r\n\t\t\t\r\n\t\t\r\n\t\t\r\n\t\t\t\r\n\t\t\tРассылки\r\n\r\n\t\t\tКонструктор писем об акциях и новостях для клиентов\r\n\t\t\t\r\n\t\t\t\r\n\t\t\tТрекер\r\n\r\n\t\t\tСервис для управления проектами и совместной работы\r\n\t\t\t\r\n\t\t\t\r\n\t\t\tТелемост\r\n\r\n\t\t\tВидеовстречи и трансляции без ограничений по времени\r\n\t\t\t\r\n\t\t\r\n\t\r\n\r\n\r\nИ другие полезные сервисы для онлайн-работы.\r\n \r\n\r\nС партнёрской программой Яндекс 360 для бизнеса вы получаете:\r\n\r\n\r\n\tВысокое вознаграждение за привлечение платной организации\r\n\tРазнообразие инструментов: реферальные ссылки, баненры и промокоды\r\n\tПерсональные условия и наименования промокодов для каждого партнёра\r\n\tСотрудничество с лидирующей IT‑компанией и знакомыми сервисами\r\n\r\n\r\nМинус-слова ",
-    "status": "active",
+    "name": "Яндекс 360 для бизнеса RU",
+    "img": "platform/122340.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/3/7/122340-c8b4c68d7e5ae20a.svg",
     "categories": [
       {
@@ -1691,18 +1610,7 @@
         }
       }
     ],
-    "img": "platform/122340.svg",
-    "affiliate": {
-      "goto_link": "https://plrvq.com/g/fvw4twp27u5af0702a2744555227c3/?erid=2bL9aMPo2e49hMef4piV5Bf3ZR",
-      "landings": [
-        {
-          "id": 31414,
-          "name": "Домен в подарок в тарифах Яндекс 360 для бизнеса на год",
-          "code": "4f272a59dd"
-        }
-      ],
-      "cashback_link_data": null
-    },
+    "id": 122340,
     "category": {
       "name": "IT Services & Soft",
       "id": 122,
@@ -1713,15 +1621,23 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://plrvq.com/g/fvw4twp27u5af0702a2744555227c3/?erid=2bL9aMPo2e49hMef4piV5Bf3ZR",
+      "landings": [
+        {
+          "id": 31414,
+          "name": "Домен в подарок в тарифах Яндекс 360 для бизнеса на год",
+          "code": "4f272a59dd"
+        }
+      ],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 124239,
-    "name": "2ndNumber.tel Virtual SMS",
-    "name_aliases": "2ndNumber.tel, 2ndNumber, 2nd",
     "site_url": "https://2ndnumber.tel/",
-    "description": "2ndNumber.tel offers virtual phone numbers from the US, UK, Canada, and various European countries. You can use these numbers to make calls, receive SMS messages for apps like WhatsApp, Facebook, Signal, Discord, and Telegram. It is a versatile solution for maintaining privacy while using popular communication apps and services. The numbers are available on a monthly subscription basis, making it a cost-effective solution for maintaining privacy and securing online accounts. SMS can be accessed via our apps or online dashboard instantly.\r\n\r\nCommon use cases:\r\n\r\n* Receive OTP and 2FA SMS from apps and websites\r\n* Shared SMS inbox for small teams and offices who need access to the same phone number\r\n* Make and receive calls to thousands of destinations via our app or webphone\r\n* Business features like IVR welcome menus using AI generated text-to-voice and chatbot builder\r\n\r\nWho uses 2ndNumber\r\n\r\n* Private individuals\r\n* Small business owners\r\n* Entrepreneurs\r\n* Marketeers\r\n\r\nHow does it work\r\n\r\n1. Visit 2ndNumber.tel and select a phone number in the region of your choice\r\n2. Check out - the number is now reserved\r\n3. Log in to your SMS and calling dashboard at www.2ndNumber.tel or use our app to make and receive calls and SMS\r\n\r\nYou will receive 32.5% commission of the sale price and we have a cookie lifetime of 30 days. Our products range in price from $2.49 for the cheapest monthly and $54.99 for the most expensive yearly. You will get 50% of every product we sell.",
-    "status": "active",
+    "name": "2ndNumber.tel Virtual SMS",
+    "img": "platform/124239.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/3/11/124239-6d48ab2205788082.svg",
     "categories": [
       {
@@ -1787,7 +1703,18 @@
         "parent": null
       }
     ],
-    "img": "platform/124239.svg",
+    "id": 124239,
+    "category": {
+      "name": "IT Services & Soft",
+      "id": 122,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
     "affiliate": {
       "goto_link": "https://qbzdl.com/g/q9khw5u6985af0702a277c1db20106/",
       "landings": [
@@ -1803,26 +1730,12 @@
         }
       ],
       "cashback_link_data": null
-    },
-    "category": {
-      "name": "IT Services & Soft",
-      "id": 122,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
     }
   },
   {
-    "id": 127996,
-    "name": "AOMEI [CPS] WW",
-    "name_aliases": "AOMEI Performance Marketing Prgm",
     "site_url": "https://www.aomeitech.com/",
-    "description": "Company Profile: AOMEI provides a series of programs and utilities to help you properly organize data and create a 100% secure digital life. AOMEI Backupper is a data recovery program that uses a wizard style (software) user interface to guide users through the data recovery process. This software is available in both free and paid versions on both Windows and macOS platforms. \r\n \r\n\r\nCommission ratio: AOMEI currently offers a commission ratio of up to 50% to its partners \r\n \r\n\r\nActivity description: AOMEI Performance Marketing Program provides a series of programs and utilities to help you organize data properly and establish a 100% secure digital lifestyle commission structure. \r\n \r\n\r\nGoal: Global \r\n \r\n\r\nCookie validity period: 90 days \r\n \r\n\r\nVerification cycle: usually one month. If you hold the event in July, you will receive the final sales data in early August. \r\n \r\n\r\nProducts that are not eligible for commission \r\nPublishers can only promote products within the scope of their commission settings. Any product promoted beyond the scope will not receive rewards. \r\nBackup CDs and other physical fulfillment without commission\r\n\r\n ",
-    "status": "active",
+    "name": "AOMEI [CPS] WW",
+    "img": "platform/127996.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/5/27/127996-f450da1da49bf0dd.svg",
     "categories": [
       {
@@ -1849,7 +1762,18 @@
         "parent": null
       }
     ],
-    "img": "platform/127996.svg",
+    "id": 127996,
+    "category": {
+      "name": "IT Services & Soft",
+      "id": 122,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
     "affiliate": {
       "goto_link": "https://kpwfp.com/g/rly3vo6o1s5af0702a27fec4620825/",
       "landings": [
@@ -1885,26 +1809,12 @@
         }
       ],
       "cashback_link_data": null
-    },
-    "category": {
-      "name": "IT Services & Soft",
-      "id": 122,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
     }
   },
   {
-    "id": 130820,
-    "name": "Vigbo RU",
-    "name_aliases": "vigbo, вигбо, мшпищ, dbu,j, сервис для фотографов",
     "site_url": "https://vigbo.com",
-    "description": "Vigbo — сервис для фотографов, который включает:\r\n\r\n\r\n\tстильный сайт-портфолио\r\n\tгалереи для передачи фотографий клиентам\r\n\tонлайн-ретушь с AI-плагинами прямо в галереях\r\n\tAI-генерация макетов и печать фотокниг\r\n\tи многое другое.\r\n\r\n\r\nС помощью дизайнерских шаблонов вы создадите красивый и продающий сайт, который повысит доверие клиентов к вам, как к профессионалу. Каждый шаблон можно настраивать под тематику своего сайта.\r\n\r\nГлавное отличие от других конструкторов – готовые блоки для создания разных страниц – «Обо мне», «Портфолио», «Отзывы», «Цены», «Контакты» и другие. Нужно просто заменить тексты и изображения на свои – и ваш сайт готов.\r\n \r\n\r\nОсновная аудитория — фотографы, работающие в различных жанрах фотосъемки.\r\nТакже конструктор Vigbo часто выбирают и люди творческих профессий: дизайнеры, художники, архитекторы, ювелиры, hand-made проекты и другие.\r\n\r\nПреимущества для веб-мастеров:\r\n\r\n\r\n\tМы открыты к диалогу, готовы обсуждать ваш индивидуальный подход к рекламе.\r\n\tПредоставляем эффективные рекламные материалы, баннеры.\r\n\tРегулярно выплачиваем вознаграждение.\r\n\r\n\r\nПреимущества для клиентов:\r\n\r\n\r\n\tДва тарифа: “Стандарт” – для сайтов-портфолио и “Бизнес” – с возможностью создания своего интернет-магазина, например, для пресетов или продажи фотографий\r\n\tГотовые дизайны из каталога\r\n\tХостинг (включен в тариф)\r\n\tСтильные галереи для передачи съемок – бесплатный тариф 100 Гб\r\n\tВозможность загрузки видео и предпросмотра\r\n\tОнлайн-ретушь с помощью AI-плагинов от Retouch4me прямо в галереях\r\n\tЗащита изображений от копирования\r\n\tНеограниченное количество страниц\r\n\tГотовые блоки типовых разделов\r\n\tМобильная версия сайта\r\n\tИнтеграция с VK\r\n\tМультиссылка для социальных сетей\r\n\tПриватные страницы\r\n\tМультиязычность\r\n\tИнструменты для SEO-продвижения\r\n\tВозможность подключить свой домен\r\n\tБесплатный SSL-сертификат\r\n\tВозможность принимать оплату через сайт\r\n\tБлог\r\n\tИнструменты для SEO-продвижения\r\n\tВидеоуроки и курсы\r\n\tТехподдержка 7 дней в неделю\r\n\r\n\r\nКак проходит сверка \r\n\r\nСверка проводится вручную 1 раз в начале каждого месяца.\r\n\r\nВыдача промокодов\r\n\r\nВ программе нет промокодов.\r\n\r\nИнформация про модерацию \r\n\r\nМодерация проводится оперативно, 3 раза в неделю.\r\n\r\n \r\n\r\n ",
-    "status": "active",
+    "name": "Vigbo RU",
+    "img": "platform/130820.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/7/3/130820-90ef8f0a4ab07715.svg",
     "categories": [
       {
@@ -1925,12 +1835,7 @@
         }
       }
     ],
-    "img": "platform/130820.svg",
-    "affiliate": {
-      "goto_link": "https://ogsib.com/g/psf0aesot25af0702a27a993e75390/?erid=2bL9aMPo2e49hMef4rqUKy1A7L",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 130820,
     "category": {
       "name": "IT Services & Soft",
       "id": 122,
@@ -1941,15 +1846,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://ogsib.com/g/psf0aesot25af0702a27a993e75390/?erid=2bL9aMPo2e49hMef4rqUKy1A7L",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 131144,
-    "name": "Boardmix WW",
-    "name_aliases": "Boardmix, Boardmix HK, boardmix.com",
     "site_url": "https://boardmix.com",
-    "description": "Boardmix is an AI-powered collaborative whiteboard designed for teams to turn ideas into visuals instantly. With smart tools like mind maps, flowcharts, Kanban boards, and even full presentations, Boardmix helps teams brainstorm, plan, and share ideas effortlessly. The built-in AI assistant can generate diagrams, business templates, and creative content in seconds, perfect for boosting productivity without manual work.\r\n\r\nUp to 500 users can co-edit in real time, with comments, mentions, and reactions that keep everyone in sync. Over 1,000 users can view a session live, making it ideal for online meetings, workshops, or product demos. Drawing tools, pens, sticky notes, shapes, tables, and the timer are included in one whiteboard. You can also store and share digital assets like images, videos, and documents directly on the board.\r\n\r\nTrusted by teams in SaaS, product management, marketing, and more, Boardmix is a modern visual workspace that drives smarter collaboration and faster decisions.\r\n\r\n✅ Benefits for Customers\r\n\r\n\r\n\tAI-powered tools for fast content generationlinke mind map\\flowchart\\customer journey map, grawing coloring and generating, etc.\r\n\tReal-time collaboration with up to 500 team members\r\n\t1,000+ live viewers supported\r\n\tEasy integration with Zoom, Teams, Microsoft Teams, Skype, and Google Meet\r\n\tCloud diaplay with multi-formats liken PDF, Word, Excel, video, links\r\n\tSharing link encryption\r\n\tCostomer service support\r\n\tFree plan available\r\n\r\n\r\n✅ Target Audience Portrait\r\n\r\n\r\n\tGender: All\r\n\tAge: 20–45\r\n\tIncome: Middle to high income\r\n\tOccupation: Product managers, project managers, operationers, marketers, educators, SaaS teams, hybrid team and more.\r\n\tMarital Status: All\r\n\tLocation: Global (main focus on US, Europe, SEA)\r\n\r\n\r\n✅ Popular Products (Best Sellers / Most Used Features)\r\n\r\n\r\n\tAI-generated mind maps, flowcharts, presentations, various diagrams, and image coloring\r\n\tFile-rich collaborative whiteboards with images, videos, PDFs, docs, links\r\n\tDrag and draw operation with pens and line drawing\r\n\tProject and file management in one online place\r\n\tEncryption link sharing to collaborate in real time\r\n\tSticky notes and timer for online workshops\r\n\tKanban boards for task tracking\r\n\tBusiness templates (SWOT, user journey, business model canvas)\r\n\r\n\r\n \r\n\r\n✅ Brand Positioning Tips for Publishers\r\n\r\nPlease highlight these key phrases in your promotions:\r\n\r\n\r\n\t“AI-powered whiteboard for teams”\r\n\t“Real-time visual collaboration”\r\n\t“Create diagrams, mind maps, and presentations in seconds”\r\n\t“Work with up to 500 collaborators in real time”\r\n\t“Free online whiteboard for brainstorming, planning, and teamwork”\r\n\r\n\r\nAvoid using misleading or comparative phrases like “Boardmix clone” or naming direct competitors.\r\n\r\n✅ Brand Banner Design Draft\r\n\r\nhttps://pre2.pixso.cn/app/design/S5eXGfGRgAqbOQwADl8dCQ?page-id=0%3A1\r\n\r\nPlease click the link to join Pixso Design to edit and get the banner source image.",
-    "status": "active",
+    "name": "Boardmix WW",
+    "img": "platform/131144.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/6/25/131144-a0c2e90c6a9ea7ec.svg",
     "categories": [
       {
@@ -1987,12 +1894,7 @@
         "parent": null
       }
     ],
-    "img": "platform/131144.svg",
-    "affiliate": {
-      "goto_link": "https://axavl.com/g/3tevoaw5qq5af0702a27d12233f6f4/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 131144,
     "category": {
       "name": "IT Services & Soft",
       "id": 122,
@@ -2003,15 +1905,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://axavl.com/g/3tevoaw5qq5af0702a27d12233f6f4/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 132842,
-    "name": "ProHoster WW",
-    "name_aliases": "Pro Hoster, ProHoster",
     "site_url": "https://prohoster.info",
-    "description": "ProHoster.Info\r\n\r\n- We offer reliable and stable servers at the best prices in the service market. Quality hosting provider at affordable prices.\r\n\r\n \r\n\r\nProHoster.Info, founded in 2012, is a professional hosting provider, offering a wide range of services for creating and supporting Internet projects of various complexity. The company's servers are located in various countries, including Ukraine, the USA, the Netherlands, Latvia, Italy, Switzerland, Germany and others, which provides flexibility in choosing a geographical location for customers.\r\n\r\n \r\n\r\nPromotion is based on a unique promo code tracked via our system. Users get a discount and you earn a commission for every completed purchase:\r\n\r\n- VPN - 25%\r\n\r\n- VPS - 20%\r\n\r\n- Shared hosting - 20%\r\n\r\n- ISPmanager panel - 20%\r\n\r\n- SSL - 15%\r\n\r\n- Dedicated servers - 5%\r\n\r\n \r\n\r\nClient Geography: The whole world!!!\r\n\r\nBesides such countries: Morocco (MA), Syria (SY), Iran (IR), Iraq (IQ), North Korea (KP), Afghanistan (AF)\r\n\r\n \r\n\r\nServices provided by ProHoster:\r\n\r\n \r\n\r\n-\r\n\r\nVirtual hosting:\r\n\r\nUnlimited hosting is offered with DDOS attacks, a free site designer, SSL certificate and domain. ​\r\n\r\n-\r\n\r\nVPS/VDS:\r\n\r\nvirtual servers with various virtue options, such as KVM and LXD, provide ROOT access and high port speed. ​\r\n\r\n-\r\n\r\nDedicated servers:\r\n\r\nsuitable for projects with increased power requirements and complete control over the server.\r\n\r\n-\r\n\r\nDomain Registration:\r\n\r\nPossibility to register domain names in more than 700 zones at favorable prices.\r\n\r\n-\r\n\r\nSSL Certificates:\r\n\r\nProviding free and paid SSL certificates to ensure the security of sites.​\r\n\r\n-\r\n\r\nVPN:\r\n\r\n50+ locations, access to your favorite websites, P2P allowed, 10 devices.",
-    "status": "active",
+    "name": "ProHoster WW",
+    "img": "platform/132842.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/7/16/132842-d9ea6b9dab0d1842.svg",
     "categories": [
       {
@@ -2038,12 +1942,7 @@
         "parent": null
       }
     ],
-    "img": "platform/132842.svg",
-    "affiliate": {
-      "goto_link": "https://ntzgd.com/g/gaetfoqpj75af0702a27934d4157fe/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 132842,
     "category": {
       "name": "IT Services & Soft",
       "id": 122,
@@ -2054,15 +1953,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://ntzgd.com/g/gaetfoqpj75af0702a27934d4157fe/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 135105,
-    "name": "Top of the Results AU CA GB NZ US",
-    "name_aliases": "Top of the Results, top",
     "site_url": "https://www.topoftheresults.com",
-    "description": "Top of the Results is a high-converting SEO tool that lets users buy targeted search traffic to increase their website’s organic CTR and improve search engine rankings.\r\n\r\n \r\n\r\n \r\n\r\nIt works by simulating natural search behavior: users enter the client’s keyword on Google, find their listing in the search results, click it, and browse the site. This sends positive engagement signals to search engines—helping boost SEO rankings, visibility, and traffic.\r\n\r\n \r\n\r\n \r\n\r\nSince Google started factoring in user behavior like CTR, bounce rate, and time on site, CTR manipulation has become one of the most effective ways to influence rankings—especially for long-tail and local keywords.\r\n\r\n \r\n\r\n \r\n\r\nUnlike low-quality bot services, Top of the Results uses:\r\n\r\n• Real Chrome browsers\r\n\r\n• Real people\r\n\r\n• Clean IPs\r\n\r\n• Genuine search behavior\r\n\r\n \r\n\r\n \r\n\r\nThe results? Increased rankings, higher click-through rates, and improved visibility in Google, Bing, YouTube, Etsy, and even Google Maps.\r\n\r\n ",
-    "status": "active",
+    "name": "Top of the Results AU CA GB NZ US",
+    "img": "platform/135105.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/8/1/135105-880a9da5ea83c519.svg",
     "categories": [
       {
@@ -2106,12 +2007,7 @@
         "parent": null
       }
     ],
-    "img": "platform/135105.svg",
-    "affiliate": {
-      "goto_link": "https://grfpr.com/g/zehsdnxunv5af0702a27245c490fd8/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 135105,
     "category": {
       "name": "IT Services & Soft",
       "id": 122,
@@ -2122,15 +2018,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://grfpr.com/g/zehsdnxunv5af0702a27245c490fd8/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 138313,
-    "name": "Speech2Text RU",
-    "name_aliases": "Speech2Text RU, https://speech2text.ru/, speech2text.ru, спичтутекст, cgbxnentrcn, ызууср2еуче, распознавание речи, расшифровка аудио и видео в текст",
     "site_url": "https://speech2text.ru/",
-    "description": "Speech2text – это инновационная платформа, предлагающая решения для преобразования аудио- и видеозаписей в текст с помощью технологий распознавания речи. Мы стремимся сделать процесс преобразования речи доступным для всех, экономя время и улучшая качество обработки информации.\r\n\r\nПреимущества платформы:\r\n\r\n\r\n\tэкономия времени (часовое аудио или видео распознается за 10 минут)\r\n\tвысокая скорость выпуска материалов (сокращение сроков подготовки текстовых новостей и статей из аудио/видео записей в три раза)\r\n\tувеличение продуктивности сотрудников, работающих с аудио/видео (экономьте время и расшифровке и посвятите его важным делам)\r\n\tповышение мотивации сотрудников (упрощаем рабочие процессы для творческой активности)\r\n\tудобство доступа (платформа доступна 24/7)\r\n\r\n\r\nВозможности:\r\n\r\n\r\n\tкачество распознавания (речь распознается с невероятной точностью даже при плохом звуке)\r\n\tвысокая скорость (один час аудио/видео распознается за 10 минут)\r\n\tконфиденциальность (файлы и расшифровки не хранятся после того как их удаляют. используется шифрование при передаче по сети)\r\n\tделение на спикеров (расшифровка с разделением на собеседников и возможность переименовывать их)\r\n\tмультиязычность (распознает не только русский язык: английский, французский, немецкий, испанский и еще 20+ языков)\r\n\tсубтитры (возможность скачать субтитры и монтировать их в видео)\r\n\r\n\r\nПроцесс работы:\r\n\r\n\r\n\tобработка медиафайлов (аудио и видео очищаются от шумов, передаются в нейросеть, которая выделяет речь и разделяет её по спикерам)\r\n\tлокальная безопасность (весь процесс происходит на наших серверах в дата-центрах Москвы и Санкт-Петербурга)\r\n\tинтеграция через API (легко встраивается в бизнеспроцессы для автоматической обработки аудио/видео и получения текстовых расшифровок в машиночитаемом виде)\r\n\tконфиденциальность данных (данные пользователей не передаются третьим лицам и не участвуют в обучении нейросети. После удаления файлов вручную или автоматически сохраняется только информация для биллинга (имя и длительность файлов).\r\n\tюридическая безопасность (услуги предоставляются юридическим лицом РФ по договору-оферте. имеется возможность заключения лицензионного договора)\r\n\r\n\r\nТарифы:\r\n\r\n\r\n\t\r\n\t\t\r\n\t\t\t\r\n\t\t\tСТАРТ\r\n\t\t\t- 0 Р/МЕСЯЦ\r\n\r\n\t\t\t• 2 рубля за минуту\r\n\r\n\t\t\tраспознавания\r\n\r\n\t\t\t• 1 пользователь\r\n\r\n\t\t\tинтерактивный плеер\r\n\r\n\t\t\tс тайм-кодами\r\n\r\n\t\t\t• Разделение на спикеров\r\n\r\n\t\t\t• Сохранение результата в DOCX\r\n\r\n\t\t\t• Сохранение субтитров в SRT\r\n\r\n\t\t\tформате\r\n\r\n\t\t\t \r\n\t\t\t\r\n\t\t\t\r\n\t\t\tНАЧАЛЬНЫЙ\r\n\t\t\t- 4400 Р/МЕСЯЦ\r\n\r\n\t\t\t• Распознавание 6 часов день\r\n\r\n\t\t\t• До 5 пользователей\r\n\r\n\t\t\t• 1 поток распознавания\r\n\r\n\t\t\t• Интерактивный плеер\r\n\r\n\t\t\tс тайм-кодами\r\n\r\n\t\t\t• Разделение на спикеров\r\n\r\n\t\t\t• Сохранение результата в DOCX\r\n\r\n\t\t\t• Сохранение субтитров в SRT\r\n\r\n\t\t\tформате\r\n\r\n\t\t\t \r\n\t\t\t\r\n\t\t\t\r\n\t\t\tСТАНДАРТНЫЙ - 8800 Р/МЕСЯЦ\r\n\r\n\t\t\t• Распознавание 12 часов в день\r\n\r\n\t\t\t• До 10 пользователей\r\n\r\n\t\t\t• 3 потока распознавания таймкодами\r\n\r\n\t\t\t• Интерактивный плеер\r\n\r\n\t\t\tс тайм-кодами\r\n\r\n\t\t\t• Разделение на спикеров\r\n\r\n\t\t\t• Сохранение результата в DOCX\r\n\r\n\t\t\t• Сохранение субтитров в SRT\r\n\r\n\t\t\tформате\r\n\r\n\t\t\t \r\n\t\t\t\r\n\t\t\t\r\n\t\t\tПРОФЕССИОНАЛЬНЫЙ - 17 600 Р/МЕСЯЦ\r\n\r\n\t\t\t• Распознавание 24 часа в день\r\n\r\n\t\t\t• До 20 пользователей\r\n\r\n\t\t\t• 6 потоков распознавания\r\n\r\n\t\t\t• Интерактивный плеер\r\n\r\n\t\t\tс тайм-кодами\r\n\r\n\t\t\t• Разделение на спикеров\r\n\r\n\t\t\t• Сохранение результата в DOCX\r\n\r\n\t\t\t• Сохранение субтитров в SRT\r\n\r\n\t\t\tформате\r\n\r\n\t\t\t \r\n\t\t\t\r\n\t\t\r\n\t\t\r\n\t\t\t\r\n\t\t\tЦена при оплате за 6 месяцев:\r\n\t\t\t\r\n\t\t\r\n\t\t\r\n\t\t\t\r\n\t\t\t0 р/месяц\r\n\t\t\t\r\n\t\t\t\r\n\t\t\t3 900 р/месяц\r\n\t\t\t\r\n\t\t\t\r\n\t\t\t7 800 р/месяц\r\n\t\t\t\r\n\t\t\t\r\n\t\t\t15 600 р/месяц\r\n\t\t\t\r\n\t\t\r\n\t\t\r\n\t\t\t \r\n\t\t\t \r\n\t\t\t \r\n\t\t\t \r\n\t\t\t \r\n\t\t\r\n\t\r\n\r\n\r\n \r\n\r\nНаши клиенты:\r\n\r\nForbes Russia, SHULEV MEDIA HOLDING, Фонтанка.ру, Inc.Russia, Рейтинг рунета и другие.\r\n\r\n \r\n\r\nС Уважением, Партнерская программа Speech2text",
-    "status": "active",
+    "name": "Speech2Text RU",
+    "img": "platform/138313.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/9/19/138313-64d350702d6136c4.svg",
     "categories": [
       {
@@ -2151,12 +2049,7 @@
         }
       }
     ],
-    "img": "platform/138313.svg",
-    "affiliate": {
-      "goto_link": "https://twnfz.com/g/yj93eu2e4a5af0702a27f83e4af44e/?erid=2bL9aMPo2e49hMef4rqUfPkRKi",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 138313,
     "category": {
       "name": "IT Services & Soft",
       "id": 122,
@@ -2167,15 +2060,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://twnfz.com/g/yj93eu2e4a5af0702a27f83e4af44e/?erid=2bL9aMPo2e49hMef4rqUfPkRKi",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 144071,
-    "name": "Kion RU",
-    "name_aliases": "кион, Kion RU, kion.ru, фильмы, сериалы, кинотеатр, онлайн-кинотеатр, лшщт, rbjy, rbyjntfnh",
     "site_url": "https://kion.ru",
-    "description": "Кион — твой онлайн-кинотеатр с безграничным миром фильмов и сериалов!\r\n\r\nКион — это ведущий российский стриминговый сервис от МТС, где собраны тысячи фильмов, сериалов, мультфильмов и более 200 живых ТВ-каналов. Эксклюзивные премьеры, культовые хиты и персонализированные подборки — всё в одном месте, в HD-качестве и без рекламы. Смотрите на смартфоне, планшете, Smart TV или ПК в любое время!\r\n\r\nМы предлагаем более 10 000 единиц контента, включая оригинальные сериалы Кион, новинки проката и классику мирового кино. Это идеальный выбор для киноманов, семейного просмотра и всех, кто ценит качественный контент.\r\n\r\nПреимущества для клиентов: Почему Кион — это любовь с первого клика?\r\n\r\n\r\n\tОгромная библиотека: тысячи фильмов, сериалов, мультфильмов и более 200 ТВ-каналов.\r\n\tЭксклюзивы Кион: оригинальные сериалы и фильмы, которых нет на других платформах.\r\n\tПростота и удобство: смотрите где угодно, на любом устройстве, с интуитивным интерфейсом.\r\n\tБесплатный старт: первый месяц подписки бесплатно по промокоду!\r\n\tБез рекламы: наслаждайтесь контентом без прерываний.\r\n\tПерсональные рекомендации: алгоритмы подбирают контент под ваши вкусы.\r\n\tПоддержка 24/7: дружелюбная команда отвечает в чате или по телефону.\r\n\r\n\r\nКак это работает?\r\n\r\n\r\n\t\r\n\tРегистрируетесь на платформе за минуту.\r\n\t\r\n\t\r\n\tВыбираете фильм или сериал из каталога.\r\n\t\r\n\t\r\n\tНаслаждаетесь просмотром в HD-качестве!\r\n\t\r\n\r\n\r\nЦелевая аудитория: Широкая — от киноманов и любителей сериалов до семей с детьми и тех, кто следит за ТВ-программами. Возраст: 16–55 лет.\r\n\r\nГеография: Россия — доступ к Кион есть в любом уголке страны благодаря онлайн-формату.\r\n\r\nПопулярный контент:\r\n\r\n\r\n\tЭксклюзивные сериалы Кион: «Бар один звонок», «Жизнь по вызову», «Пингвины моей мамы» и другие хиты, доступные только у нас.\r\n\tНовинки проката: свежие блокбастеры и фильмы сразу после кинотеатров.\r\n\tСемейный контент: мультфильмы и шоу для детей, от «Свинки Пеппы» до Disney.\r\n\tТВ-каналы: более 200 каналов, включая спорт, новости, развлечения и документалистику.\r\n\tКлассика кино: культовые фильмы и сериалы для всех поколений.\r\n\r\n\r\nПреимущества для веб-мастеров:\r\n\r\n\r\n\tВысокая конверсия: Кион — популярный бренд с востребованным продуктом и акцией «первый месяц бесплатно».\r\n\tГибкость: предоставляем баннеры, промокоды и другие рекламные материалы для ваших кампаний.\r\n\tПрозрачность: реальная статистика и быстрые выплаты вознаграждений.\r\n\tОткрытость: готовы обсуждать индивидуальные условия для топ-партнёров.\r\n\tПростое продвижение: стриминг — горячая ниша, которая привлекает широкую аудиторию.\r\n\r\n\r\nПрисоединяйтесь к партнёрской программе Кион!\r\n\r\nПродвигайте Кион через Admitad и зарабатывайте на каждой подписке! Это идеальная возможность для блогеров, владельцев сайтов и всех, кто работает с аудиторией, любящей кино и сериалы.\r\n\r\nС уважением, Партнерская программа Кион!\r\n\r\n\r\n\r\nВажно: ВСЕ целевые действия будут поступать в статистику как первое ЦД \"Покупка подписки 30 дней KION+Premium\", при сверке будут корректироваться.\r\n\r\nВ ссылке последняя переменная webSub2={{subid}} для передачи промокодов. Для добавления промокода в трекинговую ссылку веб-мастерам нужно сделать это вручную, так как в оффере не используется Deeplink. \r\nВ данной статье описаны способы как это сделать без инструмента Deeplink. \r\n\r\n \r\n\r\nВАЖНО: заказы с промокодами не от ADMITAD не будут оплачены",
-    "status": "active",
+    "name": "Kion RU",
+    "img": "platform/144071.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/11/14/144071-ec57fec967679867.svg",
     "categories": [
       {
@@ -2196,12 +2091,7 @@
         "parent": null
       }
     ],
-    "img": "platform/144071.svg",
-    "affiliate": {
-      "goto_link": "https://qbzdl.com/g/g9xpf3jfxw5af0702a27bacd667ddb/?erid=2bL9aMPo2e49hMef4rqUtgdHKo",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 144071,
     "category": {
       "name": "IT Services & Soft",
       "id": 122,
@@ -2212,6 +2102,11 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://qbzdl.com/g/g9xpf3jfxw5af0702a27bacd667ddb/?erid=2bL9aMPo2e49hMef4rqUtgdHKo",
+      "landings": [],
+      "cashback_link_data": null
     }
   }
 ]

@@ -1,11 +1,8 @@
 [
   {
-    "id": 778,
-    "name": "GamePark RU",
-    "name_aliases": "gamepark, геймпарк, пфьузфкл, видеоигры, dbltjbuhs, xbox360, комиксы, настольные игры, rjvbrcs, yfcnjkmyst buhs, чмщч360, приставки, ghbcnfdrb, консоли, rjycjkb",
     "site_url": "https://www.gamepark.ru/",
-    "description": "Подключайтесь к партнерской программе GamePark!\r\n\r\nКомпания GamePark на рынке с 2004 года. Недавно мы объединились с другой игровой компанией Республика Игр и теперь для наших клиентов работают более 25 магазинов по всей России (из них 13 в Москве.)\r\n\r\nПреимущества работы с нашей партнерской программой:\r\n\r\nС декабря запущена мобильная (адаптивная) версия сайта gamepark.ru. Совершать покупки стало еще удобнее.\r\n\r\n\r\n\tБольшой выбор\r\n\r\n\r\nВсегда в наличии широкий ассортимент видеоигр на все современные игровые платформы (PlayStation, Xbox, Nintendo, PC), аксессуаров для них, а также игровых консолей. Дополнительно доступны наши новые товарные группы: настольные игры, комиксы и сувениры.\r\n\r\n\r\n\tУдобные доставка и оплата (по Москве и всей России.)\r\n\r\n\r\nДоступен бесплатный самовывоз из наших розничных магазинов. Также мы один из немногих интернет-магазинов, у которого есть курьерская экспресс-доставка за 3-4 часа с момента заказа.  Доступна доставка службами СДЭК, Евросеть или EMS.\r\n\r\nОплата производится наличными при получении или пластиковой картой онлайн на сайте. Для клиентов из регионов доступна возможность оплаты заказа наложенным платежом (без обязательной предоплаты).\r\n\r\n\r\n\tАкции и бонусная программа\r\n\r\n\r\nВ нашем интернет-магазине регулярно проходят скидочные и подарочные акции. За каждую покупку мы начисляем бонусы на бонусный счет клиента – бонусами можно оплачивать последующие покупки.\r\n\r\n\r\n\tВысокий уровень юзабилити\r\n\r\n\r\nОформление быстрого заказа (без регистрации, с указанием только номера телефона).\r\n\r\nОбычное оформление заказа также проходит без регистрации. Все оформление заказа занимает одну страницу.\r\n\r\nБыстрая связь с клиентом – наши операторы подтверждают заказ в течение 5-10 минут после его создания (в рабочее время)\r\n\r\nСредний процент подтверждаемости заказов – около 80%.\r\n\r\n\r\n\tСправедливые выплаты партнерам\r\n\r\n\r\nМы за честное и долгосрочное сотрудничество! Выбирайте подходящую вам по ставке категорию товаров и давайте начнем работу:-)\r\n\r\nКстати, обратите внимание на наш раздел GameReplay – https://www.gamepark.ru/used/games/. По товарам из этого раздела у нас сейчас самое выгодное предложение!\r\n\r\n \r\n\r\nОбращаем ваше внимание! Оплата производится только за выполненный (оплаченный) заказ покупателя.\r\n\r\nДополнительная информация:\r\n\r\nГеотаргетинг: Российская Федерация\r\n\r\nТекущая аудитория сайта:\r\n\r\nБолее 50% посетителей сайта в возрасте от 25 до 34 лет\r\n\r\nМужчины – 75%\r\n\r\nЖенщины – 25%\r\n\r\nДля оперативного информирования об изменениях и новостях игровых офферов подписывайтесь на телеграм-канал Admitad Games!",
-    "status": "active",
+    "name": "GamePark RU",
+    "img": "platform/778.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/7/778-2c5d77131c81b227.svg",
     "categories": [
       {
@@ -26,7 +23,18 @@
         }
       }
     ],
-    "img": "platform/778.svg",
+    "id": 778,
+    "category": {
+      "name": "Game Stores and Services",
+      "id": 214,
+      "language": "en",
+      "parent": {
+        "name": "Online Games",
+        "id": 6,
+        "language": "en",
+        "parent": null
+      }
+    },
     "affiliate": {
       "goto_link": "https://rzekl.com/g/af8ef42a175af0702a27e8b31ead25/?erid=5jtCeReLm1S3Xx3Lf3atkXK",
       "landings": [
@@ -92,26 +100,12 @@
         }
       ],
       "cashback_link_data": null
-    },
-    "category": {
-      "name": "Game Stores and Services",
-      "id": 214,
-      "language": "en",
-      "parent": {
-        "name": "Online Games",
-        "id": 6,
-        "language": "en",
-        "parent": null
-      }
     }
   },
   {
-    "id": 24298,
-    "name": "Kinguin WW",
-    "name_aliases": "Kinguin, kinguin, kingin, penguin, pingvin, kingvin, кингвин, пингвин, кинвин",
     "site_url": "https://www.kinguin.net/",
-    "description": "This Mitgame affiliate program is powered by the Admitad infrastructure.\r\n\r\nChristmas Sale 2025\r\nIn-game category creatives\r\n\r\nApply to the affiliate program Kinguin WW!\r\n\r\nBecome a partner of Kinguin - we are a global marketplace for game keys with the mission to provide the best prices and a safe place to buy game codes for games on Steam, Origin, Uplay, Battle.net, and other platforms.\r\n\r\nKinguin provides 24/7 customer service in 14 languages with an average response time of 20 minutes and with that, maintains the highest levels of customer satisfaction. With Kinguin it's all about the customer! \r\n\r\nKinguin has its own team of designers available also to create graphs and custom GIFs with cobranding (depending on the scope of the affiliate). In addition, we also perform creative actions and campaigns to increase the value of your website.\r\n\r\n\r\nThe advantages of working with the affiliate program:\r\n\r\n\r\n\tGEO: world wide\r\n\t30-day cookie duration\r\n\tAlways up-to-date product feeds and graphics\r\n\tRegular sales, promotions and new offers\r\n\r\n\r\nSatisfied customers all over the world\r\n\r\nBrand bidding is prohibited. Brand bidding includes generic or brand typos in the company and website names, any combinations of words with company and website names and use of the company logo. \r\n\r\nAny email or SMS promotion is prohibited.\r\n\r\nEffective immediately(8th October 2024), the promotion of discount codes that are not specifically assigned to your account is strictly prohibited.\r\nKinguin prohibits the use of browser plugins with promotional offers (both with discount coupons and cashback offers) directly on www.kinguin.net, on all Kingiun.net subdomains and all subpages.\r\nIt is forbidden to promote discount codes not provided by Kinguin to the publisher (personally or through an affiliate network) or fire browser extension automatically on Kinguin website. \r\nThe webmaster/publisher should immediately disable the option to automatically display Kinguin offers from the browser plug-in for users visiting the website www.kinguin.net.\r\n\r\nTo ensure compliance, please refer to the Current Promotions/Coupons tab in your affiliate account, where you will find the approved discount codes that you are authorized to promote. Any use of discount codes not provided to you directly by Kinguin is not permitted.\r\nFailure to comply with this rule may result in the cancellation of commissions for the affected promotions.\r\n\r\nThis includes the use of generic or brand typos in the company and website names, any combinations of words with our company and website names, or the unauthorized use of our company logo.\r\nUsing the keyword 'kinguin' in broad matches in any search campaign is also prohibited.\r\n\r\nStarting March 31st 2025 the following rules regarding Brand bidding are changed:\r\n\r\nKinguin prohibits the brand bidding activities, which includes generic or brand typos in the company and website names, any combinations of words with company and website names and use of the company logo. If you have any SEM related campaigns, please immediately disable them. As a result of non-compliance, the publisher may be disconnected from the Kinguin.net Affiliate Program",
-    "status": "active",
+    "name": "Kinguin WW",
+    "img": "platform/24298.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/11/22/24298-3ef7b8d5ffac24b0.png",
     "categories": [
       {
@@ -149,7 +143,18 @@
         }
       }
     ],
-    "img": "platform/24298.png",
+    "id": 24298,
+    "category": {
+      "name": "Game Stores and Services",
+      "id": 214,
+      "language": "en",
+      "parent": {
+        "name": "Online Games",
+        "id": 6,
+        "language": "en",
+        "parent": null
+      }
+    },
     "affiliate": {
       "goto_link": "https://ficca2021.com/g/ai7w5urbci5af0702a2773f469699a/",
       "landings": [
@@ -210,26 +215,12 @@
         }
       ],
       "cashback_link_data": null
-    },
-    "category": {
-      "name": "Game Stores and Services",
-      "id": 214,
-      "language": "en",
-      "parent": {
-        "name": "Online Games",
-        "id": 6,
-        "language": "en",
-        "parent": null
-      }
     }
   },
   {
-    "id": 26403,
-    "name": "GabeStore [CPS]  RU + CIS",
-    "name_aliases": "GabeStore, Gabe Store, пфиуыещку, пфиу ыещку, гейбстор, габесторе, Gabestor, gabstore",
     "site_url": "https://gabestore.ru/",
-    "description": "Apply to new affiliate program GabeStore [CPS]  RU + CIS!\r\n\r\nGabeStore.ru - we help gamers save money!\r\n\r\nAn online store that offers a large assortment of licensed games and activation keys for Steam, Origin and Uplay at the lowest prices.\r\n\r\nHere you will find a large selection of online computer games, including new products from the gaming market.\r\n\r\nAlways low prices, round-the-clock technical support and instant key delivery.",
-    "status": "active",
+    "name": "GabeStore [CPS]  RU + CIS",
+    "img": "platform/26403.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/12/27/26403-d84a23c1c5e61621.png",
     "categories": [
       {
@@ -250,12 +241,7 @@
         }
       }
     ],
-    "img": "platform/26403.png",
-    "affiliate": {
-      "goto_link": "https://codeaven.com/g/om6s6jfc505af0702a27215ab801b9/?erid=2bL9aMPo2e49hMef4peVT3sy3u",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 26403,
     "category": {
       "name": "Game Stores and Services",
       "id": 214,
@@ -266,15 +252,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://codeaven.com/g/om6s6jfc505af0702a27215ab801b9/?erid=2bL9aMPo2e49hMef4peVT3sy3u",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 29704,
-    "name": "GamersBase [CPS] Many GEOs",
-    "name_aliases": "GamersBase, Gamers Base, GamersBase ru, ГеймерсБэйс, Геймерс Бэйс, ГеймерсБэйс.ru, ПфьукыИфыу.кг",
     "site_url": "https://gamersbase.store/",
-    "description": "Join the GamersBase affiliate program!\r\n\r\nThe store offers popular and enjoyable bestsellers, a selection of games represented by thousands of popular titles from dozens of the best PC, Mac and Xbox game makers.\r\n\r\nWe are no strangers to the business of selling game keys online. Years of experience in this market enable us to make the service extremely convenient and the purchasing process incredibly easy and enjoyable.\r\n\r\nStill doubting that you can buy quality video games from a video game store online? Try it and you will surely like it!\r\n\r\nAdvantages for our customers:\r\n- GamersBase online game store guarantees the quality of each product sold;\r\n- Games on PC are 100% genuine (GamersBase cooperates with the leading game publishers in the world);\r\n- We guarantee a full refund or a free replacement if the key you purchased is not working;\r\n- Round-the-clock support. Reachable online or via a form on our website.",
-    "status": "active",
+    "name": "GamersBase [CPS] Many GEOs",
+    "img": "platform/29704.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/12/29/29704-e837bd16d7ecce3b.svg",
     "categories": [
       {
@@ -295,12 +283,7 @@
         "parent": null
       }
     ],
-    "img": "platform/29704.svg",
-    "affiliate": {
-      "goto_link": "https://lsuix.com/g/nzstwno2sa5af0702a27b0de1ddd64/?erid=2bL9aMPo2e49hMef4pfVDVxtYh",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 29704,
     "category": {
       "name": "Game Stores and Services",
       "id": 214,
@@ -311,15 +294,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://lsuix.com/g/nzstwno2sa5af0702a27b0de1ddd64/?erid=2bL9aMPo2e49hMef4pfVDVxtYh",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 39232,
-    "name": "Steamgold [CPS] RU",
-    "name_aliases": "Steamgold, Стимголд",
     "site_url": "https://steamgold.ru/",
-    "description": "Подключайтесь к партнерской программе Steamgold [CPS] RU!\r\n\r\nСтили проекта для акционных материалов\r\nАктуальные баннеры\r\nБаннеры для осенней распродажи Steam 2025\r\nЗимняя распродажа 2025\r\n\r\n\r\nСтимголд — надежный партнер для цифровых товаров, особенно когда дело доходит до пополнения аккаунта в Стиме. Мы знаем, как важно иметь достаточно средств для покупки желаемых игр и дополнений, поэтому наша команда всегда готова помочь.\r\n\r\nНаши услуги предоставляют пользователям возможность легко и безопасно пополнить свои аккаунты в Стиме. Мы гарантируем мгновенное пополнение, так что вы можете начать играть в новую игру или использовать дополнение немедленно после покупки.\r\n\r\nСтимголд обеспечивает высокий уровень безопасности, поскольку все операции проходят через защищенные серверы. Ваша конфиденциальность и безопасность — наш приоритет. Мы предлагаем конкурентные цены и широкий спектр опций платежа, что делает нас удобным и доступным решением для всех пользователей Стима.\r\n\r\nВ программе также заведены лэндинги, ведущие на страницы пополнения игр и сервисов*:\r\n\r\n\r\n\tBattle.net\r\n\tPlaystation Network\r\n\tXbox\r\n\tApex Legends\r\n\tFree Fire\r\n\tGenshin Impact\r\n\tGoddess of Victory: Nikke\r\n\tHonkai: Star Rail\r\n\tHonor of Kings\r\n\tMinecraft\r\n\tPUBG Mobile\r\n\tRoblox\r\n\tValorant\r\n\tZenless Zone Zero\r\n\r\n\r\nСтимголд — ваши надежные руки в мире цифровых товаров. Мы здесь, чтобы помочь вам получить максимальное удовольствие от вашего игрового опыта в Стиме. Присоединяйтесь к нам и убедитесь в этом самостоятельно!\r\n\r\nСтили проекта и исходники для материалов\r\n\r\nВсе актуальные новости в нашем Telegram-канале Admitad | Games!",
-    "status": "active",
+    "name": "Steamgold [CPS] RU",
+    "img": "platform/39232.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/10/20/39232-03d0fd4424f1a26b.svg",
     "categories": [
       {
@@ -340,7 +325,18 @@
         }
       }
     ],
-    "img": "platform/39232.svg",
+    "id": 39232,
+    "category": {
+      "name": "Game Stores and Services",
+      "id": 214,
+      "language": "en",
+      "parent": {
+        "name": "Online Games",
+        "id": 6,
+        "language": "en",
+        "parent": null
+      }
+    },
     "affiliate": {
       "goto_link": "https://dorinebeaumont.com/g/btdvcjk5wi5af0702a276e4ff1910f/?erid=2bL9aMPo2e49hMef4pfzfRDCrs",
       "landings": [
@@ -416,26 +412,12 @@
         }
       ],
       "cashback_link_data": null
-    },
-    "category": {
-      "name": "Game Stores and Services",
-      "id": 214,
-      "language": "en",
-      "parent": {
-        "name": "Online Games",
-        "id": 6,
-        "language": "en",
-        "parent": null
-      }
     }
   },
   {
-    "id": 42812,
-    "name": "Yuplay [CPS] WW",
-    "name_aliases": "yuplay, юплей, .gktq, нгздфн",
     "site_url": "https://www.yuplay.com/",
-    "description": "This Mitgame affiliate program is powered by the Admitad infrastructure.\r\n\r\nJoin Yuplay [CPS] WW Partnership Program\r\n\r\nBanners \r\n\r\nYuplay - Discover Top Deals on PC games for all platforms at our store.\r\n\r\nBecome our Partner and Start Making Money by promoting Yuplay products. Earn thousands of dollars/euros every single month!\r\n\r\nCurrencies: EUR, USD, GBP, GBP, CAD\r\n\r\nSocials:\r\nhttps://www.instagram.com/yuplay_com/\r\nhttps://twitter.com/YUPLAY_COM/\r\nhttps://www.facebook.com/yuplaystore/\r\nhttps://www.tiktok.com/@yuplay.com",
-    "status": "active",
+    "name": "Yuplay [CPS] WW",
+    "img": "platform/42812.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/10/13/42812-da853f437ef2d2ef.svg",
     "categories": [
       {
@@ -456,12 +438,7 @@
         }
       }
     ],
-    "img": "platform/42812.svg",
-    "affiliate": {
-      "goto_link": "https://dhwnh.com/g/07dloelw9o5af0702a27c5f0f33c6d/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 42812,
     "category": {
       "name": "Game Stores and Services",
       "id": 214,
@@ -472,15 +449,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://dhwnh.com/g/07dloelw9o5af0702a27c5f0f33c6d/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 96431,
-    "name": "Tulen.store [CPS] RU+CIS",
-    "name_aliases": "tulenstore, tulen'store, тюлень, тюлень стор, тюлень.стор, туленстор, егдут.ыещку, n.kty,/cnjh",
     "site_url": "https://tulen.store/",
-    "description": "Подключайтесь к партнерской программе - Tulen.store [CPS] RU+CIS!\r\n \r\n\r\n\r\nСервис для пополнения баланса в мобильных играх. Genshin Impact, Honkai Star Rail, Zenless Zone Zero и другие популярные мобильные проекты. Так же через сервис возможно пополнение Steam. Мы предоставляем нашим клиентам самые низкие цены и качественный сервис и гарантии качества и безопасности ваших аккаунтов!\r\n\r\nДля оперативного информирования об изменениях и новостях игровых офферов подписывайтесь на телеграм-канал Admitad Games! ",
-    "status": "active",
+    "name": "Tulen.store [CPS] RU+CIS",
+    "img": "platform/96431.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/9/96431-0470a876e7cfd54e.svg",
     "categories": [
       {
@@ -501,12 +480,7 @@
         }
       }
     ],
-    "img": "platform/96431.svg",
-    "affiliate": {
-      "goto_link": "https://kjuzv.com/g/zfmxl6zkte5af0702a2711c40b3a7f/?erid=2bL9aMPo2e49hMef4phUkDnXRf",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 96431,
     "category": {
       "name": "Game Stores and Services",
       "id": 214,
@@ -517,15 +491,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://kjuzv.com/g/zfmxl6zkte5af0702a2711c40b3a7f/?erid=2bL9aMPo2e49hMef4phUkDnXRf",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 102595,
-    "name": "Godlike.Host [CPS] WW",
-    "name_aliases": "godlike.host, godlike host, godlike",
     "site_url": "https://godlike.host/",
-    "description": " \r\n\r\nApply to affiliate program Godlike.Host [CPS] WW!\r\n\r\nGodlike offers high-quality server hosting for Minecraft and other games at an affordable price. Godlike uses the latest hardware and are praised for their high-performance servers and excellent customer service.\r\n\r\nGodlike host for game servers supports more than 30 popular games, as well as mods and plugins.\r\n\r\nTheir user-friendly custom control panel simplifies server management, allowing even novice users to set up and run servers within minutes.\r\n\r\n ",
-    "status": "active",
+    "name": "Godlike.Host [CPS] WW",
+    "img": "platform/102595.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/8/23/102595-b44949847cd14bc9.svg",
     "categories": [
       {
@@ -546,12 +522,7 @@
         }
       }
     ],
-    "img": "platform/102595.svg",
-    "affiliate": {
-      "goto_link": "https://kdbov.com/g/p38il09zxv5af0702a2752e08b5445/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 102595,
     "category": {
       "name": "Game Stores and Services",
       "id": 214,
@@ -562,15 +533,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://kdbov.com/g/p38il09zxv5af0702a2752e08b5445/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 102617,
-    "name": "ForceDrop [RevShare] WW",
-    "name_aliases": "ForceDrop.aap, ForceDrpo, Forcedrop, ащксувкщз",
     "site_url": "https://forcedrop.win",
-    "description": "This Mitgame affiliate program is powered by the Admitad infrastructure.\r\n\r\nApply to affiliate program ForceDrop WW!\r\n\r\nForceDrop - Best CS:GO opening site.\r\nGEO WW(except RU)",
-    "status": "active",
+    "name": "ForceDrop [RevShare] WW",
+    "img": "platform/102617.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/23/102617-4a4c742c4a216829.svg",
     "categories": [
       {
@@ -591,12 +564,7 @@
         }
       }
     ],
-    "img": "platform/102617.svg",
-    "affiliate": {
-      "goto_link": "https://hvjjg.com/g/wnb50tmumw5af0702a276897aa2720/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 102617,
     "category": {
       "name": "Game Stores and Services",
       "id": 214,
@@ -607,15 +575,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://hvjjg.com/g/wnb50tmumw5af0702a276897aa2720/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 103671,
-    "name": "CS2CASE [RevShare] WW",
-    "name_aliases": "CS2CASEIO, сы2сфыу, rc2rtqc, cs2",
     "site_url": "https://cs2case.win/",
-    "description": "CS2CASE.IO - Сайт для открытия кейсов CS, на сайте для пользователей представлено множество кейсов, а так же три режима (Кейсы/контракты/апгреиды)\r\n\r\nПокупкой считается депозит пользователя на сайт\r\nВидеокреативы\r\n\r\n\r\nДля оперативного информирования об изменениях и новостях игровых офферов подписывайтесь на телеграм-канал Admitad Games! ",
-    "status": "active",
+    "name": "CS2CASE [RevShare] WW",
+    "img": "platform/103671.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/3/103671-0fbd2d63825208e4.svg",
     "categories": [
       {
@@ -636,18 +606,7 @@
         "parent": null
       }
     ],
-    "img": "platform/103671.svg",
-    "affiliate": {
-      "goto_link": "https://sgkaa.com/g/u4m5udnhlt5af0702a274e1b76ac97/?erid=2bL9aMPo2e49hMef4phyrL2RNS",
-      "landings": [
-        {
-          "id": 27485,
-          "name": "DEP30",
-          "code": "c9bd8547d3"
-        }
-      ],
-      "cashback_link_data": null
-    },
+    "id": 103671,
     "category": {
       "name": "Game Stores and Services",
       "id": 214,
@@ -658,15 +617,23 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://sgkaa.com/g/u4m5udnhlt5af0702a274e1b76ac97/?erid=2bL9aMPo2e49hMef4phyrL2RNS",
+      "landings": [
+        {
+          "id": 27485,
+          "name": "DEP30",
+          "code": "c9bd8547d3"
+        }
+      ],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 103783,
-    "name": "GGSel.Net [CPS] RU",
-    "name_aliases": "GGSel.Net, GGSelNet, GGSel",
     "site_url": "https://ggsel.net",
-    "description": "Подключайтесь к партнерской программе GGSel.Net [CPS] RU!\r\nНовогодняя распродажа\r\nАктуальные ритейл-поводы\r\nАктуальные промокоды\r\nДействующие креативы\r\nДействующие креативы (альтернативная ссылка)\r\nБрендбук\r\nCсылка на УТП и минус-слова оффера\r\n\r\nGGSel — крупнейший маркетплейс цифровых товаров, успешно и активно развивающийся с 2017 года. У нас можно найти огромный выбор игр, сервисов и подписок, которые часто недоступны в России, причем по ценам, которые иногда выгоднее, чем у официальных дистрибьюторов. Также с помощью GGSel можно пополнить баланс таких платформ как Steam, PSN, Xbox, Nintendo и многих других сервисов.\r\n\r\nМаркетплейс объединяет сотни продавцов, предоставляя широкий ассортимент и конкурентные цены. GGSel заботится о безопасности каждой сделки, выступая гарантом честности и надежности. GGSel — надежный проводник в мир цифровых развлечений и товаров.\r\n\r\nПреимущества для веб-мастеров: \r\n\r\n\r\n\tконверсия в продажу CR 79%\r\n\tсамые высокие ставки на рынке до 9,1 %\r\n\tкороткий цикл сделки менее 1 дня!\r\n\tпроцент апрува заказов (AR) 92%\r\n\tбыстрый вывод денежных средств. \r\n\tпредоставляем креативы по запросу\r\n\r\n\r\nПреимущества для клиентов:\r\n\r\n\r\n\tвыгодные цены, в сравнении с коллегами по рынку \r\n\tлегкая оплата зарубежных сервисов, недоступных в России\r\n\tудобный сервис поддержки, мы всегда на связи с нашими клиентами\r\n\tбольшое комьюнити и честные отзывы\r\n\r\n\r\nВажно: На оффере запрещен контекст на бренд. Посмотрите минус-слова и типы трафика чтобы ваш канал не был заблокирован!\r\n\r\nДополнительные преимущества GGSel:\r\n\r\n\r\n\tБогатый ассортимент игр, программ обеспечения, подписок и других цифровых товаров, удовлетворяющая любые запросы покупателей.\r\n\tПостоянные обновления каталога новинками и популярными играми и сервисами.\r\n\tДоступ к эксклюзиву, а именно – возможность приобрести игры и пополнить сервисы, недоступные в России и других регионах.\r\n\tДоступность отзывов и рейтингов товаров и продавцов, что помогает сделать осознанный выбор.\r\n\tЧастые распродажи и скидки, аналогичные акциям на таких платформах, как Steam, Xbox, PS.\r\n\tИспользование безопасных протоколов для защиты данных и транзакций.\r\n\tБыстрая и легкая оплата с использованием различных методов (банковские карты, электронные кошельки, криптовалюты и т.д.).\r\n\tГарантии возврата денег в случае проблем с покупкой или товаром.\r\n\tБыстрая и отзывчивая служба поддержки, готовая помочь в любой ситуации.\r\n\tАктивное взаимодействие с сообществом с помощью активным соц. сетям и блогов на Pikabu, DTF, VC, что позволяет развивать лояльность и учитывать обратную связь от покупателей.\r\n\tМножество конкурсов – регулярное проведение глимов, розыгрышей, творческих конкурсов и других мероприятий для пользователей.\r\n\r\n\r\nПрисоединяйся к партнерской программе GGSel и получите первые конверсии уже сегодня!\r\n\r\nДля оперативного информирования об изменениях и новостях игровых офферов подписывайтесь на телеграм-канал Admitad Games!",
-    "status": "active",
+    "name": "GGSel.Net [CPS] RU",
+    "img": "platform/103783.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/9/103783-933fba75f899ce1d.svg",
     "categories": [
       {
@@ -687,7 +654,18 @@
         }
       }
     ],
-    "img": "platform/103783.svg",
+    "id": 103783,
+    "category": {
+      "name": "Game Stores and Services",
+      "id": 214,
+      "language": "en",
+      "parent": {
+        "name": "Online Games",
+        "id": 6,
+        "language": "en",
+        "parent": null
+      }
+    },
     "affiliate": {
       "goto_link": "https://xnmik.com/g/ngv70om7ow5af0702a27768e16fdce/?erid=2bL9aMPo2e49hMef4phyrMWkN2",
       "landings": [
@@ -723,26 +701,12 @@
         }
       ],
       "cashback_link_data": null
-    },
-    "category": {
-      "name": "Game Stores and Services",
-      "id": 214,
-      "language": "en",
-      "parent": {
-        "name": "Online Games",
-        "id": 6,
-        "language": "en",
-        "parent": null
-      }
     }
   },
   {
-    "id": 104401,
-    "name": "Difmark CPS WW",
-    "name_aliases": "Difmark, дифмарк, вшаьфкл, lbavfhr, игровая валюта, gaming currency",
     "site_url": "https://difmark.com",
-    "description": "This Mitgame affiliate program is powered by the Admitad infrastructure.\r\n\r\nOrders from Russia not accepted in the program\r\n\r\nApply to affiliate program Difmark WW!\r\n\r\nJoin the Difmark affiliate program and earn on the sale of games, accounts, game currency, etc. Difmark - is a store for video games, game currency, and game console and software accounts. We have a large selection of products and our assortment is constantly updated.\r\n\r\n\r\n\tWe are ready to share a percentage from each purchase\r\n\tWe have the best prices for games and other goods. We work with the whole world. We are most interested in the European and US markets.\r\n\r\n\r\nProgram creatives\r\n\r\nRules:  Brand bidding, generic or brand typos not allowed in Search campaigns. Incent traffic is prohibited.\r\n\r\n ",
-    "status": "active",
+    "name": "Difmark CPS WW",
+    "img": "platform/104401.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/8/104401-a3b316f1c4fb10a8.svg",
     "categories": [
       {
@@ -763,12 +727,7 @@
         }
       }
     ],
-    "img": "platform/104401.svg",
-    "affiliate": {
-      "goto_link": "https://xnmik.com/g/wawtom5ln05af0702a2739afa610e0/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 104401,
     "category": {
       "name": "Game Stores and Services",
       "id": 214,
@@ -779,15 +738,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://xnmik.com/g/wawtom5ln05af0702a2739afa610e0/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 113191,
-    "name": "Keycense [CPS] Many GEOs",
-    "name_aliases": "Keycense, keysence, key, keys, лунсутыу, луныутсу",
     "site_url": "https://keycense.com/",
-    "description": "Apply to affiliate program Keycense [CPS] Many GEOs!\r\n\r\nKeycense is an industry platform specializing in digital software products, gaming, operating systems, productivity software, anti-virus, and more.\r\n\r\nKeycense stands out in the digital retail scene, specialising in the selection of high-end digital gaming products.\r\n\r\nKeycense excels in digital retail, offering premium gaming products and striving to make video games accessible to everyone by removing economic and technical barriers. Our mission is to democratize gaming, ensuring every enthusiast can enjoy their passion, regardless of background or means.\r\n\r\nOne of the major benefits Keycense has to offer is the speed of service: orders are processed immediately, and all products are delivered via email within seconds from payment, along with clear instructions and download links.\r\n\r\n ",
-    "status": "active",
+    "name": "Keycense [CPS] Many GEOs",
+    "img": "platform/113191.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/2/17/113191-14599aea6e5f2982.svg",
     "categories": [
       {
@@ -808,12 +769,7 @@
         "parent": null
       }
     ],
-    "img": "platform/113191.svg",
-    "affiliate": {
-      "goto_link": "https://grfpr.com/g/m5f0y6qe4x5af0702a275fef375e5b/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 113191,
     "category": {
       "name": "Game Stores and Services",
       "id": 214,
@@ -824,15 +780,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://grfpr.com/g/m5f0y6qe4x5af0702a275fef375e5b/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 121766,
-    "name": "Apex Affiliate Program AE GB NZ US",
-    "name_aliases": "apex. ape",
     "site_url": "https://apexminecrafthosting.com",
-    "description": "Apex Hosting is a trusted name in the Minecraft server hosting industry, offering premium services to gamers around the world for many years. With 99.9% uptime, high-performance hardware, and an easy-to-use control panel, Apex ensures that players get the best possible experience. See our testimonials.\r\n\r\nOur affiliate program is designed to reward partners with 15% recurring commission, meaning you earn every month as long as your referrals continue using our services. There’s no limit to how much you can earn, and we provide marketing resources to help you succeed.\r\n\r\nKey Affiliate Benefits:\r\n\r\n✔ 15% recurring commission on all referred customers.\r\n\r\n✔ Long Cookie Duration – Get credited for referrals even if they sign up within 30 days.\r\n\r\n✔ Real-Time Tracking – Monitor your earnings and conversions.\r\n\r\n✔ Dedicated Affiliate Support – Need help? Our team is here to assist.\r\n\r\nApex Minecraft Hosting is the go-to choice for gamers, and as an affiliate, you’ll be promoting a service that users love and trust.",
-    "status": "active",
+    "name": "Apex Affiliate Program AE GB NZ US",
+    "img": "platform/121766.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/3/31/121766-4c7493002a48f112.svg",
     "categories": [
       {
@@ -859,12 +817,7 @@
         "parent": null
       }
     ],
-    "img": "platform/121766.svg",
-    "affiliate": {
-      "goto_link": "https://rcpsj.com/g/p48hy6kapo5af0702a27d4f1f605b0/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 121766,
     "category": {
       "name": "Game Stores and Services",
       "id": 214,
@@ -875,15 +828,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://rcpsj.com/g/p48hy6kapo5af0702a27d4f1f605b0/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 130916,
-    "name": "GGDrop.com [CPS] Many GEOs",
-    "name_aliases": "ggdrop, gdrop, drop, csgo, cs;go, cs2, counter strike, cases, drop, skins, ксго, ппвкщз, кейсы",
     "site_url": "https://ggdrop.com",
-    "description": "Join GGDrop.com [CPS] Many GEOs affiliate campaign!\r\n \r\n\r\nGGDrop is an online case‑opening platform focused on CS:GO and CS2 skins. Launched in 2018 and operated it offers multiple game modes such as case openings, upgrades, contracts, and case battles. Players choose from themed cases containing items from a few cents up to hundreds of USD.\r\n\r\nAdditional modes include:\r\n\r\n\r\n\tUpgrade system: trade low-tier skins for a chance at higher-tier items\r\n\tContracts: combine skins to generate potentially higher-value items\r\n\tCase battle: multiplayer formats like 1v1 up to 1v1v1v1 competitions\r\n\r\n\r\nDeposits accepted via: credit cards, gift cards, e-wallets, and cryptocurrencies (BTC, ETH, USDT, TRX).\r\nIn some locales skins can be used as currency\r\n\r\nPlayer promotions include:\r\n\r\n\r\n\tFirst deposit bonus (e.g. +11% with promo codes)\r\n\tDaily free spins, bonus wheel features\r\n\tRank-based and loyalty rewards\r\n\r\n\r\nTarget Audience - Male, 16+, counter strike, computer games lovers\r\nCR: 8.83%\r\nEPC: 0.26$",
-    "status": "active",
+    "name": "GGDrop.com [CPS] Many GEOs",
+    "img": "platform/130916.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/7/21/130916-fd959b6de25ad3bb.svg",
     "categories": [
       {
@@ -904,12 +859,7 @@
         }
       }
     ],
-    "img": "platform/130916.svg",
-    "affiliate": {
-      "goto_link": "https://hvjjg.com/g/gqjbq6vo2h5af0702a27397798fb2a/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 130916,
     "category": {
       "name": "Game Stores and Services",
       "id": 214,
@@ -920,15 +870,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://hvjjg.com/g/gqjbq6vo2h5af0702a27397798fb2a/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 144693,
-    "name": "Gameboost WW",
-    "name_aliases": "gamebust, gamebost, game",
     "site_url": "https://gameboost.com/",
-    "description": "This Mitgame affiliate program is powered by the Admitad infrastructure.\r\n\r\n\r\nJoin the affiliate program Gameboost WW!\r\n \r\n\r\nBanners\r\n\r\nGameboost.com is a leading marketplace for video games, distributed as digital activation codes. Our mission is to connect suppliers from across the globe to deliver the best possible offers to our customers. Gameboost is based in the European Union, ensuring a secure environment for both customers and merchants. Our 24/7 Customer Support Team, comprised of highly experienced members, is dedicated to ensuring complete customer satisfaction.\r\n\r\nAs an online service, Gameboost offers games, digital goods, and hardware dedicated to gamers. The platform was established to create a trusted space where suppliers and customers can connect for the best deals, high-quality stock, and a seamless user experience.\r\n\r\nServices offered by Gameboost:\r\n\r\nData Protection: As buying and selling are at the heart of our platform, Gameboost prioritizes the safety of all transactions. Every transaction is closely monitored, verified, and analyzed to ensure security.\r\n\r\nEuropean Union Operations: Gameboost is registered and operates under the laws of the European Union. We strictly adhere to all official directives and regulations within the EU jurisdiction, guaranteeing a compliant and reliable service.\r\n\r\nCustomer Protection Program: Every purchase on Gameboost is backed by our outstanding Customer Support Team, ensuring that all customers are fully protected and supported throughout their shopping journey.",
-    "status": "active",
+    "name": "Gameboost WW",
+    "img": "platform/144693.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/10/22/144693-01b899cf139a51e2.svg",
     "categories": [
       {
@@ -949,12 +901,7 @@
         "parent": null
       }
     ],
-    "img": "platform/144693.svg",
-    "affiliate": {
-      "goto_link": "https://xmknb.com/g/rg6cdc51vu5af0702a27904614434c/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 144693,
     "category": {
       "name": "Game Stores and Services",
       "id": 214,
@@ -965,6 +912,11 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://xmknb.com/g/rg6cdc51vu5af0702a27904614434c/",
+      "landings": [],
+      "cashback_link_data": null
     }
   }
 ]

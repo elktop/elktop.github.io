@@ -1,12 +1,9 @@
 {
   "data": [
     {
-      "id": 146098,
-      "name": "Bag Republic UA",
-      "name_aliases": "Bag Republic, Bag",
       "site_url": "https://bagrepublic.com.ua/",
-      "description": "Bag Republic UA пропонує широкий асортимент стильних та якісних сумок і аксесуарів для щоденного використання та подорожей. Партнери отримують можливість заробляти на продажах жіночих та чоловічих сумок, рюкзаків, гаманців, ременів та валіз.\r\n\r\nАсортимент на сайті:\r\n\r\n\r\n\tЖіночі сумки\r\n\tЧоловічі сумки\r\n\tРюкзаки\r\n\tГаманці\r\n\tРемені\r\n\tВалізи\r\n\r\n\r\nПереваги для партнерів:\r\n\r\n\r\n\tКонкурентні комісійні ставки\r\n\tВеликий вибір товарів для різних аудиторій\r\n\tЗручні промо-матеріали та посилання\r\n\tПостійне оновлення асортименту\r\n\r\n\r\nЦільова аудиторія:\r\nЧоловіки та жінки, які цінують стиль, якість та зручність, а також ті, хто часто подорожує.",
-      "status": "active",
+      "name": "Bag Republic UA",
+      "img": "platform/146098.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2025/11/27/146098-3aad5caa896c7a45.svg",
       "categories": [
         {
@@ -27,12 +24,7 @@
           }
         }
       ],
-      "img": "platform/146098.svg",
-      "affiliate": {
-        "goto_link": "https://heqgr.com/g/g8nq05ksew5af0702a273a04f8e3b6/",
-        "landings": [],
-        "cashback_link_data": null
-      },
+      "id": 146098,
       "category": {
         "name": "Clothing, Footwear, Accessories",
         "id": 64,
@@ -43,15 +35,17 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://heqgr.com/g/g8nq05ksew5af0702a273a04f8e3b6/",
+        "landings": [],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 146175,
-      "name": "The Park [CPS] IN",
-      "name_aliases": "Park Hotel, Theparkhotel, Thepark",
       "site_url": "https://www.theparkhotels.com/",
-      "description": "Company Description: THE Park, pioneers of luxury boutique hotels for 50 years, is present in India's major cities and tourist destinations. Each hotel is unique, a distinctive interpretation of contemporary India that gives guests an experience that is Anything But Ordinary. Situated in prime locations, they house some of India's most happening nightclubs, liveliest bars and inventive restaurants.The Park is also home to the Aura Spa, a much-vaunted rejuvenation venue. Paintings, sculptures and installations adorn rooms and corridors, and the deisgn driven aesthetic can be felt across the hotels. Along with constant product and service innovation, the Group also focuses on relevant social issues and nurtures art and culture in each region. They respect the environment and take significant steps to protect it.\r\n\r\nThe Park Hotels is managed by the family-owned Apeejay Surrendra Group. Established in 1910, The Apeejay Surrendra Group has its foundations in steel. Its current activities include shipping, tea, retail, real estate and construction, hospitality and finance.\r\n\r\nTarget Geo : PAN India",
-      "status": "active",
+      "name": "The Park [CPS] IN",
+      "img": "platform/146175.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2025/10/30/146175-63f694270f35ffad.svg",
       "categories": [
         {
@@ -72,12 +66,7 @@
           }
         }
       ],
-      "img": "platform/146175.svg",
-      "affiliate": {
-        "goto_link": "https://tjzuh.com/g/1x71f09qze5af0702a270c9057a180/",
-        "landings": [],
-        "cashback_link_data": null
-      },
+      "id": 146175,
       "category": {
         "name": "Hotels",
         "id": 41,
@@ -88,15 +77,17 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://tjzuh.com/g/1x71f09qze5af0702a270c9057a180/",
+        "landings": [],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 146430,
-      "name": "Oberoi Hotels [CPS] IN",
-      "name_aliases": "Oberoes , Oberoy , Obaroi",
       "site_url": "https://www.oberoihotels.com/",
-      "description": "Company Description: Introducing the Oberoi Hotels and Resorts Affiliate Program to all publishers. This is a global luxury hotel company operating in 5 exotic destinations: India, Indonesia, Mauritius, Dubai and Egypt.\r\n\r\nOberoi Hotels & Resorts has been voted World's Best Hotel Brand for the second consecutive year by the readers of ‘Travel + Leisure in 2016 World's Best Awards’. They have established a reputation for redefining the paradigm of luxury and excellence in service amongst leisure hotels around the world. By promoting this program you are ensuring a great source of revenue!\r\n\r\nTarget Geo : PAN India\r\n\r\nKey Selling Points of Oberoi Hotels and Resorts Affiliate Program:\r\n\r\n\r\n\tGood commission percentage on each validated sale.\r\n\tProvide your users with a unique Luxury product.\r\n\tAccess to a dedicated team to help you boost your revenue.\r\n\tLocated at the most picturesque destinations.\r\n",
-      "status": "active",
+      "name": "Oberoi Hotels [CPS] IN",
+      "img": "platform/146430.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2025/11/4/146430-5e469ec24f7d8e21.svg",
       "categories": [
         {
@@ -117,12 +108,7 @@
           "parent": null
         }
       ],
-      "img": "platform/146430.svg",
-      "affiliate": {
-        "goto_link": "https://tjzuh.com/g/xz7iftha3y5af0702a27c0120d7ba4/",
-        "landings": [],
-        "cashback_link_data": null
-      },
+      "id": 146430,
       "category": {
         "name": "Hotels",
         "id": 41,
@@ -133,15 +119,17 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://tjzuh.com/g/xz7iftha3y5af0702a27c0120d7ba4/",
+        "landings": [],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 146567,
-      "name": "Jupiter Money [ Android , CPA ] IN",
-      "name_aliases": "JUPITER MONI",
       "site_url": "https://jupiter.money/",
-      "description": "Brief Description\r\nJupiter is a digital-first banking platform built to deliver a modern, intuitive banking experience tailored especially for young professionals and digitally savvy users. It combines financial tools, simple design, and convenience to help users manage their money smarter and with minimal friction.\r\n\r\nCampaign Description\r\nThe campaign focuses on driving high-quality app installs and active user engagement by highlighting Jupiter’s effortless money management features.\r\n\r\nTarget Geo\r\nMore than 3000 pincodes covered pan-India, with complete pincode details available in the campaign brief.",
-      "status": "active",
+      "name": "Jupiter Money [ Android , CPA ] IN",
+      "img": "platform/146567.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2025/11/7/146567-c2a7d5cb27d0dbf1.svg",
       "categories": [
         {
@@ -162,12 +150,7 @@
           "parent": null
         }
       ],
-      "img": "platform/146567.svg",
-      "affiliate": {
-        "goto_link": "https://tjzuh.com/g/umgkrpoyr05af0702a2743b3f6f332/",
-        "landings": [],
-        "cashback_link_data": null
-      },
+      "id": 146567,
       "category": {
         "name": "Credit Cards",
         "id": 10,
@@ -178,15 +161,17 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://tjzuh.com/g/umgkrpoyr05af0702a2743b3f6f332/",
+        "landings": [],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 147512,
-      "name": "TikTok Lite [Android, CPI/CPA] BR",
-      "name_aliases": "tiktok, tik, took, Tiktok, tiiik, tikokot",
       "site_url": "https://www.tiktok.com/",
-      "description": "TikTok Lite BR\r\n\r\nBenefits for Customers\r\n\r\n\r\n\tFabulous content: Watch millions of videos selected specifically for you. TikTok Lite adapts to your tastes to keep you entertained with interesting content every day.\r\n\tTime-limited activity: Designed specifically for TikTok Lite users to complete challenging tasks and earn great rewards.\r\n\tImmersed experience: No e-commerce, the purest and fastest viewing experience, focusing only on what you intend to see.\r\n\tData Saver: Save up to 20% on data usage.\r\n\tSmaller App Size: Only 13MB, perfect for devices with limited storage.\r\n\tLower Data Usage: Optimized to consume less data, ideal for users with limited traffic or unstable network connections.\r\n\tBetter Compatibility: Works on a wide range of devices, including older models or those with lower specifications.\r\n\tReduced Load Times: Streamlined design and fewer features offer faster load times, enhancing the overall experience.\r\n\r\n\r\nTarget Audience Profile\r\n\r\n\r\n\tGender: Both female and male\r\n\tAge Range: 18–60 years old\r\n\tIncome Level: All\r\n\tOccupation: All\r\n\tMarital Status: All\r\n\tOther Criteria: Users interested in entertainment, short-form video content, and social media engagement\r\n\r\n\r\nBrand Positioning Guidelines\r\n\r\n\r\n\tPublishers should highlight:\r\n\tQuality content: Emphasize the personalized, engaging video experience\r\n\tApp performance: Lightweight, fast-loading, low data consumption\r\n\tUser benefits: Time-limited challenges, rewards, immersive experience\r\n\tRecommended phrases: “Fabulous content,” “Data Saver,” “Immersed experience,” “Smaller App Size,” “Optimized for all devices”\r\n\r\n\r\nCreative Approval\r\n\r\n\r\n\tYes, only if publishers are creating video content on social media\r\n\r\n\r\nAdditional Rules or Restrictions\r\n\r\n\r\n\tAvoid inappropriate content, including sexual imagery, revealing clothing, violence, profanity, firearms (real or simulated), alcohol, tobacco, gambling, and politically or religiously sensitive topics.\r\n\tUse the correct brand name: Always write TikTok Lite correctly (e.g., avoid \"tiktok Lite,\" \"Tiktok Lite,\" etc.).\r\n\tDo not compare TikTok and TikTok Lite negatively: Avoid discrediting TikTok to promote TikTok Lite.\r\n\tFollow the TikTok Community Guidelines when creating promotional content.\r\n",
-      "status": "active",
+      "name": "TikTok Lite [Android, CPI/CPA] BR",
+      "img": "platform/147512.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2025/11/27/147512-5988b7c91891a520.svg",
       "categories": [
         {
@@ -207,12 +192,7 @@
           "parent": null
         }
       ],
-      "img": "platform/147512.svg",
-      "affiliate": {
-        "goto_link": "https://sgkaa.com/g/4811p4g2og5af0702a2701ff74d73d/",
-        "landings": [],
-        "cashback_link_data": null
-      },
+      "id": 147512,
       "category": {
         "name": "Other Services",
         "id": 93,
@@ -223,15 +203,17 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://sgkaa.com/g/4811p4g2og5af0702a2701ff74d73d/",
+        "landings": [],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 149085,
-      "name": "GIA KARSKO EU",
-      "name_aliases": "GIA KARSKO, gia, KARSKO",
       "site_url": "https://giakarsko.com/",
-      "description": "Partner with GIA KARSKO – Authenticated Luxury for Your Audience\r\n\r\nGIA KARSKO is a trusted destination for authenticated, pre-loved luxury designer handbags. Our curated selection includes iconic brands such as Hermès, Chanel, Louis Vuitton, and more—bringing premium, high-value products that appeal to luxury shoppers.\r\n\r\nAffiliate Benefits\r\n\r\n\r\n\tCompetitive commissions with no payout below €100\r\n\t30-day cookie window for maximized conversions\r\n\tHigh average order value of around €1,000+\r\n\tDedicated affiliate support and guidance\r\n\tProfessional marketing creatives and product imagery\r\n\tReal-time tracking and monthly payouts\r\n\tCustom-built Landing Pages for Affiliates\r\n\r\n\r\nJoin a program built on trust, authenticity, and shared success. Promote GIA KARSKO and offer your audience timeless luxury with exceptional earning potential.\r\n\r\nWebsite:  https://giakarsko.com/ ",
-      "status": "active",
+      "name": "GIA KARSKO EU",
+      "img": "platform/149085.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2025/12/10/149085-817027590ed702f9.svg",
       "categories": [
         {
@@ -252,7 +234,18 @@
           }
         }
       ],
-      "img": "platform/149085.svg",
+      "id": 149085,
+      "category": {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
       "affiliate": {
         "goto_link": "https://ypetp.com/g/x9v9fme9zq5af0702a272e05f7a992/",
         "landings": [
@@ -288,26 +281,12 @@
           }
         ],
         "cashback_link_data": null
-      },
-      "category": {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
       }
     },
     {
-      "id": 158440,
-      "name": "Lifestyle Web [CPS] IN",
-      "name_aliases": "Live styke , Live style",
       "site_url": "https://lifestylestore.com",
-      "description": "Brand Description\r\n\r\nLifestyle Stores is a one-stop digital destination for modern living, offering a curated selection of fashion, beauty, home, and lifestyle essentials. Designed for style-conscious consumers, the brand brings together trend-led designs, quality products, and accessible pricing—all in one seamless online experience.\r\n\r\nCampaign Description : This is a Web Based CPS Campaign . \r\n\r\nTarget Geo :Pan India ",
-      "status": "active",
+      "name": "Lifestyle Web [CPS] IN",
+      "img": "platform/158440.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2025/12/16/158440-2d93d9a16766811e.svg",
       "categories": [
         {
@@ -328,12 +307,7 @@
           "parent": null
         }
       ],
-      "img": "platform/158440.svg",
-      "affiliate": {
-        "goto_link": "https://tjzuh.com/g/xjyf9hlt0t5af0702a27fb440ec775/",
-        "landings": [],
-        "cashback_link_data": null
-      },
+      "id": 158440,
       "category": {
         "name": "Clothing, Footwear, Accessories",
         "id": 64,
@@ -344,15 +318,17 @@
           "language": "en",
           "parent": null
         }
+      },
+      "affiliate": {
+        "goto_link": "https://tjzuh.com/g/xjyf9hlt0t5af0702a27fb440ec775/",
+        "landings": [],
+        "cashback_link_data": null
       }
     },
     {
-      "id": 159043,
-      "name": "Meshnology - Meshtastic & LoRa Hardware Specialist",
-      "name_aliases": "Meshnology,Heltec, Meshtastic Power Bank, LoRa Nodes",
       "site_url": "https://meshnology.com/",
-      "description": "Meshnology is a fast-growing global cross-border e-commerce brand focused on Internet of Things (IoT) hardware and open-source technology products for makers, engineers, and tech enthusiasts. Our catalog includes LoRa and Meshtastic development boards and kits, high-capacity LiPo batteries, antennas, and accessory modules designed for IoT, DIY electronics, and long-range wireless communication.\r\n\r\nBy joining our affiliate program, partners worldwide can promote our products using unique coupons and earn commissions on real sales. We support creators, coupon sites, and content publishers with competitive commissions, flexible coupon incentives, and performance-based payouts. Meshnology delivers high-quality tech products that empower makers and innovators globally.",
-      "status": "active",
+      "name": "Meshnology - Meshtastic & LoRa Hardware Specialist",
+      "img": "platform/159043.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2025/12/26/159043-e33945248d4da33c.svg",
       "categories": [
         {
@@ -384,7 +360,18 @@
           }
         }
       ],
-      "img": "platform/159043.svg",
+      "id": 159043,
+      "category": {
+        "name": "Hand & Power tools",
+        "id": 102,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
       "affiliate": {
         "goto_link": "https://tywhh.com/g/97h026mnpx5af0702a27e95c5fd652/",
         "landings": [
@@ -400,17 +387,6 @@
           }
         ],
         "cashback_link_data": null
-      },
-      "category": {
-        "name": "Hand & Power tools",
-        "id": 102,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
       }
     }
   ],

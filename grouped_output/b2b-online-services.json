@@ -1,11 +1,8 @@
 [
   {
-    "id": 7489,
-    "name": "REG.RU",
-    "name_aliases": "регру, рег.ру, reg, regru, htuhe",
     "site_url": "https://www.reg.ru/",
-    "description": "ООО «РЕГ.РУ» — один из крупнейших аккредитованных регистраторов доменных имен в Европе, который осуществляет свою деятельность по обслуживанию доменных имен с 2006 года.\r\n\r\nЛучше всего качество работы компании отражают цифры: на обслуживании у REG.RU более 3 000 000 доменов (по данным статистического ресурса StatOnline.ru), каждый второй домен в России регистрируется в REG.RU, общее число оказанных услуг за 13 лет достигло 34 млн, а количество клиентов насчитывает более 1.9 млн. Клиенты могут зарегистрировать домены в более чем 750 международных и национальных доменных зонах. \r\n\r\nREG.RU — это, в первую очередь, постоянно растущая команда профессионалов, которая всегда готова помочь в создании, обслуживании и продвижении сайтов. \r\n\r\nВ партнерской программе Reg.ru вознаграждение не выплачивается за продление действующих услуг и покупку домена стоимостью ниже 119 рублей.\r\n\r\nЗапрещено использовать формулировки: \"Крупнейший хостинг-провайдер и регистратор REG.RU\" / \"Хостинг-провайдер и регистратор №1\". Просьба использовать следующую формулировку: \"Хостинг-провайдер и регистратор REG.RU\"\r\n\r\n* минимальная сумма одной позиции услуги в заказе 399 руб.\r\n\r\n** минимальная сумма одной позиции услуги в заказе 3999 руб.\r\n\r\n*** минимальная сумма одной позиции услуги в заказе 290 руб.\r\n\r\n**** минимальная сумма одной позиции услуги в заказе 119 руб.\r\n\r\n \r\n\r\nПри наличии в одном заказе услуг разных категорий будет выплачено вознаграждение за каждую из них.\r\n\r\nВознаграждение выплачивается только за категорию услуги и не зависит от количества услуг одной категории в заказе. Например, если в заказе 2 домена и хостинг, то будет выплачено вознаграждение за регистрацию домена и за хостинг.\r\n\r\nЗа продление действующих услуг вознаграждение не выплачивается.\r\n\r\nЗа оплату услуг по партнерским тарифам компании вознаграждение не выплачивается.\r\n\r\n \r\n\r\nДля вебмастеров:\r\n\r\n-Ручная сверка раз в месяц.\r\n\r\n-Модерация вебмастеров 2 раза в неделю.\r\n\r\n-Промокоды не выдаются\r\n\r\nДанные об ОРД. Код ККТУ: 6.1.1\r\n\r\n \r\n\r\n ",
-    "status": "active",
+    "name": "REG.RU",
+    "img": "platform/7489.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/9/8/7489-bcb8c8ef7d561a9c.png",
     "categories": [
       {
@@ -37,12 +34,7 @@
         }
       }
     ],
-    "img": "platform/7489.png",
-    "affiliate": {
-      "goto_link": "https://ewwhk.com/g/e2331e4edc5af0702a270d79a64861/?erid=F7NfYUJRWmqqH86kt8jj",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 7489,
     "category": {
       "name": "B2B Online Services",
       "id": 206,
@@ -53,15 +45,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://ewwhk.com/g/e2331e4edc5af0702a270d79a64861/?erid=F7NfYUJRWmqqH86kt8jj",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 27592,
-    "name": "Tapfiliate WW",
-    "name_aliases": "Tapfiliate",
     "site_url": "https://tapfiliate.com/?ref=admitadaffiliatenetwork13",
-    "description": "Unlock Your Earnings Potential with Tapfiliate! \r\n\r\nUnlock an opportunity to Earn substantial commissions by referring businesses to Tapfiliate, the all-in-one solution for affiliate, referral, and influencer marketing\r\n\r\n\r\nWhen your referred customer extends ANY of Tapfiliate’s monthly subscriptions into the second month, or when the 30-day money-back guarantee expires for the annual plan, cha-ching! \r\nTarget Audience: Global Domination!\r\nTapfiliate’s sweet spot? Tapfiliate caters to eCommerce and SaaS businesses worldwide that are looking to kickstart their affiliate programs. We make it effortless for businesses to create, track, and optimize their own affiliate, referral, and influencer marketing programs, all under one roof.\r\nSeamless Integration, Instant Sales Boost\r\nTapfiliate syncs seamlessly with multiple platforms. No waiting around—boost your sales from the get-go! Whether it’s referral marketing, affiliate programs, or influencer magic, we’ve got your back. \r\nWhy Choose Tapfiliate?\r\n\r\n\r\n\tNo Code, No Fuss: Setting up? Piece of cake! You don’t need a developer—just your brilliant self.\r\n\tAffiliate & Referral Galore: Options, options, options! Customize your program like a pro.\r\n\tInfluencer Magic: Track those social stars and watch your brand soar.\r\n\tBuilt-in Partner Recruitment: Because great partnerships start with a click.\r\n\tData-Driven Insights: Our reporting? As powerful as a lightning bolt.\r\n\r\n\r\nReady to start earning? Join the Tapfiliate affiliate program today! ",
-    "status": "active",
+    "name": "Tapfiliate WW",
+    "img": "platform/27592.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/10/24/27592-3626e152fd211043.png",
     "categories": [
       {
@@ -104,12 +98,7 @@
         }
       }
     ],
-    "img": "platform/27592.png",
-    "affiliate": {
-      "goto_link": "https://ad.admitad.com/g/1sp3lr5uzq5af0702a27ca80d6a593/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 27592,
     "category": {
       "name": "B2B Online Services",
       "id": 206,
@@ -120,15 +109,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://ad.admitad.com/g/1sp3lr5uzq5af0702a27ca80d6a593/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 29459,
-    "name": "Ostrovok.ru Командировки",
-    "name_aliases": "Ostrovok, Ostrovok.ru Командировки , Командировки , corp.ostrovok.ru, островок, островок и2и, островок b2b. щыекщмщл, щыекщмщл командировки",
     "site_url": "https://corp.ostrovok.ru/",
-    "description": "Ostrovok.ru Командировки — сервис для организации бизнес-поездок, с которым уже сотрудничают более 7000 компаний. После бесплатной регистрации корпоративные клиенты получают доступ к специальным B2B-тарифам и могут быстро и выгодно бронировать отели, ж/д и авиабилеты, трансферы и другие тревел-услуги.\r\n\r\n \r\n\r\nПравила программы\r\n\r\nВознаграждение  выплачивается веб-мастеру за верифицированную регистрацию нового пользователя на Ostrovok.ru Командировки. \r\n\r\nОплачиваются только те регистрации, которые проверил и подтвердил сейлз-менеджер. Для этого новый пользователь должен указать корректные реквизиты и контакты юридического лица\r\n \r\n\r\nПреимущества для веб-мастеров\r\n\r\n\r\n\tВысокая ставка\r\n\tСильный и узнаваемый бренд\r\n\r\n\r\nПреимущества для клиентов\r\n\r\n\r\n\tОтсутствие абонентской платы и скрытых сборов, сниженные тарифы на отели и другие тревел-услуги. Сотрудничество с Ostrovok.ru Командировки не требует дополнительных затрат — наоборот, помогает сократить расходы компании.\r\n\tБольшой выбор тревел-услуг — 1 700 000 отелей по всему миру, ж/д и авиабилеты, трансферы и аренда авто без водителя. Всё необходимое для поездки можно забронировать на одной платформе.\r\n\tНастраиваемые права доступа и тревел-политики — бронирование с учётом всех лимитов компании может оформить как тревел-менеджер, так и сам командированный сотрудник.\r\n\tРазные варианты оплаты — по счёту, личной или корпоративной картой, по платёжной ссылке, при заселении в отель.\r\n\tВозможность бронировать услуги для разных юридических лиц и работать в нескольких валютах в едином «Личном кабинете».\r\n\tДоступ к закрывающим документам в режиме реального времени, автоматическая выгрузка в 1С и другие системы учёта, электронный документооборот.\r\n\tПерсональный куратор и круглосуточная служба поддержки.\r\n\tМобильное приложение, в котором можно забронировать тревел-услуги, связаться с поддержкой или скачать ваучер в любое удобное время из любой точки мира.\r\n\r\n\r\n\r\nOstrovok.ru Командировки упрощают организацию деловых поездок на всех этапах и для всех сотрудников компании: от секретаря до генерального директора. Больше информации о целевой аудитории и преимуществах сервиса можно найти здесь: https://docs.google.com/spreadsheets/d/1AM2OzFnyvtW-T1ww4t1-NRSrJQE0juUN2PF6a_52tf8/edit#gid=0",
-    "status": "active",
+    "name": "Ostrovok.ru Командировки",
+    "img": "platform/29459.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/20/29459-d5e67e3e514dc6c5.png",
     "categories": [
       {
@@ -149,12 +140,7 @@
         "parent": null
       }
     ],
-    "img": "platform/29459.png",
-    "affiliate": {
-      "goto_link": "https://bywiola.com/g/4zdicls5se5af0702a2738badf34c3/?erid=2bL9aMPo2e49hMef4pfUzHWynz",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 29459,
     "category": {
       "name": "B2B Online Services",
       "id": 206,
@@ -165,15 +151,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://bywiola.com/g/4zdicls5se5af0702a2738badf34c3/?erid=2bL9aMPo2e49hMef4pfUzHWynz",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 31041,
-    "name": "Контур Эльба",
-    "name_aliases": "e-kontur.ru, СКБ Контур, e-rjyneh, cr, rjyneh, rjyneh,",
     "site_url": "https://e-kontur.ru/",
-    "description": "Контур разрабатывает сервисы, которые помогают бизнесу легко взаимодействовать с государством. Среди них есть решения для ЭДО, отчётности, кадров, безопасности и многого другого. \r\n\r\nС промокодом «Контур Эльба» вы сможете сэкономить при оплате выбранного продукта и выгодно присоединиться к миллиону пользователей по всей стране.\r\n\r\nЦелевая аудитория:\r\n\r\nИндивидуальные предприниматели и ООО на УСН и патенте. Эльба подходит небольшому бизнесу: магазинам, программистам, маркетологам, общепиту, кофейням, грузоперевозчикам и многим другим.\r\n\r\nПреимущества работы для партнеров \r\n\r\n- Высокий процент вознаграждений \r\n\r\n- Время жизни PostClick Cookie — 90 дней \r\n\r\n- Предоставление рекламных баннеров\r\n\r\nПреимущества для клиентов:\r\n\r\n\r\n\tЭльба готовит отчёты в налоговую и социальный фонд. Отправить их можно с помощью бесплатной электронной подписи.\r\n\tИнтеграция с популярными банками, чтобы операции по счетам появлялись автоматически.\r\n\tВсегда корректные платёжки с актуальными реквизитами.\r\n\tДокументы по сделкам в несколько кликов, контроль оплат от контрагентов.\r\n\tЛегко создавать кадровые документы и сдавать отчётность за сотрудников.\r\n\tМобильное приложение.\r\n\tКруглосуточная техподдержка в почте и чате.\r\n\r\n\r\nКак проходит сверка\r\n\r\nСверка проводится вручную в начале каждого месяца\r\n\r\nВыдача промокодов\r\n\r\nВ программе не предусмотрены промокоды\r\n\r\nИнформация про модерацию \r\n\r\nМодерация проводится оперативно, 3 раза в неделю\r\n\r\n ",
-    "status": "active",
+    "name": "Контур Эльба",
+    "img": "platform/31041.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/5/3/31041-8c8fad223b4d09ab.svg",
     "categories": [
       {
@@ -205,12 +193,7 @@
         }
       }
     ],
-    "img": "platform/31041.svg",
-    "affiliate": {
-      "goto_link": "https://thevospad.com/g/hu93dhazv25af0702a278fa0be494d/?erid=2bL9aMPo2e49hMef4pfVZ47RfU",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 31041,
     "category": {
       "name": "B2B Online Services",
       "id": 206,
@@ -221,15 +204,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://thevospad.com/g/hu93dhazv25af0702a278fa0be494d/?erid=2bL9aMPo2e49hMef4pfVZ47RfU",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 101317,
-    "name": "Unihost CPS WW",
-    "name_aliases": "Unihost, Юнитхост",
     "site_url": "https://unihost.com/",
-    "description": "Unihost offers top-tier Dedicated and VPS Server solutions tailored for any project, ensuring businesses across all industries and locations receive the best in performance, reliability, and support. We meet global needs with unmatched quality and competitive pricing.\r\n\r\nWho are our clients? Our clients are anyone launching or operating a website, from simple online stores to complex solutions requiring substantial power, such as Web3 projects, AI, and the crypto sector. Our service guarantees the best servers worldwide for any project.\r\n\r\nAdvantages:\r\n\r\n\r\n\t\r\n\tTop global servers for any project in one place\r\n\t\r\n\t\r\n\tCompetitive prices\r\n\t\r\n\t\r\n\tFlexible payment methods, including cryptocurrency\r\n\t\r\n\t\r\n\tHigh-class technical support\r\n\t\r\n\r\n\r\nPrimary niches:\r\n\r\n\r\n\t\r\n\tGaming: servers, development\r\n\t\r\n\t\r\n\tCrypto: Blockchain, Nodes, etc.\r\n\t\r\n\t\r\n\tE-commerce: online stores and marketplaces\r\n\t\r\n\t\r\n\tVideo Hosting: streaming platforms, IPTV, etc.\r\n\t\r\n\t\r\n\tSoftware development\r\n\t\r\n\t\r\n\tMarketing Agencies: hosting for agency clients\r\n\t\r\n\t\r\n\tSaaS services\r\n\t\r\n\t\r\n\tAnd more\r\n\t\r\n\r\n\r\nClient Geography: Worldwide, except for sanctioned countries: Russia (RU), Belarus (BY), Nepal (NP), Morocco (MA), Syria (SY), Iran (IR), Iraq (IQ), North Korea (KP), Afghanistan (AF), Eritrea (ER), Palestine (PS), Nigeria (NG), Niger (NE), Yemen (YE), Zimbabwe (ZW), Barbados (BB), Somalia (SO), Lebanon (LB), Libya (LY), Democratic Republic of the Congo (CD).\r\n\r\nKey Markets: US, EU, Ukraine\r\n\r\nCustomer Conversion Time: 1-7 days after the first visit.\r\n\r\nSpecial Conditions: Individual collaboration terms for successful webmaster\r\n\r\n ",
-    "status": "active",
+    "name": "Unihost CPS WW",
+    "img": "platform/101317.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/10/101317-385320afab749579.svg",
     "categories": [
       {
@@ -256,12 +241,7 @@
         "parent": null
       }
     ],
-    "img": "platform/101317.svg",
-    "affiliate": {
-      "goto_link": "https://yjfca.com/g/y0exdccc3y5af0702a27daf0306f13/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 101317,
     "category": {
       "name": "B2B Online Services",
       "id": 206,
@@ -272,15 +252,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://yjfca.com/g/y0exdccc3y5af0702a27daf0306f13/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 130818,
-    "name": "WLW B2B Directory Affiliate Program",
-    "name_aliases": "Wlw WW",
     "site_url": "https://www.wlw.de/",
-    "description": "wlw B2B Directory Affiliate Program – Drive High-Value B2B Leads\r\n\r\nJoin wlw’s affiliate program via Admitad and earn commissions for every verified purchaser request on wlw.de, Europe’s leading B2B marketplace. wlw connects businesses with over 3 million verified suppliers, across 45 countries, offering tools like multilingual search, and RFQ (Request for Quote).\r\n\r\n \r\n\r\nWhy Promote wlw?\r\n\r\n- High-Intent Audience: Target B2B buyers (procurement managers, business owners) actively sourcing suppliers.\r\n\r\n- Trusted Brand: wlw (wer liefert was) is an established platform with strong conversion potential for B2B transactions.\r\n\r\n- Diverse Industries: Top categories include industrial machinery, raw materials, logistics, IT services, and wholesale textiles.\r\n\r\n- Payouts: Earn for each verified lead (Direct Requests or Request for Quote), lead submitted are subjected to verification/confirmation from wlw to avoid spam/bots/fraudulent traffic.\r\n\r\n \r\n\r\nCTA: “Find Trusted Suppliers Now” / “Get B2B Quotes Today”",
-    "status": "active",
+    "name": "WLW B2B Directory Affiliate Program",
+    "img": "platform/130818.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/8/12/130818-815f443d1a6e74a8.svg",
     "categories": [
       {
@@ -307,7 +289,18 @@
         "parent": null
       }
     ],
-    "img": "platform/130818.svg",
+    "id": 130818,
+    "category": {
+      "name": "B2B Online Services",
+      "id": 206,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
     "affiliate": {
       "goto_link": "https://twnfz.com/g/rehq59fxmz5af0702a27b820caf9b6/",
       "landings": [
@@ -363,17 +356,6 @@
         }
       ],
       "cashback_link_data": null
-    },
-    "category": {
-      "name": "B2B Online Services",
-      "id": 206,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
     }
   }
 ]

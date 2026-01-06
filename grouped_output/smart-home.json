@@ -1,11 +1,8 @@
 [
   {
-    "id": 43382,
-    "name": "MYINDIA RU",
-    "name_aliases": "myindia, MYINDIA, vjz bylbz , моя индия, MYINDIA.RU",
     "site_url": "https://myindia.ru/",
-    "description": "MYINDIA.RU - крупнейший маркетплейс индийских товаров в Российской Федерации и странах СНГ, работает с 2018 года. Компания продуктивно сотрудничает с крупными YouTube-блогерами, которые знакомят аудиторию с MYINDIA.RU, что помогает приобрести новых клиентов. Маркетплейс доставляет напрямую из Индии пищевые аюрведические добавки, натуральные уходовые и ароматические средства, специи, сладости и другие продукты, декор и текстиль ручной работы, украшения и аксессуары, священную атрибутику, а также многое другое, включая товары мировых брендов.\r\n\r\nПортрет ЦА:\r\n\r\n\r\n\tПол: Женщины — 70,1%, Мужчины — 29,9%\r\n\tВозраст:\r\n\t25–34 — 16,4%\r\n\t35–44 — 19,3%\r\n\t45–54 — 24%\r\n\tИнтересы: красота и здоровье, одежда и аксессуары, развлечения и досуг, отдых и путешествия.\r\n\r\n\r\nГеография: \r\n\r\n\r\n\tМосква и область — 27,4%\r\n\tСанкт-Петербург и область — 8,62%\r\n\tКраснодарский край — 3,8%\r\n\tСвердловская область — 2,32%\r\n\tНижегородская область — 2,08%\r\n\r\n\r\nПреимущества для партнёров:\r\n\r\n\r\n\tИзвестный маркетплейс с высокой узнаваемостью.\r\n\tОбширный ассортимент: от аюрведы до текстиля.\r\n\tПостоянный раздел «Акции».\r\n\tГибкая система скидок и промо.\r\n\tЛояльная аудитория с высоким LTV.\r\n\tОпыт работы с лидерами мнений.\r\n\r\n\r\nПреимущества для клиентов:\r\n\r\n\r\n\tГарантированно оригинальные товары из Индии.\r\n\tЦены ниже, чем у конкурентов.\r\n\tСезонные и праздничные акции.\r\n\tБонусная программа лояльности.\r\n\tОптовые продажи.\r\n\tБесплатная доставка в большинство стран.\r\n\r\n\r\nУсловия доставки:\r\n\r\n\r\n\tБесплатная доставка по РФ при заказе от минимальной суммы (условия на сайте).\r\n\tДоставка напрямую из Индии.\r\n\tВозможность экспресс-доставки (в зависимости от региона).\r\n\r\n\r\nКак проходит сверка:\r\nРаз в месяц с 1-14 число, ручная.\r\n\r\nДанные об ОРД (ККТУ):\r\n7.1.1 МАРКЕТПЛЕЙСЫ\r\n\r\nВыдача промокодов:\r\nЕсть возможность выдачи именных промокодов по запросу.\r\n\r\nИнформация про модерацию:\r\nМодерация проводится 3 раза в неделю.",
-    "status": "active",
+    "name": "MYINDIA RU",
+    "img": "platform/43382.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/10/17/43382-dadc98d9241d290e.svg",
     "categories": [
       {
@@ -48,12 +45,7 @@
         }
       }
     ],
-    "img": "platform/43382.svg",
-    "affiliate": {
-      "goto_link": "https://dorinebeaumont.com/g/hrtmgqfk7k5af0702a274ed2ce7ed5/?erid=2bL9aMPo2e49hMef4pgVCwBskU",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 43382,
     "category": {
       "name": "Smart Home",
       "id": 198,
@@ -64,15 +56,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://dorinebeaumont.com/g/hrtmgqfk7k5af0702a274ed2ce7ed5/?erid=2bL9aMPo2e49hMef4pgVCwBskU",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 98756,
-    "name": "Waldos MX",
-    "name_aliases": "Wal2\r\nwal2\r\nwualdos",
     "site_url": "https://waldos.com.mx/",
-    "description": "Waldo's Dolar Mart de México S. de R.L. de C.V. es una empresa mexicana que opera una cadena de tiendas de descuento. Ofrece productos tanto nacionales, como importados en distintas categorías, como lo son hogar, ropa, abarrotes, higiene, limpieza, cocina, electrónicos; por mencionar solo algunas.",
-    "status": "active",
+    "name": "Waldos MX",
+    "img": "platform/98756.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/6/14/98756-0c356aa6bfa2bc87.svg",
     "categories": [
       {
@@ -93,12 +87,7 @@
         "parent": null
       }
     ],
-    "img": "platform/98756.svg",
-    "affiliate": {
-      "goto_link": "https://yknhc.com/g/21lmhhd4325af0702a27ba31ea0f20/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 98756,
     "category": {
       "name": "Smart Home",
       "id": 198,
@@ -109,15 +98,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://yknhc.com/g/21lmhhd4325af0702a27ba31ea0f20/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 144417,
-    "name": "Tatkraft Home & Office Furniture Partners EU",
-    "name_aliases": "Tatkraft, TatkraftShop, Tatkraft EU, Tatkraft Affiliate, Tatkraft Home & Office, TatkraftShop.eu, Tatkraft furniture, Tatkraft partners, Tatkraft affiliate program, Tatkraft Home Office Furniture, TatkraftStore, TatkraftShop EU Affiliate",
     "site_url": "https://tatkraftshop.eu",
-    "description": "TatkraftShop Affiliate Program\r\n\r\nEarn with products people actually use every day.\r\n\r\nTatkraftShop is a European network of online stores with more than 10 years of experience in functional, durable, and stylish products for home and business use. Our assortment includes foldable wardrobes, garment racks, storage systems, furniture, household accessories, and cleaning tools — all designed to simplify everyday life and improve organization.\r\n\r\nOur affiliate program offers strong earning opportunities for publishers thanks to a consistently high average order value and a wide assortment of bestselling products. We provide reliable tracking, competitive commissions, and a smooth onboarding experience.\r\n\r\nWhy work with us:\r\n• High average order value → higher commissions for affiliates\r\n• Free EU-wide shipping\r\n• Seasonal demand and ongoing promotions\r\n• Trusted brands and our own product lines: Tatkraft, Art Moon, WonderWorker, and others\r\n• Fast order processing and customer-friendly service\r\n\r\nTatkraftShop — practical products, strong conversions, and long-term partner value.",
-    "status": "active",
+    "name": "Tatkraft Home & Office Furniture Partners EU",
+    "img": "platform/144417.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/12/18/144417-8a9efc73a3040562.svg",
     "categories": [
       {
@@ -155,7 +146,18 @@
         "parent": null
       }
     ],
-    "img": "platform/144417.svg",
+    "id": 144417,
+    "category": {
+      "name": "Smart Home",
+      "id": 198,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
     "affiliate": {
       "goto_link": "https://xyowz.com/g/0tgjwvcyxl5af0702a27cadd1b4d81/",
       "landings": [
@@ -191,17 +193,6 @@
         }
       ],
       "cashback_link_data": null
-    },
-    "category": {
-      "name": "Smart Home",
-      "id": 198,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
     }
   }
 ]

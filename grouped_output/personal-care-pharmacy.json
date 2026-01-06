@@ -1,11 +1,8 @@
 [
   {
-    "id": 15437,
-    "name": "Галерея Косметики",
-    "name_aliases": "профиксосмтикс,профикосм,profi,proficosmetics, галерея косметики, ufkthtz rjcvtnbrb.",
     "site_url": "https://www.proficosmetics.ru/",
-    "description": "Интернет-магазин профессиональной косметики «Галерея косметики» открылся в 2007 году. В основу магазина легла любовь ее основателей к качественному уходу за собой и желание дать возможность россиянам пользоваться лучшими продуктами, предлагаемыми на мировом рынке.\r\n\r\nНаш магазин предлагает полную гамму продукции по уходу за кожей лица и тела для любого возраста и состояния кожи, серии средств по уходу за руками и ногами, профессиональные системы ухода за волосами известных профессиональных брендов России, Франции, Италии, США, Германии, Австралии, Израиля и других стран.\r\n\r\nМы постоянно изучаем рынок профессиональной косметики, подбираем самые интересные товары beauty-рынка, стремимся сделать процесс покупки в нашем интернет-магазине максимально простым и удобным.\r\n\r\nПреимущества для покупателей:\r\n\r\n-           Широкий ассортимент мировых брендов профессиональной косметики – около 300 брендов\r\n\r\n-           Техника, инструменты и расходные материалы\r\n\r\n-           Последние новинки в сфере профессиональной косметики\r\n\r\n-           Только оригинальная продукция от официальных дистрибьюторов\r\n\r\n-           Бонусная система лояльности\r\n\r\n-           Специальные цены для салонов и специалистов индустрии красоты\r\n\r\n-           Ежемесячные скидки, акции и подарки\r\n\r\n-           Бесплатные он-лайн консультации косметолога\r\n\r\n-           Бесплатная доставка\r\n\r\n-           Консультирование по товару, по сделанным заказам\r\n\r\n-           Бесплатный самовывоз в Москве 7 дней в неделю\r\n\r\n-           Доставка товара осуществляется на следующий день после заказа по Москве и ближайшему Подмосковью\r\n\r\n-           Четыре транспортные компании при доставке по РФ (Hermes, CDEK, Boxberry, EMS), постаматы PickPoint. Возможность выбора любой удобной\r\n\r\n-           Удобные способы оплаты: банковской картой, электронные платежные системы, наложенный платеж, банковский перевод\r\n\r\n-           Обычный и быстрый заказ\r\n\r\n-           Удобная навигация по сайту\r\n\r\n-           Подробное описание к каждому товару и отзывы реальных покупателей.\r\n\r\nНаши покупатели:\r\n\r\nГеография: вся РФ\r\nДемография: женщины - 87%, мужчины - 13%\r\nВозраст :\r\n25-34  - 52% трафика и 51% дохода\r\n35-44  - 23% трафика и 23% дохода\r\n18-24 - 12% трафика и 7% дохода\r\n\r\n45-54 – 9% трафика и 10% дохода\r\n\r\nПреимущества для партнёров:\r\n\r\n-           Сотрудничество с крупнейшим интернет-магазином профессиональной косметики\r\n\r\n-           Доверие и выбор покупателей\r\n\r\n-           Постоянные акции, с помощью которых легко привлекать покупателей\r\n\r\nКак проходит сверка: ручная сверка, проходит в начале каждого месяца.\r\n\r\nВыдача промокодов: в программе возможно получить именной промокод, есть общие промокоды.",
-    "status": "active",
+    "name": "Галерея Косметики",
+    "img": "platform/15437.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/13/15437-59a932c8ecdf6ede.svg",
     "categories": [
       {
@@ -26,7 +23,18 @@
         "parent": null
       }
     ],
-    "img": "platform/15437.svg",
+    "id": 15437,
+    "category": {
+      "name": "Personal Care & Pharmacy",
+      "id": 67,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
     "affiliate": {
       "goto_link": "https://dorinebeaumont.com/g/37o8e8gz3t5af0702a2702157dcfc6/?erid=25H8d7vbP8SRTvG56CzkNj",
       "landings": [
@@ -42,26 +50,12 @@
         }
       ],
       "cashback_link_data": null
-    },
-    "category": {
-      "name": "Personal Care & Pharmacy",
-      "id": 67,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
     }
   },
   {
-    "id": 17045,
-    "name": "РИГЛА",
-    "name_aliases": "rigla, ригла, аптека,",
     "site_url": "https://www.rigla.ru/",
-    "description": "Информация о компании:\r\n\r\nАптека Ригла – центры здоровья и красоты европейского уровня. Самые последние достижения современной медицины и индустрии красоты у нас.\r\n\r\nПортрет целевой аудитории:\r\n\r\nДемография: Женщины, 25+, доход средний и выше среднего. Заботятся о своем здоровье и красоте, предпочитают лечебную косметику, покупают ее в аптеках. Ценят удобство процесса покупки, предъявляют повышенные требования к уровню сервиса в аптеках, нуждаются в расширенном консультировании.\r\n\r\nПреимущества для вебмастеров:\r\n\r\n\r\n\tКонкурентные ставки на рынке;\r\n\tВозможность работать с товарным фидом;\r\n\tВысокий % подтверждения заказов;\r\n\tМного разрешенных типов трафика;\r\n\tСтабильные выплаты.\r\n\r\n\r\nПреимущества для партнёров: \r\n\r\n\r\n\tШирокий ассортимент;\r\n\tГарантия качества товаров;\r\n\tБольшой выбор лечебной косметики, в т. ч. эксклюзивных брендов: Galenic, Clinic Way;\r\n\tДоставка (по Москве + 50 км от МКАД);\r\n\tКонсультанты по косметике;\r\n\tПрограмма лояльности;\r\n\tВыгодные акции.\r\n\r\n\r\nПромокоды:\r\nОтсутствуют.\r\n\r\nСверка заказов:\r\nПроводится вручную один раз в месяц.\r\n\r\nМодерация вебмастеров:\r\nПроводится три раза в неделю.\r\n\r\nОтклонение заказов/ отключение партнёра:\r\n\r\n\r\n\tОплата за фродовые заказы, выявленные нашей командой или системой антифрода, не производится;\r\n\tБлокировка вебмастера осуществляется после трёх выявленных случаев фрода и соответствующих предупреждений;\r\n\tВ случае фрода типа «контекст на бренд» блокировка происходит уже при втором нарушении (одно предупреждение и повторный детект).\r\n\r\n\r\nМинус слова на бренд Ригла!\r\n\r\nКод ККТУ: 28.1.1\r\n\r\nЖелаем успехов в работе с Ригла.",
-    "status": "active",
+    "name": "РИГЛА",
+    "img": "platform/17045.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/4/22/17045-994123553e9ab5b2.png",
     "categories": [
       {
@@ -82,12 +76,7 @@
         "parent": null
       }
     ],
-    "img": "platform/17045.png",
-    "affiliate": {
-      "goto_link": "https://zallj.com/g/wni59pjt8a5af0702a275b4157882f/?erid=25H8d7vbP8SRTvGZs4rxuW",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 17045,
     "category": {
       "name": "Personal Care & Pharmacy",
       "id": 67,
@@ -98,15 +87,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://zallj.com/g/wni59pjt8a5af0702a275b4157882f/?erid=25H8d7vbP8SRTvGZs4rxuW",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 17863,
-    "name": "Ochkov",
-    "name_aliases": "очков, щсрлщм, ochkov, jxrjv, oc, ox, щчб оср, о.",
     "site_url": "https://www.ochkov.net/",
-    "description": " \r\n\r\n\r\n\r\nИнтернет-магазин контактных линз Очков.нет - более 10 лет на рынке! Зарабатывайте больше вместе с нами!\r\n\r\nЦелевая аудитория – преимущественно Москва и область, Санкт-Петербург ~ 70%\r\n\r\nЖенщины 72%, Мужчины 28% по Метрике. \r\n\r\nВозраст от 18 до 40 лет.\r\n\r\n \r\n\r\nПреимущества для партнеров:\r\n\r\n\r\n\tВысокий % комиссии\r\n\tКонверсия в заказ с сайта 7%\r\n\tМножество моделей линз в наличии\r\n\tТестирование и регулярная модернизация сайта\r\n\tИзвестный нишевый бренд\r\n\tТехническая поддержка партнеров\r\n\tСредний чек: 3000 руб.\r\n\tПроцент подтверждения на сайте: 90%\r\n\r\n\r\n \r\n\r\nПреимущества для клиентов:\r\n\r\n\r\n\tДиоптрии всегда в наличии\r\n\tДоставка по Москве в день заказа\r\n\tОтправка в регионы несколькими способами\r\n\tПо-настоящему выгодные цены\r\n\tРегулярные акции\r\n\tБолее 5и способов оплаты: онлайн, при получении товара\r\n\tРазличные виды доставки: почта, курьер на дом, пункты самовывозов\r\n\te-mail информирование о заказе\r\n\r\n\r\nСертификаты для контекстной рекламы можно скачать по ссылке.\r\n\r\nСертификаты на оправы\r\n\r\nСертификаты на очки\r\n\r\nСертификаты на медицинские очки\r\n\r\nСертификаты на линзы\r\n\r\nДля вебмастеров:\r\n\r\n\r\n\tРучная сверка раз в месяц.\r\n\tМодерация вебмастеров 2 раза в неделю.\r\n\tВозможна выдача именных и смарт промокодов.\r\n\r\n\r\nДанные об ОРД. Код ККТУ: 12.1.3",
-    "status": "active",
+    "name": "Ochkov",
+    "img": "platform/17863.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/21/17863-9e95bb01c305ab7b.svg",
     "categories": [
       {
@@ -133,18 +124,7 @@
         "parent": null
       }
     ],
-    "img": "platform/17863.svg",
-    "affiliate": {
-      "goto_link": "https://yjfca.com/g/1g2dcvp1p85af0702a27de1da8797c/?erid=MvGzQC98w3Z1gMq1mwGmDKYh",
-      "landings": [
-        {
-          "id": 10445,
-          "name": "Защитные маски",
-          "code": "a173dfdaa7"
-        }
-      ],
-      "cashback_link_data": null
-    },
+    "id": 17863,
     "category": {
       "name": "Personal Care & Pharmacy",
       "id": 67,
@@ -155,15 +135,23 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://yjfca.com/g/1g2dcvp1p85af0702a27de1da8797c/?erid=MvGzQC98w3Z1gMq1mwGmDKYh",
+      "landings": [
+        {
+          "id": 10445,
+          "name": "Защитные маски",
+          "code": "a173dfdaa7"
+        }
+      ],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 18054,
-    "name": "Zdravcity RU",
-    "name_aliases": "аптека, здравсити, zdravcity, plhfdcbnb, аптеки",
     "site_url": "https://zdravcity.ru/",
-    "description": "Приглашаем Вас присоединиться к партнерской программе сервиса Здравсити!\r\n\r\n\r\n\r\nИнформация о компании:\r\n\r\nЗдравсити – удобный и доступный сервис по бронированию лекарственных препаратов, товаров для здоровья и красоты.\r\n\r\nПортрет целевой аудитории:\r\n\r\nПол: женский (73,7%), мужской (26,3%).\r\n\r\nПреимущества для веб-мастеров:\r\n\r\n\r\n\tвысокая узнаваемость бренда;\r\n\tконкурентные тарифные ставки;\r\n\tсредняя конверсия сайта - 8,5%;\r\n\tсредний чек - 1800 рублей;\r\n\tсреднемесячная посещаемость сайта - 10 миллионов.\r\n\r\n\r\nПреимущества для клиентов:\r\n\r\n\r\n\tБесплатная доставка;\r\n\tВыгодные цены и широкий ассортимент;\r\n\tРегулярные скидки и промо-коды;\r\n\tБолее 15000 аптек-партнеров по всей России.  Быстро и просто найти ближайшую к вам аптеку;\r\n\tГарантия качества (весь товар сертифицирован);\r\n\tПрофессиональные консультации специалистов с фармацевтическим образованием.\r\n\r\n\r\nПромокоды:\r\n\r\nПредоставляются по запросу.\r\n\r\nСверка заказов:\r\n\r\nПроводится вручную один раз в месяц.\r\n\r\nМодерация вебмастеров:\r\nПроводится три раза в неделю.\r\n\r\nОтклонение заказов/ отключение партнёра:\r\n\r\n\r\n\tОплата за фродовые заказы, выявленные нашей командой или системой антифрода, не производится;\r\n\tБлокировка вебмастера осуществляется после трёх выявленных случаев фрода и соответствующих предупреждений;\r\n\tВ случае фрода типа «контекст на бренд» блокировка происходит уже при втором нарушении (одно предупреждение и повторный детект).\r\n\r\n\r\nОбратите внимание! При продвижении Здравсити не допускается:\r\n\r\n\r\n\tиспользовать образы лекарств или изображения рецептурных препаратов, но конкретные лекарства использовать можно\r\n\tразмещение информации о лекарственных препаратах (положительное действие, призыв к приему конкретного препарата)\r\n\tреклама рецептурных препаратов\r\n\tуказание цен на лекарственные препараты\r\n\tиспользование в рекламных материалах изображений врачей, фармацевтов и людей в белых халатах\r\n\r\n\r\nВнимание! Любая медийная реклама обязательно должна содержать надпись: «Имеются противопоказания. Необходимо проконсультироваться со специалистом.» !\r\n\r\nhttps://hq.admitad.com/public/storage/2019/01/30/Minus-slova_ZdravSiti.docx \r\n\r\nКод ККТУ: 28.1.1\r\n\r\nС Уважением,\r\nпартнерская программа Здрависти\r\n\r\n ",
-    "status": "active",
+    "name": "Zdravcity RU",
+    "img": "platform/18054.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/21/18054-d68796701e188db5.svg",
     "categories": [
       {
@@ -184,18 +172,7 @@
         }
       }
     ],
-    "img": "platform/18054.svg",
-    "affiliate": {
-      "goto_link": "https://dhwnh.com/g/vhr1ruamas5af0702a27af67a6436f/?erid=25H8d7vbP8SRTvH4QRy47F",
-      "landings": [
-        {
-          "id": 24995,
-          "name": "Скидка на первый заказ в Приморье",
-          "code": "e39889fa44"
-        }
-      ],
-      "cashback_link_data": null
-    },
+    "id": 18054,
     "category": {
       "name": "Personal Care & Pharmacy",
       "id": 67,
@@ -206,15 +183,23 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://dhwnh.com/g/vhr1ruamas5af0702a27af67a6436f/?erid=25H8d7vbP8SRTvH4QRy47F",
+      "landings": [
+        {
+          "id": 24995,
+          "name": "Скидка на первый заказ в Приморье",
+          "code": "e39889fa44"
+        }
+      ],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 18757,
-    "name": "Dewal",
-    "name_aliases": "dewal.ru,dewal, Девал, ltdfk, deval, деваль, дэвал, дэваль, красота, волосы, косметика",
     "site_url": "https://www.dewal.ru/",
-    "description": "\r\n\r\nDewal Professional - это интернет-магазин производителя, миссия которого - сделать доступной профессиональную линейку парикмахерских инструментов, аксессуаров и косметики для стилистов и парикмахеров, соединив современные технологии и дизайн с надежностью и приемлемой ценой.\r\n\r\n\r\nЦелевая аудитория:\r\n\r\n\r\n\tСфера деятельности: парикмахеры, стилисты, салоны красоты, а также люди, желающие использовать профессиональные парикмахерские инструменты в домашних условиях.\r\n\tПол: Мужчины 23%, Женщины 77%\r\n\tВозраст: от 25 до 54 лет.\r\n\r\n\r\nПреимущества для партнеров:\r\n\r\n\r\n\tВысокий % комиссии;\r\n\tЕжемесячное обновление коллекций и товарного ассортимента;\r\n\tПостоянное наличие товара на складе;\r\n\tСезонные распродажи и акции;\r\n\tПостоянное изучение потребностей парикмахеров и стилистов, предложение клиентам актуальных и профессиональных инструментов;\r\n\tЕжемесячное обновление промо-материалов и промо-кодов;\r\n\tУзнаваемый популярный бренд;\r\n\tСреднее кол-во позиций в заказе 7,8;\r\n\tСредний чек: 3 500 руб;\r\n\tПроцент подтверждения на сайте: 80%;\r\n\tИменные/смарт промокоды.\r\n\r\n\r\nПреимущества для розничных клиентов:\r\n\r\n\r\n\tВысокое качество, практичность и удобство использования каждой модели;\r\n\tАссортимент более 2-х тысяч наименований - всё, что может понадобиться парикмахеру и стилисту каждый день;\r\n\tВыгодная программа лояльности (в личном кабинете);\r\n\tПрименение на производстве современных технологий;\r\n\tДоставка по России;\r\n\tОплата на сайте и при получении заказа разными способами;\r\n\tПоложительные отзывы на «Яндекс.Маркете», а также в популярных «отзовиках»: Irecommend.ru и otzovik.com;\r\n\tВозможность подбора аксессуаров в едином стиле;\r\n\tВсевозможные виды доставки: курьерская служба, пункты самовывоза, почта, постаматы, транспортные компании;\r\n\tСМС и e-mail информирование на каждом этапе выполнения заказа;\r\n\tВыбор точной даты и интервала доставки и автоматическое подтверждение заказа на сайте без звонка оператора.\r\n\r\n\r\nПреимущества для оптовых клиентов:\r\n\r\n\r\n\tРабота с узнаваемым популярным брендом;\r\n\tРегулярно обновляемый ассортимент, представляемый в рамках единых целостных композиций;\r\n\tОбучение по продуктам и маркетинговая поддержка, в том числе по оформлению торговых точек;\r\n\tВ работе ориентируемся на интересы наших клиентов и партнеров. Делаем акцент не на сиюминутной выгоде, а стратегическом сотрудничестве;\r\n\tНаша команда готова к разумным компромиссам в отношениях для создания условий, влияющих на развитие бизнеса и увеличение дохода;\r\n\r\n\r\nТОП ТОВАРОВ Dewal\r\n\r\nРучная сверка раз в месяц\r\n\r\nМодерация вебмастеров 2-3 раза в неделю\r\n\r\n \r\n\r\nДобивайтесь успеха вместе с нами!",
-    "status": "active",
+    "name": "Dewal",
+    "img": "platform/18757.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/7/18757-2990649403096106.svg",
     "categories": [
       {
@@ -258,18 +243,7 @@
         "parent": null
       }
     ],
-    "img": "platform/18757.svg",
-    "affiliate": {
-      "goto_link": "https://xyowz.com/g/3d0z51t5cy5af0702a27e883c4cd87/?erid=MvGzQC98w3Z1gMq1mwqcJQtN",
-      "landings": [
-        {
-          "id": 30777,
-          "name": "Акционный лендинг",
-          "code": "7d555ec502"
-        }
-      ],
-      "cashback_link_data": null
-    },
+    "id": 18757,
     "category": {
       "name": "Personal Care & Pharmacy",
       "id": 67,
@@ -280,15 +254,23 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://xyowz.com/g/3d0z51t5cy5af0702a27e883c4cd87/?erid=MvGzQC98w3Z1gMq1mwqcJQtN",
+      "landings": [
+        {
+          "id": 30777,
+          "name": "Акционный лендинг",
+          "code": "7d555ec502"
+        }
+      ],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 20231,
-    "name": "Pharmacosmetica.ru",
-    "name_aliases": "фармакосметика, pharmacosmetica",
     "site_url": "https://www.pharmacosmetica.ru/",
-    "description": "Pharmacosmetica.ru (ЦЕНТР ЗДОРОВЬЯ КОЖИ) - официальная авторизованная точка продаж оригинальной продукции брендов Vichy, La Roche-Posay, Avene, Uriage, а также еще более 70 позиций брендов качественной аптечной и профессиональной косметики.\r\n\r\nPharmacosmetica — это более 10 лет опыта дистрибуции брендовой косметической продукции на российском рынке. Мы предоставляем нашим покупателям:\r\n\r\n1. Пробники и подарки по основным брендам;\r\n\r\n2. Своевременные поставки, так как мы работаем напрямую со склада самого крупного российского дистрибьютора - МИР ЛЕЧЕБНОЙ КОСМЕТИКИ;\r\n\r\n3. Максимально полный ассортимент продукции;\r\n\r\n4. 100% подлинную качественную продукцию. Мы можем предоставить декларацию соответствия на любой косметический продукт.\r\n\r\nДанные о целевой аудитории:\r\n\r\nПол:\r\n\r\n\r\n\tЖенщины – 77,3%\r\n\tМужчины – 22,7%\r\n\r\n\r\nВозраст (по количеству продаж): \r\n\r\n\r\n\t18-24 – 8,93%\r\n\t25-34 – 41,25%\r\n\t35-44 – 27,58%\r\n\t45-54 – 12,43%\r\n\t55-64 – 6,83%\r\n\t65 и старше – 2,98%\r\n\r\n\r\nГео:\r\n\r\n\r\n\tМосква – 23,48%\r\n\tСанкт Петербург – 8,73%\r\n\tКраснодар– 3,77%\r\n\tУфа – 3,19%\r\n\tЕкатеринбург – 2,17%\r\n\tОстальные регионы – 58,66%\r\n\r\n\r\n Преимущества работы с партнерской программой Pharmacosmetica:\r\n\r\n\r\n\tВы будете работать с косметическими брендами, которые максимально известны на территории РФ\r\n\tСредняя конверсия на целевом трафик составляет 2%: высокое доверие покупателей к ЦЕНТРУ ЗДОРОВОЙ КОЖИ в Интернете: работаем с 2009 года, хорошие отзывы на Яндекс Маркет, Otzovik и пр.\r\n\tПостоянное развитие маркетингового функционала интернет-магазина и мониторинг качества\r\n\tОткрыты к диалогу с нашими партнерами и обсуждению эксклюзивных условий\r\n\r\n\r\nПреимущества для клиентов:\r\n\r\n\r\n\tПостоянные акции и скидки в интернет-магазине\r\n\tДоставка в любую точку на территории Российской Федерации\r\n\tШирокая сеть курьерских доставок и пунктов самовывоза по России - более 500 видов доставок\r\n\tЦЕНТР ЗДОРОВЬЯ КОЖИ обеспечивает самые низкие цены на доставку в регионы, частично или полностью оплачивая цену доставки за клиента - 2 раза в месяц проходят акции с Бесплатной доставкой\r\n\tОтправка заказов в регионы без предоплаты\r\n\tЛучшие цены в России на топовые продукты (хиты)\r\n\tКонсультация по выбору продуктов\r\n\tРеальные отзывы на продукты от наших клиентов и начисление баллов за отзывы: более 26 000 отзывов\r\n\tПостоянные подарки в виде полноценных продуктов и пробников\r\n\r\n\r\nПолезные ссылки / акции:\r\n\r\n\r\n\tВыгодные наборы - https://www.pharmacosmetica.ru/eshop/plus-podarok/podarki-dlya-sebya/\r\n\tУцененные товары - https://www.pharmacosmetica.ru/eshop/ucenka/\r\n\tPharmaBeautyBag - https://www.pharmacosmetica.ru/eshop/vesenniy-pharmabeautybag_id_291438.html\r\n\tАкции с подарками - https://www.pharmacosmetica.ru/podarki-dlya-vas/\r\n\tКонсультация эксперта - https://www.pharmacosmetica.ru/consultation/\r\n\tСтатьи - https://www.pharmacosmetica.ru/information/\r\n\r\n\r\nРучная сверка раз в месяц\r\n\r\nМодерация вебмастеров на стороне рекламодателя",
-    "status": "active",
+    "name": "Pharmacosmetica.ru",
+    "img": "platform/20231.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/13/20231-1ca1ce044ac585ad.svg",
     "categories": [
       {
@@ -309,7 +291,18 @@
         "parent": null
       }
     ],
-    "img": "platform/20231.svg",
+    "id": 20231,
+    "category": {
+      "name": "Personal Care & Pharmacy",
+      "id": 67,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
     "affiliate": {
       "goto_link": "https://xpuvo.com/g/ny8r7x7kal5af0702a2745f5c1a381/?erid=25H8d7vbP8SRTvHa5QohYp",
       "landings": [
@@ -370,26 +363,12 @@
         }
       ],
       "cashback_link_data": null
-    },
-    "category": {
-      "name": "Personal Care & Pharmacy",
-      "id": 67,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
     }
   },
   {
-    "id": 20717,
-    "name": "Royalsamples",
-    "name_aliases": "royalsamples, роялсемпел, косметика, RoyalSamples, роялсемплес, роялсэмплс",
     "site_url": "https://royalsamplesbox.ru/",
-    "description": "Royalsamples - Интернет-магазин для покупки лимитированных бьюти-боксов и косметики премиального качества\r\n\r\n\r\n\tЦА и география потребителя\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\tУдобный онлайн-шопинг на сайте со скидками, подарками и бонусами за покупку\r\n\r\n\r\n\r\n\t500 000+ БЬЮТИ БОКСОВ - упаковали и отправили\r\n\t500 000+ клиентов – осчастливили; \r\n\t2 000+ ИЗВЕСТНЫХ БРЕНДОВ поучаствовали своими продуктами в бьюти-боксах;\r\n\t1 000+ КОЛАБОРАЦИЙ со звездами, с блогерами, с телеканалами (Пятница, Ю-ТВ), c журналами (VOGUE, VOICE, GRAZIA, PSYCHOLOGIES, MAXIM, Elle Girl, Marie Claire), с онлайн-изданиями (PEOPLETALK, Woman.ru, BURO.), с маркетплейсами (Wildberries).\r\n\tКАЧЕСТВЕННЫЙ ПРОДУКТ\r\n\tДОСТОЙНАЯ ЦЕНА\r\n\t\r\n\t\tАссортимент:\r\n\t\r\n\t\r\n\r\n\r\nТОП Категорий:\r\n\r\n- Бьюти-боксы\r\n\r\n- Очищающие косметические средства\r\n\r\n- Кремы\r\n\r\n- Сыворотки\r\n\r\n- Омолаживающий уход\r\n\r\n- Косметические наборы\r\n\r\n- Уход за волосами\r\n\r\n \r\n\r\nПреимущества для партнеров:\r\n\r\n- Работа с топ 5 семплинг - сервисом в СНГ\r\n\r\n- 7 лет на косметическом рынке\r\n\r\n- Имеем большую лояльную и платежеспособную аудиторию\r\n\r\nПреимущества для клиентов:\r\n\r\n\r\n\tПремиальная косметика по доступной цене\r\n\tУходовые средства - для всех типов кожи\r\n\tЦелый набор косметики по цене 1 макияжа\r\n\t Экономия – более 70%\r\n\tТолько официальные косметические бренды\r\n\tНовый месяц - новые лимитки\r\n\tБесплатная доставка по России и Беларуси.\r\n\tБыстрая отправка 2 раза в неделю\r\n\r\n\r\n\r\n\tРекомендации по позиционированию:\r\n\r\n\r\n\r\n\tРегулярная акция по боксам: «Подарок недели» каждый понедельник появляется подарок недели, который в четверг меняется\r\n\t Регулярная акция по боксам: +1 средство в подарок, + 2 средства в подарок (выходные)\r\n\t Экономия до 70 %\r\n\tНовый месяц - новые лимитки\r\n\tБыстрая отправка 2 раза в неделю\r\n\tЦелый набор косметики по цене 1 макияжа\r\n\tБесплатная доставка по России и Беларуси. \r\n\tЗнакомство с хитами и новинками косметических брендов по Доступной Цене!\r\n\tТолько официальные косметические бренды\r\n\tTrevel-форматы косметических продуктов для похода в зал, поездок за город и путешествий.\r\n\t Стоимость бьюти-бокса по цене 1 средства\r\n\tПри покупке из раздела косметика – в подарок пакет + поздравительная открытка.\r\n\tПремиальная косметика по доступной цене\r\n\t Уходовые средства, подходящие для всех типов кожи, в том числе, для чувствительной.\r\n\r\n\r\n\r\n \r\n\r\nРучная сверка раз в месяц\r\n\r\nКод ККТУ: 28.1.7\r\n\r\nВыдача именных ипромокодов\r\n\r\nМодерация вебмастеров 2 раза в неделю",
-    "status": "active",
+    "name": "Royalsamples",
+    "img": "platform/20717.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/5/12/20717-f44bb2998ca326ab.svg",
     "categories": [
       {
@@ -410,12 +389,7 @@
         "parent": null
       }
     ],
-    "img": "platform/20717.svg",
-    "affiliate": {
-      "goto_link": "https://codeaven.com/g/aaedtrgsrd5af0702a2717732dc589/?erid=MvGzQC98w3Z1gMq1nw9op4t5",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 20717,
     "category": {
       "name": "Personal Care & Pharmacy",
       "id": 67,
@@ -426,15 +400,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://codeaven.com/g/aaedtrgsrd5af0702a2717732dc589/?erid=MvGzQC98w3Z1gMq1nw9op4t5",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 21324,
-    "name": "Velodrive.ru",
-    "name_aliases": "velodrive, dtkjlhfqd, велодрайв, мудщвкшму",
     "site_url": "https://www.velodrive.ru/",
-    "description": "ВелоДрайв – это магазины в Петербурге, мастерские и станции велопроката. В нашем ассортименте представлены велосипеды для взрослых и детей от известных брендов: Author, Merida, Trek, Cube, Forward, Stels, Shulz, Strida, Schwinn и др. На сайте и в розничных магазинах сети всегда в наличии огромный выбор велозапчастей и аксессуаров. Кроме того, активно развиваются смежные направления: самокаты, беговелы, электротранспорт.\r\n\r\nПортрет ЦА: Санкт-Петербург \r\nПреимущественно мужчины 18-55 лет\r\n\r\nПреимущества для покупателей:\r\n\r\n• низкие цены и подарки при покупке, постоянные скидки и акции\r\n\r\n• грамотные специалисты в магазинах и мастерских\r\n\r\n• официальная гарантия от производителей и качественное сервисное обслуживание\r\n\r\n• различные виды доставки: самовывоз из магазина, из пункта самовывоза, доставка на дом\r\n\r\n• специальные условия для жителей Санкт-Петербурга\r\n\r\n• действует программа лояльности\r\n\r\nПреимущества для партнеров:\r\n\r\n• компания является лидером в Северо-западном регионе России\r\n\r\n• средний чек: 15 000 рублей\r\n\r\nКак проходит сверка:\r\nРаз в месяц с 1-14 число, ручная.\r\n\r\nВыдача промокодов:\r\nЕсть возможность выдачи именных промокодов по запросу.\r\n\r\nИнформация про модерацию:\r\nМодерация проводится 3 раза в неделю.\r\n\r\n ",
-    "status": "active",
+    "name": "Velodrive.ru",
+    "img": "platform/21324.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/6/21324-7954c3a16ae1289b.svg",
     "categories": [
       {
@@ -472,18 +448,7 @@
         "parent": null
       }
     ],
-    "img": "platform/21324.svg",
-    "affiliate": {
-      "goto_link": "https://thevospad.com/g/vu5cjmwwwl5af0702a275f3bd41df7/?erid=MvGzQC98w3Z1gMq1nwiXTsou",
-      "landings": [
-        {
-          "id": 9615,
-          "name": "Ночь распродаж",
-          "code": "878307a7b7"
-        }
-      ],
-      "cashback_link_data": null
-    },
+    "id": 21324,
     "category": {
       "name": "Personal Care & Pharmacy",
       "id": 67,
@@ -494,15 +459,23 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://thevospad.com/g/vu5cjmwwwl5af0702a275f3bd41df7/?erid=MvGzQC98w3Z1gMq1nwiXTsou",
+      "landings": [
+        {
+          "id": 9615,
+          "name": "Ночь распродаж",
+          "code": "878307a7b7"
+        }
+      ],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 21497,
-    "name": "TheManCompany [CPS] IN",
-    "name_aliases": "the man company, themancompany, The men company, Men, men compeny",
     "site_url": "https://www.themancompany.com/",
-    "description": "Company Description: Complete Range of Premium Men's Grooming Products, enriched with Natural Essential Oils. Free of Harmful Chemicals | SLS & Paraben Free.\r\n\r\nCampaign Description: The campaign offers huge dicounts on wide range of products.\r\n\r\nObjective: To generate sales for The Man Company campaign",
-    "status": "active",
+    "name": "TheManCompany [CPS] IN",
+    "img": "platform/21497.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/2/12/21497-25ea3beffe5f2b4a.png",
     "categories": [
       {
@@ -523,12 +496,7 @@
         "parent": null
       }
     ],
-    "img": "platform/21497.png",
-    "affiliate": {
-      "goto_link": "https://tjzuh.com/g/86kie8f8t85af0702a2785e739f524/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 21497,
     "category": {
       "name": "Personal Care & Pharmacy",
       "id": 67,
@@ -539,15 +507,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://tjzuh.com/g/86kie8f8t85af0702a2785e739f524/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 22484,
-    "name": "Randewoo",
-    "name_aliases": "Randewoo, косметика, духи, парфюмерия, рандеву",
     "site_url": "https://randewoo.ru/",
-    "description": "Randewoo.ru - крупнейший онлайн-магазин парфюмерии и косметики\r\n\r\nБестселлеры, ТОП брендов, лендинги и каталожные подборки доступны по ссылке: https://s.randewoo.ru/2Xw9Ot7\r\n1 500 000 пользователей ежемесячно | 180 000 брендовых товаров | 6000р средний чек \r\n\r\nПреимущества работы для веб-мастеров:\r\n\r\n\r\n\tВысокое вознаграждение и быстрое подтверждение заказов\r\n\tВозможность проведения эксклюзивных акций\r\n\tМного видов разрешенного трафика\r\n\tРегулярно обновляющиеся рекламные материалы и их предоставление\r\n\r\n\r\nПреимущества работы для клиентов:\r\n\r\n\r\n\tВесь спектр бьюти товаров. На Randewoo.ru клиент приобретает всё от селективной парфюмерии и косметики класса люкс до ватных дисков.\r\n\tРегулярно обновляем наш ассортимент. На постоянной основе, мы отслеживаем новинки бьюти сферы и максимально быстро включаем их в свой каталог.\r\n\tOriginal! Мы не торгуем подделками или копиями.\r\n\r\n\r\nУсловия доставки \r\n\r\n\r\n\tУ нас самая быстрая бесплатная доставка от 3500 руб. по Москве в день заказа\r\n\tОтправление в Москву, СПб и любую точку России и СНГ\r\n\tБесплатная доставка во многие города России курьерскими службами\r\n\r\n\r\n\r\n\tКак проходит сверка:\r\n\tРаз в месяц с 1-14 число, ручная\r\n\tДанные об ОРД ККТУ 7.1.2\r\n\tВыдача промокодов: есть возможность выдачи именных промокодов по запросу\r\n\tИнформация про модерацию\r\n\tРаз в неделю, на стороне рекламодателя\r\n\r\n\r\n ",
-    "status": "active",
+    "name": "Randewoo",
+    "img": "platform/22484.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/23/22484-276d0824abb5ce1b.svg",
     "categories": [
       {
@@ -568,7 +538,18 @@
         }
       }
     ],
-    "img": "platform/22484.svg",
+    "id": 22484,
+    "category": {
+      "name": "Personal Care & Pharmacy",
+      "id": 67,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
     "affiliate": {
       "goto_link": "https://bywiola.com/g/efixkgr4c45af0702a270dd11956d5/?erid=MvGzQC98w3Z1gMq1oSwL7BMZ",
       "landings": [
@@ -724,26 +705,12 @@
         }
       ],
       "cashback_link_data": null
-    },
-    "category": {
-      "name": "Personal Care & Pharmacy",
-      "id": 67,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
     }
   },
   {
-    "id": 23390,
-    "name": "Lookfantastic Many GEOs",
-    "name_aliases": "lookfantastic, fantastic, look, дщщлафтефыешс,",
     "site_url": "https://www.lookfantastic.com/",
-    "description": "Attracting over half a million unique visitors a month, and £80m in sales in 2015, lookfantastic.com has grown from strength to strength and continues to lead the online beauty market. \r\n\r\nLuxury hair and beauty products are available at lookfantastic.com - the online home of some of the industry’s biggest luxury haircare, skincare, and make-up brands.\r\n\r\nThis programme is used by the following countries for lookfantastic: Singapore, Taiwan, Thailand, Korea, Hong Kong, Japan, UAE, Finland, Poland, Greece, Czech Republic and Romania",
-    "status": "active",
+    "name": "Lookfantastic Many GEOs",
+    "img": "platform/23390.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/2/14/23390-6ae8efddb4da5c02.png",
     "categories": [
       {
@@ -764,12 +731,7 @@
         "parent": null
       }
     ],
-    "img": "platform/23390.png",
-    "affiliate": {
-      "goto_link": "https://codeaven.com/g/ubnzju31jt5af0702a27f18ad7b7d7/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 23390,
     "category": {
       "name": "Personal Care & Pharmacy",
       "id": 67,
@@ -780,15 +742,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://codeaven.com/g/ubnzju31jt5af0702a27f18ad7b7d7/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 23441,
-    "name": "Forest Essentials [CPS] WW",
-    "name_aliases": "Forest essential, Ayurvedic, Forestessential, forstessential",
     "site_url": "https://www.forestessentialsindia.com/",
-    "description": "Company Description: Welcome to a world where ancient wisdom is infused with a modern aesthetic. Forest Essentials is an authentic, traditional Skin Care Brand, with its foundations in the ancient science of Ayurveda. A pioneer in the Luxury Ayurvedic segment, today it has become the quintessential Indian Beauty Brand where secrets of ancient beauty rituals for skin and hair care have been brought to life through pain-staking research and made available to modern day customers.\r\n\r\nForest Essentials cater to four major categories i.e. Facial Care, Body Care, Hair Care and Wellness category. Each handmade product uses traditional methods in its making and adheres to the highest standards of purity, authenticity and quality. Forest Essentials extracts the best from nature’s vast repertoire and recreates fresh seasonal formulations using organic cold pressed oils, rare plant extracts, herb infusions and steam-distilled pure essential oils. There is a perfect fusion between ancient recipes and modern technology to create a whole new experience — Elegant, Luxurious Ayurveda.\r\n\r\nCampaign Description: Forest essential gives its publisher an opportunity to earn revenue in case sale is generated using publisher link.\r\n\r\nObjective: To generate sales.\r\n\r\nBrand Stop Words: Forestessentils, Forstessentials\r\n\r\nBrand bidding is strictly prohibited, If found then commission of the whole month will get zero.",
-    "status": "active",
+    "name": "Forest Essentials [CPS] WW",
+    "img": "platform/23441.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2020/12/4/23441-be2cb2c920a9490b.png",
     "categories": [
       {
@@ -809,12 +773,7 @@
         }
       }
     ],
-    "img": "platform/23441.png",
-    "affiliate": {
-      "goto_link": "https://tjzuh.com/g/8654jk62nx5af0702a2717c05f049d/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 23441,
     "category": {
       "name": "Personal Care & Pharmacy",
       "id": 67,
@@ -825,15 +784,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://tjzuh.com/g/8654jk62nx5af0702a2717c05f049d/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 23446,
-    "name": "Budzdorov",
-    "name_aliases": "budzdorov, аптека, Будь Здоров,",
     "site_url": "https://www.budzdorov.ru/",
-    "description": "Информация о компании:\r\n\r\nБудь Здоров! – аптеки, рядом с домом, к которым мы привыкли с детства. Здесь вы можете приобрести лекарственные препараты по одним из самых низких цен на рынке.\r\n\r\nПортрет целевой аудитории:\r\n\r\n\r\n\tПол: женщины;\r\n\tВозраст: 25+;\r\n\tУровень дохода: средний и выше среднего. \r\n\r\n\r\nЗаботятся о своем здоровье и красоте, предпочитают лечебную косметику, покупают ее в аптеках. Ценят удобство процесса покупки, предъявляют повышенные требования к уровню сервиса в аптеках, нуждаются в расширенном консультировании.\r\n\r\nПреимущества для вебмастеров:\r\n\r\n\r\n\tКонкурентные ставки на рынке;\r\n\tВозможность работать с товарным фидом;\r\n\tВысокий % подтверждения заказов;\r\n\tМного разрешенных типов трафика;\r\n\tСтабильные выплаты.\r\n\r\n\r\nПреимущества для клиентов:\r\n\r\n\r\n\tУдобное расположение аптек;\r\n\tГарантия качества товаров;\r\n\tДоступные цены;\r\n\tПрограмма лояльности;\r\n\tВыгодные акции.\r\n\r\n\r\nПромокоды:\r\nОтсутствуют.\r\n\r\nСверка заказов:\r\nПроводится вручную один раз в месяц.\r\n\r\nМодерация вебмастеров:\r\nПроводится три раза в неделю.\r\n\r\nОтклонение заказов/ отключение партнёра:\r\n\r\n\r\n\tОплата за фродовые заказы, выявленные нашей командой или системой антифрода, не производится;\r\n\tБлокировка вебмастера осуществляется после трёх выявленных случаев фрода и соответствующих предупреждений;\r\n\tВ случае фрода типа «контекст на бренд» блокировка происходит уже при втором нарушении (одно предупреждение и повторный детект).\r\n\r\n\r\nМИНУС СЛОВА НА БРЕНД!!!\r\n\r\nКод ККТУ: 28.1.1\r\n\r\nЖелаем успехов в работе с Будь Здоров!",
-    "status": "active",
+    "name": "Budzdorov",
+    "img": "platform/23446.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2020/10/15/23446-1a07392a64421ef4.png",
     "categories": [
       {
@@ -854,12 +815,7 @@
         }
       }
     ],
-    "img": "platform/23446.png",
-    "affiliate": {
-      "goto_link": "https://ogsib.com/g/bv1my4ppn85af0702a27562e5f47b0/?erid=25H8d7vbP8SRTvKYpNrVmr",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 23446,
     "category": {
       "name": "Personal Care & Pharmacy",
       "id": 67,
@@ -870,15 +826,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://ogsib.com/g/bv1my4ppn85af0702a27562e5f47b0/?erid=25H8d7vbP8SRTvKYpNrVmr",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 23646,
-    "name": "Kapiva [CPS] IN",
-    "name_aliases": "Kavpia, kKepiva, Keypiwa",
     "site_url": "https://www.kapiva.in/",
-    "description": "Company Description: Kapiva’s range of Ghee, Honey, Juices, Teas, Oils and other products all have one common theme -they are selectively sourced, with great emphasis on purity and authenticity. For instance, our Aloe Vera is the best in Rajasthan and extracted within just 4 hours of harvesting. We only source A2 Milk for our Desi Ghee, so that you get more nutrition for every dollop on your roti. Our Wild Honey comes straight from dense forests; unfiltered and unprocessed. Every Kapiva product is carefully sourced with a single objective: to bring it to you just the way Nature created it. We’ve delivered 1 million+ products to over 300,000 customers in the last 1.5 years. Browse our products and become part of the Kapiva lifestyle today!\r\n\r\nCampaign description: Kapiva provides its affiliates an opportunity to earn good revenue if the sale is generated using admitad affiliate link. Affiliate can promote the campaign Pan India.\r\n\r\nObjective: Main objective is to generate the sale on https://www.kapiva.in/ website by promoting the campaign on the provided and allowed promotional methods.\r\n\r\n1. Only those transactions will be billable which will use Admitad coupon codes.\r\n\r\nBrand Stopwords: Kapiva, Kapivahealth, Kapivaimmunity.\r\n\r\nPayout - Slab Wise\r\n\r\nNote  - All order will get tracked under Repeat User on Panel. Final Payout will be calculated at the time of Validations\r\n ",
-    "status": "active",
+    "name": "Kapiva [CPS] IN",
+    "img": "platform/23646.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/2/12/23646-373e4070f9bd8933.png",
     "categories": [
       {
@@ -899,12 +857,7 @@
         }
       }
     ],
-    "img": "platform/23646.png",
-    "affiliate": {
-      "goto_link": "https://tjzuh.com/g/oqxdu8byxq5af0702a278f2eb3eec0/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 23646,
     "category": {
       "name": "Personal Care & Pharmacy",
       "id": 67,
@@ -915,15 +868,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://tjzuh.com/g/oqxdu8byxq5af0702a278f2eb3eec0/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 23809,
-    "name": "MyVitamins UK DE",
-    "name_aliases": "Myvitamins, myvitamin, my vitamins, ьнмшефьшты, ьн мшефьшты",
     "site_url": "https://www.myvitamins.com/",
-    "description": "At Myvitamins we like to keep things simple – because health and happiness shouldn’t be difficult. From daily vitamins to inner beauty must-haves, we’ve got them covered.\r\n\r\nMyvitamins offers a wide range of premium quality vitamins, minerals and health supplements for men and women. Our products are made from raw, high-quality ingredients backed by science. Nutritionists and industry experts bring innovation, transforming the health and wellness market. Adding value to customers’ health and wellness for less.\r\n\r\nKey product ranges include Immunity, Beauty, Digestion, Detox, Sleep, Performance, Omega Fish Oils, Weight Management and everyday Essential Vitamins & Minerals\r\n\r\nFor our customers:\r\n\r\n\r\n\tRaw, high quality, ingredients.\r\n\tRegular offers on top products.\r\n\tWide range of supplements, vitamins and multivitamins.\r\n\tGreat-tasting product options – including gummies and shots.\r\n\tHealth and Wellness advice from our experts.\r\n\tInternational Delivery available.\r\n\r\n\r\n ",
-    "status": "active",
+    "name": "MyVitamins UK DE",
+    "img": "platform/23809.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/17/23809-3a8e8c4c158bce8c.svg",
     "categories": [
       {
@@ -944,12 +899,7 @@
         "parent": null
       }
     ],
-    "img": "platform/23809.svg",
-    "affiliate": {
-      "goto_link": "https://twnfz.com/g/6fr2k47dgc5af0702a27a5ffa3178a/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 23809,
     "category": {
       "name": "Personal Care & Pharmacy",
       "id": 67,
@@ -960,15 +910,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://twnfz.com/g/6fr2k47dgc5af0702a27a5ffa3178a/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 24688,
-    "name": "Neal's Yard Remedies UK US",
-    "name_aliases": "Neal's Yard Remedies; Neil's yard remedies; neal; neil; туфдэы нфкв куьувшуы; Neals",
     "site_url": "https://www.nealsyardremedies.com/",
-    "description": "Neal’s Yard Remedies\r\nAt Neal's Yard Remedies, we're driven by the passionate belief that health and beauty should be more natural, less synthetic. This passion, and our firm belief that it's down to all of us to protect our precious planet, is at the heart of everything we do.\r\n\r\nThe Program\r\nWe have a high average basket value of £49, which is due to the prestigious image of Neal’s Yard Remedies. We also have many returning customers, so affiliates will often earn multiple commissions from the same customer during the 30-day cookie period.\r\n\r\n ",
-    "status": "active",
+    "name": "Neal's Yard Remedies UK US",
+    "img": "platform/24688.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/6/24688-5968e074a4976083.svg",
     "categories": [
       {
@@ -989,12 +941,7 @@
         }
       }
     ],
-    "img": "platform/24688.svg",
-    "affiliate": {
-      "goto_link": "https://ytebb.com/g/nkh9ji4l1n5af0702a27c768085148/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 24688,
     "category": {
       "name": "Personal Care & Pharmacy",
       "id": 67,
@@ -1005,15 +952,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://ytebb.com/g/nkh9ji4l1n5af0702a27c768085148/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 26032,
-    "name": "Aravia",
-    "name_aliases": "Aravia, аравия, фкфмшф, fhfdbz",
     "site_url": "https://aravia.ru",
-    "description": "\r\n\r\nКак проходит сверка \r\n\r\nРучная сверка, проходит в начале каждого месяца.\r\n\r\nВыдача промокодов \r\n\r\nВ программе возможно получить именной промокод, есть общие промокоды.\r\n\r\nИнформация про модерацию \r\n\r\nМодерация проводится оперативно, 3 раза в неделю.",
-    "status": "active",
+    "name": "Aravia",
+    "img": "platform/26032.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/13/26032-83f320d496a2f9e8.svg",
     "categories": [
       {
@@ -1040,18 +989,7 @@
         "parent": null
       }
     ],
-    "img": "platform/26032.svg",
-    "affiliate": {
-      "goto_link": "https://ypetp.com/g/nfg707ifpk5af0702a2720fd7e27b9/?erid=5jtCeReNwxHpfQTEQWKKeCx",
-      "landings": [
-        {
-          "id": 29328,
-          "name": "Подарок за заказ от 2 500 рублей",
-          "code": "489b013131"
-        }
-      ],
-      "cashback_link_data": null
-    },
+    "id": 26032,
     "category": {
       "name": "Personal Care & Pharmacy",
       "id": 67,
@@ -1062,15 +1000,23 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://ypetp.com/g/nfg707ifpk5af0702a2720fd7e27b9/?erid=5jtCeReNwxHpfQTEQWKKeCx",
+      "landings": [
+        {
+          "id": 29328,
+          "name": "Подарок за заказ от 2 500 рублей",
+          "code": "489b013131"
+        }
+      ],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 26079,
-    "name": "Currentbody MENA",
-    "name_aliases": "Currentbodymena; currentbody; currentbody.com; currentbody MENA; сгккутеищвньутф",
     "site_url": "https://me.currentbody.com/",
-    "description": "Currentbody MENA Affiliate Programme\r\n\r\nCurrentBody is the first company to recognise one of the fastest growing trends in the world of beauty. With modern innovation allowing manufacturers to create devices that mimic the on-site devices used by professionals in salons, spas, and clinics, CurrentBody has brought together a complete selection available for home use technology.\r\n\r\nOur Mission\r\n\r\nTo consistently present CurrentBody as the pioneering online destination for home use health and beauty technology.\r\n\r\nWe aim to offer the largest selection of safe, clinically proven electrical health and beauty products in the world, supported by a team with exceptional product knowledge and who provide excellent customer care.",
-    "status": "active",
+    "name": "Currentbody MENA",
+    "img": "platform/26079.jpg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/9/23/26079-9b6e7f8f7a49eecb.jpg",
     "categories": [
       {
@@ -1091,12 +1037,7 @@
         "parent": null
       }
     ],
-    "img": "platform/26079.jpg",
-    "affiliate": {
-      "goto_link": "https://dhwnh.com/g/0a3pmi36d55af0702a2756a188e224/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 26079,
     "category": {
       "name": "Personal Care & Pharmacy",
       "id": 67,
@@ -1107,15 +1048,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://dhwnh.com/g/0a3pmi36d55af0702a2756a188e224/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 26358,
-    "name": "Sephora PL",
-    "name_aliases": "Sephora, sephora, SEPHORA",
     "site_url": "https://www.sephora.pl/",
-    "description": "Sephora.pl is one of the biggest cosmetic store in Europe. Wide range of make-up cosmetics, perfumes and others encourage to buy.\r\n\r\nOnline shopping is more than 18 000 products of 200 brands and:\r\n\r\n\r\n\tfree delivery with orders over 230 zł\r\n\t3 samples to every order\r\n\tfree gift packing\r\n\teasy return\r\n\r\n\r\nValidation time: 67 days",
-    "status": "active",
+    "name": "Sephora PL",
+    "img": "platform/26358.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/29/26358-b17840a3ef3cc782.svg",
     "categories": [
       {
@@ -1136,12 +1079,7 @@
         }
       }
     ],
-    "img": "platform/26358.svg",
-    "affiliate": {
-      "goto_link": "https://ad.admitad.com/g/hkxsi5c4mp5af0702a272617f08a56/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 26358,
     "category": {
       "name": "Personal Care & Pharmacy",
       "id": 67,
@@ -1152,15 +1090,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://ad.admitad.com/g/hkxsi5c4mp5af0702a272617f08a56/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 26446,
-    "name": "Marie Fresh Cosmetics Many Geos",
-    "name_aliases": "mariefresh, marie fresh, marie fres cosmetics, мари фреш, марі фреш",
     "site_url": "https://mariefreshcosmetics.com/",
-    "description": "Marie Fresh Cosmetics — натуральна косметика з доведеною ефективністю, з якою ти отримаєш результат без експериментів над своєю шкірою.\r\nПонад 5 років досвіду власного виробництва косметичних засобів у лабораторії, сертифікованій за європейським стандартом GMP.\r\n\r\nФілософія бренду: тільки необхідні косметичні продукти на полицях у жінок. Ми не випускаємо “порожніх” чи зайвих новинок — лише ті засоби, які справді потрібні кожній жінці для щоденного догляду.\r\n\r\nСьогодні ми створюємо косметику, впроваджуючи інноваційні розробки провідних лабораторій світу.\r\nЗавдяки високій концентрації натуральних активних компонентів ми покращуємо зовнішній вигляд і зберігаємо молодість шкіри, відновлюючи баланс вітамінів і мікроелементів у шкірі та волоссі.\r\n\r\nПереваги для покупців:\r\n\r\n\r\n\tНаші продукти розробляються лікарем-косметологом і технологом, проходять кілька етапів тестування фокус-групами та експертизу в незалежних лабораторіях. Таким чином ми гарантуємо безпечність кожного продукту.\r\n\tУсі активні інгредієнти натуральні та за своєю структурою близькі до шкіри, тому спрямовані на її відновлення й вирішення найпоширеніших проблем.\r\n\tМи підтримуємо екологічність — наша косметика не містить продуктів нафтопереробки, синтетичних компонентів, сульфатів тощо. У складі немає нічого, що може зашкодити здоров’ю.\r\n\r\n\r\nОформлюючи замовлення, Ви отримуєте:\r\n\r\n\r\n\tВідправлення протягом 1 робочого дня\r\n\tШвидку багатоканальну підтримку\r\n\tБезкоштовний індивідуальний підбір догляду\r\n\tПодарунки та пробники до кожного замовлення\r\n\r\n\r\nПереваги для вебмайстрів:\r\n\r\n\r\n\tВисокий відсоток виплат за кожне замовлення\r\n\tРегулярний запуск новинок\r\n\tАкції та знижки\r\n\tПостійно оновлюваний каталог банерів\r\n",
-    "status": "active",
+    "name": "Marie Fresh Cosmetics Many Geos",
+    "img": "platform/26446.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/11/10/26446-24c4ea4dbb6e97a5.svg",
     "categories": [
       {
@@ -1193,12 +1133,7 @@
         "parent": null
       }
     ],
-    "img": "platform/26446.svg",
-    "affiliate": {
-      "goto_link": "https://heqgr.com/g/g0ivrvn4p65af0702a271a2325ef18/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 26446,
     "category": {
       "name": "Personal Care & Pharmacy",
       "id": 67,
@@ -1209,15 +1144,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://heqgr.com/g/g0ivrvn4p65af0702a271a2325ef18/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 26914,
-    "name": "DocMorris FR",
-    "name_aliases": "DocMorris",
     "site_url": "https://www.docmorris.fr/",
-    "description": "DocMorris is the European platform for managing your health. Find more than 150,000 health and beauty products delivered by pharmacies within 24-7 hours. Securely order all the products you need. With DocMorris, participate in the evolution of health, a connected health, simple and fast, to always take care of you.\r\n\r\nYou will find on our site the products of the best brands of drugstore at unbeatable prices:\r\n\r\nNuxe\r\nMustela\r\nAvene\r\nFilorga\r\nLa Roche-Posay\r\nLuxéol\r\nThe operation of DocMorris is simple: the user prepares his basket according to his purchasing needs, then we group the products in order to calculate the most economical combination of the products in the basket according to the prices of our pharmacies.\r\n\r\nWe send the order to pharmacies, who will prepare the order within 24/48 hours and then ship it. Our users have customer service available, which they can contact with any request, in addition to being able to check the status of their order online at any time upon purchase.\r\n\r\nWe also have a health and beauty advice blog, which covers all the categories of our site:\r\n\r\nHealth\r\nBaby care\r\nMaternity\r\nBeauty and care\r\nWellness tips\r\nOur innovations in technology and marketing have led us to be recognized in the sector, on numerous occasions, and to participate in workshops and conferences in different fields.\r\n\r\nFollow us on our networks and stay connected with DocMorris!\r\n ",
-    "status": "active",
+    "name": "DocMorris FR",
+    "img": "platform/26914.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/29/26914-d9e97368affa3e2b.svg",
     "categories": [
       {
@@ -1238,12 +1175,7 @@
         "parent": null
       }
     ],
-    "img": "platform/26914.svg",
-    "affiliate": {
-      "goto_link": "https://ad.admitad.com/g/swqc69smzb5af0702a2743dea864fe/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 26914,
     "category": {
       "name": "Personal Care & Pharmacy",
       "id": 67,
@@ -1254,15 +1186,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://ad.admitad.com/g/swqc69smzb5af0702a2743dea864fe/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 27982,
-    "name": "Farmacia Igea IT",
-    "name_aliases": "Farmacia Igea",
     "site_url": "https://www.farmaciaigea.com/",
-    "description": "Pharmacy Igea is your trusted pharmacy where you will always find everything you are looking for for your health at 360 °.\r\n\r\nAlways, because we are open 24 hours a day, 7 days a week, 365 days a year, and this thanks to a battle that Dr. Ingria, owner of the Igea Pharmacy, has personally carried out. Also supported by strong support from citizens, this battle saw its final realization in 2012.\r\n\r\nEverything you are looking for, because to immediately satisfy every request we have 50 thousand products always available in pharmacies, a large drug counter where 15 expert pharmacists dispense drugs and advice, 8 highly specialized departments in which 60 professionals in the sector will guide you in finding the right product and 500 square meters of exhibition space where you can search, choose, find what you need.\r\n\r\nFor your health at 360 °, because in addition to all this we also have a galenic laboratory and a self-analysis laboratory, a nurse, a physiotherapist, a midwife, a nutritionist, a beautician and a make-up artist at your disposal, an info point to help you and guide you, a van to get you directly to your home and ... an extra point, a place where we organize in-depth courses, workshops, consultancy and many other initiatives.\r\n\r\nEvery day more than 1500 loyal customers come to visit us come and meet us too ... we will help you to live better, longer and with more joy.",
-    "status": "active",
+    "name": "Farmacia Igea IT",
+    "img": "platform/27982.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/29/27982-6e09d63cc77ca1c0.svg",
     "categories": [
       {
@@ -1283,12 +1217,7 @@
         }
       }
     ],
-    "img": "platform/27982.svg",
-    "affiliate": {
-      "goto_link": "https://ad.admitad.com/g/bvlaq94l2l5af0702a2755e683e9f7/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 27982,
     "category": {
       "name": "Personal Care & Pharmacy",
       "id": 67,
@@ -1299,15 +1228,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://ad.admitad.com/g/bvlaq94l2l5af0702a2755e683e9f7/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 28507,
-    "name": "The Body Shop UK",
-    "name_aliases": "The Body Shop",
     "site_url": "https://www.thebodyshop.com/en-gb/",
-    "description": "Our story started in Brighton, England in 1976. There our founder Dame Anita Roddick began mixing her own products and infusing them with a new idea: that business could be a force for good. Following her vision, for 40 years we’ve been rule breaking, never faking and change making. We now have over 3,000 stores in 66 countries and employ over 22,000 people who help us bring our unique blend of ethical beauty with a sense of humour and serious purpose to the world.\r\n\r\nNever afraid to stand out from the crowd and stand up for what’s right, we search the world for the finest ethically-sourced ingredients to create a range of naturally inspired beauty products.\r\n\r\nToday our dedication to using business as a force for good is stronger than ever. As part of our Enrich Not Exploit™ Commitment, we’ve made it our mission to enrich our products, our people, and our planet. That means working fairly with our farmers and suppliers and helping communities thrive through our Community Trade programme, being 100% vegetarian and always and forever being firmly against animal testing.\r\n\r\nTogether we can do it, it’s in our hands.\r\n\r\nWe look forward to working with you!",
-    "status": "active",
+    "name": "The Body Shop UK",
+    "img": "platform/28507.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/4/20/28507-068c9e099fac059c.png",
     "categories": [
       {
@@ -1328,12 +1259,7 @@
         }
       }
     ],
-    "img": "platform/28507.png",
-    "affiliate": {
-      "goto_link": "https://ad.admitad.com/g/hidck4r3cm5af0702a270a9c5c4e41/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 28507,
     "category": {
       "name": "Personal Care & Pharmacy",
       "id": 67,
@@ -1344,15 +1270,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://ad.admitad.com/g/hidck4r3cm5af0702a270a9c5c4e41/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 29217,
-    "name": "Snow Sea",
-    "name_aliases": "vodoroslionline,  Архангельский водорослевый комбинат, Водоросли онлайн, мщвщкщыдшщтдшту,  мщвщкщыдш щтдшту, djljhjckb jykfqy",
     "site_url": "https://snowsea.ru/",
-    "description": "Мы берем у северной природы самое ценное, что она может дать человеку для здоровья и красоты — бурые морские водоросли. И создаем из них невероятно полезные продукты питания, натуральную косметику и оздоравливающие пищевые добавки.\r\n\r\n\r\n\tБез ГМО, SLS и парабенов.\r\n\tБез консервантов.\r\n\tБез искусственных красителей и добавок.\r\n\r\n\r\nТолько первозданный натуральный продукт, над уникальным химическим составом и пользой которого потрудилась сама Природа. Мы делаем богатства Белого моря доступными каждому.\r\n\r\n \r\n\r\n\r\n\tСобственное производство и база добычи арктических водорослей на Белом море,\r\n\tУникальная косметика, функциональные продукты питания и БАДы с натуральным составом: 90% и выше натуральных ингредиентов,\r\n\tПопулярный на рынке ассортимент и формат магазина натуральной косметики,\r\n\tСобственный учебный центр для повышения квалификации персонала,\r\n\tВысокие стандарты качества продукции и оказания услуг.\r\n\r\n\r\nАССОРТИМЕНТ\r\n\r\n\r\n\tФункциональные продукты для здорового питания,\r\n\tБАДы,\r\n\tПрофессиональная косметика,\r\n\tКосметика для ухода за лицом,\r\n\tКосметика для ухода за телом,\r\n\tКосметика для волос,\r\n\tКосметика для ухода за полостью рта,\r\n\tУдобрения\r\n\t Доставка заказов по всей России: по почте, с курьером, в пункты выдачи СДЕК. Возможность оплаты заказа при получении.\r\n\tБонусная система.\r\n\r\n\r\nПреимущества для вебмастеров:\r\n\r\n\r\n\tДостойное вознаграждение за заказ\r\n\tБыстрое подтверждение заказов\r\n\tУникальные предложения со скидками и подарками 1-2 раза в месяц\r\n\tКреативы и баннеры под каждое уникальное предложение со скидками каждые 2-3 недели\r\n\r\n\r\nГЕО: РФ, Казахстан, Беларусь (везде, куда мы можем отправить с территории РФ).\r\n\r\nДлительность холда:  30 дней\r\n\r\nСрок хранения cookie: 90 дней\r\n\r\nРучная сверка раз в месяц.\r\n\r\nМодерация 2 раза в неделю.\r\n\r\nВыдача именных промокодов.\r\n\r\n \r\n\r\nДанные об ОРД. Код ККТУ : 28.1.7\r\n\r\nРекламные материалы",
-    "status": "active",
+    "name": "Snow Sea",
+    "img": "platform/29217.jpg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/8/8/29217-076f9b36374f91d2.jpg",
     "categories": [
       {
@@ -1373,12 +1301,7 @@
         "parent": null
       }
     ],
-    "img": "platform/29217.jpg",
-    "affiliate": {
-      "goto_link": "https://ficca2021.com/g/gkbnrpj15w5af0702a275247bfde9c/?erid=2bL9aMPo2e49hMef4pfUmDuHkN",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 29217,
     "category": {
       "name": "Personal Care & Pharmacy",
       "id": 67,
@@ -1389,15 +1312,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://ficca2021.com/g/gkbnrpj15w5af0702a275247bfde9c/?erid=2bL9aMPo2e49hMef4pfUmDuHkN",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 29277,
-    "name": "Vperfumes GCC Links& Offline codes",
-    "name_aliases": "v perfumes, vperfumes, العطور",
     "site_url": "https://www.vperfumes.com/home",
-    "description": "A perfumery brand with a blend of modernity & tradition. The V Perfumes commenced trading in 2009. With an experience of more than a decade in the wholesale & retail industry, it is now one of the largest retail perfume chains in the UAE offering the best perfumes in Dubai, UAE, Oman, and Qatar. Headquartered in Dubai.",
-    "status": "active",
+    "name": "Vperfumes GCC Links& Offline codes",
+    "img": "platform/29277.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/11/18/29277-309be5ed10adfc4a.svg",
     "categories": [
       {
@@ -1418,12 +1343,7 @@
         "parent": null
       }
     ],
-    "img": "platform/29277.svg",
-    "affiliate": {
-      "goto_link": "https://wbbsv.com/g/ax1gp3o9dz5af0702a27be59cac899/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 29277,
     "category": {
       "name": "Personal Care & Pharmacy",
       "id": 67,
@@ -1434,15 +1354,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://wbbsv.com/g/ax1gp3o9dz5af0702a27be59cac899/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 29341,
-    "name": "Аптека  Озерки",
-    "name_aliases": "Аптека Озерки, ozerki, Озерки, щяуклш, jpthrb, fgntrf",
     "site_url": "https://ozerki.ru/",
-    "description": "Аптека Озерки - сеть аптек низких цен с большим ассортиментом лекарственных средств и товаров для здоровья и красоты, была основана в 1998 году.\r\n\r\nЦА: \r\n\r\n\r\n\tСанкт-Петербург и Ленобласть (лучшая узнаваемость бренда)\r\n\tМосква и область Белгородская область Владимир и область Волгоград и область Вологда и область Кемерово и область Краснодар и край Красноярск Н.Новгород и область Новосибирск и область Орел и область Пенза и область Ростовская область Самара и область Саранск и область Саратов и область Тюмень Чебоксары и Чувашия Ярославская область\r\n\r\n\r\nПреимущества для вебмастеров:\r\n\r\n\r\n\tВысокие ставки (от 5 до 20 %): ставки расчитаны от маржи, а не от чека (суммы заказов)\r\n\tВысокая узнаваемость бренда\r\n\tВысокая скорость сделки\r\n\tВысокий средний чек (~ 2000 руб.)\r\n\tВысокий процент выкупа\r\n\r\n\r\nПреимущества для покупателей:\r\n\r\n\r\n\tБонусная программа и приложения\r\n\tСкидки и кэшбэк\r\n\tУдобство и сервис\r\n\r\n\r\nРазрешенные и запрещенные источники трафика, для работы с оффером.\r\n\r\n\r\n\tНет жестких запретов, кроме бренда\r\n\r\n\r\nРучная сверка раз в месяц\r\n\r\nМодерация вебмастеров 2-3 раза в неделю",
-    "status": "active",
+    "name": "Аптека  Озерки",
+    "img": "platform/29341.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/5/31/29341-f6161b73f4611ae7.svg",
     "categories": [
       {
@@ -1463,12 +1385,7 @@
         "parent": null
       }
     ],
-    "img": "platform/29341.svg",
-    "affiliate": {
-      "goto_link": "https://bednari.com/g/jrxt1elr2l5af0702a274be74b625d/?erid=5jtCeReNwxHpfQTFQPEUmeX",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 29341,
     "category": {
       "name": "Personal Care & Pharmacy",
       "id": 67,
@@ -1479,15 +1396,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://bednari.com/g/jrxt1elr2l5af0702a274be74b625d/?erid=5jtCeReNwxHpfQTFQPEUmeX",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 30104,
-    "name": "BABOR",
-    "name_aliases": "https://babor.ru/, BABOR, babor.ru, бабор, ифищк, ифищккг, косметика, ,f,jh, ,f,jhru, rjcvtnbrf, rhfcjnf, красота",
     "site_url": "https://babor.ru/",
-    "description": "BABOR - ведущая международная компания высокоэффективной профессиональной косметики. На протяжении более 65 лет BABOR воплощает принцип качества made in Germany.\r\n\r\nВсе процессы, от создания формулы до выхода на производство, происходят в штаб-квартире бренда в Ахене. Для удовлетворения самых разноплановых потребностей кожи в лабораториях BABOR разрабатываются формулы высокой точности. Это ключевой фактор успеха, который сделал BABOR номером один на европейском рынке профессиональной косметики и очевидным выбором клиентов в области экспертного ухода за кожей.\r\n\r\nБестселлеры BABOR\r\n\r\n\r\n\tВ 1956 году BABOR вписал значимую главу в историю красоты: был получен патент на Гидрофильное Масло HY-ÖL®, эффективное очищение на натуральной растительной основе, отмеченное профессиональными премиями.\r\n\tБольшим шагом в мировой косметологии стало использование косметических ампул BABOR. Максимальная концентрация активных ингредиентов, заключённая в герметичную стеклянную упаковку, обеспечивает результат за считанные секунды и ультрабыстрый эффект.\r\n\tИтог тесного сотрудничества с дерматологами и пластическими хирургами – космецевтика DOCTOR BABOR, эффективность которой убеждает как косметологов, так и врачей. Космецевтические продукты DOCTOR BABOR рекомендованы для интенсивной регенерации, эффективных решений проблем кожи таких как акне, пигментация и коррекция возрастных изменений.\r\n\r\n\r\nBABOR имеет дистрибьюторские представительства в более чем 70 странах. Товары BABOR можно заказать через официальный сайт с доставкой по всей России.\r\n\r\n \r\n\r\nЦелевая аудитория\r\n\r\nГЕО: Вся Россия (55% Москва и Московская область, остальное - регионы).\r\nПол:\r\n\r\n\r\n\tженщины – 88%, мужчины 12%\r\n\t35‑44 года – 37%\r\n\t45-54 года – 26%\r\n\t25‑34 года – 22%\r\n\t18‑24 года – 3%\r\n\r\n\r\nИнтересы: Красота и Уход\r\nУровень дохода: выше среднего, высокий, премиум\r\nТип устройства: 73% мобайл, 25% - десктоп, 2% - планшеты\r\n\r\n \r\n\r\nПреимущества для покупателей:\r\n\r\n\r\n\tДоставка по всей России: курьер/ПВЗ\r\n\tВозможность оплаты заказа при получении\r\n\tКонсультация эксперта\r\n\tБесплатные образцы в каждом заказе\r\n\tСпециальные подарки и предложения для покупателей интернет-магазина и для участников программы лояльности \r\n\tГотовые идеи для подарков\r\n\tПрофессиональный бренд с доказанной эффективностью, который решает эстетические проблемы кожи.\r\n\r\n\r\n \r\n\r\nПреимущества для вебмастеров:\r\n\r\n\r\n\tСвоевременные выплаты\r\n\tКачественные креативы под каждую акцию и коллекцию\r\n\tСпециальные акции только для интернет – магазина\r\n\tВысокий средний чек среди бьюти-сегмента\r\n\tПостоянная доработка сайта в целях повышение юзабилити\r\n\tРабота с известным профессиональным брендом (доказанная эффективность, мировые награды). Высокое доверие покупателей.\r\n\r\n\r\n\r\n\tРучная сверка раз в месяц\r\n\tКод ККТУ: 15.2.6\r\n\tВыдача именных и smart промокодов\r\n\tМодерация вебмастеров 2 раза в неделю\r\n",
-    "status": "active",
+    "name": "BABOR",
+    "img": "platform/30104.jpg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/11/8/30104-8d3d129472f41880.jpg",
     "categories": [
       {
@@ -1514,18 +1433,7 @@
         "parent": null
       }
     ],
-    "img": "platform/30104.jpg",
-    "affiliate": {
-      "goto_link": "https://ntzgd.com/g/fotrvc7vyx5af0702a27aadcc0ec02/?erid=2bL9aMPo2e49hMef4pfVKzXQeQ",
-      "landings": [
-        {
-          "id": 30655,
-          "name": "CLEANFORMANCE",
-          "code": "e3b6b370b1"
-        }
-      ],
-      "cashback_link_data": null
-    },
+    "id": 30104,
     "category": {
       "name": "Personal Care & Pharmacy",
       "id": 67,
@@ -1536,15 +1444,23 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://ntzgd.com/g/fotrvc7vyx5af0702a27aadcc0ec02/?erid=2bL9aMPo2e49hMef4pfVKzXQeQ",
+      "landings": [
+        {
+          "id": 30655,
+          "name": "CLEANFORMANCE",
+          "code": "e3b6b370b1"
+        }
+      ],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 33287,
-    "name": "Patch and Go",
-    "name_aliases": "пачэндго, патчэндго, зфесрфтвпщ,gfnx'yluj, gfn'yluj",
     "site_url": "https://patchandgo.ru/",
-    "description": "Patch and Go - молодой и активно развивающийся диджитал-ритейлер.\r\nОснован в апреле 2018 года.\r\nВ данный момент на нашей платформе представлено около 1000 бьютипродуктов, 85 известных корейских, американских, итальянских, швейцарских, канадских и российских брендов.\r\n\r\nМы - официальные партнеры брендов: • Botanity • By Wishtrend • BUENO • CELIMAX • Dear, Klairs • FRANKLY • I’m from • MANYO FACTORY • MASIL • Rovectin • SKIN&LAB • SO NATURAL • TIAM \r\n\r\nНовые бренды в Patch and Go : • A.G.E.STOP SWITZERLAND • CU SKIN • EMMA HARDIE • EVO • FIONA FRANCHIMON • FRANKLY • ICON SKIN • JAN MARINI • K18 • MARVIS • OLAPLEX • SACHAJUAN • SKIN&LAB • SKINTELLECTUAL SOLUTIONS • MARVIS • Wish Formula\r\n\r\nПри выборе партнеров для сотрудничества, мы отдаем предпочтение ответственным брендам, заботящимся о безопасных методах производства, серьезно следящих за качеством продукции и защищающих окружающую среду. Мы очень любим бьюти-продукты с натуральными ингредиентами, доказавших клинически свою эффективность. \r\n\r\n\r\n \r\n\r\nЦелевая аудитория\r\n\r\nЦелевая аудитория - женщины 18-55+ лет с ежемесячным доходом выше 40 000 рублей.\r\n\r\nСтоит отметить, что женщины часто покупают продукты для детей, подростков и мужчин.\r\n\r\nОсновную аудиторию можно разделить на три группы, исходя из состояния кожи и запросов наших клиентов\r\n\r\n- Женщины 18-25 лет с проблемной кожей\r\n- Женщины 25-30 лет с признаками возрастных изменений\r\n- Женщины 30-60 лет с признаками возрастных изменений\r\n\r\n\r\n \r\n\r\nПреимущества для клиентов\r\n\r\n \r\n\r\nУникальный ассортимент\r\n\r\nЯвляемся официальными представителями известных брендов и первыми открываем новые имена для российского рынка\r\n\r\n \r\n\r\nПроверено Patch and Go\r\n\r\nНе верьте на слово, пока не попробуете сами!\r\nПеред тем, как попасть на витрину, вся продукция интернет-магазина испытывается сотрудниками Patch and Go\r\n\r\n \r\n\r\nЧастичка любви в каждой посылке\r\n\r\nМы уделяем особое внимание созданию красивой, удобной и экологичный упаковки. Часто наши клиенты делятся с нами своими видео с «Распаковками» посылок. Мы очень ценим такую обратную связь. Именно позитив нашей аудитории мотивирует нас совершенствоваться и продолжать создавать атмосферу маленького праздника в каждой коробке\r\n\r\n \r\n\r\nБесплатная консультация специалистов 7 дней в неделю\r\n\r\nВсегда на связи и готовы подобрать уход для вас и ваших близких\r\n\r\n \r\n\r\nВозможность бесплатной доставки\r\n\r\nПри заказе от 1500 руб.\r\n \r\n\r\nПреимущества для вебмастеров\r\n\r\n \r\n\r\nВысокий %выкупа: более 95%\r\n\r\n \r\n\r\nВозможность стабильного дохода для вас\r\nСреднее количество заказов на одного клиента 4 при среднем чеке 7 000 рублей\r\nКаждый второй клиент возвращается за повторной покупкой. \r\n\r\n \r\n\r\nРегулярные разнообразные акции для вашей аудитории\r\n\r\nНовые акции на уходовую и нишевую косметику каждый день\r\n\r\n \r\n\r\nШирокий ассортимент\r\n\r\n3 ценовых сегмента в одном оффере \r\n\r\n \r\n\r\nДоставка по всей России и в страны СНГ \r\n\r\nРасширяйте аудиторию без преград.\r\nГибкие условия и бесплатная доставка в Республику Беларусь, Казахстан, Армению при заказе от 4500 рублей\r\n\r\n \r\n\r\nУникальные промокоды\r\n\r\nС возможностью начисления вознаграждения по факту применения в покупке\r\n\r\n \r\n\r\nКак проходит сверка (периодичность, автоматическая или ручная)\r\nРаз в месяц с 1-14 число. Ручная.\r\n\r\nДанные об ОРД\r\nКод ККТУ 28.1.7\r\n\r\nВыдача промокодов (именные, смарт, одноразовые итп)\r\nрекламодатель предоставляет именные и смарт-промокоды\r\n\r\nИнформация про модерацию\r\nНесколько раз в неделю.",
-    "status": "active",
+    "name": "Patch and Go",
+    "img": "platform/33287.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/9/2/33287-f076d6f6ca7ea4ad.svg",
     "categories": [
       {
@@ -1577,12 +1493,7 @@
         "parent": null
       }
     ],
-    "img": "platform/33287.svg",
-    "affiliate": {
-      "goto_link": "https://bywiola.com/g/ie4hd7tohm5af0702a274b31e04720/?erid=5jtCeReNwxHpfQTFu9wWkUZ",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 33287,
     "category": {
       "name": "Personal Care & Pharmacy",
       "id": 67,
@@ -1593,15 +1504,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://bywiola.com/g/ie4hd7tohm5af0702a274b31e04720/?erid=5jtCeReNwxHpfQTFu9wWkUZ",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 35214,
-    "name": "DoctorSlon",
-    "name_aliases": "докторслон, вщсещкыдщт, ljrnjhckjy",
     "site_url": "https://doctorslon.ru/",
-    "description": "Компания Докторслон.ру специализируется на продаже средств для ухода за полостью рта – ирригаторов, электрических и мануальных (обычных) зубных щёток, профессиональных зубных паст, ёршиков, нитей, флоссов, пенок, ополаскивателей и тд. Бренд объединяет интернет-магазин и десятки магазинов и пунктов выдачи в Москве, Санкт-Петербурге и других городах России. Компания предлагает выгодные условия доставки и консультации экспертов по выбору средств гигиены.\r\n\r\nПреимущества для клиентов:\r\n\r\n\r\n\t- бесплатная доставка от 3500р\r\n\t- весь товар сертифицирован\r\n\t- расширенная гарантия на большинство товаров\r\n\t- только оригинальная продукция, а не подделки, которые можно купить на маркетплейсах\r\n\t- индивидуальная помощь в подборе каждому клиенту\r\n\t- бесплатная консультация стоматолога онлайн https://doctorslon.ru/company/ask/\r\n\t- акции и скидки https://doctorslon.ru/company/actions/\r\n\t- подарочные сертификаты https://doctorslon.ru/company/actions/650073/\r\n\t- реферальная программа для клиентов https://doctorslon.ru/company/actions/459915/\r\n\t- программа лояльности https://doctorslon.ru/company/actions/21181/\r\n\t- кэшбэк для врачей-стоматологов https://doctorslon.ru/profi/bonusnaya-programma/\r\n\t- опт для стоматологических клиник и не только  https://doctorslon.ru/profi/kompleksnye-postavki/\r\n\r\n\r\n \r\n\r\nПортрет ЦА:\r\n Пол:\r\n\r\n\r\n\tЖенщины - 65,6 %;\r\n\tМужчины - 34,4%\r\n\r\n\r\n• Возраст:\r\n\r\n\r\n\tот 18 до 24 - 18,29%\r\n\tот 25 до 34 - 25,98%\r\n\tот 35 до 44 - 23,9%\r\n\tот 45 до 54 - 14,96%\r\n\tот 55 до 64 - 10,66%\r\n\t65+ - 6,21%\r\n\r\n\r\n• ГЕО РФ -кроме Крыма и Северный Кавказ\r\n\r\n(Оффлайн точки - в СПб, МСК, Краснодар)\r\n\r\n \r\n\r\nПопулярные товары:\r\n\r\nИрригаторы, электрические зубные щетки, ингаляторы, тонометры\r\n\r\n \r\n\r\n Рекомендации по позиционированию бренда:\r\n\r\nКак правильно пишется и произносится наше название:Докторслон.ру  - с заглавной буквы, слитно и обязательно с точка ру\r\nПриложение Докторслон - если речь о приложении\r\nСервис Докторслон Daily (Дейли) - если речь о сервисе внутри приложения\r\n\r\n \r\n\r\nЧто важно в подаче информации о Докторслон.ру\r\n\r\nЗадача - познакомить аудиторию с нашим брендом; рассказать, что Докторслон.ру - это магазин, где можно не только купить любое средство гигиены для полости рта и получить профессиональную консультацию, но и проконсультироваться онлайн (бесплатно) с практикующими стоматологами: детскими стоматологами, ортодонтами, ортопедами, имплантологами.\r\n\r\n \r\n\r\n\r\n\tкрупнейший специализированный магазин средств гигиены и профилактики\r\n\tнас рекомендуют 8 из 10 стоматологов России\r\n\tпостоянно изучаем рынок, тестируем, советуемся со стоматологами, выбираем лучшее\r\n\tподбираем средства гигиены индивидуально для каждого клиента. Все консультанты получают базовое стоматологическое образование\r\n\tуникальный сервис Daily в нашем мобильном приложении - это личный ассистент для ежедневной гигиены, своеобразный трекер выработки новой привычки.\r\n\tконсультации со стоматологом-онлайн на сайте и в приложении\r\n\tэко-проект по сбору использованных зубных щёток\r\n\r\n\r\nработаем не только онлайн: имеем несколько офлайн магазинов средств гигиены полости рта в Москве, СПб и Краснодаре. Возможность протестировать, пощупать, включить, попробовать. Помощь консультанта, который разбирается в продукции.\r\n\r\n\r\n\tЭкспертность. Эксперт в уходе за полостью рта.\r\n\r\n\r\n \r\n\r\nМинус-слова\r\n\r\nДля вебмастеров:\r\n\r\n\r\n\tРучная сверка раз в месяц.\r\n\tМодерация вебмастеров 2 раза в неделю.\r\n\tВыдача именных промокодов.\r\n\r\n\r\nДанные об ОРД. Код ККТУ: 22.3.3\r\n\r\nС Уважением, Партнерская программа Докторслон.ру!",
-    "status": "active",
+    "name": "DoctorSlon",
+    "img": "platform/35214.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/30/35214-a913e07016f6972d.svg",
     "categories": [
       {
@@ -1634,12 +1547,7 @@
         "parent": null
       }
     ],
-    "img": "platform/35214.svg",
-    "affiliate": {
-      "goto_link": "https://yjfca.com/g/v2823rwv7o5af0702a273d0c9a2446/?erid=2bL9aMPo2e49hMef4pfz6VfpGb",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 35214,
     "category": {
       "name": "Personal Care & Pharmacy",
       "id": 67,
@@ -1650,15 +1558,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://yjfca.com/g/v2823rwv7o5af0702a273d0c9a2446/?erid=2bL9aMPo2e49hMef4pfz6VfpGb",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 37980,
-    "name": "Mamash UA",
-    "name_aliases": "Мамаш, mamash",
     "site_url": "https://mamash.ua/",
-    "description": "MAMASH – український нішевий бренд доглядової косметики. В асортименті засоби для обличчя, волосся і тіла. \r\n\r\nСеред постійних клієнтів відомі особистості та найвпливовіші українські лідери думок, більшість з яких залишаються з MAMASH ще з часів заснування. За рахунок цього є велика довіра та впізнаваність. \r\n\r\nБренд веде активну волонтерську діяльність, про яку неодноразово згадували у своїх матеріалах міжнародні глянці VOGUE та ELLE.\r\n\r\nВся продукція виготовляється у Львові з повністю сертифікованих у Європі активів за сприяння провідних світових лабораторій-партнерів бренду: CLR (Берлін), Cobiosa (Барселона) та Infinitec (Барселона). \r\n\r\nУ всіх засобах використовується нішевий парфум, який для бренду виготовляє французька парфумерна компанія Jean Niel.\r\n\r\nЖоден інгредієнт не тестується на тваринах, не містить парабенів, спиртів, формальдегідів, SLES/SLS, барвників. \r\n\r\nСеред колекцій MAMASH: \r\n\r\n\r\n\t15 систем догляду для обличчя;\r\n\t4 прогресивні лінійки для відновлення та росту волосся;\r\n\t6 комплексів для догляду за тілом.\r\n\r\n\r\nДогляд для обличчя, тіла і волосся від MAMASH — це унікальні діючі формули з високою концентрацією активів для того, щоб твоя шкіра відчула трохи магії. \r\n\r\nПереваги для клієнтів:\r\n\r\n\r\n\tбезкоштовна консультація кваліфікованого косметолога для підбору засобів; \r\n\tбезкоштовна доставка;\r\n\tподарунки до замовлень від суми 1500 грн\r\n\tзнижки на комплексні набори \r\n\r\n\r\nПортрет цільової аудиторії \r\n\r\n\r\n\tОсновна цільова аудиторія – жінки віком від 25 років з вищою освітою та середнім рівнем доходу. Вони приділяють увагу саморозвитку та, зокрема, догляду за собою. Б`юті-ритуали для них – це важлива частина дня, яка приносить не тільки користь, а й задоволення від процесу. Вони обирають догляд, в якості якого впевнені. Більшість жінок, які обирають MAMASH, залишаються з брендом протягом багатьох років.\r\n\r\n\r\nПопулярні товари \r\n\r\n\r\n\tКомплексний набір для волосся Niacinamide Theraphy Prestige\r\n\tКомплексний набір для волося Filler Therapy Prestige\r\n\tКомплексний набір Encapsulated Retinol Standard \r\n\tКомплексний набір Anti-Glycation Prestige\r\n\tКрем для обличчя з SPF 30 \r\n\tКомплексний антицелюлітний набір Sunrise in Sicily Prestige  \r\n\r\n\r\nРекомендації щодо позиціонування бренду\r\n\r\n\r\n\tMAMASH – український нішевий бренд доглядової косметики.\r\n\tПерше, на що звертаєш увагу — вишуканість дизайну та його лаконічність.\r\n\tСклад і ефективність засобів: всі інгредієнти, які використовуються для виготовлення засобів, мають європейську сертифікацію. Постійні партнери бренду – провідні європейські лабораторії по виготовленню активів.\r\n\tОсновне, на чому зараз зосереджена діяльність бренду — активне волонтерство. Про реалізовані проєкти можна більше дізнатись у соц. мережах бренду.\r\n",
-    "status": "active",
+    "name": "Mamash UA",
+    "img": "platform/37980.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/6/23/37980-5f0bc39b25e03866.svg",
     "categories": [
       {
@@ -1691,12 +1601,7 @@
         "parent": null
       }
     ],
-    "img": "platform/37980.svg",
-    "affiliate": {
-      "goto_link": "https://bywiola.com/g/rasbm4geee5af0702a272b2a4ed853/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 37980,
     "category": {
       "name": "Personal Care & Pharmacy",
       "id": 67,
@@ -1707,15 +1612,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://bywiola.com/g/rasbm4geee5af0702a272b2a4ed853/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 38150,
-    "name": "Iherb.group",
-    "name_aliases": "айхерб, fq[th,, шруки",
     "site_url": "https://iherbgroup.ru",
-    "description": "iHerb — крупнейший интернет-магазин, предлагающий более 35 000 тысяч товаров, включая БАДЫ, средства для домашнего ухода, натуральную косметику, витамины, аромамасла, товары для дома. Доставка в любую точку России СДЭК или Почта России. Принимаем любые российские банковские карты.\r\n\r\n \r\n\r\n\r\nПреимущества для клиентов:\r\n\r\nПредлагаем полный ассортимент iHerb, принимаем российские банковские карты, доставляем в любую точку России за 3-4 недели, не требуем заполнения таможенных деклараций.\r\n\r\n \r\n\r\n\r\nПортрет целевой аудитории:\r\n\r\nПокупатели со средним и выше среднего доходами, которые заботятся о своем здоровье, красоте и образе жизни, заинтересованы в составе и качестве продуктов, которые потребляют и используют в повседневной жизни. \r\n\r\n \r\n\r\n\r\nПопулярные товары:\r\n\r\nВитамины групп B,C,D,E, омега\r\n\r\n \r\n\r\n\r\nРекомендации по позиционированию бренда: \r\n\r\nАкцент нужно сделать на том что можно оформлять заказы как раньше, скорость доставки практически такая же, ассортимент прежний\r\n\r\n\r\n\tРучная сверка раз в месяц\r\n\tКод ККТУ: 15.3.5\r\n\tВыдача именных и smart промокодов\r\n\tМодерация 2 раза в неделю\r\n\r\n\r\nС Уважением, Партнерская программа iHerb!",
-    "status": "active",
+    "name": "Iherb.group",
+    "img": "platform/38150.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/23/38150-a8b3c61d705ecb4d.svg",
     "categories": [
       {
@@ -1736,12 +1643,7 @@
         }
       }
     ],
-    "img": "platform/38150.svg",
-    "affiliate": {
-      "goto_link": "https://xnmik.com/g/ncvzabqdgm5af0702a2762343b7806/?erid=2bL9aMPo2e49hMef4pfzYmiQPz",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 38150,
     "category": {
       "name": "Personal Care & Pharmacy",
       "id": 67,
@@ -1752,15 +1654,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://xnmik.com/g/ncvzabqdgm5af0702a2762343b7806/?erid=2bL9aMPo2e49hMef4pfzYmiQPz",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 40417,
-    "name": "Doctorslon KZ",
-    "name_aliases": "doctorslon, ljrnjhckjy, докторслон, доктор слон, вщсещкыдщт, вщлещк ыдщт",
     "site_url": "https://doctorslon.kz/",
-    "description": "«Доктор Слон» — интернет-магазин, специализирующийся на ирригаторах, зубных щетках и всевозможных средствах по уходу за полостью рта. Мы стремимся предложить нашим клиентам максимальный выбор товаров с оптимальным соотношением цены и качества.\r\n\r\n\r\nПортрет ЦА:\r\n \r\n\r\nПол:\r\n\r\n\r\n\tЖенщины - 65,6 %\r\n\tМужчины - 34,4%\r\n\r\n\r\nВозраст:\r\n\r\n\r\n\tот 18 до 24 - 18,29%\r\n\tот 25 до 34 - 25,98%\r\n\tот 35 до 44 - 23,9%\r\n\tот 45 до 54 - 14,96%\r\n\tот 55 до 64 - 10,66%\r\n\t65+ - 6,21%\r\n\r\n\r\nПреимущества для веб-мастеров:\r\n\r\n\r\n\tКонкурентные ставки по сегменту\r\n\tВысокий процент подтверждения \r\n\tАкции и рекламные материалы \r\n\tПоддержка и надежное сотрудничество\r\n\r\n\r\nПреимущества для клиентов:\r\n\r\n\r\n\tбесплатная доставка курьером от 20 000 тг\r\n\tвесь товар сертифицирован\r\n\tрасширенная гарантия на большинство товаров\r\n\tтолько оригинальная продукция, а не подделки, которые можно купить на маркетплейсах\r\n\tиндивидуальная помощь в подборе каждому клиенту\r\n\tбесплатная консультация стоматолога онлайн https://doctorslon.kz/company/ask/\r\n\tакции и скидки https://doctorslon.kz/company/actions/\r\n\tподарочные сертификаты https://doctorslon.kz/company/actions/650073/\r\n\tреферальная программа для клиентов https://doctorslon.kz/company/actions/459915/\r\n\tпрограмма лояльности https://doctorslon.kz/company/actions/21181/\r\n\r\n\r\nОсобенности работы оффера:\r\n\r\n\r\n\tЕжемесячная ручная сверка\r\n\tВ программе доступен промокодный инструмент / смарт промокоды\r\n\tРегулярная модерация на стороне Адмитад\r\n\r\n\r\n \r\n\r\n\r\nПопулярные товары\r\n\r\n\r\n\tИрригаторы\r\n\tэлектрические зубные щетки\r\n\tингаляторы\r\n\tтонометры\r\n\r\n\r\nЧто важно в подаче информации о Докторслон\r\n\r\nЗадача - познакомить аудиторию с нашим брендом; рассказать, что Докторслон - это магазин, где можно не только купить любое средство гигиены для полости рта и получить профессиональную консультацию, но и проконсультироваться онлайн (бесплатно) с практикующими стоматологами: детскими стоматологами, ортодонтами, ортопедами, имплантологами.\r\n\r\n\r\n\tкрупнейший специализированный магазин средств гигиены и профилактики\r\n\tнас рекомендуют 8 из 10 стоматологов\r\n\tпостоянно изучаем рынок, тестируем, советуемся со стоматологами, выбираем лучшее\r\n\tподбираем средства гигиены индивидуально для каждого клиента: все консультанты получают базовое стоматологическое образование\r\n\tконсультации со стоматологом-онлайн на сайте и в приложении\r\n\tэко-проект по сбору использованных зубных щёток\r\n\tПомощь консультанта, который разбирается в продукции\r\n\tЭкспертность в уходе за полостью рта\r\n\r\n\r\n \r\n\r\nПодключайтесь к партнерской программе Doctorslon!",
-    "status": "active",
+    "name": "Doctorslon KZ",
+    "img": "platform/40417.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/14/40417-364de08f3dd8504e.svg",
     "categories": [
       {
@@ -1792,12 +1696,7 @@
         }
       }
     ],
-    "img": "platform/40417.svg",
-    "affiliate": {
-      "goto_link": "https://yknhc.com/g/ttfls6sqis5af0702a27ef285ae838/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 40417,
     "category": {
       "name": "Personal Care & Pharmacy",
       "id": 67,
@@ -1808,15 +1707,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://yknhc.com/g/ttfls6sqis5af0702a27ef285ae838/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 45296,
-    "name": "",
-    "name_aliases": "aptekiplus.ru, fgntrfgk.c, fgntrf, fgntrb, аптека плюс, аптеки, аптекаплюс, aptekiplus",
     "site_url": "https://aptekiplus.ru/",
-    "description": "",
-    "status": "active",
+    "name": "",
+    "img": "platform/45296.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/1/10/45296-adf02f14d781cbbc.svg",
     "categories": [
       {
@@ -1837,12 +1738,7 @@
         }
       }
     ],
-    "img": "platform/45296.svg",
-    "affiliate": {
-      "goto_link": "https://tsygg.com/g/2m4nkfyzhp5af0702a27f724164c66/?erid=2bL9aMPo2e49hMef4pgVRznDVL",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 45296,
     "category": {
       "name": "Personal Care & Pharmacy",
       "id": 67,
@@ -1853,15 +1749,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://tsygg.com/g/2m4nkfyzhp5af0702a27f724164c66/?erid=2bL9aMPo2e49hMef4pgVRznDVL",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 98190,
-    "name": "",
-    "name_aliases": "yamanshop.ru, yamanshop. zvfy",
     "site_url": "https://yamanshop.ru",
-    "description": "",
-    "status": "active",
+    "name": "",
+    "img": "platform/98190.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/5/7/98190-cb3b1d1ddd14ca37.svg",
     "categories": [
       {
@@ -1882,12 +1780,7 @@
         "parent": null
       }
     ],
-    "img": "platform/98190.svg",
-    "affiliate": {
-      "goto_link": "https://ogsib.com/g/fm581nmnv35af0702a27c3d579441b/?erid=2bL9aMPo2e49hMef4phyHnjWSP",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 98190,
     "category": {
       "name": "Personal Care & Pharmacy",
       "id": 67,
@@ -1898,15 +1791,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://ogsib.com/g/fm581nmnv35af0702a27c3d579441b/?erid=2bL9aMPo2e49hMef4phyHnjWSP",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 98498,
-    "name": "GLS store RU",
-    "name_aliases": "glsstore_RU, GLS PHARMACEUTICALS, джиэлэс, gls, глс, глс фармасьютикалс, глс фармасьютикалз, gls фармасьютикалc, джиэлэс фармасьютикалз",
     "site_url": "https://gls.store",
-    "description": "GLS PHARMACEUTICALS — российская компания-производитель биологически активных добавок, основанная в 2015 году. Почти 10 лет компания динамично развивается, удовлетворяя потребности самых взыскательных приверженцев здорового образа жизни, выпуская более 350 наименований продукции без диоксид титана, ГМО, пестицидов, хлорированных и бромированных соединений.\r\n\r\nМы специализируемся на производстве и продаже высококачественных БАДов. Мы стремимся улучшить качество жизни наших клиентов через эффективные и безопасные продукты, разработанные на основе научных исследований и инновационных технологий. Наша продукция включает в себя витаминно-минеральные комплексы, добавки для укрепления иммунной системы и поддержания здоровья кожи, волос и ногтей и многое другое.\r\n\r\nПортрет ЦА:\r\n\r\n•  Старше 18 лет, мужчины и женщины.\r\n•  Заботятся о здоровье.\r\n•  Прогрессивные.\r\n•  Среднего и высокого дохода.\r\n•  Хотят стать лучше.\r\n\r\nПреимущества работы для партнеров:\r\n\r\n•  Регулярные выплаты\r\n\r\n•  Предоставление рекламных материалов\r\n\r\nПреимущества для клиентов:\r\n\r\n•  Уникальность продукции: вывод на рынок принципиально новых продуктов, не имеющих аналогов.\r\n•  Высокое качество продукции: контроль качества на всех этапах (разработка рецептуры, закупка сырья, получение заключений экспертов и регистрация, производство).\r\n•  Признание эффективности продукции специалистами: поддержка профессионального сообщества.\r\n•  Сертифицированное производство.\r\n•  Широкий ассортимент (Омега-3, Магний, Коллаген, Витамин D3, Мужская формула, Женская формула, Биотин, Йодид калия, Магний + витамин В, комплекс витаминов В, цинк, спортивное питание, товары для красоты, товары для похудения, товары для детей).\r\n•  Скидка 15% на первый заказ на сайте\r\n\r\nУсловия доставки\r\n\r\nДля доставки доступны несколько способов: курьерская служба СДЭК, Boxberry, доставка Почтой России, Яндекс Доставка.\r\nДоставка осуществляется по территории России, Казахстана и Беларуси.\r\n\r\nКак проходит сверка \r\n\r\nСверка проводится вручную 1 раз в начале каждого месяца.\r\n\r\nВыдача промокодов\r\n\r\nВ программе не предусмотрены промокоды.\r\n\r\nИнформация про модерацию \r\n\r\nМодерация проводится оперативно, 3 раза в неделю.",
-    "status": "active",
+    "name": "GLS store RU",
+    "img": "platform/98498.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/10/17/98498-f3cfbfb3cf1d02cf.svg",
     "categories": [
       {
@@ -1927,12 +1822,7 @@
         }
       }
     ],
-    "img": "platform/98498.svg",
-    "affiliate": {
-      "goto_link": "https://uuwgc.com/g/qxrh06dznu5af0702a276f55a5428c/?erid=2bL9aMPo2e49hMef4phyQ8NRfZ",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 98498,
     "category": {
       "name": "Personal Care & Pharmacy",
       "id": 67,
@@ -1943,15 +1833,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://uuwgc.com/g/qxrh06dznu5af0702a276f55a5428c/?erid=2bL9aMPo2e49hMef4phyQ8NRfZ",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 102500,
-    "name": "Очкарик RU",
-    "name_aliases": "Очкарик RU, jxrfhbr, ochkarik, ochkarik.ru",
     "site_url": "https://ochkarik.ru/",
-    "description": "«Очкарик» – онлайн-пространство для удобных покупок товаров для зрения по доступным ценам. \r\n\r\nЗа 22 года присутствия на оптическом рынке мы развезли по городам России более 4,5 млн заказов. \r\nВ нашем интернет-магазине представлены модные коллекции солнцезащитных очков и оправ, необходимые аксессуары, контактные линзы ведущих производителей на все случаи жизни – однодневные и плановой замены, для коррекции пресбиопии и астигматизма, а также цветные варианты. У нас представлены такие популярные бренды, как Essilor, Seiko, Johnson&Johnson, Alcon, Bausch&Lomb, Ray-Ban, Vogue, Prada, Versace, Polaroid, Gresso, Kaleos и другие.\r\n\r\nПортрет ЦА:\r\nЦелевая аудитория – максимально широкая, так как товары для зрения нужны всем.\r\n\r\nПреимущества для клиентов:\r\n\r\n\r\n\tВозможность заказать до пяти моделей солнцезащитных очков и оправ для примерки с возможностью отказа от заказа, если ни одна модель не подошла.\r\n\tВозможность оплатить заказ через картой рассрочки «ХАЛВА».\r\n\tУдобные способы доставки: самовывоз из пункта выдачи, постамата или салона оптики, а также доставка на дом.\r\n\tЛегкое оформление заказа: по телефону, через мессенджеры и социальные сети, даже голосовыми сообщениями.\r\n\tВ каждом салоне оптики можно получить качественные медицинские услуги и заказать корригирующие очки.\r\n\tУсловия доставки\r\n\tДоставка по всей России. \r\n\tСпособы доставки: самовывоз или доставка на адрес.\r\n\r\n\r\nКак проходит сверка (периодичность, автоматическая или ручная)\r\nРаз в месяц с 1-14 число. Ручная.\r\n\r\nДанные об ОРД\r\nКод ККТУ 12.1.3\r\n\r\nВыдача промокодов (именные, смарт, одноразовые итп)\r\nнет\r\n\r\nИнформация про модерацию\r\nНесколько раз в неделю.\r\n\r\nПопулярные товары:\r\n\r\n\r\n\tКонтактные линзы популярных производителей – Johnson&Johnson, Alcon, Bausch&Lomb, CooperVision, Clearlab.\r\n\tБрендовые солнцезащитные очки и оправы – Ray-Ban, Vogue, Prada, Versace, Polaroid, Gresso, Carrera, Hugo Boss, Missoni, Jimmy Choo.\r\n\tОчковые линзы ведущих производителей - Essilor, Seiko, Hoya, Nikon.\r\n",
-    "status": "active",
+    "name": "Очкарик RU",
+    "img": "platform/102500.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/10/102500-cbcfcf9d4aac5a09.svg",
     "categories": [
       {
@@ -1978,18 +1870,7 @@
         "parent": null
       }
     ],
-    "img": "platform/102500.svg",
-    "affiliate": {
-      "goto_link": "https://zejcl.com/g/c769npayr25af0702a271fa932f369/?erid=2bL9aMPo2e49hMef4phyjruCUV",
-      "landings": [
-        {
-          "id": 31231,
-          "name": "Скидки до 70 до конца ноября",
-          "code": "0c832074f1"
-        }
-      ],
-      "cashback_link_data": null
-    },
+    "id": 102500,
     "category": {
       "name": "Personal Care & Pharmacy",
       "id": 67,
@@ -2000,15 +1881,23 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://zejcl.com/g/c769npayr25af0702a271fa932f369/?erid=2bL9aMPo2e49hMef4phyjruCUV",
+      "landings": [
+        {
+          "id": 31231,
+          "name": "Скидки до 70 до конца ноября",
+          "code": "0c832074f1"
+        }
+      ],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 107100,
-    "name": "Самсон-Фарма RU",
-    "name_aliases": "samson-pharma.ru, Samson-pharma, Самсон-Фарма RU, Самсон-Фарма",
     "site_url": "https://samson-pharma.ru",
-    "description": "Аптека Самсон-Фарма - сеть аптек низких цен с большим ассортиментом лекарственных средств и товаров для здоровья и красоты, была основана в 1993 году.\r\n\r\nЦелевая аудитория:\r\n1. Максимальное присутствие бренда – Москва \r\n2. Самовывоз и доставка:  в регионах с административными центрами: Санкт-Петербург, Новосибирск, Саратов, Краснодар, Волгоград, Белгород, Вологда, Калуга, Петропавловск-Камчатский, Кемерово, Красноярск, Омск, Пенза, Псков, Новая Адыгея, Уфа, Ростов-на-Дону, Самара, Саранск, Екатеринбург, Ставрополь, Тюмень, Тверь, Алтай, Владивосток.\r\n\r\nГЕО: Вышеуказанные регионы\r\n\r\nПреимущества для вебмастеров:\r\n1. Высокие ставки*\r\n2. Высокая узнаваемость бренда (в целевом регионе)\r\n3. Высокая скорость сделки\r\n4. Высокий средний чек\r\n5. Высокий процент выкупа (90%)\r\n*ставки расчитаны от маржи, а не от чека (суммы заказов)\r\n\r\nПреимущества для клиента: \r\n- Ночная доставка\r\n\r\nРазрешенные и запрещенные источники трафика, для работы с оффером.\r\n- Нет жестких запретов, кроме бренда. \r\n\r\nРучная сверка раз в месяц\r\n\r\nМодерация вебмастеров 2-3 раза в неделю",
-    "status": "active",
+    "name": "Самсон-Фарма RU",
+    "img": "platform/107100.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/8/15/107100-d88d8b9063653875.svg",
     "categories": [
       {
@@ -2029,12 +1918,7 @@
         }
       }
     ],
-    "img": "platform/107100.svg",
-    "affiliate": {
-      "goto_link": "https://xyowz.com/g/t5hmp42dno5af0702a274ec56e1a5a/?erid=2bL9aMPo2e49hMef4phz5Zxzyf",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 107100,
     "category": {
       "name": "Personal Care & Pharmacy",
       "id": 67,
@@ -2045,15 +1929,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://xyowz.com/g/t5hmp42dno5af0702a274ec56e1a5a/?erid=2bL9aMPo2e49hMef4phz5Zxzyf",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 107571,
-    "name": "Супераптека RU",
-    "name_aliases": "superapteka, Супераптека, superapteka.ru",
     "site_url": "https://superapteka.ru",
-    "description": "«Супераптека» – это новый удобный и быстрый сервис заказа аптечных товаров.\r\n\r\n«Супераптека» объединяет крупнейшие аптечные сети страны и помогает найти необходимые лекарства по лучшей цене, получить заказ в ближайшей аптеке и в удобное для вас время.\r\n\r\nЦелевая аудитория:\r\n\r\n\r\n\tМаксимальное присутствие бренда – Москва;\r\n\tСамовывоз и доставка:  в регионах с административными центрами: Санкт-Петербург, Новосибирск, Саратов, Краснодарский край, Волгоград, Вологда, Калуга, Камчатский край, Кемерово, Красноярск, Омск, Пенза, Псков, Республика Адыгея, Уфа, Ростов-на-Дону, Самара, Саранск, Екатеринбург, Ставрополь, Тюмень, Тверь, Алтай, Владивосток.\r\n\r\n\r\nПреимущества для вебмастеров:\r\n\r\n\r\n\tВысокие ставки;\r\n\tВысокая узнаваемость бренда (в целевом регионе);\r\n\tВысокий средний чек (~ 1 900 руб.);\r\n\tВысокий процент выкупа (90%);\r\n\tВысокая скорость сделки.\r\n\r\n\r\nПреимущества «Супераптеки» для потребителя:\r\n\r\n\r\n\tВыгодные цены;\r\n\tПолный ассортимент и наличие товаров для здоровья, красоты и здорового образа жизни;\r\n\tГарантия подлинности и качества;\r\n\tПодробные описания, инструкции по применению, показания и противопоказания;\r\n\tАльтернативные предложения товара с тем же действующим веществом или аналоги;\r\n\tВозможность заказа редких и дорогостоящих препаратов;\r\n\tНочная доставка;\r\n\tСкидка 500₽ по промокоду NEW500 на первый заказ в приложении.\r\n\r\n\r\nРазрешенные и запрещенные источники трафика, для работы с оффером.\r\n\r\n\r\n\tНет жестких запретов, кроме бренда. \r\n\r\n\r\nТарифы:\r\n\r\n\r\n\tТовары с плавающими тарифами, код тарифа равен вознаграждению. Тариф = % cтавке -ндс, ставка прописана в товарном фиде;\r\n\tСтавки расчитаны от маржи, а не от чека (суммы заказов).\r\n\r\n\r\nРучная сверка раз в месяц\r\n\r\nМодерация вебмастеров 2-3 раза в неделю",
-    "status": "active",
+    "name": "Супераптека RU",
+    "img": "platform/107571.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/8/19/107571-dad8bb22cc9dcb1e.svg",
     "categories": [
       {
@@ -2074,12 +1960,7 @@
         }
       }
     ],
-    "img": "platform/107571.svg",
-    "affiliate": {
-      "goto_link": "https://uuwgc.com/g/jtm0wu1c9n5af0702a27fc6cceb6b7/?erid=2bL9aMPo2e49hMef4phzBz6E7i",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 107571,
     "category": {
       "name": "Personal Care & Pharmacy",
       "id": 67,
@@ -2090,15 +1971,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://uuwgc.com/g/jtm0wu1c9n5af0702a27fc6cceb6b7/?erid=2bL9aMPo2e49hMef4phzBz6E7i",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 107575,
-    "name": "Доктор Столетов RU",
-    "name_aliases": "cnjktnjd, Stoletov, Доктор Столетов, stoletov.ru, вщлещк ыещдуещм, столетов, cnjktnjd, ljrjh cnjktnjd",
     "site_url": "https://stoletov.ru",
-    "description": " «Доктор Столетов» – это аптеки премиум сегмента с широким ассортиментом лекарственных средств, лечебной косметики, диетических и диабетических продуктов, витаминов и спортивного питания.\r\n\r\nЦА: \r\n1. Максимальное присутствие бренда – Москва \r\n2. Самовывоз и доставка:  в регионах с административными центрами: \r\n\r\n\r\n\tМосква\r\n\tСанкт-Петербург и Ленобласть\r\n\tНовосибирск и область\r\n\tСаратов и область\r\n\tКраснодар и край\r\n\tВолгоград и область\r\n\tКемерово и область\r\n\tКрасноярск и край\r\n\tОмск и область\r\n\tПсков и область\r\n\tРеспублика Адыгея\r\n\tРеспублика Башкортостан\r\n\tРостовская область\r\n\tСамара и область\r\n\tСвердловская область\r\n\tТюмень и область\r\n\tТверская область\r\n\r\n\r\nПреимущества для вебмастеров:\r\n\r\n\r\n\tВысокие ставки  \r\n\tВысокая узнаваемость бренда (в целевом регионе)\r\n\tВысокая конверсия в заказ - 8,27%\r\n\tВысокий процент выкупа (90%)\r\n\tВысокая скорость сделки\r\n\r\n\r\nПреимущества для покупателей: \r\n\r\n\r\n\tНочная доставка\r\n\tСкидка 500₽ по промокоду NEW500 на первый заказ в приложении\r\n\r\n\r\nРазрешенные и запрещенные источники трафика, для работы с оффером.\r\n\r\n\r\n\tНет жестких запретов, кроме бренда.\r\n\r\n\r\nТарифы:\r\n\r\n\r\n\tТовары с плавающими тарифами, код тарифа равен вознаграждению. Тариф = % cтавке -ндс, ставка прописана в товарном фиде.\r\n\tСтавки расчитаны от маржи, а не от чека (суммы заказов).\r\n\r\n\r\nРучная сверка раз в месяц\r\n\r\nМодерация вебмастеров 2-3 раза в неделю",
-    "status": "active",
+    "name": "Доктор Столетов RU",
+    "img": "platform/107575.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/8/19/107575-12caa1e0b4d53246.svg",
     "categories": [
       {
@@ -2119,12 +2002,7 @@
         }
       }
     ],
-    "img": "platform/107575.svg",
-    "affiliate": {
-      "goto_link": "https://heqgr.com/g/yd3de4kng05af0702a27631040316e/?erid=2bL9aMPo2e49hMef4phzBz6ZkU",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 107575,
     "category": {
       "name": "Personal Care & Pharmacy",
       "id": 67,
@@ -2135,15 +2013,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://heqgr.com/g/yd3de4kng05af0702a27631040316e/?erid=2bL9aMPo2e49hMef4phzBz6ZkU",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 108555,
-    "name": "DermaZone Many GEOs links & promo codes",
-    "name_aliases": "https://dermazonestore.com/, dermazonestore, DermaZone, dermazonestore.com",
     "site_url": "https://www.dermazonestore.com/",
-    "description": "WHO ARE WE:\r\nDermazonestore is one of the leading cosmoceutical online stores in the region.\r\n\r\n\r\nWe are specialized in cosmetics, personal, skin, nutrition, and health care products which are found in professional clinics, pharmacies and homes throughout the Middle East and GCC countries.\r\n\r\n\r\nWe are proud to help healthcare providers to enrich thousands, perhaps millions of people to feel better .\r\n\r\n\r\nYes, we Serve KSA and all GCC with Super fast delivery solutions that let all customers be happy and loyal ones.\r\n\r\n \r\n\r\nBrand book\r\n\r\n ",
-    "status": "active",
+    "name": "DermaZone Many GEOs links & promo codes",
+    "img": "platform/108555.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/9/20/108555-eab5bc55efbb349b.svg",
     "categories": [
       {
@@ -2164,12 +2044,7 @@
         }
       }
     ],
-    "img": "platform/108555.svg",
-    "affiliate": {
-      "goto_link": "https://bjpql.com/g/03how5od0x5af0702a27238e05a71e/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 108555,
     "category": {
       "name": "Personal Care & Pharmacy",
       "id": 67,
@@ -2180,15 +2055,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://bjpql.com/g/03how5od0x5af0702a27238e05a71e/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 117473,
-    "name": "ЛЭТУАЛЬ KZ",
-    "name_aliases": "letoile, ЛЭТУАЛЬ KZ, ЛЭТУАЛЬ, www.letoile.kz, letoile.kz, k'nefkm, дуещшду",
     "site_url": "https://www.letoile.kz",
-    "description": "ЛЭТУАЛЬ — лидер парфюмерно-косметической индустрии в России.\r\n\r\nВот уже 23 года мы радуем клиентов лучшим сервисом и лучшим ассортиментом, профессиональными рекомендациями и экспертным подходом. У нас 1000 магазинов от Калининграда до Владивостока, и каждый из них — комфортное пространство для увлекательного бьюти-шопинга. ЛЭТУАЛЬ  — крупнейший в России парфюмерно-косметический интернет-магазин, который имеет официальную авторизацию от всех представленных на сайте брендов.\r\n\r\n \r\n\r\nАудитория: \r\n\r\n\r\n\tЖеншины 30+\r\n\tДоход: средний и выше среднего\r\n\tМесто проживания: город\r\n\tГеография: по всей стране + доставка\r\n\r\n\r\n \r\n\r\nПреимущества работы для веб-мастеров: \r\n\r\n\r\n\tФиксированная ставка 6,12% для всех разрешенных типов трафика\r\n\tВозможность получения промокодов\r\n\tТоварный фид с большим количеством товаров \r\n\tИзвестный бренд и надежное сотрудничество\r\n\r\n\r\n \r\n\r\nПреимущества для клиентов: \r\n\r\n\r\n\tБолее 30 000 товаров, более 500 брендов, 200 из которых можно купить только в Лэтуаль\r\n\tАкции, скидки и Программа лояльности\r\n\tУдобная оплата и доставка по всей стране\r\n\tПостоянная поддержка пользователей\r\n\r\n\r\n \r\n\r\nОсобенности работы оффера:\r\n\r\n\r\n\tЕжемесячная ручная сверка\r\n\tВ программе доступен промокодный инструмент\r\n\tРегулярная модерация на стороне Адмитад\r\n\r\n\r\n \r\n\r\nМинимальная сумма выплат - 5000 рублей.\r\n\r\nСуммы по офферу внутри платформы будут указываться в тенге, однако выплаты будут производиться в рублях и конвертироваться\r\nпо курсу ЦБ РФ на последний день отчетного периода.\r\n\r\n \r\n\r\nПри выявлении использования запрещённых видов трафика в рекламных кампаниях, трафик веб-мастера не подлежит оплате.\r\n\r\n В рекламных материалах запрещено использование брендов:\r\n\r\nCHANEL (ШАНЕЛЬ), DIOR (ДИОР), GIVENCHY (ЖИВАНШИ), GUERLAIN (ГЕРЛЕН), KENZO (КЕНЗО), ESTEE LAUDER (ЭСТЭ ЛАУДЕР), CLINIQUE (КЛИНИК), TOM FORD (ТОМ ФОРД), BOBBI BROWN (БОББИ БРАУН), JO MALONE (ДЖО МАЛОН), KILIAN (КИЛИАН), LA MER (ЛА МЕР), MAC (МАК).",
-    "status": "active",
+    "name": "ЛЭТУАЛЬ KZ",
+    "img": "platform/117473.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/12/12/117473-e5e3e2e09df1ccd0.svg",
     "categories": [
       {
@@ -2209,12 +2086,7 @@
         }
       }
     ],
-    "img": "platform/117473.svg",
-    "affiliate": {
-      "goto_link": "https://fxxag.com/g/huwxmyvxmj5af0702a27eb6d57faa3/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 117473,
     "category": {
       "name": "Personal Care & Pharmacy",
       "id": 67,
@@ -2225,15 +2097,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://fxxag.com/g/huwxmyvxmj5af0702a27eb6d57faa3/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 124955,
-    "name": "Ladymakeup PL, IL",
-    "name_aliases": "Ladymakeup, Lady, makeup",
     "site_url": "https://www.ladymakeup.pl",
-    "description": "Ladymakeup to drogeria internetowa, która powstała z miłości do makijażu i pielęgnacji. Od 2010 roku dostarczamy naszym klientom kosmetyki najwyższej jakości, dokładając wszelką staranność w szybką realizację zamówień i solidne zabezpieczanie produktów. Nasza oferta nieustannie powiększa się, codziennie oferując kolejne nowości. Stale śledzimy rynek kosmetyczny oraz wszelkie nowinki, podążając za obecnie panującymi trendami.\r\n\r\nOd lat tworzymy przestrzeń, w której klienci są najważniejsi, dlatego już dziś dołącz do świata świadomej pielęgnacji i kolorowego wizażu. Zapraszamy.\r\n\r\n \r\n\r\nZalety współpracy z Ladymakeup:\r\n\r\n\r\n\tJedna z najpopularniejszych drogerii w Polsce\r\n\tGwarancja oryginalności produktów\r\n\tOgromny wybór kosmetyków i akcesoriów\r\n\tCodziennie aktualizowana oferta\r\n\tSzybka realizacja zamówień\r\n\tAtrakcyjne prezenty\r\n\tPróbki do każdego zamówienia\r\n\tMożliwość dostawy pod dowolny adres bez dołączenia rachunku\r\n\tLiczne promocje i rabaty, aktualizowane co tydzień\r\n\tWysyłka zamówień na cały świat\r\n",
-    "status": "active",
+    "name": "Ladymakeup PL, IL",
+    "img": "platform/124955.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/4/15/124955-84952fafc86da2a9.svg",
     "categories": [
       {
@@ -2254,12 +2128,7 @@
         "parent": null
       }
     ],
-    "img": "platform/124955.svg",
-    "affiliate": {
-      "goto_link": "https://ewwhk.com/g/vs6d47v5u05af0702a27b971324a1b/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 124955,
     "category": {
       "name": "Personal Care & Pharmacy",
       "id": 67,
@@ -2270,15 +2139,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://ewwhk.com/g/vs6d47v5u05af0702a27b971324a1b/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 125954,
-    "name": "LETOILE AE QA",
-    "name_aliases": "letoileae_AE, LETOILE, letoile.ae",
     "site_url": "https://letoile.ae/",
-    "description": "LETUAL Direct Partner Program\r\n\r\nLETUAL is the leader of the perfume and cosmetics industry in Russia.\r\n\r\nFor 23 years we have been delighting our customers with the best service and the best assortment, professional recommendations and expert approach.\r\n\r\nWe have 1000 stores from Kaliningrad to Vladivostok, and each of them is a comfortable space for exciting beauty shopping.\r\n\r\nLETUAL is Russia largest online perfume and cosmetics store, which has official authorization from all brands represented on the site.\r\n\r\nBanners here - https://www.figma.com/design/oEAMZcsGe4ymnm9abt9XaS/Banners-2025?node-id=18721-16120",
-    "status": "active",
+    "name": "LETOILE AE QA",
+    "img": "platform/125954.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/6/10/125954-6c40181500fc6d3b.svg",
     "categories": [
       {
@@ -2299,12 +2170,7 @@
         }
       }
     ],
-    "img": "platform/125954.svg",
-    "affiliate": {
-      "goto_link": "https://kdbov.com/g/h4a3s7jpei5af0702a2744a2cede85/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 125954,
     "category": {
       "name": "Personal Care & Pharmacy",
       "id": 67,
@@ -2315,15 +2181,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://kdbov.com/g/h4a3s7jpei5af0702a2744a2cede85/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 128030,
-    "name": "Clove Oral Care [ CPS ] IN",
-    "name_aliases": "KLOVE , KOOVS",
     "site_url": "https://cloveoralcare.com/",
-    "description": "Brand description : \r\n\r\nClove Oral Care is a premium oral health brand committed to redefining everyday dental care with science-backed solutions and clean, effective ingredients. Designed to deliver both preventive and therapeutic benefits, Clove offers a range of products that combine the power of natural ingredients like clove oil—known for its antibacterial and anti-inflammatory properties—with modern dental science.\r\n\r\nFrom toothpaste and mouthwash to specialized treatments, Clove Oral Care is built around the philosophy that oral health is foundational to overall well-being. With a focus on safety, sustainability, and innovation, the brand caters to health-conscious consumers looking for gentle yet powerful alternatives to conventional oral care.\r\n\r\nClove is more than just a dental care brand—it’s a daily wellness ritual.\r\n\r\n\r\nCampaign Description : The campaign is on CPS . \r\n\r\nTarget Geo : Pan India ",
-    "status": "active",
+    "name": "Clove Oral Care [ CPS ] IN",
+    "img": "platform/128030.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/7/2/128030-2580d9dc2dcae5bb.svg",
     "categories": [
       {
@@ -2344,12 +2212,7 @@
         "parent": null
       }
     ],
-    "img": "platform/128030.svg",
-    "affiliate": {
-      "goto_link": "https://tjzuh.com/g/15stuwdyoq5af0702a27dd1a39d84c/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 128030,
     "category": {
       "name": "Personal Care & Pharmacy",
       "id": 67,
@@ -2360,15 +2223,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://tjzuh.com/g/15stuwdyoq5af0702a27dd1a39d84c/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 144572,
-    "name": "Kama Ayurveda [ CPS ] IN",
-    "name_aliases": "KANA , KAAMA",
     "site_url": "https://www.kamaayurveda.in/",
-    "description": "Company Description- Kama Ayurveda offers high quality, beautifully packaged, Ayurvedic and natural beauty and wellness products that are used by some of the world’s leading hotels and spas in India, USA and Europe. Kama Ayurveda creates the complete natural remedy by using original, time tested and balanced prescriptions. The Ayurvedic treatments are 100% natural with no artificial colors, fragrances, animal ingredients and petrochemicals. The ingredients are prepared from plants and herbs collected from natural habitats.\r\n\r\nCampaign Description- Kamaayurveda CPS gives an opportunity for affiliates to earn good revenue if the sales are delivered through affiliate links.\r\n\r\nTarget Market- India\r\n\r\nAge- Male, Female 18 and above\r\n\r\nCampaign Objective- To deliver successful sales for Kamaayurveda CPS",
-    "status": "active",
+    "name": "Kama Ayurveda [ CPS ] IN",
+    "img": "platform/144572.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/10/15/144572-77cb8da509dca568.svg",
     "categories": [
       {
@@ -2389,12 +2254,7 @@
         "parent": null
       }
     ],
-    "img": "platform/144572.svg",
-    "affiliate": {
-      "goto_link": "https://tjzuh.com/g/yqewe0ii4c5af0702a27238bfeb32d/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 144572,
     "category": {
       "name": "Personal Care & Pharmacy",
       "id": 67,
@@ -2405,15 +2265,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://tjzuh.com/g/yqewe0ii4c5af0702a27238bfeb32d/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 145575,
-    "name": "Stylevana WW",
-    "name_aliases": "stylvana stylevna sylevana stylvana",
     "site_url": "https://www.stylevana.com/",
-    "description": "Stylevana is your one stop online shop to purchase the trendiest Asian fashion and beauty products. At Stylevana we are fashion and beauty enthusiasts. \r\n\r\nWe are dedicated in discovering and sourcing Asian beauty and fashion item (Korean, Japan and many more) for you every season. \r\n\r\nWe aim to bring you a wide range and affordable selection in both fashion and beauty, as well as sharing with you the latest tips and secrets in beauty and styling. \r\n\r\nCompany Profile\r\n\r\n\r\n\tIndustry: E-commerce / Beauty & Cosmetics\r\n\tProducts/Services: A vast selection of authentic Asian beauty products, including skincare, makeup, haircare, and wellness items from popular Korean and Japanese brands.\r\n\r\n\r\nBenefits for Customers\r\n\r\n\r\n\tExtensive Variety: One of the largest selections of K-beauty and J-beauty products online.\r\n\tCompetitive Pricing: Consistently low prices and frequent site-wide sales.\r\n\tGlobal Shipping: Reliable and affordable shipping to numerous countries.\r\n\r\n\r\n. Target Audience Portrait\r\n\r\n\r\n\tGender: Primarily Female (80%+)\r\n\tAge: 18 - 35 (Millennials & Gen Z)\r\n\tInterests: Skincare enthusiasts, makeup lovers, K-beauty and J-beauty fans, followers of beauty trends on TikTok and Instagram.\r\n\tMindset: Value-conscious, ingredient-focused, curious about innovative beauty products from Asia, and prioritizes a multi-step skincare routine.\r\n\r\n\r\n6. Popular Products / Bestsellers\r\n\r\n\r\n\t\r\n\t·       BEAUTY OF JOSEON - Relief Sun Aqua-fresh Rice + B5 SPF50+ PA++++ - 50ml\r\n\r\n\thttps://www.stylevana.com/en_US/beauty-of-joseon-relief-sun-aqua-fresh-rice-b5-spf50-pa-50ml27125.html\r\n\r\n\tPurito SEOUL - Mighty Bamboo Panthenol Cream - 100ml\r\n\r\n\thttps://www.stylevana.com/en_US/purito-seoul-mighty-bamboo-panthenol-cream-100ml7348.html\r\n\r\n\tmedicube - PDRN Pink Peptide Serum - 30ml\r\n\r\n\thttps://www.stylevana.com/en_US/medicube-pdrn-pink-peptide-serum-30ml25046.html\r\n\t\r\n\tBrands: Medicube, ANUA, COSRX, Beauty of Joseon, CELIMAX, Purito, TirTir, Mixsoon\r\n\t\r\n\t7. Brand Positioning Tips\r\n\t\r\n\tEmphasize: Authenticity, affordability, and the \"gateway to Asian beauty\" concept.\r\n\tKey Phrases to Use: \"Authentic K-Beauty,\" \"Official Retailer,\" \"Korean Skincare Secrets,\" \"Glass Skin,\" \"Hydrated & Glowing,\" \"Curated J-Beauty,\" \"Affordable Beauty,\" \"Viral TikTok Products.\"\r\n\tFocus on: The transformative power of consistent skincare routines, the innovation of Asian beauty and achieving a natural, dewy \"glass skin\" look.\r\n\r\n\r\n ",
-    "status": "active",
+    "name": "Stylevana WW",
+    "img": "platform/145575.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/11/20/145575-d400c86acc111223.svg",
     "categories": [
       {
@@ -2434,12 +2296,7 @@
         }
       }
     ],
-    "img": "platform/145575.svg",
-    "affiliate": {
-      "goto_link": "https://grfpr.com/g/zaxgnm7sp35af0702a27590a2462b6/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 145575,
     "category": {
       "name": "Personal Care & Pharmacy",
       "id": 67,
@@ -2450,15 +2307,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://grfpr.com/g/zaxgnm7sp35af0702a27590a2462b6/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 146096,
-    "name": "Aurabits",
-    "name_aliases": "Aurabits",
     "site_url": "https://aurabits.shop/",
-    "description": "About Aurabits\r\n\r\nAurabits is a modern wellness brand inspiring people to live a balanced, calm, and fulfilling lifestyle. We offer wellness devices and lifestyle accessories that bring relaxation, focus, and harmony into daily routines at home, at work, or while traveling.\r\n\r\nAudience\r\n\r\nPerfect for users interested in self-care, mindfulness, meditation, yoga, relaxation, lifestyle improvement, and creating a cozy home environment.\r\n\r\nWhy Join\r\n\r\nFast-growing niche with high demand and strong conversions. Official creatives provided, and affiliates may use their own (brand-friendly). Visually appealing products that perform extremely well on social media. Great for influencers, bloggers, wellness coaches, lifestyle creators, and self-care communities. Fast support and a win-win approach.\r\n\r\nAllowed Channels\r\n\r\nBlogs, reviews, influencers, UGC, mobile, cashback, loyalty, coupons, non-brand contextual ads, social ads, communities, video, and email (non-spam).\r\n\r\nCommission\r\n\r\nCPS per approved sale: $20. Main GEO: USA.",
-    "status": "active",
+    "name": "Aurabits",
+    "img": "platform/146096.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/10/30/146096-879afbd17264fd64.svg",
     "categories": [
       {
@@ -2507,12 +2366,7 @@
         }
       }
     ],
-    "img": "platform/146096.svg",
-    "affiliate": {
-      "goto_link": "https://tywhh.com/g/1i7jtay89b5af0702a273f9789bf0e/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 146096,
     "category": {
       "name": "Personal Care & Pharmacy",
       "id": 67,
@@ -2523,6 +2377,11 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://tywhh.com/g/1i7jtay89b5af0702a273f9789bf0e/",
+      "landings": [],
+      "cashback_link_data": null
     }
   }
 ]

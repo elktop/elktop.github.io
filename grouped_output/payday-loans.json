@@ -1,11 +1,8 @@
 [
   {
-    "id": 22801,
-    "name": "TengeDa [CPS] KZ",
-    "name_aliases": "TengeDa, Tenge da, тенге да, тенгеда, еутпуВф, ntyutLf",
     "site_url": "https://tengeda.kz/",
-    "description": "TengeDa — онлайн - микрокредиты по всему Казахстану.\r\n\r\n \r\n\r\nИнформация о продукте:\r\n\r\n\r\n\tСумма микрокредита: от 80 000 до 175 000 тг\r\n\tСрок микрокредита: от 15, 20, 25, 30 дней\r\n\tВознаграждение - от 0,28% в день\r\n\tГЭСВ - не более 179%\r\n\r\n\r\nТребование к заёмщику:\r\n\r\n\r\n\tГражданство: Республика Казахстан\r\n\tВозраст: от 21 года\r\n\r\n\r\nСпособы погашения:\r\n\r\n\r\n\tоплата банковской картой из личного кабинета\r\n\tоплата наличными в QIWI-терминалах, Касса24, CyberPlat и Paydala\r\n\tоплата с электронного кошелька или карты с помощью сервиса QIWI-Wallet и Личная касса24\r\n\tбанковским переводом\r\n\r\n\r\nСпособы получения:\r\n\r\n\r\n\tСчет в банке (при первом обращении в TengeDa)\r\n\tБанковская карта\r\n\r\n\r\n \r\n\r\nЦелевая аудитория: \r\n\r\n\r\n\tМужчины - 50,71% \r\n\tЖенщины - 49,29%\r\n\tВозвраст - 21 - 45 лет\r\n\tДоход - выше среднего\r\n\tМесто проживания - город (Астана, Алматы)\r\n\r\n\r\n \r\n\r\nПреимущества работы для партнеров:\r\n\r\n⭐️ Высокий и стабильный спрос на микрокредиты среди казахстанцев\r\n\r\n⭐️ Доверие к офферу TengeDa: мы успешно работаем с CPA-партнёрами уже более 10 лет\r\n\r\n⭐️ Возможность роста заработка: чем больше объем выдач, тем выше оплата, согласно мотивационной лесенке\r\n\r\n \r\n\r\nПреимущества для клиентов:\r\n\r\n⭐️ Быстрая подача заявки и получения денег: процесс подачи заявки максимально упрощен и интуитивно понятен, займет не более 5 минут\r\n\r\n⭐️  Минимальные требования к заемщику: от клиентов требуется только удостоверение личности и выписка по банковской карте за 6 месяцев, не нужно предоставлять залог или искать поручителей, МФО чаще более лояльны к клиентам с неидеальной кредитной историей, чем банки\r\n\r\n⭐️  Удобство и доступность: подать заявку и получить деньги на карту можно в любое время суток, из любой точки Казахстана, где есть доступ к интернету, не нужно посещать офис\r\n\r\n⭐️  Прозрачные условия: отсутствие скрытых комиссий, клиент при выборе суммы микрокредита сразу видит сумму переплаты на дату погашения, есть возможность выбрать микрокредит с графиком погашения\r\n\r\n⭐️  Решение срочных финансовых вопросов: идеально подходит для ситуации, когда нужна небольшая сумма на короткий срок для оплаты непредвиденных расходов\r\n\r\n⭐️  Возможность улучшения кредитной истории: своевременное погашение микрокредитов в TengeDa.kz может положительно сказаться на кредитной истории клиента, что в будущем может помочь при получении более крупных кредитов в банках\r\n\r\n \r\n\r\nОсобенности работы оффера:\r\n\r\n\r\n\tЕжемесячная ручная сверка\r\n\tВ программе не предусмотрен промокодный инструмент\r\n\tРегулярная модерация на стороне Адмитад\r\n\r\n\r\n \r\n\r\nВ связи с законом о рекламе Республики Казахстан должны быть внесены изменения во все рекламные материалы (баннеры, тексты, сайты и пр.):\r\n\r\nЗаменить слова \"займ\" и \"кредит\" (запрещены) на слово \"микрокредит\"\r\n\r\nВАЖНО: Согласно требованию законодательства РК необходимо на своих площадках указать номер лицензии и наименование органа, выдавшего лицензию: \r\n\r\n\r\n\tЛицензия АРРФР РК № 02.21.0028.M. от 15.03.2021 г.\r\n",
-    "status": "active",
+    "name": "TengeDa [CPS] KZ",
+    "img": "platform/22801.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/10/22/22801-60adcb689169548e.svg",
     "categories": [
       {
@@ -37,12 +34,7 @@
         }
       }
     ],
-    "img": "platform/22801.svg",
-    "affiliate": {
-      "goto_link": "https://thevospad.com/g/yc2qk2mfj55af0702a27441701efe0/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 22801,
     "category": {
       "name": "Payday Loans",
       "id": 105,
@@ -53,15 +45,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://thevospad.com/g/yc2qk2mfj55af0702a27441701efe0/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 33436,
-    "name": "Nazivnost CZ",
-    "name_aliases": "Creditkasa, nazivnost",
     "site_url": "https://nazivnost.cz/",
-    "description": "We provide only non-bank business loans to entrepreneurs - self-employed people, i.e. people doing business on the basis of a valid business license.\r\nLoans are provided exclusively for the financing of the client's business needs (without restrictions on the specific business purpose of the loan).\r\n\r\nOur loans are always:\r\n\r\n\r\n\tShort-term (i.e. loan maturity is up to 365 days / 366 in a leap year)\r\n\tUnsecured (ie no guarantor, no lien)\r\n\tNon-banking (i.e. we are not a bank and are not subject to banking legislation)\r\n\tBusiness (i.e. loans are provided only to entrepreneurs, i.e. persons who are not consumers - our clients are entrepreneurs and take out loans exclusively for their business needs; we always thoroughly check the validity of the business license when applying for a loan, and if the client does not have a valid business license after period of at least 31 days before applying for a loan, we cannot grant a loan; because the client is in the role of a debtor-entrepreneur, he does not enjoy the special protection that applies to consumers - i.e. he is not covered by the Act on Consumer Credit, the Act on Consumer Protection, etc. )\r\n\r\n\r\nWe require:\r\n\r\n\r\n\tpermanent residence in the territory of the Czech Republic,\r\n\tat least 18 years of age,\r\n\tYour personal bank account in a bank located in the territory of the Czech Republic,\r\n\tdebt free\r\n\tfilling in all the required data in the registration form on our website,\r\n\tthe ability to repay the loan when due,\r\n\tactive trade license for at least 31 days\r\n\r\n\r\nCredit terms:\r\n0.05% for new clients per day\r\n0.7-1% for existing customers per day depending on the product chosen\r\n\r\nCZ\r\n\r\nPoskytujeme pouze nebankovní podnikatelské úvěry podnikatelům – živnostníkům, tj. osobám podnikajícím na základě platného živnostenského oprávnění.\r\nÚvěry jsou poskytovány výlučně na financování podnikatelských potřeb klienta (bez omezení konkrétního podnikatelského účelu úvěru).\r\n\r\nNaše úvěry jsou vždy:\r\n \r\n\r\n\r\n\tKrátkodobé (tj. splatnost úvěru je max. do 365 dní / 366 v přestupném roce)\r\n\tNezajištěné (tj. bez ručitele, bez zástavní smlouvy)\r\n\tNebankovní (tj. nejsme bankou a nevztahují se na nás právní předpisy o bankách)\r\n\tPodnikatelské (tj. úvěry jsou poskytované pouze podnikatelům, tj. osobám, které nejsou spotřebiteli - naši klienti jsou živnostníci a berou si úvěry výhradně na své podnikatelské potřeby; platnost živnostenského oprávnění při žádosti o úvěr vždy důkladně prověřujeme a pokud klient nemá platné živnostenské oprávnění po dobu min. 31 dní před žádostí o úvěr, úvěr poskytnout nemůžeme; protože je klient v roli dlužníka-podnikatele, nepožívá zvláštní ochrany, která se vztahuje na spotřebitele – tzn. nevztahuje se na něj zákon o spotřebitelském úvěru, zákon o ochraně spotřebitele atd.)\r\n\r\n\r\nPožadujeme:\r\n\r\n\r\n\ttrvalý pobyt na území České republiky,\r\n\tvěk minimálně 18 let,\r\n\tVáš osobní bankovní účet v bance, která se nachází na území České republiky,\r\n\tbezdlužnost,\r\n\tvyplnění všech požadovaných údajů v registračním formuláři na našich webových stránkách,\r\n\tschopnost splatit úvěr v termínu splatnosti,\r\n\taktivní živnostenské oprávnění minimálně 31 dní\r\n\r\n\r\nÚvěrové podmínky:\r\n0,05 % pro nové klienty za den\r\n0,7–1 % pro stávající zákazníky za den v závislosti na zvoleném produktu",
-    "status": "active",
+    "name": "Nazivnost CZ",
+    "img": "platform/33436.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/9/33436-90d66e16f946d4e4.svg",
     "categories": [
       {
@@ -110,12 +104,7 @@
         "parent": null
       }
     ],
-    "img": "platform/33436.svg",
-    "affiliate": {
-      "goto_link": "https://dkfrh.com/g/wy9p44b6pn5af0702a279c7b903f88/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 33436,
     "category": {
       "name": "Payday Loans",
       "id": 105,
@@ -126,15 +115,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://dkfrh.com/g/wy9p44b6pn5af0702a279c7b903f88/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 42007,
-    "name": "ACredit CPS KZ",
-    "name_aliases": "акредит, фскувше, кредит, скувше, acredit, frhtlbn, credit, rhtlbn",
     "site_url": "https://acredit.kz/",
-    "description": "Acredit - это сервис онлайн-микрокредитов, благодаря которому можно быстро и удобно решить финансовые вопросы за несколько минут, без дополнительных документов и посещения офиса.\r\n\r\n \r\n\r\nВоронка:\r\n\r\n\r\n\tРегистрация\r\n\tПерсональные данные\r\n\tДобавление карты/счета\r\n\tПодтверждение условий\r\n\tОжидание ответа/рассмотрение заявки\r\n\tПодтверждение личности\r\n\tПодписание договора\r\n\tПолучение денег\r\n\r\n\r\nЦА:\r\n\r\n\r\n\tгражданство Казахстана\r\n\tвозраст от 18 до 65 лет\r\n\tналичие номера счета (IBAN) банковской карты или текущего счета (для перечисления микрокредитных средств)\r\n\r\n\r\nПреимущества партнерской программы для партнеров:\r\n\r\n\r\n\tВысокий процент подтверждения\r\n\tСредняя обработка конверсии - 22 дня\r\n\tВозможность согласования индивидуальных условий \r\n\r\n\r\nПреимущества партнерской программы для клиентов:\r\n\r\n\r\n\tМикрокредит можно оформить, не выходя из дома или работы, прямо на номер счета (IBAN) карты или номер текущего счета (IBAN) в банке\r\n\tпервый микрокредит до 150 000 тенге\r\n\tпрозрачные условия получения кредита\r\n\tмикрокредит быстро, без залога, без длительных процедур оформления и проверок\r\n\r\n\r\nУсловия кредита:\r\n\r\n\r\n\tМинимальная сумма микрокредита - 20 000 тенге\r\n\tМаксимальная сумма микрокредита - 175 000 тенге\r\n\tСрок до 30 дней\r\n\tГЭСВ - ставка от 0,01% в день (от 3,65% годовых) ГЭСВ от 3,7% до 179%*\r\n\r\n\r\nОсобенности работы оффера:\r\n\r\n\r\n\tЕжемесячная ручная сверка\r\n\tВ программе не доступен промокодный инструмент\r\n\tРегулярная модерация на стороне Адмитад\r\n\r\n\r\n \r\n\r\nРазрешается использование промоматериалов только рекламодателя. Запрашивать дополнительные промо и согласовывать собственные варианты необходимо со службой поддержки сети.\r\nЗа нарушение возможен штраф вплоть до полной отмены конверсий и бан!",
-    "status": "active",
+    "name": "ACredit CPS KZ",
+    "img": "platform/42007.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/9/8/42007-ec4d6c4424a317ed.svg",
     "categories": [
       {
@@ -155,12 +146,7 @@
         }
       }
     ],
-    "img": "platform/42007.svg",
-    "affiliate": {
-      "goto_link": "https://bywiola.com/g/3qfrpa97lj5af0702a27838ab0aac0/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 42007,
     "category": {
       "name": "Payday Loans",
       "id": 105,
@@ -171,15 +157,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://bywiola.com/g/3qfrpa97lj5af0702a27838ab0aac0/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 85858,
-    "name": "Pujckaplus CZ [CPS]",
-    "name_aliases": "pujckaplus, pujcka plus",
     "site_url": "https://pujckaplus.cz/",
-    "description": "Získej nejlepší půjčku online ihned! První půjčka až 15.000 Kč na 10 dní je zdarma!\r\n\r\nPůjčkaPlus – nabízí krátkodobé nebankovní půjčky\r\n\r\nRychlá půjčka online – představuje perfektní řešení, pokud potřebujete rychlý úvěr na překonání nepříznivého finančního období nebo na úhradu nečekaných výdajů\r\n\r\nPůjčka Plus je 100 % online, žádosti o úvěr přijímáme nepřetržitě 24/7. Žádost tedy můžete podat kdykoli a odkudkoli – potřebujete pouze zařízení s přístupem na internet.\r\n\r\nAť už potřebujete peníze na cokoli, neotálejte a požádejte o půjčku ještě dnes!\r\n\r\nKrátkodobá půjčka – poskytujeme půjčky na kratší dobu, na 10, 15, 20, 25 nebo 30 dní. V případě potřeby můžete splatnost půjčky prodloužit o další dny.\r\n\r\nVěnujeme mnoho pozornosti tomu, abychom vytvořili odpovědné a důvěryhodné vztahy mezi Vámi a naší společností.\r\n\r\nKaždodenní péče o transparentnost a důvěryhodnost, plnění závazků, upřímné jednání a spravedlivé ceny jsou základem odpovědnosti PůjčkaPlus.\r\n\r\nNegative keywords are here\r\n\r\nENG\r\n\r\nGet the best loan online now! The first loan of up to CZK 15,000 for 10 days is free!\r\n\r\nPůjčkaPlus – offers short-term non-bank loans\r\n\r\nQuick loan online - is the perfect solution if you need a quick loan to overcome an adverse financial period or to cover unexpected expenses\r\n\r\nPůjčkaPlus is 100% online, we accept loan applications 24/7. So you can apply anytime and from anywhere – all you need is a device with internet access.\r\n\r\nWhatever you need money for, don't delay and apply for a loan today!\r\n\r\nShort-term loan - we provide loans for a shorter period of time, for 10, 15, 20, 25 or 30 days. If necessary, you can extend the maturity of the loan by additional days.\r\n\r\nWe pay a lot of attention to create a responsible and trustworthy relationship between you and our company.\r\n\r\nEveryday care for transparency and trustworthiness, fulfillment of obligations, honest dealings and fair prices are the basis of PůjčkaPlus's responsibility.\r\n\r\nNegative keywords are here",
-    "status": "active",
+    "name": "Pujckaplus CZ [CPS]",
+    "img": "platform/85858.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/2/29/85858-0d0f85aa63938837.svg",
     "categories": [
       {
@@ -228,12 +216,7 @@
         "parent": null
       }
     ],
-    "img": "platform/85858.svg",
-    "affiliate": {
-      "goto_link": "https://bjpql.com/g/bon620puaa5af0702a27e35c9874e2/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 85858,
     "category": {
       "name": "Payday Loans",
       "id": 105,
@@ -244,15 +227,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://bjpql.com/g/bon620puaa5af0702a27e35c9874e2/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 90878,
-    "name": "Vivus CPS KZ",
-    "name_aliases": "dbdfc, dbdec, вивус, вивас, мшмгы",
     "site_url": "https://vivus.kz/",
-    "description": "Vivus — это выгодные процентные ставки и самая низкая комиссия среди подобных онлайн-компаний на территории Казахстана, быстрая процедура оформления и одобрения заявок, возможность продления выплаты, различные способы погашения кредита и гарантия безопасности данных клиента.\r\n\r\nДля получения займа необходимо заполнить онлайн-анкету на сайте рекламодателя и дождаться смс-оповещения в течение 2-5 минут. Одобренная сумма будет перечислена на вашу карту, банковский счёт.\r\n\r\n \r\n\r\nПолезная информация по займам:\r\n\r\n\r\n\tСумма займа: от 10 000 до 300 000 тенге\r\n\tСрок займа: от 1 до 21 дней\r\n\tСтавка: 0,01% в день\r\n\r\n\r\nТребование к заёмщику:\r\n\r\n\r\n\tГражданство Казахстана\r\n\tНаличие паспорта гражданина Казахстана\r\n\tВозраст: от 21 до 54 лет\r\n\r\n\r\nСпособы получения:\r\n\r\n\r\n\tВыдача на IBAN\r\n\tПо номеру карты\r\n\r\n\r\nСрок получения:\r\n\r\n\r\n\tДо 10 минут\r\n\r\n\r\nСпособы погашения:\r\n\r\n\r\n\tОплата банковской картой из личного кабинета на сайте \r\n\tОплата по реквизитам\r\n\r\n\r\nЦелевая аудитория: \r\n\r\n\r\n\tКлиенты от 20 до 70 лет\r\n\r\n\r\nПлюсы работы для клиентов: \r\n\r\n\r\n\tСамые выгодные процентные ставки\r\n\tУдобная и быстрая регистрация круглосуточно\r\n\tРассмотрение заявки занимает несколько минут\r\n\tПредоставление и оплата микрокредита возможны различными способами\r\n\tНизкая плата за использование микрокредита\r\n\tВысокий уровень обслуживания клиентов\r\n\tМикрокредиты доступны на всей территории Республики Казахстан\r\n\r\n\r\nПлюсы работы для веб-мастеров: \r\n\r\n\r\n\tКонкурентная высокая ставка \r\n\tВысокий процент подтверждения \r\n\tВремя жизни куки - 30 дней \r\n\tВозможность согласования индивидуального формата сотрудничества\r\n\r\n\r\nОсобенности работы оффера:\r\n\r\n\r\n\tЕжемесячная ручная сверка\r\n\tВ программе не доступен промокодный инструмент\r\n\tРегулярная модерация на стороне Адмитад\r\n\r\n\r\n \r\n\r\nСписок минус-слов\r\n\r\n \r\n\r\nС Уважением, Партнерская программа Vivus!",
-    "status": "active",
+    "name": "Vivus CPS KZ",
+    "img": "platform/90878.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/2/26/90878-41320f43b42713b8.svg",
     "categories": [
       {
@@ -273,12 +258,7 @@
         }
       }
     ],
-    "img": "platform/90878.svg",
-    "affiliate": {
-      "goto_link": "https://lsuix.com/g/jvp7q38bs95af0702a2753e8f8d388/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 90878,
     "category": {
       "name": "Payday Loans",
       "id": 105,
@@ -289,15 +269,17 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://lsuix.com/g/jvp7q38bs95af0702a2753e8f8d388/",
+      "landings": [],
+      "cashback_link_data": null
     }
   },
   {
-    "id": 143666,
-    "name": "Bank Neo [Android, CPA] ID",
-    "name_aliases": "bank neo, neobank, transaction, cash app, QRIS, qr code, online payment, digital payment",
     "site_url": "https://bankneocommerce.co.id/",
-    "description": "Bank Neo Commerce (formerly known as Bank Yudha Bhakti) is a digital-focused bank (often called a neobank) in Indonesia. Its primary goal is to leverage technology to provide accessible, simple, and efficient financial services, particularly targeting digital-savvy customers.\r\n\r\nThe BNC App: Your Digital Bank\r\n\r\nThe BNC experience is centered around its mobile banking application. The app is designed to be a one-stop-shop for everyday financial needs without the need to visit a physical branch.\r\n\r\nCore Features for Transactions (Relevant to Your Offer):\r\n\r\nThe app allows users to perform a wide range of financial transactions. A \"first transaction\" for your payout offer would typically be the user's first time successfully transact using the app.\r\n\r\nPayout Trigger:\r\n\r\n\r\n\tThe \"First Transaction\" is the conversion event that triggers the payout.\r\n\tThis is tracked through the mobile measurement partner (MMP) Adjust, which attributes the install to you and confirms the completion of the in-app event.\r\n\r\n\r\nCampaign details:\r\n\r\n\r\n\tAndroid only\r\n\tRe-engagement for First-Trasaction is payable. However, it's applicable if the transaction happens in the same month (cut off every end of the month)\r\n\t30 days cookies\r\n\t30 days validation\r\n",
-    "status": "active",
+    "name": "Bank Neo [Android, CPA] ID",
+    "img": "platform/143666.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/9/23/143666-f6dfae79c24857e0.svg",
     "categories": [
       {
@@ -428,12 +410,7 @@
         }
       }
     ],
-    "img": "platform/143666.svg",
-    "affiliate": {
-      "goto_link": "https://twnfz.com/g/wkg32ryd035af0702a27a30e9ca86e/",
-      "landings": [],
-      "cashback_link_data": null
-    },
+    "id": 143666,
     "category": {
       "name": "Payday Loans",
       "id": 105,
@@ -444,6 +421,11 @@
         "language": "en",
         "parent": null
       }
+    },
+    "affiliate": {
+      "goto_link": "https://twnfz.com/g/wkg32ryd035af0702a27a30e9ca86e/",
+      "landings": [],
+      "cashback_link_data": null
     }
   }
 ]
