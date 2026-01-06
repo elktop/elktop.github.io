@@ -1,11 +1,30 @@
-[
-  {
-    "id": 103347,
-    "name": "Refsee WW",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/6/22/103347-4393a4b7ec558844.svg",
-    "img": "platform/103347.svg",
-    "categories": [
-      {
+{
+  "data": [
+    {
+      "id": 103347,
+      "name": "Refsee WW",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2024/6/22/103347-4393a4b7ec558844.svg",
+      "img": "platform/103347.svg",
+      "categories": [
+        {
+          "name": "Movies & Music",
+          "id": 203,
+          "language": "en",
+          "parent": {
+            "name": "Online Services",
+            "id": 18,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "category": {
         "name": "Movies & Music",
         "id": 203,
         "language": "en",
@@ -15,33 +34,33 @@
           "language": "en",
           "parent": null
         }
-      },
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
       }
-    ],
-    "category": {
-      "name": "Movies & Music",
-      "id": 203,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 103671,
-    "name": "CS2CASE [RevShare] WW",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/3/103671-0fbd2d63825208e4.svg",
-    "img": "platform/103671.svg",
-    "categories": [
-      {
+    },
+    {
+      "id": 103671,
+      "name": "CS2CASE [RevShare] WW",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/3/103671-0fbd2d63825208e4.svg",
+      "img": "platform/103671.svg",
+      "categories": [
+        {
+          "name": "Game Stores and Services",
+          "id": 214,
+          "language": "en",
+          "parent": {
+            "name": "Online Games",
+            "id": 6,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Online Games",
+          "id": 6,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "category": {
         "name": "Game Stores and Services",
         "id": 214,
         "language": "en",
@@ -51,39 +70,39 @@
           "language": "en",
           "parent": null
         }
-      },
-      {
-        "name": "Online Games",
-        "id": 6,
-        "language": "en",
-        "parent": null
       }
-    ],
-    "category": {
-      "name": "Game Stores and Services",
-      "id": 214,
-      "language": "en",
-      "parent": {
-        "name": "Online Games",
-        "id": 6,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 103715,
-    "name": "Getsy RU",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/1/103715-a211f75c53b2b83b.svg",
-    "img": "platform/103715.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
+    },
+    {
+      "id": 103715,
+      "name": "Getsy RU",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/1/103715-a211f75c53b2b83b.svg",
+      "img": "platform/103715.svg",
+      "categories": [
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Household Appliances & Electronics",
+          "id": 65,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "11.11 & Black Friday 2025",
+          "id": 377,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "category": {
         "name": "Household Appliances & Electronics",
         "id": 65,
         "language": "en",
@@ -93,39 +112,33 @@
           "language": "en",
           "parent": null
         }
-      },
-      {
-        "name": "11.11 & Black Friday 2025",
-        "id": 377,
-        "language": "en",
-        "parent": null
       }
-    ],
-    "category": {
-      "name": "Household Appliances & Electronics",
-      "id": 65,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 103783,
-    "name": "GGSel.Net [CPS] RU",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/9/103783-933fba75f899ce1d.svg",
-    "img": "platform/103783.svg",
-    "categories": [
-      {
-        "name": "Online Games",
-        "id": 6,
-        "language": "en",
-        "parent": null
-      },
-      {
+    },
+    {
+      "id": 103783,
+      "name": "GGSel.Net [CPS] RU",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/9/103783-933fba75f899ce1d.svg",
+      "img": "platform/103783.svg",
+      "categories": [
+        {
+          "name": "Online Games",
+          "id": 6,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Game Stores and Services",
+          "id": 214,
+          "language": "en",
+          "parent": {
+            "name": "Online Games",
+            "id": 6,
+            "language": "en",
+            "parent": null
+          }
+        }
+      ],
+      "category": {
         "name": "Game Stores and Services",
         "id": 214,
         "language": "en",
@@ -136,32 +149,32 @@
           "parent": null
         }
       }
-    ],
-    "category": {
-      "name": "Game Stores and Services",
-      "id": 214,
-      "language": "en",
-      "parent": {
-        "name": "Online Games",
-        "id": 6,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 104401,
-    "name": "Difmark CPS WW",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/8/104401-a3b316f1c4fb10a8.svg",
-    "img": "platform/104401.svg",
-    "categories": [
-      {
-        "name": "Online Games",
-        "id": 6,
-        "language": "en",
-        "parent": null
-      },
-      {
+    },
+    {
+      "id": 104401,
+      "name": "Difmark CPS WW",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/8/104401-a3b316f1c4fb10a8.svg",
+      "img": "platform/104401.svg",
+      "categories": [
+        {
+          "name": "Online Games",
+          "id": 6,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Game Stores and Services",
+          "id": 214,
+          "language": "en",
+          "parent": {
+            "name": "Online Games",
+            "id": 6,
+            "language": "en",
+            "parent": null
+          }
+        }
+      ],
+      "category": {
         "name": "Game Stores and Services",
         "id": 214,
         "language": "en",
@@ -172,32 +185,32 @@
           "parent": null
         }
       }
-    ],
-    "category": {
-      "name": "Game Stores and Services",
-      "id": 214,
-      "language": "en",
-      "parent": {
-        "name": "Online Games",
-        "id": 6,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 104404,
-    "name": "Playhop [Revshare] Many GEOs",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/10/10/104404-645952a4d44bb50a.svg",
-    "img": "platform/104404.svg",
-    "categories": [
-      {
-        "name": "Online Games",
-        "id": 6,
-        "language": "en",
-        "parent": null
-      },
-      {
+    },
+    {
+      "id": 104404,
+      "name": "Playhop [Revshare] Many GEOs",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2024/10/10/104404-645952a4d44bb50a.svg",
+      "img": "platform/104404.svg",
+      "categories": [
+        {
+          "name": "Online Games",
+          "id": 6,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Browser Games",
+          "id": 15,
+          "language": "en",
+          "parent": {
+            "name": "Online Games",
+            "id": 6,
+            "language": "en",
+            "parent": null
+          }
+        }
+      ],
+      "category": {
         "name": "Browser Games",
         "id": 15,
         "language": "en",
@@ -208,26 +221,32 @@
           "parent": null
         }
       }
-    ],
-    "category": {
-      "name": "Browser Games",
-      "id": 15,
-      "language": "en",
-      "parent": {
-        "name": "Online Games",
-        "id": 6,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 104513,
-    "name": "Camp David | Soccx CZ CPS",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/16/104513-e028c67178027c78.svg",
-    "img": "platform/104513.svg",
-    "categories": [
-      {
+    },
+    {
+      "id": 104513,
+      "name": "Camp David | Soccx CZ CPS",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/16/104513-e028c67178027c78.svg",
+      "img": "platform/104513.svg",
+      "categories": [
+        {
+          "name": "Clothing, Footwear, Accessories",
+          "id": 64,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "category": {
         "name": "Clothing, Footwear, Accessories",
         "id": 64,
         "language": "en",
@@ -237,33 +256,33 @@
           "language": "en",
           "parent": null
         }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
       }
-    ],
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 104523,
-    "name": "DKNY AE SA KW - Links & Coupons",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/8/8/104523-821fe6dc26a266e3.svg",
-    "img": "platform/104523.svg",
-    "categories": [
-      {
+    },
+    {
+      "id": 104523,
+      "name": "DKNY AE SA KW - Links & Coupons",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2024/8/8/104523-821fe6dc26a266e3.svg",
+      "img": "platform/104523.svg",
+      "categories": [
+        {
+          "name": "Clothing, Footwear, Accessories",
+          "id": 64,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "category": {
         "name": "Clothing, Footwear, Accessories",
         "id": 64,
         "language": "en",
@@ -273,33 +292,33 @@
           "language": "en",
           "parent": null
         }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
       }
-    ],
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 104545,
-    "name": "PC Sales Online Many GEOs",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/26/104545-f77886878dbbc9c1.svg",
-    "img": "platform/104545.svg",
-    "categories": [
-      {
+    },
+    {
+      "id": 104545,
+      "name": "PC Sales Online Many GEOs",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/26/104545-f77886878dbbc9c1.svg",
+      "img": "platform/104545.svg",
+      "categories": [
+        {
+          "name": "IT Services & Soft",
+          "id": 122,
+          "language": "en",
+          "parent": {
+            "name": "Online Services",
+            "id": 18,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "category": {
         "name": "IT Services & Soft",
         "id": 122,
         "language": "en",
@@ -309,39 +328,44 @@
           "language": "en",
           "parent": null
         }
-      },
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
       }
-    ],
-    "category": {
-      "name": "IT Services & Soft",
-      "id": 122,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 104745,
-    "name": "Du Pareil au meme (DPAM) RU",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/11/104745-02b5dcefddb67435.svg",
-    "img": "platform/104745.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
+    },
+    {
+      "id": 104745,
+      "name": "Du Pareil au meme (DPAM) RU",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/11/104745-02b5dcefddb67435.svg",
+      "img": "platform/104745.svg",
+      "categories": [
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Clothing, Footwear, Accessories",
+          "id": 64,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Toys, Kids & Babies",
+          "id": 69,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        }
+      ],
+      "category": {
         "name": "Clothing, Footwear, Accessories",
         "id": 64,
         "language": "en",
@@ -351,38 +375,160 @@
           "language": "en",
           "parent": null
         }
-      },
-      {
-        "name": "Toys, Kids & Babies",
-        "id": 69,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
+      }
+    },
+    {
+      "id": 104846,
+      "name": "Rukita [CPS] ID",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/12/104846-fba10e932ef4abfd.svg",
+      "img": "platform/104846.svg",
+      "categories": [
+        {
+          "name": "Trains",
+          "id": 208,
+          "language": "en",
+          "parent": {
+            "name": "Travel & Tourism",
+            "id": 40,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Cruises",
+          "id": 211,
+          "language": "en",
+          "parent": {
+            "name": "Travel & Tourism",
+            "id": 40,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Car Rentals",
+          "id": 91,
+          "language": "en",
+          "parent": {
+            "name": "Travel & Tourism",
+            "id": 40,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Hotels",
+          "id": 41,
+          "language": "en",
+          "parent": {
+            "name": "Travel & Tourism",
+            "id": 40,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Package Holidays",
+          "id": 45,
+          "language": "en",
+          "parent": {
+            "name": "Travel & Tourism",
+            "id": 40,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Buses",
+          "id": 207,
+          "language": "en",
+          "parent": {
+            "name": "Travel & Tourism",
+            "id": 40,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Carsharing",
+          "id": 210,
+          "language": "en",
+          "parent": {
+            "name": "Travel & Tourism",
+            "id": 40,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Metasearch Engines",
+          "id": 218,
+          "language": "en",
+          "parent": {
+            "name": "Travel & Tourism",
+            "id": 40,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Travel & Tourism",
+          "id": 40,
           "language": "en",
           "parent": null
+        },
+        {
+          "name": "Flights",
+          "id": 44,
+          "language": "en",
+          "parent": {
+            "name": "Travel & Tourism",
+            "id": 40,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Ridesharing & Taxi",
+          "id": 209,
+          "language": "en",
+          "parent": {
+            "name": "Travel & Tourism",
+            "id": 40,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Vacation Rentals",
+          "id": 212,
+          "language": "en",
+          "parent": {
+            "name": "Travel & Tourism",
+            "id": 40,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Real Estate",
+          "id": 226,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Tours",
+          "id": 234,
+          "language": "en",
+          "parent": {
+            "name": "Travel & Tourism",
+            "id": 40,
+            "language": "en",
+            "parent": null
+          }
         }
-      }
-    ],
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 104846,
-    "name": "Rukita [CPS] ID",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/12/104846-fba10e932ef4abfd.svg",
-    "img": "platform/104846.svg",
-    "categories": [
-      {
+      ],
+      "category": {
         "name": "Trains",
         "id": 208,
         "language": "en",
@@ -392,160 +538,39 @@
           "language": "en",
           "parent": null
         }
-      },
-      {
-        "name": "Cruises",
-        "id": 211,
-        "language": "en",
-        "parent": {
-          "name": "Travel & Tourism",
-          "id": 40,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Car Rentals",
-        "id": 91,
-        "language": "en",
-        "parent": {
-          "name": "Travel & Tourism",
-          "id": 40,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Hotels",
-        "id": 41,
-        "language": "en",
-        "parent": {
-          "name": "Travel & Tourism",
-          "id": 40,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Package Holidays",
-        "id": 45,
-        "language": "en",
-        "parent": {
-          "name": "Travel & Tourism",
-          "id": 40,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Buses",
-        "id": 207,
-        "language": "en",
-        "parent": {
-          "name": "Travel & Tourism",
-          "id": 40,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Carsharing",
-        "id": 210,
-        "language": "en",
-        "parent": {
-          "name": "Travel & Tourism",
-          "id": 40,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Metasearch Engines",
-        "id": 218,
-        "language": "en",
-        "parent": {
-          "name": "Travel & Tourism",
-          "id": 40,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Travel & Tourism",
-        "id": 40,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Flights",
-        "id": 44,
-        "language": "en",
-        "parent": {
-          "name": "Travel & Tourism",
-          "id": 40,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Ridesharing & Taxi",
-        "id": 209,
-        "language": "en",
-        "parent": {
-          "name": "Travel & Tourism",
-          "id": 40,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Vacation Rentals",
-        "id": 212,
-        "language": "en",
-        "parent": {
-          "name": "Travel & Tourism",
-          "id": 40,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Real Estate",
-        "id": 226,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Tours",
-        "id": 234,
-        "language": "en",
-        "parent": {
-          "name": "Travel & Tourism",
-          "id": 40,
-          "language": "en",
-          "parent": null
-        }
       }
-    ],
-    "category": {
-      "name": "Trains",
-      "id": 208,
-      "language": "en",
-      "parent": {
-        "name": "Travel & Tourism",
-        "id": 40,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 105113,
-    "name": "ANECOLE RU",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/17/105113-c97ea7f3d88d347d.svg",
-    "img": "platform/105113.svg",
-    "categories": [
-      {
+    },
+    {
+      "id": 105113,
+      "name": "ANECOLE RU",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/17/105113-c97ea7f3d88d347d.svg",
+      "img": "platform/105113.svg",
+      "categories": [
+        {
+          "name": "Online Education",
+          "id": 98,
+          "language": "en",
+          "parent": {
+            "name": "Online Services",
+            "id": 18,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "New Year Festival 2026",
+          "id": 378,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "category": {
         "name": "Online Education",
         "id": 98,
         "language": "en",
@@ -555,45 +580,45 @@
           "language": "en",
           "parent": null
         }
-      },
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "New Year Festival 2026",
-        "id": 378,
-        "language": "en",
-        "parent": null
       }
-    ],
-    "category": {
-      "name": "Online Education",
-      "id": 98,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 105191,
-    "name": "Symbol fashion Many GEOs",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/8/15/105191-5354850cf3f2277c.svg",
-    "img": "platform/105191.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
+    },
+    {
+      "id": 105191,
+      "name": "Symbol fashion Many GEOs",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2024/8/15/105191-5354850cf3f2277c.svg",
+      "img": "platform/105191.svg",
+      "categories": [
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Clothing, Footwear, Accessories",
+          "id": 64,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Smart tracking programs",
+          "id": 382,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Smart Tracking_UA",
+          "id": 379,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "category": {
         "name": "Clothing, Footwear, Accessories",
         "id": 64,
         "language": "en",
@@ -603,39 +628,50 @@
           "language": "en",
           "parent": null
         }
-      },
-      {
-        "name": "Smart tracking programs",
-        "id": 382,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Smart Tracking_UA",
-        "id": 379,
-        "language": "en",
-        "parent": null
       }
-    ],
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 105262,
-    "name": "English (US)",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/19/105262-e9a6b920ed84449b.svg",
-    "img": "platform/105262.svg",
-    "categories": [
-      {
+    },
+    {
+      "id": 105262,
+      "name": "English (US)",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/19/105262-e9a6b920ed84449b.svg",
+      "img": "platform/105262.svg",
+      "categories": [
+        {
+          "name": "Telecommunications",
+          "id": 20,
+          "language": "en",
+          "parent": {
+            "name": "Online Services",
+            "id": 18,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "IT Services & Soft",
+          "id": 122,
+          "language": "en",
+          "parent": {
+            "name": "Online Services",
+            "id": 18,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Smart Tracking_UA",
+          "id": 379,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "category": {
         "name": "Telecommunications",
         "id": 20,
         "language": "en",
@@ -645,56 +681,33 @@
           "language": "en",
           "parent": null
         }
-      },
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "IT Services & Soft",
-        "id": 122,
-        "language": "en",
-        "parent": {
+      }
+    },
+    {
+      "id": 105626,
+      "name": "Admitad Onboarding Affiliate Offer",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2025/5/12/105626-b51a06f6c685d6bb.svg",
+      "img": "platform/105626.svg",
+      "categories": [
+        {
           "name": "Online Services",
           "id": 18,
           "language": "en",
           "parent": null
+        },
+        {
+          "name": "Other Services",
+          "id": 93,
+          "language": "en",
+          "parent": {
+            "name": "Online Services",
+            "id": 18,
+            "language": "en",
+            "parent": null
+          }
         }
-      },
-      {
-        "name": "Smart Tracking_UA",
-        "id": 379,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "category": {
-      "name": "Telecommunications",
-      "id": 20,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 105626,
-    "name": "Admitad Onboarding Affiliate Offer",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/5/12/105626-b51a06f6c685d6bb.svg",
-    "img": "platform/105626.svg",
-    "categories": [
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
+      ],
+      "category": {
         "name": "Other Services",
         "id": 93,
         "language": "en",
@@ -705,32 +718,32 @@
           "parent": null
         }
       }
-    ],
-    "category": {
-      "name": "Other Services",
-      "id": 93,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 107100,
-    "name": "Самсон-Фарма RU",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/8/15/107100-d88d8b9063653875.svg",
-    "img": "platform/107100.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
+    },
+    {
+      "id": 107100,
+      "name": "Самсон-Фарма RU",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2024/8/15/107100-d88d8b9063653875.svg",
+      "img": "platform/107100.svg",
+      "categories": [
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Personal Care & Pharmacy",
+          "id": 67,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        }
+      ],
+      "category": {
         "name": "Personal Care & Pharmacy",
         "id": 67,
         "language": "en",
@@ -741,32 +754,32 @@
           "parent": null
         }
       }
-    ],
-    "category": {
-      "name": "Personal Care & Pharmacy",
-      "id": 67,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 107571,
-    "name": "Супераптека RU",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/8/19/107571-dad8bb22cc9dcb1e.svg",
-    "img": "platform/107571.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
+    },
+    {
+      "id": 107571,
+      "name": "Супераптека RU",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2024/8/19/107571-dad8bb22cc9dcb1e.svg",
+      "img": "platform/107571.svg",
+      "categories": [
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Personal Care & Pharmacy",
+          "id": 67,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        }
+      ],
+      "category": {
         "name": "Personal Care & Pharmacy",
         "id": 67,
         "language": "en",
@@ -777,32 +790,32 @@
           "parent": null
         }
       }
-    ],
-    "category": {
-      "name": "Personal Care & Pharmacy",
-      "id": 67,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 107575,
-    "name": "Доктор Столетов RU",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/8/19/107575-12caa1e0b4d53246.svg",
-    "img": "platform/107575.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
+    },
+    {
+      "id": 107575,
+      "name": "Доктор Столетов RU",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2024/8/19/107575-12caa1e0b4d53246.svg",
+      "img": "platform/107575.svg",
+      "categories": [
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Personal Care & Pharmacy",
+          "id": 67,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        }
+      ],
+      "category": {
         "name": "Personal Care & Pharmacy",
         "id": 67,
         "language": "en",
@@ -813,32 +826,32 @@
           "parent": null
         }
       }
-    ],
-    "category": {
-      "name": "Personal Care & Pharmacy",
-      "id": 67,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 107877,
-    "name": "M.REASON RU",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/8/19/107877-ec4012d6ae60e2c2.svg",
-    "img": "platform/107877.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
+    },
+    {
+      "id": 107877,
+      "name": "M.REASON RU",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2024/8/19/107877-ec4012d6ae60e2c2.svg",
+      "img": "platform/107877.svg",
+      "categories": [
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Clothing, Footwear, Accessories",
+          "id": 64,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        }
+      ],
+      "category": {
         "name": "Clothing, Footwear, Accessories",
         "id": 64,
         "language": "en",
@@ -849,26 +862,65 @@
           "parent": null
         }
       }
-    ],
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 107881,
-    "name": "Подписка Mail Space RU",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/6/16/107881-6a190e31533d8408.svg",
-    "img": "platform/107881.svg",
-    "categories": [
-      {
+    },
+    {
+      "id": 107881,
+      "name": "Подписка Mail Space RU",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2025/6/16/107881-6a190e31533d8408.svg",
+      "img": "platform/107881.svg",
+      "categories": [
+        {
+          "name": "Art & Collecting",
+          "id": 311,
+          "language": "en",
+          "parent": {
+            "name": "Online Services",
+            "id": 18,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Movies & Music",
+          "id": 203,
+          "language": "en",
+          "parent": {
+            "name": "Online Services",
+            "id": 18,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "IT Services & Soft",
+          "id": 122,
+          "language": "en",
+          "parent": {
+            "name": "Online Services",
+            "id": 18,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Other Services",
+          "id": 93,
+          "language": "en",
+          "parent": {
+            "name": "Online Services",
+            "id": 18,
+            "language": "en",
+            "parent": null
+          }
+        }
+      ],
+      "category": {
         "name": "Art & Collecting",
         "id": 311,
         "language": "en",
@@ -878,72 +930,39 @@
           "language": "en",
           "parent": null
         }
-      },
-      {
-        "name": "Movies & Music",
-        "id": 203,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "IT Services & Soft",
-        "id": 122,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Other Services",
-        "id": 93,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
       }
-    ],
-    "category": {
-      "name": "Art & Collecting",
-      "id": 311,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 108184,
-    "name": "PRM.com BG",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/7/21/108184-1befefce7bf99d82.svg",
-    "img": "platform/108184.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
+    },
+    {
+      "id": 108184,
+      "name": "PRM.com BG",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2025/7/21/108184-1befefce7bf99d82.svg",
+      "img": "platform/108184.svg",
+      "categories": [
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Clothing, Footwear, Accessories",
+          "id": 64,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Smart tracking programs",
+          "id": 382,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "category": {
         "name": "Clothing, Footwear, Accessories",
         "id": 64,
         "language": "en",
@@ -953,39 +972,33 @@
           "language": "en",
           "parent": null
         }
-      },
-      {
-        "name": "Smart tracking programs",
-        "id": 382,
-        "language": "en",
-        "parent": null
       }
-    ],
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 108555,
-    "name": "DermaZone Many GEOs links & promo codes",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/9/20/108555-eab5bc55efbb349b.svg",
-    "img": "platform/108555.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
+    },
+    {
+      "id": 108555,
+      "name": "DermaZone Many GEOs links & promo codes",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2024/9/20/108555-eab5bc55efbb349b.svg",
+      "img": "platform/108555.svg",
+      "categories": [
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Personal Care & Pharmacy",
+          "id": 67,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        }
+      ],
+      "category": {
         "name": "Personal Care & Pharmacy",
         "id": 67,
         "language": "en",
@@ -996,26 +1009,32 @@
           "parent": null
         }
       }
-    ],
-    "category": {
-      "name": "Personal Care & Pharmacy",
-      "id": 67,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 108706,
-    "name": "IBLS",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/2/6/108706-abeeeff5cb83af98.svg",
-    "img": "platform/108706.svg",
-    "categories": [
-      {
+    },
+    {
+      "id": 108706,
+      "name": "IBLS",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2025/2/6/108706-abeeeff5cb83af98.svg",
+      "img": "platform/108706.svg",
+      "categories": [
+        {
+          "name": "Online Education",
+          "id": 98,
+          "language": "en",
+          "parent": {
+            "name": "Online Services",
+            "id": 18,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "category": {
         "name": "Online Education",
         "id": 98,
         "language": "en",
@@ -1025,39 +1044,45 @@
           "language": "en",
           "parent": null
         }
-      },
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
       }
-    ],
-    "category": {
-      "name": "Online Education",
-      "id": 98,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 109297,
-    "name": "Apollo UA",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/3/31/109297-a8ec6fe834b1a953.svg",
-    "img": "platform/109297.svg",
-    "categories": [
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
+    },
+    {
+      "id": 109297,
+      "name": "Apollo UA",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2025/3/31/109297-a8ec6fe834b1a953.svg",
+      "img": "platform/109297.svg",
+      "categories": [
+        {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Fitness",
+          "id": 205,
+          "language": "en",
+          "parent": {
+            "name": "Online Services",
+            "id": 18,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Smart tracking programs",
+          "id": 382,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Smart Tracking_UA",
+          "id": 379,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "category": {
         "name": "Fitness",
         "id": 205,
         "language": "en",
@@ -1067,39 +1092,99 @@
           "language": "en",
           "parent": null
         }
-      },
-      {
-        "name": "Smart tracking programs",
-        "id": 382,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Smart Tracking_UA",
-        "id": 379,
-        "language": "en",
-        "parent": null
       }
-    ],
-    "category": {
-      "name": "Fitness",
-      "id": 205,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 109430,
-    "name": "Miniso MX",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/9/14/109430-ff296a2595e8bc13.svg",
-    "img": "platform/109430.svg",
-    "categories": [
-      {
+    },
+    {
+      "id": 109430,
+      "name": "Miniso MX",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2024/9/14/109430-ff296a2595e8bc13.svg",
+      "img": "platform/109430.svg",
+      "categories": [
+        {
+          "name": "Household Appliances & Electronics",
+          "id": 65,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Gifts & Flowers",
+          "id": 72,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Clothing, Footwear, Accessories",
+          "id": 64,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Toys, Kids & Babies",
+          "id": 69,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Hobby & Stationery",
+          "id": 89,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Personal Care & Pharmacy",
+          "id": 67,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Pets",
+          "id": 74,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        }
+      ],
+      "category": {
         "name": "Household Appliances & Electronics",
         "id": 65,
         "language": "en",
@@ -1109,99 +1194,33 @@
           "language": "en",
           "parent": null
         }
-      },
-      {
-        "name": "Gifts & Flowers",
-        "id": 72,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Toys, Kids & Babies",
-        "id": 69,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Hobby & Stationery",
-        "id": 89,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Personal Care & Pharmacy",
-        "id": 67,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Pets",
-        "id": 74,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
       }
-    ],
-    "category": {
-      "name": "Household Appliances & Electronics",
-      "id": 65,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 109641,
-    "name": "Hi Store RU",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/9/16/109641-b50f578380af87b4.svg",
-    "img": "platform/109641.svg",
-    "categories": [
-      {
+    },
+    {
+      "id": 109641,
+      "name": "Hi Store RU",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2024/9/16/109641-b50f578380af87b4.svg",
+      "img": "platform/109641.svg",
+      "categories": [
+        {
+          "name": "Household Appliances & Electronics",
+          "id": 65,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "category": {
         "name": "Household Appliances & Electronics",
         "id": 65,
         "language": "en",
@@ -1211,33 +1230,50 @@
           "language": "en",
           "parent": null
         }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
       }
-    ],
-    "category": {
-      "name": "Household Appliances & Electronics",
-      "id": 65,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 110058,
-    "name": "Колесо  RU",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/9/23/110058-c2a244ec686faf39.svg",
-    "img": "platform/110058.svg",
-    "categories": [
-      {
+    },
+    {
+      "id": 110058,
+      "name": "Колесо  RU",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2024/9/23/110058-c2a244ec686faf39.svg",
+      "img": "platform/110058.svg",
+      "categories": [
+        {
+          "name": "Cars & Bikes",
+          "id": 196,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Car & Bike Accessories",
+          "id": 92,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "New Year Festival 2026",
+          "id": 378,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "category": {
         "name": "Cars & Bikes",
         "id": 196,
         "language": "en",
@@ -1247,50 +1283,33 @@
           "language": "en",
           "parent": null
         }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Car & Bike Accessories",
-        "id": 92,
-        "language": "en",
-        "parent": {
+      }
+    },
+    {
+      "id": 110474,
+      "name": "ALEXANDER BOGDANOV RU",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2024/10/28/110474-c5ad15d05dd17dc1.svg",
+      "img": "platform/110474.svg",
+      "categories": [
+        {
+          "name": "Clothing, Footwear, Accessories",
+          "id": 64,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
           "name": "Online stores",
           "id": 62,
           "language": "en",
           "parent": null
         }
-      },
-      {
-        "name": "New Year Festival 2026",
-        "id": 378,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "category": {
-      "name": "Cars & Bikes",
-      "id": 196,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 110474,
-    "name": "ALEXANDER BOGDANOV RU",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/10/28/110474-c5ad15d05dd17dc1.svg",
-    "img": "platform/110474.svg",
-    "categories": [
-      {
+      ],
+      "category": {
         "name": "Clothing, Footwear, Accessories",
         "id": 64,
         "language": "en",
@@ -1300,45 +1319,89 @@
           "language": "en",
           "parent": null
         }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
       }
-    ],
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 111007,
-    "name": "Yango Drive AE Promo codes & Links",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/10/3/111007-17eee65b8fff32a7.svg",
-    "img": "platform/111007.svg",
-    "categories": [
-      {
-        "name": "Travel & Tourism",
-        "id": 40,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
+    },
+    {
+      "id": 111007,
+      "name": "Yango Drive AE Promo codes & Links",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2024/10/3/111007-17eee65b8fff32a7.svg",
+      "img": "platform/111007.svg",
+      "categories": [
+        {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Other Services",
+          "id": 93,
+          "language": "en",
+          "parent": {
+            "name": "Online Services",
+            "id": 18,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Mobile Programs",
+          "id": 79,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Transportation services",
+          "id": 258,
+          "language": "en",
+          "parent": {
+            "name": "Online Services",
+            "id": 18,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Entertainment",
+          "id": 112,
+          "language": "en",
+          "parent": {
+            "name": "Mobile Programs",
+            "id": 79,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Car Rentals",
+          "id": 91,
+          "language": "en",
+          "parent": {
+            "name": "Travel & Tourism",
+            "id": 40,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Cars",
+          "id": 256,
+          "language": "en",
+          "parent": {
+            "name": "Online Services",
+            "id": 18,
+            "language": "en",
+            "parent": null
+          }
+        }
+      ],
+      "category": {
         "name": "Other Services",
         "id": 93,
         "language": "en",
@@ -1348,83 +1411,33 @@
           "language": "en",
           "parent": null
         }
-      },
-      {
-        "name": "Mobile Programs",
-        "id": 79,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Transportation services",
-        "id": 258,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Entertainment",
-        "id": 112,
-        "language": "en",
-        "parent": {
-          "name": "Mobile Programs",
-          "id": 79,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Car Rentals",
-        "id": 91,
-        "language": "en",
-        "parent": {
-          "name": "Travel & Tourism",
-          "id": 40,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Cars",
-        "id": 256,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
       }
-    ],
-    "category": {
-      "name": "Other Services",
-      "id": 93,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 111413,
-    "name": "Tata Neu Credit Card [CPD] IN",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/10/9/111413-419c58ed75bb2dd9.svg",
-    "img": "platform/111413.svg",
-    "categories": [
-      {
-        "name": "Financial Programs",
-        "id": 7,
-        "language": "en",
-        "parent": null
-      },
-      {
+    },
+    {
+      "id": 111413,
+      "name": "Tata Neu Credit Card [CPD] IN",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2024/10/9/111413-419c58ed75bb2dd9.svg",
+      "img": "platform/111413.svg",
+      "categories": [
+        {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Credit Cards",
+          "id": 10,
+          "language": "en",
+          "parent": {
+            "name": "Financial Programs",
+            "id": 7,
+            "language": "en",
+            "parent": null
+          }
+        }
+      ],
+      "category": {
         "name": "Credit Cards",
         "id": 10,
         "language": "en",
@@ -1435,32 +1448,54 @@
           "parent": null
         }
       }
-    ],
-    "category": {
-      "name": "Credit Cards",
-      "id": 10,
-      "language": "en",
-      "parent": {
-        "name": "Financial Programs",
-        "id": 7,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 111444,
-    "name": "Kaiten RU",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/10/10/111444-074f4e8fbd7ca2d9.svg",
-    "img": "platform/111444.svg",
-    "categories": [
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
+    },
+    {
+      "id": 111444,
+      "name": "Kaiten RU",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2024/10/10/111444-074f4e8fbd7ca2d9.svg",
+      "img": "platform/111444.svg",
+      "categories": [
+        {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Other Services",
+          "id": 93,
+          "language": "en",
+          "parent": {
+            "name": "Online Services",
+            "id": 18,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "IT Services & Soft",
+          "id": 122,
+          "language": "en",
+          "parent": {
+            "name": "Online Services",
+            "id": 18,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "B2B Online Services",
+          "id": 206,
+          "language": "en",
+          "parent": {
+            "name": "Online Services",
+            "id": 18,
+            "language": "en",
+            "parent": null
+          }
+        }
+      ],
+      "category": {
         "name": "Other Services",
         "id": 93,
         "language": "en",
@@ -1470,277 +1505,33 @@
           "language": "en",
           "parent": null
         }
-      },
-      {
-        "name": "IT Services & Soft",
-        "id": 122,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "B2B Online Services",
-        "id": 206,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
       }
-    ],
-    "category": {
-      "name": "Other Services",
-      "id": 93,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 113191,
-    "name": "Keycense [CPS] Many GEOs",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/2/17/113191-14599aea6e5f2982.svg",
-    "img": "platform/113191.svg",
-    "categories": [
-      {
-        "name": "Game Stores and Services",
-        "id": 214,
-        "language": "en",
-        "parent": {
+    },
+    {
+      "id": 113191,
+      "name": "Keycense [CPS] Many GEOs",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2025/2/17/113191-14599aea6e5f2982.svg",
+      "img": "platform/113191.svg",
+      "categories": [
+        {
+          "name": "Game Stores and Services",
+          "id": 214,
+          "language": "en",
+          "parent": {
+            "name": "Online Games",
+            "id": 6,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
           "name": "Online Games",
           "id": 6,
           "language": "en",
           "parent": null
         }
-      },
-      {
-        "name": "Online Games",
-        "id": 6,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "category": {
-      "name": "Game Stores and Services",
-      "id": 214,
-      "language": "en",
-      "parent": {
-        "name": "Online Games",
-        "id": 6,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 113770,
-    "name": "Levi’s® Many GEOs",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/11/5/113770-897adf08e420a2b7.svg",
-    "img": "platform/113770.svg",
-    "categories": [
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 113984,
-    "name": "Sitpack WW",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/24/113984-85ace6283e127d5d.png",
-    "img": "platform/113984.png",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Sports & Outdoor",
-        "id": 85,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "category": {
-      "name": "Sports & Outdoor",
-      "id": 85,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 114701,
-    "name": "Homestyler WW",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/9/114701-eaaa963c5e2ae236.svg",
-    "img": "platform/114701.svg",
-    "categories": [
-      {
-        "name": "IT Services & Soft",
-        "id": 122,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Smart tracking programs",
-        "id": 382,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "category": {
-      "name": "IT Services & Soft",
-      "id": 122,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 115523,
-    "name": "Hansa RU",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/11/13/115523-cc0a31e769424f22.svg",
-    "img": "platform/115523.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Household Appliances & Electronics",
-        "id": 65,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "category": {
-      "name": "Household Appliances & Electronics",
-      "id": 65,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 115530,
-    "name": "Capcut Many Geos",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/11/14/115530-b18d213fb2763865.svg",
-    "img": "platform/115530.svg",
-    "categories": [
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "IT Services & Soft",
-        "id": 122,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "category": {
-      "name": "IT Services & Soft",
-      "id": 122,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 116044,
-    "name": "Sorare [CPS] WW",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/20/116044-9eee17e2a1afbac9.svg",
-    "img": "platform/116044.svg",
-    "categories": [
-      {
-        "name": "Online Games",
-        "id": 6,
-        "language": "en",
-        "parent": null
-      },
-      {
+      ],
+      "category": {
         "name": "Game Stores and Services",
         "id": 214,
         "language": "en",
@@ -1751,26 +1542,32 @@
           "parent": null
         }
       }
-    ],
-    "category": {
-      "name": "Game Stores and Services",
-      "id": 214,
-      "language": "en",
-      "parent": {
-        "name": "Online Games",
-        "id": 6,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 116661,
-    "name": "Costway USA",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/11/22/116661-35b21b1c2c2303e2.svg",
-    "img": "platform/116661.svg",
-    "categories": [
-      {
+    },
+    {
+      "id": 113770,
+      "name": "Levi’s® Many GEOs",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2024/11/5/113770-897adf08e420a2b7.svg",
+      "img": "platform/113770.svg",
+      "categories": [
+        {
+          "name": "Clothing, Footwear, Accessories",
+          "id": 64,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "category": {
         "name": "Clothing, Footwear, Accessories",
         "id": 64,
         "language": "en",
@@ -1780,129 +1577,33 @@
           "language": "en",
           "parent": null
         }
-      },
-      {
-        "name": "Personal Care & Pharmacy",
-        "id": 67,
-        "language": "en",
-        "parent": {
+      }
+    },
+    {
+      "id": 113984,
+      "name": "Sitpack WW",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/24/113984-85ace6283e127d5d.png",
+      "img": "platform/113984.png",
+      "categories": [
+        {
           "name": "Online stores",
           "id": 62,
           "language": "en",
           "parent": null
-        }
-      },
-      {
-        "name": "Books",
-        "id": 70,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
+        },
+        {
+          "name": "Sports & Outdoor",
+          "id": 85,
           "language": "en",
-          "parent": null
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
         }
-      },
-      {
-        "name": "Liquors",
-        "id": 199,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Tobacco",
-        "id": 201,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Adult",
-        "id": 216,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Marketplaces (including Chinese Stores)",
-        "id": 96,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Food & Food delivery",
-        "id": 63,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Furniture & Homeware",
-        "id": 66,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Toys, Kids & Babies",
-        "id": 69,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Gifts & Flowers",
-        "id": 72,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Jewelry & Luxury Goods",
-        "id": 200,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
+      ],
+      "category": {
         "name": "Sports & Outdoor",
         "id": 85,
         "language": "en",
@@ -1912,127 +1613,39 @@
           "language": "en",
           "parent": null
         }
-      },
-      {
-        "name": "Car & Bike Accessories",
-        "id": 92,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Household Appliances & Electronics",
-        "id": 65,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Cars & Bikes",
-        "id": 196,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Smart Home",
-        "id": 198,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Pets",
-        "id": 74,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "eHealth",
-        "id": 202,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Hobby & Stationery",
-        "id": 89,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Hand & Power tools",
-        "id": 102,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
       }
-    ],
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 116972,
-    "name": "Coohom WW",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/2/20/116972-52e2df1636573d22.svg",
-    "img": "platform/116972.svg",
-    "categories": [
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
+    },
+    {
+      "id": 114701,
+      "name": "Homestyler WW",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/9/114701-eaaa963c5e2ae236.svg",
+      "img": "platform/114701.svg",
+      "categories": [
+        {
+          "name": "IT Services & Soft",
+          "id": 122,
+          "language": "en",
+          "parent": {
+            "name": "Online Services",
+            "id": 18,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Smart tracking programs",
+          "id": 382,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "category": {
         "name": "IT Services & Soft",
         "id": 122,
         "language": "en",
@@ -2042,39 +1655,439 @@
           "language": "en",
           "parent": null
         }
-      },
-      {
-        "name": "Smart tracking programs",
-        "id": 382,
-        "language": "en",
-        "parent": null
       }
-    ],
-    "category": {
-      "name": "IT Services & Soft",
-      "id": 122,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
+    },
+    {
+      "id": 115523,
+      "name": "Hansa RU",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2024/11/13/115523-cc0a31e769424f22.svg",
+      "img": "platform/115523.svg",
+      "categories": [
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Household Appliances & Electronics",
+          "id": 65,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        }
+      ],
+      "category": {
+        "name": "Household Appliances & Electronics",
+        "id": 65,
         "language": "en",
-        "parent": null
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
       }
-    }
-  },
-  {
-    "id": 117240,
-    "name": "Consul-coton RU",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/12/2/117240-032ae5e2d8885ce2.svg",
-    "img": "platform/117240.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
+    },
+    {
+      "id": 115530,
+      "name": "Capcut Many Geos",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2024/11/14/115530-b18d213fb2763865.svg",
+      "img": "platform/115530.svg",
+      "categories": [
+        {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "IT Services & Soft",
+          "id": 122,
+          "language": "en",
+          "parent": {
+            "name": "Online Services",
+            "id": 18,
+            "language": "en",
+            "parent": null
+          }
+        }
+      ],
+      "category": {
+        "name": "IT Services & Soft",
+        "id": 122,
         "language": "en",
-        "parent": null
-      },
-      {
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    },
+    {
+      "id": 116044,
+      "name": "Sorare [CPS] WW",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/20/116044-9eee17e2a1afbac9.svg",
+      "img": "platform/116044.svg",
+      "categories": [
+        {
+          "name": "Online Games",
+          "id": 6,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Game Stores and Services",
+          "id": 214,
+          "language": "en",
+          "parent": {
+            "name": "Online Games",
+            "id": 6,
+            "language": "en",
+            "parent": null
+          }
+        }
+      ],
+      "category": {
+        "name": "Game Stores and Services",
+        "id": 214,
+        "language": "en",
+        "parent": {
+          "name": "Online Games",
+          "id": 6,
+          "language": "en",
+          "parent": null
+        }
+      }
+    },
+    {
+      "id": 116661,
+      "name": "Costway USA",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2024/11/22/116661-35b21b1c2c2303e2.svg",
+      "img": "platform/116661.svg",
+      "categories": [
+        {
+          "name": "Clothing, Footwear, Accessories",
+          "id": 64,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Personal Care & Pharmacy",
+          "id": 67,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Books",
+          "id": 70,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Liquors",
+          "id": 199,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Tobacco",
+          "id": 201,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Adult",
+          "id": 216,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Marketplaces (including Chinese Stores)",
+          "id": 96,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Food & Food delivery",
+          "id": 63,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Furniture & Homeware",
+          "id": 66,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Toys, Kids & Babies",
+          "id": 69,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Gifts & Flowers",
+          "id": 72,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Jewelry & Luxury Goods",
+          "id": 200,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Sports & Outdoor",
+          "id": 85,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Car & Bike Accessories",
+          "id": 92,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Household Appliances & Electronics",
+          "id": 65,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Cars & Bikes",
+          "id": 196,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Smart Home",
+          "id": 198,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Pets",
+          "id": 74,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "eHealth",
+          "id": 202,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Hobby & Stationery",
+          "id": 89,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Hand & Power tools",
+          "id": 102,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        }
+      ],
+      "category": {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    },
+    {
+      "id": 116972,
+      "name": "Coohom WW",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2025/2/20/116972-52e2df1636573d22.svg",
+      "img": "platform/116972.svg",
+      "categories": [
+        {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "IT Services & Soft",
+          "id": 122,
+          "language": "en",
+          "parent": {
+            "name": "Online Services",
+            "id": 18,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Smart tracking programs",
+          "id": 382,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "category": {
+        "name": "IT Services & Soft",
+        "id": 122,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    },
+    {
+      "id": 117240,
+      "name": "Consul-coton RU",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2024/12/2/117240-032ae5e2d8885ce2.svg",
+      "img": "platform/117240.svg",
+      "categories": [
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Furniture & Homeware",
+          "id": 66,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        }
+      ],
+      "category": {
         "name": "Furniture & Homeware",
         "id": 66,
         "language": "en",
@@ -2085,32 +2098,32 @@
           "parent": null
         }
       }
-    ],
-    "category": {
-      "name": "Furniture & Homeware",
-      "id": 66,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 117264,
-    "name": "Cuadra MX",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/12/5/117264-3ddcd530bf78aa6e.svg",
-    "img": "platform/117264.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
+    },
+    {
+      "id": 117264,
+      "name": "Cuadra MX",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2024/12/5/117264-3ddcd530bf78aa6e.svg",
+      "img": "platform/117264.svg",
+      "categories": [
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Clothing, Footwear, Accessories",
+          "id": 64,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        }
+      ],
+      "category": {
         "name": "Clothing, Footwear, Accessories",
         "id": 64,
         "language": "en",
@@ -2121,26 +2134,43 @@
           "parent": null
         }
       }
-    ],
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 117397,
-    "name": "Rossko RU",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/12/23/117397-244d97f518fc9d3b.svg",
-    "img": "platform/117397.svg",
-    "categories": [
-      {
+    },
+    {
+      "id": 117397,
+      "name": "Rossko RU",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2024/12/23/117397-244d97f518fc9d3b.svg",
+      "img": "platform/117397.svg",
+      "categories": [
+        {
+          "name": "Cars & Bikes",
+          "id": 196,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Car & Bike Accessories",
+          "id": 92,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        }
+      ],
+      "category": {
         "name": "Cars & Bikes",
         "id": 196,
         "language": "en",
@@ -2150,50 +2180,33 @@
           "language": "en",
           "parent": null
         }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Car & Bike Accessories",
-        "id": 92,
-        "language": "en",
-        "parent": {
+      }
+    },
+    {
+      "id": 117473,
+      "name": "ЛЭТУАЛЬ KZ",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2024/12/12/117473-e5e3e2e09df1ccd0.svg",
+      "img": "platform/117473.svg",
+      "categories": [
+        {
           "name": "Online stores",
           "id": 62,
           "language": "en",
           "parent": null
+        },
+        {
+          "name": "Personal Care & Pharmacy",
+          "id": 67,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
         }
-      }
-    ],
-    "category": {
-      "name": "Cars & Bikes",
-      "id": 196,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 117473,
-    "name": "ЛЭТУАЛЬ KZ",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/12/12/117473-e5e3e2e09df1ccd0.svg",
-    "img": "platform/117473.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
+      ],
+      "category": {
         "name": "Personal Care & Pharmacy",
         "id": 67,
         "language": "en",
@@ -2204,26 +2217,54 @@
           "parent": null
         }
       }
-    ],
-    "category": {
-      "name": "Personal Care & Pharmacy",
-      "id": 67,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 117646,
-    "name": "Fossil [CPS] ID",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/12/10/117646-9d4f4ad6f205e76c.svg",
-    "img": "platform/117646.svg",
-    "categories": [
-      {
+    },
+    {
+      "id": 117646,
+      "name": "Fossil [CPS] ID",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2024/12/10/117646-9d4f4ad6f205e76c.svg",
+      "img": "platform/117646.svg",
+      "categories": [
+        {
+          "name": "Gifts & Flowers",
+          "id": 72,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Clothing, Footwear, Accessories",
+          "id": 64,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Jewelry & Luxury Goods",
+          "id": 200,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        }
+      ],
+      "category": {
         "name": "Gifts & Flowers",
         "id": 72,
         "language": "en",
@@ -2233,14 +2274,77 @@
           "language": "en",
           "parent": null
         }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
+      }
+    },
+    {
+      "id": 117648,
+      "name": "English (US)",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/21/117648-d2b3a13d119cac7f.svg",
+      "img": "platform/117648.svg",
+      "categories": [
+        {
+          "name": "Clothing, Footwear, Accessories",
+          "id": 64,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Household Appliances & Electronics",
+          "id": 65,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Hobby & Stationery",
+          "id": 89,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Gifts & Flowers",
+          "id": 72,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Jewelry & Luxury Goods",
+          "id": 200,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "category": {
         "name": "Clothing, Footwear, Accessories",
         "id": 64,
         "language": "en",
@@ -2250,118 +2354,39 @@
           "language": "en",
           "parent": null
         }
-      },
-      {
-        "name": "Jewelry & Luxury Goods",
-        "id": 200,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
       }
-    ],
-    "category": {
-      "name": "Gifts & Flowers",
-      "id": 72,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 117648,
-    "name": "English (US)",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/21/117648-d2b3a13d119cac7f.svg",
-    "img": "platform/117648.svg",
-    "categories": [
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
+    },
+    {
+      "id": 118265,
+      "name": "Отели в Т-Банке RU",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/20/118265-d4679c1a8b8c06f3.svg",
+      "img": "platform/118265.svg",
+      "categories": [
+        {
+          "name": "Hotels",
+          "id": 41,
+          "language": "en",
+          "parent": {
+            "name": "Travel & Tourism",
+            "id": 40,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "11.11 & Black Friday 2025",
+          "id": 377,
           "language": "en",
           "parent": null
         }
-      },
-      {
-        "name": "Household Appliances & Electronics",
-        "id": 65,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Hobby & Stationery",
-        "id": 89,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Gifts & Flowers",
-        "id": 72,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Jewelry & Luxury Goods",
-        "id": 200,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 118265,
-    "name": "Отели в Т-Банке RU",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/20/118265-d4679c1a8b8c06f3.svg",
-    "img": "platform/118265.svg",
-    "categories": [
-      {
+      ],
+      "category": {
         "name": "Hotels",
         "id": 41,
         "language": "en",
@@ -2371,39 +2396,83 @@
           "language": "en",
           "parent": null
         }
-      },
-      {
-        "name": "Travel & Tourism",
-        "id": 40,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "11.11 & Black Friday 2025",
-        "id": 377,
-        "language": "en",
-        "parent": null
       }
-    ],
-    "category": {
-      "name": "Hotels",
-      "id": 41,
-      "language": "en",
-      "parent": {
-        "name": "Travel & Tourism",
-        "id": 40,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 118860,
-    "name": "WPS Office WW",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/16/118860-c3150395d3cedbbf.svg",
-    "img": "platform/118860.svg",
-    "categories": [
-      {
+    },
+    {
+      "id": 118860,
+      "name": "WPS Office WW",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/16/118860-c3150395d3cedbbf.svg",
+      "img": "platform/118860.svg",
+      "categories": [
+        {
+          "name": "IT Services & Soft",
+          "id": 122,
+          "language": "en",
+          "parent": {
+            "name": "Online Services",
+            "id": 18,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "B2B Online Services",
+          "id": 206,
+          "language": "en",
+          "parent": {
+            "name": "Online Services",
+            "id": 18,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Jobs and freelance",
+          "id": 257,
+          "language": "en",
+          "parent": {
+            "name": "Online Services",
+            "id": 18,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Movies & Music",
+          "id": 203,
+          "language": "en",
+          "parent": {
+            "name": "Online Services",
+            "id": 18,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Other Services",
+          "id": 93,
+          "language": "en",
+          "parent": {
+            "name": "Online Services",
+            "id": 18,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Smart tracking programs",
+          "id": 382,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "category": {
         "name": "IT Services & Soft",
         "id": 122,
         "language": "en",
@@ -2413,83 +2482,253 @@
           "language": "en",
           "parent": null
         }
-      },
-      {
-        "name": "B2B Online Services",
-        "id": 206,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Jobs and freelance",
-        "id": 257,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Movies & Music",
-        "id": 203,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Other Services",
-        "id": 93,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Smart tracking programs",
-        "id": 382,
-        "language": "en",
-        "parent": null
       }
-    ],
-    "category": {
-      "name": "IT Services & Soft",
-      "id": 122,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 118941,
-    "name": "Styli Shop Offline Coupons - GCC",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/2/26/118941-f3edeaf22f08c1e0.svg",
-    "img": "platform/118941.svg",
-    "categories": [
-      {
+    },
+    {
+      "id": 118941,
+      "name": "Styli Shop Offline Coupons - GCC",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2025/2/26/118941-f3edeaf22f08c1e0.svg",
+      "img": "platform/118941.svg",
+      "categories": [
+        {
+          "name": "Furniture & Homeware",
+          "id": 66,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Toys, Kids & Babies",
+          "id": 69,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Gifts & Flowers",
+          "id": 72,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Jewelry & Luxury Goods",
+          "id": 200,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Sports & Outdoor",
+          "id": 85,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Car & Bike Accessories",
+          "id": 92,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Household Appliances & Electronics",
+          "id": 65,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Cars & Bikes",
+          "id": 196,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Smart Home",
+          "id": 198,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Pets",
+          "id": 74,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "eHealth",
+          "id": 202,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Hobby & Stationery",
+          "id": 89,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Hand & Power tools",
+          "id": 102,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Clothing, Footwear, Accessories",
+          "id": 64,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Personal Care & Pharmacy",
+          "id": 67,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Books",
+          "id": 70,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Liquors",
+          "id": 199,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Tobacco",
+          "id": 201,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Adult",
+          "id": 216,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Marketplaces (including Chinese Stores)",
+          "id": 96,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Food & Food delivery",
+          "id": 63,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        }
+      ],
+      "category": {
         "name": "Furniture & Homeware",
         "id": 66,
         "language": "en",
@@ -2499,146 +2738,33 @@
           "language": "en",
           "parent": null
         }
-      },
-      {
-        "name": "Toys, Kids & Babies",
-        "id": 69,
-        "language": "en",
-        "parent": {
+      }
+    },
+    {
+      "id": 119027,
+      "name": "Pobedov UA",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/21/119027-b14c97980ae64885.svg",
+      "img": "platform/119027.svg",
+      "categories": [
+        {
+          "name": "Clothing, Footwear, Accessories",
+          "id": 64,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
           "name": "Online stores",
           "id": 62,
           "language": "en",
           "parent": null
         }
-      },
-      {
-        "name": "Gifts & Flowers",
-        "id": 72,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Jewelry & Luxury Goods",
-        "id": 200,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Sports & Outdoor",
-        "id": 85,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Car & Bike Accessories",
-        "id": 92,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Household Appliances & Electronics",
-        "id": 65,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Cars & Bikes",
-        "id": 196,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Smart Home",
-        "id": 198,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Pets",
-        "id": 74,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "eHealth",
-        "id": 202,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Hobby & Stationery",
-        "id": 89,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Hand & Power tools",
-        "id": 102,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
+      ],
+      "category": {
         "name": "Clothing, Footwear, Accessories",
         "id": 64,
         "language": "en",
@@ -2648,182 +2774,33 @@
           "language": "en",
           "parent": null
         }
-      },
-      {
-        "name": "Personal Care & Pharmacy",
-        "id": 67,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Books",
-        "id": 70,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Liquors",
-        "id": 199,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Tobacco",
-        "id": 201,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Adult",
-        "id": 216,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Marketplaces (including Chinese Stores)",
-        "id": 96,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Food & Food delivery",
-        "id": 63,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
       }
-    ],
-    "category": {
-      "name": "Furniture & Homeware",
-      "id": 66,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 119027,
-    "name": "Pobedov UA",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/21/119027-b14c97980ae64885.svg",
-    "img": "platform/119027.svg",
-    "categories": [
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
+    },
+    {
+      "id": 119285,
+      "name": "LG SA Offline Codes & Links",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/21/119285-8e6b3229fef560e9.svg",
+      "img": "platform/119285.svg",
+      "categories": [
+        {
+          "name": "Household Appliances & Electronics",
+          "id": 65,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
           "name": "Online stores",
           "id": 62,
           "language": "en",
           "parent": null
         }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 119285,
-    "name": "LG SA Offline Codes & Links",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/21/119285-8e6b3229fef560e9.svg",
-    "img": "platform/119285.svg",
-    "categories": [
-      {
-        "name": "Household Appliances & Electronics",
-        "id": 65,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "category": {
-      "name": "Household Appliances & Electronics",
-      "id": 65,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 119288,
-    "name": "LG TR Offline Codes & Links",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/20/119288-edf4a32d7733a136.svg",
-    "img": "platform/119288.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
+      ],
+      "category": {
         "name": "Household Appliances & Electronics",
         "id": 65,
         "language": "en",
@@ -2834,32 +2811,80 @@
           "parent": null
         }
       }
-    ],
-    "category": {
-      "name": "Household Appliances & Electronics",
-      "id": 65,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
+    },
+    {
+      "id": 119288,
+      "name": "LG TR Offline Codes & Links",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/20/119288-edf4a32d7733a136.svg",
+      "img": "platform/119288.svg",
+      "categories": [
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Household Appliances & Electronics",
+          "id": 65,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        }
+      ],
+      "category": {
+        "name": "Household Appliances & Electronics",
+        "id": 65,
         "language": "en",
-        "parent": null
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
       }
-    }
-  },
-  {
-    "id": 120023,
-    "name": "mosdigitals RU",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/24/120023-df95e81aa3da7f05.svg",
-    "img": "platform/120023.svg",
-    "categories": [
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
+    },
+    {
+      "id": 120023,
+      "name": "mosdigitals RU",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/24/120023-df95e81aa3da7f05.svg",
+      "img": "platform/120023.svg",
+      "categories": [
+        {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Online Education",
+          "id": 98,
+          "language": "en",
+          "parent": {
+            "name": "Online Services",
+            "id": 18,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Back to school 2025",
+          "id": 371,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "New Year Festival 2026",
+          "id": 378,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "category": {
         "name": "Online Education",
         "id": 98,
         "language": "en",
@@ -2869,39 +2894,33 @@
           "language": "en",
           "parent": null
         }
-      },
-      {
-        "name": "Back to school 2025",
-        "id": 371,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "New Year Festival 2026",
-        "id": 378,
-        "language": "en",
-        "parent": null
       }
-    ],
-    "category": {
-      "name": "Online Education",
-      "id": 98,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 120083,
-    "name": "Бруноям RU",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/29/120083-63e0290875c8f202.svg",
-    "img": "platform/120083.svg",
-    "categories": [
-      {
+    },
+    {
+      "id": 120083,
+      "name": "Бруноям RU",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/29/120083-63e0290875c8f202.svg",
+      "img": "platform/120083.svg",
+      "categories": [
+        {
+          "name": "Online Education",
+          "id": 98,
+          "language": "en",
+          "parent": {
+            "name": "Online Services",
+            "id": 18,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "category": {
         "name": "Online Education",
         "id": 98,
         "language": "en",
@@ -2911,33 +2930,39 @@
           "language": "en",
           "parent": null
         }
-      },
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
       }
-    ],
-    "category": {
-      "name": "Online Education",
-      "id": 98,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 120432,
-    "name": "Thordata WW",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/2/21/120432-29bbe9dc13a2b119.svg",
-    "img": "platform/120432.svg",
-    "categories": [
-      {
+    },
+    {
+      "id": 120432,
+      "name": "Thordata WW",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2025/2/21/120432-29bbe9dc13a2b119.svg",
+      "img": "platform/120432.svg",
+      "categories": [
+        {
+          "name": "IT Services & Soft",
+          "id": 122,
+          "language": "en",
+          "parent": {
+            "name": "Online Services",
+            "id": 18,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Smart tracking programs",
+          "id": 382,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "category": {
         "name": "IT Services & Soft",
         "id": 122,
         "language": "en",
@@ -2947,39 +2972,33 @@
           "language": "en",
           "parent": null
         }
-      },
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Smart tracking programs",
-        "id": 382,
-        "language": "en",
-        "parent": null
       }
-    ],
-    "category": {
-      "name": "IT Services & Soft",
-      "id": 122,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 120523,
-    "name": "Credito365",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/23/120523-aad968f776df218d.svg",
-    "img": "platform/120523.svg",
-    "categories": [
-      {
+    },
+    {
+      "id": 120523,
+      "name": "Credito365",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/23/120523-aad968f776df218d.svg",
+      "img": "platform/120523.svg",
+      "categories": [
+        {
+          "name": "Loans",
+          "id": 9,
+          "language": "en",
+          "parent": {
+            "name": "Financial Programs",
+            "id": 7,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "category": {
         "name": "Loans",
         "id": 9,
         "language": "en",
@@ -2989,33 +3008,39 @@
           "language": "en",
           "parent": null
         }
-      },
-      {
-        "name": "Financial Programs",
-        "id": 7,
-        "language": "en",
-        "parent": null
       }
-    ],
-    "category": {
-      "name": "Loans",
-      "id": 9,
-      "language": "en",
-      "parent": {
-        "name": "Financial Programs",
-        "id": 7,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 120932,
-    "name": "СберМобайл RU",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/31/120932-a78f80156bfd728c.svg",
-    "img": "platform/120932.svg",
-    "categories": [
-      {
+    },
+    {
+      "id": 120932,
+      "name": "СберМобайл RU",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/31/120932-a78f80156bfd728c.svg",
+      "img": "platform/120932.svg",
+      "categories": [
+        {
+          "name": "Telecommunications",
+          "id": 20,
+          "language": "en",
+          "parent": {
+            "name": "Online Services",
+            "id": 18,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Oktoberfest 2025",
+          "id": 373,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "category": {
         "name": "Telecommunications",
         "id": 20,
         "language": "en",
@@ -3025,45 +3050,39 @@
           "language": "en",
           "parent": null
         }
-      },
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Oktoberfest 2025",
-        "id": 373,
-        "language": "en",
-        "parent": null
       }
-    ],
-    "category": {
-      "name": "Telecommunications",
-      "id": 20,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 121276,
-    "name": "Московский институт технологий и управления",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/3/5/121276-fe875684ffdff8f1.svg",
-    "img": "platform/121276.svg",
-    "categories": [
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
+    },
+    {
+      "id": 121276,
+      "name": "Московский институт технологий и управления",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2025/3/5/121276-fe875684ffdff8f1.svg",
+      "img": "platform/121276.svg",
+      "categories": [
+        {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Online Education",
+          "id": 98,
+          "language": "en",
+          "parent": {
+            "name": "Online Services",
+            "id": 18,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "11.11 & Black Friday 2025",
+          "id": 377,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "category": {
         "name": "Online Education",
         "id": 98,
         "language": "en",
@@ -3073,39 +3092,39 @@
           "language": "en",
           "parent": null
         }
-      },
-      {
-        "name": "11.11 & Black Friday 2025",
-        "id": 377,
-        "language": "en",
-        "parent": null
       }
-    ],
-    "category": {
-      "name": "Online Education",
-      "id": 98,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 121315,
-    "name": "Retouch4me WW",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/3/20/121315-2556d96d2827bae5.svg",
-    "img": "platform/121315.svg",
-    "categories": [
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
+    },
+    {
+      "id": 121315,
+      "name": "Retouch4me WW",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2025/3/20/121315-2556d96d2827bae5.svg",
+      "img": "platform/121315.svg",
+      "categories": [
+        {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Photography",
+          "id": 309,
+          "language": "en",
+          "parent": {
+            "name": "Online Services",
+            "id": 18,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Smart tracking programs",
+          "id": 382,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "category": {
         "name": "Photography",
         "id": 309,
         "language": "en",
@@ -3115,33 +3134,33 @@
           "language": "en",
           "parent": null
         }
-      },
-      {
-        "name": "Smart tracking programs",
-        "id": 382,
-        "language": "en",
-        "parent": null
       }
-    ],
-    "category": {
-      "name": "Photography",
-      "id": 309,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 121393,
-    "name": "GEMRE PL, CZ, SK",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/6/4/121393-0d237f61f65a22e5.svg",
-    "img": "platform/121393.svg",
-    "categories": [
-      {
+    },
+    {
+      "id": 121393,
+      "name": "GEMRE PL, CZ, SK",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2025/6/4/121393-0d237f61f65a22e5.svg",
+      "img": "platform/121393.svg",
+      "categories": [
+        {
+          "name": "Clothing, Footwear, Accessories",
+          "id": 64,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "category": {
         "name": "Clothing, Footwear, Accessories",
         "id": 64,
         "language": "en",
@@ -3151,24 +3170,8 @@
           "language": "en",
           "parent": null
         }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
       }
     }
-  }
-]
+  ],
+  "totalPosts": 618
+}
