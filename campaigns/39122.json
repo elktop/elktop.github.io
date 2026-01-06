@@ -41,5 +41,48 @@
     "promocode": "NOT REQUIRED",
     "frameset_link": "",
     "goto_link": "https://ficca2021.com/g/kydt622zv95af0702a279420f50c4d/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 39122,
+      "name": "Policy Bazaar (Car Insurance) AE CPL",
+      "site_url": "https://www.policybazaar.ae/"
+    },
+    "description": "",
+    "short_name": "Compare & Save upto 30% on car insurance",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-10-22T00:00:00",
+    "id": 594961,
+    "regions": [
+      "AE"
+    ],
+    "discount": "30%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/7/3/39122-9ca992c7712e2224.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "Compare & Save upto 30% on car insurance",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "",
+    "goto_link": "https://ficca2021.com/g/kydt622zv95af0702a279420f50c4d/?i=3"
   }
 ]

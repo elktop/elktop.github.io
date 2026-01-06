@@ -151,5 +151,158 @@
     "promocode": "WELCOME8",
     "frameset_link": "",
     "goto_link": "https://tywhh.com/g/cpxau9j8s85af0702a27e95c5fd652/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 159043,
+      "name": "Meshnology - Meshtastic & LoRa Hardware Specialist",
+      "site_url": "https://meshnology.com/"
+    },
+    "description": "",
+    "short_name": "Save 8% on Heltec V4 - Exclusive New Year Deal",
+    "exclusive": false,
+    "date_end": "2026-02-28T23:59:00",
+    "date_start": "2026-01-05T11:00:00",
+    "id": 894207,
+    "regions": [
+      "00"
+    ],
+    "discount": "8%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/12/26/159043-e33945248d4da33c.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      },
+      {
+        "id": 23,
+        "name": "DIY, Garden"
+      }
+    ],
+    "name": "Save 8% on Heltec V4 - Exclusive New Year Deal",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "MHV4-8",
+    "frameset_link": "",
+    "goto_link": "https://tywhh.com/g/2737zufp0s5af0702a27e95c5fd652/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 159043,
+      "name": "Meshnology - Meshtastic & LoRa Hardware Specialist",
+      "site_url": "https://meshnology.com/"
+    },
+    "description": "",
+    "short_name": "Top Seller！Exclusive 10% OFF for N39 All-in-One Mesh Kit",
+    "exclusive": true,
+    "date_end": "2026-02-28T23:59:00",
+    "date_start": "2026-01-04T00:00:00",
+    "id": 894152,
+    "regions": [
+      "00"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/12/26/159043-e33945248d4da33c.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      },
+      {
+        "id": 23,
+        "name": "DIY, Garden"
+      },
+      {
+        "id": 24,
+        "name": "Outdoor Clothing & Equipment"
+      },
+      {
+        "id": 189,
+        "name": "New Year Festival 2026"
+      }
+    ],
+    "name": "Top Seller！Exclusive 10% OFF for N39 All-in-One Mesh Kit",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "MN39-10",
+    "frameset_link": "",
+    "goto_link": "https://tywhh.com/g/pcvlpko2b35af0702a27e95c5fd652/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 159043,
+      "name": "Meshnology - Meshtastic & LoRa Hardware Specialist",
+      "site_url": "https://meshnology.com/"
+    },
+    "description": "Valid for all products including LoRa and Meshtastic kits. Minimum spend $50.",
+    "short_name": "8% OFF Sitewide for New Customers - Meshnology IoT Hardware",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-12-30T06:37:23",
+    "id": 893946,
+    "regions": [
+      "00"
+    ],
+    "discount": "8%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/12/26/159043-e33945248d4da33c.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      },
+      {
+        "id": 23,
+        "name": "DIY, Garden"
+      },
+      {
+        "id": 24,
+        "name": "Outdoor Clothing & Equipment"
+      }
+    ],
+    "name": "8% OFF Sitewide for New Customers - Meshnology IoT Hardware",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "WELCOME8",
+    "frameset_link": "",
+    "goto_link": "https://tywhh.com/g/cpxau9j8s85af0702a27e95c5fd652/?i=3"
   }
 ]

@@ -45,5 +45,52 @@
     "promocode": "AD15",
     "frameset_link": "",
     "goto_link": "https://ujhjj.com/g/a1eqlcw0ze5af0702a27ef57333d53/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 113984,
+      "name": "Sitpack WW",
+      "site_url": "https://sitpack.com/"
+    },
+    "description": "Dear Publisher\r\n\r\nI hope this message finds you well. My name is Jonas, and I’m the Founder and CEO of Sitpack, a brand known for creating the most innovative and stylish outdoor travel products. Our collection includes top-selling items like the 1.5L Bottle Size Foldable Camping Chair, Carbon Fiber Portable Stool, Octo Max 20-in-1 Multitool, and the Adventure Blanket, all designed to make outdoor adventures more comfortable and hassle-free.\r\n\r\nOur flagship product, the Campster 2 Chair, has been incredibly successful, with over 100k units sold to date. As we continue to expand, we're looking to form new partnerships that will help us reach a wider audience—and I believe a collaboration with you could be mutually beneficial.\r\n\r\nWe’re excited to offer the following incentives as part of this partnership:\r\n\r\nA 15% commission on all orders, effective until December 31, 2025.\r\nA bonus structure for the first order:\r\n$10 bonus for any first order of $300 or more.\r\n$5 bonus for first orders under $300.\r\nThis bonus offer is valid until Dec 30, 2025.\r\nWe also encourage you to feature our ad creatives in your advertising space to drive traffic and conversions, helping us both achieve greater success.\r\n\r\nIf this sounds interesting to you, we’d love to discuss the details further and explore how we can work together.\r\n\r\nLooking forward to your response.\r\n\r\nBest regards,\r\nJonas\r\nFounder & CEO, Sitpack",
+    "short_name": "15% discount sitewide",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-02-10T16:21:07",
+    "id": 833462,
+    "regions": [
+      "AU",
+      "DE",
+      "GB",
+      "JP",
+      "US"
+    ],
+    "discount": "15%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/1/24/113984-85ace6283e127d5d.png",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 6,
+        "name": "Sports & Recreation"
+      }
+    ],
+    "name": "15% discount sitewide",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "AD15",
+    "frameset_link": "",
+    "goto_link": "https://ujhjj.com/g/a1eqlcw0ze5af0702a27ef57333d53/?i=3"
   }
 ]

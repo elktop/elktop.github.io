@@ -41,5 +41,48 @@
     "promocode": "SAVE15",
     "frameset_link": "https://ad.admitad.com/coupon/kte7ltsvdu5af0702a275e4e5f6ce4/",
     "goto_link": "https://ad.admitad.com/g/4yr0zkww5q5af0702a275e4e5f6ce4/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 26969,
+      "name": "Bunches UK",
+      "site_url": "https://www.bunches.co.uk"
+    },
+    "description": "Offer excludes delivery charges. Offer is not valid on subscription products.",
+    "short_name": "Get 15% off all order at Bunches. Send flowers, house plants, greetings cards and hampers.",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-08-01T11:48:42",
+    "id": 778433,
+    "regions": [
+      "GB"
+    ],
+    "discount": "15%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2022/2/10/26969-e1f07c6cc2fd8ff2.png",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 9,
+        "name": "Gifts & Flowers"
+      }
+    ],
+    "name": "Get 15% off all order at Bunches. Send flowers, house plants, greetings cards and hampers.",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "SAVE15",
+    "frameset_link": "https://ad.admitad.com/coupon/kte7ltsvdu5af0702a275e4e5f6ce4/",
+    "goto_link": "https://ad.admitad.com/g/4yr0zkww5q5af0702a275e4e5f6ce4/?i=3"
   }
 ]

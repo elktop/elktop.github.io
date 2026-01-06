@@ -108,5 +108,115 @@
     "promocode": "Admitad12",
     "frameset_link": "https://dhwnh.com/coupon/6dt5ofx0w05af0702a2754f7a9dbf9/",
     "goto_link": "https://dhwnh.com/g/gi550xjdup5af0702a2754f7a9dbf9/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 26000,
+      "name": "Donnerdeal US",
+      "site_url": "https://us.donnermusic.com/"
+    },
+    "description": "$100 off Donner OURA™ S100 88-Key Graded Hammer Weighted Digital Piano",
+    "short_name": "$100 OFF Donner OURA™ S100 88-Key Graded Hammer Weighted Digital Piano",
+    "exclusive": true,
+    "date_end": null,
+    "date_start": "2025-03-04T16:52:14",
+    "id": 837233,
+    "regions": [
+      "US"
+    ],
+    "discount": "100 $",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/3/13/26000-6646537caf0f9865.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      },
+      {
+        "id": 9,
+        "name": "Gifts & Flowers"
+      },
+      {
+        "id": 34,
+        "name": "Marketplaces (including Chinese Stores)"
+      },
+      {
+        "id": 72,
+        "name": "Hobby & Stationery"
+      }
+    ],
+    "name": "$100 OFF Donner OURA™ S100 88-Key Graded Hammer Weighted Digital Piano",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "FBS10",
+    "frameset_link": "https://dhwnh.com/coupon/5hdqc18g0e5af0702a2754f7a9dbf9/",
+    "goto_link": "https://dhwnh.com/g/khr4d26u2z5af0702a2754f7a9dbf9/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 26000,
+      "name": "Donnerdeal US",
+      "site_url": "https://us.donnermusic.com/"
+    },
+    "description": "Promocode is required.\r\nAvailable for all categories of goods.",
+    "short_name": "12% OFF for Sitewide",
+    "exclusive": true,
+    "date_end": null,
+    "date_start": "2021-12-16T00:00:00",
+    "id": 390929,
+    "regions": [
+      "US"
+    ],
+    "discount": "12%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/3/13/26000-6646537caf0f9865.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      },
+      {
+        "id": 9,
+        "name": "Gifts & Flowers"
+      },
+      {
+        "id": 34,
+        "name": "Marketplaces (including Chinese Stores)"
+      },
+      {
+        "id": 72,
+        "name": "Hobby & Stationery"
+      }
+    ],
+    "name": "12% OFF for Sitewide",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "Admitad12",
+    "frameset_link": "https://dhwnh.com/coupon/6dt5ofx0w05af0702a2754f7a9dbf9/",
+    "goto_link": "https://dhwnh.com/g/gi550xjdup5af0702a2754f7a9dbf9/?i=3"
   }
 ]

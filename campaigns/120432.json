@@ -41,5 +41,48 @@
     "promocode": "ADMITAD",
     "frameset_link": "",
     "goto_link": "https://heqgr.com/g/0gnm59jsib5af0702a27fe5733b304/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 120432,
+      "name": "Thordata WW",
+      "site_url": "https://www.thordata.com/"
+    },
+    "description": "",
+    "short_name": "Dynamic Residential Proxy Plans，10% discount",
+    "exclusive": true,
+    "date_end": null,
+    "date_start": "2025-05-22T08:51:57",
+    "id": 851456,
+    "regions": [
+      "00"
+    ],
+    "discount": "20%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/2/21/120432-29bbe9dc13a2b119.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Dynamic Residential Proxy Plans，10% discount",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ADMITAD",
+    "frameset_link": "",
+    "goto_link": "https://heqgr.com/g/0gnm59jsib5af0702a27fe5733b304/?i=3"
   }
 ]

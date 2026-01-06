@@ -127,5 +127,134 @@
     "promocode": "LEVNEJI30",
     "frameset_link": "",
     "goto_link": "https://rcpsj.com/g/ox5fvrlgpp5af0702a274758d08266/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 32396,
+      "name": "SOS credit CZ",
+      "site_url": "https://www.soscredit.cz/"
+    },
+    "description": "Applicable for clients who take out a repeat loan up to 30,000 CZK",
+    "short_name": "50% discount on commission for the repeated loan",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-06-11T13:04:56",
+    "id": 766520,
+    "regions": [
+      "CZ"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/1/25/32396-3f5f6ebf8a39c981.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 15,
+        "name": "Finance & Insurance"
+      }
+    ],
+    "name": "50% discount on commission for the repeated loan",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "adm50",
+    "frameset_link": "",
+    "goto_link": "https://rcpsj.com/g/ealp4vdhy95af0702a274758d08266/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 32396,
+      "name": "SOS credit CZ",
+      "site_url": "https://www.soscredit.cz/"
+    },
+    "description": "Applicable for clients who take out a first loan of up to 10,000 CZK",
+    "short_name": "100% discount on commission  for the first loan",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-06-11T13:04:28",
+    "id": 766519,
+    "regions": [
+      "CZ"
+    ],
+    "discount": "99%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/1/25/32396-3f5f6ebf8a39c981.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 15,
+        "name": "Finance & Insurance"
+      }
+    ],
+    "name": "100% discount on commission  for the first loan",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "adm100",
+    "frameset_link": "",
+    "goto_link": "https://rcpsj.com/g/oggvrv8hkd5af0702a274758d08266/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 32396,
+      "name": "SOS credit CZ",
+      "site_url": "https://www.soscredit.cz/"
+    },
+    "description": "",
+    "short_name": "Discount 30%",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-01-25T14:43:31",
+    "id": 513916,
+    "regions": [
+      "CZ"
+    ],
+    "discount": "30%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/1/25/32396-3f5f6ebf8a39c981.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 15,
+        "name": "Finance & Insurance"
+      }
+    ],
+    "name": "Discount 30%",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "LEVNEJI30",
+    "frameset_link": "",
+    "goto_link": "https://rcpsj.com/g/ox5fvrlgpp5af0702a274758d08266/?i=3"
   }
 ]

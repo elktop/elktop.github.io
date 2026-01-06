@@ -126,5 +126,133 @@
     "promocode": "TBC10",
     "frameset_link": "https://codeaven.com/coupon/8qugeyqitb5af0702a27ea2a6e1fef/",
     "goto_link": "https://codeaven.com/g/7mb5nzluts5af0702a27ea2a6e1fef/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 27912,
+      "name": "Clarks Stores AE offline codes & links",
+      "site_url": "https://www.clarksstores.ae/"
+    },
+    "description": "",
+    "short_name": "Black Friday Preview sale 30% OFF+ Free Shipping",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-11-18T22:45:11",
+    "id": 814387,
+    "regions": [
+      "AE"
+    ],
+    "discount": "30%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2022/4/29/27912-03fedd37728b1bd9.png",
+    "species": "promocode",
+    "categories": [],
+    "name": "Black Friday Preview sale 30% OFF+ Free Shipping",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "BF30",
+    "frameset_link": "https://codeaven.com/coupon/g248iu6d7g5af0702a27ea2a6e1fef/",
+    "goto_link": "https://codeaven.com/g/0tk5ks1dlb5af0702a27ea2a6e1fef/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 27912,
+      "name": "Clarks Stores AE offline codes & links",
+      "site_url": "https://www.clarksstores.ae/"
+    },
+    "description": "20% off on full price items/",
+    "short_name": "20% off on full price items",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-03-05T14:27:12",
+    "id": 671345,
+    "regions": [
+      "AE"
+    ],
+    "discount": "20%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2022/4/29/27912-03fedd37728b1bd9.png",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 4,
+        "name": "Shoes"
+      }
+    ],
+    "name": "20% off on full price items",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "TBC20",
+    "frameset_link": "https://codeaven.com/coupon/ihbz7nls085af0702a27ea2a6e1fef/",
+    "goto_link": "https://codeaven.com/g/ma5jfy81xn5af0702a27ea2a6e1fef/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 27912,
+      "name": "Clarks Stores AE offline codes & links",
+      "site_url": "https://www.clarksstores.ae/"
+    },
+    "description": "Additional 10% off on sale items  Code: TBC",
+    "short_name": "10% off on sale items",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2022-06-07T15:49:58",
+    "id": 460112,
+    "regions": [
+      "AE"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2022/4/29/27912-03fedd37728b1bd9.png",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 4,
+        "name": "Shoes"
+      },
+      {
+        "id": 144,
+        "name": "Ramadan 2024"
+      }
+    ],
+    "name": "10% off on sale items",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "TBC10",
+    "frameset_link": "https://codeaven.com/coupon/8qugeyqitb5af0702a27ea2a6e1fef/",
+    "goto_link": "https://codeaven.com/g/7mb5nzluts5af0702a27ea2a6e1fef/?i=3"
   }
 ]

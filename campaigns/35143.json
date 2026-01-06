@@ -314,5 +314,321 @@
     "promocode": "NOT REQUIRED",
     "frameset_link": "",
     "goto_link": "https://cafxq.com/g/g02yyy3lfm5af0702a270050e48644/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 35143,
+      "name": "Funko EU",
+      "site_url": "https://funkoeurope.com/"
+    },
+    "description": "Free Shipping to UK on all orders above 40 GBP",
+    "short_name": "Free Shipping to UK on all orders above 40 GBP",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-10-22T14:49:23",
+    "id": 804566,
+    "regions": [
+      "AE",
+      "AT",
+      "BE",
+      "BG",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GG",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IM",
+      "IT",
+      "JE",
+      "LT",
+      "LU",
+      "LV",
+      "MT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "SE",
+      "SI",
+      "SK"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/4/4/35143-f2e92909360c5ae8.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 72,
+        "name": "Hobby & Stationery"
+      }
+    ],
+    "name": "Free Shipping to UK on all orders above 40 GBP",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "",
+    "goto_link": "https://cafxq.com/g/9dgq9yt9tp5af0702a270050e48644/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 35143,
+      "name": "Funko EU",
+      "site_url": "https://funkoeurope.com/"
+    },
+    "description": "",
+    "short_name": "SHOP WHAT'S NEW LOUNGEFLY COLLECTION",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-03-30T10:12:29",
+    "id": 530656,
+    "regions": [
+      "AE",
+      "AT",
+      "BE",
+      "BG",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GG",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IM",
+      "IT",
+      "JE",
+      "LT",
+      "LU",
+      "LV",
+      "MT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "SE",
+      "SI",
+      "SK"
+    ],
+    "discount": "5%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/4/4/35143-f2e92909360c5ae8.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 1,
+        "name": "Toys, Kids & Babies"
+      },
+      {
+        "id": 9,
+        "name": "Gifts & Flowers"
+      }
+    ],
+    "name": "SHOP WHAT'S NEW LOUNGEFLY COLLECTION",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "",
+    "goto_link": "https://cafxq.com/g/meo21drn1u5af0702a270050e48644/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 35143,
+      "name": "Funko EU",
+      "site_url": "https://funkoeurope.com/"
+    },
+    "description": "",
+    "short_name": "SHOP VINYL SODA COLLECTION",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-03-30T10:11:59",
+    "id": 530655,
+    "regions": [
+      "AE",
+      "AT",
+      "BE",
+      "BG",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GG",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IM",
+      "IT",
+      "JE",
+      "LT",
+      "LU",
+      "LV",
+      "MT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "SE",
+      "SI",
+      "SK"
+    ],
+    "discount": "5%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/4/4/35143-f2e92909360c5ae8.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 1,
+        "name": "Toys, Kids & Babies"
+      },
+      {
+        "id": 9,
+        "name": "Gifts & Flowers"
+      }
+    ],
+    "name": "SHOP VINYL SODA COLLECTION",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "",
+    "goto_link": "https://cafxq.com/g/jj2esqvv0m5af0702a270050e48644/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 35143,
+      "name": "Funko EU",
+      "site_url": "https://funkoeurope.com/"
+    },
+    "description": "",
+    "short_name": "SHOP DISNEY COLLECTION",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-03-30T10:11:33",
+    "id": 530654,
+    "regions": [
+      "AE",
+      "AT",
+      "BE",
+      "BG",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GG",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IM",
+      "IT",
+      "JE",
+      "LT",
+      "LU",
+      "LV",
+      "MT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "SE",
+      "SI",
+      "SK"
+    ],
+    "discount": "5%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/4/4/35143-f2e92909360c5ae8.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 1,
+        "name": "Toys, Kids & Babies"
+      },
+      {
+        "id": 9,
+        "name": "Gifts & Flowers"
+      }
+    ],
+    "name": "SHOP DISNEY COLLECTION",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "",
+    "goto_link": "https://cafxq.com/g/g02yyy3lfm5af0702a270050e48644/?i=3"
   }
 ]

@@ -41,5 +41,48 @@
     "promocode": "ADMITAD15",
     "frameset_link": "",
     "goto_link": "https://rcpsj.com/g/k9qm6mppoo5af0702a2736c4c71279/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "5.20",
+    "campaign": {
+      "id": 46013,
+      "name": "Puma TR",
+      "site_url": "https://tr.puma.com"
+    },
+    "description": "It is valid for full price products except:\r\nFenty\r\nAsap Rocky\r\nAtakaş Hatayspor\r\nGalatasaray\r\nFenerbahçe series categories\r\nBasketball & Volleyball jerseys\r\n+\r\nNot usable for Discounted Products",
+    "short_name": "15% off discount",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-08-09T23:08:40",
+    "id": 782936,
+    "regions": [
+      "TR"
+    ],
+    "discount": "15%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/2/22/46013-6ae0915424820a75.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "15% off discount",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ADMITAD15",
+    "frameset_link": "",
+    "goto_link": "https://rcpsj.com/g/k9qm6mppoo5af0702a2736c4c71279/?i=3"
   }
 ]

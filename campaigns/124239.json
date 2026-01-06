@@ -69,5 +69,76 @@
     "promocode": "GIVEME20",
     "frameset_link": "",
     "goto_link": "https://qbzdl.com/g/1qycy7ns8d5af0702a277c1db20106/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 124239,
+      "name": "2ndNumber.tel Virtual SMS",
+      "site_url": "https://2ndnumber.tel/"
+    },
+    "description": "Applies to virtual numbers on yearly plans only. Monthly plans are excluded from the offer.",
+    "short_name": "Grab a 20% discount on our yearly virtual phone numbers.",
+    "exclusive": true,
+    "date_end": null,
+    "date_start": "2025-03-13T18:00:41",
+    "id": 838661,
+    "regions": [
+      "GB",
+      "IN",
+      "IT",
+      "PK",
+      "US"
+    ],
+    "discount": "20%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/3/11/124239-6d48ab2205788082.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      },
+      {
+        "id": 12,
+        "name": "Tours & Travels"
+      },
+      {
+        "id": 21,
+        "name": "Services"
+      },
+      {
+        "id": 22,
+        "name": "Online Education"
+      },
+      {
+        "id": 34,
+        "name": "Marketplaces (including Chinese Stores)"
+      },
+      {
+        "id": 72,
+        "name": "Hobby & Stationery"
+      },
+      {
+        "id": 93,
+        "name": "Jobs and freelance"
+      }
+    ],
+    "name": "Grab a 20% discount on our yearly virtual phone numbers.",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "GIVEME20",
+    "frameset_link": "",
+    "goto_link": "https://qbzdl.com/g/1qycy7ns8d5af0702a277c1db20106/?i=3"
   }
 ]

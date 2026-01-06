@@ -41,5 +41,48 @@
     "promocode": "NOT REQUIRED",
     "frameset_link": "",
     "goto_link": "https://ogsib.com/g/od9cp357fc5af0702a27edcd6b5910/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 90777,
+      "name": "Placeit Many Geos",
+      "site_url": "https://placeit.net"
+    },
+    "description": "",
+    "short_name": "15% off first payment (1st Month) on Monthly or Annual plans",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-03-25T11:31:58",
+    "id": 678316,
+    "regions": [
+      "00"
+    ],
+    "discount": "15%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/11/24/90777-b7c3d62dc9e59f2c.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "15% off first payment (1st Month) on Monthly or Annual plans",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "",
+    "goto_link": "https://ogsib.com/g/od9cp357fc5af0702a27edcd6b5910/?i=3"
   }
 ]

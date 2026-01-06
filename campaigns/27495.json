@@ -429,5 +429,436 @@
     "promocode": "MA5",
     "frameset_link": "https://xpuvo.com/coupon/bhhg7p4crp5af0702a2745ffeb074b/",
     "goto_link": "https://xpuvo.com/g/388wnnq3r85af0702a2745ffeb074b/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 27495,
+      "name": "Nadula WW",
+      "site_url": "https://www.nadula.com/"
+    },
+    "description": "",
+    "short_name": "Breathable Pre-cut Lace Wear and Go Air Wigs",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-10-31T14:25:58",
+    "id": 596529,
+    "regions": [
+      "00"
+    ],
+    "discount": "35%",
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      },
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/11/29/27495-e97a7ec938a4ee65.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      }
+    ],
+    "name": "Breathable Pre-cut Lace Wear and Go Air Wigs",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "https://xpuvo.com/coupon/u81svdhhgh5af0702a2745ffeb074b/",
+    "goto_link": "https://xpuvo.com/g/8vk6th60f05af0702a2745ffeb074b/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 27495,
+      "name": "Nadula WW",
+      "site_url": "https://www.nadula.com/"
+    },
+    "description": "",
+    "short_name": "New arrivals",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-10-31T14:24:16",
+    "id": 596527,
+    "regions": [
+      "00"
+    ],
+    "discount": "35%",
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      },
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/11/29/27495-e97a7ec938a4ee65.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      }
+    ],
+    "name": "New arrivals",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "https://xpuvo.com/coupon/g45liscxte5af0702a2745ffeb074b/",
+    "goto_link": "https://xpuvo.com/g/jipgcxq2kl5af0702a2745ffeb074b/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 27495,
+      "name": "Nadula WW",
+      "site_url": "https://www.nadula.com/"
+    },
+    "description": "promo code is required. Minimum order amount $199",
+    "short_name": "$20 OFF",
+    "exclusive": true,
+    "date_end": null,
+    "date_start": "2022-12-02T09:59:19",
+    "id": 505011,
+    "regions": [
+      "00"
+    ],
+    "discount": "20 $",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/11/29/27495-e97a7ec938a4ee65.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      },
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      },
+      {
+        "id": 34,
+        "name": "Marketplaces (including Chinese Stores)"
+      }
+    ],
+    "name": "$20 OFF",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "Admitad",
+    "frameset_link": "https://xpuvo.com/coupon/6q227n8fdn5af0702a2745ffeb074b/",
+    "goto_link": "https://xpuvo.com/g/j83hrvymfa5af0702a2745ffeb074b/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 27495,
+      "name": "Nadula WW",
+      "site_url": "https://www.nadula.com/"
+    },
+    "description": "Daily Flash Sale,32% off.",
+    "short_name": "Daily Flash Sale,32% off.",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2022-06-30T05:09:34",
+    "id": 465820,
+    "regions": [
+      "00"
+    ],
+    "discount": "32%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      },
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/11/29/27495-e97a7ec938a4ee65.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      }
+    ],
+    "name": "Daily Flash Sale,32% off.",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "https://xpuvo.com/coupon/q6qtlvg0wc5af0702a2745ffeb074b/",
+    "goto_link": "https://xpuvo.com/g/h6asumutog5af0702a2745ffeb074b/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 27495,
+      "name": "Nadula WW",
+      "site_url": "https://www.nadula.com/"
+    },
+    "description": "Get $10 off over $89\r\nGet $20 off over $189 \r\nGet $50 off over $389",
+    "short_name": "Happy Indenpendence Day",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2022-06-30T05:08:48",
+    "id": 465818,
+    "regions": [
+      "00"
+    ],
+    "discount": "50 $",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      },
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/11/29/27495-e97a7ec938a4ee65.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      },
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      },
+      {
+        "id": 34,
+        "name": "Marketplaces (including Chinese Stores)"
+      }
+    ],
+    "name": "Happy Indenpendence Day",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "July",
+    "frameset_link": "https://xpuvo.com/coupon/u5cgy4s3cf5af0702a2745ffeb074b/",
+    "goto_link": "https://xpuvo.com/g/yrxgms0dmq5af0702a2745ffeb074b/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 27495,
+      "name": "Nadula WW",
+      "site_url": "https://www.nadula.com/"
+    },
+    "description": "Extra 5% Off For All\r\nFree Wig Everyday For the feed get most like\r\nFriday Flash Sale",
+    "short_name": "Extra 5% Off For All",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2022-06-24T13:19:33",
+    "id": 464594,
+    "regions": [
+      "00"
+    ],
+    "discount": "5%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/11/29/27495-e97a7ec938a4ee65.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      }
+    ],
+    "name": "Extra 5% Off For All",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NL5",
+    "frameset_link": "https://xpuvo.com/coupon/jry7lx0nte5af0702a2745ffeb074b/",
+    "goto_link": "https://xpuvo.com/g/10ru28tlys5af0702a2745ffeb074b/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 27495,
+      "name": "Nadula WW",
+      "site_url": "https://www.nadula.com/"
+    },
+    "description": "5% off for lace frontal wig",
+    "short_name": "5% off for lace frontal wig",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2022-02-18T03:44:22",
+    "id": 435258,
+    "regions": [
+      "00"
+    ],
+    "discount": "32%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      },
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/11/29/27495-e97a7ec938a4ee65.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      }
+    ],
+    "name": "5% off for lace frontal wig",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "LF5",
+    "frameset_link": "https://xpuvo.com/coupon/0hbizgv34p5af0702a2745ffeb074b/",
+    "goto_link": "https://xpuvo.com/g/9yqeqa7dw95af0702a2745ffeb074b/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 27495,
+      "name": "Nadula WW",
+      "site_url": "https://www.nadula.com/"
+    },
+    "description": "$10 off over $89 for ginger color hair",
+    "short_name": "$10 off over $89 for ginger color hair",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2022-02-16T11:37:41",
+    "id": 434458,
+    "regions": [
+      "00"
+    ],
+    "discount": "10 $",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      },
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/11/29/27495-e97a7ec938a4ee65.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      }
+    ],
+    "name": "$10 off over $89 for ginger color hair",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "SEOG10",
+    "frameset_link": "https://xpuvo.com/coupon/vv0db4wsjd5af0702a2745ffeb074b/",
+    "goto_link": "https://xpuvo.com/g/jidjnsswxa5af0702a2745ffeb074b/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 27495,
+      "name": "Nadula WW",
+      "site_url": "https://www.nadula.com/"
+    },
+    "description": "Extra 5% off for all",
+    "short_name": "Extra 5% off for all",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2022-02-16T09:10:26",
+    "id": 434299,
+    "regions": [
+      "00"
+    ],
+    "discount": "32%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      },
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/11/29/27495-e97a7ec938a4ee65.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      }
+    ],
+    "name": "Extra 5% off for all",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "MA5",
+    "frameset_link": "https://xpuvo.com/coupon/bhhg7p4crp5af0702a2745ffeb074b/",
+    "goto_link": "https://xpuvo.com/g/388wnnq3r85af0702a2745ffeb074b/?i=3"
   }
 ]

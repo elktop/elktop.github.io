@@ -144,5 +144,105 @@
     "promocode": "НЕ НУЖЕН",
     "frameset_link": "https://ujhjj.com/coupon/6c3y0oemjv5af0702a271985193de8/",
     "goto_link": "https://ujhjj.com/g/2hbrahmpe35af0702a271985193de8/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 18153,
+      "name": "Economybookings Many GEO's",
+      "site_url": "https://www.economybookings.com/"
+    },
+    "description": "",
+    "short_name": "3% discount_2",
+    "exclusive": false,
+    "date_end": "2026-03-15T23:59:00",
+    "date_start": "2025-12-16T00:00:00",
+    "id": 892092,
+    "regions": [
+      "CA",
+      "GB",
+      "RU",
+      "US"
+    ],
+    "discount": "3%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/10/2/18153-cc5470d792ef365d.png",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 12,
+        "name": "Tours & Travels"
+      },
+      {
+        "id": 92,
+        "name": "Cars"
+      }
+    ],
+    "name": "3% discount_2",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ADMI7151329",
+    "frameset_link": "https://ujhjj.com/coupon/l4gbjrykrc5af0702a271985193de8/",
+    "goto_link": "https://ujhjj.com/g/aw4kd05bpz5af0702a271985193de8/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 18153,
+      "name": "Economybookings Many GEO's",
+      "site_url": "https://www.economybookings.com/"
+    },
+    "description": "",
+    "short_name": "3% discount",
+    "exclusive": false,
+    "date_end": "2026-03-16T23:59:00",
+    "date_start": "2025-12-16T00:00:00",
+    "id": 892091,
+    "regions": [
+      "CA",
+      "GB",
+      "RU",
+      "US"
+    ],
+    "discount": "3%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/10/2/18153-cc5470d792ef365d.png",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 12,
+        "name": "Tours & Travels"
+      },
+      {
+        "id": 92,
+        "name": "Cars"
+      }
+    ],
+    "name": "3% discount",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ADMI2489632",
+    "frameset_link": "https://ujhjj.com/coupon/cahycdfcrv5af0702a271985193de8/",
+    "goto_link": "https://ujhjj.com/g/nemeyofzfm5af0702a271985193de8/?i=3"
   }
 ]

@@ -84,5 +84,91 @@
     "promocode": "DBX5",
     "frameset_link": "",
     "goto_link": "https://rzekl.com/g/lft96uyzz05af0702a2768c3817a14/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 34240,
+      "name": "Dubok CZ",
+      "site_url": "https://dubok.cz/"
+    },
+    "description": "4% off. Min order value 8000 Kč. Validity 05.01-12.01.2026",
+    "short_name": "4% off. Min order value 8000 Kč",
+    "exclusive": true,
+    "date_end": "2026-01-12T23:59:00",
+    "date_start": "2026-01-05T00:00:00",
+    "id": 893204,
+    "regions": [
+      "CZ"
+    ],
+    "discount": "4%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/4/6/34240-90f50efb1cec1432.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 7,
+        "name": "Homeware"
+      }
+    ],
+    "name": "4% off. Min order value 8000 Kč",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "DUBOK4",
+    "frameset_link": "",
+    "goto_link": "https://rzekl.com/g/rygjnnp9yf5af0702a2768c3817a14/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 34240,
+      "name": "Dubok CZ",
+      "site_url": "https://dubok.cz/"
+    },
+    "description": "5% off. Min order value 9000 Kč. Validity 09.12.2025; 21.12.2025-04.01.2026",
+    "short_name": "5% off. Min order value 9000 Kč",
+    "exclusive": true,
+    "date_end": "2026-01-31T23:59:00",
+    "date_start": "2025-12-09T00:00:00",
+    "id": 891186,
+    "regions": [
+      "CZ"
+    ],
+    "discount": "5%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/4/6/34240-90f50efb1cec1432.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 7,
+        "name": "Homeware"
+      }
+    ],
+    "name": "5% off. Min order value 9000 Kč",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "DBX5",
+    "frameset_link": "",
+    "goto_link": "https://rzekl.com/g/lft96uyzz05af0702a2768c3817a14/?i=3"
   }
 ]

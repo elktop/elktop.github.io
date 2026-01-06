@@ -90,5 +90,97 @@
     "promocode": "NOT REQUIRED",
     "frameset_link": "",
     "goto_link": "https://vxrlm.com/g/3xjjqyjl7z5af0702a27a2384364af/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 115530,
+      "name": "Capcut Many Geos",
+      "site_url": "https://www.capcut.com/"
+    },
+    "description": "30% discount\r\nApplies to both monthly and yearly plans",
+    "short_name": "30% off CapCut Pro",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-06-03T16:23:12",
+    "id": 853295,
+    "regions": [
+      "DE",
+      "FR",
+      "GB",
+      "US"
+    ],
+    "discount": "30%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/11/14/115530-b18d213fb2763865.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "30% off CapCut Pro",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "CAPCUTPROMO",
+    "frameset_link": "",
+    "goto_link": "https://vxrlm.com/g/swl7zkzmzj5af0702a27a2384364af/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 115530,
+      "name": "Capcut Many Geos",
+      "site_url": "https://www.capcut.com/"
+    },
+    "description": "",
+    "short_name": "Subscribe now and get 7 days of free Pro",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-12-11T13:32:48",
+    "id": 819304,
+    "regions": [
+      "DE",
+      "FR",
+      "GB",
+      "US"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/11/14/115530-b18d213fb2763865.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "Subscribe now and get 7 days of free Pro",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "",
+    "goto_link": "https://vxrlm.com/g/3xjjqyjl7z5af0702a27a2384364af/?i=3"
   }
 ]
