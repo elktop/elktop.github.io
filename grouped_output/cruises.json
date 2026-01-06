@@ -263,7 +263,8 @@
       ],
       "cashback_link_data": null
     },
-    "campaigns": 24
+    "discountCount": 24,
+    "couponCount": 0
   },
   {
     "site_url": "https://kruiz.online/",
@@ -317,7 +318,8 @@
       ],
       "cashback_link_data": null
     },
-    "campaigns": 2
+    "discountCount": 2,
+    "couponCount": 0
   },
   {
     "site_url": "https://doninturflot.com/",
@@ -360,6 +362,7 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 3
+    "discountCount": 3,
+    "couponCount": 0
   }
 ]

@@ -39,7 +39,9 @@
       "goto_link": "https://sgkaa.com/g/5rermd1rb55af0702a27aeed5c54e0/?erid=25H8d7vbP8SRTvHZB1b5vJ",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://euro-diski.ru/",
@@ -88,7 +90,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 3
+    "discountCount": 2,
+    "couponCount": 1
   },
   {
     "site_url": "https://www.mirdvornikov.ru/",
@@ -130,7 +133,9 @@
       "goto_link": "https://kdbov.com/g/6pqobtw41j5af0702a27b0947cc97b/?erid=2bL9aMPo2e49hMef4pfzDGXrc6",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://www.virtualllantas.mx/",
@@ -172,7 +177,9 @@
       "goto_link": "https://kjuzv.com/g/ix34jm0hsx5af0702a273a3bd7dad0/",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://koreanaparts.ru",
@@ -220,6 +227,8 @@
         }
       ],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   }
 ]

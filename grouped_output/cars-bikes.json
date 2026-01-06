@@ -61,7 +61,9 @@
       "goto_link": "https://naiawork.com/g/63uugnwu7m5af0702a27ac3a8ddb09/?erid=5jtCeReNwxHpfQTEQcuqngp",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://autopiter.ru/",
@@ -131,7 +133,9 @@
       "goto_link": "https://rcpsj.com/g/1hedtmqch55af0702a271423f7dae0/?erid=2bL9aMPo2e49hMef4pez75wpe4",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://hyperauto.ru/",
@@ -173,7 +177,9 @@
       "goto_link": "https://gndrz.com/g/dc6jcrcacg5af0702a27953c8edd42/?erid=2bL9aMPo2e49hMef4pfzSFhFQC",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://autopiter.kz/",
@@ -226,7 +232,9 @@
       "goto_link": "https://xmknb.com/g/ffyafoii2o5af0702a27ea08f2c368/",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://koleso.ru/",
@@ -286,7 +294,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 4
+    "discountCount": 4,
+    "couponCount": 0
   },
   {
     "site_url": "https://rossko.ru",
@@ -340,6 +349,7 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 1
+    "discountCount": 0,
+    "couponCount": 1
   }
 ]

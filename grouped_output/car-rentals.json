@@ -39,7 +39,9 @@
       "goto_link": "https://fxxag.com/g/66o8jzb2p95af0702a274f47f3b6f3/",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://www.economybookings.com/",
@@ -169,7 +171,8 @@
       ],
       "cashback_link_data": null
     },
-    "campaigns": 5
+    "discountCount": 1,
+    "couponCount": 4
   },
   {
     "site_url": "https://www.qeeq.com/",
@@ -254,7 +257,8 @@
       ],
       "cashback_link_data": null
     },
-    "campaigns": 4
+    "discountCount": 4,
+    "couponCount": 0
   },
   {
     "site_url": "https://www.discovercars.com",
@@ -842,7 +846,9 @@
         }
       ],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://www.movida.com.br/",
@@ -885,7 +891,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 2
+    "discountCount": 1,
+    "couponCount": 1
   },
   {
     "site_url": "https://www.almak-prokat.ru/",
@@ -945,7 +952,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 1
+    "discountCount": 0,
+    "couponCount": 1
   },
   {
     "site_url": "https://www.america-carrental.com",
@@ -987,6 +995,8 @@
       "goto_link": "https://hvjjg.com/g/eg1kxgbhtv5af0702a27e34446fd0a/",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   }
 ]

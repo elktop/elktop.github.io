@@ -40,7 +40,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 4
+    "discountCount": 0,
+    "couponCount": 4
   },
   {
     "site_url": "https://zoopt.ru/",
@@ -88,7 +89,9 @@
         }
       ],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://www.zooplus.de",
@@ -131,7 +134,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 2
+    "discountCount": 0,
+    "couponCount": 2
   },
   {
     "site_url": "https://www.dogeat.ru/",
@@ -180,7 +184,8 @@
       ],
       "cashback_link_data": null
     },
-    "campaigns": 23
+    "discountCount": 10,
+    "couponCount": 13
   },
   {
     "site_url": "https://waudog.ua/",
@@ -222,6 +227,8 @@
       "goto_link": "https://sgkaa.com/g/p00i8v2y655af0702a2749e53af9a7/",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   }
 ]

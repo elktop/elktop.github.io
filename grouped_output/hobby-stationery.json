@@ -72,7 +72,8 @@
       ],
       "cashback_link_data": null
     },
-    "campaigns": 1
+    "discountCount": 0,
+    "couponCount": 1
   },
   {
     "site_url": "https://www.mann-ivanov-ferber.ru/",
@@ -154,7 +155,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 2
+    "discountCount": 2,
+    "couponCount": 0
   },
   {
     "site_url": "https://www.buket-piter.ru/",
@@ -203,7 +205,8 @@
       ],
       "cashback_link_data": null
     },
-    "campaigns": 3
+    "discountCount": 3,
+    "couponCount": 0
   },
   {
     "site_url": "https://krasniykarandash.ru/",
@@ -269,7 +272,8 @@
       ],
       "cashback_link_data": null
     },
-    "campaigns": 2
+    "discountCount": 2,
+    "couponCount": 0
   },
   {
     "site_url": "https://www.alamy.com",
@@ -329,7 +333,8 @@
       ],
       "cashback_link_data": null
     },
-    "campaigns": 10
+    "discountCount": 10,
+    "couponCount": 0
   },
   {
     "site_url": "https://www.zavvi.com/",
@@ -371,7 +376,9 @@
       "goto_link": "https://dhwnh.com/g/m3bgfwcojd5af0702a27fbdc97414a/",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://www.cotosen.com/",
@@ -468,7 +475,8 @@
       ],
       "cashback_link_data": null
     },
-    "campaigns": 8
+    "discountCount": 4,
+    "couponCount": 4
   },
   {
     "site_url": "https://beurer-belarus.by/",
@@ -527,7 +535,9 @@
         }
       ],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://woodestic.com",
@@ -569,7 +579,9 @@
       "goto_link": "https://naiawork.com/g/do86ucnzhx5af0702a27c586cc6aee/",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://corsair.com",
@@ -634,7 +646,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 48
+    "discountCount": 44,
+    "couponCount": 4
   },
   {
     "site_url": "https://maxmassage.ru/",
@@ -698,6 +711,8 @@
       "goto_link": "https://kdbov.com/g/qfciv0bmuk5af0702a278b8c8bdf7b/?erid=2bL9aMPo2e49hMef4rqUn6AVp6",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   }
 ]

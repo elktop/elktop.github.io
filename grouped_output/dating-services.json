@@ -85,7 +85,9 @@
         }
       ],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://linkyou.ru/",
@@ -127,6 +129,8 @@
       "goto_link": "https://zallj.com/g/p06og8qbil5af0702a27a845b70db0/?erid=MvGzQC98w3Z1gMq1nwNnwmxq",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   }
 ]

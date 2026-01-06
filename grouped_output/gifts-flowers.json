@@ -40,7 +40,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 3
+    "discountCount": 3,
+    "couponCount": 0
   },
   {
     "site_url": "https://www.bunches.co.uk",
@@ -83,7 +84,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 2
+    "discountCount": 0,
+    "couponCount": 2
   },
   {
     "site_url": "https://www.fossil.co.id/",
@@ -147,7 +149,9 @@
       "goto_link": "https://fxxag.com/g/mc2wyu1tb15af0702a279952371b72/",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://botanicawithlove.ru",
@@ -189,6 +193,8 @@
       "goto_link": "https://axavl.com/g/0eoi03hk3d5af0702a27da97e60170/?erid=2bL9aMPo2e49hMef4rqV13nXyi",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   }
 ]

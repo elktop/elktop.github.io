@@ -87,7 +87,8 @@
       ],
       "cashback_link_data": null
     },
-    "campaigns": 1
+    "discountCount": 0,
+    "couponCount": 1
   },
   {
     "site_url": "https://www.ufanet.ru/",
@@ -173,7 +174,8 @@
       ],
       "cashback_link_data": null
     },
-    "campaigns": 2
+    "discountCount": 1,
+    "couponCount": 1
   },
   {
     "site_url": "https://www.globalyo.com/",
@@ -228,7 +230,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 4
+    "discountCount": 2,
+    "couponCount": 2
   },
   {
     "site_url": "https://hyperhost.ua/",
@@ -288,7 +291,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 5
+    "discountCount": 3,
+    "couponCount": 2
   },
   {
     "site_url": "https://sbermobile.ru/",
@@ -337,6 +341,7 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 4
+    "discountCount": 0,
+    "couponCount": 4
   }
 ]

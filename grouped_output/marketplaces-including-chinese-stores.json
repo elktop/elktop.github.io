@@ -57,7 +57,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 2
+    "discountCount": 0,
+    "couponCount": 2
   },
   {
     "site_url": "https://noracora.com/",
@@ -117,7 +118,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 8
+    "discountCount": 6,
+    "couponCount": 2
   },
   {
     "site_url": "https://lilicloth.com/",
@@ -177,7 +179,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 14
+    "discountCount": 12,
+    "couponCount": 2
   },
   {
     "site_url": "https://www.stylewe.com/",
@@ -237,7 +240,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 26
+    "discountCount": 16,
+    "couponCount": 10
   },
   {
     "site_url": "https://roselinlin.com/",
@@ -297,7 +301,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 14
+    "discountCount": 12,
+    "couponCount": 2
   },
   {
     "site_url": "https://www.geekmaxi.com/",
@@ -378,7 +383,8 @@
       ],
       "cashback_link_data": null
     },
-    "campaigns": 292
+    "discountCount": 2,
+    "couponCount": 290
   },
   {
     "site_url": "https://store.govee.com/",
@@ -457,7 +463,9 @@
         }
       ],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://www.vevor.com",
@@ -701,7 +709,8 @@
       ],
       "cashback_link_data": null
     },
-    "campaigns": 35
+    "discountCount": 12,
+    "couponCount": 23
   },
   {
     "site_url": "https://us.donnermusic.com/",
@@ -788,7 +797,8 @@
       ],
       "cashback_link_data": null
     },
-    "campaigns": 4
+    "discountCount": 0,
+    "couponCount": 4
   },
   {
     "site_url": "https://www.shopsy.in/",
@@ -830,7 +840,9 @@
       "goto_link": "https://tjzuh.com/g/riiso24dfx5af0702a27bf3169313e/",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://www.joom.ru/ru",
@@ -885,7 +897,8 @@
       ],
       "cashback_link_data": null
     },
-    "campaigns": 3
+    "discountCount": 3,
+    "couponCount": 0
   },
   {
     "site_url": "https://www.infostore.com.br",
@@ -934,7 +947,8 @@
       ],
       "cashback_link_data": null
     },
-    "campaigns": 7
+    "discountCount": 1,
+    "couponCount": 6
   },
   {
     "site_url": "https://cleaningsuperstore.com",
@@ -976,6 +990,8 @@
       "goto_link": "https://sgkaa.com/g/ef0i185mt55af0702a27af7668e0ad/",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   }
 ]

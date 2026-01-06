@@ -97,7 +97,8 @@
       ],
       "cashback_link_data": null
     },
-    "campaigns": 1
+    "discountCount": 0,
+    "couponCount": 1
   },
   {
     "site_url": "https://www.tiqets.com/",
@@ -191,7 +192,9 @@
         }
       ],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://sz.kz/",
@@ -245,7 +248,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 3
+    "discountCount": 3,
+    "couponCount": 0
   },
   {
     "site_url": "https://play.google.com/store/apps/details?id=story.tv.drama.reels&hl=en",
@@ -287,7 +291,9 @@
       "goto_link": "https://tjzuh.com/g/bsnsx7s6h95af0702a273f589a72e4/",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://more-on.ru/",
@@ -433,7 +439,9 @@
         }
       ],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://www.ticombo.com/",
@@ -475,6 +483,8 @@
       "goto_link": "https://zmgig.com/g/hn23xca4o85af0702a27bcf92d8d7a/",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   }
 ]

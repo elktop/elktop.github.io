@@ -39,7 +39,9 @@
       "goto_link": "https://uuwgc.com/g/bd7a1b83375af0702a278b0fa31d56/?erid=F7NfYUJRWmqqH7eTNtLw",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://www.jetradar.com/",
@@ -81,7 +83,9 @@
       "goto_link": "https://codeaven.com/g/77fc3e07925af0702a27da07f65aea/?erid=MvGzQC98w3Z1gMq1kSy2TFFs",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://www.anywayanyday.com/",
@@ -141,7 +145,8 @@
       ],
       "cashback_link_data": null
     },
-    "campaigns": 2
+    "discountCount": 0,
+    "couponCount": 2
   },
   {
     "site_url": "https://www.aviakassa.com/",
@@ -189,7 +194,9 @@
       "goto_link": "https://gndrz.com/g/a4sgq553xu5af0702a27b8dee2707c/?erid=25H8d7vbP8SRTvG4XVNHDr",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://flysmartavia.com/",
@@ -231,7 +238,9 @@
       "goto_link": "https://zallj.com/g/0oswyg3mce5af0702a275e01c741d9/?erid=2bL9aMPo2e49hMef4pfVKtboED",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://www.mytrip.com/",
@@ -280,7 +289,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 2
+    "discountCount": 0,
+    "couponCount": 2
   },
   {
     "site_url": "https://www.gotogate.com/",
@@ -323,7 +333,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 2
+    "discountCount": 0,
+    "couponCount": 2
   },
   {
     "site_url": "https://tinkoff.ru/travel/flights/",
@@ -392,7 +403,9 @@
         }
       ],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://airadvisor.com",
@@ -446,6 +459,8 @@
         }
       ],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   }
 ]

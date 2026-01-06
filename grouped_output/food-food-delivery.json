@@ -51,7 +51,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 6
+    "discountCount": 3,
+    "couponCount": 3
   },
   {
     "site_url": "https://online.globus.ru/",
@@ -132,7 +133,8 @@
       ],
       "cashback_link_data": null
     },
-    "campaigns": 5
+    "discountCount": 2,
+    "couponCount": 3
   },
   {
     "site_url": "https://vipfish.ru/",
@@ -198,7 +200,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 9
+    "discountCount": 0,
+    "couponCount": 9
   },
   {
     "site_url": "https://hvalwaters.ru/",
@@ -258,7 +261,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 3
+    "discountCount": 3,
+    "couponCount": 0
   },
   {
     "site_url": "https://sushishop.ru",
@@ -318,7 +322,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 1
+    "discountCount": 1,
+    "couponCount": 0
   },
   {
     "site_url": "https://nespresso.press",
@@ -372,7 +377,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 1
+    "discountCount": 1,
+    "couponCount": 0
   },
   {
     "site_url": "https://zanducare.com/",
@@ -425,7 +431,9 @@
       "goto_link": "https://tjzuh.com/g/kuf1h0omej5af0702a278e0c33410e/",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://yagodar.ua",
@@ -490,7 +498,8 @@
       ],
       "cashback_link_data": null
     },
-    "campaigns": 1
+    "discountCount": 0,
+    "couponCount": 1
   },
   {
     "site_url": "https://throwmenot.ae",
@@ -532,6 +541,8 @@
       "goto_link": "https://lsuix.com/g/ickci4nrha5af0702a27e5280a9649/",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   }
 ]

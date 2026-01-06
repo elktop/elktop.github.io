@@ -40,7 +40,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 1
+    "discountCount": 1,
+    "couponCount": 0
   },
   {
     "site_url": "https://www.nh-hotels.com/",
@@ -83,7 +84,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 10
+    "discountCount": 8,
+    "couponCount": 2
   },
   {
     "site_url": "https://korston.ru/",
@@ -160,7 +162,8 @@
       ],
       "cashback_link_data": null
     },
-    "campaigns": 14
+    "discountCount": 11,
+    "couponCount": 3
   },
   {
     "site_url": "https://www.trip.com/",
@@ -318,7 +321,8 @@
       ],
       "cashback_link_data": null
     },
-    "campaigns": 16
+    "discountCount": 16,
+    "couponCount": 0
   },
   {
     "site_url": "https://travel.yandex.ru/",
@@ -459,7 +463,8 @@
       ],
       "cashback_link_data": null
     },
-    "campaigns": 4
+    "discountCount": 3,
+    "couponCount": 1
   },
   {
     "site_url": "https://www.avito.ru/moskva/kvartiry/sdam/posutochno/-ASgBAgICAkSSA8gQ8AeSUg/",
@@ -588,7 +593,8 @@
       ],
       "cashback_link_data": null
     },
-    "campaigns": 15
+    "discountCount": 15,
+    "couponCount": 0
   },
   {
     "site_url": "https://cuva.ru",
@@ -647,7 +653,8 @@
       ],
       "cashback_link_data": null
     },
-    "campaigns": 1
+    "discountCount": 1,
+    "couponCount": 0
   },
   {
     "site_url": "https://tbank.ru/travel/hotels/new/",
@@ -707,7 +714,8 @@
       ],
       "cashback_link_data": null
     },
-    "campaigns": 1
+    "discountCount": 0,
+    "couponCount": 1
   },
   {
     "site_url": "https://www.cvc.com.br/",
@@ -771,7 +779,9 @@
       "goto_link": "https://rkdro.com/g/xo8ehfl68m5af0702a27afa41ba253/",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://www.theparkhotels.com/",
@@ -813,7 +823,9 @@
       "goto_link": "https://tjzuh.com/g/1x71f09qze5af0702a270c9057a180/",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://www.oberoihotels.com/",
@@ -855,6 +867,8 @@
       "goto_link": "https://tjzuh.com/g/xz7iftha3y5af0702a27c0120d7ba4/",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   }
 ]

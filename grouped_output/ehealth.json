@@ -79,7 +79,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 5
+    "discountCount": 4,
+    "couponCount": 1
   },
   {
     "site_url": "https://priem.menu/",
@@ -145,7 +146,8 @@
       ],
       "cashback_link_data": null
     },
-    "campaigns": 1
+    "discountCount": 0,
+    "couponCount": 1
   },
   {
     "site_url": "https://hyugalife.com/",
@@ -188,6 +190,7 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 39
+    "discountCount": 39,
+    "couponCount": 0
   }
 ]

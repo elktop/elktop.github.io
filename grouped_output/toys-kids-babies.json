@@ -57,7 +57,8 @@
       ],
       "cashback_link_data": null
     },
-    "campaigns": 19
+    "discountCount": 19,
+    "couponCount": 0
   },
   {
     "site_url": "https://mamasandpapas.ae/",
@@ -100,7 +101,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 4
+    "discountCount": 2,
+    "couponCount": 2
   },
   {
     "site_url": "https://www.alibaba.com/",
@@ -259,7 +261,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 2
+    "discountCount": 2,
+    "couponCount": 0
   },
   {
     "site_url": "https://igroray.ru",
@@ -302,7 +305,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 1
+    "discountCount": 0,
+    "couponCount": 1
   },
   {
     "site_url": "https://litnet.com/",
@@ -373,6 +377,7 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 3
+    "discountCount": 0,
+    "couponCount": 3
   }
 ]

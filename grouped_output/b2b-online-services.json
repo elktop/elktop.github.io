@@ -51,7 +51,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 3
+    "discountCount": 3,
+    "couponCount": 0
   },
   {
     "site_url": "https://tapfiliate.com/?ref=admitadaffiliatenetwork13",
@@ -115,7 +116,9 @@
       "goto_link": "https://ad.admitad.com/g/1sp3lr5uzq5af0702a27ca80d6a593/",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://corp.ostrovok.ru/",
@@ -157,7 +160,9 @@
       "goto_link": "https://bywiola.com/g/4zdicls5se5af0702a2738badf34c3/?erid=2bL9aMPo2e49hMef4pfUzHWynz",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://e-kontur.ru/",
@@ -211,7 +216,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 14
+    "discountCount": 14,
+    "couponCount": 0
   },
   {
     "site_url": "https://unihost.com/",
@@ -259,7 +265,9 @@
       "goto_link": "https://yjfca.com/g/y0exdccc3y5af0702a27daf0306f13/",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://www.wlw.de/",
@@ -358,6 +366,8 @@
         }
       ],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   }
 ]

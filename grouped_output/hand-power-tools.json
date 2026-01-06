@@ -51,7 +51,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 4
+    "discountCount": 4,
+    "couponCount": 0
   },
   {
     "site_url": "https://www.garshinka.ru/",
@@ -94,7 +95,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 6
+    "discountCount": 6,
+    "couponCount": 0
   },
   {
     "site_url": "https://onlinesemena.ru/",
@@ -137,7 +139,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 1
+    "discountCount": 1,
+    "couponCount": 0
   },
   {
     "site_url": "https://hyundaipowerequipment.co.uk",
@@ -179,7 +182,9 @@
       "goto_link": "https://ad.admitad.com/g/y0xj67tfh05af0702a27c489208a5f/",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://www.kubaninstrument.ru/",
@@ -222,7 +227,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 9
+    "discountCount": 8,
+    "couponCount": 1
   },
   {
     "site_url": "https://gardenmart24.ru/",
@@ -312,7 +318,9 @@
         }
       ],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://www.harfington.com/",
@@ -367,7 +375,8 @@
       ],
       "cashback_link_data": null
     },
-    "campaigns": 30
+    "discountCount": 2,
+    "couponCount": 28
   },
   {
     "site_url": "https://meshnology.com/",
@@ -432,6 +441,7 @@
       ],
       "cashback_link_data": null
     },
-    "campaigns": 6
+    "discountCount": 0,
+    "couponCount": 6
   }
 ]

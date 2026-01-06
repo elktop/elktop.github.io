@@ -141,7 +141,8 @@
       ],
       "cashback_link_data": null
     },
-    "campaigns": 5
+    "discountCount": 0,
+    "couponCount": 5
   },
   {
     "site_url": "https://eu.4game.com/roprime/",
@@ -183,7 +184,9 @@
       "goto_link": "https://zejcl.com/g/yqsvshfqrn5af0702a27a91eef9830/",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://www.warthunder.com/",
@@ -226,7 +229,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 2
+    "discountCount": 2,
+    "couponCount": 0
   },
   {
     "site_url": "https://worldoftanks.com/",
@@ -289,7 +293,9 @@
         }
       ],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://crossout.net/",
@@ -332,7 +338,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 2
+    "discountCount": 2,
+    "couponCount": 0
   },
   {
     "site_url": "https://star-conflict.com/",
@@ -375,7 +382,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 2
+    "discountCount": 2,
+    "couponCount": 0
   },
   {
     "site_url": "https://malinovka.org/",
@@ -417,7 +425,9 @@
       "goto_link": "https://xcdus.com/g/c5e9n6r3ew5af0702a27c5c964748a/?erid=MvGzQC98w3Z1gMq1pRgkzi9d",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://enlisted.net/en/",
@@ -459,7 +469,9 @@
       "goto_link": "https://plrvq.com/g/83kvjymdy65af0702a27ae9a5214fd/",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://amazing-online.com/",
@@ -508,7 +520,8 @@
       ],
       "cashback_link_data": null
     },
-    "campaigns": 1
+    "discountCount": 0,
+    "couponCount": 1
   },
   {
     "site_url": "https://ru.4game.com/pointblank/",
@@ -550,6 +563,8 @@
       "goto_link": "https://ogsib.com/g/ap87pghrj35af0702a278b9d35ebdf/?erid=2bL9aMPo2e49hMef4rqUKm8FVD",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   }
 ]

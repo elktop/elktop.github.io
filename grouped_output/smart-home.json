@@ -61,7 +61,9 @@
       "goto_link": "https://dorinebeaumont.com/g/hrtmgqfk7k5af0702a274ed2ce7ed5/?erid=2bL9aMPo2e49hMef4pgVCwBskU",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://waldos.com.mx/",
@@ -104,7 +106,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 1
+    "discountCount": 0,
+    "couponCount": 1
   },
   {
     "site_url": "https://tatkraftshop.eu",
@@ -195,6 +198,7 @@
       ],
       "cashback_link_data": null
     },
-    "campaigns": 3
+    "discountCount": 0,
+    "couponCount": 3
   }
 ]

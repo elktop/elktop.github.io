@@ -40,7 +40,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 9
+    "discountCount": 8,
+    "couponCount": 1
   },
   {
     "site_url": "https://tefal.ru/",
@@ -101,7 +102,8 @@
       ],
       "cashback_link_data": null
     },
-    "campaigns": 8
+    "discountCount": 5,
+    "couponCount": 3
   },
   {
     "site_url": "https://www.dhgate.com/",
@@ -494,7 +496,8 @@
       ],
       "cashback_link_data": null
     },
-    "campaigns": 34
+    "discountCount": 0,
+    "couponCount": 34
   },
   {
     "site_url": "https://www.geekbuying.com/",
@@ -575,7 +578,8 @@
       ],
       "cashback_link_data": null
     },
-    "campaigns": 112
+    "discountCount": 0,
+    "couponCount": 112
   },
   {
     "site_url": "https://krups.ru/",
@@ -624,7 +628,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 1
+    "discountCount": 0,
+    "couponCount": 1
   },
   {
     "site_url": "https://moulinex.ru/",
@@ -673,7 +678,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 2
+    "discountCount": 1,
+    "couponCount": 1
   },
   {
     "site_url": "https://www.yota.ru/",
@@ -829,7 +835,8 @@
       ],
       "cashback_link_data": null
     },
-    "campaigns": 12
+    "discountCount": 12,
+    "couponCount": 0
   },
   {
     "site_url": "https://www.lenovo.com/",
@@ -978,7 +985,8 @@
       ],
       "cashback_link_data": null
     },
-    "campaigns": 24
+    "discountCount": 0,
+    "couponCount": 24
   },
   {
     "site_url": "https://www.adorama.com/",
@@ -1021,7 +1029,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 6
+    "discountCount": 6,
+    "couponCount": 0
   },
   {
     "site_url": "https://www.sunsky-online.com/",
@@ -1075,7 +1084,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 1156
+    "discountCount": 0,
+    "couponCount": 1156
   },
   {
     "site_url": "https://drop.com/",
@@ -1140,7 +1150,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 6
+    "discountCount": 6,
+    "couponCount": 0
   },
   {
     "site_url": "https://global.redmagic.gg/",
@@ -1210,7 +1221,8 @@
       ],
       "cashback_link_data": null
     },
-    "campaigns": 24
+    "discountCount": 20,
+    "couponCount": 4
   },
   {
     "site_url": "https://touch.com.ua/",
@@ -1252,7 +1264,9 @@
       "goto_link": "https://wbbsv.com/g/ynys1f2mjp5af0702a270e81904d8b/",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://cosmogon.ru/",
@@ -1306,7 +1320,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 32
+    "discountCount": 29,
+    "couponCount": 3
   },
   {
     "site_url": "https://www.geekmall.com/",
@@ -1421,7 +1436,8 @@
       ],
       "cashback_link_data": null
     },
-    "campaigns": 64
+    "discountCount": 0,
+    "couponCount": 64
   },
   {
     "site_url": "https://www.gshopper.com/",
@@ -1741,7 +1757,8 @@
       ],
       "cashback_link_data": null
     },
-    "campaigns": 22
+    "discountCount": 0,
+    "couponCount": 22
   },
   {
     "site_url": "https://rulez.by/",
@@ -1816,7 +1833,9 @@
       "goto_link": "https://xcdus.com/g/66hsnobd0f5af0702a278b141a6ee8/",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://intl.nubia.com/",
@@ -1899,7 +1918,9 @@
         }
       ],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://e2e4online.ru",
@@ -1942,7 +1963,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 1
+    "discountCount": 1,
+    "couponCount": 0
   },
   {
     "site_url": "https://tion.ru",
@@ -2002,7 +2024,8 @@
       ],
       "cashback_link_data": null
     },
-    "campaigns": 6
+    "discountCount": 6,
+    "couponCount": 0
   },
   {
     "site_url": "https://www.kenwoodworld.com",
@@ -2044,7 +2067,9 @@
       "goto_link": "https://heqgr.com/g/dd7jf6ihmq5af0702a275219d95572/",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://consumer.huawei.com/cz/",
@@ -2086,7 +2111,9 @@
       "goto_link": "https://lsuix.com/g/vg5a5px7gy5af0702a2721c22008e4/",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://www.deindesign.de/",
@@ -2128,7 +2155,9 @@
       "goto_link": "https://ad.admitad.com/g/fw3bp7q59n5af0702a27470d789cef/",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://shop.samsung.com/ca/",
@@ -2170,7 +2199,9 @@
       "goto_link": "https://ad.admitad.com/g/6o1rcptdxo5af0702a276dc86515f8/",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://madeindream.com",
@@ -2213,7 +2244,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 1
+    "discountCount": 1,
+    "couponCount": 0
   },
   {
     "site_url": "https://consumer.huawei.com/ae-en/offer/",
@@ -2266,7 +2298,9 @@
         }
       ],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://www.realme.com/in/",
@@ -2308,7 +2342,9 @@
       "goto_link": "https://tjzuh.com/g/cdjrir5bwp5af0702a27359494a0af/",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://ipiter.ru/",
@@ -2351,7 +2387,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 8
+    "discountCount": 8,
+    "couponCount": 0
   },
   {
     "site_url": "https://garlyn.ru/",
@@ -2400,7 +2437,8 @@
       ],
       "cashback_link_data": null
     },
-    "campaigns": 8
+    "discountCount": 6,
+    "couponCount": 2
   },
   {
     "site_url": "https://storeinua.com/",
@@ -2455,7 +2493,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 2
+    "discountCount": 2,
+    "couponCount": 0
   },
   {
     "site_url": "https://iboxstore.ru/",
@@ -2498,7 +2537,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 2
+    "discountCount": 0,
+    "couponCount": 2
   },
   {
     "site_url": "https://www.colorway-shop.sk/",
@@ -2541,7 +2581,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 2
+    "discountCount": 2,
+    "couponCount": 0
   },
   {
     "site_url": "https://krona.ru/",
@@ -2596,7 +2637,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 6
+    "discountCount": 4,
+    "couponCount": 2
   },
   {
     "site_url": "https://store.acer.com/",
@@ -2638,7 +2680,9 @@
       "goto_link": "https://bywiola.com/g/u0s9j5myap5af0702a273fb6d05805/",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://asus.com/in/",
@@ -2680,7 +2724,9 @@
       "goto_link": "https://tjzuh.com/g/9d2vnaf4jq5af0702a2703be1d2ce2/",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://gait.com.kw/g_kw_en",
@@ -2723,7 +2769,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 10
+    "discountCount": 8,
+    "couponCount": 2
   },
   {
     "site_url": "https://wau.ru/",
@@ -2776,7 +2823,9 @@
       "goto_link": "https://codeaven.com/g/7q8usxb8w55af0702a275054ae159b/?erid=2bL9aMPo2e49hMef4pgUkafdv5",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://redsolution.company/",
@@ -2825,7 +2874,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 6
+    "discountCount": 6,
+    "couponCount": 0
   },
   {
     "site_url": "https://aqara.ru",
@@ -2879,7 +2929,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 1
+    "discountCount": 1,
+    "couponCount": 0
   },
   {
     "site_url": "https://www.jumbo.ae/",
@@ -2921,7 +2972,9 @@
       "goto_link": "https://grfpr.com/g/gpx4rqbpkb5af0702a27dda4f3f08f/",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://2droida.ru/",
@@ -2963,7 +3016,9 @@
       "goto_link": "https://yyczo.com/g/hwqp2c6xiu5af0702a27d8eff27ef9/?erid=2bL9aMPo2e49hMef4pgz67HNRD",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://getsy.ru/",
@@ -3012,7 +3067,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 1
+    "discountCount": 1,
+    "couponCount": 0
   },
   {
     "site_url": "https://www.miniso.com.mx/",
@@ -3121,7 +3177,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 3
+    "discountCount": 1,
+    "couponCount": 2
   },
   {
     "site_url": "https://hi-stores.ru",
@@ -3164,7 +3221,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 1
+    "discountCount": 0,
+    "couponCount": 1
   },
   {
     "site_url": "https://hansa.ru/",
@@ -3213,7 +3271,8 @@
       ],
       "cashback_link_data": null
     },
-    "campaigns": 1
+    "discountCount": 1,
+    "couponCount": 0
   },
   {
     "site_url": "https://www.lg.com/",
@@ -3255,7 +3314,9 @@
       "goto_link": "https://zejcl.com/g/efmcw9mw1i5af0702a27c31d685009/",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://www.lg.com/tr/",
@@ -3297,7 +3358,9 @@
       "goto_link": "https://kjuzv.com/g/kzqyy0q2575af0702a27ef2202fc4d/",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://7way.pl",
@@ -3339,6 +3402,8 @@
       "goto_link": "https://ntzgd.com/g/d2u58x2ifi5af0702a27ed0a2305f6/",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   }
 ]

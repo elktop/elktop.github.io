@@ -125,7 +125,8 @@
       ],
       "cashback_link_data": null
     },
-    "campaigns": 2
+    "discountCount": 2,
+    "couponCount": 0
   },
   {
     "site_url": "https://www.italiarail.com/",
@@ -207,7 +208,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 12
+    "discountCount": 12,
+    "couponCount": 0
   },
   {
     "site_url": "https://sletat.ru/",
@@ -311,7 +313,9 @@
         }
       ],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://www.sanatoriums.com/",
@@ -353,7 +357,9 @@
       "goto_link": "https://kjuzv.com/g/82hm46o8g45af0702a27790b103c92/",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://www.travelsupermarket.com/",
@@ -448,7 +454,9 @@
         }
       ],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://www.omanair.com/",
@@ -501,7 +509,9 @@
       "goto_link": "https://lsuix.com/g/eh3q84z3td5af0702a27d820413c43/",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://armatatour.ru",
@@ -543,6 +553,8 @@
       "goto_link": "https://grfpr.com/g/n3wqks1z9l5af0702a2720f6950fde/?erid=2bL9aMPo2e49hMef4rqUSTYzwR",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   }
 ]

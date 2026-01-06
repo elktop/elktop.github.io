@@ -51,7 +51,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 2
+    "discountCount": 2,
+    "couponCount": 0
   },
   {
     "site_url": "https://answear.ua/",
@@ -128,7 +129,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 5
+    "discountCount": 2,
+    "couponCount": 3
   },
   {
     "site_url": "https://www.sportmaster.ru/",
@@ -194,7 +196,8 @@
       ],
       "cashback_link_data": null
     },
-    "campaigns": 2
+    "discountCount": 2,
+    "couponCount": 0
   },
   {
     "site_url": "https://www.velosklad.ru/",
@@ -236,7 +239,9 @@
       "goto_link": "https://rzekl.com/g/s763oztejh5af0702a27535f9d39fd/?erid=MvGzQC98w3Z1gMq1kxQvCu27",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://mi-shop.com",
@@ -318,7 +323,8 @@
       ],
       "cashback_link_data": null
     },
-    "campaigns": 7
+    "discountCount": 3,
+    "couponCount": 4
   },
   {
     "site_url": "https://fitomarket.ru/",
@@ -395,7 +401,8 @@
       ],
       "cashback_link_data": null
     },
-    "campaigns": 13
+    "discountCount": 12,
+    "couponCount": 1
   },
   {
     "site_url": "https://barfits.ru",
@@ -444,7 +451,8 @@
       ],
       "cashback_link_data": null
     },
-    "campaigns": 1
+    "discountCount": 0,
+    "couponCount": 1
   },
   {
     "site_url": "https://www.bodylab24.de/",
@@ -498,7 +506,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 1
+    "discountCount": 1,
+    "couponCount": 0
   },
   {
     "site_url": "https://www.wayrates.com/",
@@ -574,7 +583,8 @@
       ],
       "cashback_link_data": null
     },
-    "campaigns": 8
+    "discountCount": 4,
+    "couponCount": 4
   },
   {
     "site_url": "https://www.birota.ru/",
@@ -671,7 +681,9 @@
         }
       ],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://www.thejockeyclub.co.uk",
@@ -730,7 +742,9 @@
       "goto_link": "https://ad.admitad.com/g/v08v4dp9y45af0702a2784cb344a50/",
       "landings": [],
       "cashback_link_data": null
-    }
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://sitpack.com/",
@@ -773,6 +787,7 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "campaigns": 2
+    "discountCount": 0,
+    "couponCount": 2
   }
 ]
