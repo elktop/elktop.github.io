@@ -331,96 +331,6 @@
     "couponCount": 5
   },
   {
-    "site_url": "https://wikium.ru/",
-    "name": "Викиум",
-    "img": "platform/15098.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/12/15098-310fa3101edf3764.svg",
-    "categories": [
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Online Education",
-        "id": 98,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 15098,
-    "category": {
-      "name": "Online Education",
-      "id": 98,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://ewwhk.com/g/rzud0qs6fh5af0702a274bfa9a7f2b/?erid=25H8d7vbP8SRTvG4sCP46A",
-      "landings": [
-        {
-          "id": 20419,
-          "name": "Восстановление сил и ресурсов",
-          "code": "fe6bbde02e"
-        },
-        {
-          "id": 11514,
-          "name": "Продажа курса \"Скорочтение\"",
-          "code": "863443d70e"
-        },
-        {
-          "id": 10085,
-          "name": "Регистрация на бесплатный вебинар \"Повысьте продуктивность мозга за 120 минут\"",
-          "code": "e3e08866c1"
-        },
-        {
-          "id": 11525,
-          "name": "Продажа курса на развитие логики \"Мышление Шерлока\"",
-          "code": "d74a47bd66"
-        },
-        {
-          "id": 11521,
-          "name": "Продажа курса \"Развитие внимания\"",
-          "code": "8e07a1c302"
-        },
-        {
-          "id": 11524,
-          "name": "Продажа курса \"Идеальный русский\"",
-          "code": "f0a3cc69bf"
-        },
-        {
-          "id": 11508,
-          "name": "Все курсы Викиум",
-          "code": "f614f3946a"
-        },
-        {
-          "id": 11516,
-          "name": "Продажа курса \"Эмоциональный интеллект\"",
-          "code": "2f8dc9dbd0"
-        },
-        {
-          "id": 22378,
-          "name": "Бесплатная диагностика когнитивных способностей",
-          "code": "f3163ec9a5"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 0
-  },
-  {
     "site_url": "https://www.uchmet.ru/",
     "name": "Uchmet",
     "img": "platform/16824.svg",
@@ -469,142 +379,6 @@
     },
     "discountCount": 8,
     "couponCount": 1
-  },
-  {
-    "site_url": "https://englex.ru/",
-    "name": "Инглекс",
-    "img": "platform/18326.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2022/12/21/18326-569d501842d9f94d.svg",
-    "categories": [
-      {
-        "name": "Online Education",
-        "id": 98,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "New Year Festival 2026",
-        "id": 378,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 18326,
-    "category": {
-      "name": "Online Education",
-      "id": 98,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://xpuvo.com/g/aohz3bg2ar5af0702a2747fc997f9b/?erid=MvGzQC98w3Z1gMq1mwVxBFUa",
-      "landings": [
-        {
-          "id": 22264,
-          "name": "Английский язык для IT",
-          "code": "a329e8bddc"
-        },
-        {
-          "id": 21956,
-          "name": "Общий английский",
-          "code": "3b6d8d1235"
-        },
-        {
-          "id": 22257,
-          "name": "Интенсивный разговорный английский",
-          "code": "b13efcb923"
-        },
-        {
-          "id": 22256,
-          "name": "Английский для путешествий и переезда",
-          "code": "026c348c19"
-        },
-        {
-          "id": 31494,
-          "name": "Новогодний лендинг для детей",
-          "code": "8f4f73972c"
-        },
-        {
-          "id": 31495,
-          "name": "Новогодний лендинг",
-          "code": "5a290ef096"
-        },
-        {
-          "id": 22259,
-          "name": "Подготовка к собеседованию на английском языке",
-          "code": "9bc678dbb9"
-        },
-        {
-          "id": 22254,
-          "name": "Бизнес-английский",
-          "code": "9874a2ae31"
-        },
-        {
-          "id": 22260,
-          "name": "Подготовка к международным экзаменам",
-          "code": "b4d7534664"
-        },
-        {
-          "id": 30769,
-          "name": "День открытых дверей в онлайн-школе Инглекс для детей",
-          "code": "58dee112e0"
-        },
-        {
-          "id": 30770,
-          "name": "День открытых дверей в онлайн-школе Инглекс для взрослых",
-          "code": "4b52ed786f"
-        },
-        {
-          "id": 27717,
-          "name": "Английский для юристов",
-          "code": "5d901db3c5"
-        },
-        {
-          "id": 22261,
-          "name": "Подготовка к ЕГЭ по английскому языку",
-          "code": "47d6e1ec11"
-        },
-        {
-          "id": 27906,
-          "name": "Английский 360 - курс повышения уровня английского языка",
-          "code": "0ffde177e4"
-        },
-        {
-          "id": 27718,
-          "name": "Английский для медиков",
-          "code": "ab6e7c7ba8"
-        },
-        {
-          "id": 22258,
-          "name": "Английский с носителем языка",
-          "code": "4888b6f36e"
-        },
-        {
-          "id": 26666,
-          "name": "Английский для детей и подростков",
-          "code": "e75e19770a"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 2
   },
   {
     "site_url": "https://gb.ru",
@@ -836,553 +610,6 @@
     },
     "discountCount": 3,
     "couponCount": 2
-  },
-  {
-    "site_url": "https://www.fiverr.com/",
-    "name": "Fiverr Many GEO's",
-    "img": "platform/18789.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/9/18789-ae5fe7fbd179bf9a.svg",
-    "categories": [
-      {
-        "name": "Online Education",
-        "id": 98,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Photography",
-        "id": 309,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Smart tracking programs",
-        "id": 382,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 18789,
-    "category": {
-      "name": "Online Education",
-      "id": 98,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://twnfz.com/g/oqcmadzidp5af0702a27acbbb3152e/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://tetrika-school.ru/",
-    "name": "Tetrika-school",
-    "img": "platform/21079.png",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2020/10/19/21079-dc42bc6bed43dbd2.png",
-    "categories": [
-      {
-        "name": "Online Education",
-        "id": 98,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Oktoberfest 2025",
-        "id": 373,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 21079,
-    "category": {
-      "name": "Online Education",
-      "id": 98,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://xqjeo.com/g/54h3zonoi65af0702a2794d0e5a27a/?erid=MvGzQC98w3Z1gMq1nwbrX7BR",
-      "landings": [
-        {
-          "id": 16157,
-          "name": "Средняя школа репетиторы",
-          "code": "4bf2daec0d"
-        },
-        {
-          "id": 30996,
-          "name": "OctoberFest",
-          "code": "d4f9627e6e"
-        },
-        {
-          "id": 31344,
-          "name": "Бесплатный старт в IT для вашего ребёнка, 1-4 класс",
-          "code": "77e4812755"
-        },
-        {
-          "id": 31345,
-          "name": "Бесплатный старт в IT для вашего ребёнка, 5-11 класс",
-          "code": "c7614992d3"
-        },
-        {
-          "id": 11358,
-          "name": "Обществознание ЕГЭ, ОГЭ",
-          "code": "1fee259afb"
-        },
-        {
-          "id": 11361,
-          "name": "Начальная школа - дети 1-4 классы и дошкольники",
-          "code": "d77e89575c"
-        },
-        {
-          "id": 10660,
-          "name": "Информатика ЕГЭ, ОГЭ",
-          "code": "db1d6ef9c3"
-        },
-        {
-          "id": 16156,
-          "name": "Средняя и старшая школа 5-11 классы ОГЭ",
-          "code": "ea1f6cc315"
-        },
-        {
-          "id": 11360,
-          "name": "Литература ЕГЭ, ОГЭ",
-          "code": "e3d6b46078"
-        },
-        {
-          "id": 10661,
-          "name": "Биология ЕГЭ, ОГЭ",
-          "code": "ebbc9f1e5c"
-        },
-        {
-          "id": 12214,
-          "name": "Онлайн-занятия с логопедом для детей 3-10 лет",
-          "code": "dd5924cc15"
-        },
-        {
-          "id": 10655,
-          "name": "Русский ЕГЭ, ОГЭ",
-          "code": "a45cb022c1"
-        },
-        {
-          "id": 16158,
-          "name": "Мини-лендинг дошкольники",
-          "code": "5c414e64c3"
-        },
-        {
-          "id": 15307,
-          "name": "Общие цели",
-          "code": "c3003a094d"
-        },
-        {
-          "id": 16270,
-          "name": "Английский язык с репетитором",
-          "code": "8a1c295b4e"
-        },
-        {
-          "id": 17566,
-          "name": "Вебинары",
-          "code": "aa80f0d48b"
-        },
-        {
-          "id": 22754,
-          "name": "Бесплатные курсы",
-          "code": "4ebbc6604e"
-        },
-        {
-          "id": 10657,
-          "name": "Английский ЕГЭ, ОГЭ",
-          "code": "9343798075"
-        },
-        {
-          "id": 10659,
-          "name": "История ЕГЭ, ОГЭ",
-          "code": "7a926378ed"
-        },
-        {
-          "id": 20827,
-          "name": "Общий ленд со всеми школами Тетрики",
-          "code": "f4eb17b226"
-        },
-        {
-          "id": 10662,
-          "name": "Физика ЕГЭ, ОГЭ",
-          "code": "c167a56ab5"
-        },
-        {
-          "id": 15306,
-          "name": "Средняя и старшая школа 5-11 классы ЕГЭ",
-          "code": "a6c0147007"
-        },
-        {
-          "id": 30630,
-          "name": "Back to school 2025",
-          "code": "d2bfb98b6e"
-        },
-        {
-          "id": 11359,
-          "name": "Химия ЕГЭ, ОГЭ",
-          "code": "1f2eb07502"
-        },
-        {
-          "id": 10656,
-          "name": "Математика ЕГЭ, ОГЭ",
-          "code": "d3241d6504"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 1
-  },
-  {
-    "site_url": "https://otus.ru/",
-    "name": "Otus",
-    "img": "platform/21788.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2021/5/14/21788-82d5022e6e0e1970.svg",
-    "categories": [
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Online Education",
-        "id": 98,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 21788,
-    "category": {
-      "name": "Online Education",
-      "id": 98,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://rzekl.com/g/kxgx8g2hp05af0702a2772de1a383e/?erid=MvGzQC98w3Z1gMq1oS2rTcKs",
-      "landings": [
-        {
-          "id": 11976,
-          "name": "Нагрузочное тестирование",
-          "code": "bff37e46c8"
-        },
-        {
-          "id": 17511,
-          "name": "DataOps Engineer",
-          "code": "d5a1f158eb"
-        },
-        {
-          "id": 11974,
-          "name": "Автоматизация тестирования на JavaScript",
-          "code": "94bd88dffa"
-        },
-        {
-          "id": 11972,
-          "name": "Team Lead",
-          "code": "cdf20af5e2"
-        },
-        {
-          "id": 17512,
-          "name": "SRE практики и инструменты",
-          "code": "697f6e88c6"
-        },
-        {
-          "id": 11977,
-          "name": "QA Lead",
-          "code": "27c0a3a222"
-        },
-        {
-          "id": 11969,
-          "name": "Алгоритмы и структуры данных",
-          "code": "d6ddddac2f"
-        },
-        {
-          "id": 17510,
-          "name": "Data Engineer",
-          "code": "07313bc072"
-        },
-        {
-          "id": 11964,
-          "name": "Backend-разработчик на PHP",
-          "code": "b17563ae9e"
-        },
-        {
-          "id": 11966,
-          "name": "Administrator Linux. Professional",
-          "code": "c1f5a74682"
-        },
-        {
-          "id": 11975,
-          "name": "Архитектура и шаблоны проектирования",
-          "code": "09a4761e15"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 1,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://www.toprankers.com/",
-    "name": "Top Rankers [CPA] IN",
-    "img": "platform/22604.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/13/22604-b2e314cda9d4950e.svg",
-    "categories": [
-      {
-        "name": "Online Education",
-        "id": 98,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 22604,
-    "category": {
-      "name": "Online Education",
-      "id": 98,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://tjzuh.com/g/9hkqqfkjnr5af0702a2762f5a57535/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://www.doma.uchi.ru/",
-    "name": "Учи.Дома",
-    "img": "platform/22945.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/4/25/22945-3dbc3856b8faa963.svg",
-    "categories": [
-      {
-        "name": "Online Education",
-        "id": 98,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Oktoberfest 2025",
-        "id": 373,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 22945,
-    "category": {
-      "name": "Online Education",
-      "id": 98,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://heqgr.com/g/i8ipt313h95af0702a2788ed9027a3/?erid=MvGzQC98w3Z1gMq1owUsar8G",
-      "landings": [
-        {
-          "id": 30950,
-          "name": "Английский",
-          "code": "8d361a339a"
-        },
-        {
-          "id": 31339,
-          "name": "Старт в IT для вашего ребёнка 1-4 класс",
-          "code": "1cd08d4523"
-        },
-        {
-          "id": 31340,
-          "name": "Старт в IT для вашего ребёнка 5-11 класс",
-          "code": "68e7223975"
-        },
-        {
-          "id": 30947,
-          "name": "Все предметы",
-          "code": "a2ea4a5662"
-        },
-        {
-          "id": 30946,
-          "name": "Учи дома",
-          "code": "d460807a82"
-        },
-        {
-          "id": 30951,
-          "name": "ЕГЭ",
-          "code": "e58d56d3f2"
-        },
-        {
-          "id": 30949,
-          "name": "Математика",
-          "code": "cfb2bc1ee1"
-        },
-        {
-          "id": 17706,
-          "name": "ЕГЭ",
-          "code": "43722b4a2c"
-        },
-        {
-          "id": 30952,
-          "name": "ОГЭ",
-          "code": "6d2ed75414"
-        },
-        {
-          "id": 30627,
-          "name": "Подарок 5 уроков с репетитором",
-          "code": "ab9f83d1a7"
-        },
-        {
-          "id": 30948,
-          "name": "Русский",
-          "code": "dba49dae3c"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 2,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://www.edureka.co/",
-    "name": "Edureka [CPS] WW",
-    "img": "platform/23097.jpg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2021/8/6/23097-0af7402e44d2938d.jpg",
-    "categories": [
-      {
-        "name": "Online Education",
-        "id": 98,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 23097,
-    "category": {
-      "name": "Online Education",
-      "id": 98,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://tjzuh.com/g/sakx2ucq005af0702a2763347fc3f8/",
-      "landings": [
-        {
-          "id": 30386,
-          "name": "Genetic AI",
-          "code": "ca349eb4a3"
-        },
-        {
-          "id": 30388,
-          "name": "Gen AI Masters",
-          "code": "b52889aa4c"
-        },
-        {
-          "id": 30387,
-          "name": "Gen AI PGP",
-          "code": "377ac376ad"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 0
   },
   {
     "site_url": "https://productstar.ru/",
@@ -1856,17 +1083,11 @@
     "couponCount": 6
   },
   {
-    "site_url": "https://www.school-xyz.com/",
-    "name": "XYZ School",
-    "img": "platform/24216.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/12/24216-19ac8481ceaf28f4.svg",
+    "site_url": "https://puzzle-movies.com/",
+    "name": "Puzzle Movies",
+    "img": "platform/28921.png",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2022/6/22/28921-762f87b1d50de284.png",
     "categories": [
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
       {
         "name": "Online Education",
         "id": 98,
@@ -1877,6 +1098,12 @@
           "language": "en",
           "parent": null
         }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
       },
       {
         "name": "New Year Festival 2026",
@@ -1885,7 +1112,7 @@
         "parent": null
       }
     ],
-    "id": 24216,
+    "id": 28921,
     "category": {
       "name": "Online Education",
       "id": 98,
@@ -1898,89 +1125,29 @@
       }
     },
     "affiliate": {
-      "goto_link": "https://kpwfp.com/g/oc7ji1r1835af0702a275293334d95/?erid=MvGzQC98w3Z1gMq1pShdKXrM",
+      "goto_link": "https://dhwnh.com/g/ae4zpznc0i5af0702a2742f9f2178b/?erid=2bL9aMPo2e49hMef4peznT3Qvi",
       "landings": [
         {
-          "id": 24226,
-          "name": "3D-художник по персонажам",
-          "code": "7745b5669d"
+          "id": 21905,
+          "name": "акция на Puzzle Movies",
+          "code": "1bbbfd6fff"
         },
         {
-          "id": 25965,
-          "name": "Учись сейчас, плати потом",
-          "code": "14d51f224e"
-        },
-        {
-          "id": 18448,
-          "name": "Главная school xyz",
-          "code": "8fbf07ac8a"
-        },
-        {
-          "id": 24227,
-          "name": "Концепт-художник",
-          "code": "76633c4081"
-        },
-        {
-          "id": 26878,
-          "name": "Вебинар 17.04. Какой ты покемон в геймдеве",
-          "code": "55f827e1d6"
-        },
-        {
-          "id": 30368,
-          "name": "Колесо удачи от XYZ",
-          "code": "670f7a48d3"
-        },
-        {
-          "id": 24231,
-          "name": "Styl. Создание стилизованных персонажей в 3D",
-          "code": "3d371b603b"
-        },
-        {
-          "id": 24229,
-          "name": "Геймплей-разработчик",
-          "code": "fa924ad25c"
-        },
-        {
-          "id": 24224,
-          "name": "3D-Дженералист",
-          "code": "012f3bc7a9"
-        },
-        {
-          "id": 24959,
-          "name": "3D  ВОСТРЕБОВАННОЕ НАПРАВЛЕНИЕ",
-          "code": "24f8961651"
-        },
-        {
-          "id": 24225,
-          "name": "Game Designer",
-          "code": "a1a8c98243"
-        },
-        {
-          "id": 24228,
-          "name": "Draft Punk. 3Д-моделирование объектов",
-          "code": "3add41e7a1"
-        },
-        {
-          "id": 24232,
-          "name": "Разработка игр на Unity",
-          "code": "b8abbd01cd"
-        },
-        {
-          "id": 24230,
-          "name": "Концепт-Арт с Дмитрием Клюшкиным",
-          "code": "0398bc2804"
+          "id": 28858,
+          "name": "Black Friday",
+          "code": "a1fe2f0e6a"
         }
       ],
       "cashback_link_data": null
     },
-    "discountCount": 0,
+    "discountCount": 1,
     "couponCount": 2
   },
   {
-    "site_url": "https://www.italki.com/",
-    "name": "italki WW",
-    "img": "platform/24736.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/11/11/24736-096c8ef1af3efff0.svg",
+    "site_url": "https://eduson.academy/",
+    "name": "Eduson.academy",
+    "img": "platform/44243.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/10/31/44243-73ca961299a8ff94.svg",
     "categories": [
       {
         "name": "Online Services",
@@ -2000,13 +1167,13 @@
         }
       },
       {
-        "name": "Smart tracking programs",
-        "id": 382,
+        "name": "Back to school 2025",
+        "id": 371,
         "language": "en",
         "parent": null
       }
     ],
-    "id": 24736,
+    "id": 44243,
     "category": {
       "name": "Online Education",
       "id": 98,
@@ -2019,23 +1186,405 @@
       }
     },
     "affiliate": {
-      "goto_link": "https://xcdus.com/g/cp8w1bohgm5af0702a270dfa1a7923/",
+      "goto_link": "https://yknhc.com/g/9lnpm2l1ka5af0702a277e0a786efe/?erid=5jtCeReNwxHpfQTGQpntmtK",
       "landings": [
         {
-          "id": 26857,
-          "name": "Italki Premium",
-          "code": "69c7b70535"
+          "id": 26298,
+          "name": "Факультет IT",
+          "code": "30e363b54c"
         },
         {
-          "id": 30776,
-          "name": "Language Challenge 2025",
-          "code": "7fd778bc55"
+          "id": 26300,
+          "name": "Курсы аналитика",
+          "code": "47c9510d49"
+        },
+        {
+          "id": 26301,
+          "name": "Курсы HR",
+          "code": "ca5f3ad77b"
+        },
+        {
+          "id": 26305,
+          "name": "Курсы маркетплейсы",
+          "code": "cde32f57a2"
+        },
+        {
+          "id": 27978,
+          "name": "Косметология с 0",
+          "code": "11bb163e79"
+        },
+        {
+          "id": 26297,
+          "name": "Популярные курсы",
+          "code": "fc0e8ba34d"
+        },
+        {
+          "id": 29503,
+          "name": "Акционный лендинг",
+          "code": "1c773e331d"
+        },
+        {
+          "id": 30523,
+          "name": "Курс антикризисного управления",
+          "code": "a15442eaaf"
+        },
+        {
+          "id": 27268,
+          "name": "Бесплатные курсы",
+          "code": "a44431dc10"
+        },
+        {
+          "id": 26303,
+          "name": "Курсы финансы",
+          "code": "a400d34751"
+        },
+        {
+          "id": 26302,
+          "name": "Курсы маркетинг",
+          "code": "4686752166"
+        },
+        {
+          "id": 26304,
+          "name": "Курсы бухгалтерия",
+          "code": "b72018b692"
+        },
+        {
+          "id": 26299,
+          "name": "Курсы управление и бизнес",
+          "code": "77f2530f51"
+        },
+        {
+          "id": 28046,
+          "name": "Основной сайт для теста",
+          "code": "d08edbbd40"
         }
       ],
       "cashback_link_data": null
     },
-    "discountCount": 0,
+    "discountCount": 19,
     "couponCount": 2
+  },
+  {
+    "site_url": "https://smart-inc.ru/",
+    "name": "Институт психологии Smart",
+    "img": "platform/77081.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/8/9/77081-946f0a9ca9834750.svg",
+    "categories": [
+      {
+        "name": "Online Education",
+        "id": 98,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "New Year Festival 2026",
+        "id": 378,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 77081,
+    "category": {
+      "name": "Online Education",
+      "id": 98,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://gndrz.com/g/9pa6hxl7545af0702a27b1bafa8f7b/?erid=2bL9aMPo2e49hMef4pgyrziiwT",
+      "landings": [
+        {
+          "id": 31440,
+          "name": "ICF-коучинг",
+          "code": "ca031b88db"
+        },
+        {
+          "id": 30869,
+          "name": "Заявка на Тест-драйв профессии психолога",
+          "code": "82c21c7fe4"
+        },
+        {
+          "id": 31369,
+          "name": "Практический психолог",
+          "code": "f27a65d1f7"
+        },
+        {
+          "id": 29199,
+          "name": "Тест-драйв профессии психолога 7 дней бесплатного доступа к профессии",
+          "code": "e7f75bdf84"
+        },
+        {
+          "id": 31370,
+          "name": "Клинический психолог",
+          "code": "61f577cd23"
+        },
+        {
+          "id": 31372,
+          "name": "Детский психолог",
+          "code": "991787452f"
+        },
+        {
+          "id": 31371,
+          "name": "Бизнес-психолог",
+          "code": "e1019a7487"
+        },
+        {
+          "id": 31374,
+          "name": "Гештальт-терапевт",
+          "code": "2a47bb1950"
+        },
+        {
+          "id": 31377,
+          "name": "Кризисный психолог",
+          "code": "9c6e9bab5a"
+        },
+        {
+          "id": 31373,
+          "name": "Семейный психолог",
+          "code": "9ea593e6af"
+        },
+        {
+          "id": 31375,
+          "name": "Консультант в сексологии",
+          "code": "e9e4b0f69c"
+        },
+        {
+          "id": 31376,
+          "name": "Терапевт КПТ",
+          "code": "569d22b82c"
+        },
+        {
+          "id": 31378,
+          "name": "Коучинг в работе психолога",
+          "code": "784114c086"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 3,
+    "couponCount": 5
+  },
+  {
+    "site_url": "https://otus.ru/",
+    "name": "Otus",
+    "img": "platform/21788.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/5/14/21788-82d5022e6e0e1970.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Online Education",
+        "id": 98,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 21788,
+    "category": {
+      "name": "Online Education",
+      "id": 98,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://rzekl.com/g/kxgx8g2hp05af0702a2772de1a383e/?erid=MvGzQC98w3Z1gMq1oS2rTcKs",
+      "landings": [
+        {
+          "id": 11976,
+          "name": "Нагрузочное тестирование",
+          "code": "bff37e46c8"
+        },
+        {
+          "id": 17511,
+          "name": "DataOps Engineer",
+          "code": "d5a1f158eb"
+        },
+        {
+          "id": 11974,
+          "name": "Автоматизация тестирования на JavaScript",
+          "code": "94bd88dffa"
+        },
+        {
+          "id": 11972,
+          "name": "Team Lead",
+          "code": "cdf20af5e2"
+        },
+        {
+          "id": 17512,
+          "name": "SRE практики и инструменты",
+          "code": "697f6e88c6"
+        },
+        {
+          "id": 11977,
+          "name": "QA Lead",
+          "code": "27c0a3a222"
+        },
+        {
+          "id": 11969,
+          "name": "Алгоритмы и структуры данных",
+          "code": "d6ddddac2f"
+        },
+        {
+          "id": 17510,
+          "name": "Data Engineer",
+          "code": "07313bc072"
+        },
+        {
+          "id": 11964,
+          "name": "Backend-разработчик на PHP",
+          "code": "b17563ae9e"
+        },
+        {
+          "id": 11966,
+          "name": "Administrator Linux. Professional",
+          "code": "c1f5a74682"
+        },
+        {
+          "id": 11975,
+          "name": "Архитектура и шаблоны проектирования",
+          "code": "09a4761e15"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 1,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://www.doma.uchi.ru/",
+    "name": "Учи.Дома",
+    "img": "platform/22945.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/4/25/22945-3dbc3856b8faa963.svg",
+    "categories": [
+      {
+        "name": "Online Education",
+        "id": 98,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Oktoberfest 2025",
+        "id": 373,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 22945,
+    "category": {
+      "name": "Online Education",
+      "id": 98,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://heqgr.com/g/i8ipt313h95af0702a2788ed9027a3/?erid=MvGzQC98w3Z1gMq1owUsar8G",
+      "landings": [
+        {
+          "id": 30950,
+          "name": "Английский",
+          "code": "8d361a339a"
+        },
+        {
+          "id": 31339,
+          "name": "Старт в IT для вашего ребёнка 1-4 класс",
+          "code": "1cd08d4523"
+        },
+        {
+          "id": 31340,
+          "name": "Старт в IT для вашего ребёнка 5-11 класс",
+          "code": "68e7223975"
+        },
+        {
+          "id": 30947,
+          "name": "Все предметы",
+          "code": "a2ea4a5662"
+        },
+        {
+          "id": 30946,
+          "name": "Учи дома",
+          "code": "d460807a82"
+        },
+        {
+          "id": 30951,
+          "name": "ЕГЭ",
+          "code": "e58d56d3f2"
+        },
+        {
+          "id": 30949,
+          "name": "Математика",
+          "code": "cfb2bc1ee1"
+        },
+        {
+          "id": 17706,
+          "name": "ЕГЭ",
+          "code": "43722b4a2c"
+        },
+        {
+          "id": 30952,
+          "name": "ОГЭ",
+          "code": "6d2ed75414"
+        },
+        {
+          "id": 30627,
+          "name": "Подарок 5 уроков с репетитором",
+          "code": "ab9f83d1a7"
+        },
+        {
+          "id": 30948,
+          "name": "Русский",
+          "code": "dba49dae3c"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 2,
+    "couponCount": 0
   },
   {
     "site_url": "https://practicum.yandex.ru/",
@@ -2313,6 +1862,717 @@
     "couponCount": 0
   },
   {
+    "site_url": "https://karpov.courses",
+    "name": "Karpov.courses",
+    "img": "platform/43824.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/12/1/43824-b2d4f9934b6ead2f.svg",
+    "categories": [
+      {
+        "name": "Online Education",
+        "id": 98,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "New Year Festival 2026",
+        "id": 378,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 43824,
+    "category": {
+      "name": "Online Education",
+      "id": 98,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://bywiola.com/g/f8t0ue6xes5af0702a273b8a152381/?erid=2bL9aMPo2e49hMef4pgVKJL7of",
+      "landings": [
+        {
+          "id": 31435,
+          "name": "Новогодний Лендинг",
+          "code": "b482bdda11"
+        },
+        {
+          "id": 31448,
+          "name": "RAG-боты и автоматизация LLM",
+          "code": "bdf4900b51"
+        },
+        {
+          "id": 25855,
+          "name": "analytics",
+          "code": "e9e3c391b5"
+        },
+        {
+          "id": 25858,
+          "name": "ml-hard",
+          "code": "bd097567ee"
+        },
+        {
+          "id": 25860,
+          "name": "simulator-ab",
+          "code": "9c5db24b17"
+        },
+        {
+          "id": 25863,
+          "name": "data-driven",
+          "code": "71ca709b6c"
+        },
+        {
+          "id": 25856,
+          "name": "ml-start",
+          "code": "f30cd947bd"
+        },
+        {
+          "id": 25859,
+          "name": "simulator",
+          "code": "99c503e0f8"
+        },
+        {
+          "id": 25862,
+          "name": "analytics-hard",
+          "code": "729fb560ba"
+        },
+        {
+          "id": 25861,
+          "name": "simulator-ml",
+          "code": "f32cea8f94"
+        },
+        {
+          "id": 25864,
+          "name": "frontend",
+          "code": "e0b6ba8581"
+        },
+        {
+          "id": 25865,
+          "name": "systemdesign",
+          "code": "3cd0a10f91"
+        },
+        {
+          "id": 25857,
+          "name": "dataengineer",
+          "code": "7ee29c224e"
+        },
+        {
+          "id": 29584,
+          "name": "Обучайтесь с 50 процентной скидкой",
+          "code": "a6895deeb8"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 4,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://simulative.ru/",
+    "name": "simulative.ru",
+    "img": "platform/98907.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/5/8/98907-be6de986384cf072.svg",
+    "categories": [
+      {
+        "name": "Online Education",
+        "id": 98,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "News and Media",
+        "id": 310,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 98907,
+    "category": {
+      "name": "Online Education",
+      "id": 98,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://kpwfp.com/g/d6c6zca5ze5af0702a27b6618e369e/?erid=2bL9aMPo2e49hMef4phyQBN5V9",
+      "landings": [
+        {
+          "id": 29132,
+          "name": "Бесплатная Демо-версия курса-симулятора Аналитик данных",
+          "code": "0f1725e676"
+        },
+        {
+          "id": 29809,
+          "name": "Бесплатный курс по Pandas",
+          "code": "916912284c"
+        },
+        {
+          "id": 28394,
+          "name": "Курс-симулятор Bi-аналитик",
+          "code": "e97dd29391"
+        },
+        {
+          "id": 27907,
+          "name": "бесплатный курс Основы Python",
+          "code": "a443962b64"
+        },
+        {
+          "id": 29296,
+          "name": "Автовебинар",
+          "code": "0a1ddb0602"
+        },
+        {
+          "id": 27363,
+          "name": "Основной",
+          "code": "c9a6b0bca0"
+        },
+        {
+          "id": 28466,
+          "name": "Инженер Данных",
+          "code": "bdc4818af5"
+        },
+        {
+          "id": 29133,
+          "name": "Симулятор Инженер машинного обучения",
+          "code": "6bca62c8b6"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 2,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://englex.ru/",
+    "name": "Инглекс",
+    "img": "platform/18326.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2022/12/21/18326-569d501842d9f94d.svg",
+    "categories": [
+      {
+        "name": "Online Education",
+        "id": 98,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "New Year Festival 2026",
+        "id": 378,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 18326,
+    "category": {
+      "name": "Online Education",
+      "id": 98,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://xpuvo.com/g/aohz3bg2ar5af0702a2747fc997f9b/?erid=MvGzQC98w3Z1gMq1mwVxBFUa",
+      "landings": [
+        {
+          "id": 22264,
+          "name": "Английский язык для IT",
+          "code": "a329e8bddc"
+        },
+        {
+          "id": 21956,
+          "name": "Общий английский",
+          "code": "3b6d8d1235"
+        },
+        {
+          "id": 22257,
+          "name": "Интенсивный разговорный английский",
+          "code": "b13efcb923"
+        },
+        {
+          "id": 22256,
+          "name": "Английский для путешествий и переезда",
+          "code": "026c348c19"
+        },
+        {
+          "id": 31494,
+          "name": "Новогодний лендинг для детей",
+          "code": "8f4f73972c"
+        },
+        {
+          "id": 31495,
+          "name": "Новогодний лендинг",
+          "code": "5a290ef096"
+        },
+        {
+          "id": 22259,
+          "name": "Подготовка к собеседованию на английском языке",
+          "code": "9bc678dbb9"
+        },
+        {
+          "id": 22254,
+          "name": "Бизнес-английский",
+          "code": "9874a2ae31"
+        },
+        {
+          "id": 22260,
+          "name": "Подготовка к международным экзаменам",
+          "code": "b4d7534664"
+        },
+        {
+          "id": 30769,
+          "name": "День открытых дверей в онлайн-школе Инглекс для детей",
+          "code": "58dee112e0"
+        },
+        {
+          "id": 30770,
+          "name": "День открытых дверей в онлайн-школе Инглекс для взрослых",
+          "code": "4b52ed786f"
+        },
+        {
+          "id": 27717,
+          "name": "Английский для юристов",
+          "code": "5d901db3c5"
+        },
+        {
+          "id": 22261,
+          "name": "Подготовка к ЕГЭ по английскому языку",
+          "code": "47d6e1ec11"
+        },
+        {
+          "id": 27906,
+          "name": "Английский 360 - курс повышения уровня английского языка",
+          "code": "0ffde177e4"
+        },
+        {
+          "id": 27718,
+          "name": "Английский для медиков",
+          "code": "ab6e7c7ba8"
+        },
+        {
+          "id": 22258,
+          "name": "Английский с носителем языка",
+          "code": "4888b6f36e"
+        },
+        {
+          "id": 26666,
+          "name": "Английский для детей и подростков",
+          "code": "e75e19770a"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 2
+  },
+  {
+    "site_url": "https://tetrika-school.ru/",
+    "name": "Tetrika-school",
+    "img": "platform/21079.png",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2020/10/19/21079-dc42bc6bed43dbd2.png",
+    "categories": [
+      {
+        "name": "Online Education",
+        "id": 98,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Oktoberfest 2025",
+        "id": 373,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 21079,
+    "category": {
+      "name": "Online Education",
+      "id": 98,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://xqjeo.com/g/54h3zonoi65af0702a2794d0e5a27a/?erid=MvGzQC98w3Z1gMq1nwbrX7BR",
+      "landings": [
+        {
+          "id": 16157,
+          "name": "Средняя школа репетиторы",
+          "code": "4bf2daec0d"
+        },
+        {
+          "id": 30996,
+          "name": "OctoberFest",
+          "code": "d4f9627e6e"
+        },
+        {
+          "id": 31344,
+          "name": "Бесплатный старт в IT для вашего ребёнка, 1-4 класс",
+          "code": "77e4812755"
+        },
+        {
+          "id": 31345,
+          "name": "Бесплатный старт в IT для вашего ребёнка, 5-11 класс",
+          "code": "c7614992d3"
+        },
+        {
+          "id": 11358,
+          "name": "Обществознание ЕГЭ, ОГЭ",
+          "code": "1fee259afb"
+        },
+        {
+          "id": 11361,
+          "name": "Начальная школа - дети 1-4 классы и дошкольники",
+          "code": "d77e89575c"
+        },
+        {
+          "id": 10660,
+          "name": "Информатика ЕГЭ, ОГЭ",
+          "code": "db1d6ef9c3"
+        },
+        {
+          "id": 16156,
+          "name": "Средняя и старшая школа 5-11 классы ОГЭ",
+          "code": "ea1f6cc315"
+        },
+        {
+          "id": 11360,
+          "name": "Литература ЕГЭ, ОГЭ",
+          "code": "e3d6b46078"
+        },
+        {
+          "id": 10661,
+          "name": "Биология ЕГЭ, ОГЭ",
+          "code": "ebbc9f1e5c"
+        },
+        {
+          "id": 12214,
+          "name": "Онлайн-занятия с логопедом для детей 3-10 лет",
+          "code": "dd5924cc15"
+        },
+        {
+          "id": 10655,
+          "name": "Русский ЕГЭ, ОГЭ",
+          "code": "a45cb022c1"
+        },
+        {
+          "id": 16158,
+          "name": "Мини-лендинг дошкольники",
+          "code": "5c414e64c3"
+        },
+        {
+          "id": 15307,
+          "name": "Общие цели",
+          "code": "c3003a094d"
+        },
+        {
+          "id": 16270,
+          "name": "Английский язык с репетитором",
+          "code": "8a1c295b4e"
+        },
+        {
+          "id": 17566,
+          "name": "Вебинары",
+          "code": "aa80f0d48b"
+        },
+        {
+          "id": 22754,
+          "name": "Бесплатные курсы",
+          "code": "4ebbc6604e"
+        },
+        {
+          "id": 10657,
+          "name": "Английский ЕГЭ, ОГЭ",
+          "code": "9343798075"
+        },
+        {
+          "id": 10659,
+          "name": "История ЕГЭ, ОГЭ",
+          "code": "7a926378ed"
+        },
+        {
+          "id": 20827,
+          "name": "Общий ленд со всеми школами Тетрики",
+          "code": "f4eb17b226"
+        },
+        {
+          "id": 10662,
+          "name": "Физика ЕГЭ, ОГЭ",
+          "code": "c167a56ab5"
+        },
+        {
+          "id": 15306,
+          "name": "Средняя и старшая школа 5-11 классы ЕГЭ",
+          "code": "a6c0147007"
+        },
+        {
+          "id": 30630,
+          "name": "Back to school 2025",
+          "code": "d2bfb98b6e"
+        },
+        {
+          "id": 11359,
+          "name": "Химия ЕГЭ, ОГЭ",
+          "code": "1f2eb07502"
+        },
+        {
+          "id": 10656,
+          "name": "Математика ЕГЭ, ОГЭ",
+          "code": "d3241d6504"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 1
+  },
+  {
+    "site_url": "https://www.school-xyz.com/",
+    "name": "XYZ School",
+    "img": "platform/24216.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/12/24216-19ac8481ceaf28f4.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Online Education",
+        "id": 98,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "New Year Festival 2026",
+        "id": 378,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 24216,
+    "category": {
+      "name": "Online Education",
+      "id": 98,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://kpwfp.com/g/oc7ji1r1835af0702a275293334d95/?erid=MvGzQC98w3Z1gMq1pShdKXrM",
+      "landings": [
+        {
+          "id": 24226,
+          "name": "3D-художник по персонажам",
+          "code": "7745b5669d"
+        },
+        {
+          "id": 25965,
+          "name": "Учись сейчас, плати потом",
+          "code": "14d51f224e"
+        },
+        {
+          "id": 18448,
+          "name": "Главная school xyz",
+          "code": "8fbf07ac8a"
+        },
+        {
+          "id": 24227,
+          "name": "Концепт-художник",
+          "code": "76633c4081"
+        },
+        {
+          "id": 26878,
+          "name": "Вебинар 17.04. Какой ты покемон в геймдеве",
+          "code": "55f827e1d6"
+        },
+        {
+          "id": 30368,
+          "name": "Колесо удачи от XYZ",
+          "code": "670f7a48d3"
+        },
+        {
+          "id": 24231,
+          "name": "Styl. Создание стилизованных персонажей в 3D",
+          "code": "3d371b603b"
+        },
+        {
+          "id": 24229,
+          "name": "Геймплей-разработчик",
+          "code": "fa924ad25c"
+        },
+        {
+          "id": 24224,
+          "name": "3D-Дженералист",
+          "code": "012f3bc7a9"
+        },
+        {
+          "id": 24959,
+          "name": "3D  ВОСТРЕБОВАННОЕ НАПРАВЛЕНИЕ",
+          "code": "24f8961651"
+        },
+        {
+          "id": 24225,
+          "name": "Game Designer",
+          "code": "a1a8c98243"
+        },
+        {
+          "id": 24228,
+          "name": "Draft Punk. 3Д-моделирование объектов",
+          "code": "3add41e7a1"
+        },
+        {
+          "id": 24232,
+          "name": "Разработка игр на Unity",
+          "code": "b8abbd01cd"
+        },
+        {
+          "id": 24230,
+          "name": "Концепт-Арт с Дмитрием Клюшкиным",
+          "code": "0398bc2804"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 2
+  },
+  {
+    "site_url": "https://www.italki.com/",
+    "name": "italki WW",
+    "img": "platform/24736.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/11/11/24736-096c8ef1af3efff0.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Online Education",
+        "id": 98,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 24736,
+    "category": {
+      "name": "Online Education",
+      "id": 98,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://xcdus.com/g/cp8w1bohgm5af0702a270dfa1a7923/",
+      "landings": [
+        {
+          "id": 26857,
+          "name": "Italki Premium",
+          "code": "69c7b70535"
+        },
+        {
+          "id": 30776,
+          "name": "Language Challenge 2025",
+          "code": "7fd778bc55"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 2
+  },
+  {
     "site_url": "https://zaochnik.ru/",
     "name": "zaochnik",
     "img": "platform/26664.jpg",
@@ -2355,6 +2615,874 @@
     },
     "discountCount": 0,
     "couponCount": 2
+  },
+  {
+    "site_url": "https://bangbangeducation.ru",
+    "name": "Bang Bang Education",
+    "img": "platform/40582.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/30/40582-d9499a01963b562a.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Online Education",
+        "id": 98,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 40582,
+    "category": {
+      "name": "Online Education",
+      "id": 98,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://dhwnh.com/g/faxhilvyyw5af0702a2719f6940153/?erid=2bL9aMPo2e49hMef4pgUkcAxpQ",
+      "landings": [
+        {
+          "id": 25280,
+          "name": "Черная пятница 2023",
+          "code": "af82d2822f"
+        },
+        {
+          "id": 30145,
+          "name": "Дизайн интерьеров",
+          "code": "00b3105673"
+        },
+        {
+          "id": 30146,
+          "name": "Дизайнер интерфейсов",
+          "code": "c00ec2142c"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 1
+  },
+  {
+    "site_url": "https://anecole.com/",
+    "name": "ANECOLE RU",
+    "img": "platform/105113.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/17/105113-c97ea7f3d88d347d.svg",
+    "categories": [
+      {
+        "name": "Online Education",
+        "id": 98,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "New Year Festival 2026",
+        "id": 378,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 105113,
+    "category": {
+      "name": "Online Education",
+      "id": 98,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://rkdro.com/g/x011tm4i4e5af0702a27c493b9e3d9/?erid=2bL9aMPo2e49hMef4phyxu1DgK",
+      "landings": [
+        {
+          "id": 30381,
+          "name": "Обучения для детей",
+          "code": "61c68b81d1"
+        },
+        {
+          "id": 31481,
+          "name": "Учите иностранный язык с выгодой скидка 30",
+          "code": "fd5d3396ef"
+        },
+        {
+          "id": 30047,
+          "name": "Немецкий с нуля",
+          "code": "686968f103"
+        },
+        {
+          "id": 30048,
+          "name": "Французский с нуля",
+          "code": "8feb1b29de"
+        },
+        {
+          "id": 30054,
+          "name": "День рождения онлайн школы иностранных языков Anecole",
+          "code": "dfe2969398"
+        },
+        {
+          "id": 31496,
+          "name": "Выучите иностранный язык за 2 месяца с выгодой",
+          "code": "272945a3e7"
+        },
+        {
+          "id": 30737,
+          "name": "Подарки и скидки на иностранные языки",
+          "code": "ab183d2de6"
+        },
+        {
+          "id": 30049,
+          "name": "Испанский с нуля",
+          "code": "74f5778bdd"
+        },
+        {
+          "id": 31497,
+          "name": "Магический интенсив по иностранным языкам",
+          "code": "fa930145f8"
+        },
+        {
+          "id": 31232,
+          "name": "Черная пятница 2025",
+          "code": "5db11144e8"
+        },
+        {
+          "id": 31360,
+          "name": "Разговорный клуб по английскому языку",
+          "code": "ceb781c669"
+        },
+        {
+          "id": 31362,
+          "name": "Разговорный клуб по немецкому языку",
+          "code": "ec856f7c13"
+        },
+        {
+          "id": 31359,
+          "name": "Разговорный клуб по французскому языку",
+          "code": "5f5986ec3b"
+        },
+        {
+          "id": 31364,
+          "name": "Разговорный клуб по китайскому языку",
+          "code": "19bc463494"
+        },
+        {
+          "id": 31361,
+          "name": "Разговорный клуб по испанскому языку",
+          "code": "eae2e3492a"
+        },
+        {
+          "id": 31363,
+          "name": "Разговорный клуб по итальянскому языку",
+          "code": "1ef33ca28e"
+        },
+        {
+          "id": 31312,
+          "name": "Турецкий язык с нуля",
+          "code": "7b87293be3"
+        },
+        {
+          "id": 31313,
+          "name": "Арабский язык с нуля",
+          "code": "33ef0f11b0"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 2
+  },
+  {
+    "site_url": "https://ibls.one",
+    "name": "IBLS",
+    "img": "platform/108706.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/2/6/108706-abeeeff5cb83af98.svg",
+    "categories": [
+      {
+        "name": "Online Education",
+        "id": 98,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 108706,
+    "category": {
+      "name": "Online Education",
+      "id": 98,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://vxrlm.com/g/ahk9zjclvc5af0702a274bed46b8f3/?erid=2bL9aMPo2e49hMef4piU4KKD7S",
+      "landings": [
+        {
+          "id": 29536,
+          "name": "заочное Москва",
+          "code": "4a259adb12"
+        },
+        {
+          "id": 31482,
+          "name": "Курсы по ЕГЭ",
+          "code": "5b4c041fe5"
+        },
+        {
+          "id": 31483,
+          "name": "Курсы по ОГЭ",
+          "code": "8d72a549ec"
+        },
+        {
+          "id": 29538,
+          "name": "семейное",
+          "code": "de65d54e27"
+        },
+        {
+          "id": 29537,
+          "name": "заочное регионы",
+          "code": "2c437d4963"
+        },
+        {
+          "id": 29539,
+          "name": "онлайн-школа",
+          "code": "2950cb5ff8"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 1
+  },
+  {
+    "site_url": "https://mosdigitals.ru/",
+    "name": "mosdigitals RU",
+    "img": "platform/120023.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/24/120023-df95e81aa3da7f05.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Online Education",
+        "id": 98,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Back to school 2025",
+        "id": 371,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "New Year Festival 2026",
+        "id": 378,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 120023,
+    "category": {
+      "name": "Online Education",
+      "id": 98,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://ujhjj.com/g/pi61kc8js65af0702a278851d86899/?erid=2bL9aMPo2e49hMef4piUr83hJW",
+      "landings": [
+        {
+          "id": 30672,
+          "name": "Для тестов",
+          "code": "cda4f7ee32"
+        },
+        {
+          "id": 30674,
+          "name": "Тест 3",
+          "code": "cdc7eb4dca"
+        },
+        {
+          "id": 30673,
+          "name": "Тест 2",
+          "code": "265764ef17"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 1
+  },
+  {
+    "site_url": "https://brunoyam.com/",
+    "name": "Бруноям RU",
+    "img": "platform/120083.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/29/120083-63e0290875c8f202.svg",
+    "categories": [
+      {
+        "name": "Online Education",
+        "id": 98,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 120083,
+    "category": {
+      "name": "Online Education",
+      "id": 98,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://xqjeo.com/g/dqsd2a58jw5af0702a27ff1d95857f/?erid=2bL9aMPo2e49hMef4piUr85NBF",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 2
+  },
+  {
+    "site_url": "https://100points.ru/",
+    "name": "100балльный репетитор RU",
+    "img": "platform/134816.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/9/24/134816-24b933507cb7efc9.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Online Education",
+        "id": 98,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "New Year Festival 2026",
+        "id": 378,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 134816,
+    "category": {
+      "name": "Online Education",
+      "id": 98,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://ntzgd.com/g/cjk8ay4ai95af0702a27ffea149eaf/?erid=2bL9aMPo2e49hMef4rqUYx7BFb",
+      "landings": [
+        {
+          "id": 31038,
+          "name": "Информатика Flash  ЕГЭ 2026  Годовой курс",
+          "code": "1fdd41e2a4"
+        },
+        {
+          "id": 31035,
+          "name": "Биология Двушка Федос  ЕГЭ 2026  2-месячный курс",
+          "code": "8c0e2dcb7d"
+        },
+        {
+          "id": 31037,
+          "name": "Поступление  ЕГЭ 2026  Интенсив",
+          "code": "b5c7bbb966"
+        },
+        {
+          "id": 31040,
+          "name": "Русский Новый Русский  ЕГЭ 2026  Годовой курс",
+          "code": "2ab785d638"
+        },
+        {
+          "id": 31042,
+          "name": "Физика Двушка Азат  ЕГЭ 2026  2-месячный курс",
+          "code": "d89b4fd37e"
+        },
+        {
+          "id": 31043,
+          "name": "Английский Booster  ЕГЭ 2026  Годовой курс",
+          "code": "ae066cf1e6"
+        },
+        {
+          "id": 31044,
+          "name": "Химия Химфак  ЕГЭ 2026  Годовой курс",
+          "code": "3dc9b46d80"
+        },
+        {
+          "id": 31045,
+          "name": "Математика Двушка Артем  ЕГЭ 2026  2-месячный курс",
+          "code": "4fdaae459b"
+        },
+        {
+          "id": 31046,
+          "name": "Русский Двушка  ЕГЭ 2026  2-месячный курс",
+          "code": "a16369b0e9"
+        },
+        {
+          "id": 31047,
+          "name": "Математика Легион  ЕГЭ 2026  Годовой курс",
+          "code": "443a11e119"
+        },
+        {
+          "id": 31048,
+          "name": "Обществознание Сила Коржа  ЕГЭ 2026  Годовой курс",
+          "code": "487e2c168f"
+        },
+        {
+          "id": 31049,
+          "name": "Физика Азазат  ОГЭ 2026  Годовой курс",
+          "code": "9b6c632f37"
+        },
+        {
+          "id": 31050,
+          "name": "Математика Кругосветка  ЕГЭ 2026  Годовой курс",
+          "code": "ddb4fdeb96"
+        },
+        {
+          "id": 31051,
+          "name": "Биология Ламарк  ЕГЭ 2026  Годовой курс",
+          "code": "aa60bd236e"
+        },
+        {
+          "id": 31053,
+          "name": "Биология Биофак  ЕГЭ 2026  Годовой курс",
+          "code": "b40c9a23d6"
+        },
+        {
+          "id": 31055,
+          "name": "Литература Литфак  ЕГЭ 2026  Годовой курс",
+          "code": "3fa9b55694"
+        },
+        {
+          "id": 31056,
+          "name": "Биология Эндорфин  ОГЭ 2026  Годовой курс",
+          "code": "05764fd6d2"
+        },
+        {
+          "id": 31057,
+          "name": "Химия Двушка Вадим  ЕГЭ 2026  2-месячный курс",
+          "code": "d38aedab78"
+        },
+        {
+          "id": 31059,
+          "name": "Литература Библиотека  ОГЭ 2026  Годовой курс",
+          "code": "74f56f40fb"
+        },
+        {
+          "id": 31060,
+          "name": "Химия 5 элемент  ОГЭ 2026  Годовой курс",
+          "code": "9edc0392f6"
+        },
+        {
+          "id": 31061,
+          "name": "Информатика  ОГЭ 2026  Годовой курс",
+          "code": "4c4174c4e0"
+        },
+        {
+          "id": 31062,
+          "name": "Литература Двушка Алена  ЕГЭ 2026  2-месячный курс",
+          "code": "0a030d50ef"
+        },
+        {
+          "id": 31063,
+          "name": "Обществознание Ликбез  ЕГЭ 2026  Годовой курс",
+          "code": "ccb1ffc5de"
+        },
+        {
+          "id": 31032,
+          "name": "Русский с Костей Макиенко ОГЭ 2026  Годовой курс",
+          "code": "489ccef18d"
+        },
+        {
+          "id": 31034,
+          "name": "География Геофак  ЕГЭ 2026  Годовой курс",
+          "code": "e9a1511581"
+        },
+        {
+          "id": 31033,
+          "name": "Химия Соль  ЕГЭ 2026  Годовой курс",
+          "code": "66574d708a"
+        },
+        {
+          "id": 31036,
+          "name": "Обществознание Двушка  ЕГЭ 2026  2-месячный курс",
+          "code": "565a9b1f5a"
+        },
+        {
+          "id": 31039,
+          "name": "Обществознание Сила Коржа  ОГЭ 2026  Годовой курс",
+          "code": "5e3e04f6ee"
+        },
+        {
+          "id": 31052,
+          "name": "Информатика Двушка Илья  ЕГЭ 2026  2-месячный курс",
+          "code": "21fc5cc331"
+        },
+        {
+          "id": 31041,
+          "name": "Математика База  ОГЭ 2026  Годовой курс",
+          "code": "2a9215823f"
+        },
+        {
+          "id": 31018,
+          "name": "Лендинг для Родителей",
+          "code": "b5aec6a567"
+        },
+        {
+          "id": 31054,
+          "name": "История Гвардия  ЕГЭ 2026  Годовой курс",
+          "code": "d96478c0b8"
+        },
+        {
+          "id": 31019,
+          "name": "Физика с Эбонитом  ЕГЭ 2026 ,Годовой курс",
+          "code": "b382ab8914"
+        },
+        {
+          "id": 31020,
+          "name": "Биология Большая Медведица ЕГЭ 2026  Годовой курс",
+          "code": "1ab4a6ee8d"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 4
+  },
+  {
+    "site_url": "https://wikium.ru/",
+    "name": "Викиум",
+    "img": "platform/15098.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/12/15098-310fa3101edf3764.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Online Education",
+        "id": 98,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 15098,
+    "category": {
+      "name": "Online Education",
+      "id": 98,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://ewwhk.com/g/rzud0qs6fh5af0702a274bfa9a7f2b/?erid=25H8d7vbP8SRTvG4sCP46A",
+      "landings": [
+        {
+          "id": 20419,
+          "name": "Восстановление сил и ресурсов",
+          "code": "fe6bbde02e"
+        },
+        {
+          "id": 11514,
+          "name": "Продажа курса \"Скорочтение\"",
+          "code": "863443d70e"
+        },
+        {
+          "id": 10085,
+          "name": "Регистрация на бесплатный вебинар \"Повысьте продуктивность мозга за 120 минут\"",
+          "code": "e3e08866c1"
+        },
+        {
+          "id": 11525,
+          "name": "Продажа курса на развитие логики \"Мышление Шерлока\"",
+          "code": "d74a47bd66"
+        },
+        {
+          "id": 11521,
+          "name": "Продажа курса \"Развитие внимания\"",
+          "code": "8e07a1c302"
+        },
+        {
+          "id": 11524,
+          "name": "Продажа курса \"Идеальный русский\"",
+          "code": "f0a3cc69bf"
+        },
+        {
+          "id": 11508,
+          "name": "Все курсы Викиум",
+          "code": "f614f3946a"
+        },
+        {
+          "id": 11516,
+          "name": "Продажа курса \"Эмоциональный интеллект\"",
+          "code": "2f8dc9dbd0"
+        },
+        {
+          "id": 22378,
+          "name": "Бесплатная диагностика когнитивных способностей",
+          "code": "f3163ec9a5"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://www.fiverr.com/",
+    "name": "Fiverr Many GEO's",
+    "img": "platform/18789.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/9/18789-ae5fe7fbd179bf9a.svg",
+    "categories": [
+      {
+        "name": "Online Education",
+        "id": 98,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Photography",
+        "id": 309,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 18789,
+    "category": {
+      "name": "Online Education",
+      "id": 98,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://twnfz.com/g/oqcmadzidp5af0702a27acbbb3152e/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://www.toprankers.com/",
+    "name": "Top Rankers [CPA] IN",
+    "img": "platform/22604.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/13/22604-b2e314cda9d4950e.svg",
+    "categories": [
+      {
+        "name": "Online Education",
+        "id": 98,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 22604,
+    "category": {
+      "name": "Online Education",
+      "id": 98,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://tjzuh.com/g/9hkqqfkjnr5af0702a2762f5a57535/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://www.edureka.co/",
+    "name": "Edureka [CPS] WW",
+    "img": "platform/23097.jpg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/8/6/23097-0af7402e44d2938d.jpg",
+    "categories": [
+      {
+        "name": "Online Education",
+        "id": 98,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 23097,
+    "category": {
+      "name": "Online Education",
+      "id": 98,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://tjzuh.com/g/sakx2ucq005af0702a2763347fc3f8/",
+      "landings": [
+        {
+          "id": 30386,
+          "name": "Genetic AI",
+          "code": "ca349eb4a3"
+        },
+        {
+          "id": 30388,
+          "name": "Gen AI Masters",
+          "code": "b52889aa4c"
+        },
+        {
+          "id": 30387,
+          "name": "Gen AI PGP",
+          "code": "377ac376ad"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://online.synchronize.ru/",
@@ -2410,67 +3538,6 @@
     },
     "discountCount": 0,
     "couponCount": 0
-  },
-  {
-    "site_url": "https://puzzle-movies.com/",
-    "name": "Puzzle Movies",
-    "img": "platform/28921.png",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2022/6/22/28921-762f87b1d50de284.png",
-    "categories": [
-      {
-        "name": "Online Education",
-        "id": 98,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "New Year Festival 2026",
-        "id": 378,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 28921,
-    "category": {
-      "name": "Online Education",
-      "id": 98,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://dhwnh.com/g/ae4zpznc0i5af0702a2742f9f2178b/?erid=2bL9aMPo2e49hMef4peznT3Qvi",
-      "landings": [
-        {
-          "id": 21905,
-          "name": "акция на Puzzle Movies",
-          "code": "1bbbfd6fff"
-        },
-        {
-          "id": 28858,
-          "name": "Black Friday",
-          "code": "a1fe2f0e6a"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 1,
-    "couponCount": 2
   },
   {
     "site_url": "https://sotkaonline.ru/",
@@ -3027,424 +4094,6 @@
     "couponCount": 0
   },
   {
-    "site_url": "https://bangbangeducation.ru",
-    "name": "Bang Bang Education",
-    "img": "platform/40582.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/30/40582-d9499a01963b562a.svg",
-    "categories": [
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Online Education",
-        "id": 98,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 40582,
-    "category": {
-      "name": "Online Education",
-      "id": 98,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://dhwnh.com/g/faxhilvyyw5af0702a2719f6940153/?erid=2bL9aMPo2e49hMef4pgUkcAxpQ",
-      "landings": [
-        {
-          "id": 25280,
-          "name": "Черная пятница 2023",
-          "code": "af82d2822f"
-        },
-        {
-          "id": 30145,
-          "name": "Дизайн интерьеров",
-          "code": "00b3105673"
-        },
-        {
-          "id": 30146,
-          "name": "Дизайнер интерфейсов",
-          "code": "c00ec2142c"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 1
-  },
-  {
-    "site_url": "https://karpov.courses",
-    "name": "Karpov.courses",
-    "img": "platform/43824.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/12/1/43824-b2d4f9934b6ead2f.svg",
-    "categories": [
-      {
-        "name": "Online Education",
-        "id": 98,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "New Year Festival 2026",
-        "id": 378,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 43824,
-    "category": {
-      "name": "Online Education",
-      "id": 98,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://bywiola.com/g/f8t0ue6xes5af0702a273b8a152381/?erid=2bL9aMPo2e49hMef4pgVKJL7of",
-      "landings": [
-        {
-          "id": 31435,
-          "name": "Новогодний Лендинг",
-          "code": "b482bdda11"
-        },
-        {
-          "id": 31448,
-          "name": "RAG-боты и автоматизация LLM",
-          "code": "bdf4900b51"
-        },
-        {
-          "id": 25855,
-          "name": "analytics",
-          "code": "e9e3c391b5"
-        },
-        {
-          "id": 25858,
-          "name": "ml-hard",
-          "code": "bd097567ee"
-        },
-        {
-          "id": 25860,
-          "name": "simulator-ab",
-          "code": "9c5db24b17"
-        },
-        {
-          "id": 25863,
-          "name": "data-driven",
-          "code": "71ca709b6c"
-        },
-        {
-          "id": 25856,
-          "name": "ml-start",
-          "code": "f30cd947bd"
-        },
-        {
-          "id": 25859,
-          "name": "simulator",
-          "code": "99c503e0f8"
-        },
-        {
-          "id": 25862,
-          "name": "analytics-hard",
-          "code": "729fb560ba"
-        },
-        {
-          "id": 25861,
-          "name": "simulator-ml",
-          "code": "f32cea8f94"
-        },
-        {
-          "id": 25864,
-          "name": "frontend",
-          "code": "e0b6ba8581"
-        },
-        {
-          "id": 25865,
-          "name": "systemdesign",
-          "code": "3cd0a10f91"
-        },
-        {
-          "id": 25857,
-          "name": "dataengineer",
-          "code": "7ee29c224e"
-        },
-        {
-          "id": 29584,
-          "name": "Обучайтесь с 50 процентной скидкой",
-          "code": "a6895deeb8"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 4,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://eduson.academy/",
-    "name": "Eduson.academy",
-    "img": "platform/44243.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/10/31/44243-73ca961299a8ff94.svg",
-    "categories": [
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Online Education",
-        "id": 98,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Back to school 2025",
-        "id": 371,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 44243,
-    "category": {
-      "name": "Online Education",
-      "id": 98,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://yknhc.com/g/9lnpm2l1ka5af0702a277e0a786efe/?erid=5jtCeReNwxHpfQTGQpntmtK",
-      "landings": [
-        {
-          "id": 26298,
-          "name": "Факультет IT",
-          "code": "30e363b54c"
-        },
-        {
-          "id": 26300,
-          "name": "Курсы аналитика",
-          "code": "47c9510d49"
-        },
-        {
-          "id": 26301,
-          "name": "Курсы HR",
-          "code": "ca5f3ad77b"
-        },
-        {
-          "id": 26305,
-          "name": "Курсы маркетплейсы",
-          "code": "cde32f57a2"
-        },
-        {
-          "id": 27978,
-          "name": "Косметология с 0",
-          "code": "11bb163e79"
-        },
-        {
-          "id": 26297,
-          "name": "Популярные курсы",
-          "code": "fc0e8ba34d"
-        },
-        {
-          "id": 29503,
-          "name": "Акционный лендинг",
-          "code": "1c773e331d"
-        },
-        {
-          "id": 30523,
-          "name": "Курс антикризисного управления",
-          "code": "a15442eaaf"
-        },
-        {
-          "id": 27268,
-          "name": "Бесплатные курсы",
-          "code": "a44431dc10"
-        },
-        {
-          "id": 26303,
-          "name": "Курсы финансы",
-          "code": "a400d34751"
-        },
-        {
-          "id": 26302,
-          "name": "Курсы маркетинг",
-          "code": "4686752166"
-        },
-        {
-          "id": 26304,
-          "name": "Курсы бухгалтерия",
-          "code": "b72018b692"
-        },
-        {
-          "id": 26299,
-          "name": "Курсы управление и бизнес",
-          "code": "77f2530f51"
-        },
-        {
-          "id": 28046,
-          "name": "Основной сайт для теста",
-          "code": "d08edbbd40"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 19,
-    "couponCount": 2
-  },
-  {
-    "site_url": "https://smart-inc.ru/",
-    "name": "Институт психологии Smart",
-    "img": "platform/77081.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/8/9/77081-946f0a9ca9834750.svg",
-    "categories": [
-      {
-        "name": "Online Education",
-        "id": 98,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "New Year Festival 2026",
-        "id": 378,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 77081,
-    "category": {
-      "name": "Online Education",
-      "id": 98,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://gndrz.com/g/9pa6hxl7545af0702a27b1bafa8f7b/?erid=2bL9aMPo2e49hMef4pgyrziiwT",
-      "landings": [
-        {
-          "id": 31440,
-          "name": "ICF-коучинг",
-          "code": "ca031b88db"
-        },
-        {
-          "id": 30869,
-          "name": "Заявка на Тест-драйв профессии психолога",
-          "code": "82c21c7fe4"
-        },
-        {
-          "id": 31369,
-          "name": "Практический психолог",
-          "code": "f27a65d1f7"
-        },
-        {
-          "id": 29199,
-          "name": "Тест-драйв профессии психолога 7 дней бесплатного доступа к профессии",
-          "code": "e7f75bdf84"
-        },
-        {
-          "id": 31370,
-          "name": "Клинический психолог",
-          "code": "61f577cd23"
-        },
-        {
-          "id": 31372,
-          "name": "Детский психолог",
-          "code": "991787452f"
-        },
-        {
-          "id": 31371,
-          "name": "Бизнес-психолог",
-          "code": "e1019a7487"
-        },
-        {
-          "id": 31374,
-          "name": "Гештальт-терапевт",
-          "code": "2a47bb1950"
-        },
-        {
-          "id": 31377,
-          "name": "Кризисный психолог",
-          "code": "9c6e9bab5a"
-        },
-        {
-          "id": 31373,
-          "name": "Семейный психолог",
-          "code": "9ea593e6af"
-        },
-        {
-          "id": 31375,
-          "name": "Консультант в сексологии",
-          "code": "e9e4b0f69c"
-        },
-        {
-          "id": 31376,
-          "name": "Терапевт КПТ",
-          "code": "569d22b82c"
-        },
-        {
-          "id": 31378,
-          "name": "Коучинг в работе психолога",
-          "code": "784114c086"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 3,
-    "couponCount": 5
-  },
-  {
     "site_url": "https://skillbox.ru/",
     "name": "skillbox.ru",
     "img": "platform/94747.svg",
@@ -3826,102 +4475,6 @@
     "couponCount": 0
   },
   {
-    "site_url": "https://simulative.ru/",
-    "name": "simulative.ru",
-    "img": "platform/98907.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/5/8/98907-be6de986384cf072.svg",
-    "categories": [
-      {
-        "name": "Online Education",
-        "id": 98,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "News and Media",
-        "id": 310,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 98907,
-    "category": {
-      "name": "Online Education",
-      "id": 98,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://kpwfp.com/g/d6c6zca5ze5af0702a27b6618e369e/?erid=2bL9aMPo2e49hMef4phyQBN5V9",
-      "landings": [
-        {
-          "id": 29132,
-          "name": "Бесплатная Демо-версия курса-симулятора Аналитик данных",
-          "code": "0f1725e676"
-        },
-        {
-          "id": 29809,
-          "name": "Бесплатный курс по Pandas",
-          "code": "916912284c"
-        },
-        {
-          "id": 28394,
-          "name": "Курс-симулятор Bi-аналитик",
-          "code": "e97dd29391"
-        },
-        {
-          "id": 27907,
-          "name": "бесплатный курс Основы Python",
-          "code": "a443962b64"
-        },
-        {
-          "id": 29296,
-          "name": "Автовебинар",
-          "code": "0a1ddb0602"
-        },
-        {
-          "id": 27363,
-          "name": "Основной",
-          "code": "c9a6b0bca0"
-        },
-        {
-          "id": 28466,
-          "name": "Инженер Данных",
-          "code": "bdc4818af5"
-        },
-        {
-          "id": 29133,
-          "name": "Симулятор Инженер машинного обучения",
-          "code": "6bca62c8b6"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 2,
-    "couponCount": 0
-  },
-  {
     "site_url": "https://ncrdo.ru",
     "name": "НЦРДО RU",
     "img": "platform/99616.svg",
@@ -4069,338 +4622,6 @@
     },
     "discountCount": 0,
     "couponCount": 0
-  },
-  {
-    "site_url": "https://anecole.com/",
-    "name": "ANECOLE RU",
-    "img": "platform/105113.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/17/105113-c97ea7f3d88d347d.svg",
-    "categories": [
-      {
-        "name": "Online Education",
-        "id": 98,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "New Year Festival 2026",
-        "id": 378,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 105113,
-    "category": {
-      "name": "Online Education",
-      "id": 98,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://rkdro.com/g/x011tm4i4e5af0702a27c493b9e3d9/?erid=2bL9aMPo2e49hMef4phyxu1DgK",
-      "landings": [
-        {
-          "id": 30381,
-          "name": "Обучения для детей",
-          "code": "61c68b81d1"
-        },
-        {
-          "id": 31481,
-          "name": "Учите иностранный язык с выгодой скидка 30",
-          "code": "fd5d3396ef"
-        },
-        {
-          "id": 30047,
-          "name": "Немецкий с нуля",
-          "code": "686968f103"
-        },
-        {
-          "id": 30048,
-          "name": "Французский с нуля",
-          "code": "8feb1b29de"
-        },
-        {
-          "id": 30054,
-          "name": "День рождения онлайн школы иностранных языков Anecole",
-          "code": "dfe2969398"
-        },
-        {
-          "id": 31496,
-          "name": "Выучите иностранный язык за 2 месяца с выгодой",
-          "code": "272945a3e7"
-        },
-        {
-          "id": 30737,
-          "name": "Подарки и скидки на иностранные языки",
-          "code": "ab183d2de6"
-        },
-        {
-          "id": 30049,
-          "name": "Испанский с нуля",
-          "code": "74f5778bdd"
-        },
-        {
-          "id": 31497,
-          "name": "Магический интенсив по иностранным языкам",
-          "code": "fa930145f8"
-        },
-        {
-          "id": 31232,
-          "name": "Черная пятница 2025",
-          "code": "5db11144e8"
-        },
-        {
-          "id": 31360,
-          "name": "Разговорный клуб по английскому языку",
-          "code": "ceb781c669"
-        },
-        {
-          "id": 31362,
-          "name": "Разговорный клуб по немецкому языку",
-          "code": "ec856f7c13"
-        },
-        {
-          "id": 31359,
-          "name": "Разговорный клуб по французскому языку",
-          "code": "5f5986ec3b"
-        },
-        {
-          "id": 31364,
-          "name": "Разговорный клуб по китайскому языку",
-          "code": "19bc463494"
-        },
-        {
-          "id": 31361,
-          "name": "Разговорный клуб по испанскому языку",
-          "code": "eae2e3492a"
-        },
-        {
-          "id": 31363,
-          "name": "Разговорный клуб по итальянскому языку",
-          "code": "1ef33ca28e"
-        },
-        {
-          "id": 31312,
-          "name": "Турецкий язык с нуля",
-          "code": "7b87293be3"
-        },
-        {
-          "id": 31313,
-          "name": "Арабский язык с нуля",
-          "code": "33ef0f11b0"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 2
-  },
-  {
-    "site_url": "https://ibls.one",
-    "name": "IBLS",
-    "img": "platform/108706.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/2/6/108706-abeeeff5cb83af98.svg",
-    "categories": [
-      {
-        "name": "Online Education",
-        "id": 98,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 108706,
-    "category": {
-      "name": "Online Education",
-      "id": 98,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://vxrlm.com/g/ahk9zjclvc5af0702a274bed46b8f3/?erid=2bL9aMPo2e49hMef4piU4KKD7S",
-      "landings": [
-        {
-          "id": 29536,
-          "name": "заочное Москва",
-          "code": "4a259adb12"
-        },
-        {
-          "id": 31482,
-          "name": "Курсы по ЕГЭ",
-          "code": "5b4c041fe5"
-        },
-        {
-          "id": 31483,
-          "name": "Курсы по ОГЭ",
-          "code": "8d72a549ec"
-        },
-        {
-          "id": 29538,
-          "name": "семейное",
-          "code": "de65d54e27"
-        },
-        {
-          "id": 29537,
-          "name": "заочное регионы",
-          "code": "2c437d4963"
-        },
-        {
-          "id": 29539,
-          "name": "онлайн-школа",
-          "code": "2950cb5ff8"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 1
-  },
-  {
-    "site_url": "https://mosdigitals.ru/",
-    "name": "mosdigitals RU",
-    "img": "platform/120023.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/24/120023-df95e81aa3da7f05.svg",
-    "categories": [
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Online Education",
-        "id": 98,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Back to school 2025",
-        "id": 371,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "New Year Festival 2026",
-        "id": 378,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 120023,
-    "category": {
-      "name": "Online Education",
-      "id": 98,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://ujhjj.com/g/pi61kc8js65af0702a278851d86899/?erid=2bL9aMPo2e49hMef4piUr83hJW",
-      "landings": [
-        {
-          "id": 30672,
-          "name": "Для тестов",
-          "code": "cda4f7ee32"
-        },
-        {
-          "id": 30674,
-          "name": "Тест 3",
-          "code": "cdc7eb4dca"
-        },
-        {
-          "id": 30673,
-          "name": "Тест 2",
-          "code": "265764ef17"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 1
-  },
-  {
-    "site_url": "https://brunoyam.com/",
-    "name": "Бруноям RU",
-    "img": "platform/120083.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/29/120083-63e0290875c8f202.svg",
-    "categories": [
-      {
-        "name": "Online Education",
-        "id": 98,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 120083,
-    "category": {
-      "name": "Online Education",
-      "id": 98,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://xqjeo.com/g/dqsd2a58jw5af0702a27ff1d95857f/?erid=2bL9aMPo2e49hMef4piUr85NBF",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 2
   },
   {
     "site_url": "https://mitm.institute",
@@ -4649,227 +4870,6 @@
     },
     "discountCount": 0,
     "couponCount": 0
-  },
-  {
-    "site_url": "https://100points.ru/",
-    "name": "100балльный репетитор RU",
-    "img": "platform/134816.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/9/24/134816-24b933507cb7efc9.svg",
-    "categories": [
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Online Education",
-        "id": 98,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "New Year Festival 2026",
-        "id": 378,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 134816,
-    "category": {
-      "name": "Online Education",
-      "id": 98,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://ntzgd.com/g/cjk8ay4ai95af0702a27ffea149eaf/?erid=2bL9aMPo2e49hMef4rqUYx7BFb",
-      "landings": [
-        {
-          "id": 31038,
-          "name": "Информатика Flash  ЕГЭ 2026  Годовой курс",
-          "code": "1fdd41e2a4"
-        },
-        {
-          "id": 31035,
-          "name": "Биология Двушка Федос  ЕГЭ 2026  2-месячный курс",
-          "code": "8c0e2dcb7d"
-        },
-        {
-          "id": 31037,
-          "name": "Поступление  ЕГЭ 2026  Интенсив",
-          "code": "b5c7bbb966"
-        },
-        {
-          "id": 31040,
-          "name": "Русский Новый Русский  ЕГЭ 2026  Годовой курс",
-          "code": "2ab785d638"
-        },
-        {
-          "id": 31042,
-          "name": "Физика Двушка Азат  ЕГЭ 2026  2-месячный курс",
-          "code": "d89b4fd37e"
-        },
-        {
-          "id": 31043,
-          "name": "Английский Booster  ЕГЭ 2026  Годовой курс",
-          "code": "ae066cf1e6"
-        },
-        {
-          "id": 31044,
-          "name": "Химия Химфак  ЕГЭ 2026  Годовой курс",
-          "code": "3dc9b46d80"
-        },
-        {
-          "id": 31045,
-          "name": "Математика Двушка Артем  ЕГЭ 2026  2-месячный курс",
-          "code": "4fdaae459b"
-        },
-        {
-          "id": 31046,
-          "name": "Русский Двушка  ЕГЭ 2026  2-месячный курс",
-          "code": "a16369b0e9"
-        },
-        {
-          "id": 31047,
-          "name": "Математика Легион  ЕГЭ 2026  Годовой курс",
-          "code": "443a11e119"
-        },
-        {
-          "id": 31048,
-          "name": "Обществознание Сила Коржа  ЕГЭ 2026  Годовой курс",
-          "code": "487e2c168f"
-        },
-        {
-          "id": 31049,
-          "name": "Физика Азазат  ОГЭ 2026  Годовой курс",
-          "code": "9b6c632f37"
-        },
-        {
-          "id": 31050,
-          "name": "Математика Кругосветка  ЕГЭ 2026  Годовой курс",
-          "code": "ddb4fdeb96"
-        },
-        {
-          "id": 31051,
-          "name": "Биология Ламарк  ЕГЭ 2026  Годовой курс",
-          "code": "aa60bd236e"
-        },
-        {
-          "id": 31053,
-          "name": "Биология Биофак  ЕГЭ 2026  Годовой курс",
-          "code": "b40c9a23d6"
-        },
-        {
-          "id": 31055,
-          "name": "Литература Литфак  ЕГЭ 2026  Годовой курс",
-          "code": "3fa9b55694"
-        },
-        {
-          "id": 31056,
-          "name": "Биология Эндорфин  ОГЭ 2026  Годовой курс",
-          "code": "05764fd6d2"
-        },
-        {
-          "id": 31057,
-          "name": "Химия Двушка Вадим  ЕГЭ 2026  2-месячный курс",
-          "code": "d38aedab78"
-        },
-        {
-          "id": 31059,
-          "name": "Литература Библиотека  ОГЭ 2026  Годовой курс",
-          "code": "74f56f40fb"
-        },
-        {
-          "id": 31060,
-          "name": "Химия 5 элемент  ОГЭ 2026  Годовой курс",
-          "code": "9edc0392f6"
-        },
-        {
-          "id": 31061,
-          "name": "Информатика  ОГЭ 2026  Годовой курс",
-          "code": "4c4174c4e0"
-        },
-        {
-          "id": 31062,
-          "name": "Литература Двушка Алена  ЕГЭ 2026  2-месячный курс",
-          "code": "0a030d50ef"
-        },
-        {
-          "id": 31063,
-          "name": "Обществознание Ликбез  ЕГЭ 2026  Годовой курс",
-          "code": "ccb1ffc5de"
-        },
-        {
-          "id": 31032,
-          "name": "Русский с Костей Макиенко ОГЭ 2026  Годовой курс",
-          "code": "489ccef18d"
-        },
-        {
-          "id": 31034,
-          "name": "География Геофак  ЕГЭ 2026  Годовой курс",
-          "code": "e9a1511581"
-        },
-        {
-          "id": 31033,
-          "name": "Химия Соль  ЕГЭ 2026  Годовой курс",
-          "code": "66574d708a"
-        },
-        {
-          "id": 31036,
-          "name": "Обществознание Двушка  ЕГЭ 2026  2-месячный курс",
-          "code": "565a9b1f5a"
-        },
-        {
-          "id": 31039,
-          "name": "Обществознание Сила Коржа  ОГЭ 2026  Годовой курс",
-          "code": "5e3e04f6ee"
-        },
-        {
-          "id": 31052,
-          "name": "Информатика Двушка Илья  ЕГЭ 2026  2-месячный курс",
-          "code": "21fc5cc331"
-        },
-        {
-          "id": 31041,
-          "name": "Математика База  ОГЭ 2026  Годовой курс",
-          "code": "2a9215823f"
-        },
-        {
-          "id": 31018,
-          "name": "Лендинг для Родителей",
-          "code": "b5aec6a567"
-        },
-        {
-          "id": 31054,
-          "name": "История Гвардия  ЕГЭ 2026  Годовой курс",
-          "code": "d96478c0b8"
-        },
-        {
-          "id": 31019,
-          "name": "Физика с Эбонитом  ЕГЭ 2026 ,Годовой курс",
-          "code": "b382ab8914"
-        },
-        {
-          "id": 31020,
-          "name": "Биология Большая Медведица ЕГЭ 2026  Годовой курс",
-          "code": "1ab4a6ee8d"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 4
   },
   {
     "site_url": "https://el-ed.ru/",

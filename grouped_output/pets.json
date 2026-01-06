@@ -1,5 +1,55 @@
 [
   {
+    "site_url": "https://www.dogeat.ru/",
+    "name": "Старая Ферма",
+    "img": "platform/40716.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/14/40716-6140055e55c7fb39.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Pets",
+        "id": 74,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 40716,
+    "category": {
+      "name": "Pets",
+      "id": 74,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://naiawork.com/g/etaza1ejru5af0702a273f42da7610/?erid=2bL9aMPo2e49hMef4pgUkgauYg",
+      "landings": [
+        {
+          "id": 29351,
+          "name": "Киберпонедельник 2025",
+          "code": "f2c67d0c87"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 10,
+    "couponCount": 13
+  },
+  {
     "site_url": "https://www.zoohit.cz/",
     "name": "",
     "img": "platform/26623.svg",
@@ -42,6 +92,50 @@
     },
     "discountCount": 0,
     "couponCount": 4
+  },
+  {
+    "site_url": "https://www.zooplus.de",
+    "name": "Zooplus DE",
+    "img": "platform/28221.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/9/6/28221-2ad1b703831233d0.svg",
+    "categories": [
+      {
+        "name": "Pets",
+        "id": 74,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 28221,
+    "category": {
+      "name": "Pets",
+      "id": 74,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://ad.admitad.com/g/ut3qm7csve5af0702a27ce6fe7ba63/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 2
   },
   {
     "site_url": "https://zoopt.ru/",
@@ -92,100 +186,6 @@
     },
     "discountCount": 0,
     "couponCount": 0
-  },
-  {
-    "site_url": "https://www.zooplus.de",
-    "name": "Zooplus DE",
-    "img": "platform/28221.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/9/6/28221-2ad1b703831233d0.svg",
-    "categories": [
-      {
-        "name": "Pets",
-        "id": 74,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 28221,
-    "category": {
-      "name": "Pets",
-      "id": 74,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://ad.admitad.com/g/ut3qm7csve5af0702a27ce6fe7ba63/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 2
-  },
-  {
-    "site_url": "https://www.dogeat.ru/",
-    "name": "Старая Ферма",
-    "img": "platform/40716.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/14/40716-6140055e55c7fb39.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Pets",
-        "id": 74,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 40716,
-    "category": {
-      "name": "Pets",
-      "id": 74,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://naiawork.com/g/etaza1ejru5af0702a273f42da7610/?erid=2bL9aMPo2e49hMef4pgUkgauYg",
-      "landings": [
-        {
-          "id": 29351,
-          "name": "Киберпонедельник 2025",
-          "code": "f2c67d0c87"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 10,
-    "couponCount": 13
   },
   {
     "site_url": "https://waudog.ua/",

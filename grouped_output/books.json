@@ -1,49 +1,5 @@
 [
   {
-    "site_url": "https://www.legimi.pl/",
-    "name": "Legimi PL",
-    "img": "platform/26337.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/29/26337-0aac8d0470ecd307.svg",
-    "categories": [
-      {
-        "name": "Books",
-        "id": 70,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 26337,
-    "category": {
-      "name": "Books",
-      "id": 70,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://ad.admitad.com/g/7jgt22chgb5af0702a27ad50618815/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 0
-  },
-  {
     "site_url": "https://www.myheritage.com/",
     "name": "MyHeritage DNA WW",
     "img": "platform/41597.svg",
@@ -153,6 +109,50 @@
       "cashback_link_data": null
     },
     "discountCount": 3,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://www.legimi.pl/",
+    "name": "Legimi PL",
+    "img": "platform/26337.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/29/26337-0aac8d0470ecd307.svg",
+    "categories": [
+      {
+        "name": "Books",
+        "id": 70,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 26337,
+    "category": {
+      "name": "Books",
+      "id": 70,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://ad.admitad.com/g/7jgt22chgb5af0702a27ad50618815/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
     "couponCount": 0
   },
   {

@@ -1,5 +1,121 @@
 [
   {
+    "site_url": "https://acredit.kz/",
+    "name": "ACredit CPS KZ",
+    "img": "platform/42007.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/9/8/42007-ec4d6c4424a317ed.svg",
+    "categories": [
+      {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Payday Loans",
+        "id": 105,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 42007,
+    "category": {
+      "name": "Payday Loans",
+      "id": 105,
+      "language": "en",
+      "parent": {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://bywiola.com/g/3qfrpa97lj5af0702a27838ab0aac0/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 1,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://pujckaplus.cz/",
+    "name": "Pujckaplus CZ [CPS]",
+    "img": "platform/85858.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/2/29/85858-0d0f85aa63938837.svg",
+    "categories": [
+      {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Payday Loans",
+        "id": 105,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Loans",
+        "id": 9,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Credit Services, Cash Management Services",
+        "id": 106,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 85858,
+    "category": {
+      "name": "Payday Loans",
+      "id": 105,
+      "language": "en",
+      "parent": {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://bjpql.com/g/bon620puaa5af0702a27e35c9874e2/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 2,
+    "couponCount": 0
+  },
+  {
     "site_url": "https://tengeda.kz/",
     "name": "TengeDa [CPS] KZ",
     "img": "platform/22801.svg",
@@ -124,122 +240,6 @@
       "cashback_link_data": null
     },
     "discountCount": 0,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://acredit.kz/",
-    "name": "ACredit CPS KZ",
-    "img": "platform/42007.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/9/8/42007-ec4d6c4424a317ed.svg",
-    "categories": [
-      {
-        "name": "Financial Programs",
-        "id": 7,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Payday Loans",
-        "id": 105,
-        "language": "en",
-        "parent": {
-          "name": "Financial Programs",
-          "id": 7,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 42007,
-    "category": {
-      "name": "Payday Loans",
-      "id": 105,
-      "language": "en",
-      "parent": {
-        "name": "Financial Programs",
-        "id": 7,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://bywiola.com/g/3qfrpa97lj5af0702a27838ab0aac0/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 1,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://pujckaplus.cz/",
-    "name": "Pujckaplus CZ [CPS]",
-    "img": "platform/85858.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/2/29/85858-0d0f85aa63938837.svg",
-    "categories": [
-      {
-        "name": "Financial Programs",
-        "id": 7,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Payday Loans",
-        "id": 105,
-        "language": "en",
-        "parent": {
-          "name": "Financial Programs",
-          "id": 7,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Loans",
-        "id": 9,
-        "language": "en",
-        "parent": {
-          "name": "Financial Programs",
-          "id": 7,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Credit Services, Cash Management Services",
-        "id": 106,
-        "language": "en",
-        "parent": {
-          "name": "Financial Programs",
-          "id": 7,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Smart tracking programs",
-        "id": 382,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 85858,
-    "category": {
-      "name": "Payday Loans",
-      "id": 105,
-      "language": "en",
-      "parent": {
-        "name": "Financial Programs",
-        "id": 7,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://bjpql.com/g/bon620puaa5af0702a27e35c9874e2/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 2,
     "couponCount": 0
   },
   {

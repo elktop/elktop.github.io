@@ -1,71 +1,5 @@
 [
   {
-    "site_url": "https://myindia.ru/",
-    "name": "MYINDIA RU",
-    "img": "platform/43382.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/10/17/43382-dadc98d9241d290e.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Smart Home",
-        "id": 198,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Hobby & Stationery",
-        "id": 89,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 43382,
-    "category": {
-      "name": "Smart Home",
-      "id": 198,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://dorinebeaumont.com/g/hrtmgqfk7k5af0702a274ed2ce7ed5/?erid=2bL9aMPo2e49hMef4pgVCwBskU",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 0
-  },
-  {
     "site_url": "https://waldos.com.mx/",
     "name": "Waldos MX",
     "img": "platform/98756.svg",
@@ -200,5 +134,71 @@
     },
     "discountCount": 0,
     "couponCount": 3
+  },
+  {
+    "site_url": "https://myindia.ru/",
+    "name": "MYINDIA RU",
+    "img": "platform/43382.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/10/17/43382-dadc98d9241d290e.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Smart Home",
+        "id": 198,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Hobby & Stationery",
+        "id": 89,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 43382,
+    "category": {
+      "name": "Smart Home",
+      "id": 198,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://dorinebeaumont.com/g/hrtmgqfk7k5af0702a274ed2ce7ed5/?erid=2bL9aMPo2e49hMef4pgVCwBskU",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
   }
 ]

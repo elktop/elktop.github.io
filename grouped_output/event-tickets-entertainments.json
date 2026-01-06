@@ -1,5 +1,60 @@
 [
   {
+    "site_url": "https://sz.kz/",
+    "name": "Satty Zhuldyz.KZ",
+    "img": "platform/23467.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/7/23467-b03448015a3ef6d1.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Event Tickets & Entertainments",
+        "id": 99,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Other Services",
+        "id": 93,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 23467,
+    "category": {
+      "name": "Event Tickets & Entertainments",
+      "id": 99,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://afzhul.site/g/qge4dvz7re5af0702a27efb027289a/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 3,
+    "couponCount": 0
+  },
+  {
     "site_url": "https://www.stoloto.ru/",
     "name": "Столото",
     "img": "platform/13970.svg",
@@ -194,61 +249,6 @@
       "cashback_link_data": null
     },
     "discountCount": 0,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://sz.kz/",
-    "name": "Satty Zhuldyz.KZ",
-    "img": "platform/23467.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/7/23467-b03448015a3ef6d1.svg",
-    "categories": [
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Event Tickets & Entertainments",
-        "id": 99,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Other Services",
-        "id": 93,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 23467,
-    "category": {
-      "name": "Event Tickets & Entertainments",
-      "id": 99,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://afzhul.site/g/qge4dvz7re5af0702a27efb027289a/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 3,
     "couponCount": 0
   },
   {

@@ -1,49 +1,5 @@
 [
   {
-    "site_url": "https://paisabazaar.com",
-    "name": "PaisaBazaar Credit Score [CPL] IN",
-    "img": "platform/19541.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/8/12/19541-956fc802e60c679d.svg",
-    "categories": [
-      {
-        "name": "Credit Services, Cash Management Services",
-        "id": 106,
-        "language": "en",
-        "parent": {
-          "name": "Financial Programs",
-          "id": 7,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Financial Programs",
-        "id": 7,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 19541,
-    "category": {
-      "name": "Credit Services, Cash Management Services",
-      "id": 106,
-      "language": "en",
-      "parent": {
-        "name": "Financial Programs",
-        "id": 7,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://tjzuh.com/g/6ol8vl734v5af0702a2787f54b38af/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 0
-  },
-  {
     "site_url": "https://www.soscredit.cz/",
     "name": "SOS credit CZ",
     "img": "platform/32396.svg",
@@ -114,6 +70,50 @@
     },
     "discountCount": 0,
     "couponCount": 6
+  },
+  {
+    "site_url": "https://paisabazaar.com",
+    "name": "PaisaBazaar Credit Score [CPL] IN",
+    "img": "platform/19541.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/8/12/19541-956fc802e60c679d.svg",
+    "categories": [
+      {
+        "name": "Credit Services, Cash Management Services",
+        "id": 106,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 19541,
+    "category": {
+      "name": "Credit Services, Cash Management Services",
+      "id": 106,
+      "language": "en",
+      "parent": {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://tjzuh.com/g/6ol8vl734v5af0702a2787f54b38af/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://www.walutomat.pl/",

@@ -1,96 +1,5 @@
 [
   {
-    "site_url": "https://www.tinkoff.ru/mobile-operator/form/",
-    "name": "Т- Мобайл (SIM-карты)",
-    "img": "platform/21070.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/2/21070-44b909eb66a0025f.svg",
-    "categories": [
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Telecommunications",
-        "id": 20,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Back to school 2025",
-        "id": 371,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 21070,
-    "category": {
-      "name": "Telecommunications",
-      "id": 20,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://ficca2021.com/g/u5nshlyq055af0702a27b8d11ffb1c/?erid=25H8d7vbP8SRTvJ4cvn37M",
-      "landings": [
-        {
-          "id": 30245,
-          "name": "Тариф 100 ГБ для работы и развлечений",
-          "code": "0f748b8058"
-        },
-        {
-          "id": 31189,
-          "name": "Биометрия и сим карта для иностранцев",
-          "code": "d5165b0be2"
-        },
-        {
-          "id": 21917,
-          "name": "Удвоим ваше первое пополнение bonusx2",
-          "code": "cb82d52291"
-        },
-        {
-          "id": 20985,
-          "name": "Esim",
-          "code": "52ae3506f2"
-        },
-        {
-          "id": 31170,
-          "name": "Перенос номера на Т-Мобайл",
-          "code": "a53da93334"
-        },
-        {
-          "id": 22764,
-          "name": "Тариф за 300 для  клиентов Тинькофф, с подпиской Tinkoff Pro",
-          "code": "afba144a83"
-        },
-        {
-          "id": 20986,
-          "name": "Перенос номера",
-          "code": "efc7d8c7de"
-        },
-        {
-          "id": 30775,
-          "name": "Двойные бонусные мили с картой S7 от T-Bank",
-          "code": "4c27fb4850"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 1
-  },
-  {
     "site_url": "https://www.ufanet.ru/",
     "name": "",
     "img": "platform/36195.svg",
@@ -293,6 +202,97 @@
     },
     "discountCount": 3,
     "couponCount": 2
+  },
+  {
+    "site_url": "https://www.tinkoff.ru/mobile-operator/form/",
+    "name": "Т- Мобайл (SIM-карты)",
+    "img": "platform/21070.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/2/21070-44b909eb66a0025f.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Telecommunications",
+        "id": 20,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Back to school 2025",
+        "id": 371,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 21070,
+    "category": {
+      "name": "Telecommunications",
+      "id": 20,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://ficca2021.com/g/u5nshlyq055af0702a27b8d11ffb1c/?erid=25H8d7vbP8SRTvJ4cvn37M",
+      "landings": [
+        {
+          "id": 30245,
+          "name": "Тариф 100 ГБ для работы и развлечений",
+          "code": "0f748b8058"
+        },
+        {
+          "id": 31189,
+          "name": "Биометрия и сим карта для иностранцев",
+          "code": "d5165b0be2"
+        },
+        {
+          "id": 21917,
+          "name": "Удвоим ваше первое пополнение bonusx2",
+          "code": "cb82d52291"
+        },
+        {
+          "id": 20985,
+          "name": "Esim",
+          "code": "52ae3506f2"
+        },
+        {
+          "id": 31170,
+          "name": "Перенос номера на Т-Мобайл",
+          "code": "a53da93334"
+        },
+        {
+          "id": 22764,
+          "name": "Тариф за 300 для  клиентов Тинькофф, с подпиской Tinkoff Pro",
+          "code": "afba144a83"
+        },
+        {
+          "id": 20986,
+          "name": "Перенос номера",
+          "code": "efc7d8c7de"
+        },
+        {
+          "id": 30775,
+          "name": "Двойные бонусные мили с картой S7 от T-Bank",
+          "code": "4c27fb4850"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 1
   },
   {
     "site_url": "https://sbermobile.ru/",

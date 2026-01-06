@@ -1,16 +1,10 @@
 [
   {
-    "site_url": "https://www.floraexpress.ru/",
-    "name": "Floraexpress",
-    "img": "platform/15218.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/6/15218-4343911c873f090f.svg",
+    "site_url": "https://www.cotosen.com/",
+    "name": "Cotosen WW",
+    "img": "platform/26821.png",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/11/17/26821-760d33b232b51b31.png",
     "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
       {
         "name": "Hobby & Stationery",
         "id": 89,
@@ -23,8 +17,36 @@
         }
       },
       {
-        "name": "Gifts & Flowers",
-        "id": 72,
+        "name": "Marketplaces (including Chinese Stores)",
+        "id": 96,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Sports & Outdoor",
+        "id": 85,
         "language": "en",
         "parent": {
           "name": "Online stores",
@@ -34,7 +56,7 @@
         }
       }
     ],
-    "id": 15218,
+    "id": 26821,
     "category": {
       "name": "Hobby & Stationery",
       "id": 89,
@@ -47,33 +69,99 @@
       }
     },
     "affiliate": {
-      "goto_link": "https://ujhjj.com/g/bg71l7yp655af0702a27c1e2b709c0/?erid=MvGzQC98w3Z1gMq1kwrGzNyN",
+      "goto_link": "https://gndrz.com/g/7ez2cndy8k5af0702a27fe9cf762a5/",
       "landings": [
         {
-          "id": 1411,
-          "name": "Женский взгляд на мужские подвиги 8 Марта",
-          "code": "1e11358a74"
+          "id": 31493,
+          "name": "New Year Sale",
+          "code": "0451cdc7dc"
         },
         {
-          "id": 1410,
-          "name": "Оформление идеальных свадеб",
-          "code": "02f509ea17"
+          "id": 31085,
+          "name": "Cotosen",
+          "code": "82105f332e"
         },
         {
-          "id": 4785,
-          "name": "Букеты на 8 марта",
-          "code": "1e722d9a22"
+          "id": 31086,
+          "name": "Fall winter 2025",
+          "code": "ca4b91c5ea"
         },
         {
-          "id": 1409,
-          "name": "Цветочный клуб Флора Экспресс",
-          "code": "81bdda2e92"
+          "id": 31358,
+          "name": "Black Friday sale",
+          "code": "030f45d7cd"
         }
       ],
       "cashback_link_data": null
     },
-    "discountCount": 0,
-    "couponCount": 1
+    "discountCount": 4,
+    "couponCount": 4
+  },
+  {
+    "site_url": "https://corsair.com",
+    "name": "Corsair WW",
+    "img": "platform/130741.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/10/27/130741-4902ff414d2f0ee9.svg",
+    "categories": [
+      {
+        "name": "Hobby & Stationery",
+        "id": 89,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Smart Home",
+        "id": 198,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Household Appliances & Electronics",
+        "id": 65,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 130741,
+    "category": {
+      "name": "Hobby & Stationery",
+      "id": 89,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://ntzgd.com/g/hpl2levo9f5af0702a2745cfa0a3aa/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 44,
+    "couponCount": 4
   },
   {
     "site_url": "https://www.mann-ivanov-ferber.ru/",
@@ -337,6 +425,82 @@
     "couponCount": 0
   },
   {
+    "site_url": "https://www.floraexpress.ru/",
+    "name": "Floraexpress",
+    "img": "platform/15218.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/6/15218-4343911c873f090f.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Hobby & Stationery",
+        "id": 89,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Gifts & Flowers",
+        "id": 72,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 15218,
+    "category": {
+      "name": "Hobby & Stationery",
+      "id": 89,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://ujhjj.com/g/bg71l7yp655af0702a27c1e2b709c0/?erid=MvGzQC98w3Z1gMq1kwrGzNyN",
+      "landings": [
+        {
+          "id": 1411,
+          "name": "Женский взгляд на мужские подвиги 8 Марта",
+          "code": "1e11358a74"
+        },
+        {
+          "id": 1410,
+          "name": "Оформление идеальных свадеб",
+          "code": "02f509ea17"
+        },
+        {
+          "id": 4785,
+          "name": "Букеты на 8 марта",
+          "code": "1e722d9a22"
+        },
+        {
+          "id": 1409,
+          "name": "Цветочный клуб Флора Экспресс",
+          "code": "81bdda2e92"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 1
+  },
+  {
     "site_url": "https://www.zavvi.com/",
     "name": "Zavvi Many Geos",
     "img": "platform/23405.svg",
@@ -379,104 +543,6 @@
     },
     "discountCount": 0,
     "couponCount": 0
-  },
-  {
-    "site_url": "https://www.cotosen.com/",
-    "name": "Cotosen WW",
-    "img": "platform/26821.png",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2021/11/17/26821-760d33b232b51b31.png",
-    "categories": [
-      {
-        "name": "Hobby & Stationery",
-        "id": 89,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Marketplaces (including Chinese Stores)",
-        "id": 96,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Sports & Outdoor",
-        "id": 85,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 26821,
-    "category": {
-      "name": "Hobby & Stationery",
-      "id": 89,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://gndrz.com/g/7ez2cndy8k5af0702a27fe9cf762a5/",
-      "landings": [
-        {
-          "id": 31493,
-          "name": "New Year Sale",
-          "code": "0451cdc7dc"
-        },
-        {
-          "id": 31085,
-          "name": "Cotosen",
-          "code": "82105f332e"
-        },
-        {
-          "id": 31086,
-          "name": "Fall winter 2025",
-          "code": "ca4b91c5ea"
-        },
-        {
-          "id": 31358,
-          "name": "Black Friday sale",
-          "code": "030f45d7cd"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 4,
-    "couponCount": 4
   },
   {
     "site_url": "https://beurer-belarus.by/",
@@ -582,72 +648,6 @@
     },
     "discountCount": 0,
     "couponCount": 0
-  },
-  {
-    "site_url": "https://corsair.com",
-    "name": "Corsair WW",
-    "img": "platform/130741.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/10/27/130741-4902ff414d2f0ee9.svg",
-    "categories": [
-      {
-        "name": "Hobby & Stationery",
-        "id": 89,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Smart Home",
-        "id": 198,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Household Appliances & Electronics",
-        "id": 65,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 130741,
-    "category": {
-      "name": "Hobby & Stationery",
-      "id": 89,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://ntzgd.com/g/hpl2levo9f5af0702a2745cfa0a3aa/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 44,
-    "couponCount": 4
   },
   {
     "site_url": "https://maxmassage.ru/",

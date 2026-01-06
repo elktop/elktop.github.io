@@ -1,5 +1,99 @@
 [
   {
+    "site_url": "https://multilogin.com/",
+    "name": "Multilogin WW",
+    "img": "platform/99414.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/6/14/99414-1f7b45d4a02de06a.svg",
+    "categories": [
+      {
+        "name": "Jobs and freelance",
+        "id": 257,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "IT Services & Soft",
+        "id": 122,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Movies & Music",
+        "id": 203,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "News and Media",
+        "id": 310,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Other Services",
+        "id": 93,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 99414,
+    "category": {
+      "name": "Jobs and freelance",
+      "id": 257,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://kpwfp.com/g/jcy22p74ge5af0702a2740e692d5b7/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 4
+  },
+  {
     "site_url": "https://vkusvill.ru/job/vacancys/",
     "name": "Вкусвилл HR",
     "img": "platform/27558.png",
@@ -147,99 +241,5 @@
     },
     "discountCount": 0,
     "couponCount": 0
-  },
-  {
-    "site_url": "https://multilogin.com/",
-    "name": "Multilogin WW",
-    "img": "platform/99414.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/6/14/99414-1f7b45d4a02de06a.svg",
-    "categories": [
-      {
-        "name": "Jobs and freelance",
-        "id": 257,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "IT Services & Soft",
-        "id": 122,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Movies & Music",
-        "id": 203,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "News and Media",
-        "id": 310,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Other Services",
-        "id": 93,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Smart tracking programs",
-        "id": 382,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 99414,
-    "category": {
-      "name": "Jobs and freelance",
-      "id": 257,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://kpwfp.com/g/jcy22p74ge5af0702a2740e692d5b7/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 4
   }
 ]

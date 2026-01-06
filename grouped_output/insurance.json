@@ -1,49 +1,5 @@
 [
   {
-    "site_url": "https://www.maxlifeinsurance.com/",
-    "name": "MaxLife Insurance [CPS] IN",
-    "img": "platform/22352.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/8/2/22352-e7737c976b8b6527.svg",
-    "categories": [
-      {
-        "name": "Insurance",
-        "id": 37,
-        "language": "en",
-        "parent": {
-          "name": "Financial Programs",
-          "id": 7,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Financial Programs",
-        "id": 7,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 22352,
-    "category": {
-      "name": "Insurance",
-      "id": 37,
-      "language": "en",
-      "parent": {
-        "name": "Financial Programs",
-        "id": 7,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://tjzuh.com/g/sbim6rqhhn5af0702a2733bd52e9ca/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 0
-  },
-  {
     "site_url": "https://ektatraveling.com",
     "name": "EKTA Traveling Insurance Any GEOs",
     "img": "platform/23632.svg",
@@ -198,6 +154,50 @@
       "cashback_link_data": null
     },
     "discountCount": 1,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://www.maxlifeinsurance.com/",
+    "name": "MaxLife Insurance [CPS] IN",
+    "img": "platform/22352.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/8/2/22352-e7737c976b8b6527.svg",
+    "categories": [
+      {
+        "name": "Insurance",
+        "id": 37,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 22352,
+    "category": {
+      "name": "Insurance",
+      "id": 37,
+      "language": "en",
+      "parent": {
+        "name": "Financial Programs",
+        "id": 7,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://tjzuh.com/g/sbim6rqhhn5af0702a2733bd52e9ca/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
     "couponCount": 0
   },
   {

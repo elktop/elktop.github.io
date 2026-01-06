@@ -1,5 +1,121 @@
 [
   {
+    "site_url": "https://koleso.ru/",
+    "name": "Колесо  RU",
+    "img": "platform/110058.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/9/23/110058-c2a244ec686faf39.svg",
+    "categories": [
+      {
+        "name": "Cars & Bikes",
+        "id": 196,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Car & Bike Accessories",
+        "id": 92,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "New Year Festival 2026",
+        "id": 378,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 110058,
+    "category": {
+      "name": "Cars & Bikes",
+      "id": 196,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://uhtkc.com/g/qm1sbotqit5af0702a27adffb7e431/?erid=2bL9aMPo2e49hMef4piUAtLNAk",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 4,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://rossko.ru",
+    "name": "Rossko RU",
+    "img": "platform/117397.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/12/23/117397-244d97f518fc9d3b.svg",
+    "categories": [
+      {
+        "name": "Cars & Bikes",
+        "id": 196,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Car & Bike Accessories",
+        "id": 92,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 117397,
+    "category": {
+      "name": "Cars & Bikes",
+      "id": 196,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://ujhjj.com/g/on8kt46xpp5af0702a27648980e865/?erid=2bL9aMPo2e49hMef4piUd4V2My",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 1
+  },
+  {
     "site_url": "https://globaldrive.ru/",
     "name": "Globaldrive [CPS] RU",
     "img": "platform/26101.jpg",
@@ -235,121 +351,5 @@
     },
     "discountCount": 0,
     "couponCount": 0
-  },
-  {
-    "site_url": "https://koleso.ru/",
-    "name": "Колесо  RU",
-    "img": "platform/110058.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/9/23/110058-c2a244ec686faf39.svg",
-    "categories": [
-      {
-        "name": "Cars & Bikes",
-        "id": 196,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Car & Bike Accessories",
-        "id": 92,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "New Year Festival 2026",
-        "id": 378,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 110058,
-    "category": {
-      "name": "Cars & Bikes",
-      "id": 196,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://uhtkc.com/g/qm1sbotqit5af0702a27adffb7e431/?erid=2bL9aMPo2e49hMef4piUAtLNAk",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 4,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://rossko.ru",
-    "name": "Rossko RU",
-    "img": "platform/117397.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/12/23/117397-244d97f518fc9d3b.svg",
-    "categories": [
-      {
-        "name": "Cars & Bikes",
-        "id": 196,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Car & Bike Accessories",
-        "id": 92,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 117397,
-    "category": {
-      "name": "Cars & Bikes",
-      "id": 196,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://ujhjj.com/g/on8kt46xpp5af0702a27648980e865/?erid=2bL9aMPo2e49hMef4piUd4V2My",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 1
   }
 ]

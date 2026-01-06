@@ -1,55 +1,5 @@
 [
   {
-    "site_url": "https://sprinthost.ru/",
-    "name": "Sprinthost",
-    "img": "platform/16026.png",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2021/2/2/16026-1ccb0d7ff2844de4.png",
-    "categories": [
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "IT Services & Soft",
-        "id": 122,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 16026,
-    "category": {
-      "name": "IT Services & Soft",
-      "id": 122,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://dkfrh.com/g/mxmtlx74bh5af0702a27b183dfeeb8/?erid=MvGzQC98w3Z1gMq1kxXQnm7r",
-      "landings": [
-        {
-          "id": 30926,
-          "name": "Премиум",
-          "code": "0730467c4a"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 2,
-    "couponCount": 0
-  },
-  {
     "site_url": "https://depositphotos.com/",
     "name": "Depositphotos [CPS] WW",
     "img": "platform/17314.svg",
@@ -122,66 +72,6 @@
     "couponCount": 2
   },
   {
-    "site_url": "https://nordvpn.com/",
-    "name": "NordVPN WW",
-    "img": "platform/18867.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/9/18867-a419856a8d70eb0a.svg",
-    "categories": [
-      {
-        "name": "IT Services & Soft",
-        "id": 122,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 18867,
-    "category": {
-      "name": "IT Services & Soft",
-      "id": 122,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://qwpeg.com/g/mai1uhgx165af0702a27004ed038cb/",
-      "landings": [
-        {
-          "id": 31202,
-          "name": "PT",
-          "code": "7aa5f236ef"
-        },
-        {
-          "id": 23236,
-          "name": "BR",
-          "code": "673d6bdd1a"
-        },
-        {
-          "id": 19729,
-          "name": "Для трафика из России",
-          "code": "0056417026"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 8,
-    "couponCount": 0
-  },
-  {
     "site_url": "https://adminvps.ru/",
     "name": "Adminvps",
     "img": "platform/21749.svg",
@@ -226,203 +116,6 @@
     "couponCount": 2
   },
   {
-    "site_url": "https://www.norton.com/",
-    "name": "Norton [CPS] Many Geos",
-    "img": "platform/22143.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/13/22143-49b05d631dd8a6ff.svg",
-    "categories": [
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "IT Services & Soft",
-        "id": 122,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "B2B Online Services",
-        "id": 206,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 22143,
-    "category": {
-      "name": "IT Services & Soft",
-      "id": 122,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://tjzuh.com/g/4nnqeux1te5af0702a2711184c9701/",
-      "landings": [
-        {
-          "id": 10924,
-          "name": "India only Norton 360 Deluxe product page",
-          "code": "3923ba2f30"
-        },
-        {
-          "id": 10923,
-          "name": "Norton Secure VPN product page",
-          "code": "0c673f8d0d"
-        },
-        {
-          "id": 10313,
-          "name": "All Product Page",
-          "code": "5120c17245"
-        },
-        {
-          "id": 10310,
-          "name": "Homepage",
-          "code": "9ab49f75db"
-        },
-        {
-          "id": 10312,
-          "name": "Norton 360 Premium product page",
-          "code": "275b1a4099"
-        },
-        {
-          "id": 10925,
-          "name": "India only Customised Affiliate LP",
-          "code": "822ff3f615"
-        },
-        {
-          "id": 11543,
-          "name": "Norton Mobile Security for iOS",
-          "code": "ff2bb62153"
-        },
-        {
-          "id": 12514,
-          "name": "Norton 360 for gamers",
-          "code": "cef92faa09"
-        },
-        {
-          "id": 10920,
-          "name": "Flagship Deal Products and Services LP",
-          "code": "dcebb547f8"
-        },
-        {
-          "id": 13943,
-          "name": "Norton Mobile Security for android",
-          "code": "96eaa772c1"
-        },
-        {
-          "id": 10309,
-          "name": "Norton 360 page",
-          "code": "8abdfebbd4"
-        },
-        {
-          "id": 10922,
-          "name": "Norton 360 Standard product page",
-          "code": "76776d3339"
-        },
-        {
-          "id": 10921,
-          "name": "Norton AntiVirus Plus product page",
-          "code": "9861ac2b80"
-        },
-        {
-          "id": 10311,
-          "name": "360 Deluxe product page",
-          "code": "312a21f4e2"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://www.cloudways.com/",
-    "name": "Cloudways WW",
-    "img": "platform/23427.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/6/23427-be3b38fa08f3d4b2.svg",
-    "categories": [
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "IT Services & Soft",
-        "id": 122,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Smart tracking programs",
-        "id": 382,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 23427,
-    "category": {
-      "name": "IT Services & Soft",
-      "id": 122,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://bednari.com/g/veijema2me5af0702a27a1c426e0e9/",
-      "landings": [
-        {
-          "id": 26144,
-          "name": "Cloudways Autonomous",
-          "code": "915ee06e74"
-        },
-        {
-          "id": 31260,
-          "name": "Magento hosting",
-          "code": "45aac37f10"
-        },
-        {
-          "id": 31261,
-          "name": "WordPress hosting",
-          "code": "0fcbc3fb95"
-        },
-        {
-          "id": 31262,
-          "name": "Laravel hosting",
-          "code": "e89b7e05c8"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 14
-  },
-  {
     "site_url": "https://www.clevguard.com/",
     "name": "Clevguard WW",
     "img": "platform/24655.png",
@@ -465,189 +158,6 @@
     },
     "discountCount": 18,
     "couponCount": 2
-  },
-  {
-    "site_url": "https://turbovpn.com/",
-    "name": "TurboVPN WW",
-    "img": "platform/25249.png",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2021/9/24/25249-37aa6fea5015e46e.png",
-    "categories": [
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "IT Services & Soft",
-        "id": 122,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Smart tracking programs",
-        "id": 382,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 25249,
-    "category": {
-      "name": "IT Services & Soft",
-      "id": 122,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://grfpr.com/g/exe221unkp5af0702a27ddf84d4c0b/",
-      "landings": [
-        {
-          "id": 30329,
-          "name": "TurboVPN",
-          "code": "7c0f3e5fcc"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 4,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://adheart.me/",
-    "name": "Adheart",
-    "img": "platform/27304.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/11/13/27304-3352b694253c3d58.svg",
-    "categories": [
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "IT Services & Soft",
-        "id": 122,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Smart Tracking_UA",
-        "id": 379,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Smart tracking programs",
-        "id": 382,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 27304,
-    "category": {
-      "name": "IT Services & Soft",
-      "id": 122,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://gndrz.com/g/abtozfz0rw5af0702a27af5f4d982e/",
-      "landings": [
-        {
-          "id": 30235,
-          "name": "Rates",
-          "code": "4d687bbb2c"
-        },
-        {
-          "id": 30236,
-          "name": "About",
-          "code": "fb53f8ff4e"
-        },
-        {
-          "id": 24672,
-          "name": "РУ язык",
-          "code": "848d062837"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://business.yandex.ru/",
-    "name": "Яндекс Бизнес [CPS] RU",
-    "img": "platform/27641.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/5/31/27641-00705ef8d8a6b438.svg",
-    "categories": [
-      {
-        "name": "IT Services & Soft",
-        "id": 122,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "B2B Online Services",
-        "id": 206,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 27641,
-    "category": {
-      "name": "IT Services & Soft",
-      "id": 122,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://bednari.com/g/tsur35yw0t5af0702a27ff277dce71/?erid=5jtCeReNwxHpfQTEuVz11H1",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 3
   },
   {
     "site_url": "https://www.iolo.com/",
@@ -723,6 +233,266 @@
     },
     "discountCount": 2,
     "couponCount": 4
+  },
+  {
+    "site_url": "https://www.capcut.com/",
+    "name": "Capcut Many Geos",
+    "img": "platform/115530.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/11/14/115530-b18d213fb2763865.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "IT Services & Soft",
+        "id": 122,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 115530,
+    "category": {
+      "name": "IT Services & Soft",
+      "id": 122,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://vxrlm.com/g/yql92s6edn5af0702a27a2384364af/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 2,
+    "couponCount": 2
+  },
+  {
+    "site_url": "https://360.yandex.ru/business/tariff/",
+    "name": "Яндекс 360 для бизнеса RU",
+    "img": "platform/122340.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/3/7/122340-c8b4c68d7e5ae20a.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "IT Services & Soft",
+        "id": 122,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 122340,
+    "category": {
+      "name": "IT Services & Soft",
+      "id": 122,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://plrvq.com/g/fvw4twp27u5af0702a2744555227c3/?erid=2bL9aMPo2e49hMef4piV5Bf3ZR",
+      "landings": [
+        {
+          "id": 31414,
+          "name": "Домен в подарок в тарифах Яндекс 360 для бизнеса на год",
+          "code": "4f272a59dd"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 1,
+    "couponCount": 1
+  },
+  {
+    "site_url": "https://sprinthost.ru/",
+    "name": "Sprinthost",
+    "img": "platform/16026.png",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/2/2/16026-1ccb0d7ff2844de4.png",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "IT Services & Soft",
+        "id": 122,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 16026,
+    "category": {
+      "name": "IT Services & Soft",
+      "id": 122,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://dkfrh.com/g/mxmtlx74bh5af0702a27b183dfeeb8/?erid=MvGzQC98w3Z1gMq1kxXQnm7r",
+      "landings": [
+        {
+          "id": 30926,
+          "name": "Премиум",
+          "code": "0730467c4a"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 2,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://nordvpn.com/",
+    "name": "NordVPN WW",
+    "img": "platform/18867.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/9/18867-a419856a8d70eb0a.svg",
+    "categories": [
+      {
+        "name": "IT Services & Soft",
+        "id": 122,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 18867,
+    "category": {
+      "name": "IT Services & Soft",
+      "id": 122,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://qwpeg.com/g/mai1uhgx165af0702a27004ed038cb/",
+      "landings": [
+        {
+          "id": 31202,
+          "name": "PT",
+          "code": "7aa5f236ef"
+        },
+        {
+          "id": 23236,
+          "name": "BR",
+          "code": "673d6bdd1a"
+        },
+        {
+          "id": 19729,
+          "name": "Для трафика из России",
+          "code": "0056417026"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 8,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://turbovpn.com/",
+    "name": "TurboVPN WW",
+    "img": "platform/25249.png",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/9/24/25249-37aa6fea5015e46e.png",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "IT Services & Soft",
+        "id": 122,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 25249,
+    "category": {
+      "name": "IT Services & Soft",
+      "id": 122,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://grfpr.com/g/exe221unkp5af0702a27ddf84d4c0b/",
+      "landings": [
+        {
+          "id": 30329,
+          "name": "TurboVPN",
+          "code": "7c0f3e5fcc"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 4,
+    "couponCount": 0
   },
   {
     "site_url": "https://moskva.mts.ru/personal/dlya-doma/checkconnect/moskva/all-mts",
@@ -809,277 +579,6 @@
       "cashback_link_data": null
     },
     "discountCount": 4,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://www.f-secure.com/",
-    "name": "F-secure WW",
-    "img": "platform/29036.png",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2022/7/6/29036-93bcac73b1594949.png",
-    "categories": [
-      {
-        "name": "IT Services & Soft",
-        "id": 122,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 29036,
-    "category": {
-      "name": "IT Services & Soft",
-      "id": 122,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://thevospad.com/g/kzooqy4r6i5af0702a2761840cf25b/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://www.purevpn.com/",
-    "name": "PureVPN Many Geos",
-    "img": "platform/34688.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/30/34688-0dcd013a50a53b6e.svg",
-    "categories": [
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "IT Services & Soft",
-        "id": 122,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Other Services",
-        "id": 93,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 34688,
-    "category": {
-      "name": "IT Services & Soft",
-      "id": 122,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://plrvq.com/g/ayvzzawv405af0702a27dd63dd688c/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://pro32.com",
-    "name": "Pro32.com",
-    "img": "platform/38329.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/2/38329-adb321875bef3220.svg",
-    "categories": [
-      {
-        "name": "IT Services & Soft",
-        "id": 122,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Back to school 2025",
-        "id": 371,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "New Year Festival 2026",
-        "id": 378,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 38329,
-    "category": {
-      "name": "IT Services & Soft",
-      "id": 122,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://dhwnh.com/g/ifnfdpbjf35af0702a27218237fc8f/?erid=2bL9aMPo2e49hMef4pfzYr9Mwx",
-      "landings": [
-        {
-          "id": 28532,
-          "name": "Лендинг BY",
-          "code": "700887ff62"
-        },
-        {
-          "id": 28893,
-          "name": "Легкий антивирус",
-          "code": "a66440f733"
-        },
-        {
-          "id": 29672,
-          "name": "Скидка 10 процентов на антивирус для рабочих станций и файловых серверов при заказе через интернет-магазин PRO32",
-          "code": "b0933ac6d2"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 1
-  },
-  {
-    "site_url": "https://hide.mn/",
-    "name": "hidemyname vpn",
-    "img": "platform/40315.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/9/30/40315-e2a9d12c9b7cab20.svg",
-    "categories": [
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "IT Services & Soft",
-        "id": 122,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Smart tracking programs",
-        "id": 382,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 40315,
-    "category": {
-      "name": "IT Services & Soft",
-      "id": 122,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://codeaven.com/g/d6ig17yj385af0702a27cfba9fca8a/",
-      "landings": [
-        {
-          "id": 28661,
-          "name": "Domain RU 2",
-          "code": "7649acc696"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://chadgpt.ru",
-    "name": "",
-    "img": "platform/44880.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/11/28/44880-59f8aef44d7aa960.svg",
-    "categories": [
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "IT Services & Soft",
-        "id": 122,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 44880,
-    "category": {
-      "name": "IT Services & Soft",
-      "id": 122,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://grfpr.com/g/34g1j74pfv5af0702a27aa3255da32/?erid=2bL9aMPo2e49hMef4pgVRsMGnf",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
     "couponCount": 0
   },
   {
@@ -1197,266 +696,6 @@
     },
     "discountCount": 2,
     "couponCount": 0
-  },
-  {
-    "site_url": "https://www.lunaproxy.com/",
-    "name": "Lunaproxy WW",
-    "img": "platform/93854.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/3/28/93854-60c5b35acb3b8a84.svg",
-    "categories": [
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "IT Services & Soft",
-        "id": 122,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "News and Media",
-        "id": 310,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Other Services",
-        "id": 93,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Smart tracking programs",
-        "id": 382,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 93854,
-    "category": {
-      "name": "IT Services & Soft",
-      "id": 122,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://vxrlm.com/g/jqzp7g4r0b5af0702a27bb83e0e1ca/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://pcsalesonline.com",
-    "name": "PC Sales Online Many GEOs",
-    "img": "platform/104545.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/26/104545-f77886878dbbc9c1.svg",
-    "categories": [
-      {
-        "name": "IT Services & Soft",
-        "id": 122,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 104545,
-    "category": {
-      "name": "IT Services & Soft",
-      "id": 122,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://ewwhk.com/g/fwsqlvbm305af0702a27bec73bd971/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://www.homestyler.com/",
-    "name": "Homestyler WW",
-    "img": "platform/114701.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/9/114701-eaaa963c5e2ae236.svg",
-    "categories": [
-      {
-        "name": "IT Services & Soft",
-        "id": 122,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Smart tracking programs",
-        "id": 382,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 114701,
-    "category": {
-      "name": "IT Services & Soft",
-      "id": 122,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://cafxq.com/g/swlngq9rrz5af0702a2728a65238d7/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 2
-  },
-  {
-    "site_url": "https://www.capcut.com/",
-    "name": "Capcut Many Geos",
-    "img": "platform/115530.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/11/14/115530-b18d213fb2763865.svg",
-    "categories": [
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "IT Services & Soft",
-        "id": 122,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 115530,
-    "category": {
-      "name": "IT Services & Soft",
-      "id": 122,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://vxrlm.com/g/yql92s6edn5af0702a27a2384364af/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 2,
-    "couponCount": 2
-  },
-  {
-    "site_url": "https://www.coohom.com/",
-    "name": "Coohom WW",
-    "img": "platform/116972.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/2/20/116972-52e2df1636573d22.svg",
-    "categories": [
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "IT Services & Soft",
-        "id": 122,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Smart tracking programs",
-        "id": 382,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 116972,
-    "category": {
-      "name": "IT Services & Soft",
-      "id": 122,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://uuwgc.com/g/c4x41k7tdt5af0702a27c6b4dfe60d/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 10
   },
   {
     "site_url": "https://www.wps.com/",
@@ -1589,6 +828,348 @@
     "couponCount": 0
   },
   {
+    "site_url": "https://vigbo.com",
+    "name": "Vigbo RU",
+    "img": "platform/130820.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/7/3/130820-90ef8f0a4ab07715.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "IT Services & Soft",
+        "id": 122,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 130820,
+    "category": {
+      "name": "IT Services & Soft",
+      "id": 122,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://ogsib.com/g/psf0aesot25af0702a27a993e75390/?erid=2bL9aMPo2e49hMef4rqUKy1A7L",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 1,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://www.cloudways.com/",
+    "name": "Cloudways WW",
+    "img": "platform/23427.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/6/23427-be3b38fa08f3d4b2.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "IT Services & Soft",
+        "id": 122,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 23427,
+    "category": {
+      "name": "IT Services & Soft",
+      "id": 122,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://bednari.com/g/veijema2me5af0702a27a1c426e0e9/",
+      "landings": [
+        {
+          "id": 26144,
+          "name": "Cloudways Autonomous",
+          "code": "915ee06e74"
+        },
+        {
+          "id": 31260,
+          "name": "Magento hosting",
+          "code": "45aac37f10"
+        },
+        {
+          "id": 31261,
+          "name": "WordPress hosting",
+          "code": "0fcbc3fb95"
+        },
+        {
+          "id": 31262,
+          "name": "Laravel hosting",
+          "code": "e89b7e05c8"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 14
+  },
+  {
+    "site_url": "https://business.yandex.ru/",
+    "name": "Яндекс Бизнес [CPS] RU",
+    "img": "platform/27641.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/5/31/27641-00705ef8d8a6b438.svg",
+    "categories": [
+      {
+        "name": "IT Services & Soft",
+        "id": 122,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "B2B Online Services",
+        "id": 206,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 27641,
+    "category": {
+      "name": "IT Services & Soft",
+      "id": 122,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://bednari.com/g/tsur35yw0t5af0702a27ff277dce71/?erid=5jtCeReNwxHpfQTEuVz11H1",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 3
+  },
+  {
+    "site_url": "https://pro32.com",
+    "name": "Pro32.com",
+    "img": "platform/38329.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/2/38329-adb321875bef3220.svg",
+    "categories": [
+      {
+        "name": "IT Services & Soft",
+        "id": 122,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Back to school 2025",
+        "id": 371,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "New Year Festival 2026",
+        "id": 378,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 38329,
+    "category": {
+      "name": "IT Services & Soft",
+      "id": 122,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://dhwnh.com/g/ifnfdpbjf35af0702a27218237fc8f/?erid=2bL9aMPo2e49hMef4pfzYr9Mwx",
+      "landings": [
+        {
+          "id": 28532,
+          "name": "Лендинг BY",
+          "code": "700887ff62"
+        },
+        {
+          "id": 28893,
+          "name": "Легкий антивирус",
+          "code": "a66440f733"
+        },
+        {
+          "id": 29672,
+          "name": "Скидка 10 процентов на антивирус для рабочих станций и файловых серверов при заказе через интернет-магазин PRO32",
+          "code": "b0933ac6d2"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 1
+  },
+  {
+    "site_url": "https://www.homestyler.com/",
+    "name": "Homestyler WW",
+    "img": "platform/114701.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/9/114701-eaaa963c5e2ae236.svg",
+    "categories": [
+      {
+        "name": "IT Services & Soft",
+        "id": 122,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 114701,
+    "category": {
+      "name": "IT Services & Soft",
+      "id": 122,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://cafxq.com/g/swlngq9rrz5af0702a2728a65238d7/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 2
+  },
+  {
+    "site_url": "https://www.coohom.com/",
+    "name": "Coohom WW",
+    "img": "platform/116972.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/2/20/116972-52e2df1636573d22.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "IT Services & Soft",
+        "id": 122,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 116972,
+    "category": {
+      "name": "IT Services & Soft",
+      "id": 122,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://uuwgc.com/g/c4x41k7tdt5af0702a27c6b4dfe60d/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 10
+  },
+  {
     "site_url": "https://www.thordata.com/",
     "name": "Thordata WW",
     "img": "platform/120432.svg",
@@ -1637,56 +1218,6 @@
     },
     "discountCount": 0,
     "couponCount": 2
-  },
-  {
-    "site_url": "https://360.yandex.ru/business/tariff/",
-    "name": "Яндекс 360 для бизнеса RU",
-    "img": "platform/122340.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/3/7/122340-c8b4c68d7e5ae20a.svg",
-    "categories": [
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "IT Services & Soft",
-        "id": 122,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 122340,
-    "category": {
-      "name": "IT Services & Soft",
-      "id": 122,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://plrvq.com/g/fvw4twp27u5af0702a2744555227c3/?erid=2bL9aMPo2e49hMef4piV5Bf3ZR",
-      "landings": [
-        {
-          "id": 31414,
-          "name": "Домен в подарок в тарифах Яндекс 360 для бизнеса на год",
-          "code": "4f272a59dd"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 1,
-    "couponCount": 1
   },
   {
     "site_url": "https://2ndnumber.tel/",
@@ -1870,111 +1401,6 @@
     "couponCount": 6
   },
   {
-    "site_url": "https://vigbo.com",
-    "name": "Vigbo RU",
-    "img": "platform/130820.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/7/3/130820-90ef8f0a4ab07715.svg",
-    "categories": [
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "IT Services & Soft",
-        "id": 122,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 130820,
-    "category": {
-      "name": "IT Services & Soft",
-      "id": 122,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://ogsib.com/g/psf0aesot25af0702a27a993e75390/?erid=2bL9aMPo2e49hMef4rqUKy1A7L",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 1,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://boardmix.com",
-    "name": "Boardmix WW",
-    "img": "platform/131144.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/6/25/131144-a0c2e90c6a9ea7ec.svg",
-    "categories": [
-      {
-        "name": "IT Services & Soft",
-        "id": 122,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Online Education",
-        "id": 98,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Smart tracking programs",
-        "id": 382,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 131144,
-    "category": {
-      "name": "IT Services & Soft",
-      "id": 122,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://axavl.com/g/3tevoaw5qq5af0702a27d12233f6f4/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 0
-  },
-  {
     "site_url": "https://prohoster.info",
     "name": "ProHoster WW",
     "img": "platform/132842.svg",
@@ -2092,50 +1518,6 @@
     "couponCount": 2
   },
   {
-    "site_url": "https://speech2text.ru/",
-    "name": "Speech2Text RU",
-    "img": "platform/138313.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/9/19/138313-64d350702d6136c4.svg",
-    "categories": [
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "IT Services & Soft",
-        "id": 122,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 138313,
-    "category": {
-      "name": "IT Services & Soft",
-      "id": 122,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://twnfz.com/g/yj93eu2e4a5af0702a27f83e4af44e/?erid=2bL9aMPo2e49hMef4rqUfPkRKi",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 0
-  },
-  {
     "site_url": "https://kion.ru",
     "name": "Kion RU",
     "img": "platform/144071.svg",
@@ -2178,5 +1560,623 @@
     },
     "discountCount": 0,
     "couponCount": 1
+  },
+  {
+    "site_url": "https://www.norton.com/",
+    "name": "Norton [CPS] Many Geos",
+    "img": "platform/22143.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/13/22143-49b05d631dd8a6ff.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "IT Services & Soft",
+        "id": 122,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "B2B Online Services",
+        "id": 206,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 22143,
+    "category": {
+      "name": "IT Services & Soft",
+      "id": 122,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://tjzuh.com/g/4nnqeux1te5af0702a2711184c9701/",
+      "landings": [
+        {
+          "id": 10924,
+          "name": "India only Norton 360 Deluxe product page",
+          "code": "3923ba2f30"
+        },
+        {
+          "id": 10923,
+          "name": "Norton Secure VPN product page",
+          "code": "0c673f8d0d"
+        },
+        {
+          "id": 10313,
+          "name": "All Product Page",
+          "code": "5120c17245"
+        },
+        {
+          "id": 10310,
+          "name": "Homepage",
+          "code": "9ab49f75db"
+        },
+        {
+          "id": 10312,
+          "name": "Norton 360 Premium product page",
+          "code": "275b1a4099"
+        },
+        {
+          "id": 10925,
+          "name": "India only Customised Affiliate LP",
+          "code": "822ff3f615"
+        },
+        {
+          "id": 11543,
+          "name": "Norton Mobile Security for iOS",
+          "code": "ff2bb62153"
+        },
+        {
+          "id": 12514,
+          "name": "Norton 360 for gamers",
+          "code": "cef92faa09"
+        },
+        {
+          "id": 10920,
+          "name": "Flagship Deal Products and Services LP",
+          "code": "dcebb547f8"
+        },
+        {
+          "id": 13943,
+          "name": "Norton Mobile Security for android",
+          "code": "96eaa772c1"
+        },
+        {
+          "id": 10309,
+          "name": "Norton 360 page",
+          "code": "8abdfebbd4"
+        },
+        {
+          "id": 10922,
+          "name": "Norton 360 Standard product page",
+          "code": "76776d3339"
+        },
+        {
+          "id": 10921,
+          "name": "Norton AntiVirus Plus product page",
+          "code": "9861ac2b80"
+        },
+        {
+          "id": 10311,
+          "name": "360 Deluxe product page",
+          "code": "312a21f4e2"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://adheart.me/",
+    "name": "Adheart",
+    "img": "platform/27304.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/11/13/27304-3352b694253c3d58.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "IT Services & Soft",
+        "id": 122,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Smart Tracking_UA",
+        "id": 379,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 27304,
+    "category": {
+      "name": "IT Services & Soft",
+      "id": 122,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://gndrz.com/g/abtozfz0rw5af0702a27af5f4d982e/",
+      "landings": [
+        {
+          "id": 30235,
+          "name": "Rates",
+          "code": "4d687bbb2c"
+        },
+        {
+          "id": 30236,
+          "name": "About",
+          "code": "fb53f8ff4e"
+        },
+        {
+          "id": 24672,
+          "name": "РУ язык",
+          "code": "848d062837"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://www.f-secure.com/",
+    "name": "F-secure WW",
+    "img": "platform/29036.png",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2022/7/6/29036-93bcac73b1594949.png",
+    "categories": [
+      {
+        "name": "IT Services & Soft",
+        "id": 122,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 29036,
+    "category": {
+      "name": "IT Services & Soft",
+      "id": 122,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://thevospad.com/g/kzooqy4r6i5af0702a2761840cf25b/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://www.purevpn.com/",
+    "name": "PureVPN Many Geos",
+    "img": "platform/34688.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/30/34688-0dcd013a50a53b6e.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "IT Services & Soft",
+        "id": 122,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Other Services",
+        "id": 93,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 34688,
+    "category": {
+      "name": "IT Services & Soft",
+      "id": 122,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://plrvq.com/g/ayvzzawv405af0702a27dd63dd688c/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://hide.mn/",
+    "name": "hidemyname vpn",
+    "img": "platform/40315.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/9/30/40315-e2a9d12c9b7cab20.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "IT Services & Soft",
+        "id": 122,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 40315,
+    "category": {
+      "name": "IT Services & Soft",
+      "id": 122,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://codeaven.com/g/d6ig17yj385af0702a27cfba9fca8a/",
+      "landings": [
+        {
+          "id": 28661,
+          "name": "Domain RU 2",
+          "code": "7649acc696"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://chadgpt.ru",
+    "name": "",
+    "img": "platform/44880.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/11/28/44880-59f8aef44d7aa960.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "IT Services & Soft",
+        "id": 122,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 44880,
+    "category": {
+      "name": "IT Services & Soft",
+      "id": 122,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://grfpr.com/g/34g1j74pfv5af0702a27aa3255da32/?erid=2bL9aMPo2e49hMef4pgVRsMGnf",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://www.lunaproxy.com/",
+    "name": "Lunaproxy WW",
+    "img": "platform/93854.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/3/28/93854-60c5b35acb3b8a84.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "IT Services & Soft",
+        "id": 122,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "News and Media",
+        "id": 310,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Other Services",
+        "id": 93,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 93854,
+    "category": {
+      "name": "IT Services & Soft",
+      "id": 122,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://vxrlm.com/g/jqzp7g4r0b5af0702a27bb83e0e1ca/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://pcsalesonline.com",
+    "name": "PC Sales Online Many GEOs",
+    "img": "platform/104545.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/26/104545-f77886878dbbc9c1.svg",
+    "categories": [
+      {
+        "name": "IT Services & Soft",
+        "id": 122,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 104545,
+    "category": {
+      "name": "IT Services & Soft",
+      "id": 122,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://ewwhk.com/g/fwsqlvbm305af0702a27bec73bd971/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://boardmix.com",
+    "name": "Boardmix WW",
+    "img": "platform/131144.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/6/25/131144-a0c2e90c6a9ea7ec.svg",
+    "categories": [
+      {
+        "name": "IT Services & Soft",
+        "id": 122,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Online Education",
+        "id": 98,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 131144,
+    "category": {
+      "name": "IT Services & Soft",
+      "id": 122,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://axavl.com/g/3tevoaw5qq5af0702a27d12233f6f4/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://speech2text.ru/",
+    "name": "Speech2Text RU",
+    "img": "platform/138313.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/9/19/138313-64d350702d6136c4.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "IT Services & Soft",
+        "id": 122,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 138313,
+    "category": {
+      "name": "IT Services & Soft",
+      "id": 122,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://twnfz.com/g/yj93eu2e4a5af0702a27f83e4af44e/?erid=2bL9aMPo2e49hMef4rqUfPkRKi",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
   }
 ]

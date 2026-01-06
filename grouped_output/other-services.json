@@ -88,10 +88,10 @@
     "couponCount": 1
   },
   {
-    "site_url": "https://www.valuedopinions.co.in/",
-    "name": "Valued Opinions [CPL] IN",
-    "img": "platform/22421.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/9/24/22421-608784be3ab75f24.svg",
+    "site_url": "https://invideo.io/",
+    "name": "InVideo WW",
+    "img": "platform/23841.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/7/17/23841-aac9b3cfa5ed901e.svg",
     "categories": [
       {
         "name": "Other Services",
@@ -111,7 +111,7 @@
         "parent": null
       }
     ],
-    "id": 22421,
+    "id": 23841,
     "category": {
       "name": "Other Services",
       "id": 93,
@@ -124,11 +124,403 @@
       }
     },
     "affiliate": {
-      "goto_link": "https://tjzuh.com/g/r5fzgky4r55af0702a270bd24e3ecf/",
+      "goto_link": "https://bednari.com/g/4pkfc5jnrj5af0702a277b589e8ac4/",
       "landings": [],
       "cashback_link_data": null
     },
-    "discountCount": 0,
+    "discountCount": 6,
+    "couponCount": 16
+  },
+  {
+    "site_url": "https://alter.ru/start",
+    "name": "Alter",
+    "img": "platform/24854.png",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/6/28/24854-b20488b3c44f1f9b.png",
+    "categories": [
+      {
+        "name": "New Year Festival 2026",
+        "id": 378,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Other Services",
+        "id": 93,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 24854,
+    "category": {
+      "name": "Other Services",
+      "id": 93,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://dkfrh.com/g/fxysja9qse5af0702a276704bcdbc1/?erid=2bL9aMPo2e49hMef4pdza1DjxN",
+      "landings": [
+        {
+          "id": 30229,
+          "name": "Сертификаты",
+          "code": "93ce2f8135"
+        },
+        {
+          "id": 30230,
+          "name": "Мини-курс отношения",
+          "code": "fbdfa0db14"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 1,
+    "couponCount": 1
+  },
+  {
+    "site_url": "https://www.edrawsoft.com/",
+    "name": "Edrawsoft WW",
+    "img": "platform/23197.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/11/28/23197-c4a21cdf5105f81b.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Other Services",
+        "id": 93,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "IT Services & Soft",
+        "id": 122,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 23197,
+    "category": {
+      "name": "Other Services",
+      "id": 93,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://naiawork.com/g/a0exmi3bfq5af0702a2771cd9bc0ec/",
+      "landings": [
+        {
+          "id": 31458,
+          "name": "Edraw Weihnachtsaktion__ Gratis KI Tokens plus 55 percent Rabatt",
+          "code": "f922ad7105"
+        },
+        {
+          "id": 27623,
+          "name": "Edraw Lifetime Bundle    EdrawMax and EdrawMind and EdrawProj",
+          "code": "ef3d9b4344"
+        },
+        {
+          "id": 27789,
+          "name": "Enjoy a 10 discount on Edrawmind with the coupon",
+          "code": "9c9118f4ad"
+        },
+        {
+          "id": 31347,
+          "name": "지금 최대 48 percent 할인 __ PDFelement를 최저가로 만나보세요",
+          "code": "fa3c0d494e"
+        },
+        {
+          "id": 31351,
+          "name": "Black Friday 2025 __ MEGA ANGEBOTE",
+          "code": "b91ff96bd7"
+        },
+        {
+          "id": 31348,
+          "name": "지금 최대 60 percent 할인__EdrawMax와 EdrawMind를 최저가로 만나보세요",
+          "code": "8be4f4b08a"
+        },
+        {
+          "id": 31349,
+          "name": "Black Friday EdrawSoft__fino al 67 percent di sconto plus AI token in omaggio",
+          "code": "736bfcb79c"
+        },
+        {
+          "id": 31350,
+          "name": "Get up to 65 percent OFF on Edraw Software for the Edraw 2025 Black Friday Special",
+          "code": "9228b0609b"
+        },
+        {
+          "id": 29995,
+          "name": "EdrawMax PPT par IA en un clic",
+          "code": "96a21ee371"
+        },
+        {
+          "id": 30138,
+          "name": "Easily turn text into stunning diagrams within PowerPoint using EdrawMax add-in. Work like a pro and save up to 90 percent of your time, valid till 2025-05-21.",
+          "code": "fde8b3765f"
+        },
+        {
+          "id": 29194,
+          "name": "Edraw 期間限定特典 景品として50,000AIトークン進呈",
+          "code": "0f23955074"
+        },
+        {
+          "id": 29251,
+          "name": "Back-to-Work Promotion Up to 37 percent off on Edraw Percent",
+          "code": "2f25fce396"
+        },
+        {
+          "id": 30060,
+          "name": "Edraw, 지금 최대 52 percent 할인 4.18t o 5.8",
+          "code": "ea1cfddc06"
+        },
+        {
+          "id": 30366,
+          "name": "Edraw Sommerschlussverkauf - 60 Prozent Rabatt - Angebot jetzt sichern. Gültig bis 3. Juli 2025",
+          "code": "250920aff7"
+        },
+        {
+          "id": 29628,
+          "name": "EdrawMind AIで アイデアを瞬時に可視化",
+          "code": "2353261ae8"
+        },
+        {
+          "id": 28088,
+          "name": "Up To 31 Percent Off To Celebrate The Release Of EdrawMind V12",
+          "code": "a754bca5d8"
+        },
+        {
+          "id": 29902,
+          "name": "Grandes remises pour vous  EdrawMax -246EUR au max 2025-03-24 to 2025-04-05",
+          "code": "1cba746955"
+        },
+        {
+          "id": 28779,
+          "name": "最大4000円オフ EdrawSoftブラックフライデーセール開催中",
+          "code": "c6523fb7d6"
+        },
+        {
+          "id": 30024,
+          "name": "Edraw Easter, Get Your Exclusive 21 percent Discount",
+          "code": "f7126af337"
+        },
+        {
+          "id": 31165,
+          "name": "Zeit sparen mit KI-Tools EdrawSoft bietet intelligentes Diagramm-Design",
+          "code": "08a48d5c6b"
+        },
+        {
+          "id": 29737,
+          "name": "새학기 맞이 할인 이벤트 최대 57 Percent 할인 기회 놓치지 마세요",
+          "code": "501c97fb30"
+        },
+        {
+          "id": 30023,
+          "name": "Edraw Spezielles Osterangebot Bis zu 55 percent Rabatt",
+          "code": "666f3344d2"
+        },
+        {
+          "id": 27622,
+          "name": "Edraw Software Sales Promotion",
+          "code": "19d8f25dee"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 4,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://www.petrolplus.ru/",
+    "name": "Petrolplus",
+    "img": "platform/26798.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/10/27/26798-7b98b9f85dac8771.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Other Services",
+        "id": 93,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 26798,
+    "category": {
+      "name": "Other Services",
+      "id": 93,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://rzekl.com/g/ib927vcr1x5af0702a27fdbdccbe6f/?erid=2bL9aMPo2e49hMef4peVgDNuqX",
+      "landings": [
+        {
+          "id": 28614,
+          "name": "Программа мотивации",
+          "code": "af33315f55"
+        },
+        {
+          "id": 28619,
+          "name": "Оплата такси",
+          "code": "8c4b921864"
+        },
+        {
+          "id": 28613,
+          "name": "Мойки",
+          "code": "d1dbd59b79"
+        },
+        {
+          "id": 28615,
+          "name": "Шиномонтаж",
+          "code": "87cbecabae"
+        },
+        {
+          "id": 28620,
+          "name": "Страхование",
+          "code": "4eb0463cb6"
+        },
+        {
+          "id": 28617,
+          "name": "Оплата парковок",
+          "code": "d077245164"
+        },
+        {
+          "id": 28612,
+          "name": "Лизинг",
+          "code": "8258ed7ab6"
+        },
+        {
+          "id": 28616,
+          "name": "Оплата платных дорог",
+          "code": "603edab15c"
+        },
+        {
+          "id": 21184,
+          "name": "Услуги по картам Передовые Платежные Решения",
+          "code": "40864de3ba"
+        },
+        {
+          "id": 28611,
+          "name": "Онлайн-сервис организации командировок",
+          "code": "2c22566156"
+        },
+        {
+          "id": 28621,
+          "name": "Шины и диски",
+          "code": "ed2aa16bf6"
+        },
+        {
+          "id": 21183,
+          "name": "Подписка Экосистема",
+          "code": "507e40230b"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 2,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://emiratesdraw.com/",
+    "name": "Emirates Draw CPS Many Geos",
+    "img": "platform/30811.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/2/28/30811-64f1087d2c5db5f5.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Other Services",
+        "id": 93,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Event Tickets & Entertainments",
+        "id": 99,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 30811,
+    "category": {
+      "name": "Other Services",
+      "id": 93,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://rzekl.com/g/jn01o4iqfd5af0702a27a0e6d6c1fa/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 2,
     "couponCount": 0
   },
   {
@@ -698,282 +1090,6 @@
     "couponCount": 3
   },
   {
-    "site_url": "https://www.edrawsoft.com/",
-    "name": "Edrawsoft WW",
-    "img": "platform/23197.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/11/28/23197-c4a21cdf5105f81b.svg",
-    "categories": [
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Other Services",
-        "id": 93,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "IT Services & Soft",
-        "id": 122,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 23197,
-    "category": {
-      "name": "Other Services",
-      "id": 93,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://naiawork.com/g/a0exmi3bfq5af0702a2771cd9bc0ec/",
-      "landings": [
-        {
-          "id": 31458,
-          "name": "Edraw Weihnachtsaktion__ Gratis KI Tokens plus 55 percent Rabatt",
-          "code": "f922ad7105"
-        },
-        {
-          "id": 27623,
-          "name": "Edraw Lifetime Bundle    EdrawMax and EdrawMind and EdrawProj",
-          "code": "ef3d9b4344"
-        },
-        {
-          "id": 27789,
-          "name": "Enjoy a 10 discount on Edrawmind with the coupon",
-          "code": "9c9118f4ad"
-        },
-        {
-          "id": 31347,
-          "name": "지금 최대 48 percent 할인 __ PDFelement를 최저가로 만나보세요",
-          "code": "fa3c0d494e"
-        },
-        {
-          "id": 31351,
-          "name": "Black Friday 2025 __ MEGA ANGEBOTE",
-          "code": "b91ff96bd7"
-        },
-        {
-          "id": 31348,
-          "name": "지금 최대 60 percent 할인__EdrawMax와 EdrawMind를 최저가로 만나보세요",
-          "code": "8be4f4b08a"
-        },
-        {
-          "id": 31349,
-          "name": "Black Friday EdrawSoft__fino al 67 percent di sconto plus AI token in omaggio",
-          "code": "736bfcb79c"
-        },
-        {
-          "id": 31350,
-          "name": "Get up to 65 percent OFF on Edraw Software for the Edraw 2025 Black Friday Special",
-          "code": "9228b0609b"
-        },
-        {
-          "id": 29995,
-          "name": "EdrawMax PPT par IA en un clic",
-          "code": "96a21ee371"
-        },
-        {
-          "id": 30138,
-          "name": "Easily turn text into stunning diagrams within PowerPoint using EdrawMax add-in. Work like a pro and save up to 90 percent of your time, valid till 2025-05-21.",
-          "code": "fde8b3765f"
-        },
-        {
-          "id": 29194,
-          "name": "Edraw 期間限定特典 景品として50,000AIトークン進呈",
-          "code": "0f23955074"
-        },
-        {
-          "id": 29251,
-          "name": "Back-to-Work Promotion Up to 37 percent off on Edraw Percent",
-          "code": "2f25fce396"
-        },
-        {
-          "id": 30060,
-          "name": "Edraw, 지금 최대 52 percent 할인 4.18t o 5.8",
-          "code": "ea1cfddc06"
-        },
-        {
-          "id": 30366,
-          "name": "Edraw Sommerschlussverkauf - 60 Prozent Rabatt - Angebot jetzt sichern. Gültig bis 3. Juli 2025",
-          "code": "250920aff7"
-        },
-        {
-          "id": 29628,
-          "name": "EdrawMind AIで アイデアを瞬時に可視化",
-          "code": "2353261ae8"
-        },
-        {
-          "id": 28088,
-          "name": "Up To 31 Percent Off To Celebrate The Release Of EdrawMind V12",
-          "code": "a754bca5d8"
-        },
-        {
-          "id": 29902,
-          "name": "Grandes remises pour vous  EdrawMax -246EUR au max 2025-03-24 to 2025-04-05",
-          "code": "1cba746955"
-        },
-        {
-          "id": 28779,
-          "name": "最大4000円オフ EdrawSoftブラックフライデーセール開催中",
-          "code": "c6523fb7d6"
-        },
-        {
-          "id": 30024,
-          "name": "Edraw Easter, Get Your Exclusive 21 percent Discount",
-          "code": "f7126af337"
-        },
-        {
-          "id": 31165,
-          "name": "Zeit sparen mit KI-Tools EdrawSoft bietet intelligentes Diagramm-Design",
-          "code": "08a48d5c6b"
-        },
-        {
-          "id": 29737,
-          "name": "새학기 맞이 할인 이벤트 최대 57 Percent 할인 기회 놓치지 마세요",
-          "code": "501c97fb30"
-        },
-        {
-          "id": 30023,
-          "name": "Edraw Spezielles Osterangebot Bis zu 55 percent Rabatt",
-          "code": "666f3344d2"
-        },
-        {
-          "id": 27622,
-          "name": "Edraw Software Sales Promotion",
-          "code": "19d8f25dee"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 4,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://invideo.io/",
-    "name": "InVideo WW",
-    "img": "platform/23841.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/7/17/23841-aac9b3cfa5ed901e.svg",
-    "categories": [
-      {
-        "name": "Other Services",
-        "id": 93,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 23841,
-    "category": {
-      "name": "Other Services",
-      "id": 93,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://bednari.com/g/4pkfc5jnrj5af0702a277b589e8ac4/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 6,
-    "couponCount": 16
-  },
-  {
-    "site_url": "https://alter.ru/start",
-    "name": "Alter",
-    "img": "platform/24854.png",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2021/6/28/24854-b20488b3c44f1f9b.png",
-    "categories": [
-      {
-        "name": "New Year Festival 2026",
-        "id": 378,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Other Services",
-        "id": 93,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 24854,
-    "category": {
-      "name": "Other Services",
-      "id": 93,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://dkfrh.com/g/fxysja9qse5af0702a276704bcdbc1/?erid=2bL9aMPo2e49hMef4pdza1DjxN",
-      "landings": [
-        {
-          "id": 30229,
-          "name": "Сертификаты",
-          "code": "93ce2f8135"
-        },
-        {
-          "id": 30230,
-          "name": "Мини-курс отношения",
-          "code": "fbdfa0db14"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 1,
-    "couponCount": 1
-  },
-  {
     "site_url": "https://gruzovichkof.ru/",
     "name": "Gruzovichkof",
     "img": "platform/26165.jpg",
@@ -1022,6 +1138,396 @@
     },
     "discountCount": 0,
     "couponCount": 1
+  },
+  {
+    "site_url": "https://Ultahost.com",
+    "name": "Ultahost WW",
+    "img": "platform/39284.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/9/1/39284-9c6b0ef9a2874768.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "SME",
+        "id": 215,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Other Services",
+        "id": 93,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 39284,
+    "category": {
+      "name": "Other Services",
+      "id": 93,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://tjzuh.com/g/p94q6juobv5af0702a279b33e1379c/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 2
+  },
+  {
+    "site_url": "https://freedom.to",
+    "name": "Freedom WW",
+    "img": "platform/40489.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/9/22/40489-512ad9c5c802a728.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Other Services",
+        "id": 93,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 40489,
+    "category": {
+      "name": "Other Services",
+      "id": 93,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://ficca2021.com/g/ed45pebje85af0702a27d816286443/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 2
+  },
+  {
+    "site_url": "https://ggpick.com",
+    "name": "GGPick [CPS] ManyGEOs",
+    "img": "platform/127034.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/5/30/127034-076b839dea3f9f0b.svg",
+    "categories": [
+      {
+        "name": "Online Games",
+        "id": 6,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Other Services",
+        "id": 93,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Game Stores and Services",
+        "id": 214,
+        "language": "en",
+        "parent": {
+          "name": "Online Games",
+          "id": 6,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Client Games",
+        "id": 254,
+        "language": "en",
+        "parent": {
+          "name": "Online Games",
+          "id": 6,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Movies & Music",
+        "id": 203,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 127034,
+    "category": {
+      "name": "Other Services",
+      "id": 93,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://rkdro.com/g/ja7n12si6w5af0702a2715e49ef059/",
+      "landings": [
+        {
+          "id": 30287,
+          "name": "Family Sharing",
+          "code": "a4810913e7"
+        },
+        {
+          "id": 30288,
+          "name": "Digital Goods",
+          "code": "8c4e1cf6e4"
+        },
+        {
+          "id": 30289,
+          "name": "CrunchyRoll",
+          "code": "8ba77b0a03"
+        },
+        {
+          "id": 30297,
+          "name": "UFC Fight Pass",
+          "code": "75bb4c6029"
+        },
+        {
+          "id": 30290,
+          "name": "Disney Plus",
+          "code": "f8adb486df"
+        },
+        {
+          "id": 30292,
+          "name": "Netflix Premium",
+          "code": "449b8d9071"
+        },
+        {
+          "id": 30291,
+          "name": "Netflix Standard",
+          "code": "4935ba068a"
+        },
+        {
+          "id": 30294,
+          "name": "HBO MAX",
+          "code": "d431075f43"
+        },
+        {
+          "id": 30295,
+          "name": "Netflix Premium Disney Plus",
+          "code": "5aef8ada14"
+        },
+        {
+          "id": 30293,
+          "name": "Streaming 5-in-1",
+          "code": "0f1e910f1f"
+        },
+        {
+          "id": 30299,
+          "name": "Disney Plus Max",
+          "code": "ded066202c"
+        },
+        {
+          "id": 30301,
+          "name": "The Last of Us Part 2 Remastered",
+          "code": "d6c6c0fefc"
+        },
+        {
+          "id": 30296,
+          "name": "Amazon Prime Video",
+          "code": "0fa9ffb9f4"
+        },
+        {
+          "id": 30302,
+          "name": "The Elder Scrolls IV Oblivion Remastered",
+          "code": "3a400be520"
+        },
+        {
+          "id": 30298,
+          "name": "IPVanish",
+          "code": "a6bd665e7d"
+        },
+        {
+          "id": 30300,
+          "name": "Black Myth Wukong",
+          "code": "9a230df556"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 4
+  },
+  {
+    "site_url": "https://picsart.com/",
+    "name": "Picsart WW",
+    "img": "platform/127045.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/4/24/127045-ebaa8747efb1afd1.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Other Services",
+        "id": 93,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Jobs and freelance",
+        "id": 257,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Photography",
+        "id": 309,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Movies & Music",
+        "id": 203,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "IT Services & Soft",
+        "id": 122,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 127045,
+    "category": {
+      "name": "Other Services",
+      "id": 93,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://yknhc.com/g/6r8xdyqd1o5af0702a2737d2dcea90/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 4
+  },
+  {
+    "site_url": "https://www.valuedopinions.co.in/",
+    "name": "Valued Opinions [CPL] IN",
+    "img": "platform/22421.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/9/24/22421-608784be3ab75f24.svg",
+    "categories": [
+      {
+        "name": "Other Services",
+        "id": 93,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 22421,
+    "category": {
+      "name": "Other Services",
+      "id": 93,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://tjzuh.com/g/r5fzgky4r55af0702a270bd24e3ecf/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://pro.rbc.ru/offers/",
@@ -1137,166 +1643,6 @@
       "cashback_link_data": null
     },
     "discountCount": 0,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://www.petrolplus.ru/",
-    "name": "Petrolplus",
-    "img": "platform/26798.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/10/27/26798-7b98b9f85dac8771.svg",
-    "categories": [
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Other Services",
-        "id": 93,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 26798,
-    "category": {
-      "name": "Other Services",
-      "id": 93,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://rzekl.com/g/ib927vcr1x5af0702a27fdbdccbe6f/?erid=2bL9aMPo2e49hMef4peVgDNuqX",
-      "landings": [
-        {
-          "id": 28614,
-          "name": "Программа мотивации",
-          "code": "af33315f55"
-        },
-        {
-          "id": 28619,
-          "name": "Оплата такси",
-          "code": "8c4b921864"
-        },
-        {
-          "id": 28613,
-          "name": "Мойки",
-          "code": "d1dbd59b79"
-        },
-        {
-          "id": 28615,
-          "name": "Шиномонтаж",
-          "code": "87cbecabae"
-        },
-        {
-          "id": 28620,
-          "name": "Страхование",
-          "code": "4eb0463cb6"
-        },
-        {
-          "id": 28617,
-          "name": "Оплата парковок",
-          "code": "d077245164"
-        },
-        {
-          "id": 28612,
-          "name": "Лизинг",
-          "code": "8258ed7ab6"
-        },
-        {
-          "id": 28616,
-          "name": "Оплата платных дорог",
-          "code": "603edab15c"
-        },
-        {
-          "id": 21184,
-          "name": "Услуги по картам Передовые Платежные Решения",
-          "code": "40864de3ba"
-        },
-        {
-          "id": 28611,
-          "name": "Онлайн-сервис организации командировок",
-          "code": "2c22566156"
-        },
-        {
-          "id": 28621,
-          "name": "Шины и диски",
-          "code": "ed2aa16bf6"
-        },
-        {
-          "id": 21183,
-          "name": "Подписка Экосистема",
-          "code": "507e40230b"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 2,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://emiratesdraw.com/",
-    "name": "Emirates Draw CPS Many Geos",
-    "img": "platform/30811.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/2/28/30811-64f1087d2c5db5f5.svg",
-    "categories": [
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Other Services",
-        "id": 93,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Event Tickets & Entertainments",
-        "id": 99,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 30811,
-    "category": {
-      "name": "Other Services",
-      "id": 93,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://rzekl.com/g/jn01o4iqfd5af0702a27a0e6d6c1fa/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 2,
     "couponCount": 0
   },
   {
@@ -1526,56 +1872,6 @@
     "couponCount": 0
   },
   {
-    "site_url": "https://Ultahost.com",
-    "name": "Ultahost WW",
-    "img": "platform/39284.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/9/1/39284-9c6b0ef9a2874768.svg",
-    "categories": [
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "SME",
-        "id": 215,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Other Services",
-        "id": 93,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 39284,
-    "category": {
-      "name": "Other Services",
-      "id": 93,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://tjzuh.com/g/p94q6juobv5af0702a279b33e1379c/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 2
-  },
-  {
     "site_url": "https://ticketscloud.com/",
     "name": "Ticketscloud RU",
     "img": "platform/39458.svg",
@@ -1640,50 +1936,6 @@
     },
     "discountCount": 0,
     "couponCount": 0
-  },
-  {
-    "site_url": "https://freedom.to",
-    "name": "Freedom WW",
-    "img": "platform/40489.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/9/22/40489-512ad9c5c802a728.svg",
-    "categories": [
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Other Services",
-        "id": 93,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 40489,
-    "category": {
-      "name": "Other Services",
-      "id": 93,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://ficca2021.com/g/ed45pebje85af0702a27d816286443/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 2
   },
   {
     "site_url": "https://arenda.yandex.ru/",
@@ -2139,170 +2391,6 @@
     "couponCount": 0
   },
   {
-    "site_url": "https://ggpick.com",
-    "name": "GGPick [CPS] ManyGEOs",
-    "img": "platform/127034.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/5/30/127034-076b839dea3f9f0b.svg",
-    "categories": [
-      {
-        "name": "Online Games",
-        "id": 6,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Other Services",
-        "id": 93,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Game Stores and Services",
-        "id": 214,
-        "language": "en",
-        "parent": {
-          "name": "Online Games",
-          "id": 6,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Client Games",
-        "id": 254,
-        "language": "en",
-        "parent": {
-          "name": "Online Games",
-          "id": 6,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Movies & Music",
-        "id": 203,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 127034,
-    "category": {
-      "name": "Other Services",
-      "id": 93,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://rkdro.com/g/ja7n12si6w5af0702a2715e49ef059/",
-      "landings": [
-        {
-          "id": 30287,
-          "name": "Family Sharing",
-          "code": "a4810913e7"
-        },
-        {
-          "id": 30288,
-          "name": "Digital Goods",
-          "code": "8c4e1cf6e4"
-        },
-        {
-          "id": 30289,
-          "name": "CrunchyRoll",
-          "code": "8ba77b0a03"
-        },
-        {
-          "id": 30297,
-          "name": "UFC Fight Pass",
-          "code": "75bb4c6029"
-        },
-        {
-          "id": 30290,
-          "name": "Disney Plus",
-          "code": "f8adb486df"
-        },
-        {
-          "id": 30292,
-          "name": "Netflix Premium",
-          "code": "449b8d9071"
-        },
-        {
-          "id": 30291,
-          "name": "Netflix Standard",
-          "code": "4935ba068a"
-        },
-        {
-          "id": 30294,
-          "name": "HBO MAX",
-          "code": "d431075f43"
-        },
-        {
-          "id": 30295,
-          "name": "Netflix Premium Disney Plus",
-          "code": "5aef8ada14"
-        },
-        {
-          "id": 30293,
-          "name": "Streaming 5-in-1",
-          "code": "0f1e910f1f"
-        },
-        {
-          "id": 30299,
-          "name": "Disney Plus Max",
-          "code": "ded066202c"
-        },
-        {
-          "id": 30301,
-          "name": "The Last of Us Part 2 Remastered",
-          "code": "d6c6c0fefc"
-        },
-        {
-          "id": 30296,
-          "name": "Amazon Prime Video",
-          "code": "0fa9ffb9f4"
-        },
-        {
-          "id": 30302,
-          "name": "The Elder Scrolls IV Oblivion Remastered",
-          "code": "3a400be520"
-        },
-        {
-          "id": 30298,
-          "name": "IPVanish",
-          "code": "a6bd665e7d"
-        },
-        {
-          "id": 30300,
-          "name": "Black Myth Wukong",
-          "code": "9a230df556"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 4
-  },
-  {
     "site_url": "https://www.notta.ai/",
     "name": "Notta AI WW",
     "img": "platform/127037.svg",
@@ -2373,94 +2461,6 @@
     },
     "discountCount": 0,
     "couponCount": 0
-  },
-  {
-    "site_url": "https://picsart.com/",
-    "name": "Picsart WW",
-    "img": "platform/127045.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/4/24/127045-ebaa8747efb1afd1.svg",
-    "categories": [
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Other Services",
-        "id": 93,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Jobs and freelance",
-        "id": 257,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Photography",
-        "id": 309,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Movies & Music",
-        "id": 203,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "IT Services & Soft",
-        "id": 122,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 127045,
-    "category": {
-      "name": "Other Services",
-      "id": 93,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://yknhc.com/g/6r8xdyqd1o5af0702a2737d2dcea90/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 4
   },
   {
     "site_url": "https://www.tiktok.com/",

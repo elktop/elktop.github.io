@@ -106,6 +106,1207 @@
     "couponCount": 3
   },
   {
+    "site_url": "https://moulinex.ru/",
+    "name": "Moulinex",
+    "img": "platform/15488.jpg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2020/10/26/15488-45e62abccca25147.jpg",
+    "categories": [
+      {
+        "name": "Household Appliances & Electronics",
+        "id": 65,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "11.11 & Black Friday 2025",
+        "id": 377,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 15488,
+    "category": {
+      "name": "Household Appliances & Electronics",
+      "id": 65,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://rthsu.com/g/8hjl82af025af0702a27737106c3e0/?erid=25H8d7vbP8SRTvG56HSigJ",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 1,
+    "couponCount": 1
+  },
+  {
+    "site_url": "https://global.redmagic.gg/",
+    "name": "Redmagic WW",
+    "img": "platform/20543.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/9/5/20543-75ebe1c2bc996c2b.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Household Appliances & Electronics",
+        "id": 65,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 20543,
+    "category": {
+      "name": "Household Appliances & Electronics",
+      "id": 65,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://yyczo.com/g/qmttmvxh1u5af0702a2756637026d8/",
+      "landings": [
+        {
+          "id": 28411,
+          "name": "REDMAGIC Nova Gaming Tablet",
+          "code": "10ce73e7ed"
+        },
+        {
+          "id": 27944,
+          "name": "REDMAGIC Titan 16 Pro",
+          "code": "3ee69eceb3"
+        },
+        {
+          "id": 23380,
+          "name": "Keyboard 2023",
+          "code": "2e74ae4031"
+        },
+        {
+          "id": 23381,
+          "name": "Gaming mouse 2023",
+          "code": "85701e9560"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 20,
+    "couponCount": 4
+  },
+  {
+    "site_url": "https://cosmogon.ru/",
+    "name": "cosmogon",
+    "img": "platform/21071.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/20/21071-392c0d658ee73fd8.svg",
+    "categories": [
+      {
+        "name": "Household Appliances & Electronics",
+        "id": 65,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Liquors",
+        "id": 199,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 21071,
+    "category": {
+      "name": "Household Appliances & Electronics",
+      "id": 65,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://dorinebeaumont.com/g/94v4tj5pfm5af0702a2723f8fafe99/?erid=MvGzQC98w3Z1gMq1nwbrWSDV",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 29,
+    "couponCount": 3
+  },
+  {
+    "site_url": "https://garlyn.ru/",
+    "name": "garlyn.ru",
+    "img": "platform/29608.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/13/29608-c50b9bfffca13db6.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Household Appliances & Electronics",
+        "id": 65,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 29608,
+    "category": {
+      "name": "Household Appliances & Electronics",
+      "id": 65,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://flcoz.com/g/16th4xoob45af0702a27cb35fbf9c6/?erid=2bL9aMPo2e49hMef4pfV6xT5Jj",
+      "landings": [
+        {
+          "id": 25973,
+          "name": "Киберпонедельник. выгода до -40 процентов по промокоду",
+          "code": "f0586816ea"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 6,
+    "couponCount": 2
+  },
+  {
+    "site_url": "https://krona.ru/",
+    "name": "KRONA",
+    "img": "platform/33029.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/24/33029-d0586ebf3c523c8c.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Household Appliances & Electronics",
+        "id": 65,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Back to school 2025",
+        "id": 371,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Oktoberfest 2025",
+        "id": 373,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 33029,
+    "category": {
+      "name": "Household Appliances & Electronics",
+      "id": 65,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://rcpsj.com/g/4qaa5pbj5p5af0702a2748c36e3ba0/?erid=2bL9aMPo2e49hMef4pfyePxmqH",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 4,
+    "couponCount": 2
+  },
+  {
+    "site_url": "https://gait.com.kw/g_kw_en",
+    "name": "Gait KW QA",
+    "img": "platform/38227.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/18/38227-a09fdcffa5254381.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Household Appliances & Electronics",
+        "id": 65,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 38227,
+    "category": {
+      "name": "Household Appliances & Electronics",
+      "id": 65,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://zallj.com/g/fidnk4kp0w5af0702a27a331958848/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 8,
+    "couponCount": 2
+  },
+  {
+    "site_url": "https://www.miniso.com.mx/",
+    "name": "Miniso MX",
+    "img": "platform/109430.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/9/14/109430-ff296a2595e8bc13.svg",
+    "categories": [
+      {
+        "name": "Household Appliances & Electronics",
+        "id": 65,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Gifts & Flowers",
+        "id": 72,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Toys, Kids & Babies",
+        "id": 69,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Hobby & Stationery",
+        "id": 89,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Personal Care & Pharmacy",
+        "id": 67,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Pets",
+        "id": 74,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 109430,
+    "category": {
+      "name": "Household Appliances & Electronics",
+      "id": 65,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://rkdro.com/g/jdog8giuxy5af0702a27e4f3ffcb11/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 1,
+    "couponCount": 2
+  },
+  {
+    "site_url": "https://www.yota.ru/",
+    "name": "Yota",
+    "img": "platform/17328.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/9/17328-fcd16c71c48e5001.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Household Appliances & Electronics",
+        "id": 65,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Telecommunications",
+        "id": 20,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 17328,
+    "category": {
+      "name": "Household Appliances & Electronics",
+      "id": 65,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://yjfca.com/g/ix7eisyc2u5af0702a278d5b295c68/?erid=25H8d7vbP8SRTvGa6142tf",
+      "landings": [
+        {
+          "id": 20362,
+          "name": "Интернет-магазин_SIM-карта для модема",
+          "code": "ff53dd0f4f"
+        },
+        {
+          "id": 26174,
+          "name": "Подключи максимум",
+          "code": "6bae2088dd"
+        },
+        {
+          "id": 27215,
+          "name": "Умные устройства",
+          "code": "7175664e40"
+        },
+        {
+          "id": 27216,
+          "name": "Модем",
+          "code": "7a8c2f6e29"
+        },
+        {
+          "id": 27217,
+          "name": "eSIM",
+          "code": "1e270a8298"
+        },
+        {
+          "id": 29973,
+          "name": "eSIM от YOTA",
+          "code": "465342761b"
+        },
+        {
+          "id": 27229,
+          "name": "Голос",
+          "code": "92210d6b94"
+        },
+        {
+          "id": 20360,
+          "name": "Сайт_SIM-карта для планшета",
+          "code": "a73fcaa16f"
+        },
+        {
+          "id": 28040,
+          "name": "Гейминг",
+          "code": "6b559b8885"
+        },
+        {
+          "id": 20348,
+          "name": "Интернет-магазин_SIM-карта для смартфона",
+          "code": "60398a6f26"
+        },
+        {
+          "id": 26173,
+          "name": "Можно со своим номером",
+          "code": "abf33214bb"
+        },
+        {
+          "id": 20365,
+          "name": "Интернет-магазин_Wi-Fi модем Yota и SIM-карта за 2740 руб",
+          "code": "faf724da02"
+        },
+        {
+          "id": 30447,
+          "name": "3 месяца за 499 рублей",
+          "code": "5de114db89"
+        },
+        {
+          "id": 30771,
+          "name": "Делись тарифом",
+          "code": "42004c98f2"
+        },
+        {
+          "id": 30135,
+          "name": "Собери свой тариф",
+          "code": "85e83fdbc5"
+        },
+        {
+          "id": 29676,
+          "name": "eSIM с Максимум",
+          "code": "45120b0ebe"
+        },
+        {
+          "id": 29677,
+          "name": "eSIM и Максимум с абонементом",
+          "code": "fb2ecded53"
+        },
+        {
+          "id": 28467,
+          "name": "Сим-карта для интернета",
+          "code": "8d75ade759"
+        },
+        {
+          "id": 31382,
+          "name": "Акция \"YotaАрхив\"",
+          "code": "38d548c0f4"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 12,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://www.adorama.com/",
+    "name": "Adorama WW",
+    "img": "platform/18239.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/8/18239-c2944745ae0e6a97.svg",
+    "categories": [
+      {
+        "name": "Household Appliances & Electronics",
+        "id": 65,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 18239,
+    "category": {
+      "name": "Household Appliances & Electronics",
+      "id": 65,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://ficca2021.com/g/cbvmqmmirj5af0702a2745f1c03a4a/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 6,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://drop.com/",
+    "name": "Drop WW",
+    "img": "platform/19350.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/8/19350-35c8809ec336b9b7.svg",
+    "categories": [
+      {
+        "name": "Household Appliances & Electronics",
+        "id": 65,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Sports & Outdoor",
+        "id": 85,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Hobby & Stationery",
+        "id": 89,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 19350,
+    "category": {
+      "name": "Household Appliances & Electronics",
+      "id": 65,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://ficca2021.com/g/zun49ooqd25af0702a273d44f2291c/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 6,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://e2e4online.ru",
+    "name": "E2e4online",
+    "img": "platform/24369.jpg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2022/1/13/24369-c4968eff0b0c87da.jpg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Household Appliances & Electronics",
+        "id": 65,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 24369,
+    "category": {
+      "name": "Household Appliances & Electronics",
+      "id": 65,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://bjpql.com/g/uwqj8es2z45af0702a27d39a5facf7/?erid=2bL9aMPo2e49hMef4pdz7q4jyi",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 1,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://tion.ru",
+    "name": "Tion",
+    "img": "platform/25925.png",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/8/6/25925-704368c4cd790a07.png",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Household Appliances & Electronics",
+        "id": 65,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "SME",
+        "id": 215,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 25925,
+    "category": {
+      "name": "Household Appliances & Electronics",
+      "id": 65,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://rzekl.com/g/1q2r9vphv55af0702a273787886fbc/?erid=2bL9aMPo2e49hMef4pe18cxctN",
+      "landings": [
+        {
+          "id": 29040,
+          "name": "Волшебная шкатулка",
+          "code": "dc0b966fc3"
+        },
+        {
+          "id": 28402,
+          "name": "Щедрая Осень",
+          "code": "625fe23278"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 6,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://madeindream.com",
+    "name": "Rawmid",
+    "img": "platform/27415.jpg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2022/4/19/27415-59c106e35c8b8630.jpg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Household Appliances & Electronics",
+        "id": 65,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 27415,
+    "category": {
+      "name": "Household Appliances & Electronics",
+      "id": 65,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://xpuvo.com/g/87lavg2fef5af0702a27da0834ec96/?erid=2bL9aMPo2e49hMef4peW1mXmfz",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 1,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://ipiter.ru/",
+    "name": "ipiter",
+    "img": "platform/29427.jpg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2022/10/12/29427-bff538acf5f95131.jpg",
+    "categories": [
+      {
+        "name": "Household Appliances & Electronics",
+        "id": 65,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 29427,
+    "category": {
+      "name": "Household Appliances & Electronics",
+      "id": 65,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://ewwhk.com/g/s5xrmo3y125af0702a27cc66a33f1f/?erid=2bL9aMPo2e49hMef4pfUzEXezx",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 8,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://storeinua.com/",
+    "name": "Storeinua UA",
+    "img": "platform/30400.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/4/25/30400-b311960869832095.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Household Appliances & Electronics",
+        "id": 65,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Smart Tracking_UA",
+        "id": 379,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 30400,
+    "category": {
+      "name": "Household Appliances & Electronics",
+      "id": 65,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://naiawork.com/g/x2f5p3q25u5af0702a2790e72178e7/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 2,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://www.colorway-shop.sk/",
+    "name": "Colorway Many Geo",
+    "img": "platform/32972.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/2/21/32972-70d6eafc00a29d97.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Household Appliances & Electronics",
+        "id": 65,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 32972,
+    "category": {
+      "name": "Household Appliances & Electronics",
+      "id": 65,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://wpmsx.com/g/v8ro9yqcl65af0702a2748457f1360/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 2,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://redsolution.company/",
+    "name": "redsolution.company",
+    "img": "platform/40817.jpg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/6/10/40817-4c56a5ed4bf759cb.jpg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Household Appliances & Electronics",
+        "id": 65,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Oktoberfest 2025",
+        "id": 373,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 40817,
+    "category": {
+      "name": "Household Appliances & Electronics",
+      "id": 65,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://xcdus.com/g/rv80ywrpwu5af0702a27f8d31ee3d3/?erid=2bL9aMPo2e49hMef4pgUki6FDF",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 6,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://aqara.ru",
+    "name": "",
+    "img": "platform/49307.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/12/22/49307-0302a7d5eeaa48b8.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Household Appliances & Electronics",
+        "id": 65,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Furniture & Homeware",
+        "id": 66,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 49307,
+    "category": {
+      "name": "Household Appliances & Electronics",
+      "id": 65,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://gndrz.com/g/a0xuyucz7q5af0702a27a69a5c0e88/?erid=2bL9aMPo2e49hMef4pgyXDEJu5",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 1,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://getsy.ru/",
+    "name": "Getsy RU",
+    "img": "platform/103715.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/1/103715-a211f75c53b2b83b.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Household Appliances & Electronics",
+        "id": 65,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "11.11 & Black Friday 2025",
+        "id": 377,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 103715,
+    "category": {
+      "name": "Household Appliances & Electronics",
+      "id": 65,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://zejcl.com/g/4ko2kilusq5af0702a27045782620b/?erid=2bL9aMPo2e49hMef4phyrMU3yb",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 1,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://hansa.ru/",
+    "name": "Hansa RU",
+    "img": "platform/115523.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/11/13/115523-cc0a31e769424f22.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Household Appliances & Electronics",
+        "id": 65,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 115523,
+    "category": {
+      "name": "Household Appliances & Electronics",
+      "id": 65,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://heqgr.com/g/u9yhtpx8tc5af0702a27836ab04704/?erid=2bL9aMPo2e49hMef4piUWTytUj",
+      "landings": [
+        {
+          "id": 29561,
+          "name": "Больше, чем просто покупка",
+          "code": "5bb87994ab"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 1,
+    "couponCount": 0
+  },
+  {
     "site_url": "https://www.dhgate.com/",
     "name": "DHgate WW",
     "img": "platform/14622.svg",
@@ -632,213 +1833,6 @@
     "couponCount": 1
   },
   {
-    "site_url": "https://moulinex.ru/",
-    "name": "Moulinex",
-    "img": "platform/15488.jpg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2020/10/26/15488-45e62abccca25147.jpg",
-    "categories": [
-      {
-        "name": "Household Appliances & Electronics",
-        "id": 65,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "11.11 & Black Friday 2025",
-        "id": 377,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 15488,
-    "category": {
-      "name": "Household Appliances & Electronics",
-      "id": 65,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://rthsu.com/g/8hjl82af025af0702a27737106c3e0/?erid=25H8d7vbP8SRTvG56HSigJ",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 1,
-    "couponCount": 1
-  },
-  {
-    "site_url": "https://www.yota.ru/",
-    "name": "Yota",
-    "img": "platform/17328.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/9/17328-fcd16c71c48e5001.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Household Appliances & Electronics",
-        "id": 65,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Telecommunications",
-        "id": 20,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 17328,
-    "category": {
-      "name": "Household Appliances & Electronics",
-      "id": 65,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://yjfca.com/g/ix7eisyc2u5af0702a278d5b295c68/?erid=25H8d7vbP8SRTvGa6142tf",
-      "landings": [
-        {
-          "id": 20362,
-          "name": "Интернет-магазин_SIM-карта для модема",
-          "code": "ff53dd0f4f"
-        },
-        {
-          "id": 26174,
-          "name": "Подключи максимум",
-          "code": "6bae2088dd"
-        },
-        {
-          "id": 27215,
-          "name": "Умные устройства",
-          "code": "7175664e40"
-        },
-        {
-          "id": 27216,
-          "name": "Модем",
-          "code": "7a8c2f6e29"
-        },
-        {
-          "id": 27217,
-          "name": "eSIM",
-          "code": "1e270a8298"
-        },
-        {
-          "id": 29973,
-          "name": "eSIM от YOTA",
-          "code": "465342761b"
-        },
-        {
-          "id": 27229,
-          "name": "Голос",
-          "code": "92210d6b94"
-        },
-        {
-          "id": 20360,
-          "name": "Сайт_SIM-карта для планшета",
-          "code": "a73fcaa16f"
-        },
-        {
-          "id": 28040,
-          "name": "Гейминг",
-          "code": "6b559b8885"
-        },
-        {
-          "id": 20348,
-          "name": "Интернет-магазин_SIM-карта для смартфона",
-          "code": "60398a6f26"
-        },
-        {
-          "id": 26173,
-          "name": "Можно со своим номером",
-          "code": "abf33214bb"
-        },
-        {
-          "id": 20365,
-          "name": "Интернет-магазин_Wi-Fi модем Yota и SIM-карта за 2740 руб",
-          "code": "faf724da02"
-        },
-        {
-          "id": 30447,
-          "name": "3 месяца за 499 рублей",
-          "code": "5de114db89"
-        },
-        {
-          "id": 30771,
-          "name": "Делись тарифом",
-          "code": "42004c98f2"
-        },
-        {
-          "id": 30135,
-          "name": "Собери свой тариф",
-          "code": "85e83fdbc5"
-        },
-        {
-          "id": 29676,
-          "name": "eSIM с Максимум",
-          "code": "45120b0ebe"
-        },
-        {
-          "id": 29677,
-          "name": "eSIM и Максимум с абонементом",
-          "code": "fb2ecded53"
-        },
-        {
-          "id": 28467,
-          "name": "Сим-карта для интернета",
-          "code": "8d75ade759"
-        },
-        {
-          "id": 31382,
-          "name": "Акция \"YotaАрхив\"",
-          "code": "38d548c0f4"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 12,
-    "couponCount": 0
-  },
-  {
     "site_url": "https://www.lenovo.com/",
     "name": "Lenovo Many GEOs",
     "img": "platform/18201.svg",
@@ -989,50 +1983,6 @@
     "couponCount": 24
   },
   {
-    "site_url": "https://www.adorama.com/",
-    "name": "Adorama WW",
-    "img": "platform/18239.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/8/18239-c2944745ae0e6a97.svg",
-    "categories": [
-      {
-        "name": "Household Appliances & Electronics",
-        "id": 65,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 18239,
-    "category": {
-      "name": "Household Appliances & Electronics",
-      "id": 65,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://ficca2021.com/g/cbvmqmmirj5af0702a2745f1c03a4a/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 6,
-    "couponCount": 0
-  },
-  {
     "site_url": "https://www.sunsky-online.com/",
     "name": "Sunsky-online WW",
     "img": "platform/18428.png",
@@ -1086,242 +2036,6 @@
     },
     "discountCount": 0,
     "couponCount": 1156
-  },
-  {
-    "site_url": "https://drop.com/",
-    "name": "Drop WW",
-    "img": "platform/19350.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/8/19350-35c8809ec336b9b7.svg",
-    "categories": [
-      {
-        "name": "Household Appliances & Electronics",
-        "id": 65,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Sports & Outdoor",
-        "id": 85,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Hobby & Stationery",
-        "id": 89,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 19350,
-    "category": {
-      "name": "Household Appliances & Electronics",
-      "id": 65,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://ficca2021.com/g/zun49ooqd25af0702a273d44f2291c/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 6,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://global.redmagic.gg/",
-    "name": "Redmagic WW",
-    "img": "platform/20543.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/9/5/20543-75ebe1c2bc996c2b.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Household Appliances & Electronics",
-        "id": 65,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Smart tracking programs",
-        "id": 382,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 20543,
-    "category": {
-      "name": "Household Appliances & Electronics",
-      "id": 65,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://yyczo.com/g/qmttmvxh1u5af0702a2756637026d8/",
-      "landings": [
-        {
-          "id": 28411,
-          "name": "REDMAGIC Nova Gaming Tablet",
-          "code": "10ce73e7ed"
-        },
-        {
-          "id": 27944,
-          "name": "REDMAGIC Titan 16 Pro",
-          "code": "3ee69eceb3"
-        },
-        {
-          "id": 23380,
-          "name": "Keyboard 2023",
-          "code": "2e74ae4031"
-        },
-        {
-          "id": 23381,
-          "name": "Gaming mouse 2023",
-          "code": "85701e9560"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 20,
-    "couponCount": 4
-  },
-  {
-    "site_url": "https://touch.com.ua/",
-    "name": "Touch UA",
-    "img": "platform/21026.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/11/7/21026-0ccccd884c1c062c.svg",
-    "categories": [
-      {
-        "name": "Household Appliances & Electronics",
-        "id": 65,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 21026,
-    "category": {
-      "name": "Household Appliances & Electronics",
-      "id": 65,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://wbbsv.com/g/ynys1f2mjp5af0702a270e81904d8b/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://cosmogon.ru/",
-    "name": "cosmogon",
-    "img": "platform/21071.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/20/21071-392c0d658ee73fd8.svg",
-    "categories": [
-      {
-        "name": "Household Appliances & Electronics",
-        "id": 65,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Liquors",
-        "id": 199,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 21071,
-    "category": {
-      "name": "Household Appliances & Electronics",
-      "id": 65,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://dorinebeaumont.com/g/94v4tj5pfm5af0702a2723f8fafe99/?erid=MvGzQC98w3Z1gMq1nwbrWSDV",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 29,
-    "couponCount": 3
   },
   {
     "site_url": "https://www.geekmall.com/",
@@ -1761,6 +2475,138 @@
     "couponCount": 22
   },
   {
+    "site_url": "https://iboxstore.ru/",
+    "name": "iBOX",
+    "img": "platform/30582.jpg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2022/11/22/30582-a548398269d30c32.jpg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Household Appliances & Electronics",
+        "id": 65,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 30582,
+    "category": {
+      "name": "Household Appliances & Electronics",
+      "id": 65,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://codeaven.com/g/4hh84nh1h65af0702a27e6b606b04d/?erid=5jtCeReNwxHpfQTFQwvgGrT",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 2
+  },
+  {
+    "site_url": "https://hi-stores.ru",
+    "name": "Hi Store RU",
+    "img": "platform/109641.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/9/16/109641-b50f578380af87b4.svg",
+    "categories": [
+      {
+        "name": "Household Appliances & Electronics",
+        "id": 65,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 109641,
+    "category": {
+      "name": "Household Appliances & Electronics",
+      "id": 65,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://wpmsx.com/g/hwysxaae1b5af0702a273a4ea8cf25/?erid=2bL9aMPo2e49hMef4piUAotQ6a",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 1
+  },
+  {
+    "site_url": "https://touch.com.ua/",
+    "name": "Touch UA",
+    "img": "platform/21026.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/11/7/21026-0ccccd884c1c062c.svg",
+    "categories": [
+      {
+        "name": "Household Appliances & Electronics",
+        "id": 65,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 21026,
+    "category": {
+      "name": "Household Appliances & Electronics",
+      "id": 65,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://wbbsv.com/g/ynys1f2mjp5af0702a270e81904d8b/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
+  },
+  {
     "site_url": "https://rulez.by/",
     "name": "Rulez BY",
     "img": "platform/24074.svg",
@@ -1920,111 +2766,6 @@
       "cashback_link_data": null
     },
     "discountCount": 0,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://e2e4online.ru",
-    "name": "E2e4online",
-    "img": "platform/24369.jpg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2022/1/13/24369-c4968eff0b0c87da.jpg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Household Appliances & Electronics",
-        "id": 65,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 24369,
-    "category": {
-      "name": "Household Appliances & Electronics",
-      "id": 65,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://bjpql.com/g/uwqj8es2z45af0702a27d39a5facf7/?erid=2bL9aMPo2e49hMef4pdz7q4jyi",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 1,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://tion.ru",
-    "name": "Tion",
-    "img": "platform/25925.png",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2021/8/6/25925-704368c4cd790a07.png",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Household Appliances & Electronics",
-        "id": 65,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "SME",
-        "id": 215,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 25925,
-    "category": {
-      "name": "Household Appliances & Electronics",
-      "id": 65,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://rzekl.com/g/1q2r9vphv55af0702a273787886fbc/?erid=2bL9aMPo2e49hMef4pe18cxctN",
-      "landings": [
-        {
-          "id": 29040,
-          "name": "Волшебная шкатулка",
-          "code": "dc0b966fc3"
-        },
-        {
-          "id": 28402,
-          "name": "Щедрая Осень",
-          "code": "625fe23278"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 6,
     "couponCount": 0
   },
   {
@@ -2204,50 +2945,6 @@
     "couponCount": 0
   },
   {
-    "site_url": "https://madeindream.com",
-    "name": "Rawmid",
-    "img": "platform/27415.jpg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2022/4/19/27415-59c106e35c8b8630.jpg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Household Appliances & Electronics",
-        "id": 65,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 27415,
-    "category": {
-      "name": "Household Appliances & Electronics",
-      "id": 65,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://xpuvo.com/g/87lavg2fef5af0702a27da0834ec96/?erid=2bL9aMPo2e49hMef4peW1mXmfz",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 1,
-    "couponCount": 0
-  },
-  {
     "site_url": "https://consumer.huawei.com/ae-en/offer/",
     "name": "Huawei AE Offline codes & Links",
     "img": "platform/27630.png",
@@ -2347,300 +3044,6 @@
     "couponCount": 0
   },
   {
-    "site_url": "https://ipiter.ru/",
-    "name": "ipiter",
-    "img": "platform/29427.jpg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2022/10/12/29427-bff538acf5f95131.jpg",
-    "categories": [
-      {
-        "name": "Household Appliances & Electronics",
-        "id": 65,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 29427,
-    "category": {
-      "name": "Household Appliances & Electronics",
-      "id": 65,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://ewwhk.com/g/s5xrmo3y125af0702a27cc66a33f1f/?erid=2bL9aMPo2e49hMef4pfUzEXezx",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 8,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://garlyn.ru/",
-    "name": "garlyn.ru",
-    "img": "platform/29608.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/13/29608-c50b9bfffca13db6.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Household Appliances & Electronics",
-        "id": 65,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 29608,
-    "category": {
-      "name": "Household Appliances & Electronics",
-      "id": 65,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://flcoz.com/g/16th4xoob45af0702a27cb35fbf9c6/?erid=2bL9aMPo2e49hMef4pfV6xT5Jj",
-      "landings": [
-        {
-          "id": 25973,
-          "name": "Киберпонедельник. выгода до -40 процентов по промокоду",
-          "code": "f0586816ea"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 6,
-    "couponCount": 2
-  },
-  {
-    "site_url": "https://storeinua.com/",
-    "name": "Storeinua UA",
-    "img": "platform/30400.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/4/25/30400-b311960869832095.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Household Appliances & Electronics",
-        "id": 65,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Smart Tracking_UA",
-        "id": 379,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Smart tracking programs",
-        "id": 382,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 30400,
-    "category": {
-      "name": "Household Appliances & Electronics",
-      "id": 65,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://naiawork.com/g/x2f5p3q25u5af0702a2790e72178e7/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 2,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://iboxstore.ru/",
-    "name": "iBOX",
-    "img": "platform/30582.jpg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2022/11/22/30582-a548398269d30c32.jpg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Household Appliances & Electronics",
-        "id": 65,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 30582,
-    "category": {
-      "name": "Household Appliances & Electronics",
-      "id": 65,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://codeaven.com/g/4hh84nh1h65af0702a27e6b606b04d/?erid=5jtCeReNwxHpfQTFQwvgGrT",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 2
-  },
-  {
-    "site_url": "https://www.colorway-shop.sk/",
-    "name": "Colorway Many Geo",
-    "img": "platform/32972.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/2/21/32972-70d6eafc00a29d97.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Household Appliances & Electronics",
-        "id": 65,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 32972,
-    "category": {
-      "name": "Household Appliances & Electronics",
-      "id": 65,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://wpmsx.com/g/v8ro9yqcl65af0702a2748457f1360/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 2,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://krona.ru/",
-    "name": "KRONA",
-    "img": "platform/33029.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/24/33029-d0586ebf3c523c8c.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Household Appliances & Electronics",
-        "id": 65,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Back to school 2025",
-        "id": 371,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Oktoberfest 2025",
-        "id": 373,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 33029,
-    "category": {
-      "name": "Household Appliances & Electronics",
-      "id": 65,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://rcpsj.com/g/4qaa5pbj5p5af0702a2748c36e3ba0/?erid=2bL9aMPo2e49hMef4pfyePxmqH",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 4,
-    "couponCount": 2
-  },
-  {
     "site_url": "https://store.acer.com/",
     "name": "Acer Many Geos",
     "img": "platform/35026.svg",
@@ -2729,50 +3132,6 @@
     "couponCount": 0
   },
   {
-    "site_url": "https://gait.com.kw/g_kw_en",
-    "name": "Gait KW QA",
-    "img": "platform/38227.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/18/38227-a09fdcffa5254381.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Household Appliances & Electronics",
-        "id": 65,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 38227,
-    "category": {
-      "name": "Household Appliances & Electronics",
-      "id": 65,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://zallj.com/g/fidnk4kp0w5af0702a27a331958848/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 8,
-    "couponCount": 2
-  },
-  {
     "site_url": "https://wau.ru/",
     "name": "wau.ru",
     "img": "platform/40500.svg",
@@ -2825,111 +3184,6 @@
       "cashback_link_data": null
     },
     "discountCount": 0,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://redsolution.company/",
-    "name": "redsolution.company",
-    "img": "platform/40817.jpg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/6/10/40817-4c56a5ed4bf759cb.jpg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Household Appliances & Electronics",
-        "id": 65,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Oktoberfest 2025",
-        "id": 373,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 40817,
-    "category": {
-      "name": "Household Appliances & Electronics",
-      "id": 65,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://xcdus.com/g/rv80ywrpwu5af0702a27f8d31ee3d3/?erid=2bL9aMPo2e49hMef4pgUki6FDF",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 6,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://aqara.ru",
-    "name": "",
-    "img": "platform/49307.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/12/22/49307-0302a7d5eeaa48b8.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Household Appliances & Electronics",
-        "id": 65,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Furniture & Homeware",
-        "id": 66,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 49307,
-    "category": {
-      "name": "Household Appliances & Electronics",
-      "id": 65,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://gndrz.com/g/a0xuyucz7q5af0702a27a69a5c0e88/?erid=2bL9aMPo2e49hMef4pgyXDEJu5",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 1,
     "couponCount": 0
   },
   {
@@ -3018,260 +3272,6 @@
       "cashback_link_data": null
     },
     "discountCount": 0,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://getsy.ru/",
-    "name": "Getsy RU",
-    "img": "platform/103715.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/1/103715-a211f75c53b2b83b.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Household Appliances & Electronics",
-        "id": 65,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "11.11 & Black Friday 2025",
-        "id": 377,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 103715,
-    "category": {
-      "name": "Household Appliances & Electronics",
-      "id": 65,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://zejcl.com/g/4ko2kilusq5af0702a27045782620b/?erid=2bL9aMPo2e49hMef4phyrMU3yb",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 1,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://www.miniso.com.mx/",
-    "name": "Miniso MX",
-    "img": "platform/109430.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/9/14/109430-ff296a2595e8bc13.svg",
-    "categories": [
-      {
-        "name": "Household Appliances & Electronics",
-        "id": 65,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Gifts & Flowers",
-        "id": 72,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Toys, Kids & Babies",
-        "id": 69,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Hobby & Stationery",
-        "id": 89,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Personal Care & Pharmacy",
-        "id": 67,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Pets",
-        "id": 74,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 109430,
-    "category": {
-      "name": "Household Appliances & Electronics",
-      "id": 65,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://rkdro.com/g/jdog8giuxy5af0702a27e4f3ffcb11/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 1,
-    "couponCount": 2
-  },
-  {
-    "site_url": "https://hi-stores.ru",
-    "name": "Hi Store RU",
-    "img": "platform/109641.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/9/16/109641-b50f578380af87b4.svg",
-    "categories": [
-      {
-        "name": "Household Appliances & Electronics",
-        "id": 65,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 109641,
-    "category": {
-      "name": "Household Appliances & Electronics",
-      "id": 65,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://wpmsx.com/g/hwysxaae1b5af0702a273a4ea8cf25/?erid=2bL9aMPo2e49hMef4piUAotQ6a",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 1
-  },
-  {
-    "site_url": "https://hansa.ru/",
-    "name": "Hansa RU",
-    "img": "platform/115523.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/11/13/115523-cc0a31e769424f22.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Household Appliances & Electronics",
-        "id": 65,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 115523,
-    "category": {
-      "name": "Household Appliances & Electronics",
-      "id": 65,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://heqgr.com/g/u9yhtpx8tc5af0702a27836ab04704/?erid=2bL9aMPo2e49hMef4piUWTytUj",
-      "landings": [
-        {
-          "id": 29561,
-          "name": "Больше, чем просто покупка",
-          "code": "5bb87994ab"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 1,
     "couponCount": 0
   },
   {

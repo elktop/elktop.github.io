@@ -1,5 +1,105 @@
 [
   {
+    "site_url": "https://www.kubaninstrument.ru/",
+    "name": "Kubaninstrument",
+    "img": "platform/29551.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/4/10/29551-6386e3fe773ed55c.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Hand & Power tools",
+        "id": 102,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 29551,
+    "category": {
+      "name": "Hand & Power tools",
+      "id": 102,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://xmknb.com/g/f1080pg0pu5af0702a27982ce5c8d6/?erid=2bL9aMPo2e49hMef4pfV6oY8wi",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 8,
+    "couponCount": 1
+  },
+  {
+    "site_url": "https://www.harfington.com/",
+    "name": "Harfington Many GEOs",
+    "img": "platform/37060.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/6/14/37060-10b6f52537638733.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Hand & Power tools",
+        "id": 102,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 37060,
+    "category": {
+      "name": "Hand & Power tools",
+      "id": 102,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://rzekl.com/g/rx37ljesqb5af0702a27e2f44ca4bf/",
+      "landings": [
+        {
+          "id": 31088,
+          "name": "professional tool kits",
+          "code": "c0efbb9273"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 2,
+    "couponCount": 28
+  },
+  {
     "site_url": "https://agrosemfond.ru/",
     "name": "АгроСемФонд",
     "img": "platform/19919.svg",
@@ -143,6 +243,72 @@
     "couponCount": 0
   },
   {
+    "site_url": "https://meshnology.com/",
+    "name": "Meshnology - Meshtastic & LoRa Hardware Specialist",
+    "img": "platform/159043.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/12/26/159043-e33945248d4da33c.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Hand & Power tools",
+        "id": 102,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Household Appliances & Electronics",
+        "id": 65,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 159043,
+    "category": {
+      "name": "Hand & Power tools",
+      "id": 102,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://tywhh.com/g/97h026mnpx5af0702a27e95c5fd652/",
+      "landings": [
+        {
+          "id": 31521,
+          "name": "January Top Seller , Meshnology N39 ,All-in-One Mesh Kit , High Power V4.",
+          "code": "c8ca8975a6"
+        },
+        {
+          "id": 31522,
+          "name": "High Performance Heltec V4 , Advanced Meshtastic Node",
+          "code": "4d10c954f1"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 6
+  },
+  {
     "site_url": "https://hyundaipowerequipment.co.uk",
     "name": "Hyundai Power Products UK",
     "img": "platform/28256.svg",
@@ -185,50 +351,6 @@
     },
     "discountCount": 0,
     "couponCount": 0
-  },
-  {
-    "site_url": "https://www.kubaninstrument.ru/",
-    "name": "Kubaninstrument",
-    "img": "platform/29551.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/4/10/29551-6386e3fe773ed55c.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Hand & Power tools",
-        "id": 102,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 29551,
-    "category": {
-      "name": "Hand & Power tools",
-      "id": 102,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://xmknb.com/g/f1080pg0pu5af0702a27982ce5c8d6/?erid=2bL9aMPo2e49hMef4pfV6oY8wi",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 8,
-    "couponCount": 1
   },
   {
     "site_url": "https://gardenmart24.ru/",
@@ -321,127 +443,5 @@
     },
     "discountCount": 0,
     "couponCount": 0
-  },
-  {
-    "site_url": "https://www.harfington.com/",
-    "name": "Harfington Many GEOs",
-    "img": "platform/37060.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/6/14/37060-10b6f52537638733.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Hand & Power tools",
-        "id": 102,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Smart tracking programs",
-        "id": 382,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 37060,
-    "category": {
-      "name": "Hand & Power tools",
-      "id": 102,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://rzekl.com/g/rx37ljesqb5af0702a27e2f44ca4bf/",
-      "landings": [
-        {
-          "id": 31088,
-          "name": "professional tool kits",
-          "code": "c0efbb9273"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 2,
-    "couponCount": 28
-  },
-  {
-    "site_url": "https://meshnology.com/",
-    "name": "Meshnology - Meshtastic & LoRa Hardware Specialist",
-    "img": "platform/159043.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/12/26/159043-e33945248d4da33c.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Hand & Power tools",
-        "id": 102,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Household Appliances & Electronics",
-        "id": 65,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 159043,
-    "category": {
-      "name": "Hand & Power tools",
-      "id": 102,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://tywhh.com/g/97h026mnpx5af0702a27e95c5fd652/",
-      "landings": [
-        {
-          "id": 31521,
-          "name": "January Top Seller , Meshnology N39 ,All-in-One Mesh Kit , High Power V4.",
-          "code": "c8ca8975a6"
-        },
-        {
-          "id": 31522,
-          "name": "High Performance Heltec V4 , Advanced Meshtastic Node",
-          "code": "4d10c954f1"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 6
   }
 ]

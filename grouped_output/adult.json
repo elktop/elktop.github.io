@@ -1,60 +1,5 @@
 [
   {
-    "site_url": "https://www.wickedweasel.com/",
-    "name": "Wicked Weasel WW",
-    "img": "platform/36750.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/5/4/36750-432f6a418a360e83.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Adult",
-        "id": 216,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 36750,
-    "category": {
-      "name": "Adult",
-      "id": 216,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://gndrz.com/g/ftit41f4675af0702a27fb8e791053/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 0
-  },
-  {
     "site_url": "https://www.lelo.com/",
     "name": "Lelo WW",
     "img": "platform/41774.svg",
@@ -159,6 +104,61 @@
     },
     "discountCount": 0,
     "couponCount": 1
+  },
+  {
+    "site_url": "https://www.wickedweasel.com/",
+    "name": "Wicked Weasel WW",
+    "img": "platform/36750.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/5/4/36750-432f6a418a360e83.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Adult",
+        "id": 216,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 36750,
+    "category": {
+      "name": "Adult",
+      "id": 216,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://gndrz.com/g/ftit41f4675af0702a27fb8e791053/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://meibi.mx",

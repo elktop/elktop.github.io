@@ -1,297 +1,5 @@
 [
   {
-    "site_url": "https://postel-deluxe.ru/",
-    "name": "Postel Deluxe",
-    "img": "platform/3940.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/11/24/3940-778698de608b94f7.svg",
-    "categories": [
-      {
-        "name": "Furniture & Homeware",
-        "id": 66,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 3940,
-    "category": {
-      "name": "Furniture & Homeware",
-      "id": 66,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://rzekl.com/g/096074f47b5af0702a271ffe6b23a4/?erid=5jtCeReLm1S3Xx3LfGfxR7W",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://zvet.ru/",
-    "name": "Цвет Диванов",
-    "img": "platform/9658.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/13/9658-d7158ea4726bca5b.svg",
-    "categories": [
-      {
-        "name": "Furniture & Homeware",
-        "id": 66,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 9658,
-    "category": {
-      "name": "Furniture & Homeware",
-      "id": 66,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://thevospad.com/g/67570bafb65af0702a2766146bcf1d/?erid=5jtCeReLm1S3Xx3Lfj3wyRM",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://www.nozhikov.ru/",
-    "name": "Ножиков",
-    "img": "platform/15411.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/17/15411-4235cec652a39301.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Furniture & Homeware",
-        "id": 66,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Hobby & Stationery",
-        "id": 89,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 15411,
-    "category": {
-      "name": "Furniture & Homeware",
-      "id": 66,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://ntzgd.com/g/17lxnyyakg5af0702a27c109c80522/?erid=MvGzQC98w3Z1gMq1kwxo4uEw",
-      "landings": [
-        {
-          "id": 22649,
-          "name": "Подарки к 23 февраля",
-          "code": "1f92fee1b9"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 1,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://www.pepperfry.com/",
-    "name": "Pepperfry Web [CPS] IN",
-    "img": "platform/16248.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/12/21/16248-2e24fe62b4175916.svg",
-    "categories": [
-      {
-        "name": "Furniture & Homeware",
-        "id": 66,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 16248,
-    "category": {
-      "name": "Furniture & Homeware",
-      "id": 66,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://tjzuh.com/g/avo9zwf5jh5af0702a27e187ed2532/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://shop.aquaphor.ru/",
-    "name": "Аквафор",
-    "img": "platform/20551.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/13/20551-7f5e969a80aa4ea0.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Furniture & Homeware",
-        "id": 66,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Household Appliances & Electronics",
-        "id": 65,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 20551,
-    "category": {
-      "name": "Furniture & Homeware",
-      "id": 66,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://zmgig.com/g/40zpd1fjmr5af0702a277daad499a8/?erid=MvGzQC98w3Z1gMq1nw3HiY6K",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 2,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://mebel169.ru/",
-    "name": "Mebel169",
-    "img": "platform/21642.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/8/21642-2c2ede0ba9dd0b9a.svg",
-    "categories": [
-      {
-        "name": "Furniture & Homeware",
-        "id": 66,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 21642,
-    "category": {
-      "name": "Furniture & Homeware",
-      "id": 66,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://ficca2021.com/g/etc8h6u1325af0702a2779b69ad4d7/?erid=MvGzQC98w3Z1gMq1nx4BXLvM",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 14,
-    "couponCount": 0
-  },
-  {
     "site_url": "https://restoll.ru",
     "name": "Restoll",
     "img": "platform/25308.jpg",
@@ -345,94 +53,6 @@
     },
     "discountCount": 1,
     "couponCount": 3
-  },
-  {
-    "site_url": "https://megastroy.com/",
-    "name": "МЕГАСТРОЙ",
-    "img": "platform/26035.png",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/11/24/26035-9da86fdaf81d2508.png",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Furniture & Homeware",
-        "id": 66,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 26035,
-    "category": {
-      "name": "Furniture & Homeware",
-      "id": 66,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://bednari.com/g/xcawb6ikii5af0702a27161cbbe6df/?erid=5jtCeReNwxHpfQTEQWKMenp",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 3,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://cozyhome.ru/",
-    "name": "COZY HOME",
-    "img": "platform/26239.jpg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2022/7/11/26239-9ee15859e5e68126.jpg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Furniture & Homeware",
-        "id": 66,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 26239,
-    "category": {
-      "name": "Furniture & Homeware",
-      "id": 66,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://ficca2021.com/g/kqbowed2g05af0702a2774bec426fb/?erid=2bL9aMPo2e49hMef4peVLZHm61",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 2,
-    "couponCount": 0
   },
   {
     "site_url": "https://www.miravia.es/",
@@ -676,10 +296,10 @@
     "couponCount": 5
   },
   {
-    "site_url": "https://dubok.cz/",
-    "name": "Dubok CZ",
-    "img": "platform/34240.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/4/6/34240-90f50efb1cec1432.svg",
+    "site_url": "https://www.nozhikov.ru/",
+    "name": "Ножиков",
+    "img": "platform/15411.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/17/15411-4235cec652a39301.svg",
     "categories": [
       {
         "name": "Online stores",
@@ -699,41 +319,8 @@
         }
       },
       {
-        "name": "Smart tracking programs",
-        "id": 382,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 34240,
-    "category": {
-      "name": "Furniture & Homeware",
-      "id": 66,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://rzekl.com/g/1dnjyvz8ou5af0702a2768c3817a14/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 4
-  },
-  {
-    "site_url": "https://www.dushevoi.ru/",
-    "name": "dushevoi.ru",
-    "img": "platform/34850.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/4/20/34850-466fc17c8858fdcb.svg",
-    "categories": [
-      {
-        "name": "Furniture & Homeware",
-        "id": 66,
+        "name": "Hobby & Stationery",
+        "id": 89,
         "language": "en",
         "parent": {
           "name": "Online stores",
@@ -741,15 +328,9 @@
           "language": "en",
           "parent": null
         }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
       }
     ],
-    "id": 34850,
+    "id": 15411,
     "category": {
       "name": "Furniture & Homeware",
       "id": 66,
@@ -762,62 +343,24 @@
       }
     },
     "affiliate": {
-      "goto_link": "https://thevospad.com/g/8y90u6fb1m5af0702a271eeafaf0b6/?erid=2bL9aMPo2e49hMef4pfyz5aG5m",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 1
-  },
-  {
-    "site_url": "https://www.moveislinhares.com.br",
-    "name": "Moveis Linhares",
-    "img": "platform/37419.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/7/21/37419-74064b9947f650f9.svg",
-    "categories": [
-      {
-        "name": "Furniture & Homeware",
-        "id": 66,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
+      "goto_link": "https://ntzgd.com/g/17lxnyyakg5af0702a27c109c80522/?erid=MvGzQC98w3Z1gMq1kwxo4uEw",
+      "landings": [
+        {
+          "id": 22649,
+          "name": "Подарки к 23 февраля",
+          "code": "1f92fee1b9"
         }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 37419,
-    "category": {
-      "name": "Furniture & Homeware",
-      "id": 66,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://uhtkc.com/g/oya5gbzbtk5af0702a27a21fd40920/",
-      "landings": [],
+      ],
       "cashback_link_data": null
     },
-    "discountCount": 0,
-    "couponCount": 1
+    "discountCount": 1,
+    "couponCount": 0
   },
   {
-    "site_url": "https://www.whirlpool.mx/",
-    "name": "Whirlpool MX/CO",
-    "img": "platform/43361.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/10/17/43361-a4433a27a8b7a214.svg",
+    "site_url": "https://shop.aquaphor.ru/",
+    "name": "Аквафор",
+    "img": "platform/20551.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/13/20551-7f5e969a80aa4ea0.svg",
     "categories": [
       {
         "name": "Online stores",
@@ -848,7 +391,7 @@
         }
       }
     ],
-    "id": 43361,
+    "id": 20551,
     "category": {
       "name": "Furniture & Homeware",
       "id": 66,
@@ -861,11 +404,143 @@
       }
     },
     "affiliate": {
-      "goto_link": "https://rzekl.com/g/hkjqq2fi8q5af0702a2782ed2bb6aa/",
+      "goto_link": "https://zmgig.com/g/40zpd1fjmr5af0702a277daad499a8/?erid=MvGzQC98w3Z1gMq1nw3HiY6K",
       "landings": [],
       "cashback_link_data": null
     },
-    "discountCount": 0,
+    "discountCount": 2,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://mebel169.ru/",
+    "name": "Mebel169",
+    "img": "platform/21642.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/8/21642-2c2ede0ba9dd0b9a.svg",
+    "categories": [
+      {
+        "name": "Furniture & Homeware",
+        "id": 66,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 21642,
+    "category": {
+      "name": "Furniture & Homeware",
+      "id": 66,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://ficca2021.com/g/etc8h6u1325af0702a2779b69ad4d7/?erid=MvGzQC98w3Z1gMq1nx4BXLvM",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 14,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://megastroy.com/",
+    "name": "МЕГАСТРОЙ",
+    "img": "platform/26035.png",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/11/24/26035-9da86fdaf81d2508.png",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Furniture & Homeware",
+        "id": 66,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 26035,
+    "category": {
+      "name": "Furniture & Homeware",
+      "id": 66,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://bednari.com/g/xcawb6ikii5af0702a27161cbbe6df/?erid=5jtCeReNwxHpfQTEQWKMenp",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 3,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://cozyhome.ru/",
+    "name": "COZY HOME",
+    "img": "platform/26239.jpg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2022/7/11/26239-9ee15859e5e68126.jpg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Furniture & Homeware",
+        "id": 66,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 26239,
+    "category": {
+      "name": "Furniture & Homeware",
+      "id": 66,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://ficca2021.com/g/kqbowed2g05af0702a2774bec426fb/?erid=2bL9aMPo2e49hMef4peVLZHm61",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 2,
     "couponCount": 0
   },
   {
@@ -1012,6 +687,232 @@
     "couponCount": 0
   },
   {
+    "site_url": "https://www.delsol.com.mx/",
+    "name": "DelSol MX",
+    "img": "platform/121943.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/2/18/121943-43942d1ef345e90f.svg",
+    "categories": [
+      {
+        "name": "Furniture & Homeware",
+        "id": 66,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "eHealth",
+        "id": 202,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Gifts & Flowers",
+        "id": 72,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Personal Care & Pharmacy",
+        "id": 67,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 121943,
+    "category": {
+      "name": "Furniture & Homeware",
+      "id": 66,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://rthsu.com/g/d59il9migt5af0702a2720bedc2379/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 3,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://dubok.cz/",
+    "name": "Dubok CZ",
+    "img": "platform/34240.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/4/6/34240-90f50efb1cec1432.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Furniture & Homeware",
+        "id": 66,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 34240,
+    "category": {
+      "name": "Furniture & Homeware",
+      "id": 66,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://rzekl.com/g/1dnjyvz8ou5af0702a2768c3817a14/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 4
+  },
+  {
+    "site_url": "https://www.dushevoi.ru/",
+    "name": "dushevoi.ru",
+    "img": "platform/34850.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/4/20/34850-466fc17c8858fdcb.svg",
+    "categories": [
+      {
+        "name": "Furniture & Homeware",
+        "id": 66,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 34850,
+    "category": {
+      "name": "Furniture & Homeware",
+      "id": 66,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://thevospad.com/g/8y90u6fb1m5af0702a271eeafaf0b6/?erid=2bL9aMPo2e49hMef4pfyz5aG5m",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 1
+  },
+  {
+    "site_url": "https://www.moveislinhares.com.br",
+    "name": "Moveis Linhares",
+    "img": "platform/37419.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/7/21/37419-74064b9947f650f9.svg",
+    "categories": [
+      {
+        "name": "Furniture & Homeware",
+        "id": 66,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 37419,
+    "category": {
+      "name": "Furniture & Homeware",
+      "id": 66,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://uhtkc.com/g/oya5gbzbtk5af0702a27a21fd40920/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 1
+  },
+  {
     "site_url": "https://openhagen.com/",
     "name": "Openhagen WW",
     "img": "platform/98967.svg",
@@ -1065,6 +966,193 @@
     },
     "discountCount": 0,
     "couponCount": 2
+  },
+  {
+    "site_url": "https://postel-deluxe.ru/",
+    "name": "Postel Deluxe",
+    "img": "platform/3940.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/11/24/3940-778698de608b94f7.svg",
+    "categories": [
+      {
+        "name": "Furniture & Homeware",
+        "id": 66,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 3940,
+    "category": {
+      "name": "Furniture & Homeware",
+      "id": 66,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://rzekl.com/g/096074f47b5af0702a271ffe6b23a4/?erid=5jtCeReLm1S3Xx3LfGfxR7W",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://zvet.ru/",
+    "name": "Цвет Диванов",
+    "img": "platform/9658.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/13/9658-d7158ea4726bca5b.svg",
+    "categories": [
+      {
+        "name": "Furniture & Homeware",
+        "id": 66,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 9658,
+    "category": {
+      "name": "Furniture & Homeware",
+      "id": 66,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://thevospad.com/g/67570bafb65af0702a2766146bcf1d/?erid=5jtCeReLm1S3Xx3Lfj3wyRM",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://www.pepperfry.com/",
+    "name": "Pepperfry Web [CPS] IN",
+    "img": "platform/16248.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/12/21/16248-2e24fe62b4175916.svg",
+    "categories": [
+      {
+        "name": "Furniture & Homeware",
+        "id": 66,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 16248,
+    "category": {
+      "name": "Furniture & Homeware",
+      "id": 66,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://tjzuh.com/g/avo9zwf5jh5af0702a27e187ed2532/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://www.whirlpool.mx/",
+    "name": "Whirlpool MX/CO",
+    "img": "platform/43361.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/10/17/43361-a4433a27a8b7a214.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Furniture & Homeware",
+        "id": 66,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Household Appliances & Electronics",
+        "id": 65,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 43361,
+    "category": {
+      "name": "Furniture & Homeware",
+      "id": 66,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://rzekl.com/g/hkjqq2fi8q5af0702a2782ed2bb6aa/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://consul-coton.ru",
@@ -1372,94 +1460,6 @@
       "cashback_link_data": null
     },
     "discountCount": 0,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://www.delsol.com.mx/",
-    "name": "DelSol MX",
-    "img": "platform/121943.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/2/18/121943-43942d1ef345e90f.svg",
-    "categories": [
-      {
-        "name": "Furniture & Homeware",
-        "id": 66,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "eHealth",
-        "id": 202,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Gifts & Flowers",
-        "id": 72,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Personal Care & Pharmacy",
-        "id": 67,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 121943,
-    "category": {
-      "name": "Furniture & Homeware",
-      "id": 66,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://rthsu.com/g/d59il9migt5af0702a2720bedc2379/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 3,
     "couponCount": 0
   },
   {

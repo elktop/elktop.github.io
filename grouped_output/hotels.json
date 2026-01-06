@@ -1,49 +1,5 @@
 [
   {
-    "site_url": "https://ostrovok.ru/",
-    "name": "Островок RU",
-    "img": "platform/2281.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/4/3/2281-6e9950e75b2d8b59.svg",
-    "categories": [
-      {
-        "name": "Hotels",
-        "id": 41,
-        "language": "en",
-        "parent": {
-          "name": "Travel & Tourism",
-          "id": 40,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Travel & Tourism",
-        "id": 40,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 2281,
-    "category": {
-      "name": "Hotels",
-      "id": 41,
-      "language": "en",
-      "parent": {
-        "name": "Travel & Tourism",
-        "id": 40,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://xpuvo.com/g/78b470f15e5af0702a2773c53f4f5f/?erid=5jtCeReLm1S3Xx3LfA6vFuy",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 1,
-    "couponCount": 0
-  },
-  {
     "site_url": "https://www.nh-hotels.com/",
     "name": "Minor Hotels Many GEOs",
     "img": "platform/17396.svg",
@@ -164,6 +120,192 @@
     },
     "discountCount": 11,
     "couponCount": 3
+  },
+  {
+    "site_url": "https://travel.yandex.ru/",
+    "name": "Яндекс.Путешествия",
+    "img": "platform/25224.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/5/16/25224-dcc2c153a070ebf9.svg",
+    "categories": [
+      {
+        "name": "Hotels",
+        "id": 41,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Trains",
+        "id": 208,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Flights",
+        "id": 44,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 25224,
+    "category": {
+      "name": "Hotels",
+      "id": 41,
+      "language": "en",
+      "parent": {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://uknty.com/g/6fwnm4uptp5af0702a276b3b8b6079/?erid=5jtCeReNwxHpfQTDvQsWzkg",
+      "landings": [
+        {
+          "id": 29479,
+          "name": "Ночь отелей",
+          "code": "aaeb43a283"
+        },
+        {
+          "id": 22462,
+          "name": "Путешествия с Ultima Яндекс Go",
+          "code": "07c628affa"
+        },
+        {
+          "id": 30538,
+          "name": "Фестивальный сезон",
+          "code": "c539bee535"
+        },
+        {
+          "id": 21921,
+          "name": "Черная Пятница",
+          "code": "cca85cb7e2"
+        },
+        {
+          "id": 30000,
+          "name": "Майские 2025",
+          "code": "1e0584fd1b"
+        },
+        {
+          "id": 30612,
+          "name": "В приложении дешевле. Очевидно",
+          "code": "33aa25b32c"
+        },
+        {
+          "id": 29534,
+          "name": "Гендерные праздники 23 февраля и 8 марта",
+          "code": "94e2a3f893"
+        },
+        {
+          "id": 29891,
+          "name": "Флеш Санатории",
+          "code": "6918416ed9"
+        },
+        {
+          "id": 30629,
+          "name": "Три дня мировых скидок",
+          "code": "40e16520ea"
+        },
+        {
+          "id": 30752,
+          "name": "Аттракцион бархатных направлений",
+          "code": "a48afd1346"
+        },
+        {
+          "id": 29889,
+          "name": "Раннее бронирование",
+          "code": "15eb7ea784"
+        },
+        {
+          "id": 30339,
+          "name": "Санаторий 25",
+          "code": "50962418fc"
+        },
+        {
+          "id": 25167,
+          "name": "Горы впечатлений",
+          "code": "4b830efbd5"
+        },
+        {
+          "id": 21922,
+          "name": "Зимнее Путешествие",
+          "code": "df165feda2"
+        },
+        {
+          "id": 29990,
+          "name": "Я устал",
+          "code": "b982213ffe"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 3,
+    "couponCount": 1
+  },
+  {
+    "site_url": "https://ostrovok.ru/",
+    "name": "Островок RU",
+    "img": "platform/2281.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/4/3/2281-6e9950e75b2d8b59.svg",
+    "categories": [
+      {
+        "name": "Hotels",
+        "id": 41,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 2281,
+    "category": {
+      "name": "Hotels",
+      "id": 41,
+      "language": "en",
+      "parent": {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://xpuvo.com/g/78b470f15e5af0702a2773c53f4f5f/?erid=5jtCeReLm1S3Xx3LfA6vFuy",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 1,
+    "couponCount": 0
   },
   {
     "site_url": "https://www.trip.com/",
@@ -323,148 +465,6 @@
     },
     "discountCount": 16,
     "couponCount": 0
-  },
-  {
-    "site_url": "https://travel.yandex.ru/",
-    "name": "Яндекс.Путешествия",
-    "img": "platform/25224.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/5/16/25224-dcc2c153a070ebf9.svg",
-    "categories": [
-      {
-        "name": "Hotels",
-        "id": 41,
-        "language": "en",
-        "parent": {
-          "name": "Travel & Tourism",
-          "id": 40,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Travel & Tourism",
-        "id": 40,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Trains",
-        "id": 208,
-        "language": "en",
-        "parent": {
-          "name": "Travel & Tourism",
-          "id": 40,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Flights",
-        "id": 44,
-        "language": "en",
-        "parent": {
-          "name": "Travel & Tourism",
-          "id": 40,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 25224,
-    "category": {
-      "name": "Hotels",
-      "id": 41,
-      "language": "en",
-      "parent": {
-        "name": "Travel & Tourism",
-        "id": 40,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://uknty.com/g/6fwnm4uptp5af0702a276b3b8b6079/?erid=5jtCeReNwxHpfQTDvQsWzkg",
-      "landings": [
-        {
-          "id": 29479,
-          "name": "Ночь отелей",
-          "code": "aaeb43a283"
-        },
-        {
-          "id": 22462,
-          "name": "Путешествия с Ultima Яндекс Go",
-          "code": "07c628affa"
-        },
-        {
-          "id": 30538,
-          "name": "Фестивальный сезон",
-          "code": "c539bee535"
-        },
-        {
-          "id": 21921,
-          "name": "Черная Пятница",
-          "code": "cca85cb7e2"
-        },
-        {
-          "id": 30000,
-          "name": "Майские 2025",
-          "code": "1e0584fd1b"
-        },
-        {
-          "id": 30612,
-          "name": "В приложении дешевле. Очевидно",
-          "code": "33aa25b32c"
-        },
-        {
-          "id": 29534,
-          "name": "Гендерные праздники 23 февраля и 8 марта",
-          "code": "94e2a3f893"
-        },
-        {
-          "id": 29891,
-          "name": "Флеш Санатории",
-          "code": "6918416ed9"
-        },
-        {
-          "id": 30629,
-          "name": "Три дня мировых скидок",
-          "code": "40e16520ea"
-        },
-        {
-          "id": 30752,
-          "name": "Аттракцион бархатных направлений",
-          "code": "a48afd1346"
-        },
-        {
-          "id": 29889,
-          "name": "Раннее бронирование",
-          "code": "15eb7ea784"
-        },
-        {
-          "id": 30339,
-          "name": "Санаторий 25",
-          "code": "50962418fc"
-        },
-        {
-          "id": 25167,
-          "name": "Горы впечатлений",
-          "code": "4b830efbd5"
-        },
-        {
-          "id": 21922,
-          "name": "Зимнее Путешествие",
-          "code": "df165feda2"
-        },
-        {
-          "id": 29990,
-          "name": "Я устал",
-          "code": "b982213ffe"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 3,
-    "couponCount": 1
   },
   {
     "site_url": "https://www.avito.ru/moskva/kvartiry/sdam/posutochno/-ASgBAgICAkSSA8gQ8AeSUg/",

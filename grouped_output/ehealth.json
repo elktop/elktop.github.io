@@ -83,6 +83,50 @@
     "couponCount": 1
   },
   {
+    "site_url": "https://hyugalife.com/",
+    "name": "Hyugalife [CPS] IN",
+    "img": "platform/35837.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/5/15/35837-60cff22298f98de6.svg",
+    "categories": [
+      {
+        "name": "eHealth",
+        "id": 202,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 35837,
+    "category": {
+      "name": "eHealth",
+      "id": 202,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://tjzuh.com/g/hpevocgj6h5af0702a27c6a1a33a3b/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 39,
+    "couponCount": 0
+  },
+  {
     "site_url": "https://priem.menu/",
     "name": "Priem.menu",
     "img": "platform/33919.svg",
@@ -148,49 +192,5 @@
     },
     "discountCount": 0,
     "couponCount": 1
-  },
-  {
-    "site_url": "https://hyugalife.com/",
-    "name": "Hyugalife [CPS] IN",
-    "img": "platform/35837.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/5/15/35837-60cff22298f98de6.svg",
-    "categories": [
-      {
-        "name": "eHealth",
-        "id": 202,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 35837,
-    "category": {
-      "name": "eHealth",
-      "id": 202,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://tjzuh.com/g/hpevocgj6h5af0702a27c6a1a33a3b/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 39,
-    "couponCount": 0
   }
 ]

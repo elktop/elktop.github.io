@@ -1,66 +1,5 @@
 [
   {
-    "site_url": "https://www.justfashionnow.com/",
-    "name": "Justfashionnow WW",
-    "img": "platform/24286.png",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2021/3/1/24286-7f653b51c4842598.png",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Marketplaces (including Chinese Stores)",
-        "id": 96,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Smart tracking programs",
-        "id": 382,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 24286,
-    "category": {
-      "name": "Marketplaces (including Chinese Stores)",
-      "id": 96,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://rzekl.com/g/kmcoj56juv5af0702a27608cdf386b/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 2
-  },
-  {
     "site_url": "https://noracora.com/",
     "name": "Noracora WW",
     "img": "platform/24287.png",
@@ -387,87 +326,6 @@
     "couponCount": 290
   },
   {
-    "site_url": "https://store.govee.com/",
-    "name": "Govee Many GEOs",
-    "img": "platform/24808.png",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/7/24808-7957accbb1fe1dec.png",
-    "categories": [
-      {
-        "name": "Marketplaces (including Chinese Stores)",
-        "id": 96,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Household Appliances & Electronics",
-        "id": 65,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 24808,
-    "category": {
-      "name": "Marketplaces (including Chinese Stores)",
-      "id": 96,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://rthsu.com/g/yzzx0gmxy05af0702a273791d3d079/",
-      "landings": [
-        {
-          "id": 24379,
-          "name": "Partner Exclusive offer products EU",
-          "code": "6727a7d9af"
-        },
-        {
-          "id": 24381,
-          "name": "Partner Exclusive offer products CA",
-          "code": "d3b81dd206"
-        },
-        {
-          "id": 17318,
-          "name": "Govee Glide Wall Light Promotion B6062",
-          "code": "0ddb304f16"
-        },
-        {
-          "id": 24378,
-          "name": "Partner Exclusive offer products US",
-          "code": "b607bad6ea"
-        },
-        {
-          "id": 24380,
-          "name": "Partner Exclusive offer products UK",
-          "code": "982dc1f521"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 0
-  },
-  {
     "site_url": "https://www.vevor.com",
     "name": "Vevor Many GEOs",
     "img": "platform/25369.svg",
@@ -713,6 +571,173 @@
     "couponCount": 23
   },
   {
+    "site_url": "https://www.infostore.com.br",
+    "name": "Info Store (EN)",
+    "img": "platform/37077.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/7/24/37077-29d3519507707ad4.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Marketplaces (including Chinese Stores)",
+        "id": 96,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 37077,
+    "category": {
+      "name": "Marketplaces (including Chinese Stores)",
+      "id": 96,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://naiawork.com/g/rq0o1qm7ol5af0702a277b8e659797/",
+      "landings": [
+        {
+          "id": 24624,
+          "name": "Dia do Cliente",
+          "code": "e9755f1143"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 1,
+    "couponCount": 6
+  },
+  {
+    "site_url": "https://www.joom.ru/ru",
+    "name": "Joom RU",
+    "img": "platform/35530.png",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/6/22/35530-5089dcb4d939fbb5.png",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Marketplaces (including Chinese Stores)",
+        "id": 96,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "New Year Festival 2026",
+        "id": 378,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 35530,
+    "category": {
+      "name": "Marketplaces (including Chinese Stores)",
+      "id": 96,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://aflink.ru/g/18vhi6r5cv5af0702a2779deb39b46/?erid=5jtCeReNwxHpfQTFuc3CS5J",
+      "landings": [
+        {
+          "id": 31128,
+          "name": "Black November Sale",
+          "code": "b8849b7072"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 3,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://www.justfashionnow.com/",
+    "name": "Justfashionnow WW",
+    "img": "platform/24286.png",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/3/1/24286-7f653b51c4842598.png",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Marketplaces (including Chinese Stores)",
+        "id": 96,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 24286,
+    "category": {
+      "name": "Marketplaces (including Chinese Stores)",
+      "id": 96,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://rzekl.com/g/kmcoj56juv5af0702a27608cdf386b/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 2
+  },
+  {
     "site_url": "https://us.donnermusic.com/",
     "name": "Donnerdeal US",
     "img": "platform/26000.svg",
@@ -801,6 +826,87 @@
     "couponCount": 4
   },
   {
+    "site_url": "https://store.govee.com/",
+    "name": "Govee Many GEOs",
+    "img": "platform/24808.png",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/7/24808-7957accbb1fe1dec.png",
+    "categories": [
+      {
+        "name": "Marketplaces (including Chinese Stores)",
+        "id": 96,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Household Appliances & Electronics",
+        "id": 65,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 24808,
+    "category": {
+      "name": "Marketplaces (including Chinese Stores)",
+      "id": 96,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://rthsu.com/g/yzzx0gmxy05af0702a273791d3d079/",
+      "landings": [
+        {
+          "id": 24379,
+          "name": "Partner Exclusive offer products EU",
+          "code": "6727a7d9af"
+        },
+        {
+          "id": 24381,
+          "name": "Partner Exclusive offer products CA",
+          "code": "d3b81dd206"
+        },
+        {
+          "id": 17318,
+          "name": "Govee Glide Wall Light Promotion B6062",
+          "code": "0ddb304f16"
+        },
+        {
+          "id": 24378,
+          "name": "Partner Exclusive offer products US",
+          "code": "b607bad6ea"
+        },
+        {
+          "id": 24380,
+          "name": "Partner Exclusive offer products UK",
+          "code": "982dc1f521"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
+  },
+  {
     "site_url": "https://www.shopsy.in/",
     "name": "Shopsy App [CPS] IN",
     "img": "platform/27560.svg",
@@ -843,112 +949,6 @@
     },
     "discountCount": 0,
     "couponCount": 0
-  },
-  {
-    "site_url": "https://www.joom.ru/ru",
-    "name": "Joom RU",
-    "img": "platform/35530.png",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/6/22/35530-5089dcb4d939fbb5.png",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Marketplaces (including Chinese Stores)",
-        "id": 96,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "New Year Festival 2026",
-        "id": 378,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 35530,
-    "category": {
-      "name": "Marketplaces (including Chinese Stores)",
-      "id": 96,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://aflink.ru/g/18vhi6r5cv5af0702a2779deb39b46/?erid=5jtCeReNwxHpfQTFuc3CS5J",
-      "landings": [
-        {
-          "id": 31128,
-          "name": "Black November Sale",
-          "code": "b8849b7072"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 3,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://www.infostore.com.br",
-    "name": "Info Store (EN)",
-    "img": "platform/37077.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/7/24/37077-29d3519507707ad4.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Marketplaces (including Chinese Stores)",
-        "id": 96,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 37077,
-    "category": {
-      "name": "Marketplaces (including Chinese Stores)",
-      "id": 96,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://naiawork.com/g/rq0o1qm7ol5af0702a277b8e659797/",
-      "landings": [
-        {
-          "id": 24624,
-          "name": "Dia do Cliente",
-          "code": "e9755f1143"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 1,
-    "couponCount": 6
   },
   {
     "site_url": "https://cleaningsuperstore.com",

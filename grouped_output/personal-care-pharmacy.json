@@ -55,484 +55,6 @@
     "couponCount": 3
   },
   {
-    "site_url": "https://www.rigla.ru/",
-    "name": "РИГЛА",
-    "img": "platform/17045.png",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2022/4/22/17045-994123553e9ab5b2.png",
-    "categories": [
-      {
-        "name": "Personal Care & Pharmacy",
-        "id": 67,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 17045,
-    "category": {
-      "name": "Personal Care & Pharmacy",
-      "id": 67,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://zallj.com/g/wni59pjt8a5af0702a275b4157882f/?erid=25H8d7vbP8SRTvGZs4rxuW",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 5,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://www.ochkov.net/",
-    "name": "Ochkov",
-    "img": "platform/17863.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/21/17863-9e95bb01c305ab7b.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Personal Care & Pharmacy",
-        "id": 67,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Oktoberfest 2025",
-        "id": 373,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 17863,
-    "category": {
-      "name": "Personal Care & Pharmacy",
-      "id": 67,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://yjfca.com/g/1g2dcvp1p85af0702a27de1da8797c/?erid=MvGzQC98w3Z1gMq1mwGmDKYh",
-      "landings": [
-        {
-          "id": 10445,
-          "name": "Защитные маски",
-          "code": "a173dfdaa7"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 4,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://zdravcity.ru/",
-    "name": "Zdravcity RU",
-    "img": "platform/18054.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/21/18054-d68796701e188db5.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Personal Care & Pharmacy",
-        "id": 67,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 18054,
-    "category": {
-      "name": "Personal Care & Pharmacy",
-      "id": 67,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://dhwnh.com/g/vhr1ruamas5af0702a27af67a6436f/?erid=25H8d7vbP8SRTvH4QRy47F",
-      "landings": [
-        {
-          "id": 24995,
-          "name": "Скидка на первый заказ в Приморье",
-          "code": "e39889fa44"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 1
-  },
-  {
-    "site_url": "https://www.dewal.ru/",
-    "name": "Dewal",
-    "img": "platform/18757.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/7/18757-2990649403096106.svg",
-    "categories": [
-      {
-        "name": "Personal Care & Pharmacy",
-        "id": 67,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Oktoberfest 2025",
-        "id": 373,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Back to school 2025",
-        "id": 371,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 18757,
-    "category": {
-      "name": "Personal Care & Pharmacy",
-      "id": 67,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://xyowz.com/g/3d0z51t5cy5af0702a27e883c4cd87/?erid=MvGzQC98w3Z1gMq1mwqcJQtN",
-      "landings": [
-        {
-          "id": 30777,
-          "name": "Акционный лендинг",
-          "code": "7d555ec502"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 1
-  },
-  {
-    "site_url": "https://www.pharmacosmetica.ru/",
-    "name": "Pharmacosmetica.ru",
-    "img": "platform/20231.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/13/20231-1ca1ce044ac585ad.svg",
-    "categories": [
-      {
-        "name": "Personal Care & Pharmacy",
-        "id": 67,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 20231,
-    "category": {
-      "name": "Personal Care & Pharmacy",
-      "id": 67,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://xpuvo.com/g/ny8r7x7kal5af0702a2745f5c1a381/?erid=25H8d7vbP8SRTvHa5QohYp",
-      "landings": [
-        {
-          "id": 18699,
-          "name": "Новогодний адвент календарь от Pharmacosmetica",
-          "code": "cc9db8abd6"
-        },
-        {
-          "id": 31428,
-          "name": "8 класс",
-          "code": "af9300832b"
-        },
-        {
-          "id": 19446,
-          "name": "Наборы средств для ухода за кожей по специальной цене",
-          "code": "0bbf66150d"
-        },
-        {
-          "id": 20172,
-          "name": "Новинка на сайте.Ортопедические изделия Крейт по выгодной цене.",
-          "code": "7d561be36b"
-        },
-        {
-          "id": 19016,
-          "name": "Наборы косметики по выгодной цене",
-          "code": "97f0ca2dfb"
-        },
-        {
-          "id": 19608,
-          "name": "Новинка. Подарочные наборы",
-          "code": "83af4bbc46"
-        },
-        {
-          "id": 31427,
-          "name": "7 класс",
-          "code": "9b61d3b1b8"
-        },
-        {
-          "id": 29416,
-          "name": "Киберпонедельник 2025",
-          "code": "5dcb8474f3"
-        },
-        {
-          "id": 19607,
-          "name": "Акция. Наборы косметики La Roche-Posay по специальной цене",
-          "code": "e14283ab4d"
-        },
-        {
-          "id": 19328,
-          "name": "Идеи подарков",
-          "code": "8b4aa88feb"
-        },
-        {
-          "id": 10212,
-          "name": "Средства индивидуальной защиты",
-          "code": "19a8b15b2c"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 5,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://royalsamplesbox.ru/",
-    "name": "Royalsamples",
-    "img": "platform/20717.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/5/12/20717-f44bb2998ca326ab.svg",
-    "categories": [
-      {
-        "name": "Personal Care & Pharmacy",
-        "id": 67,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 20717,
-    "category": {
-      "name": "Personal Care & Pharmacy",
-      "id": 67,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://codeaven.com/g/aaedtrgsrd5af0702a2717732dc589/?erid=MvGzQC98w3Z1gMq1nw9op4t5",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://www.velodrive.ru/",
-    "name": "Velodrive.ru",
-    "img": "platform/21324.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/6/21324-7954c3a16ae1289b.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Personal Care & Pharmacy",
-        "id": 67,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Sports & Outdoor",
-        "id": 85,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "New Year Festival 2026",
-        "id": 378,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 21324,
-    "category": {
-      "name": "Personal Care & Pharmacy",
-      "id": 67,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://thevospad.com/g/vu5cjmwwwl5af0702a275f3bd41df7/?erid=MvGzQC98w3Z1gMq1nwiXTsou",
-      "landings": [
-        {
-          "id": 9615,
-          "name": "Ночь распродаж",
-          "code": "878307a7b7"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://www.themancompany.com/",
-    "name": "TheManCompany [CPS] IN",
-    "img": "platform/21497.png",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2021/2/12/21497-25ea3beffe5f2b4a.png",
-    "categories": [
-      {
-        "name": "Personal Care & Pharmacy",
-        "id": 67,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 21497,
-    "category": {
-      "name": "Personal Care & Pharmacy",
-      "id": 67,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://tjzuh.com/g/86kie8f8t85af0702a2785e739f524/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 0
-  },
-  {
     "site_url": "https://randewoo.ru/",
     "name": "Randewoo",
     "img": "platform/22484.svg",
@@ -772,226 +294,6 @@
     "couponCount": 2
   },
   {
-    "site_url": "https://www.forestessentialsindia.com/",
-    "name": "Forest Essentials [CPS] WW",
-    "img": "platform/23441.png",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2020/12/4/23441-be2cb2c920a9490b.png",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Personal Care & Pharmacy",
-        "id": 67,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 23441,
-    "category": {
-      "name": "Personal Care & Pharmacy",
-      "id": 67,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://tjzuh.com/g/8654jk62nx5af0702a2717c05f049d/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://www.budzdorov.ru/",
-    "name": "Budzdorov",
-    "img": "platform/23446.png",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2020/10/15/23446-1a07392a64421ef4.png",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Personal Care & Pharmacy",
-        "id": 67,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 23446,
-    "category": {
-      "name": "Personal Care & Pharmacy",
-      "id": 67,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://ogsib.com/g/bv1my4ppn85af0702a27562e5f47b0/?erid=25H8d7vbP8SRTvKYpNrVmr",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 5,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://www.kapiva.in/",
-    "name": "Kapiva [CPS] IN",
-    "img": "platform/23646.png",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2021/2/12/23646-373e4070f9bd8933.png",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Personal Care & Pharmacy",
-        "id": 67,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 23646,
-    "category": {
-      "name": "Personal Care & Pharmacy",
-      "id": 67,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://tjzuh.com/g/oqxdu8byxq5af0702a278f2eb3eec0/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://www.myvitamins.com/",
-    "name": "MyVitamins UK DE",
-    "img": "platform/23809.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/17/23809-3a8e8c4c158bce8c.svg",
-    "categories": [
-      {
-        "name": "Personal Care & Pharmacy",
-        "id": 67,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 23809,
-    "category": {
-      "name": "Personal Care & Pharmacy",
-      "id": 67,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://twnfz.com/g/6fr2k47dgc5af0702a27a5ffa3178a/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://www.nealsyardremedies.com/",
-    "name": "Neal's Yard Remedies UK US",
-    "img": "platform/24688.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/6/24688-5968e074a4976083.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Personal Care & Pharmacy",
-        "id": 67,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 24688,
-    "category": {
-      "name": "Personal Care & Pharmacy",
-      "id": 67,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://ytebb.com/g/nkh9ji4l1n5af0702a27c768085148/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 18,
-    "couponCount": 0
-  },
-  {
     "site_url": "https://aravia.ru",
     "name": "Aravia",
     "img": "platform/26032.svg",
@@ -1048,11 +350,17 @@
     "couponCount": 7
   },
   {
-    "site_url": "https://me.currentbody.com/",
-    "name": "Currentbody MENA",
-    "img": "platform/26079.jpg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2021/9/23/26079-9b6e7f8f7a49eecb.jpg",
+    "site_url": "https://doctorslon.ru/",
+    "name": "DoctorSlon",
+    "img": "platform/35214.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/30/35214-a913e07016f6972d.svg",
     "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
       {
         "name": "Personal Care & Pharmacy",
         "id": 67,
@@ -1065,13 +373,19 @@
         }
       },
       {
-        "name": "Online stores",
-        "id": 62,
+        "name": "11.11 & Black Friday 2025",
+        "id": 377,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "New Year Festival 2026",
+        "id": 378,
         "language": "en",
         "parent": null
       }
     ],
-    "id": 26079,
+    "id": 35214,
     "category": {
       "name": "Personal Care & Pharmacy",
       "id": 67,
@@ -1084,18 +398,218 @@
       }
     },
     "affiliate": {
-      "goto_link": "https://dhwnh.com/g/0a3pmi36d55af0702a2756a188e224/",
+      "goto_link": "https://yjfca.com/g/v2823rwv7o5af0702a273d0c9a2446/?erid=2bL9aMPo2e49hMef4pfz6VfpGb",
       "landings": [],
       "cashback_link_data": null
     },
-    "discountCount": 0,
-    "couponCount": 2
+    "discountCount": 5,
+    "couponCount": 1
   },
   {
-    "site_url": "https://www.sephora.pl/",
-    "name": "Sephora PL",
-    "img": "platform/26358.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/29/26358-b17840a3ef3cc782.svg",
+    "site_url": "https://www.rigla.ru/",
+    "name": "РИГЛА",
+    "img": "platform/17045.png",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2022/4/22/17045-994123553e9ab5b2.png",
+    "categories": [
+      {
+        "name": "Personal Care & Pharmacy",
+        "id": 67,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 17045,
+    "category": {
+      "name": "Personal Care & Pharmacy",
+      "id": 67,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://zallj.com/g/wni59pjt8a5af0702a275b4157882f/?erid=25H8d7vbP8SRTvGZs4rxuW",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 5,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://www.ochkov.net/",
+    "name": "Ochkov",
+    "img": "platform/17863.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/21/17863-9e95bb01c305ab7b.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Personal Care & Pharmacy",
+        "id": 67,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Oktoberfest 2025",
+        "id": 373,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 17863,
+    "category": {
+      "name": "Personal Care & Pharmacy",
+      "id": 67,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://yjfca.com/g/1g2dcvp1p85af0702a27de1da8797c/?erid=MvGzQC98w3Z1gMq1mwGmDKYh",
+      "landings": [
+        {
+          "id": 10445,
+          "name": "Защитные маски",
+          "code": "a173dfdaa7"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 4,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://www.pharmacosmetica.ru/",
+    "name": "Pharmacosmetica.ru",
+    "img": "platform/20231.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/13/20231-1ca1ce044ac585ad.svg",
+    "categories": [
+      {
+        "name": "Personal Care & Pharmacy",
+        "id": 67,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 20231,
+    "category": {
+      "name": "Personal Care & Pharmacy",
+      "id": 67,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://xpuvo.com/g/ny8r7x7kal5af0702a2745f5c1a381/?erid=25H8d7vbP8SRTvHa5QohYp",
+      "landings": [
+        {
+          "id": 18699,
+          "name": "Новогодний адвент календарь от Pharmacosmetica",
+          "code": "cc9db8abd6"
+        },
+        {
+          "id": 31428,
+          "name": "8 класс",
+          "code": "af9300832b"
+        },
+        {
+          "id": 19446,
+          "name": "Наборы средств для ухода за кожей по специальной цене",
+          "code": "0bbf66150d"
+        },
+        {
+          "id": 20172,
+          "name": "Новинка на сайте.Ортопедические изделия Крейт по выгодной цене.",
+          "code": "7d561be36b"
+        },
+        {
+          "id": 19016,
+          "name": "Наборы косметики по выгодной цене",
+          "code": "97f0ca2dfb"
+        },
+        {
+          "id": 19608,
+          "name": "Новинка. Подарочные наборы",
+          "code": "83af4bbc46"
+        },
+        {
+          "id": 31427,
+          "name": "7 класс",
+          "code": "9b61d3b1b8"
+        },
+        {
+          "id": 29416,
+          "name": "Киберпонедельник 2025",
+          "code": "5dcb8474f3"
+        },
+        {
+          "id": 19607,
+          "name": "Акция. Наборы косметики La Roche-Posay по специальной цене",
+          "code": "e14283ab4d"
+        },
+        {
+          "id": 19328,
+          "name": "Идеи подарков",
+          "code": "8b4aa88feb"
+        },
+        {
+          "id": 10212,
+          "name": "Средства индивидуальной защиты",
+          "code": "19a8b15b2c"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 5,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://www.budzdorov.ru/",
+    "name": "Budzdorov",
+    "img": "platform/23446.png",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2020/10/15/23446-1a07392a64421ef4.png",
     "categories": [
       {
         "name": "Online stores",
@@ -1115,7 +629,7 @@
         }
       }
     ],
-    "id": 26358,
+    "id": 23446,
     "category": {
       "name": "Personal Care & Pharmacy",
       "id": 67,
@@ -1128,11 +642,55 @@
       }
     },
     "affiliate": {
-      "goto_link": "https://ad.admitad.com/g/hkxsi5c4mp5af0702a272617f08a56/",
+      "goto_link": "https://ogsib.com/g/bv1my4ppn85af0702a27562e5f47b0/?erid=25H8d7vbP8SRTvKYpNrVmr",
       "landings": [],
       "cashback_link_data": null
     },
-    "discountCount": 0,
+    "discountCount": 5,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://www.nealsyardremedies.com/",
+    "name": "Neal's Yard Remedies UK US",
+    "img": "platform/24688.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/6/24688-5968e074a4976083.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Personal Care & Pharmacy",
+        "id": 67,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 24688,
+    "category": {
+      "name": "Personal Care & Pharmacy",
+      "id": 67,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://ytebb.com/g/nkh9ji4l1n5af0702a27c768085148/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 18,
     "couponCount": 0
   },
   {
@@ -1192,94 +750,6 @@
     "couponCount": 0
   },
   {
-    "site_url": "https://www.docmorris.fr/",
-    "name": "DocMorris FR",
-    "img": "platform/26914.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/29/26914-d9e97368affa3e2b.svg",
-    "categories": [
-      {
-        "name": "Personal Care & Pharmacy",
-        "id": 67,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 26914,
-    "category": {
-      "name": "Personal Care & Pharmacy",
-      "id": 67,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://ad.admitad.com/g/swqc69smzb5af0702a2743dea864fe/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 1
-  },
-  {
-    "site_url": "https://www.farmaciaigea.com/",
-    "name": "Farmacia Igea IT",
-    "img": "platform/27982.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/29/27982-6e09d63cc77ca1c0.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Personal Care & Pharmacy",
-        "id": 67,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 27982,
-    "category": {
-      "name": "Personal Care & Pharmacy",
-      "id": 67,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://ad.admitad.com/g/bvlaq94l2l5af0702a2755e683e9f7/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 0
-  },
-  {
     "site_url": "https://www.thebodyshop.com/en-gb/",
     "name": "The Body Shop UK",
     "img": "platform/28507.png",
@@ -1321,50 +791,6 @@
       "cashback_link_data": null
     },
     "discountCount": 4,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://snowsea.ru/",
-    "name": "Snow Sea",
-    "img": "platform/29217.jpg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2022/8/8/29217-076f9b36374f91d2.jpg",
-    "categories": [
-      {
-        "name": "Personal Care & Pharmacy",
-        "id": 67,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 29217,
-    "category": {
-      "name": "Personal Care & Pharmacy",
-      "id": 67,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://ficca2021.com/g/gkbnrpj15w5af0702a275247bfde9c/?erid=2bL9aMPo2e49hMef4pfUmDuHkN",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
     "couponCount": 0
   },
   {
@@ -1410,218 +836,6 @@
     },
     "discountCount": 2,
     "couponCount": 0
-  },
-  {
-    "site_url": "https://ozerki.ru/",
-    "name": "Аптека  Озерки",
-    "img": "platform/29341.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/5/31/29341-f6161b73f4611ae7.svg",
-    "categories": [
-      {
-        "name": "Personal Care & Pharmacy",
-        "id": 67,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 29341,
-    "category": {
-      "name": "Personal Care & Pharmacy",
-      "id": 67,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://bednari.com/g/jrxt1elr2l5af0702a274be74b625d/?erid=5jtCeReNwxHpfQTFQPEUmeX",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 1
-  },
-  {
-    "site_url": "https://babor.ru/",
-    "name": "BABOR",
-    "img": "platform/30104.jpg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2022/11/8/30104-8d3d129472f41880.jpg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Personal Care & Pharmacy",
-        "id": 67,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "New Year Festival 2026",
-        "id": 378,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 30104,
-    "category": {
-      "name": "Personal Care & Pharmacy",
-      "id": 67,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://ntzgd.com/g/fotrvc7vyx5af0702a27aadcc0ec02/?erid=2bL9aMPo2e49hMef4pfVKzXQeQ",
-      "landings": [
-        {
-          "id": 30655,
-          "name": "CLEANFORMANCE",
-          "code": "e3b6b370b1"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 5
-  },
-  {
-    "site_url": "https://patchandgo.ru/",
-    "name": "Patch and Go",
-    "img": "platform/33287.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/9/2/33287-f076d6f6ca7ea4ad.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Personal Care & Pharmacy",
-        "id": 67,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Back to school 2025",
-        "id": 371,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "New Year Festival 2026",
-        "id": 378,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 33287,
-    "category": {
-      "name": "Personal Care & Pharmacy",
-      "id": 67,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://bywiola.com/g/ie4hd7tohm5af0702a274b31e04720/?erid=5jtCeReNwxHpfQTFu9wWkUZ",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 1
-  },
-  {
-    "site_url": "https://doctorslon.ru/",
-    "name": "DoctorSlon",
-    "img": "platform/35214.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/30/35214-a913e07016f6972d.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Personal Care & Pharmacy",
-        "id": 67,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "11.11 & Black Friday 2025",
-        "id": 377,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "New Year Festival 2026",
-        "id": 378,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 35214,
-    "category": {
-      "name": "Personal Care & Pharmacy",
-      "id": 67,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://yjfca.com/g/v2823rwv7o5af0702a273d0c9a2446/?erid=2bL9aMPo2e49hMef4pfz6VfpGb",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 5,
-    "couponCount": 1
   },
   {
     "site_url": "https://mamash.ua/",
@@ -1823,6 +1037,373 @@
     "couponCount": 0
   },
   {
+    "site_url": "https://zdravcity.ru/",
+    "name": "Zdravcity RU",
+    "img": "platform/18054.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/21/18054-d68796701e188db5.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Personal Care & Pharmacy",
+        "id": 67,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 18054,
+    "category": {
+      "name": "Personal Care & Pharmacy",
+      "id": 67,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://dhwnh.com/g/vhr1ruamas5af0702a27af67a6436f/?erid=25H8d7vbP8SRTvH4QRy47F",
+      "landings": [
+        {
+          "id": 24995,
+          "name": "Скидка на первый заказ в Приморье",
+          "code": "e39889fa44"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 1
+  },
+  {
+    "site_url": "https://www.dewal.ru/",
+    "name": "Dewal",
+    "img": "platform/18757.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/7/18757-2990649403096106.svg",
+    "categories": [
+      {
+        "name": "Personal Care & Pharmacy",
+        "id": 67,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Oktoberfest 2025",
+        "id": 373,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Back to school 2025",
+        "id": 371,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 18757,
+    "category": {
+      "name": "Personal Care & Pharmacy",
+      "id": 67,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://xyowz.com/g/3d0z51t5cy5af0702a27e883c4cd87/?erid=MvGzQC98w3Z1gMq1mwqcJQtN",
+      "landings": [
+        {
+          "id": 30777,
+          "name": "Акционный лендинг",
+          "code": "7d555ec502"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 1
+  },
+  {
+    "site_url": "https://me.currentbody.com/",
+    "name": "Currentbody MENA",
+    "img": "platform/26079.jpg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/9/23/26079-9b6e7f8f7a49eecb.jpg",
+    "categories": [
+      {
+        "name": "Personal Care & Pharmacy",
+        "id": 67,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 26079,
+    "category": {
+      "name": "Personal Care & Pharmacy",
+      "id": 67,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://dhwnh.com/g/0a3pmi36d55af0702a2756a188e224/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 2
+  },
+  {
+    "site_url": "https://www.docmorris.fr/",
+    "name": "DocMorris FR",
+    "img": "platform/26914.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/29/26914-d9e97368affa3e2b.svg",
+    "categories": [
+      {
+        "name": "Personal Care & Pharmacy",
+        "id": 67,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 26914,
+    "category": {
+      "name": "Personal Care & Pharmacy",
+      "id": 67,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://ad.admitad.com/g/swqc69smzb5af0702a2743dea864fe/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 1
+  },
+  {
+    "site_url": "https://ozerki.ru/",
+    "name": "Аптека  Озерки",
+    "img": "platform/29341.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/5/31/29341-f6161b73f4611ae7.svg",
+    "categories": [
+      {
+        "name": "Personal Care & Pharmacy",
+        "id": 67,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 29341,
+    "category": {
+      "name": "Personal Care & Pharmacy",
+      "id": 67,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://bednari.com/g/jrxt1elr2l5af0702a274be74b625d/?erid=5jtCeReNwxHpfQTFQPEUmeX",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 1
+  },
+  {
+    "site_url": "https://babor.ru/",
+    "name": "BABOR",
+    "img": "platform/30104.jpg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2022/11/8/30104-8d3d129472f41880.jpg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Personal Care & Pharmacy",
+        "id": 67,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "New Year Festival 2026",
+        "id": 378,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 30104,
+    "category": {
+      "name": "Personal Care & Pharmacy",
+      "id": 67,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://ntzgd.com/g/fotrvc7vyx5af0702a27aadcc0ec02/?erid=2bL9aMPo2e49hMef4pfVKzXQeQ",
+      "landings": [
+        {
+          "id": 30655,
+          "name": "CLEANFORMANCE",
+          "code": "e3b6b370b1"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 5
+  },
+  {
+    "site_url": "https://patchandgo.ru/",
+    "name": "Patch and Go",
+    "img": "platform/33287.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/9/2/33287-f076d6f6ca7ea4ad.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Personal Care & Pharmacy",
+        "id": 67,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Back to school 2025",
+        "id": 371,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "New Year Festival 2026",
+        "id": 378,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 33287,
+    "category": {
+      "name": "Personal Care & Pharmacy",
+      "id": 67,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://bywiola.com/g/ie4hd7tohm5af0702a274b31e04720/?erid=5jtCeReNwxHpfQTFu9wWkUZ",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 1
+  },
+  {
     "site_url": "https://yamanshop.ru",
     "name": "",
     "img": "platform/98190.svg",
@@ -1865,6 +1446,497 @@
     },
     "discountCount": 0,
     "couponCount": 1
+  },
+  {
+    "site_url": "https://aurabits.shop/",
+    "name": "Aurabits",
+    "img": "platform/146096.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/10/30/146096-879afbd17264fd64.svg",
+    "categories": [
+      {
+        "name": "Personal Care & Pharmacy",
+        "id": 67,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Fitness",
+        "id": 205,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "eHealth",
+        "id": 202,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 146096,
+    "category": {
+      "name": "Personal Care & Pharmacy",
+      "id": 67,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://tywhh.com/g/1i7jtay89b5af0702a273f9789bf0e/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 2
+  },
+  {
+    "site_url": "https://royalsamplesbox.ru/",
+    "name": "Royalsamples",
+    "img": "platform/20717.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/5/12/20717-f44bb2998ca326ab.svg",
+    "categories": [
+      {
+        "name": "Personal Care & Pharmacy",
+        "id": 67,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 20717,
+    "category": {
+      "name": "Personal Care & Pharmacy",
+      "id": 67,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://codeaven.com/g/aaedtrgsrd5af0702a2717732dc589/?erid=MvGzQC98w3Z1gMq1nw9op4t5",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://www.velodrive.ru/",
+    "name": "Velodrive.ru",
+    "img": "platform/21324.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/6/21324-7954c3a16ae1289b.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Personal Care & Pharmacy",
+        "id": 67,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Sports & Outdoor",
+        "id": 85,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "New Year Festival 2026",
+        "id": 378,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 21324,
+    "category": {
+      "name": "Personal Care & Pharmacy",
+      "id": 67,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://thevospad.com/g/vu5cjmwwwl5af0702a275f3bd41df7/?erid=MvGzQC98w3Z1gMq1nwiXTsou",
+      "landings": [
+        {
+          "id": 9615,
+          "name": "Ночь распродаж",
+          "code": "878307a7b7"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://www.themancompany.com/",
+    "name": "TheManCompany [CPS] IN",
+    "img": "platform/21497.png",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/2/12/21497-25ea3beffe5f2b4a.png",
+    "categories": [
+      {
+        "name": "Personal Care & Pharmacy",
+        "id": 67,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 21497,
+    "category": {
+      "name": "Personal Care & Pharmacy",
+      "id": 67,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://tjzuh.com/g/86kie8f8t85af0702a2785e739f524/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://www.forestessentialsindia.com/",
+    "name": "Forest Essentials [CPS] WW",
+    "img": "platform/23441.png",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2020/12/4/23441-be2cb2c920a9490b.png",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Personal Care & Pharmacy",
+        "id": 67,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 23441,
+    "category": {
+      "name": "Personal Care & Pharmacy",
+      "id": 67,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://tjzuh.com/g/8654jk62nx5af0702a2717c05f049d/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://www.kapiva.in/",
+    "name": "Kapiva [CPS] IN",
+    "img": "platform/23646.png",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/2/12/23646-373e4070f9bd8933.png",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Personal Care & Pharmacy",
+        "id": 67,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 23646,
+    "category": {
+      "name": "Personal Care & Pharmacy",
+      "id": 67,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://tjzuh.com/g/oqxdu8byxq5af0702a278f2eb3eec0/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://www.myvitamins.com/",
+    "name": "MyVitamins UK DE",
+    "img": "platform/23809.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/17/23809-3a8e8c4c158bce8c.svg",
+    "categories": [
+      {
+        "name": "Personal Care & Pharmacy",
+        "id": 67,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 23809,
+    "category": {
+      "name": "Personal Care & Pharmacy",
+      "id": 67,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://twnfz.com/g/6fr2k47dgc5af0702a27a5ffa3178a/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://www.sephora.pl/",
+    "name": "Sephora PL",
+    "img": "platform/26358.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/29/26358-b17840a3ef3cc782.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Personal Care & Pharmacy",
+        "id": 67,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 26358,
+    "category": {
+      "name": "Personal Care & Pharmacy",
+      "id": 67,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://ad.admitad.com/g/hkxsi5c4mp5af0702a272617f08a56/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://www.farmaciaigea.com/",
+    "name": "Farmacia Igea IT",
+    "img": "platform/27982.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/29/27982-6e09d63cc77ca1c0.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Personal Care & Pharmacy",
+        "id": 67,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 27982,
+    "category": {
+      "name": "Personal Care & Pharmacy",
+      "id": 67,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://ad.admitad.com/g/bvlaq94l2l5af0702a2755e683e9f7/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://snowsea.ru/",
+    "name": "Snow Sea",
+    "img": "platform/29217.jpg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2022/8/8/29217-076f9b36374f91d2.jpg",
+    "categories": [
+      {
+        "name": "Personal Care & Pharmacy",
+        "id": 67,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 29217,
+    "category": {
+      "name": "Personal Care & Pharmacy",
+      "id": 67,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://ficca2021.com/g/gkbnrpj15w5af0702a275247bfde9c/?erid=2bL9aMPo2e49hMef4pfUmDuHkN",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://gls.store",
@@ -2405,77 +2477,5 @@
     },
     "discountCount": 0,
     "couponCount": 0
-  },
-  {
-    "site_url": "https://aurabits.shop/",
-    "name": "Aurabits",
-    "img": "platform/146096.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/10/30/146096-879afbd17264fd64.svg",
-    "categories": [
-      {
-        "name": "Personal Care & Pharmacy",
-        "id": 67,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Fitness",
-        "id": 205,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "eHealth",
-        "id": 202,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 146096,
-    "category": {
-      "name": "Personal Care & Pharmacy",
-      "id": 67,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://tywhh.com/g/1i7jtay89b5af0702a273f9789bf0e/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 2
   }
 ]

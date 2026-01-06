@@ -1,14 +1,219 @@
 {
   "data": [
     {
-      "site_url": "https://clubs.xfit.ru/",
-      "name": "X-Fit",
-      "img": "platform/21842.png",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2022/8/3/21842-0565b8320f3fd383.png",
+      "site_url": "https://krasniykarandash.ru/",
+      "name": "Арт-маркет \"Красный Карандаш\"",
+      "img": "platform/21382.svg",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/17/21382-1e3c5c584bcc1774.svg",
       "categories": [
         {
-          "name": "Fitness",
-          "id": 205,
+          "name": "Hobby & Stationery",
+          "id": 89,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Gifts & Flowers",
+          "id": 72,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Back to school 2025",
+          "id": 371,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "id": 21382,
+      "category": {
+        "name": "Hobby & Stationery",
+        "id": 89,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      "affiliate": {
+        "goto_link": "https://rzekl.com/g/4pmv8klbb75af0702a275f8e5138d9/?erid=25H8d7vbP8SRTvJ4r3KggN",
+        "landings": [
+          {
+            "id": 21878,
+            "name": "Чёрная пятница 2022",
+            "code": "5cf01a68f5"
+          }
+        ],
+        "cashback_link_data": null
+      },
+      "discountCount": 2,
+      "couponCount": 0
+    },
+    {
+      "site_url": "https://www.titan.co.in/",
+      "name": "Titan [CPS] IN",
+      "img": "platform/21435.svg",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2023/11/28/21435-9616b06210787653.svg",
+      "categories": [
+        {
+          "name": "Clothing, Footwear, Accessories",
+          "id": 64,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "id": 21435,
+      "category": {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      "affiliate": {
+        "goto_link": "https://tjzuh.com/g/bukiix5hpd5af0702a27139db86198/",
+        "landings": [],
+        "cashback_link_data": null
+      },
+      "discountCount": 16,
+      "couponCount": 0
+    },
+    {
+      "site_url": "https://www.garshinka.ru/",
+      "name": "Garshinka",
+      "img": "platform/21527.svg",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/21/21527-73e65841f615c031.svg",
+      "categories": [
+        {
+          "name": "Hand & Power tools",
+          "id": 102,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "id": 21527,
+      "category": {
+        "name": "Hand & Power tools",
+        "id": 102,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      "affiliate": {
+        "goto_link": "https://codeaven.com/g/8c5p0v1cq65af0702a27458cf12507/?erid=MvGzQC98w3Z1gMq1nwwb1sB5",
+        "landings": [],
+        "cashback_link_data": null
+      },
+      "discountCount": 6,
+      "couponCount": 0
+    },
+    {
+      "site_url": "https://mebel169.ru/",
+      "name": "Mebel169",
+      "img": "platform/21642.svg",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/8/21642-2c2ede0ba9dd0b9a.svg",
+      "categories": [
+        {
+          "name": "Furniture & Homeware",
+          "id": 66,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "id": 21642,
+      "category": {
+        "name": "Furniture & Homeware",
+        "id": 66,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      "affiliate": {
+        "goto_link": "https://ficca2021.com/g/etc8h6u1325af0702a2779b69ad4d7/?erid=MvGzQC98w3Z1gMq1nx4BXLvM",
+        "landings": [],
+        "cashback_link_data": null
+      },
+      "discountCount": 14,
+      "couponCount": 0
+    },
+    {
+      "site_url": "https://allopizza.su/msk/all",
+      "name": "Pizza-allo",
+      "img": "platform/21734.png",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2021/2/5/21734-37bcf0015ba7b728.png",
+      "categories": [
+        {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Online Food Delivery",
+          "id": 204,
           "language": "en",
           "parent": {
             "name": "Online Services",
@@ -16,18 +221,12 @@
             "language": "en",
             "parent": null
           }
-        },
-        {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
         }
       ],
-      "id": 21842,
+      "id": 21734,
       "category": {
-        "name": "Fitness",
-        "id": 205,
+        "name": "Online Food Delivery",
+        "id": 204,
         "language": "en",
         "parent": {
           "name": "Online Services",
@@ -37,11 +236,194 @@
         }
       },
       "affiliate": {
-        "goto_link": "https://rzekl.com/g/66ni3ytch15af0702a2743607f84c0/?erid=MvGzQC98w3Z1gMq1oS2ystDe",
+        "goto_link": "https://cafxq.com/g/bgi1r32ntf5af0702a27b0f1f587ba/?erid=MvGzQC98w3Z1gMq1oRvTp2Xo",
         "landings": [],
         "cashback_link_data": null
       },
-      "discountCount": 0,
+      "discountCount": 1,
+      "couponCount": 0
+    },
+    {
+      "site_url": "https://www.italiarail.com/",
+      "name": "Italiarail [CPS] Many GEOs",
+      "img": "platform/21754.svg",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/8/21754-dbe3c838f137a520.svg",
+      "categories": [
+        {
+          "name": "Package Holidays",
+          "id": 45,
+          "language": "en",
+          "parent": {
+            "name": "Travel & Tourism",
+            "id": 40,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Hotels",
+          "id": 41,
+          "language": "en",
+          "parent": {
+            "name": "Travel & Tourism",
+            "id": 40,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Flights",
+          "id": 44,
+          "language": "en",
+          "parent": {
+            "name": "Travel & Tourism",
+            "id": 40,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Car Rentals",
+          "id": 91,
+          "language": "en",
+          "parent": {
+            "name": "Travel & Tourism",
+            "id": 40,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Smart tracking programs",
+          "id": 382,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "id": 21754,
+      "category": {
+        "name": "Package Holidays",
+        "id": 45,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      },
+      "affiliate": {
+        "goto_link": "https://ujhjj.com/g/ca326rdm5v5af0702a27ef1cea9751/",
+        "landings": [],
+        "cashback_link_data": null
+      },
+      "discountCount": 12,
+      "couponCount": 0
+    },
+    {
+      "site_url": "https://otus.ru/",
+      "name": "Otus",
+      "img": "platform/21788.svg",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2021/5/14/21788-82d5022e6e0e1970.svg",
+      "categories": [
+        {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Online Education",
+          "id": 98,
+          "language": "en",
+          "parent": {
+            "name": "Online Services",
+            "id": 18,
+            "language": "en",
+            "parent": null
+          }
+        }
+      ],
+      "id": 21788,
+      "category": {
+        "name": "Online Education",
+        "id": 98,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      "affiliate": {
+        "goto_link": "https://rzekl.com/g/kxgx8g2hp05af0702a2772de1a383e/?erid=MvGzQC98w3Z1gMq1oS2rTcKs",
+        "landings": [
+          {
+            "id": 11976,
+            "name": "Нагрузочное тестирование",
+            "code": "bff37e46c8"
+          },
+          {
+            "id": 17511,
+            "name": "DataOps Engineer",
+            "code": "d5a1f158eb"
+          },
+          {
+            "id": 11974,
+            "name": "Автоматизация тестирования на JavaScript",
+            "code": "94bd88dffa"
+          },
+          {
+            "id": 11972,
+            "name": "Team Lead",
+            "code": "cdf20af5e2"
+          },
+          {
+            "id": 17512,
+            "name": "SRE практики и инструменты",
+            "code": "697f6e88c6"
+          },
+          {
+            "id": 11977,
+            "name": "QA Lead",
+            "code": "27c0a3a222"
+          },
+          {
+            "id": 11969,
+            "name": "Алгоритмы и структуры данных",
+            "code": "d6ddddac2f"
+          },
+          {
+            "id": 17510,
+            "name": "Data Engineer",
+            "code": "07313bc072"
+          },
+          {
+            "id": 11964,
+            "name": "Backend-разработчик на PHP",
+            "code": "b17563ae9e"
+          },
+          {
+            "id": 11966,
+            "name": "Administrator Linux. Professional",
+            "code": "c1f5a74682"
+          },
+          {
+            "id": 11975,
+            "name": "Архитектура и шаблоны проектирования",
+            "code": "09a4761e15"
+          }
+        ],
+        "cashback_link_data": null
+      },
+      "discountCount": 1,
       "couponCount": 0
     },
     {
@@ -100,838 +482,6 @@
       "couponCount": 0
     },
     {
-      "site_url": "https://euro-diski.ru/",
-      "name": "Euro-diski",
-      "img": "platform/21894.jpg",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2022/7/21/21894-27f9f1cf3321a6bb.jpg",
-      "categories": [
-        {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        },
-        {
-          "name": "Car & Bike Accessories",
-          "id": 92,
-          "language": "en",
-          "parent": {
-            "name": "Online stores",
-            "id": 62,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "New Year Festival 2026",
-          "id": 378,
-          "language": "en",
-          "parent": null
-        }
-      ],
-      "id": 21894,
-      "category": {
-        "name": "Car & Bike Accessories",
-        "id": 92,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      "affiliate": {
-        "goto_link": "https://naiawork.com/g/bhk6qcjqlf5af0702a272aba557d7a/?erid=MvGzQC98w3Z1gMq1oS9RT5X7",
-        "landings": [],
-        "cashback_link_data": null
-      },
-      "discountCount": 2,
-      "couponCount": 1
-    },
-    {
-      "site_url": "https://www.geekmall.com/",
-      "name": "Geekmall [CPS] IT",
-      "img": "platform/21957.svg",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/8/21957-ca47799dc6054d26.svg",
-      "categories": [
-        {
-          "name": "Household Appliances & Electronics",
-          "id": 65,
-          "language": "en",
-          "parent": {
-            "name": "Online stores",
-            "id": 62,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        },
-        {
-          "name": "Smart tracking programs",
-          "id": 382,
-          "language": "en",
-          "parent": null
-        }
-      ],
-      "id": 21957,
-      "category": {
-        "name": "Household Appliances & Electronics",
-        "id": 65,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      "affiliate": {
-        "goto_link": "https://yynbx.com/g/d9vbl05kd95af0702a2799cad33c2f/",
-        "landings": [
-          {
-            "id": 20747,
-            "name": "Roborock S7 PRO ULTRA",
-            "code": "1395a7cffc"
-          },
-          {
-            "id": 17393,
-            "name": "Robot Aspirapolvere - SCONTI",
-            "code": "43203a3f54"
-          },
-          {
-            "id": 22408,
-            "name": "Roborock Dyad Pro",
-            "code": "1098f13475"
-          },
-          {
-            "id": 24956,
-            "name": "Monitor da gioco",
-            "code": "1f1595307a"
-          },
-          {
-            "id": 24957,
-            "name": "Generatore Solare Portatile",
-            "code": "d96ed81924"
-          },
-          {
-            "id": 22816,
-            "name": "Roborock S8",
-            "code": "8559fb73e4"
-          },
-          {
-            "id": 22720,
-            "name": "Mini monitor da gioco a led",
-            "code": "3c74a9142e"
-          },
-          {
-            "id": 20608,
-            "name": "Sport e esterni",
-            "code": "f1d912c320"
-          },
-          {
-            "id": 26655,
-            "name": "SALDI",
-            "code": "6dd5076cbd"
-          },
-          {
-            "id": 26657,
-            "name": "NUOVI PRODOTTI",
-            "code": "078636fec1"
-          },
-          {
-            "id": 26658,
-            "name": "BEST SELLERS",
-            "code": "e20f209418"
-          },
-          {
-            "id": 17395,
-            "name": "TOP PRODUCT - ELEGLIDE Bicicletta Elettrica",
-            "code": "3a04b6f77f"
-          },
-          {
-            "id": 14356,
-            "name": "Scope Elettriche Senza Filo",
-            "code": "d9d49a65af"
-          }
-        ],
-        "cashback_link_data": null
-      },
-      "discountCount": 0,
-      "couponCount": 64
-    },
-    {
-      "site_url": "https://www.ivi.ru/",
-      "name": "ivi (CPS)",
-      "img": "platform/22004.svg",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2022/9/9/22004-9f13cad539420767.svg",
-      "categories": [
-        {
-          "name": "Movies & Music",
-          "id": 203,
-          "language": "en",
-          "parent": {
-            "name": "Online Services",
-            "id": 18,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      ],
-      "id": 22004,
-      "category": {
-        "name": "Movies & Music",
-        "id": 203,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      "affiliate": {
-        "goto_link": "https://codeaven.com/g/joy9jrapz45af0702a2793e749a11b/?erid=MvGzQC98w3Z1gMq1oSFwWbRS",
-        "landings": [
-          {
-            "id": 9803,
-            "name": "Лендинг с видами подписок",
-            "code": "7746ec2133"
-          },
-          {
-            "id": 17540,
-            "name": "Лендинг для промокодов",
-            "code": "cf0fd36016"
-          },
-          {
-            "id": 17543,
-            "name": "Лендинг для трафика без промокодов",
-            "code": "3b8d799077"
-          }
-        ],
-        "cashback_link_data": null
-      },
-      "discountCount": 0,
-      "couponCount": 0
-    },
-    {
-      "site_url": "https://sletat.ru/",
-      "name": "Слетать.ру",
-      "img": "platform/22099.svg",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2022/9/16/22099-92b4a56f56e9137d.svg",
-      "categories": [
-        {
-          "name": "Package Holidays",
-          "id": 45,
-          "language": "en",
-          "parent": {
-            "name": "Travel & Tourism",
-            "id": 40,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Travel & Tourism",
-          "id": 40,
-          "language": "en",
-          "parent": null
-        },
-        {
-          "name": "Tours",
-          "id": 234,
-          "language": "en",
-          "parent": {
-            "name": "Travel & Tourism",
-            "id": 40,
-            "language": "en",
-            "parent": null
-          }
-        }
-      ],
-      "id": 22099,
-      "category": {
-        "name": "Package Holidays",
-        "id": 45,
-        "language": "en",
-        "parent": {
-          "name": "Travel & Tourism",
-          "id": 40,
-          "language": "en",
-          "parent": null
-        }
-      },
-      "affiliate": {
-        "goto_link": "https://grfpr.com/g/dma92caykq5af0702a2701ed775fd6/?erid=25H8d7vbP8SRTvJZPcL2HD",
-        "landings": [
-          {
-            "id": 9000,
-            "name": "Вьетнам",
-            "code": "4edf011c59"
-          },
-          {
-            "id": 8997,
-            "name": "Россия -Красная поляна",
-            "code": "7a67669957"
-          },
-          {
-            "id": 9005,
-            "name": "Шри-Ланка",
-            "code": "ca32219cd3"
-          },
-          {
-            "id": 8999,
-            "name": "ОАЭ",
-            "code": "af9fad6730"
-          },
-          {
-            "id": 8996,
-            "name": "Турция ",
-            "code": "14688733f3"
-          },
-          {
-            "id": 8998,
-            "name": "Тайланд ",
-            "code": "841f647ba5"
-          },
-          {
-            "id": 9001,
-            "name": "Доминикана ",
-            "code": "8bb9fbca5c"
-          },
-          {
-            "id": 9004,
-            "name": "Индия",
-            "code": "4f708995bb"
-          },
-          {
-            "id": 9002,
-            "name": "Китай ",
-            "code": "9511c5becc"
-          },
-          {
-            "id": 9003,
-            "name": "Куба ",
-            "code": "4c7a83ae79"
-          }
-        ],
-        "cashback_link_data": null
-      },
-      "discountCount": 0,
-      "couponCount": 0
-    },
-    {
-      "site_url": "https://www.norton.com/",
-      "name": "Norton [CPS] Many Geos",
-      "img": "platform/22143.svg",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/13/22143-49b05d631dd8a6ff.svg",
-      "categories": [
-        {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        },
-        {
-          "name": "IT Services & Soft",
-          "id": 122,
-          "language": "en",
-          "parent": {
-            "name": "Online Services",
-            "id": 18,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "B2B Online Services",
-          "id": 206,
-          "language": "en",
-          "parent": {
-            "name": "Online Services",
-            "id": 18,
-            "language": "en",
-            "parent": null
-          }
-        }
-      ],
-      "id": 22143,
-      "category": {
-        "name": "IT Services & Soft",
-        "id": 122,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      "affiliate": {
-        "goto_link": "https://tjzuh.com/g/4nnqeux1te5af0702a2711184c9701/",
-        "landings": [
-          {
-            "id": 10924,
-            "name": "India only Norton 360 Deluxe product page",
-            "code": "3923ba2f30"
-          },
-          {
-            "id": 10923,
-            "name": "Norton Secure VPN product page",
-            "code": "0c673f8d0d"
-          },
-          {
-            "id": 10313,
-            "name": "All Product Page",
-            "code": "5120c17245"
-          },
-          {
-            "id": 10310,
-            "name": "Homepage",
-            "code": "9ab49f75db"
-          },
-          {
-            "id": 10312,
-            "name": "Norton 360 Premium product page",
-            "code": "275b1a4099"
-          },
-          {
-            "id": 10925,
-            "name": "India only Customised Affiliate LP",
-            "code": "822ff3f615"
-          },
-          {
-            "id": 11543,
-            "name": "Norton Mobile Security for iOS",
-            "code": "ff2bb62153"
-          },
-          {
-            "id": 12514,
-            "name": "Norton 360 for gamers",
-            "code": "cef92faa09"
-          },
-          {
-            "id": 10920,
-            "name": "Flagship Deal Products and Services LP",
-            "code": "dcebb547f8"
-          },
-          {
-            "id": 13943,
-            "name": "Norton Mobile Security for android",
-            "code": "96eaa772c1"
-          },
-          {
-            "id": 10309,
-            "name": "Norton 360 page",
-            "code": "8abdfebbd4"
-          },
-          {
-            "id": 10922,
-            "name": "Norton 360 Standard product page",
-            "code": "76776d3339"
-          },
-          {
-            "id": 10921,
-            "name": "Norton AntiVirus Plus product page",
-            "code": "9861ac2b80"
-          },
-          {
-            "id": 10311,
-            "name": "360 Deluxe product page",
-            "code": "312a21f4e2"
-          }
-        ],
-        "cashback_link_data": null
-      },
-      "discountCount": 0,
-      "couponCount": 0
-    },
-    {
-      "site_url": "https://nextrp.ru/",
-      "name": "Nextrp [CPP] RU + CIS",
-      "img": "platform/22174.png",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2020/11/19/22174-f70a9ef601ddd3b0.png",
-      "categories": [
-        {
-          "name": "Online Games",
-          "id": 6,
-          "language": "en",
-          "parent": null
-        },
-        {
-          "name": "Client Games",
-          "id": 254,
-          "language": "en",
-          "parent": {
-            "name": "Online Games",
-            "id": 6,
-            "language": "en",
-            "parent": null
-          }
-        }
-      ],
-      "id": 22174,
-      "category": {
-        "name": "Client Games",
-        "id": 254,
-        "language": "en",
-        "parent": {
-          "name": "Online Games",
-          "id": 6,
-          "language": "en",
-          "parent": null
-        }
-      },
-      "affiliate": {
-        "goto_link": "https://zmgig.com/g/yog728vijm5af0702a27f0d389d68d/?erid=MvGzQC98w3Z1gMq1oSV73txX",
-        "landings": [
-          {
-            "id": 30378,
-            "name": "Тульский сервер",
-            "code": "12b4b68d93"
-          },
-          {
-            "id": 31066,
-            "name": "Автоскачивание лаунчера 2",
-            "code": "2904d07288"
-          },
-          {
-            "id": 10345,
-            "name": "Landing 6 рабочий",
-            "code": "284bc474eb"
-          },
-          {
-            "id": 26542,
-            "name": "Каспийский сервер",
-            "code": "425f6e4ee9"
-          },
-          {
-            "id": 22611,
-            "name": "Landing Промокоды",
-            "code": "6b4ef656f2"
-          },
-          {
-            "id": 12037,
-            "name": "Landing 14 рабочий",
-            "code": "06b13bd6bf"
-          },
-          {
-            "id": 18911,
-            "name": "LP 33 RBRN NEW рабочий основной",
-            "code": "1a386567c8"
-          },
-          {
-            "id": 21698,
-            "name": "Landing Тачка в подарок",
-            "code": "b1cf1bbd51"
-          },
-          {
-            "id": 27214,
-            "name": "New video 2024 Q2",
-            "code": "1abfd35fd4"
-          },
-          {
-            "id": 31065,
-            "name": "Автоскачивание лаунчера 1",
-            "code": "683284ee11"
-          },
-          {
-            "id": 25755,
-            "name": "5 years",
-            "code": "e07fc9deeb"
-          },
-          {
-            "id": 12036,
-            "name": "Landing 13 рабочий",
-            "code": "da7d91c5d9"
-          },
-          {
-            "id": 22906,
-            "name": "Новый сервер Байкальский",
-            "code": "6177309e6f"
-          },
-          {
-            "id": 17338,
-            "name": "LP 30 Present рабочий",
-            "code": "126954e518"
-          },
-          {
-            "id": 24180,
-            "name": "Red Russia",
-            "code": "7300f9f40a"
-          },
-          {
-            "id": 10263,
-            "name": "Landing Hero",
-            "code": "f8aee76002"
-          },
-          {
-            "id": 25754,
-            "name": "Promo cars",
-            "code": "e991efe3b3"
-          },
-          {
-            "id": 17246,
-            "name": "LP 27 Install рабочий",
-            "code": "ecd167029d"
-          },
-          {
-            "id": 21085,
-            "name": "Landing ГТА Россия",
-            "code": "021b37cc83"
-          },
-          {
-            "id": 15333,
-            "name": "Landing 19 video рабочий",
-            "code": "1a274fa37b"
-          }
-        ],
-        "cashback_link_data": null
-      },
-      "discountCount": 0,
-      "couponCount": 5
-    },
-    {
-      "site_url": "https://eu.4game.com/roprime/",
-      "name": "Ragnarok Online [CPP] Many GEOs",
-      "img": "platform/22185.svg",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2023/7/26/22185-6b3cd03c294a34e0.svg",
-      "categories": [
-        {
-          "name": "Online Games",
-          "id": 6,
-          "language": "en",
-          "parent": null
-        },
-        {
-          "name": "Client Games",
-          "id": 254,
-          "language": "en",
-          "parent": {
-            "name": "Online Games",
-            "id": 6,
-            "language": "en",
-            "parent": null
-          }
-        }
-      ],
-      "id": 22185,
-      "category": {
-        "name": "Client Games",
-        "id": 254,
-        "language": "en",
-        "parent": {
-          "name": "Online Games",
-          "id": 6,
-          "language": "en",
-          "parent": null
-        }
-      },
-      "affiliate": {
-        "goto_link": "https://zejcl.com/g/yqsvshfqrn5af0702a27a91eef9830/",
-        "landings": [],
-        "cashback_link_data": null
-      },
-      "discountCount": 0,
-      "couponCount": 0
-    },
-    {
-      "site_url": "https://letbefit.ru/",
-      "name": "BeFit",
-      "img": "platform/22320.svg",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2024/10/15/22320-c9f0495221a967d3.svg",
-      "categories": [
-        {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        },
-        {
-          "name": "Online Food Delivery",
-          "id": 204,
-          "language": "en",
-          "parent": {
-            "name": "Online Services",
-            "id": 18,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Back to school 2025",
-          "id": 371,
-          "language": "en",
-          "parent": null
-        },
-        {
-          "name": "New Year Festival 2026",
-          "id": 378,
-          "language": "en",
-          "parent": null
-        }
-      ],
-      "id": 22320,
-      "category": {
-        "name": "Online Food Delivery",
-        "id": 204,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      "affiliate": {
-        "goto_link": "https://uuwgc.com/g/qm29jzxwek5af0702a27fcd3300043/?erid=25H8d7vbP8SRTvJZjHsUpp",
-        "landings": [
-          {
-            "id": 23015,
-            "name": "Slim",
-            "code": "03e30823b6"
-          },
-          {
-            "id": 10575,
-            "name": "Программа Fish",
-            "code": "39023732da"
-          },
-          {
-            "id": 22983,
-            "name": "SalePlus",
-            "code": "201988a328"
-          },
-          {
-            "id": 10573,
-            "name": "Программа Strong",
-            "code": "af16ed32fc"
-          },
-          {
-            "id": 10571,
-            "name": "Программа Normal",
-            "code": "1b5a3fa689"
-          },
-          {
-            "id": 10574,
-            "name": "Программа Daily",
-            "code": "55aea075fd"
-          },
-          {
-            "id": 10570,
-            "name": "Программа Light",
-            "code": "b93491bae3"
-          },
-          {
-            "id": 10572,
-            "name": "Программа Balance",
-            "code": "5437bfe778"
-          }
-        ],
-        "cashback_link_data": null
-      },
-      "discountCount": 8,
-      "couponCount": 4
-    },
-    {
-      "site_url": "https://www.maxlifeinsurance.com/",
-      "name": "MaxLife Insurance [CPS] IN",
-      "img": "platform/22352.svg",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2024/8/2/22352-e7737c976b8b6527.svg",
-      "categories": [
-        {
-          "name": "Insurance",
-          "id": 37,
-          "language": "en",
-          "parent": {
-            "name": "Financial Programs",
-            "id": 7,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Financial Programs",
-          "id": 7,
-          "language": "en",
-          "parent": null
-        }
-      ],
-      "id": 22352,
-      "category": {
-        "name": "Insurance",
-        "id": 37,
-        "language": "en",
-        "parent": {
-          "name": "Financial Programs",
-          "id": 7,
-          "language": "en",
-          "parent": null
-        }
-      },
-      "affiliate": {
-        "goto_link": "https://tjzuh.com/g/sbim6rqhhn5af0702a2733bd52e9ca/",
-        "landings": [],
-        "cashback_link_data": null
-      },
-      "discountCount": 0,
-      "couponCount": 0
-    },
-    {
-      "site_url": "https://www.valuedopinions.co.in/",
-      "name": "Valued Opinions [CPL] IN",
-      "img": "platform/22421.svg",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2024/9/24/22421-608784be3ab75f24.svg",
-      "categories": [
-        {
-          "name": "Other Services",
-          "id": 93,
-          "language": "en",
-          "parent": {
-            "name": "Online Services",
-            "id": 18,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      ],
-      "id": 22421,
-      "category": {
-        "name": "Other Services",
-        "id": 93,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      "affiliate": {
-        "goto_link": "https://tjzuh.com/g/r5fzgky4r55af0702a270bd24e3ecf/",
-        "landings": [],
-        "cashback_link_data": null
-      },
-      "discountCount": 0,
-      "couponCount": 0
-    },
-    {
       "site_url": "https://www.warthunder.com/",
       "name": "War Thunder [CPP] Many GEOs",
       "img": "platform/22478.svg",
@@ -973,476 +523,6 @@
         "cashback_link_data": null
       },
       "discountCount": 2,
-      "couponCount": 0
-    },
-    {
-      "site_url": "https://randewoo.ru/",
-      "name": "Randewoo",
-      "img": "platform/22484.svg",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/23/22484-276d0824abb5ce1b.svg",
-      "categories": [
-        {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        },
-        {
-          "name": "Personal Care & Pharmacy",
-          "id": 67,
-          "language": "en",
-          "parent": {
-            "name": "Online stores",
-            "id": 62,
-            "language": "en",
-            "parent": null
-          }
-        }
-      ],
-      "id": 22484,
-      "category": {
-        "name": "Personal Care & Pharmacy",
-        "id": 67,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      "affiliate": {
-        "goto_link": "https://bywiola.com/g/efixkgr4c45af0702a270dd11956d5/?erid=MvGzQC98w3Z1gMq1oSwL7BMZ",
-        "landings": [
-          {
-            "id": 15567,
-            "name": "Массажеры",
-            "code": "f80c311e30"
-          },
-          {
-            "id": 15565,
-            "name": "Зубные щетки",
-            "code": "1ecc03ff76"
-          },
-          {
-            "id": 15566,
-            "name": "Зубные пасты",
-            "code": "e67a6d9154"
-          },
-          {
-            "id": 15572,
-            "name": "Gehwol - препараты для обеспечения здоровья ног",
-            "code": "580169c6b4"
-          },
-          {
-            "id": 15571,
-            "name": "Косметика для ногтей",
-            "code": "fffa28b731"
-          },
-          {
-            "id": 15552,
-            "name": "Женская парфюмерия",
-            "code": "ebf80411dd"
-          },
-          {
-            "id": 15569,
-            "name": "Профессиональная косметика для проблемной кожи",
-            "code": "7609d47b02"
-          },
-          {
-            "id": 15568,
-            "name": "Украшения",
-            "code": "e3470a6f00"
-          },
-          {
-            "id": 15560,
-            "name": "Японская косметика",
-            "code": "2718bb6b0e"
-          },
-          {
-            "id": 15559,
-            "name": "Корейская косметика",
-            "code": "15986ee6c7"
-          },
-          {
-            "id": 15558,
-            "name": "Натуральная косметика",
-            "code": "1b8929708c"
-          },
-          {
-            "id": 15564,
-            "name": "Все для бритья",
-            "code": "409ec31a36"
-          },
-          {
-            "id": 15561,
-            "name": "Косметика для лица",
-            "code": "6b9c33d443"
-          },
-          {
-            "id": 15570,
-            "name": "Антивозрастная косметика для лица",
-            "code": "67564dfda2"
-          },
-          {
-            "id": 15554,
-            "name": "Восточная и арабская парфюмерия",
-            "code": "c893a295d6"
-          },
-          {
-            "id": 15553,
-            "name": "Мужская парфюмерия",
-            "code": "22708004f7"
-          },
-          {
-            "id": 15557,
-            "name": "Вся косметика",
-            "code": "85830ead06"
-          },
-          {
-            "id": 15562,
-            "name": "Уход за волосами",
-            "code": "062a80a098"
-          },
-          {
-            "id": 15556,
-            "name": "Ароматы для дома",
-            "code": "ada50894d4"
-          },
-          {
-            "id": 15573,
-            "name": "Профессиональные инструменты",
-            "code": "8728cb3ce7"
-          },
-          {
-            "id": 15549,
-            "name": "ТОП 100 товаров, парфюмерия",
-            "code": "e9faf015d2"
-          },
-          {
-            "id": 31092,
-            "name": "Подборка ароматов этой осени",
-            "code": "5fc8510ede"
-          },
-          {
-            "id": 31093,
-            "name": "Aroma Box Топ осенних ароматов для нее",
-            "code": "7ac87843c3"
-          },
-          {
-            "id": 31094,
-            "name": "Aroma Box Топ осенних ароматов для него",
-            "code": "796621f07f"
-          },
-          {
-            "id": 31095,
-            "name": "Aroma Box - Essential Осенний шик",
-            "code": "404c406894"
-          },
-          {
-            "id": 15550,
-            "name": "SALE",
-            "code": "9cb86fd27f"
-          },
-          {
-            "id": 14907,
-            "name": "Aromabox - универсальный подарок",
-            "code": "a40eae8cf8"
-          },
-          {
-            "id": 15551,
-            "name": "Вся парфюмерия",
-            "code": "4ab1a31e26"
-          },
-          {
-            "id": 15563,
-            "name": "Шампуни",
-            "code": "44d626d565"
-          },
-          {
-            "id": 15555,
-            "name": "Селективная парфюмерия",
-            "code": "ff4f2805e8"
-          }
-        ],
-        "cashback_link_data": null
-      },
-      "discountCount": 71,
-      "couponCount": 1
-    },
-    {
-      "site_url": "https://www.kotak811.com/open-zero-balance-savings-account",
-      "name": "Kotak 811 Savings Account [CPA] IN",
-      "img": "platform/22594.svg",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2025/5/12/22594-1c0cd542a0dac208.svg",
-      "categories": [
-        {
-          "name": "Deposits",
-          "id": 50,
-          "language": "en",
-          "parent": {
-            "name": "Financial Programs",
-            "id": 7,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Financial Programs",
-          "id": 7,
-          "language": "en",
-          "parent": null
-        }
-      ],
-      "id": 22594,
-      "category": {
-        "name": "Deposits",
-        "id": 50,
-        "language": "en",
-        "parent": {
-          "name": "Financial Programs",
-          "id": 7,
-          "language": "en",
-          "parent": null
-        }
-      },
-      "affiliate": {
-        "goto_link": "https://tjzuh.com/g/mbprflrshq5af0702a2741a3f81e9d/",
-        "landings": [],
-        "cashback_link_data": null
-      },
-      "discountCount": 0,
-      "couponCount": 0
-    },
-    {
-      "site_url": "https://www.toprankers.com/",
-      "name": "Top Rankers [CPA] IN",
-      "img": "platform/22604.svg",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/13/22604-b2e314cda9d4950e.svg",
-      "categories": [
-        {
-          "name": "Online Education",
-          "id": 98,
-          "language": "en",
-          "parent": {
-            "name": "Online Services",
-            "id": 18,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      ],
-      "id": 22604,
-      "category": {
-        "name": "Online Education",
-        "id": 98,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      "affiliate": {
-        "goto_link": "https://tjzuh.com/g/9hkqqfkjnr5af0702a2762f5a57535/",
-        "landings": [],
-        "cashback_link_data": null
-      },
-      "discountCount": 0,
-      "couponCount": 0
-    },
-    {
-      "site_url": "https://m-food.ru/",
-      "name": "My Food",
-      "img": "platform/22771.svg",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/12/22771-2a112c9de18e2464.svg",
-      "categories": [
-        {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        },
-        {
-          "name": "Online Food Delivery",
-          "id": 204,
-          "language": "en",
-          "parent": {
-            "name": "Online Services",
-            "id": 18,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Food & Food delivery",
-          "id": 63,
-          "language": "en",
-          "parent": {
-            "name": "Online stores",
-            "id": 62,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        },
-        {
-          "name": "New Year Festival 2026",
-          "id": 378,
-          "language": "en",
-          "parent": null
-        }
-      ],
-      "id": 22771,
-      "category": {
-        "name": "Online Food Delivery",
-        "id": 204,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      "affiliate": {
-        "goto_link": "https://dkfrh.com/g/7jmalrcp7g5af0702a27042e35a20f/?erid=MvGzQC98w3Z1gMq1owFgdvih",
-        "landings": [],
-        "cashback_link_data": null
-      },
-      "discountCount": 2,
-      "couponCount": 1
-    },
-    {
-      "site_url": "https://worldoftanks.com/",
-      "name": "World of Tanks [CPP + Winback] WW",
-      "img": "platform/22781.svg",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/7/22781-56fe0b16051f01e5.svg",
-      "categories": [
-        {
-          "name": "Client Games",
-          "id": 254,
-          "language": "en",
-          "parent": {
-            "name": "Online Games",
-            "id": 6,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Online Games",
-          "id": 6,
-          "language": "en",
-          "parent": null
-        }
-      ],
-      "id": 22781,
-      "category": {
-        "name": "Client Games",
-        "id": 254,
-        "language": "en",
-        "parent": {
-          "name": "Online Games",
-          "id": 6,
-          "language": "en",
-          "parent": null
-        }
-      },
-      "affiliate": {
-        "goto_link": "https://axavl.com/g/2iw2selhvz5af0702a27ee610cb449/",
-        "landings": [
-          {
-            "id": 28189,
-            "name": "Videoback neutral",
-            "code": "e1e2d0e54e"
-          },
-          {
-            "id": 28186,
-            "name": "History",
-            "code": "2b985bac97"
-          },
-          {
-            "id": 28188,
-            "name": "Videoback dark",
-            "code": "b264743ff8"
-          },
-          {
-            "id": 28187,
-            "name": "Videoback gameplay",
-            "code": "4f6e66c211"
-          }
-        ],
-        "cashback_link_data": null
-      },
-      "discountCount": 0,
-      "couponCount": 0
-    },
-    {
-      "site_url": "https://tengeda.kz/",
-      "name": "TengeDa [CPS] KZ",
-      "img": "platform/22801.svg",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2024/10/22/22801-60adcb689169548e.svg",
-      "categories": [
-        {
-          "name": "Financial Programs",
-          "id": 7,
-          "language": "en",
-          "parent": null
-        },
-        {
-          "name": "Payday Loans",
-          "id": 105,
-          "language": "en",
-          "parent": {
-            "name": "Financial Programs",
-            "id": 7,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Loans",
-          "id": 9,
-          "language": "en",
-          "parent": {
-            "name": "Financial Programs",
-            "id": 7,
-            "language": "en",
-            "parent": null
-          }
-        }
-      ],
-      "id": 22801,
-      "category": {
-        "name": "Payday Loans",
-        "id": 105,
-        "language": "en",
-        "parent": {
-          "name": "Financial Programs",
-          "id": 7,
-          "language": "en",
-          "parent": null
-        }
-      },
-      "affiliate": {
-        "goto_link": "https://thevospad.com/g/yc2qk2mfj55af0702a27441701efe0/",
-        "landings": [],
-        "cashback_link_data": null
-      },
-      "discountCount": 0,
       "couponCount": 0
     },
     {
@@ -1701,632 +781,6 @@
       "couponCount": 0
     },
     {
-      "site_url": "https://www.edureka.co/",
-      "name": "Edureka [CPS] WW",
-      "img": "platform/23097.jpg",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2021/8/6/23097-0af7402e44d2938d.jpg",
-      "categories": [
-        {
-          "name": "Online Education",
-          "id": 98,
-          "language": "en",
-          "parent": {
-            "name": "Online Services",
-            "id": 18,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      ],
-      "id": 23097,
-      "category": {
-        "name": "Online Education",
-        "id": 98,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      "affiliate": {
-        "goto_link": "https://tjzuh.com/g/sakx2ucq005af0702a2763347fc3f8/",
-        "landings": [
-          {
-            "id": 30386,
-            "name": "Genetic AI",
-            "code": "ca349eb4a3"
-          },
-          {
-            "id": 30388,
-            "name": "Gen AI Masters",
-            "code": "b52889aa4c"
-          },
-          {
-            "id": 30387,
-            "name": "Gen AI PGP",
-            "code": "377ac376ad"
-          }
-        ],
-        "cashback_link_data": null
-      },
-      "discountCount": 0,
-      "couponCount": 0
-    },
-    {
-      "site_url": "https://www.wondershare.com/",
-      "name": "Wondershare WW",
-      "img": "platform/23157.svg",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2025/11/28/23157-cd85af7f8d7bfe13.svg",
-      "categories": [
-        {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        },
-        {
-          "name": "Other Services",
-          "id": 93,
-          "language": "en",
-          "parent": {
-            "name": "Online Services",
-            "id": 18,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "IT Services & Soft",
-          "id": 122,
-          "language": "en",
-          "parent": {
-            "name": "Online Services",
-            "id": 18,
-            "language": "en",
-            "parent": null
-          }
-        }
-      ],
-      "id": 23157,
-      "category": {
-        "name": "Other Services",
-        "id": 93,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      "affiliate": {
-        "goto_link": "https://kjuzv.com/g/8u3trxihmw5af0702a27ef655e4ac9/",
-        "landings": [
-          {
-            "id": 31182,
-            "name": "Spooky Savings - discount on Filmora - DE",
-            "code": "bee24827a7"
-          },
-          {
-            "id": 28294,
-            "name": "Filmora 14 Planar Tracker",
-            "code": "37b14cd180"
-          },
-          {
-            "id": 29937,
-            "name": "Media.io 50 Percent OFF grab it before it's gone",
-            "code": "c538f584e9"
-          },
-          {
-            "id": 30021,
-            "name": "PDFelement Precios bajos de Semana Santa Obtén PDFelement con más de 20 percent OFF",
-            "code": "69245fc86e"
-          },
-          {
-            "id": 30022,
-            "name": "Oferta de Páscoa Ganhe até 38 percent  DESC. no PDFelement",
-            "code": "7765ca6561"
-          },
-          {
-            "id": 27373,
-            "name": "Media.io Removing Watermarks from Images and Videos",
-            "code": "f8d444a213"
-          },
-          {
-            "id": 27055,
-            "name": "Professional AI Headshot Generator",
-            "code": "fa735cec57"
-          },
-          {
-            "id": 27704,
-            "name": "Wondershare ES Filmora's Eliminar Objeto de Video IA",
-            "code": "b18e4539f8"
-          },
-          {
-            "id": 31459,
-            "name": "До -68 процентов на праздничные покупки для Filmora",
-            "code": "27669aaefa"
-          },
-          {
-            "id": 28292,
-            "name": "Tired of Editing Hassles, Filmora 14 AI Video Editing is Here",
-            "code": "4daf6309ca"
-          },
-          {
-            "id": 31460,
-            "name": "-72 percent Noël __ Activez l offre PDFelement maintenant",
-            "code": "b7ae7581da"
-          },
-          {
-            "id": 31461,
-            "name": "필모라 크리스마스 최대 54 percent 할인 놓치지 마세요",
-            "code": "61bd9e3336"
-          },
-          {
-            "id": 28302,
-            "name": "Filmora V14 kommt bald Nur für begrenzte Zeit",
-            "code": "4fa54b86ad"
-          },
-          {
-            "id": 28304,
-            "name": "Wondershare PDFelement Your AI PDF Editor Beyond Imagination",
-            "code": "d9dd9663e5"
-          },
-          {
-            "id": 31462,
-            "name": "Weihnachtszauber erwacht_ Bis zu 53 percent RABATT auf Filmora",
-            "code": "2468673dd5"
-          },
-          {
-            "id": 31463,
-            "name": "Magia de Natal no ar_ Até 53 percent OFF no Filmora",
-            "code": "db4ef34dfd"
-          },
-          {
-            "id": 31464,
-            "name": "Navidad_ última oferta de 2025 _ PDFelement con hasta 78 percent OFF",
-            "code": "d26d89537d"
-          },
-          {
-            "id": 31465,
-            "name": "К Новому году готовы__ Скидки 50 процентов на все решения PDFelement",
-            "code": "b941c6d467"
-          },
-          {
-            "id": 31466,
-            "name": "Jusquà 30 percent OFF_ Noël 2025 pour Wondershare Filmora",
-            "code": "f4f72fe7ab"
-          },
-          {
-            "id": 31467,
-            "name": "Última oportunidad de Navidad_ 30 percent de descuento en Filmora",
-            "code": "64ccd6903a"
-          },
-          {
-            "id": 31468,
-            "name": "Christmas Mega Sale_ Save Up to 79 percent plus Free PDF Templates",
-            "code": "7b02f45cf1"
-          },
-          {
-            "id": 29997,
-            "name": "Democreator iOS Bildschirmaufnahme  4K 120FPS",
-            "code": "a5780de927"
-          },
-          {
-            "id": 31469,
-            "name": "PDFelement Xmas Launch-Deals nur kurz_ BIS ZU 72 percent RABATT",
-            "code": "49e8519ee7"
-          },
-          {
-            "id": 28116,
-            "name": "Get Organized for a New Semester with HiPDF Free Templates",
-            "code": "c282fa77ea"
-          },
-          {
-            "id": 27630,
-            "name": "PDFelement V11 is Coming, save up to 79 OFF",
-            "code": "4cff999491"
-          },
-          {
-            "id": 27868,
-            "name": "Pick Your Best Plan of Virbo",
-            "code": "e21e165a14"
-          },
-          {
-            "id": 28709,
-            "name": "UniConverter 16 Is Here",
-            "code": "8d6b7dfd69"
-          },
-          {
-            "id": 27891,
-            "name": "Воспользуйтесь скидкой по купону",
-            "code": "fc5251c81d"
-          },
-          {
-            "id": 30009,
-            "name": "Recoverit Licencia Anual 50 Percent OFF",
-            "code": "5a4542edf1"
-          },
-          {
-            "id": 27374,
-            "name": "Pixpic AI Portrait Generator Discover a Multitude of Styles",
-            "code": "dcc08e8422"
-          },
-          {
-            "id": 27903,
-            "name": "Dr.Fone - Virtual Location",
-            "code": "baac47cfd2"
-          },
-          {
-            "id": 27054,
-            "name": "Enjoy EDU Exclusive Offer Craft Education Videos With Filmora E-Learning Tools",
-            "code": "1a99c7b180"
-          },
-          {
-            "id": 30046,
-            "name": "PDFelement 人気の永続プランが 87 Percent OFF",
-            "code": "3d244854c7"
-          },
-          {
-            "id": 27940,
-            "name": "ES    78 PERCENT DTO. Oferta para celebrar el lanzamiento de PDFelement 11",
-            "code": "35cf2da3f9"
-          },
-          {
-            "id": 29417,
-            "name": "Virbo AI talkingphoto",
-            "code": "53f7552b41"
-          },
-          {
-            "id": 29418,
-            "name": "Filmora 3000 Video Templates",
-            "code": "d7ea5d9e26"
-          },
-          {
-            "id": 30020,
-            "name": "PDFelement Osterangebot Bis zu 72 percent sparen Dokumente neu belebt mit PDFelement",
-            "code": "e54c3be6cf"
-          },
-          {
-            "id": 27375,
-            "name": "Pick Your Plans of Media.io",
-            "code": "3755f9b282"
-          },
-          {
-            "id": 27927,
-            "name": "Jusqu'à 72 Percent de réduction pour fêter la sortie de PDFelement 11",
-            "code": "ebeba86e93"
-          },
-          {
-            "id": 28293,
-            "name": "Filmora 14 Multi-camera Editing",
-            "code": "db31ddf0fe"
-          },
-          {
-            "id": 28845,
-            "name": "UniConverter 16 출시",
-            "code": "b319a60815"
-          },
-          {
-            "id": 27639,
-            "name": "Virbo Generate AI Videos on Your Phone",
-            "code": "656c2e48e7"
-          },
-          {
-            "id": 27700,
-            "name": "Up to 79 PERCENT OFF to Celebrate the Release of PDFelement 11",
-            "code": "7617545de3"
-          },
-          {
-            "id": 27359,
-            "name": "Make text animations dance to your audio - Only with Filmora",
-            "code": "4c55bd2476"
-          },
-          {
-            "id": 27994,
-            "name": "Até 78Percent DESC. para comemorar o lançamento de PDFelement 11",
-            "code": "d438ac3ab2"
-          },
-          {
-            "id": 31087,
-            "name": "UniConverter V17 Vorverkauf - 20 percent Rabatt sparen. UniConverter V17 kommt im Oktober - jetzt vorab sparen___DE___vali till 19.10.25",
-            "code": "b7411c8f1b"
-          },
-          {
-            "id": 27518,
-            "name": "Generate Talking Photo Online Free",
-            "code": "0233a918bd"
-          },
-          {
-            "id": 29247,
-            "name": "PDFelement Arbeitsstart-Saison 2025 Sparen Sie bis zu 75 percent Rabatt",
-            "code": "8b1970f50c"
-          },
-          {
-            "id": 28301,
-            "name": "Filmora KI Bearbeiten Sie Videos wie nie zuvor mit der Magie der KI-Funktionen",
-            "code": "20a18ebfbc"
-          },
-          {
-            "id": 27358,
-            "name": "Make Ultra- Realistic Voice Cloning With Filmora",
-            "code": "339fc27edf"
-          },
-          {
-            "id": 27993,
-            "name": "Wondershare Repairit リペアリット AI動画補正",
-            "code": "7c97fc01ec"
-          },
-          {
-            "id": 27965,
-            "name": "50 OFF Media.io Yearly Plan",
-            "code": "8f30d6aa2a"
-          },
-          {
-            "id": 30013,
-            "name": "Save Up to 45 percent OFF on Uniconverter and Repairit",
-            "code": "543da23783"
-          },
-          {
-            "id": 27992,
-            "name": "Wondershare Repairit V6 Leading Gyroscope Data Repair",
-            "code": "91ab63e3e1"
-          },
-          {
-            "id": 28299,
-            "name": "今 Filmora 13をご購入いただくと 次回のV14へのアップグレードが無料になります",
-            "code": "0ef2f2f9c5"
-          },
-          {
-            "id": 30019,
-            "name": "Jetzt mit UniConverter bis zu 20 percent sparen",
-            "code": "0dbefa2d55"
-          },
-          {
-            "id": 30014,
-            "name": "Filmora Oster-Angebot Bis zu 40 percent Rabatt",
-            "code": "eb7291768a"
-          },
-          {
-            "id": 30234,
-            "name": "Hot Sale 2025 Ahorra 20 por ciento con UniConverter  Herramientas Premium GRATIS",
-            "code": "a3213d3970"
-          },
-          {
-            "id": 29180,
-            "name": "PDFelement 特別価格 今なら 5,900 円オフ",
-            "code": "c8efd2eef3"
-          },
-          {
-            "id": 29179,
-            "name": "DemoCreator が期間限定で最大1100円OFF",
-            "code": "b377e3be58"
-          },
-          {
-            "id": 28295,
-            "name": "Filmora 14 AI Face Mosaic",
-            "code": "55f1c2d268"
-          },
-          {
-            "id": 29165,
-            "name": "Coupon Code SIT20OFFNY Dr.Fone",
-            "code": "f03494640e"
-          },
-          {
-            "id": 28303,
-            "name": "Essai gratuit de ressources créatives de 7 jours en profitant de 10percent de remise supplémentaire pour Filmora",
-            "code": "a1f6439703"
-          },
-          {
-            "id": 28296,
-            "name": "Filmora 14 Two weeks for free, auto-renew at 19.99USD",
-            "code": "e564a03da7"
-          },
-          {
-            "id": 28225,
-            "name": "Bis zu 72Percent RABATT auf PDFelement an diesem Weltlehrertag",
-            "code": "0af7dcc858"
-          },
-          {
-            "id": 28115,
-            "name": "EdrawMax 14 Use AI to generate and optimize diagrams",
-            "code": "34d8e32c4a"
-          },
-          {
-            "id": 30580,
-            "name": "MobileTrans V5.0 Released. Speed-up your data transfer process.",
-            "code": "7b74cfd4f3"
-          },
-          {
-            "id": 28300,
-            "name": "Filmora 14 AI画像生成",
-            "code": "ad79df1b2f"
-          },
-          {
-            "id": 28117,
-            "name": "FamiSafe New Feature Calls AND Messages",
-            "code": "f7b4278f27"
-          },
-          {
-            "id": 29580,
-            "name": "MobileTrans Samsung S25 Data Transfer",
-            "code": "453c68f5d4"
-          },
-          {
-            "id": 27357,
-            "name": "Filmora 13 AI Voice Changer is here",
-            "code": "bb298e157e"
-          },
-          {
-            "id": 30081,
-            "name": "PDFelement 가정의 달 맞이 최대 42 Percent 할인",
-            "code": "fe9b25f164"
-          },
-          {
-            "id": 29295,
-            "name": "Make Your AI-Driven Videos Go Viral on Social Media",
-            "code": "0aed4a89c1"
-          },
-          {
-            "id": 29581,
-            "name": "40 Percent OFF Recoverit Exclusive Back To Work Sale",
-            "code": "149fdb3464"
-          },
-          {
-            "id": 29582,
-            "name": "Wondershare Japan Official Store",
-            "code": "778d934237"
-          },
-          {
-            "id": 29294,
-            "name": "Explore the data recovery stories of Photographer",
-            "code": "0ef4e8f29e"
-          },
-          {
-            "id": 30108,
-            "name": "PDFelement Muttertagsaktion bis zu 72 Prozent Rabatt plus kostenlose Muttertagskarten",
-            "code": "d5cd899dbd"
-          },
-          {
-            "id": 27995,
-            "name": "2 milioni di punti AI gratuiti per il lancio di PDFelement 11",
-            "code": "7764d26dbd"
-          },
-          {
-            "id": 29630,
-            "name": "Wondershare Virbo AI Photo Animator",
-            "code": "4701a151f6"
-          },
-          {
-            "id": 28118,
-            "name": "Enjoy the Biggest Discount ever Virtual Location 66PERCENT Off",
-            "code": "e64bf8fed4"
-          },
-          {
-            "id": 29631,
-            "name": "How to Convert Link to Video Online Using Virbo AI",
-            "code": "d199893089"
-          },
-          {
-            "id": 29326,
-            "name": "Filmoraでパスに沿ってテキストをアニメ化する",
-            "code": "6d4bf0bec0"
-          },
-          {
-            "id": 29519,
-            "name": "Create Your AI Voice, Instantly with Democreator",
-            "code": "52749b9dea"
-          },
-          {
-            "id": 29653,
-            "name": "Nur noch 4 Tage Bis zu 72Percent Rabatt auf PDFelement",
-            "code": "2710b21649"
-          },
-          {
-            "id": 29659,
-            "name": "Come scaricare i libri di Kindle a PDF",
-            "code": "0a627b9ceb"
-          },
-          {
-            "id": 29938,
-            "name": "Wondershare Virbo Deepfake Maker Yearly 65 Percent OFF",
-            "code": "05df3cd9b7"
-          },
-          {
-            "id": 28719,
-            "name": "雙11限定 創意素材年度方案立減900",
-            "code": "f26e2ec79b"
-          },
-          {
-            "id": 28718,
-            "name": "雙11狂歡年繳方案立減600 限時搶購 優惠不容錯過",
-            "code": "40f965cb7f"
-          },
-          {
-            "id": 27866,
-            "name": "Enjoy a 10 discount on Edrawmind",
-            "code": "f7ef7841ab"
-          },
-          {
-            "id": 29888,
-            "name": "Make Filmora Video Editing More Productive",
-            "code": "569cfebece"
-          },
-          {
-            "id": 29727,
-            "name": "Wondershare Virbo AI Video Generator without Watermark",
-            "code": "acc4b8056a"
-          },
-          {
-            "id": 29728,
-            "name": "Explore Wondershare AI Video and Image Solutions",
-            "code": "5008455b74"
-          },
-          {
-            "id": 27991,
-            "name": "Get Media.io AI Passport Photo Maker with 30Percent OFF",
-            "code": "0e9a085945"
-          },
-          {
-            "id": 28766,
-            "name": "UniConverter 16 ist da",
-            "code": "3a9c579938"
-          },
-          {
-            "id": 28767,
-            "name": "UniConverter 16 est là",
-            "code": "c9a5435980"
-          },
-          {
-            "id": 28768,
-            "name": "UniConverter 16 está aqui",
-            "code": "2c152c21fa"
-          },
-          {
-            "id": 28760,
-            "name": "Ahorra con hasta 78 Percent de DTO en PDFelement",
-            "code": "962a61db53"
-          },
-          {
-            "id": 28769,
-            "name": "UniConverter 16 è qui",
-            "code": "4a05c0921e"
-          },
-          {
-            "id": 28770,
-            "name": "最新バージョンUniConverter 16が新登場",
-            "code": "9827489413"
-          },
-          {
-            "id": 31181,
-            "name": "Spooky Savings - discount on Filmora - JP",
-            "code": "d2449f61a0"
-          },
-          {
-            "id": 31180,
-            "name": "Spooky Savings - 20 percent OFF Filmora - EN",
-            "code": "5ed0844bb3"
-          },
-          {
-            "id": 27056,
-            "name": "Free Online Video Editor",
-            "code": "583b63c704"
-          }
-        ],
-        "cashback_link_data": null
-      },
-      "discountCount": 0,
-      "couponCount": 3
-    },
-    {
       "site_url": "https://www.edrawsoft.com/",
       "name": "Edrawsoft WW",
       "img": "platform/23197.svg",
@@ -2553,563 +1007,6 @@
       "couponCount": 0
     },
     {
-      "site_url": "https://www.icicilombard.com/",
-      "name": "ICICI Lombard Bike CPS",
-      "img": "platform/23313.svg",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2024/1/11/23313-ea3fdb5abd333104.svg",
-      "categories": [
-        {
-          "name": "Investments",
-          "id": 126,
-          "language": "en",
-          "parent": {
-            "name": "Financial Programs",
-            "id": 7,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Financial Programs",
-          "id": 7,
-          "language": "en",
-          "parent": null
-        }
-      ],
-      "id": 23313,
-      "category": {
-        "name": "Investments",
-        "id": 126,
-        "language": "en",
-        "parent": {
-          "name": "Financial Programs",
-          "id": 7,
-          "language": "en",
-          "parent": null
-        }
-      },
-      "affiliate": {
-        "goto_link": "https://tjzuh.com/g/jvtichtaxq5af0702a279db9c1c432/",
-        "landings": [],
-        "cashback_link_data": null
-      },
-      "discountCount": 0,
-      "couponCount": 0
-    },
-    {
-      "site_url": "https://www.indusind.com/in/en/personal/accounts/saving-account.html",
-      "name": "IndusInd Saving Account [CPL] IN",
-      "img": "platform/23326.svg",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2023/9/14/23326-643bf8e62cf26fec.svg",
-      "categories": [
-        {
-          "name": "Deposits",
-          "id": 50,
-          "language": "en",
-          "parent": {
-            "name": "Financial Programs",
-            "id": 7,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Financial Programs",
-          "id": 7,
-          "language": "en",
-          "parent": null
-        }
-      ],
-      "id": 23326,
-      "category": {
-        "name": "Deposits",
-        "id": 50,
-        "language": "en",
-        "parent": {
-          "name": "Financial Programs",
-          "id": 7,
-          "language": "en",
-          "parent": null
-        }
-      },
-      "affiliate": {
-        "goto_link": "https://tjzuh.com/g/lio8jy1wbd5af0702a27475dd8c3b0/",
-        "landings": [],
-        "cashback_link_data": null
-      },
-      "discountCount": 0,
-      "couponCount": 0
-    },
-    {
-      "site_url": "https://malinovka.org/",
-      "name": "Малиновка [CPP] RU+CIS",
-      "img": "platform/23335.svg",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2024/4/19/23335-2ffc0b90686fbf90.svg",
-      "categories": [
-        {
-          "name": "Online Games",
-          "id": 6,
-          "language": "en",
-          "parent": null
-        },
-        {
-          "name": "Client Games",
-          "id": 254,
-          "language": "en",
-          "parent": {
-            "name": "Online Games",
-            "id": 6,
-            "language": "en",
-            "parent": null
-          }
-        }
-      ],
-      "id": 23335,
-      "category": {
-        "name": "Client Games",
-        "id": 254,
-        "language": "en",
-        "parent": {
-          "name": "Online Games",
-          "id": 6,
-          "language": "en",
-          "parent": null
-        }
-      },
-      "affiliate": {
-        "goto_link": "https://xcdus.com/g/c5e9n6r3ew5af0702a27c5c964748a/?erid=MvGzQC98w3Z1gMq1pRgkzi9d",
-        "landings": [],
-        "cashback_link_data": null
-      },
-      "discountCount": 0,
-      "couponCount": 0
-    },
-    {
-      "site_url": "https://productstar.ru/",
-      "name": "Productstar",
-      "img": "platform/23344.svg",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/14/23344-024d2c814b8962be.svg",
-      "categories": [
-        {
-          "name": "Online Education",
-          "id": 98,
-          "language": "en",
-          "parent": {
-            "name": "Online Services",
-            "id": 18,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        },
-        {
-          "name": "Back to school 2025",
-          "id": 371,
-          "language": "en",
-          "parent": null
-        }
-      ],
-      "id": 23344,
-      "category": {
-        "name": "Online Education",
-        "id": 98,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      "affiliate": {
-        "goto_link": "https://naiawork.com/g/t9pnpumx6q5af0702a275e445e6c7b/?erid=MvGzQC98w3Z1gMq1pRgm23vZ",
-        "landings": [
-          {
-            "id": 21466,
-            "name": "Таргетированная реклама в Instagram  Faceboo",
-            "code": "53a961cd5d"
-          },
-          {
-            "id": 31449,
-            "name": "Профтест",
-            "code": "fd583683cb"
-          },
-          {
-            "id": 21461,
-            "name": "Основы Java с 0",
-            "code": "1f439c3e63"
-          },
-          {
-            "id": 21821,
-            "name": "Черная пятница",
-            "code": "58eaaea71c"
-          },
-          {
-            "id": 21450,
-            "name": "Курс Data Scientist",
-            "code": "02da0c525e"
-          },
-          {
-            "id": 21464,
-            "name": "Курс \"Айтишник\"",
-            "code": "b3df30785a"
-          },
-          {
-            "id": 21441,
-            "name": "Project Manager",
-            "code": "a5f20ed555"
-          },
-          {
-            "id": 21453,
-            "name": "SQL с 0 для анализа данных",
-            "code": "87c7bcb2ae"
-          },
-          {
-            "id": 21456,
-            "name": "Основы Python с 0",
-            "code": "e8077defe5"
-          },
-          {
-            "id": 31337,
-            "name": "Профессия недели Пайтон разработчик",
-            "code": "eea407b73f"
-          },
-          {
-            "id": 21460,
-            "name": "Профессия Java-разработчик",
-            "code": "b4751db675"
-          },
-          {
-            "id": 21472,
-            "name": "Devops быстрый старт",
-            "code": "8c2f3159a2"
-          },
-          {
-            "id": 21469,
-            "name": "Level-Up hardskills навыков продакта",
-            "code": "d451e76235"
-          },
-          {
-            "id": 21455,
-            "name": "Курс Python, BI и BigData",
-            "code": "05fa39f80f"
-          },
-          {
-            "id": 21467,
-            "name": "Контекстная реклама и SEO",
-            "code": "30571715a2"
-          },
-          {
-            "id": 21452,
-            "name": "Навык A-B-тестирование--",
-            "code": "8e1ef27d59"
-          },
-          {
-            "id": 21444,
-            "name": "Продакт-менеджмент с 0 быстрый старт",
-            "code": "789101df3e"
-          },
-          {
-            "id": 21448,
-            "name": "Курс Директор по продукту CPO",
-            "code": "81deb726fd"
-          },
-          {
-            "id": 21474,
-            "name": "Навыки ZeroCoding",
-            "code": "f1fd9b36f7"
-          },
-          {
-            "id": 21446,
-            "name": "Инструменты CJM и CustDev",
-            "code": "728442089a"
-          },
-          {
-            "id": 21458,
-            "name": "Unit-экономика и PL",
-            "code": "b02a0b227c"
-          },
-          {
-            "id": 21447,
-            "name": "Growth hacking",
-            "code": "edd5c2b2a4"
-          },
-          {
-            "id": 21443,
-            "name": "Менеджмент Mobile-продуктов",
-            "code": "986747a089"
-          },
-          {
-            "id": 21451,
-            "name": "Курс Аналитик",
-            "code": "8c17381e53"
-          },
-          {
-            "id": 21637,
-            "name": "Java разработчик",
-            "code": "149ae21526"
-          },
-          {
-            "id": 21465,
-            "name": "Курс Интернет-маркетолог",
-            "code": "07266b0f93"
-          },
-          {
-            "id": 21440,
-            "name": "Курс Hardskills для Продакта CJM, CustDev, Unit-экономика и SQL",
-            "code": "256c46d850"
-          },
-          {
-            "id": 21470,
-            "name": "Основы дизайна для продактов Figma",
-            "code": "599769c2f4"
-          },
-          {
-            "id": 21473,
-            "name": "Создание сайтов на Tilda",
-            "code": "9a60d1392f"
-          },
-          {
-            "id": 21439,
-            "name": "Профессия  Middle Senior Product",
-            "code": "371b233f70"
-          },
-          {
-            "id": 21459,
-            "name": "Data Science быстрый старт",
-            "code": "6ffc51f582"
-          },
-          {
-            "id": 21462,
-            "name": "QA инженер тестировщик",
-            "code": "96c14d6dde"
-          },
-          {
-            "id": 21449,
-            "name": "Профессия Аналитик",
-            "code": "bf275db2e8"
-          },
-          {
-            "id": 23198,
-            "name": "Python разработчик",
-            "code": "7dd96be282"
-          },
-          {
-            "id": 21445,
-            "name": "Стратегия и видение продукта",
-            "code": "6bbadce07c"
-          },
-          {
-            "id": 21454,
-            "name": "Аналитика с 0 быстрый старт",
-            "code": "df820390f2"
-          },
-          {
-            "id": 21438,
-            "name": "Курс Product Manager",
-            "code": "75bb4295f6"
-          },
-          {
-            "id": 21437,
-            "name": "Профессия Product Manager",
-            "code": "4810598eb9"
-          },
-          {
-            "id": 21468,
-            "name": "SMM-менеджер и создание лендингов",
-            "code": "fa8c71197b"
-          },
-          {
-            "id": 21471,
-            "name": "Google Sheets и Exсel",
-            "code": "eae08498ab"
-          },
-          {
-            "id": 21457,
-            "name": "Power BI, Tableau и визуализация данных",
-            "code": "cc995afadf"
-          },
-          {
-            "id": 21463,
-            "name": "Основы Web-разработки с 0",
-            "code": "0280d54c92"
-          },
-          {
-            "id": 21442,
-            "name": "Менеджмент AI- и BigData-продуктов",
-            "code": "c33b537d94"
-          }
-        ],
-        "cashback_link_data": null
-      },
-      "discountCount": 1,
-      "couponCount": 2
-    },
-    {
-      "site_url": "https://www.lookfantastic.com/",
-      "name": "Lookfantastic Many GEOs",
-      "img": "platform/23390.png",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2023/2/14/23390-6ae8efddb4da5c02.png",
-      "categories": [
-        {
-          "name": "Personal Care & Pharmacy",
-          "id": 67,
-          "language": "en",
-          "parent": {
-            "name": "Online stores",
-            "id": 62,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      ],
-      "id": 23390,
-      "category": {
-        "name": "Personal Care & Pharmacy",
-        "id": 67,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      "affiliate": {
-        "goto_link": "https://codeaven.com/g/ubnzju31jt5af0702a27f18ad7b7d7/",
-        "landings": [],
-        "cashback_link_data": null
-      },
-      "discountCount": 2,
-      "couponCount": 2
-    },
-    {
-      "site_url": "https://www.zavvi.com/",
-      "name": "Zavvi Many Geos",
-      "img": "platform/23405.svg",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/6/23405-eb3cc847fc62cdd3.svg",
-      "categories": [
-        {
-          "name": "Hobby & Stationery",
-          "id": 89,
-          "language": "en",
-          "parent": {
-            "name": "Online stores",
-            "id": 62,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      ],
-      "id": 23405,
-      "category": {
-        "name": "Hobby & Stationery",
-        "id": 89,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      "affiliate": {
-        "goto_link": "https://dhwnh.com/g/m3bgfwcojd5af0702a27fbdc97414a/",
-        "landings": [],
-        "cashback_link_data": null
-      },
-      "discountCount": 0,
-      "couponCount": 0
-    },
-    {
-      "site_url": "https://www.cloudways.com/",
-      "name": "Cloudways WW",
-      "img": "platform/23427.svg",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/6/23427-be3b38fa08f3d4b2.svg",
-      "categories": [
-        {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        },
-        {
-          "name": "IT Services & Soft",
-          "id": 122,
-          "language": "en",
-          "parent": {
-            "name": "Online Services",
-            "id": 18,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Smart tracking programs",
-          "id": 382,
-          "language": "en",
-          "parent": null
-        }
-      ],
-      "id": 23427,
-      "category": {
-        "name": "IT Services & Soft",
-        "id": 122,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      "affiliate": {
-        "goto_link": "https://bednari.com/g/veijema2me5af0702a27a1c426e0e9/",
-        "landings": [
-          {
-            "id": 26144,
-            "name": "Cloudways Autonomous",
-            "code": "915ee06e74"
-          },
-          {
-            "id": 31260,
-            "name": "Magento hosting",
-            "code": "45aac37f10"
-          },
-          {
-            "id": 31261,
-            "name": "WordPress hosting",
-            "code": "0fcbc3fb95"
-          },
-          {
-            "id": 31262,
-            "name": "Laravel hosting",
-            "code": "e89b7e05c8"
-          }
-        ],
-        "cashback_link_data": null
-      },
-      "discountCount": 0,
-      "couponCount": 14
-    },
-    {
       "site_url": "https://www.crocs.in/",
       "name": "Crocs [CPS] IN",
       "img": "platform/23433.svg",
@@ -3151,50 +1048,6 @@
         "cashback_link_data": null
       },
       "discountCount": 7,
-      "couponCount": 0
-    },
-    {
-      "site_url": "https://www.forestessentialsindia.com/",
-      "name": "Forest Essentials [CPS] WW",
-      "img": "platform/23441.png",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2020/12/4/23441-be2cb2c920a9490b.png",
-      "categories": [
-        {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        },
-        {
-          "name": "Personal Care & Pharmacy",
-          "id": 67,
-          "language": "en",
-          "parent": {
-            "name": "Online stores",
-            "id": 62,
-            "language": "en",
-            "parent": null
-          }
-        }
-      ],
-      "id": 23441,
-      "category": {
-        "name": "Personal Care & Pharmacy",
-        "id": 67,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      "affiliate": {
-        "goto_link": "https://tjzuh.com/g/8654jk62nx5af0702a2717c05f049d/",
-        "landings": [],
-        "cashback_link_data": null
-      },
-      "discountCount": 0,
       "couponCount": 0
     },
     {
@@ -3294,267 +1147,6 @@
         "cashback_link_data": null
       },
       "discountCount": 3,
-      "couponCount": 0
-    },
-    {
-      "site_url": "https://skysmart.ru/",
-      "name": "Skysmart RU",
-      "img": "platform/23485.png",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2020/10/9/23485-c55bca3fadf75cdb.png",
-      "categories": [
-        {
-          "name": "Online Education",
-          "id": 98,
-          "language": "en",
-          "parent": {
-            "name": "Online Services",
-            "id": 18,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      ],
-      "id": 23485,
-      "category": {
-        "name": "Online Education",
-        "id": 98,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      "affiliate": {
-        "goto_link": "https://kdbov.com/g/5zbmoftyzd5af0702a27e9940b7619/?erid=25H8d7vbP8SRTvKYvnyPWQ",
-        "landings": [
-          {
-            "id": 22148,
-            "name": "Марафон по созданию игр в Scratch для родителей",
-            "code": "0f132d28ce"
-          },
-          {
-            "id": 31401,
-            "name": "Новогодняя акция",
-            "code": "86e4d21192"
-          },
-          {
-            "id": 21302,
-            "name": "Шпаргалки - Скачайте сборник подсказок по русскому языку",
-            "code": "a1d81fd6a1"
-          },
-          {
-            "id": 31183,
-            "name": "Черная Пятница 2025, работает с 5 ноября",
-            "code": "1115ab549e"
-          },
-          {
-            "id": 21403,
-            "name": "Как помочь ребёнку найти себя в самой перспективной отрасли. Профориентационный мини-курс.",
-            "code": "a2b2645f80"
-          },
-          {
-            "id": 21348,
-            "name": "Подготовка к ОГЭ по информатике",
-            "code": "39bbf1bc82"
-          },
-          {
-            "id": 20373,
-            "name": "Тест на определение уровня английского для детей 5- 17 лет",
-            "code": "f549b8eb70"
-          },
-          {
-            "id": 31402,
-            "name": "Получите до 5 месяцев бесплатных занятий по программированию",
-            "code": "25df8bec0f"
-          },
-          {
-            "id": 27620,
-            "name": "Подготовка к ЕГЭ на 90 баллов",
-            "code": "a978989cb1"
-          },
-          {
-            "id": 20375,
-            "name": "Колесо фортуны - гарантированные призы от Skysmart",
-            "code": "5021d0f1e0"
-          },
-          {
-            "id": 27059,
-            "name": "Домашний лицей",
-            "code": "6c2447da87"
-          },
-          {
-            "id": 25847,
-            "name": "Курсы по английскому языку с репетиторами",
-            "code": "3744cfee0e"
-          },
-          {
-            "id": 21303,
-            "name": "Шпаргалки - Скачайте сборник подсказок по английскому языку",
-            "code": "761a7c2898"
-          },
-          {
-            "id": 20731,
-            "name": "Репетиторы",
-            "code": "5e35687871"
-          },
-          {
-            "id": 24796,
-            "name": "Образовательные курсы для детей со скидкой 20 процентов",
-            "code": "56bb746719"
-          },
-          {
-            "id": 27218,
-            "name": "Курсы для детей и подростков",
-            "code": "e83f167b1a"
-          },
-          {
-            "id": 21299,
-            "name": "Шпаргалки - Скачайте сборник подсказок по школьным предметам для родителей",
-            "code": "fe5e006b09"
-          },
-          {
-            "id": 24572,
-            "name": "Подготовка к школе",
-            "code": "e255d0081d"
-          },
-          {
-            "id": 21300,
-            "name": "Шпаргалки - Скачайте сборник подсказок по математике",
-            "code": "e31e461350"
-          },
-          {
-            "id": 31112,
-            "name": "Подготовка к ЕГЭ",
-            "code": "ed10280cab"
-          },
-          {
-            "id": 31113,
-            "name": "Подготовка к ОГЭ",
-            "code": "432b35f8ff"
-          },
-          {
-            "id": 21349,
-            "name": "Подготовка к ЕГЭ по информатике",
-            "code": "2685b94306"
-          },
-          {
-            "id": 24476,
-            "name": "Онлайн-курсы ЕГЭ под ключ от Skyeng",
-            "code": "d5e853b7e9"
-          },
-          {
-            "id": 21301,
-            "name": "Шпаргалки - Скачайте сборник подсказок по школьным предметам для детей",
-            "code": "3f7e8bcf3a"
-          },
-          {
-            "id": 26685,
-            "name": "Бесплатная диагностика знаний перед экзаменами",
-            "code": "46642e459b"
-          },
-          {
-            "id": 22150,
-            "name": "Чего нельзя рассказывать о себе в соцсетях и как защитить ребёнка от мошенников. Бесплатный Имейл-курс",
-            "code": "a10e29b80a"
-          },
-          {
-            "id": 16666,
-            "name": "Кружок шахмат онлайн",
-            "code": "fc75cb326f"
-          },
-          {
-            "id": 26254,
-            "name": "Подарите детям знания от Skysmart - сертификаты",
-            "code": "1e79c68666"
-          },
-          {
-            "id": 21629,
-            "name": "Бесплатная школа программирования",
-            "code": "e6182a4840"
-          },
-          {
-            "id": 24323,
-            "name": "Компьютерные курсы для детей и подростков",
-            "code": "8972331515"
-          },
-          {
-            "id": 31025,
-            "name": "Программирование для детей и подростков со ставкой 20 процентов",
-            "code": "53ef0c405e"
-          },
-          {
-            "id": 26151,
-            "name": "Языковая школа для детей и подростков",
-            "code": "25bf37f65d"
-          }
-        ],
-        "cashback_link_data": null
-      },
-      "discountCount": 9,
-      "couponCount": 6
-    },
-    {
-      "site_url": "https://start.ru/",
-      "name": "Онлайн-кинотеатр START",
-      "img": "platform/23526.png",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2025/3/12/23526-247954997740e876.png",
-      "categories": [
-        {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        },
-        {
-          "name": "Movies & Music",
-          "id": 203,
-          "language": "en",
-          "parent": {
-            "name": "Online Services",
-            "id": 18,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "New Year Festival 2026",
-          "id": 378,
-          "language": "en",
-          "parent": null
-        }
-      ],
-      "id": 23526,
-      "category": {
-        "name": "Movies & Music",
-        "id": 203,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      "affiliate": {
-        "goto_link": "https://bjpql.com/g/bqg13x78l35af0702a27d5244facbc/?erid=MvGzQC98w3Z1gMq1pRupbPDh",
-        "landings": [
-          {
-            "id": 21797,
-            "name": "Подписки Start",
-            "code": "6762621be3"
-          }
-        ],
-        "cashback_link_data": null
-      },
-      "discountCount": 0,
       "couponCount": 0
     },
     {
@@ -3712,50 +1304,6 @@
         "cashback_link_data": null
       },
       "discountCount": 1,
-      "couponCount": 0
-    },
-    {
-      "site_url": "https://www.kapiva.in/",
-      "name": "Kapiva [CPS] IN",
-      "img": "platform/23646.png",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2021/2/12/23646-373e4070f9bd8933.png",
-      "categories": [
-        {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        },
-        {
-          "name": "Personal Care & Pharmacy",
-          "id": 67,
-          "language": "en",
-          "parent": {
-            "name": "Online stores",
-            "id": 62,
-            "language": "en",
-            "parent": null
-          }
-        }
-      ],
-      "id": 23646,
-      "category": {
-        "name": "Personal Care & Pharmacy",
-        "id": 67,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      "affiliate": {
-        "goto_link": "https://tjzuh.com/g/oqxdu8byxq5af0702a278f2eb3eec0/",
-        "landings": [],
-        "cashback_link_data": null
-      },
-      "discountCount": 0,
       "couponCount": 0
     },
     {
@@ -3918,1201 +1466,6 @@
       "couponCount": 0
     },
     {
-      "site_url": "https://www.myvitamins.com/",
-      "name": "MyVitamins UK DE",
-      "img": "platform/23809.svg",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/17/23809-3a8e8c4c158bce8c.svg",
-      "categories": [
-        {
-          "name": "Personal Care & Pharmacy",
-          "id": 67,
-          "language": "en",
-          "parent": {
-            "name": "Online stores",
-            "id": 62,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      ],
-      "id": 23809,
-      "category": {
-        "name": "Personal Care & Pharmacy",
-        "id": 67,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      "affiliate": {
-        "goto_link": "https://twnfz.com/g/6fr2k47dgc5af0702a27a5ffa3178a/",
-        "landings": [],
-        "cashback_link_data": null
-      },
-      "discountCount": 0,
-      "couponCount": 0
-    },
-    {
-      "site_url": "https://invideo.io/",
-      "name": "InVideo WW",
-      "img": "platform/23841.svg",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2025/7/17/23841-aac9b3cfa5ed901e.svg",
-      "categories": [
-        {
-          "name": "Other Services",
-          "id": 93,
-          "language": "en",
-          "parent": {
-            "name": "Online Services",
-            "id": 18,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      ],
-      "id": 23841,
-      "category": {
-        "name": "Other Services",
-        "id": 93,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      "affiliate": {
-        "goto_link": "https://bednari.com/g/4pkfc5jnrj5af0702a277b589e8ac4/",
-        "landings": [],
-        "cashback_link_data": null
-      },
-      "discountCount": 6,
-      "couponCount": 16
-    },
-    {
-      "site_url": "https://www.italojewelry.com/",
-      "name": "Italojewerly WW",
-      "img": "platform/23964.png",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2020/10/29/23964-32d8a4c3272c1cfe.png",
-      "categories": [
-        {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        },
-        {
-          "name": "Clothing, Footwear, Accessories",
-          "id": 64,
-          "language": "en",
-          "parent": {
-            "name": "Online stores",
-            "id": 62,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Marketplaces (including Chinese Stores)",
-          "id": 96,
-          "language": "en",
-          "parent": {
-            "name": "Online stores",
-            "id": 62,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Jewelry & Luxury Goods",
-          "id": 200,
-          "language": "en",
-          "parent": {
-            "name": "Online stores",
-            "id": 62,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Smart tracking programs",
-          "id": 382,
-          "language": "en",
-          "parent": null
-        }
-      ],
-      "id": 23964,
-      "category": {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      "affiliate": {
-        "goto_link": "https://ad.admitad.com/g/l926tcw2sm5af0702a2787e51e1a66/",
-        "landings": [],
-        "cashback_link_data": null
-      },
-      "discountCount": 0,
-      "couponCount": 2
-    },
-    {
-      "site_url": "https://www.gshopper.com/",
-      "name": "Gshopper Many GEOs",
-      "img": "platform/24073.svg",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2023/7/19/24073-20294aae38122887.svg",
-      "categories": [
-        {
-          "name": "Household Appliances & Electronics",
-          "id": 65,
-          "language": "en",
-          "parent": {
-            "name": "Online stores",
-            "id": 62,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Personal Care & Pharmacy",
-          "id": 67,
-          "language": "en",
-          "parent": {
-            "name": "Online stores",
-            "id": 62,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Furniture & Homeware",
-          "id": 66,
-          "language": "en",
-          "parent": {
-            "name": "Online stores",
-            "id": 62,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "eHealth",
-          "id": 202,
-          "language": "en",
-          "parent": {
-            "name": "Online stores",
-            "id": 62,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Marketplaces (including Chinese Stores)",
-          "id": 96,
-          "language": "en",
-          "parent": {
-            "name": "Online stores",
-            "id": 62,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        },
-        {
-          "name": "Smart Home",
-          "id": 198,
-          "language": "en",
-          "parent": {
-            "name": "Online stores",
-            "id": 62,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Smart tracking programs",
-          "id": 382,
-          "language": "en",
-          "parent": null
-        }
-      ],
-      "id": 24073,
-      "category": {
-        "name": "Household Appliances & Electronics",
-        "id": 65,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      "affiliate": {
-        "goto_link": "https://bywiola.com/g/nx2yncwth65af0702a27d497214fca/",
-        "landings": [
-          {
-            "id": 20315,
-            "name": "Deals of the Day - Good Discount",
-            "code": "6a0d30246b"
-          },
-          {
-            "id": 19415,
-            "name": "SPRING CLOTHING SALE UK",
-            "code": "434e784e1e"
-          },
-          {
-            "id": 21305,
-            "name": "Under 200 Euros - Great Deals At Low Price",
-            "code": "bedac9a40a"
-          },
-          {
-            "id": 22155,
-            "name": "Daily Deals 54 percent OFF Mibro GS Smartwatch Only 49.90",
-            "code": "57f4f6148b"
-          },
-          {
-            "id": 19416,
-            "name": "SPRING CLOTHING SALE US",
-            "code": "1dc62e9928"
-          },
-          {
-            "id": 19448,
-            "name": "VENDITA DI ABBIGLIAMENTO PRIMAVERA",
-            "code": "f95a1fad4b"
-          },
-          {
-            "id": 20382,
-            "name": "Deals of the Day - Thursday Deals",
-            "code": "378cd64cff"
-          },
-          {
-            "id": 20381,
-            "name": "Deals of the Day - Wednesday Deals",
-            "code": "92fe78764e"
-          },
-          {
-            "id": 20408,
-            "name": "Deals of the Day - Tuesday plus",
-            "code": "218215f0c2"
-          },
-          {
-            "id": 20420,
-            "name": "Deals of the Day - Thursday plus",
-            "code": "954734f51a"
-          },
-          {
-            "id": 22359,
-            "name": "Flash Deals",
-            "code": "bf119e5d3f"
-          },
-          {
-            "id": 21952,
-            "name": "2022 Word Cup - Up to 80 percent OFF Selected Electronics",
-            "code": "5fada269fa"
-          },
-          {
-            "id": 20180,
-            "name": "Deals of the Day - Super Deals",
-            "code": "ecd6694a8b"
-          },
-          {
-            "id": 21207,
-            "name": "Clearance Sale",
-            "code": "be8d685083"
-          },
-          {
-            "id": 19417,
-            "name": "St. Patrick's Day",
-            "code": "35f64f04fc"
-          },
-          {
-            "id": 21274,
-            "name": "2022 Back To School BR",
-            "code": "7fa2d7e673"
-          },
-          {
-            "id": 20325,
-            "name": "Deals of the Day -  Joyful Buy",
-            "code": "44ebb5f601"
-          },
-          {
-            "id": 20269,
-            "name": "Deals of the Day - Tuesday",
-            "code": "892e4a039c"
-          },
-          {
-            "id": 21954,
-            "name": "Up to 67 Percent OFF Decoration and Gifts for Christmas",
-            "code": "345ea751d7"
-          },
-          {
-            "id": 20122,
-            "name": "Deals of the Day - Smart Life",
-            "code": "ddbeb187a7"
-          },
-          {
-            "id": 20181,
-            "name": "Deals of the Day - Top Rate Product",
-            "code": "3b2162c280"
-          },
-          {
-            "id": 20340,
-            "name": "Deals of the Day - Hot Choice",
-            "code": "df7e4fa3d2"
-          },
-          {
-            "id": 20349,
-            "name": "Deals of the Day - New and Good",
-            "code": "dc0039f7d5"
-          },
-          {
-            "id": 21273,
-            "name": "2022 Back To School US",
-            "code": "ef80a1b579"
-          },
-          {
-            "id": 19449,
-            "name": "SPRINGKLEIDUNG VERKAUF",
-            "code": "77d0352870"
-          },
-          {
-            "id": 21953,
-            "name": "Get USD 100,000 Bonus Coupons on Black Friday",
-            "code": "1e521055ba"
-          },
-          {
-            "id": 21977,
-            "name": "2022 Christmas Day",
-            "code": "6c6d6bfad6"
-          },
-          {
-            "id": 22156,
-            "name": "Limited Time Flash Deals-Ankishi LED Floor Lamp is only 31.99EUR",
-            "code": "a433a56bf7"
-          },
-          {
-            "id": 19447,
-            "name": "Venta de ropa de primavera",
-            "code": "3ac4d81122"
-          },
-          {
-            "id": 21951,
-            "name": "Exclusive Deals for Electronics - At Least 30 Percent OFF",
-            "code": "d1a430f663"
-          },
-          {
-            "id": 20311,
-            "name": "Deals of the Day - Nice Offers",
-            "code": "618f5ab7f1"
-          },
-          {
-            "id": 19418,
-            "name": "LOCAL WAREHOUSE DELIVERY",
-            "code": "45b70b424d"
-          },
-          {
-            "id": 20273,
-            "name": "Deals of the Day - Amazing Wednesday",
-            "code": "e6e1d6681e"
-          },
-          {
-            "id": 19947,
-            "name": "Classic Coupon for The United State",
-            "code": "20811d5f14"
-          },
-          {
-            "id": 21364,
-            "name": "Everyday Low Price - Up to 40 Percent OFF",
-            "code": "7e43f1960b"
-          },
-          {
-            "id": 21304,
-            "name": "Super Shopping Day - Up to 40 Percent OFF",
-            "code": "005a0784e6"
-          },
-          {
-            "id": 20170,
-            "name": "Deals of the Day - Hot Sales",
-            "code": "f34cfef6fe"
-          },
-          {
-            "id": 21611,
-            "name": "Clearance Discount - Up to 35 Percent Off",
-            "code": "35fa1103e5"
-          },
-          {
-            "id": 20338,
-            "name": "Deals of the Day - Top Sales",
-            "code": "7762286a9e"
-          },
-          {
-            "id": 22154,
-            "name": "FlashDeals-Up to 80 percent Off",
-            "code": "c5bc27a3ec"
-          },
-          {
-            "id": 20245,
-            "name": "Deals of the Day - Surprising Monday",
-            "code": "52b6b9aff6"
-          },
-          {
-            "id": 20287,
-            "name": "Deals of the Day - Delightful Thursday",
-            "code": "66b7a0f909"
-          },
-          {
-            "id": 24420,
-            "name": "5th Anniversary",
-            "code": "c7c015e899"
-          }
-        ],
-        "cashback_link_data": null
-      },
-      "discountCount": 0,
-      "couponCount": 22
-    },
-    {
-      "site_url": "https://rulez.by/",
-      "name": "Rulez BY",
-      "img": "platform/24074.svg",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2022/11/24/24074-4f3482a4cf644bc0.svg",
-      "categories": [
-        {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        },
-        {
-          "name": "Household Appliances & Electronics",
-          "id": 65,
-          "language": "en",
-          "parent": {
-            "name": "Online stores",
-            "id": 62,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Furniture & Homeware",
-          "id": 66,
-          "language": "en",
-          "parent": {
-            "name": "Online stores",
-            "id": 62,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Smart Home",
-          "id": 198,
-          "language": "en",
-          "parent": {
-            "name": "Online stores",
-            "id": 62,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Hand & Power tools",
-          "id": 102,
-          "language": "en",
-          "parent": {
-            "name": "Online stores",
-            "id": 62,
-            "language": "en",
-            "parent": null
-          }
-        }
-      ],
-      "id": 24074,
-      "category": {
-        "name": "Household Appliances & Electronics",
-        "id": 65,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      "affiliate": {
-        "goto_link": "https://xcdus.com/g/66hsnobd0f5af0702a278b141a6ee8/",
-        "landings": [],
-        "cashback_link_data": null
-      },
-      "discountCount": 0,
-      "couponCount": 0
-    },
-    {
-      "site_url": "https://intl.nubia.com/",
-      "name": "nubia Many GEOs",
-      "img": "platform/24118.svg",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2023/10/11/24118-4c2a1691f1041c80.svg",
-      "categories": [
-        {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        },
-        {
-          "name": "Household Appliances & Electronics",
-          "id": 65,
-          "language": "en",
-          "parent": {
-            "name": "Online stores",
-            "id": 62,
-            "language": "en",
-            "parent": null
-          }
-        }
-      ],
-      "id": 24118,
-      "category": {
-        "name": "Household Appliances & Electronics",
-        "id": 65,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      "affiliate": {
-        "goto_link": "https://xpuvo.com/g/lh3bbik9ly5af0702a27e62ca5e32f/",
-        "landings": [
-          {
-            "id": 26762,
-            "name": "nubia 60 Ultra purchase page",
-            "code": "1c8a56b689"
-          },
-          {
-            "id": 25132,
-            "name": "UK  Store",
-            "code": "faaaf2ca3a"
-          },
-          {
-            "id": 25130,
-            "name": "EU Store",
-            "code": "326f12f375"
-          },
-          {
-            "id": 26761,
-            "name": "nubia Flip 5G purchase page",
-            "code": "93b66a36cc"
-          },
-          {
-            "id": 31365,
-            "name": "UK Black Friday",
-            "code": "b66fe62820"
-          },
-          {
-            "id": 31366,
-            "name": "EU Black Friday",
-            "code": "2650431036"
-          },
-          {
-            "id": 31368,
-            "name": "MX Black Friday",
-            "code": "608a0e2967"
-          },
-          {
-            "id": 31367,
-            "name": "INTL Black Friday",
-            "code": "f1f459ef0c"
-          }
-        ],
-        "cashback_link_data": null
-      },
-      "discountCount": 0,
-      "couponCount": 0
-    },
-    {
-      "site_url": "https://www.school-xyz.com/",
-      "name": "XYZ School",
-      "img": "platform/24216.svg",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/12/24216-19ac8481ceaf28f4.svg",
-      "categories": [
-        {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        },
-        {
-          "name": "Online Education",
-          "id": 98,
-          "language": "en",
-          "parent": {
-            "name": "Online Services",
-            "id": 18,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "New Year Festival 2026",
-          "id": 378,
-          "language": "en",
-          "parent": null
-        }
-      ],
-      "id": 24216,
-      "category": {
-        "name": "Online Education",
-        "id": 98,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      "affiliate": {
-        "goto_link": "https://kpwfp.com/g/oc7ji1r1835af0702a275293334d95/?erid=MvGzQC98w3Z1gMq1pShdKXrM",
-        "landings": [
-          {
-            "id": 24226,
-            "name": "3D-художник по персонажам",
-            "code": "7745b5669d"
-          },
-          {
-            "id": 25965,
-            "name": "Учись сейчас, плати потом",
-            "code": "14d51f224e"
-          },
-          {
-            "id": 18448,
-            "name": "Главная school xyz",
-            "code": "8fbf07ac8a"
-          },
-          {
-            "id": 24227,
-            "name": "Концепт-художник",
-            "code": "76633c4081"
-          },
-          {
-            "id": 26878,
-            "name": "Вебинар 17.04. Какой ты покемон в геймдеве",
-            "code": "55f827e1d6"
-          },
-          {
-            "id": 30368,
-            "name": "Колесо удачи от XYZ",
-            "code": "670f7a48d3"
-          },
-          {
-            "id": 24231,
-            "name": "Styl. Создание стилизованных персонажей в 3D",
-            "code": "3d371b603b"
-          },
-          {
-            "id": 24229,
-            "name": "Геймплей-разработчик",
-            "code": "fa924ad25c"
-          },
-          {
-            "id": 24224,
-            "name": "3D-Дженералист",
-            "code": "012f3bc7a9"
-          },
-          {
-            "id": 24959,
-            "name": "3D  ВОСТРЕБОВАННОЕ НАПРАВЛЕНИЕ",
-            "code": "24f8961651"
-          },
-          {
-            "id": 24225,
-            "name": "Game Designer",
-            "code": "a1a8c98243"
-          },
-          {
-            "id": 24228,
-            "name": "Draft Punk. 3Д-моделирование объектов",
-            "code": "3add41e7a1"
-          },
-          {
-            "id": 24232,
-            "name": "Разработка игр на Unity",
-            "code": "b8abbd01cd"
-          },
-          {
-            "id": 24230,
-            "name": "Концепт-Арт с Дмитрием Клюшкиным",
-            "code": "0398bc2804"
-          }
-        ],
-        "cashback_link_data": null
-      },
-      "discountCount": 0,
-      "couponCount": 2
-    },
-    {
-      "site_url": "https://www.justfashionnow.com/",
-      "name": "Justfashionnow WW",
-      "img": "platform/24286.png",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2021/3/1/24286-7f653b51c4842598.png",
-      "categories": [
-        {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        },
-        {
-          "name": "Marketplaces (including Chinese Stores)",
-          "id": 96,
-          "language": "en",
-          "parent": {
-            "name": "Online stores",
-            "id": 62,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Clothing, Footwear, Accessories",
-          "id": 64,
-          "language": "en",
-          "parent": {
-            "name": "Online stores",
-            "id": 62,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Smart tracking programs",
-          "id": 382,
-          "language": "en",
-          "parent": null
-        }
-      ],
-      "id": 24286,
-      "category": {
-        "name": "Marketplaces (including Chinese Stores)",
-        "id": 96,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      "affiliate": {
-        "goto_link": "https://rzekl.com/g/kmcoj56juv5af0702a27608cdf386b/",
-        "landings": [],
-        "cashback_link_data": null
-      },
-      "discountCount": 0,
-      "couponCount": 2
-    },
-    {
-      "site_url": "https://noracora.com/",
-      "name": "Noracora WW",
-      "img": "platform/24287.png",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2021/2/26/24287-ff8b06f448b60cfe.png",
-      "categories": [
-        {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        },
-        {
-          "name": "Marketplaces (including Chinese Stores)",
-          "id": 96,
-          "language": "en",
-          "parent": {
-            "name": "Online stores",
-            "id": 62,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Clothing, Footwear, Accessories",
-          "id": 64,
-          "language": "en",
-          "parent": {
-            "name": "Online stores",
-            "id": 62,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Smart tracking programs",
-          "id": 382,
-          "language": "en",
-          "parent": null
-        }
-      ],
-      "id": 24287,
-      "category": {
-        "name": "Marketplaces (including Chinese Stores)",
-        "id": 96,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      "affiliate": {
-        "goto_link": "https://qwpeg.com/g/of8pqgktr25af0702a27c8dbeb8f0d/",
-        "landings": [],
-        "cashback_link_data": null
-      },
-      "discountCount": 6,
-      "couponCount": 2
-    },
-    {
-      "site_url": "https://lilicloth.com/",
-      "name": "Lilicloth WW",
-      "img": "platform/24288.png",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2021/3/1/24288-24c2d19331bac327.png",
-      "categories": [
-        {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        },
-        {
-          "name": "Marketplaces (including Chinese Stores)",
-          "id": 96,
-          "language": "en",
-          "parent": {
-            "name": "Online stores",
-            "id": 62,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Clothing, Footwear, Accessories",
-          "id": 64,
-          "language": "en",
-          "parent": {
-            "name": "Online stores",
-            "id": 62,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Smart tracking programs",
-          "id": 382,
-          "language": "en",
-          "parent": null
-        }
-      ],
-      "id": 24288,
-      "category": {
-        "name": "Marketplaces (including Chinese Stores)",
-        "id": 96,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      "affiliate": {
-        "goto_link": "https://ficca2021.com/g/6p4zka2wuu5af0702a27cbd5ceef73/",
-        "landings": [],
-        "cashback_link_data": null
-      },
-      "discountCount": 12,
-      "couponCount": 2
-    },
-    {
-      "site_url": "https://www.stylewe.com/",
-      "name": "Stylewe WW",
-      "img": "platform/24295.svg",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/13/24295-07dfd83505a6144b.svg",
-      "categories": [
-        {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        },
-        {
-          "name": "Marketplaces (including Chinese Stores)",
-          "id": 96,
-          "language": "en",
-          "parent": {
-            "name": "Online stores",
-            "id": 62,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Clothing, Footwear, Accessories",
-          "id": 64,
-          "language": "en",
-          "parent": {
-            "name": "Online stores",
-            "id": 62,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Smart tracking programs",
-          "id": 382,
-          "language": "en",
-          "parent": null
-        }
-      ],
-      "id": 24295,
-      "category": {
-        "name": "Marketplaces (including Chinese Stores)",
-        "id": 96,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      "affiliate": {
-        "goto_link": "https://codeaven.com/g/r9ybpohdxo5af0702a27806f4427c0/",
-        "landings": [],
-        "cashback_link_data": null
-      },
-      "discountCount": 16,
-      "couponCount": 10
-    },
-    {
-      "site_url": "https://www.kinguin.net/",
-      "name": "Kinguin WW",
-      "img": "platform/24298.png",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2022/11/22/24298-3ef7b8d5ffac24b0.png",
-      "categories": [
-        {
-          "name": "Online Games",
-          "id": 6,
-          "language": "en",
-          "parent": null
-        },
-        {
-          "name": "Game Stores and Services",
-          "id": 214,
-          "language": "en",
-          "parent": {
-            "name": "Online Games",
-            "id": 6,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        },
-        {
-          "name": "IT Services & Soft",
-          "id": 122,
-          "language": "en",
-          "parent": {
-            "name": "Online Services",
-            "id": 18,
-            "language": "en",
-            "parent": null
-          }
-        }
-      ],
-      "id": 24298,
-      "category": {
-        "name": "Game Stores and Services",
-        "id": 214,
-        "language": "en",
-        "parent": {
-          "name": "Online Games",
-          "id": 6,
-          "language": "en",
-          "parent": null
-        }
-      },
-      "affiliate": {
-        "goto_link": "https://ficca2021.com/g/ai7w5urbci5af0702a2773f469699a/",
-        "landings": [
-          {
-            "id": 31450,
-            "name": "New Year 2026",
-            "code": "37dca9e2cc"
-          },
-          {
-            "id": 31011,
-            "name": "King Pass",
-            "code": "66fbdd32d9"
-          },
-          {
-            "id": 30453,
-            "name": "In-game",
-            "code": "50bbc4fa45"
-          },
-          {
-            "id": 20443,
-            "name": "Software",
-            "code": "90899d2fec"
-          },
-          {
-            "id": 20442,
-            "name": "Main LP",
-            "code": "0aab7d70f6"
-          },
-          {
-            "id": 31030,
-            "name": "KING's Fest with UP to 90 OFF",
-            "code": "4fc6e4d84d"
-          },
-          {
-            "id": 31153,
-            "name": "Top ups",
-            "code": "60357eae62"
-          },
-          {
-            "id": 28723,
-            "name": "CS2 GIFTCARDS",
-            "code": "ee767a2903"
-          },
-          {
-            "id": 31399,
-            "name": "Christmas Sale 2025",
-            "code": "50a95dd37d"
-          },
-          {
-            "id": 26801,
-            "name": "MOBILE TOP-UPS ON KINGUIN",
-            "code": "32a897845d"
-          },
-          {
-            "id": 31315,
-            "name": "Software Madness on Kinguin BF",
-            "code": "4cb11f6703"
-          }
-        ],
-        "cashback_link_data": null
-      },
-      "discountCount": 0,
-      "couponCount": 2
-    },
-    {
-      "site_url": "https://www.wish.com/",
-      "name": "Wish Many GEOs",
-      "img": "platform/24352.jpg",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2022/10/7/24352-5da9ab9e46e99500.jpg",
-      "categories": [
-        {
-          "name": "Clothing, Footwear, Accessories",
-          "id": 64,
-          "language": "en",
-          "parent": {
-            "name": "Online stores",
-            "id": 62,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      ],
-      "id": 24352,
-      "category": {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      "affiliate": {
-        "goto_link": "https://yyczo.com/g/fyc6a8zutq5af0702a27915730f414/",
-        "landings": [
-          {
-            "id": 28984,
-            "name": "Home Decor",
-            "code": "0a1c3994ee"
-          },
-          {
-            "id": 28985,
-            "name": "Toys for Kids",
-            "code": "3897f076b3"
-          },
-          {
-            "id": 28986,
-            "name": "Adventure Gear",
-            "code": "fce39b108e"
-          },
-          {
-            "id": 28987,
-            "name": "Fashion",
-            "code": "45661ba9d2"
-          },
-          {
-            "id": 28701,
-            "name": "The gift shop - Awesome picks for every personality and budget",
-            "code": "0ed93ae64a"
-          }
-        ],
-        "cashback_link_data": null
-      },
-      "discountCount": 0,
-      "couponCount": 2
-    },
-    {
       "site_url": "https://e2e4online.ru",
       "name": "E2e4online",
       "img": "platform/24369.jpg",
@@ -5157,10 +1510,10 @@
       "couponCount": 0
     },
     {
-      "site_url": "https://nfo.ru/",
-      "name": "NFO (Norwegian Fish Oil)",
-      "img": "platform/24478.svg",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/6/24478-d8286b3fc2481780.svg",
+      "site_url": "https://www.nealsyardremedies.com/",
+      "name": "Neal's Yard Remedies UK US",
+      "img": "platform/24688.svg",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/6/24688-5968e074a4976083.svg",
       "categories": [
         {
           "name": "Online stores",
@@ -5169,8 +1522,46 @@
           "parent": null
         },
         {
-          "name": "eHealth",
-          "id": 202,
+          "name": "Personal Care & Pharmacy",
+          "id": 67,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        }
+      ],
+      "id": 24688,
+      "category": {
+        "name": "Personal Care & Pharmacy",
+        "id": 67,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      "affiliate": {
+        "goto_link": "https://ytebb.com/g/nkh9ji4l1n5af0702a27c768085148/",
+        "landings": [],
+        "cashback_link_data": null
+      },
+      "discountCount": 18,
+      "couponCount": 0
+    },
+    {
+      "site_url": "https://answear.bg/",
+      "name": "Answear BG/Euro",
+      "img": "platform/25178.svg",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2023/6/21/25178-470ed79ac16bc954.svg",
+      "categories": [
+        {
+          "name": "Clothing, Footwear, Accessories",
+          "id": 64,
           "language": "en",
           "parent": {
             "name": "Online stores",
@@ -5180,8 +1571,378 @@
           }
         },
         {
-          "name": "Food & Food delivery",
-          "id": 63,
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "id": 25178,
+      "category": {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      "affiliate": {
+        "goto_link": "https://rzekl.com/g/5369gvhjks5af0702a279020b4167c/",
+        "landings": [],
+        "cashback_link_data": null
+      },
+      "discountCount": 2,
+      "couponCount": 0
+    },
+    {
+      "site_url": "https://turbovpn.com/",
+      "name": "TurboVPN WW",
+      "img": "platform/25249.png",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2021/9/24/25249-37aa6fea5015e46e.png",
+      "categories": [
+        {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "IT Services & Soft",
+          "id": 122,
+          "language": "en",
+          "parent": {
+            "name": "Online Services",
+            "id": 18,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Smart tracking programs",
+          "id": 382,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "id": 25249,
+      "category": {
+        "name": "IT Services & Soft",
+        "id": 122,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      "affiliate": {
+        "goto_link": "https://grfpr.com/g/exe221unkp5af0702a27ddf84d4c0b/",
+        "landings": [
+          {
+            "id": 30329,
+            "name": "TurboVPN",
+            "code": "7c0f3e5fcc"
+          }
+        ],
+        "cashback_link_data": null
+      },
+      "discountCount": 4,
+      "couponCount": 0
+    },
+    {
+      "site_url": "https://practicum.yandex.ru/",
+      "name": "Яндекс Практикум",
+      "img": "platform/25914.png",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2021/8/3/25914-56f792cb060ce54f.png",
+      "categories": [
+        {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Online Education",
+          "id": 98,
+          "language": "en",
+          "parent": {
+            "name": "Online Services",
+            "id": 18,
+            "language": "en",
+            "parent": null
+          }
+        }
+      ],
+      "id": 25914,
+      "category": {
+        "name": "Online Education",
+        "id": 98,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      "affiliate": {
+        "goto_link": "https://zallj.com/g/qqb62fps0r5af0702a2761cec322b9/?erid=5jtCeReNwxHpfQTDve31wmc",
+        "landings": [
+          {
+            "id": 18282,
+            "name": "Автоматизатор тестирования на Java",
+            "code": "82d19d89d1"
+          },
+          {
+            "id": 30370,
+            "name": "Акция 1плюс1при покупке расширенного тарифа,  даем доступ к еще одному курсу",
+            "code": "f74297e8a3"
+          },
+          {
+            "id": 31389,
+            "name": "Каталог",
+            "code": "7d7422a5a3"
+          },
+          {
+            "id": 18279,
+            "name": "Python-разработчик плюс",
+            "code": "3c26cd515e"
+          },
+          {
+            "id": 19595,
+            "name": "Go-разработчик",
+            "code": "65d8ff8f02"
+          },
+          {
+            "id": 18295,
+            "name": "Специалист по таргетированной рекламе",
+            "code": "90824bc93e"
+          },
+          {
+            "id": 18277,
+            "name": "Веб-разработчик плюс",
+            "code": "6350a9b095"
+          },
+          {
+            "id": 18298,
+            "name": "Менеджер проектов",
+            "code": "9a6f119dfb"
+          },
+          {
+            "id": 29049,
+            "name": "Финансовый менеджмент",
+            "code": "6db879db84"
+          },
+          {
+            "id": 19602,
+            "name": "Специалист по CRM-маркетингу",
+            "code": "b383f52fd7"
+          },
+          {
+            "id": 18276,
+            "name": "Веб-разработчик",
+            "code": "1ae4748202"
+          },
+          {
+            "id": 18296,
+            "name": "Менеджер по интернет-маркетингу",
+            "code": "95dadb605f"
+          },
+          {
+            "id": 18281,
+            "name": "React-разработчик",
+            "code": "518c66ef60"
+          },
+          {
+            "id": 18280,
+            "name": "Java-разработчик",
+            "code": "704f167a89"
+          },
+          {
+            "id": 18275,
+            "name": "Инженер по тестированию",
+            "code": "ed0ffacfe9"
+          },
+          {
+            "id": 27506,
+            "name": "Акция \"Курс в подарок\"",
+            "code": "46218b2e3a"
+          },
+          {
+            "id": 19601,
+            "name": "Управление проектом в e-commerce  для руководителей и маркетологов",
+            "code": "0559aa3448"
+          },
+          {
+            "id": 19598,
+            "name": "Коммуникационный дизайнер",
+            "code": "6395ee282b"
+          },
+          {
+            "id": 19604,
+            "name": "Навыки рабочей коммуникации",
+            "code": "eb563cd753"
+          },
+          {
+            "id": 29045,
+            "name": "Бизнес Аналитик",
+            "code": "f538e74457"
+          },
+          {
+            "id": 29047,
+            "name": "Продакт менеджер",
+            "code": "1f865ce6a0"
+          },
+          {
+            "id": 29048,
+            "name": "Руководитель отдела продаж",
+            "code": "b04dd796a7"
+          },
+          {
+            "id": 29050,
+            "name": "Управление командой",
+            "code": "0cb7d4cb1e"
+          },
+          {
+            "id": 29046,
+            "name": "Финансовый аналитик",
+            "code": "f94ddf0aff"
+          },
+          {
+            "id": 29051,
+            "name": "Дизайн мобильных и кросс-платформенных приложений",
+            "code": "ed764b65ae"
+          },
+          {
+            "id": 18297,
+            "name": "Бренд-менеджер",
+            "code": "fff4efdd5f"
+          },
+          {
+            "id": 18300,
+            "name": "Критическое мышление",
+            "code": "7ce9302bbc"
+          },
+          {
+            "id": 18291,
+            "name": "Дизайнер интерфейсов",
+            "code": "b9c79f1385"
+          },
+          {
+            "id": 18283,
+            "name": "Мидл python-разработчик",
+            "code": "e5ccc8faef"
+          },
+          {
+            "id": 18292,
+            "name": "Графический дизайнер",
+            "code": "48f7a73afd"
+          },
+          {
+            "id": 19597,
+            "name": "Аналитик данных плюс",
+            "code": "3388efbd48"
+          },
+          {
+            "id": 19600,
+            "name": "UX-исследования",
+            "code": "4a60290dbc"
+          },
+          {
+            "id": 19603,
+            "name": "IT-рекрутер",
+            "code": "eb905ca691"
+          },
+          {
+            "id": 29052,
+            "name": "HR аналитика",
+            "code": "af64e4489f"
+          },
+          {
+            "id": 19599,
+            "name": "Продуктовый дизайнер",
+            "code": "51b88fdf9e"
+          },
+          {
+            "id": 18285,
+            "name": "Мидл фронтенд-разработчик",
+            "code": "21495448d9"
+          },
+          {
+            "id": 18287,
+            "name": "Аналитик данных",
+            "code": "9d56d47068"
+          },
+          {
+            "id": 19596,
+            "name": "DevOps для эксплуатации и разработки",
+            "code": "6abdbd8f9e"
+          },
+          {
+            "id": 18284,
+            "name": "Алгоритмы и структуры данных",
+            "code": "d15e0148db"
+          },
+          {
+            "id": 18289,
+            "name": "Специалист по Data Science",
+            "code": "a4b57b7de6"
+          },
+          {
+            "id": 18278,
+            "name": "Python-разработчик",
+            "code": "8fba714163"
+          },
+          {
+            "id": 18294,
+            "name": "Специалист по контекстной рекламе",
+            "code": "a1ef124ae7"
+          },
+          {
+            "id": 18299,
+            "name": "Управление командой",
+            "code": "6edabb1c79"
+          },
+          {
+            "id": 18286,
+            "name": "Разработчик C",
+            "code": "7c3e7f6bf8"
+          },
+          {
+            "id": 18293,
+            "name": "UX-копирайтинг",
+            "code": "ad00b9f366"
+          },
+          {
+            "id": 18290,
+            "name": "Специалист по Data Science плюс",
+            "code": "c786c1f2ee"
+          }
+        ],
+        "cashback_link_data": null
+      },
+      "discountCount": 35,
+      "couponCount": 0
+    },
+    {
+      "site_url": "https://tion.ru",
+      "name": "Tion",
+      "img": "platform/25925.png",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2021/8/6/25925-704368c4cd790a07.png",
+      "categories": [
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Household Appliances & Electronics",
+          "id": 65,
           "language": "en",
           "parent": {
             "name": "Online stores",
@@ -5189,6 +1950,446 @@
             "language": "en",
             "parent": null
           }
+        },
+        {
+          "name": "SME",
+          "id": 215,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "id": 25925,
+      "category": {
+        "name": "Household Appliances & Electronics",
+        "id": 65,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      "affiliate": {
+        "goto_link": "https://rzekl.com/g/1q2r9vphv55af0702a273787886fbc/?erid=2bL9aMPo2e49hMef4pe18cxctN",
+        "landings": [
+          {
+            "id": 29040,
+            "name": "Волшебная шкатулка",
+            "code": "dc0b966fc3"
+          },
+          {
+            "id": 28402,
+            "name": "Щедрая Осень",
+            "code": "625fe23278"
+          }
+        ],
+        "cashback_link_data": null
+      },
+      "discountCount": 6,
+      "couponCount": 0
+    },
+    {
+      "site_url": "https://www.g-star.com/en",
+      "name": "G-Star Raw Many Geos",
+      "img": "platform/26025.svg",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2024/4/12/26025-b87dba1811aecac5.svg",
+      "categories": [
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Clothing, Footwear, Accessories",
+          "id": 64,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        }
+      ],
+      "id": 26025,
+      "category": {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      "affiliate": {
+        "goto_link": "https://ntzgd.com/g/vdi4nbdn0t5af0702a2715fcaa1c5f/",
+        "landings": [
+          {
+            "id": 21519,
+            "name": "G-star Men",
+            "code": "dfaff84c82"
+          },
+          {
+            "id": 21521,
+            "name": "G-star Kids",
+            "code": "5d49f7a15d"
+          },
+          {
+            "id": 30178,
+            "name": "Men Trousers and Cargos",
+            "code": "b9abdbd0c1"
+          },
+          {
+            "id": 21518,
+            "name": "G-Star EN",
+            "code": "cf3fcb391c"
+          },
+          {
+            "id": 21520,
+            "name": "G-star Women",
+            "code": "3014a617d5"
+          }
+        ],
+        "cashback_link_data": null
+      },
+      "discountCount": 10,
+      "couponCount": 0
+    },
+    {
+      "site_url": "https://megastroy.com/",
+      "name": "МЕГАСТРОЙ",
+      "img": "platform/26035.png",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2023/11/24/26035-9da86fdaf81d2508.png",
+      "categories": [
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Furniture & Homeware",
+          "id": 66,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        }
+      ],
+      "id": 26035,
+      "category": {
+        "name": "Furniture & Homeware",
+        "id": 66,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      "affiliate": {
+        "goto_link": "https://bednari.com/g/xcawb6ikii5af0702a27161cbbe6df/?erid=5jtCeReNwxHpfQTEQWKMenp",
+        "landings": [],
+        "cashback_link_data": null
+      },
+      "discountCount": 3,
+      "couponCount": 0
+    },
+    {
+      "site_url": "https://www.stradivarius.com/fr/",
+      "name": "Stradivarius FR",
+      "img": "platform/26156.png",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2021/9/21/26156-f8e757f68b48b11f.png",
+      "categories": [
+        {
+          "name": "Clothing, Footwear, Accessories",
+          "id": 64,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "id": 26156,
+      "category": {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      "affiliate": {
+        "goto_link": "https://dorinebeaumont.com/g/3oms09qxmg5af0702a27965d22d478/",
+        "landings": [],
+        "cashback_link_data": null
+      },
+      "discountCount": 4,
+      "couponCount": 0
+    },
+    {
+      "site_url": "https://cozyhome.ru/",
+      "name": "COZY HOME",
+      "img": "platform/26239.jpg",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2022/7/11/26239-9ee15859e5e68126.jpg",
+      "categories": [
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Furniture & Homeware",
+          "id": 66,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        }
+      ],
+      "id": 26239,
+      "category": {
+        "name": "Furniture & Homeware",
+        "id": 66,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      "affiliate": {
+        "goto_link": "https://ficca2021.com/g/kqbowed2g05af0702a2774bec426fb/?erid=2bL9aMPo2e49hMef4peVLZHm61",
+        "landings": [],
+        "cashback_link_data": null
+      },
+      "discountCount": 2,
+      "couponCount": 0
+    },
+    {
+      "site_url": "https://mariefreshcosmetics.com/",
+      "name": "Marie Fresh Cosmetics Many Geos",
+      "img": "platform/26446.svg",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2025/11/10/26446-24c4ea4dbb6e97a5.svg",
+      "categories": [
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Personal Care & Pharmacy",
+          "id": 67,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Smart Tracking_UA",
+          "id": 379,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Smart tracking programs",
+          "id": 382,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "id": 26446,
+      "category": {
+        "name": "Personal Care & Pharmacy",
+        "id": 67,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      "affiliate": {
+        "goto_link": "https://heqgr.com/g/g0ivrvn4p65af0702a271a2325ef18/",
+        "landings": [],
+        "cashback_link_data": null
+      },
+      "discountCount": 2,
+      "couponCount": 0
+    },
+    {
+      "site_url": "https://onlinesemena.ru/",
+      "name": "onlinesemena.ru",
+      "img": "platform/26467.jpg",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2022/1/18/26467-627820360aab155f.jpg",
+      "categories": [
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Hand & Power tools",
+          "id": 102,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        }
+      ],
+      "id": 26467,
+      "category": {
+        "name": "Hand & Power tools",
+        "id": 102,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      "affiliate": {
+        "goto_link": "https://dkfrh.com/g/4cw2tcctnz5af0702a277e4f5917e6/?erid=2bL9aMPo2e49hMef4peVTBHEVh",
+        "landings": [],
+        "cashback_link_data": null
+      },
+      "discountCount": 1,
+      "couponCount": 0
+    },
+    {
+      "site_url": "https://newbalance.cz/",
+      "name": "Newbalance Many geos",
+      "img": "platform/26471.svg",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2023/5/4/26471-36fde9999887eed6.svg",
+      "categories": [
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Clothing, Footwear, Accessories",
+          "id": 64,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        }
+      ],
+      "id": 26471,
+      "category": {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      "affiliate": {
+        "goto_link": "https://uhtkc.com/g/fjezdzu2j15af0702a27d04f993eab/",
+        "landings": [],
+        "cashback_link_data": null
+      },
+      "discountCount": 8,
+      "couponCount": 0
+    },
+    {
+      "site_url": "https://www.street-one.nl/",
+      "name": "Street-One NL",
+      "img": "platform/26562.svg",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/29/26562-cc81aeaa4966208d.svg",
+      "categories": [
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Clothing, Footwear, Accessories",
+          "id": 64,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        }
+      ],
+      "id": 26562,
+      "category": {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      "affiliate": {
+        "goto_link": "https://ad.admitad.com/g/of6l3dtoz65af0702a2792ce75e199/",
+        "landings": [],
+        "cashback_link_data": null
+      },
+      "discountCount": 10,
+      "couponCount": 0
+    },
+    {
+      "site_url": "https://www.bodylab24.de/",
+      "name": "Bodylab24 DE",
+      "img": "platform/26696.svg",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/29/26696-930ecde5754fe5ea.svg",
+      "categories": [
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
         },
         {
           "name": "Sports & Outdoor",
@@ -5211,18 +2412,12 @@
             "language": "en",
             "parent": null
           }
-        },
-        {
-          "name": "New Year Festival 2026",
-          "id": 378,
-          "language": "en",
-          "parent": null
         }
       ],
-      "id": 24478,
+      "id": 26696,
       "category": {
-        "name": "eHealth",
-        "id": 202,
+        "name": "Sports & Outdoor",
+        "id": 85,
         "language": "en",
         "parent": {
           "name": "Online stores",
@@ -5232,66 +2427,127 @@
         }
       },
       "affiliate": {
-        "goto_link": "https://rzekl.com/g/l604dr7c1e5af0702a279c176d7edf/?erid=2bL9aMPo2e49hMef4pdzENdFJH",
+        "goto_link": "https://ad.admitad.com/g/q51r4zfcu55af0702a27fad1369401/",
         "landings": [],
         "cashback_link_data": null
       },
-      "discountCount": 4,
-      "couponCount": 1
+      "discountCount": 1,
+      "couponCount": 0
     },
     {
-      "site_url": "https://www.icicilombard.com/",
-      "name": "ICICI Lombard [CPS] IN",
-      "img": "platform/24486.svg",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2023/4/19/24486-4036ba24a31caeaa.svg",
+      "site_url": "https://www.petrolplus.ru/",
+      "name": "Petrolplus",
+      "img": "platform/26798.svg",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2023/10/27/26798-7b98b9f85dac8771.svg",
       "categories": [
         {
-          "name": "Financial Programs",
-          "id": 7,
+          "name": "Online Services",
+          "id": 18,
           "language": "en",
           "parent": null
         },
         {
-          "name": "Insurance",
-          "id": 37,
+          "name": "Other Services",
+          "id": 93,
           "language": "en",
           "parent": {
-            "name": "Financial Programs",
-            "id": 7,
+            "name": "Online Services",
+            "id": 18,
             "language": "en",
             "parent": null
           }
         }
       ],
-      "id": 24486,
+      "id": 26798,
       "category": {
-        "name": "Insurance",
-        "id": 37,
+        "name": "Other Services",
+        "id": 93,
         "language": "en",
         "parent": {
-          "name": "Financial Programs",
-          "id": 7,
+          "name": "Online Services",
+          "id": 18,
           "language": "en",
           "parent": null
         }
       },
       "affiliate": {
-        "goto_link": "https://tjzuh.com/g/gijdfu271p5af0702a27ae105d1407/",
-        "landings": [],
+        "goto_link": "https://rzekl.com/g/ib927vcr1x5af0702a27fdbdccbe6f/?erid=2bL9aMPo2e49hMef4peVgDNuqX",
+        "landings": [
+          {
+            "id": 28614,
+            "name": "Программа мотивации",
+            "code": "af33315f55"
+          },
+          {
+            "id": 28619,
+            "name": "Оплата такси",
+            "code": "8c4b921864"
+          },
+          {
+            "id": 28613,
+            "name": "Мойки",
+            "code": "d1dbd59b79"
+          },
+          {
+            "id": 28615,
+            "name": "Шиномонтаж",
+            "code": "87cbecabae"
+          },
+          {
+            "id": 28620,
+            "name": "Страхование",
+            "code": "4eb0463cb6"
+          },
+          {
+            "id": 28617,
+            "name": "Оплата парковок",
+            "code": "d077245164"
+          },
+          {
+            "id": 28612,
+            "name": "Лизинг",
+            "code": "8258ed7ab6"
+          },
+          {
+            "id": 28616,
+            "name": "Оплата платных дорог",
+            "code": "603edab15c"
+          },
+          {
+            "id": 21184,
+            "name": "Услуги по картам Передовые Платежные Решения",
+            "code": "40864de3ba"
+          },
+          {
+            "id": 28611,
+            "name": "Онлайн-сервис организации командировок",
+            "code": "2c22566156"
+          },
+          {
+            "id": 28621,
+            "name": "Шины и диски",
+            "code": "ed2aa16bf6"
+          },
+          {
+            "id": 21183,
+            "name": "Подписка Экосистема",
+            "code": "507e40230b"
+          }
+        ],
         "cashback_link_data": null
       },
-      "discountCount": 0,
+      "discountCount": 2,
       "couponCount": 0
     },
     {
-      "site_url": "https://www.clevguard.com/",
-      "name": "Clevguard WW",
-      "img": "platform/24655.png",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2021/3/15/24655-c92b7e8139a55e2b.png",
+      "site_url": "https://eda.yandex.ru/",
+      "name": "Yandex eda",
+      "img": "platform/27278.png",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2022/1/14/27278-0abb3d0c54679551.png",
       "categories": [
         {
-          "name": "IT Services & Soft",
-          "id": 122,
+          "name": "Online Food Delivery",
+          "id": 204,
           "language": "en",
           "parent": {
             "name": "Online Services",
@@ -5307,7 +2563,233 @@
           "parent": null
         }
       ],
-      "id": 24655,
+      "id": 27278,
+      "category": {
+        "name": "Online Food Delivery",
+        "id": 204,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      "affiliate": {
+        "goto_link": "https://yyczo.com/g/m6ste24j7q5af0702a27a368968085/?erid=5jtCeReNwxHpfQTERQfZc5X",
+        "landings": [],
+        "cashback_link_data": null
+      },
+      "discountCount": 1,
+      "couponCount": 0
+    },
+    {
+      "site_url": "https://madeindream.com",
+      "name": "Rawmid",
+      "img": "platform/27415.jpg",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2022/4/19/27415-59c106e35c8b8630.jpg",
+      "categories": [
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Household Appliances & Electronics",
+          "id": 65,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        }
+      ],
+      "id": 27415,
+      "category": {
+        "name": "Household Appliances & Electronics",
+        "id": 65,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      "affiliate": {
+        "goto_link": "https://xpuvo.com/g/87lavg2fef5af0702a27da0834ec96/?erid=2bL9aMPo2e49hMef4peW1mXmfz",
+        "landings": [],
+        "cashback_link_data": null
+      },
+      "discountCount": 1,
+      "couponCount": 0
+    },
+    {
+      "site_url": "https://www.joom.com/",
+      "name": "Joom Many GEOs",
+      "img": "platform/27888.svg",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2023/12/6/27888-c1e25abb5be26939.svg",
+      "categories": [
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Clothing, Footwear, Accessories",
+          "id": 64,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Hobby & Stationery",
+          "id": 89,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Furniture & Homeware",
+          "id": 66,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Smart tracking programs",
+          "id": 382,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "id": 27888,
+      "category": {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      "affiliate": {
+        "goto_link": "https://xnmik.com/g/k1grq9wd9g5af0702a27be0d510ed1/",
+        "landings": [],
+        "cashback_link_data": null
+      },
+      "discountCount": 6,
+      "couponCount": 0
+    },
+    {
+      "site_url": "https://www.thebodyshop.com/en-gb/",
+      "name": "The Body Shop UK",
+      "img": "platform/28507.png",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2022/4/20/28507-068c9e099fac059c.png",
+      "categories": [
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Personal Care & Pharmacy",
+          "id": 67,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        }
+      ],
+      "id": 28507,
+      "category": {
+        "name": "Personal Care & Pharmacy",
+        "id": 67,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      "affiliate": {
+        "goto_link": "https://ad.admitad.com/g/hidck4r3cm5af0702a270a9c5c4e41/",
+        "landings": [],
+        "cashback_link_data": null
+      },
+      "discountCount": 4,
+      "couponCount": 0
+    },
+    {
+      "site_url": "https://moskva.mts.ru/personal/dlya-doma/checkconnect/moskva/all-mts",
+      "name": "МТС Интернет + ТВ",
+      "img": "platform/28586.jpg",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2022/9/30/28586-a7135032fe8767f7.jpg",
+      "categories": [
+        {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "IT Services & Soft",
+          "id": 122,
+          "language": "en",
+          "parent": {
+            "name": "Online Services",
+            "id": 18,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Other Services",
+          "id": 93,
+          "language": "en",
+          "parent": {
+            "name": "Online Services",
+            "id": 18,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Telecommunications",
+          "id": 20,
+          "language": "en",
+          "parent": {
+            "name": "Online Services",
+            "id": 18,
+            "language": "en",
+            "parent": null
+          }
+        }
+      ],
+      "id": 28586,
       "category": {
         "name": "IT Services & Soft",
         "id": 122,
@@ -5320,12 +2802,1001 @@
         }
       },
       "affiliate": {
-        "goto_link": "https://rzekl.com/g/ssrh4l6w8i5af0702a2776c0f0264c/",
+        "goto_link": "https://axavl.com/g/l4zfvbwu245af0702a27bda050f982/?erid=5jtCeReNwxHpfQTEuxJzuEV",
+        "landings": [
+          {
+            "id": 27231,
+            "name": "Тариф номер 1",
+            "code": "894d818b22"
+          },
+          {
+            "id": 27233,
+            "name": "Главная ТВ",
+            "code": "87dc75e37f"
+          },
+          {
+            "id": 27230,
+            "name": "Тариф номер 3",
+            "code": "c079fe4a5d"
+          },
+          {
+            "id": 27232,
+            "name": "Главная - Связь, ТВ  и  интернет",
+            "code": "cc08e7ac55"
+          }
+        ],
+        "cashback_link_data": null
+      },
+      "discountCount": 4,
+      "couponCount": 0
+    },
+    {
+      "site_url": "https://polza.diet/",
+      "name": "Польза",
+      "img": "platform/28861.png",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2022/7/11/28861-1d3131378dd1cd4c.png",
+      "categories": [
+        {
+          "name": "Online Food Delivery",
+          "id": 204,
+          "language": "en",
+          "parent": {
+            "name": "Online Services",
+            "id": 18,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Healthcare Services",
+          "id": 120,
+          "language": "en",
+          "parent": {
+            "name": "Online Services",
+            "id": 18,
+            "language": "en",
+            "parent": null
+          }
+        }
+      ],
+      "id": 28861,
+      "category": {
+        "name": "Online Food Delivery",
+        "id": 204,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      "affiliate": {
+        "goto_link": "https://tywhh.com/g/l7h3l7fb7d5af0702a27b6fd49dbd9/?erid=2bL9aMPo2e49hMef4peznKd8xa",
         "landings": [],
         "cashback_link_data": null
       },
-      "discountCount": 18,
-      "couponCount": 2
+      "discountCount": 3,
+      "couponCount": 0
+    },
+    {
+      "site_url": "https://www.viaconto.ro/",
+      "name": "Viaconto RO",
+      "img": "platform/29148.svg",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2022/7/13/29148-21f1a7e216c2ad74.svg",
+      "categories": [
+        {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Loans",
+          "id": 9,
+          "language": "en",
+          "parent": {
+            "name": "Financial Programs",
+            "id": 7,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Smart tracking programs",
+          "id": 382,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "id": 29148,
+      "category": {
+        "name": "Loans",
+        "id": 9,
+        "language": "en",
+        "parent": {
+          "name": "Financial Programs",
+          "id": 7,
+          "language": "en",
+          "parent": null
+        }
+      },
+      "affiliate": {
+        "goto_link": "https://heqgr.com/g/2k0zn3cn8y5af0702a27e9d82934dd/",
+        "landings": [],
+        "cashback_link_data": null
+      },
+      "discountCount": 2,
+      "couponCount": 0
+    },
+    {
+      "site_url": "https://www.vperfumes.com/home",
+      "name": "Vperfumes GCC Links& Offline codes",
+      "img": "platform/29277.svg",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2022/11/18/29277-309be5ed10adfc4a.svg",
+      "categories": [
+        {
+          "name": "Personal Care & Pharmacy",
+          "id": 67,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "id": 29277,
+      "category": {
+        "name": "Personal Care & Pharmacy",
+        "id": 67,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      "affiliate": {
+        "goto_link": "https://wbbsv.com/g/ax1gp3o9dz5af0702a27be59cac899/",
+        "landings": [],
+        "cashback_link_data": null
+      },
+      "discountCount": 2,
+      "couponCount": 0
+    },
+    {
+      "site_url": "https://ipiter.ru/",
+      "name": "ipiter",
+      "img": "platform/29427.jpg",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2022/10/12/29427-bff538acf5f95131.jpg",
+      "categories": [
+        {
+          "name": "Household Appliances & Electronics",
+          "id": 65,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "id": 29427,
+      "category": {
+        "name": "Household Appliances & Electronics",
+        "id": 65,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      "affiliate": {
+        "goto_link": "https://ewwhk.com/g/s5xrmo3y125af0702a27cc66a33f1f/?erid=2bL9aMPo2e49hMef4pfUzEXezx",
+        "landings": [],
+        "cashback_link_data": null
+      },
+      "discountCount": 8,
+      "couponCount": 0
+    },
+    {
+      "site_url": "https://doninturflot.com/",
+      "name": "Донинтурфлот",
+      "img": "platform/29633.jpg",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2022/10/17/29633-9a3fb7670f8900c2.jpg",
+      "categories": [
+        {
+          "name": "Cruises",
+          "id": 211,
+          "language": "en",
+          "parent": {
+            "name": "Travel & Tourism",
+            "id": 40,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "id": 29633,
+      "category": {
+        "name": "Cruises",
+        "id": 211,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      },
+      "affiliate": {
+        "goto_link": "https://ficca2021.com/g/txrz1nd3ky5af0702a2711c78c3848/?erid=2bL9aMPo2e49hMef4pfV71RiqJ",
+        "landings": [],
+        "cashback_link_data": null
+      },
+      "discountCount": 3,
+      "couponCount": 0
+    },
+    {
+      "site_url": "https://hvalwaters.ru/",
+      "name": "Hvalwaters",
+      "img": "platform/29640.png",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2022/10/21/29640-8ea76f8638bfda15.png",
+      "categories": [
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Food & Food delivery",
+          "id": 63,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Online Food Delivery",
+          "id": 204,
+          "language": "en",
+          "parent": {
+            "name": "Online Services",
+            "id": 18,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "id": 29640,
+      "category": {
+        "name": "Food & Food delivery",
+        "id": 63,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      "affiliate": {
+        "goto_link": "https://xmknb.com/g/b0173jl2625af0702a2700dcac28d3/?erid=2bL9aMPo2e49hMef4pfVDKbKSL",
+        "landings": [],
+        "cashback_link_data": null
+      },
+      "discountCount": 3,
+      "couponCount": 0
+    },
+    {
+      "site_url": "https://tk-laser.com.ua/",
+      "name": "TK-laser UA",
+      "img": "platform/29788.svg",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2023/10/10/29788-937287a479678990.svg",
+      "categories": [
+        {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Healthcare Services",
+          "id": 120,
+          "language": "en",
+          "parent": {
+            "name": "Online Services",
+            "id": 18,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Smart Tracking_UA",
+          "id": 379,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Smart tracking programs",
+          "id": 382,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "id": 29788,
+      "category": {
+        "name": "Healthcare Services",
+        "id": 120,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      "affiliate": {
+        "goto_link": "https://ogsib.com/g/ldam5o0hj95af0702a27b9dd758de9/",
+        "landings": [],
+        "cashback_link_data": null
+      },
+      "discountCount": 5,
+      "couponCount": 0
+    },
+    {
+      "site_url": "https://beyondthebeach.com/",
+      "name": "Beyond The Beach UAE promo codes & links",
+      "img": "platform/30068.svg",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2023/1/24/30068-6653c0809abe90dc.svg",
+      "categories": [
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Clothing, Footwear, Accessories",
+          "id": 64,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        }
+      ],
+      "id": 30068,
+      "category": {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      "affiliate": {
+        "goto_link": "https://rthsu.com/g/as15wswfho5af0702a27018ab9621e/",
+        "landings": [],
+        "cashback_link_data": null
+      },
+      "discountCount": 3,
+      "couponCount": 0
+    },
+    {
+      "site_url": "https://storeinua.com/",
+      "name": "Storeinua UA",
+      "img": "platform/30400.svg",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2023/4/25/30400-b311960869832095.svg",
+      "categories": [
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Household Appliances & Electronics",
+          "id": 65,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Smart Tracking_UA",
+          "id": 379,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Smart tracking programs",
+          "id": 382,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "id": 30400,
+      "category": {
+        "name": "Household Appliances & Electronics",
+        "id": 65,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      "affiliate": {
+        "goto_link": "https://naiawork.com/g/x2f5p3q25u5af0702a2790e72178e7/",
+        "landings": [],
+        "cashback_link_data": null
+      },
+      "discountCount": 2,
+      "couponCount": 0
+    },
+    {
+      "site_url": "https://emiratesdraw.com/",
+      "name": "Emirates Draw CPS Many Geos",
+      "img": "platform/30811.svg",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2023/2/28/30811-64f1087d2c5db5f5.svg",
+      "categories": [
+        {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Other Services",
+          "id": 93,
+          "language": "en",
+          "parent": {
+            "name": "Online Services",
+            "id": 18,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Event Tickets & Entertainments",
+          "id": 99,
+          "language": "en",
+          "parent": {
+            "name": "Online Services",
+            "id": 18,
+            "language": "en",
+            "parent": null
+          }
+        }
+      ],
+      "id": 30811,
+      "category": {
+        "name": "Other Services",
+        "id": 93,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      "affiliate": {
+        "goto_link": "https://rzekl.com/g/jn01o4iqfd5af0702a27a0e6d6c1fa/",
+        "landings": [],
+        "cashback_link_data": null
+      },
+      "discountCount": 2,
+      "couponCount": 0
+    },
+    {
+      "site_url": "https://sushishop.ru",
+      "name": "sushishop.ru",
+      "img": "platform/30934.jpg",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2023/1/17/30934-8b1d59765b22500f.jpg",
+      "categories": [
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Food & Food delivery",
+          "id": 63,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Online Food Delivery",
+          "id": 204,
+          "language": "en",
+          "parent": {
+            "name": "Online Services",
+            "id": 18,
+            "language": "en",
+            "parent": null
+          }
+        }
+      ],
+      "id": 30934,
+      "category": {
+        "name": "Food & Food delivery",
+        "id": 63,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      "affiliate": {
+        "goto_link": "https://ewwhk.com/g/es27o9a9kt5af0702a2768c261a740/?erid=2bL9aMPo2e49hMef4pfVZ19Swz",
+        "landings": [],
+        "cashback_link_data": null
+      },
+      "discountCount": 1,
+      "couponCount": 0
+    },
+    {
+      "site_url": "https://e-kontur.ru/",
+      "name": "Контур Эльба",
+      "img": "platform/31041.svg",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2023/5/3/31041-8c8fad223b4d09ab.svg",
+      "categories": [
+        {
+          "name": "B2B Online Services",
+          "id": 206,
+          "language": "en",
+          "parent": {
+            "name": "Online Services",
+            "id": 18,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "IT Services & Soft",
+          "id": 122,
+          "language": "en",
+          "parent": {
+            "name": "Online Services",
+            "id": 18,
+            "language": "en",
+            "parent": null
+          }
+        }
+      ],
+      "id": 31041,
+      "category": {
+        "name": "B2B Online Services",
+        "id": 206,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      "affiliate": {
+        "goto_link": "https://thevospad.com/g/hu93dhazv25af0702a278fa0be494d/?erid=2bL9aMPo2e49hMef4pfVZ47RfU",
+        "landings": [],
+        "cashback_link_data": null
+      },
+      "discountCount": 14,
+      "couponCount": 0
+    },
+    {
+      "site_url": "https://www.colorway-shop.sk/",
+      "name": "Colorway Many Geo",
+      "img": "platform/32972.svg",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2023/2/21/32972-70d6eafc00a29d97.svg",
+      "categories": [
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Household Appliances & Electronics",
+          "id": 65,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        }
+      ],
+      "id": 32972,
+      "category": {
+        "name": "Household Appliances & Electronics",
+        "id": 65,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      "affiliate": {
+        "goto_link": "https://wpmsx.com/g/v8ro9yqcl65af0702a2748457f1360/",
+        "landings": [],
+        "cashback_link_data": null
+      },
+      "discountCount": 2,
+      "couponCount": 0
+    },
+    {
+      "site_url": "https://www.joom.ru/ru",
+      "name": "Joom RU",
+      "img": "platform/35530.png",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2023/6/22/35530-5089dcb4d939fbb5.png",
+      "categories": [
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Marketplaces (including Chinese Stores)",
+          "id": 96,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "New Year Festival 2026",
+          "id": 378,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "id": 35530,
+      "category": {
+        "name": "Marketplaces (including Chinese Stores)",
+        "id": 96,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      "affiliate": {
+        "goto_link": "https://aflink.ru/g/18vhi6r5cv5af0702a2779deb39b46/?erid=5jtCeReNwxHpfQTFuc3CS5J",
+        "landings": [
+          {
+            "id": 31128,
+            "name": "Black November Sale",
+            "code": "b8849b7072"
+          }
+        ],
+        "cashback_link_data": null
+      },
+      "discountCount": 3,
+      "couponCount": 0
+    },
+    {
+      "site_url": "https://hyugalife.com/",
+      "name": "Hyugalife [CPS] IN",
+      "img": "platform/35837.svg",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2023/5/15/35837-60cff22298f98de6.svg",
+      "categories": [
+        {
+          "name": "eHealth",
+          "id": 202,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "id": 35837,
+      "category": {
+        "name": "eHealth",
+        "id": 202,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      "affiliate": {
+        "goto_link": "https://tjzuh.com/g/hpevocgj6h5af0702a27c6a1a33a3b/",
+        "landings": [],
+        "cashback_link_data": null
+      },
+      "discountCount": 39,
+      "couponCount": 0
+    },
+    {
+      "site_url": "https://www.reebok.ae/",
+      "name": "Reebok UAE promo codes & links",
+      "img": "platform/36687.svg",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2023/7/19/36687-01ed7683018ccecd.svg",
+      "categories": [
+        {
+          "name": "Clothing, Footwear, Accessories",
+          "id": 64,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Sports & Outdoor",
+          "id": 85,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "id": 36687,
+      "category": {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      "affiliate": {
+        "goto_link": "https://ficca2021.com/g/c03arsuvru5af0702a27f3199c6ed1/",
+        "landings": [],
+        "cashback_link_data": null
+      },
+      "discountCount": 2,
+      "couponCount": 0
+    },
+    {
+      "site_url": "https://www.ae.com/mx/es",
+      "name": "American Eagle MX",
+      "img": "platform/37079.svg",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2024/4/17/37079-5359cd4876c62a56.svg",
+      "categories": [
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Clothing, Footwear, Accessories",
+          "id": 64,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        }
+      ],
+      "id": 37079,
+      "category": {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      "affiliate": {
+        "goto_link": "https://wpmsx.com/g/mb8eqboaee5af0702a275390cf62bf/",
+        "landings": [],
+        "cashback_link_data": null
+      },
+      "discountCount": 1,
+      "couponCount": 0
+    },
+    {
+      "site_url": "https://mamash.ua/",
+      "name": "Mamash UA",
+      "img": "platform/37980.svg",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2023/6/23/37980-5f0bc39b25e03866.svg",
+      "categories": [
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Personal Care & Pharmacy",
+          "id": 67,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Smart Tracking_UA",
+          "id": 379,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Smart tracking programs",
+          "id": 382,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "id": 37980,
+      "category": {
+        "name": "Personal Care & Pharmacy",
+        "id": 67,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      "affiliate": {
+        "goto_link": "https://bywiola.com/g/rasbm4geee5af0702a272b2a4ed853/",
+        "landings": [],
+        "cashback_link_data": null
+      },
+      "discountCount": 2,
+      "couponCount": 0
+    },
+    {
+      "site_url": "https://iherbgroup.ru",
+      "name": "Iherb.group",
+      "img": "platform/38150.svg",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/23/38150-a8b3c61d705ecb4d.svg",
+      "categories": [
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Personal Care & Pharmacy",
+          "id": 67,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        }
+      ],
+      "id": 38150,
+      "category": {
+        "name": "Personal Care & Pharmacy",
+        "id": 67,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      "affiliate": {
+        "goto_link": "https://xnmik.com/g/ncvzabqdgm5af0702a2762343b7806/?erid=2bL9aMPo2e49hMef4pfzYmiQPz",
+        "landings": [],
+        "cashback_link_data": null
+      },
+      "discountCount": 3,
+      "couponCount": 0
     }
   ],
   "totalPosts": 608

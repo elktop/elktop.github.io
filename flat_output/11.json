@@ -1,6 +1,94 @@
 {
   "data": [
     {
+      "site_url": "https://www.stylevana.com/",
+      "name": "Stylevana WW",
+      "img": "platform/145575.svg",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2025/11/20/145575-d400c86acc111223.svg",
+      "categories": [
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Personal Care & Pharmacy",
+          "id": 67,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        }
+      ],
+      "id": 145575,
+      "category": {
+        "name": "Personal Care & Pharmacy",
+        "id": 67,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      "affiliate": {
+        "goto_link": "https://grfpr.com/g/zaxgnm7sp35af0702a27590a2462b6/",
+        "landings": [],
+        "cashback_link_data": null
+      },
+      "discountCount": 0,
+      "couponCount": 0
+    },
+    {
+      "site_url": "https://curacare.in/",
+      "name": "Cura Care [CPS] IN",
+      "img": "platform/145953.svg",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2025/10/27/145953-7c5509c0485855d9.svg",
+      "categories": [
+        {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Healthcare Services",
+          "id": 120,
+          "language": "en",
+          "parent": {
+            "name": "Online Services",
+            "id": 18,
+            "language": "en",
+            "parent": null
+          }
+        }
+      ],
+      "id": 145953,
+      "category": {
+        "name": "Healthcare Services",
+        "id": 120,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      "affiliate": {
+        "goto_link": "https://tjzuh.com/g/b496davyux5af0702a27aa7e564914/",
+        "landings": [],
+        "cashback_link_data": null
+      },
+      "discountCount": 0,
+      "couponCount": 0
+    },
+    {
       "site_url": "https://bagrepublic.com.ua/",
       "name": "Bag Republic UA",
       "img": "platform/146098.svg",
@@ -221,81 +309,6 @@
       "couponCount": 0
     },
     {
-      "site_url": "https://giakarsko.com/",
-      "name": "GIA KARSKO EU",
-      "img": "platform/149085.svg",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2025/12/10/149085-817027590ed702f9.svg",
-      "categories": [
-        {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        },
-        {
-          "name": "Clothing, Footwear, Accessories",
-          "id": 64,
-          "language": "en",
-          "parent": {
-            "name": "Online stores",
-            "id": 62,
-            "language": "en",
-            "parent": null
-          }
-        }
-      ],
-      "id": 149085,
-      "category": {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      "affiliate": {
-        "goto_link": "https://ypetp.com/g/x9v9fme9zq5af0702a272e05f7a992/",
-        "landings": [
-          {
-            "id": 31423,
-            "name": "CHANEL COLLECTION",
-            "code": "3f29f69b31"
-          },
-          {
-            "id": 31422,
-            "name": "LOUIS VUITTON COLLECTION",
-            "code": "d79c61de08"
-          },
-          {
-            "id": 31456,
-            "name": "Shopping Page",
-            "code": "0b08d7bf4a"
-          },
-          {
-            "id": 31420,
-            "name": "How We Authenticate Luxury Handbags",
-            "code": "8facbca6f0"
-          },
-          {
-            "id": 31421,
-            "name": "BALENCIAGA COLLECTION",
-            "code": "b12ab49ea2"
-          },
-          {
-            "id": 31424,
-            "name": "Luxury Brand Guides",
-            "code": "801ba370d0"
-          }
-        ],
-        "cashback_link_data": null
-      },
-      "discountCount": 0,
-      "couponCount": 2
-    },
-    {
       "site_url": "https://lifestylestore.com",
       "name": "Lifestyle Web [CPS] IN",
       "img": "platform/158440.svg",
@@ -338,72 +351,6 @@
       },
       "discountCount": 0,
       "couponCount": 0
-    },
-    {
-      "site_url": "https://meshnology.com/",
-      "name": "Meshnology - Meshtastic & LoRa Hardware Specialist",
-      "img": "platform/159043.svg",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2025/12/26/159043-e33945248d4da33c.svg",
-      "categories": [
-        {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        },
-        {
-          "name": "Hand & Power tools",
-          "id": 102,
-          "language": "en",
-          "parent": {
-            "name": "Online stores",
-            "id": 62,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Household Appliances & Electronics",
-          "id": 65,
-          "language": "en",
-          "parent": {
-            "name": "Online stores",
-            "id": 62,
-            "language": "en",
-            "parent": null
-          }
-        }
-      ],
-      "id": 159043,
-      "category": {
-        "name": "Hand & Power tools",
-        "id": 102,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      "affiliate": {
-        "goto_link": "https://tywhh.com/g/97h026mnpx5af0702a27e95c5fd652/",
-        "landings": [
-          {
-            "id": 31521,
-            "name": "January Top Seller , Meshnology N39 ,All-in-One Mesh Kit , High Power V4.",
-            "code": "c8ca8975a6"
-          },
-          {
-            "id": 31522,
-            "name": "High Performance Heltec V4 , Advanced Meshtastic Node",
-            "code": "4d10c954f1"
-          }
-        ],
-        "cashback_link_data": null
-      },
-      "discountCount": 0,
-      "couponCount": 6
     }
   ],
   "totalPosts": 608

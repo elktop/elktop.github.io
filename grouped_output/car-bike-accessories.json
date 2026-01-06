@@ -1,49 +1,5 @@
 [
   {
-    "site_url": "https://www.avtoall.ru/",
-    "name": "AvtoALL",
-    "img": "platform/19213.png",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2020/10/21/19213-aef6a8ea558561bc.png",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Car & Bike Accessories",
-        "id": 92,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 19213,
-    "category": {
-      "name": "Car & Bike Accessories",
-      "id": 92,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://sgkaa.com/g/5rermd1rb55af0702a27aeed5c54e0/?erid=25H8d7vbP8SRTvHZB1b5vJ",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 0
-  },
-  {
     "site_url": "https://euro-diski.ru/",
     "name": "Euro-diski",
     "img": "platform/21894.jpg",
@@ -92,6 +48,50 @@
     },
     "discountCount": 2,
     "couponCount": 1
+  },
+  {
+    "site_url": "https://www.avtoall.ru/",
+    "name": "AvtoALL",
+    "img": "platform/19213.png",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2020/10/21/19213-aef6a8ea558561bc.png",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Car & Bike Accessories",
+        "id": 92,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 19213,
+    "category": {
+      "name": "Car & Bike Accessories",
+      "id": 92,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://sgkaa.com/g/5rermd1rb55af0702a27aeed5c54e0/?erid=25H8d7vbP8SRTvHZB1b5vJ",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://www.mirdvornikov.ru/",

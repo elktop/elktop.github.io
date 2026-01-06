@@ -56,94 +56,6 @@
     "couponCount": 5
   },
   {
-    "site_url": "https://niyama.ru/",
-    "name": "Нияма",
-    "img": "platform/15192.png",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2022/12/8/15192-e2aefb8d7e971f24.png",
-    "categories": [
-      {
-        "name": "Online Food Delivery",
-        "id": 204,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 15192,
-    "category": {
-      "name": "Online Food Delivery",
-      "id": 204,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://dorinebeaumont.com/g/3s3em6e8xf5af0702a276a4a7498a3/?erid=25H8d7vbP8SRTvG4sKnKcT",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 10
-  },
-  {
-    "site_url": "https://growfood.pro/",
-    "name": "Growfood",
-    "img": "platform/15909.png",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2022/8/19/15909-488fa91cea6409b5.png",
-    "categories": [
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Online Food Delivery",
-        "id": 204,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 15909,
-    "category": {
-      "name": "Online Food Delivery",
-      "id": 204,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://naiawork.com/g/36wusytszy5af0702a27aeb982cd0a/?erid=MvGzQC98w3Z1gMq1kxQwfCfT",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 0
-  },
-  {
     "site_url": "https://levelkitchen.com/",
     "name": "Level Kitchen",
     "img": "platform/18262.svg",
@@ -209,117 +121,6 @@
     },
     "discountCount": 4,
     "couponCount": 5
-  },
-  {
-    "site_url": "https://foodband.ru/",
-    "name": "Foodband",
-    "img": "platform/18780.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2021/10/7/18780-06b292277055c0b6.svg",
-    "categories": [
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Online Food Delivery",
-        "id": 204,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 18780,
-    "category": {
-      "name": "Online Food Delivery",
-      "id": 204,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://kdbov.com/g/6i8z56w6fx5af0702a272e77510c9d/?erid=MvGzQC98w3Z1gMq1mwqgji5D",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 10
-  },
-  {
-    "site_url": "https://www.justfood.pro/",
-    "name": "justfood",
-    "img": "platform/18904.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/5/27/18904-9688558adcd9e51c.svg",
-    "categories": [
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Online Food Delivery",
-        "id": 204,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Food & Food delivery",
-        "id": 63,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 18904,
-    "category": {
-      "name": "Online Food Delivery",
-      "id": 204,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://zallj.com/g/cfygm3ult45af0702a272c0087287e/?erid=MvGzQC98w3Z1gMq1mwxFiWJX",
-      "landings": [
-        {
-          "id": 24841,
-          "name": "Главный лендинг",
-          "code": "6d32f6aac5"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 1
   },
   {
     "site_url": "https://ollis.ru/",
@@ -431,50 +232,6 @@
     },
     "discountCount": 1,
     "couponCount": 3
-  },
-  {
-    "site_url": "https://allopizza.su/msk/all",
-    "name": "Pizza-allo",
-    "img": "platform/21734.png",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2021/2/5/21734-37bcf0015ba7b728.png",
-    "categories": [
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Online Food Delivery",
-        "id": 204,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 21734,
-    "category": {
-      "name": "Online Food Delivery",
-      "id": 204,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://cafxq.com/g/bgi1r32ntf5af0702a27b0f1f587ba/?erid=MvGzQC98w3Z1gMq1oRvTp2Xo",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 1,
-    "couponCount": 0
   },
   {
     "site_url": "https://letbefit.ru/",
@@ -641,10 +398,10 @@
     "couponCount": 1
   },
   {
-    "site_url": "https://pizzasushiwok.ru/",
-    "name": "pizzasushiwok",
-    "img": "platform/26110.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/2/9/26110-5ec1a4f01b6f3d2e.svg",
+    "site_url": "https://crosspack.ru/",
+    "name": "crosspack.ru",
+    "img": "platform/33072.jpg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/2/13/33072-6d67c4768e52184e.jpg",
     "categories": [
       {
         "name": "Online Food Delivery",
@@ -664,7 +421,7 @@
         "parent": null
       }
     ],
-    "id": 26110,
+    "id": 33072,
     "category": {
       "name": "Online Food Delivery",
       "id": 204,
@@ -677,11 +434,111 @@
       }
     },
     "affiliate": {
-      "goto_link": "https://naiawork.com/g/89mbs6rwz45af0702a2707268febb5/?erid=5jtCeReNwxHpfQTEQcxnR6X",
+      "goto_link": "https://sgkaa.com/g/vfgrliq24f5af0702a27650df5d27a/?erid=5jtCeReNwxHpfQTFu9qYmrP",
       "landings": [],
       "cashback_link_data": null
     },
-    "discountCount": 0,
+    "discountCount": 7,
+    "couponCount": 2
+  },
+  {
+    "site_url": "https://simplymeal.ru/",
+    "name": "Simply Meal RU",
+    "img": "platform/90282.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/2/20/90282-3709b868479b24fb.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Online Food Delivery",
+        "id": 204,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Back to school 2025",
+        "id": 371,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "New Year Festival 2026",
+        "id": 378,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 90282,
+    "category": {
+      "name": "Online Food Delivery",
+      "id": 204,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://yyczo.com/g/tcjs1z805d5af0702a276e7feec041/?erid=5jtCeReNwxHpfQTGui1wvF9",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 4,
+    "couponCount": 1
+  },
+  {
+    "site_url": "https://allopizza.su/msk/all",
+    "name": "Pizza-allo",
+    "img": "platform/21734.png",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/2/5/21734-37bcf0015ba7b728.png",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Online Food Delivery",
+        "id": 204,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 21734,
+    "category": {
+      "name": "Online Food Delivery",
+      "id": 204,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://cafxq.com/g/bgi1r32ntf5af0702a27b0f1f587ba/?erid=MvGzQC98w3Z1gMq1oRvTp2Xo",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 1,
     "couponCount": 0
   },
   {
@@ -726,61 +583,6 @@
       "cashback_link_data": null
     },
     "discountCount": 1,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://hellochef.me/",
-    "name": "Hello Chef AE links & promo codes",
-    "img": "platform/28724.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/5/3/28724-a5d9660d3f74afb3.svg",
-    "categories": [
-      {
-        "name": "Online Food Delivery",
-        "id": 204,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Other Services",
-        "id": 93,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 28724,
-    "category": {
-      "name": "Online Food Delivery",
-      "id": 204,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://codeaven.com/g/bjjrmxr2ul5af0702a2768294f6279/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
     "couponCount": 0
   },
   {
@@ -837,6 +639,161 @@
     },
     "discountCount": 3,
     "couponCount": 0
+  },
+  {
+    "site_url": "https://niyama.ru/",
+    "name": "Нияма",
+    "img": "platform/15192.png",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2022/12/8/15192-e2aefb8d7e971f24.png",
+    "categories": [
+      {
+        "name": "Online Food Delivery",
+        "id": 204,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 15192,
+    "category": {
+      "name": "Online Food Delivery",
+      "id": 204,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://dorinebeaumont.com/g/3s3em6e8xf5af0702a276a4a7498a3/?erid=25H8d7vbP8SRTvG4sKnKcT",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 10
+  },
+  {
+    "site_url": "https://foodband.ru/",
+    "name": "Foodband",
+    "img": "platform/18780.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/10/7/18780-06b292277055c0b6.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Online Food Delivery",
+        "id": 204,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 18780,
+    "category": {
+      "name": "Online Food Delivery",
+      "id": 204,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://kdbov.com/g/6i8z56w6fx5af0702a272e77510c9d/?erid=MvGzQC98w3Z1gMq1mwqgji5D",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 10
+  },
+  {
+    "site_url": "https://www.justfood.pro/",
+    "name": "justfood",
+    "img": "platform/18904.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/5/27/18904-9688558adcd9e51c.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Online Food Delivery",
+        "id": 204,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Food & Food delivery",
+        "id": 63,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 18904,
+    "category": {
+      "name": "Online Food Delivery",
+      "id": 204,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://zallj.com/g/cfygm3ult45af0702a272c0087287e/?erid=MvGzQC98w3Z1gMq1mwxFiWJX",
+      "landings": [
+        {
+          "id": 24841,
+          "name": "Главный лендинг",
+          "code": "6d32f6aac5"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 1
   },
   {
     "site_url": "https://wolt.com/",
@@ -954,50 +911,6 @@
     "couponCount": 3
   },
   {
-    "site_url": "https://crosspack.ru/",
-    "name": "crosspack.ru",
-    "img": "platform/33072.jpg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/2/13/33072-6d67c4768e52184e.jpg",
-    "categories": [
-      {
-        "name": "Online Food Delivery",
-        "id": 204,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 33072,
-    "category": {
-      "name": "Online Food Delivery",
-      "id": 204,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://sgkaa.com/g/vfgrliq24f5af0702a27650df5d27a/?erid=5jtCeReNwxHpfQTFu9qYmrP",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 7,
-    "couponCount": 2
-  },
-  {
     "site_url": "https://pizzahut.ru",
     "name": "Pizzahut.ru",
     "img": "platform/42857.svg",
@@ -1098,62 +1011,6 @@
     "couponCount": 4
   },
   {
-    "site_url": "https://simplymeal.ru/",
-    "name": "Simply Meal RU",
-    "img": "platform/90282.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/2/20/90282-3709b868479b24fb.svg",
-    "categories": [
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Online Food Delivery",
-        "id": 204,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Back to school 2025",
-        "id": 371,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "New Year Festival 2026",
-        "id": 378,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 90282,
-    "category": {
-      "name": "Online Food Delivery",
-      "id": 204,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://yyczo.com/g/tcjs1z805d5af0702a276e7feec041/?erid=5jtCeReNwxHpfQTGui1wvF9",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 4,
-    "couponCount": 1
-  },
-  {
     "site_url": "https://wolt.com/",
     "name": "WOLT CZ PL HU GR SK HR RS",
     "img": "platform/92120.svg",
@@ -1202,6 +1059,193 @@
     },
     "discountCount": 0,
     "couponCount": 4
+  },
+  {
+    "site_url": "https://www.ubereats.com/",
+    "name": "UberEats UK",
+    "img": "platform/95470.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/3/29/95470-b55affbfe8a881b7.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Online Food Delivery",
+        "id": 204,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 95470,
+    "category": {
+      "name": "Online Food Delivery",
+      "id": 204,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://heqgr.com/g/y39tnkbeo85af0702a2725340d27bd/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 2
+  },
+  {
+    "site_url": "https://growfood.pro/",
+    "name": "Growfood",
+    "img": "platform/15909.png",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2022/8/19/15909-488fa91cea6409b5.png",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Online Food Delivery",
+        "id": 204,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 15909,
+    "category": {
+      "name": "Online Food Delivery",
+      "id": 204,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://naiawork.com/g/36wusytszy5af0702a27aeb982cd0a/?erid=MvGzQC98w3Z1gMq1kxQwfCfT",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://pizzasushiwok.ru/",
+    "name": "pizzasushiwok",
+    "img": "platform/26110.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/2/9/26110-5ec1a4f01b6f3d2e.svg",
+    "categories": [
+      {
+        "name": "Online Food Delivery",
+        "id": 204,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 26110,
+    "category": {
+      "name": "Online Food Delivery",
+      "id": 204,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://naiawork.com/g/89mbs6rwz45af0702a2707268febb5/?erid=5jtCeReNwxHpfQTEQcxnR6X",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://hellochef.me/",
+    "name": "Hello Chef AE links & promo codes",
+    "img": "platform/28724.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/5/3/28724-a5d9660d3f74afb3.svg",
+    "categories": [
+      {
+        "name": "Online Food Delivery",
+        "id": 204,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Other Services",
+        "id": 93,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 28724,
+    "category": {
+      "name": "Online Food Delivery",
+      "id": 204,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://codeaven.com/g/bjjrmxr2ul5af0702a2768294f6279/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://www.prostoeda.pro",
@@ -1263,49 +1307,5 @@
     },
     "discountCount": 0,
     "couponCount": 0
-  },
-  {
-    "site_url": "https://www.ubereats.com/",
-    "name": "UberEats UK",
-    "img": "platform/95470.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/3/29/95470-b55affbfe8a881b7.svg",
-    "categories": [
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Online Food Delivery",
-        "id": 204,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 95470,
-    "category": {
-      "name": "Online Food Delivery",
-      "id": 204,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://heqgr.com/g/y39tnkbeo85af0702a2725340d27bd/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 2
   }
 ]

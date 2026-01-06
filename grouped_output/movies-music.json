@@ -1,5 +1,87 @@
 [
   {
+    "site_url": "https://tvigle.ru/",
+    "name": "Tvigle RU",
+    "img": "platform/95706.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/4/16/95706-d3a4dbfdc9df0abe.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Movies & Music",
+        "id": 203,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Telecommunications",
+        "id": 20,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "New Year Festival 2026",
+        "id": 378,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 95706,
+    "category": {
+      "name": "Movies & Music",
+      "id": 203,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://zallj.com/g/0pt8ehyfsx5af0702a270828aff76b/?erid=2bL9aMPo2e49hMef4phUk3PwZm",
+      "landings": [
+        {
+          "id": 30877,
+          "name": "под подписку за 49 руб.",
+          "code": "0188f41877"
+        },
+        {
+          "id": 30878,
+          "name": "под подписку за 199 руб. с триалом на 72 часа",
+          "code": "ed1f16192c"
+        },
+        {
+          "id": 30879,
+          "name": "под подписку за 599 руб. с триалом на 72 часа",
+          "code": "0777b61df3"
+        },
+        {
+          "id": 30876,
+          "name": "под подписку за 39 руб.",
+          "code": "b2124a3491"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 1
+  },
+  {
     "site_url": "https://www.ivi.ru/",
     "name": "ivi (CPS)",
     "img": "platform/22004.svg",
@@ -114,88 +196,6 @@
     },
     "discountCount": 0,
     "couponCount": 0
-  },
-  {
-    "site_url": "https://tvigle.ru/",
-    "name": "Tvigle RU",
-    "img": "platform/95706.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/4/16/95706-d3a4dbfdc9df0abe.svg",
-    "categories": [
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Movies & Music",
-        "id": 203,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Telecommunications",
-        "id": 20,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "New Year Festival 2026",
-        "id": 378,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 95706,
-    "category": {
-      "name": "Movies & Music",
-      "id": 203,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://zallj.com/g/0pt8ehyfsx5af0702a270828aff76b/?erid=2bL9aMPo2e49hMef4phUk3PwZm",
-      "landings": [
-        {
-          "id": 30877,
-          "name": "под подписку за 49 руб.",
-          "code": "0188f41877"
-        },
-        {
-          "id": 30878,
-          "name": "под подписку за 199 руб. с триалом на 72 часа",
-          "code": "ed1f16192c"
-        },
-        {
-          "id": 30879,
-          "name": "под подписку за 599 руб. с триалом на 72 часа",
-          "code": "0777b61df3"
-        },
-        {
-          "id": 30876,
-          "name": "под подписку за 39 руб.",
-          "code": "b2124a3491"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 1
   },
   {
     "site_url": "https://refsee.com",

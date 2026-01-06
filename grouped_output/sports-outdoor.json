@@ -1,60 +1,5 @@
 [
   {
-    "site_url": "https://www.planeta-sport.ru/",
-    "name": "Планета Спорт",
-    "img": "platform/11347.png",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2020/10/1/11347-40a91b60ee22488a.png",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Sports & Outdoor",
-        "id": 85,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 11347,
-    "category": {
-      "name": "Sports & Outdoor",
-      "id": 85,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://grfpr.com/g/1387bd5a205af0702a274dead8de0a/?erid=F7NfYUJRWmqqH8Yt2Uc1",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 2,
-    "couponCount": 0
-  },
-  {
     "site_url": "https://answear.ua/",
     "name": "Answear UA",
     "img": "platform/14578.svg",
@@ -131,117 +76,6 @@
     },
     "discountCount": 2,
     "couponCount": 3
-  },
-  {
-    "site_url": "https://www.sportmaster.ru/",
-    "name": "Спортмастер",
-    "img": "platform/14647.png",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/8/14647-0dd7fbe25553b712.png",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Sports & Outdoor",
-        "id": 85,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "New Year Festival 2026",
-        "id": 378,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 14647,
-    "category": {
-      "name": "Sports & Outdoor",
-      "id": 85,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://iatjw.com/g/ih21ujqkwf5af0702a27b09e931874/?erid=25H8d7vbP8SRTvFafQupqm",
-      "landings": [
-        {
-          "id": 27772,
-          "name": "РАСПРОДАЖА",
-          "code": "ae9418e8aa"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 2,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://www.velosklad.ru/",
-    "name": "ВелоСклад",
-    "img": "platform/15894.png",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2020/10/1/15894-78421c7a863b0fdc.png",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Sports & Outdoor",
-        "id": 85,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 15894,
-    "category": {
-      "name": "Sports & Outdoor",
-      "id": 85,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://rzekl.com/g/s763oztejh5af0702a27535f9d39fd/?erid=MvGzQC98w3Z1gMq1kxQvCu27",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 0
   },
   {
     "site_url": "https://mi-shop.com",
@@ -405,111 +239,6 @@
     "couponCount": 1
   },
   {
-    "site_url": "https://barfits.ru",
-    "name": "Barfits",
-    "img": "platform/25270.jpg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2021/8/12/25270-5e23560857545e64.jpg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Sports & Outdoor",
-        "id": 85,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 25270,
-    "category": {
-      "name": "Sports & Outdoor",
-      "id": 85,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://rzekl.com/g/d4892uekm75af0702a27d8a3291cea/?erid=2bL9aMPo2e49hMef4pdzuZMc2k",
-      "landings": [
-        {
-          "id": 19941,
-          "name": "Премиальные Шведские Стенки",
-          "code": "a49dd9ed1f"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 1
-  },
-  {
-    "site_url": "https://www.bodylab24.de/",
-    "name": "Bodylab24 DE",
-    "img": "platform/26696.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/29/26696-930ecde5754fe5ea.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Sports & Outdoor",
-        "id": 85,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Personal Care & Pharmacy",
-        "id": 67,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 26696,
-    "category": {
-      "name": "Sports & Outdoor",
-      "id": 85,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://ad.admitad.com/g/q51r4zfcu55af0702a27fad1369401/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 1,
-    "couponCount": 0
-  },
-  {
     "site_url": "https://www.wayrates.com/",
     "name": "Wayrates WW",
     "img": "platform/26846.png",
@@ -585,6 +314,321 @@
     },
     "discountCount": 4,
     "couponCount": 4
+  },
+  {
+    "site_url": "https://www.planeta-sport.ru/",
+    "name": "Планета Спорт",
+    "img": "platform/11347.png",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2020/10/1/11347-40a91b60ee22488a.png",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Sports & Outdoor",
+        "id": 85,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 11347,
+    "category": {
+      "name": "Sports & Outdoor",
+      "id": 85,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://grfpr.com/g/1387bd5a205af0702a274dead8de0a/?erid=F7NfYUJRWmqqH8Yt2Uc1",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 2,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://www.sportmaster.ru/",
+    "name": "Спортмастер",
+    "img": "platform/14647.png",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/8/14647-0dd7fbe25553b712.png",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Sports & Outdoor",
+        "id": 85,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "New Year Festival 2026",
+        "id": 378,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 14647,
+    "category": {
+      "name": "Sports & Outdoor",
+      "id": 85,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://iatjw.com/g/ih21ujqkwf5af0702a27b09e931874/?erid=25H8d7vbP8SRTvFafQupqm",
+      "landings": [
+        {
+          "id": 27772,
+          "name": "РАСПРОДАЖА",
+          "code": "ae9418e8aa"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 2,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://www.bodylab24.de/",
+    "name": "Bodylab24 DE",
+    "img": "platform/26696.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/29/26696-930ecde5754fe5ea.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Sports & Outdoor",
+        "id": 85,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Personal Care & Pharmacy",
+        "id": 67,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 26696,
+    "category": {
+      "name": "Sports & Outdoor",
+      "id": 85,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://ad.admitad.com/g/q51r4zfcu55af0702a27fad1369401/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 1,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://barfits.ru",
+    "name": "Barfits",
+    "img": "platform/25270.jpg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/8/12/25270-5e23560857545e64.jpg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Sports & Outdoor",
+        "id": 85,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 25270,
+    "category": {
+      "name": "Sports & Outdoor",
+      "id": 85,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://rzekl.com/g/d4892uekm75af0702a27d8a3291cea/?erid=2bL9aMPo2e49hMef4pdzuZMc2k",
+      "landings": [
+        {
+          "id": 19941,
+          "name": "Премиальные Шведские Стенки",
+          "code": "a49dd9ed1f"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 1
+  },
+  {
+    "site_url": "https://sitpack.com/",
+    "name": "Sitpack WW",
+    "img": "platform/113984.png",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/24/113984-85ace6283e127d5d.png",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Sports & Outdoor",
+        "id": 85,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 113984,
+    "category": {
+      "name": "Sports & Outdoor",
+      "id": 85,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://ujhjj.com/g/nljx8wkict5af0702a27ef57333d53/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 2
+  },
+  {
+    "site_url": "https://www.velosklad.ru/",
+    "name": "ВелоСклад",
+    "img": "platform/15894.png",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2020/10/1/15894-78421c7a863b0fdc.png",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Sports & Outdoor",
+        "id": 85,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 15894,
+    "category": {
+      "name": "Sports & Outdoor",
+      "id": 85,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://rzekl.com/g/s763oztejh5af0702a27535f9d39fd/?erid=MvGzQC98w3Z1gMq1kxQvCu27",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://www.birota.ru/",
@@ -745,49 +789,5 @@
     },
     "discountCount": 0,
     "couponCount": 0
-  },
-  {
-    "site_url": "https://sitpack.com/",
-    "name": "Sitpack WW",
-    "img": "platform/113984.png",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/24/113984-85ace6283e127d5d.png",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Sports & Outdoor",
-        "id": 85,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 113984,
-    "category": {
-      "name": "Sports & Outdoor",
-      "id": 85,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://ujhjj.com/g/nljx8wkict5af0702a27ef57333d53/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 2
   }
 ]

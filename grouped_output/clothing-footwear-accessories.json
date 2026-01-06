@@ -399,6 +399,730 @@
     "couponCount": 1
   },
   {
+    "site_url": "https://www.glasseslit.com/",
+    "name": "Glasseslit WW",
+    "img": "platform/17970.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/5/19/17970-e3bf116fa6fe6de2.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Personal Care & Pharmacy",
+        "id": 67,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 17970,
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://codeaven.com/g/mmjnepjawo5af0702a27de0721ef8d/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 8,
+    "couponCount": 10
+  },
+  {
+    "site_url": "https://ru.sv77.com/",
+    "name": "Svmoscow",
+    "img": "platform/18806.png",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2020/10/14/18806-66cf99bff38fcb49.png",
+    "categories": [
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 18806,
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://dorinebeaumont.com/g/r4onnn842d5af0702a2799856ee21b/?erid=MvGzQC98w3Z1gMq1mwx2Nwwj",
+      "landings": [
+        {
+          "id": 27929,
+          "name": "Скидка на товары",
+          "code": "af618dcfc9"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 2,
+    "couponCount": 1
+  },
+  {
+    "site_url": "https://vipavenue.ru/",
+    "name": "VipAvenue",
+    "img": "platform/19294.png",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2020/10/15/19294-9e3a601c403efb3d.png",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 19294,
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://grfpr.com/g/wi6mvea2sq5af0702a274c1f95a56e/?erid=MvGzQC98w3Z1gMq1nSA6Ck4N",
+      "landings": [
+        {
+          "id": 22195,
+          "name": "ВРЕМЯ ПОДАРКОВ",
+          "code": "871a8e4fbb"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 7,
+    "couponCount": 1
+  },
+  {
+    "site_url": "https://aimclo.ru/",
+    "name": "Aim clo",
+    "img": "platform/25281.png",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/5/16/25281-059e6d3b7f9a3d40.png",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "11.11 & Black Friday 2025",
+        "id": 377,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 25281,
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://dhwnh.com/g/4j5krugcvl5af0702a277bcddb12b2/?erid=5jtCeReNwxHpfQTDvQzvw1a",
+      "landings": [
+        {
+          "id": 20734,
+          "name": "Оптовая заявка",
+          "code": "93a4cf0061"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 3,
+    "couponCount": 1
+  },
+  {
+    "site_url": "https://askent.ru",
+    "name": "Askent",
+    "img": "platform/26006.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/2/28/26006-8a017402fa1695ab.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 26006,
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://ficca2021.com/g/ho6qrz23t65af0702a276e00fa9874/?erid=5jtCeReNwxHpfQTEQWEv2Rm",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 1,
+    "couponCount": 1
+  },
+  {
+    "site_url": "https://www.humanic.net/cz/",
+    "name": "Humanic CZ & SK",
+    "img": "platform/26456.png",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/10/22/26456-7ae6205b8b5c0f49.png",
+    "categories": [
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 26456,
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://bednari.com/g/26l34mud9q5af0702a27802cfca7bc/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 6,
+    "couponCount": 4
+  },
+  {
+    "site_url": "https://www.nadula.com/",
+    "name": "Nadula WW",
+    "img": "platform/27495.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/11/29/27495-e97a7ec938a4ee65.svg",
+    "categories": [
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 27495,
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://xpuvo.com/g/oy5ftorbbz5af0702a2745ffeb074b/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 8,
+    "couponCount": 10
+  },
+  {
+    "site_url": "https://www.thedealoutlet.com/",
+    "name": "The Deal Outlet AE SA",
+    "img": "platform/28750.jpg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2022/7/18/28750-50bc5d4e712eb1da.jpg",
+    "categories": [
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 28750,
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://bywiola.com/g/wjw0v6sq2u5af0702a27b6c5579bcf/",
+      "landings": [
+        {
+          "id": 29752,
+          "name": "Ramadan 2025",
+          "code": "eb021be2b2"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 4,
+    "couponCount": 2
+  },
+  {
+    "site_url": "https://www.madwave.ru/",
+    "name": "Madwavenew",
+    "img": "platform/29130.jpg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2022/8/17/29130-b5d88546fe3109e7.jpg",
+    "categories": [
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Sports & Outdoor",
+        "id": 85,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Personal Care & Pharmacy",
+        "id": 67,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Hobby & Stationery",
+        "id": 89,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Toys, Kids & Babies",
+        "id": 69,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "eHealth",
+        "id": 202,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "New Year Festival 2026",
+        "id": 378,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 29130,
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://ficca2021.com/g/02ocqj6mtr5af0702a2702f7474c98/?erid=2bL9aMPo2e49hMef4pezty6FiE",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 1,
+    "couponCount": 1
+  },
+  {
+    "site_url": "https://www.casetify.com/",
+    "name": "CASETiFY WW",
+    "img": "platform/33090.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/11/14/33090-8709acbb08f909e4.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 33090,
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://bywiola.com/g/tv8h1uy8ni5af0702a272f7a77e67e/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 2,
+    "couponCount": 2
+  },
+  {
+    "site_url": "https://salty.co.in/",
+    "name": "Salty [CPS] IN",
+    "img": "platform/88834.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/2/14/88834-03392c67689ce30b.svg",
+    "categories": [
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 88834,
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://tjzuh.com/g/9idoi1gyuy5af0702a270c509bedc5/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 2,
+    "couponCount": 16
+  },
+  {
+    "site_url": "https://lacoste.kz/",
+    "name": "Lacoste KZ",
+    "img": "platform/93442.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/3/13/93442-06d86efeb1f02589.svg",
+    "categories": [
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 93442,
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://fxxag.com/g/mfx24mc1h35af0702a27e329afd461/",
+      "landings": [
+        {
+          "id": 29535,
+          "name": "Сезонные скидки до 50процентов",
+          "code": "0afd623ce1"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 4,
+    "couponCount": 1
+  },
+  {
+    "site_url": "https://www.voishe.ru",
+    "name": "Voishe RU",
+    "img": "platform/100815.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/6/19/100815-0033a33455624d59.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 100815,
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://cafxq.com/g/lua8u9wrpk5af0702a273618909b99/?erid=2bL9aMPo2e49hMef4phyWppCFR",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 1,
+    "couponCount": 2
+  },
+  {
+    "site_url": "https://ricewear.com",
+    "name": "Ricewear RU",
+    "img": "platform/143711.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/10/27/143711-8105abd9b6260961.svg",
+    "categories": [
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 143711,
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://kjuzv.com/g/as8wqvdyiu5af0702a2736f9c1b6c7/?erid=2bL9aMPo2e49hMef4rqUtcBfa7",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 2,
+    "couponCount": 3
+  },
+  {
     "site_url": "https://kanzler-style.ru/",
     "name": "KANZLER",
     "img": "platform/14625.svg",
@@ -575,10 +1299,409 @@
     "couponCount": 0
   },
   {
-    "site_url": "https://www.glasseslit.com/",
-    "name": "Glasseslit WW",
-    "img": "platform/17970.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/5/19/17970-e3bf116fa6fe6de2.svg",
+    "site_url": "https://www.crocs.eu/",
+    "name": "Crocs Many GEOs",
+    "img": "platform/19858.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/17/19858-bcee89a39c16023c.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 19858,
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://bednari.com/g/gjlhxf2hcr5af0702a2781b962f351/",
+      "landings": [
+        {
+          "id": 9524,
+          "name": "Crocs NL",
+          "code": "48533f3ae6"
+        },
+        {
+          "id": 9523,
+          "name": "Crocs FR",
+          "code": "08ba7cdd6b"
+        },
+        {
+          "id": 6842,
+          "name": "Crocs UK ",
+          "code": "7d2108b45f"
+        },
+        {
+          "id": 9522,
+          "name": "Crocs DE",
+          "code": "6f8aec1e1f"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 6,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://www.titan.co.in/",
+    "name": "Titan [CPS] IN",
+    "img": "platform/21435.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/11/28/21435-9616b06210787653.svg",
+    "categories": [
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 21435,
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://tjzuh.com/g/bukiix5hpd5af0702a27139db86198/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 16,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://www.crocs.in/",
+    "name": "Crocs [CPS] IN",
+    "img": "platform/23433.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/2/6/23433-cdd14454d4eb8191.svg",
+    "categories": [
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 23433,
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://tjzuh.com/g/d2s1vaeuqv5af0702a274df569a289/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 7,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://answear.bg/",
+    "name": "Answear BG/Euro",
+    "img": "platform/25178.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/6/21/25178-470ed79ac16bc954.svg",
+    "categories": [
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 25178,
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://rzekl.com/g/5369gvhjks5af0702a279020b4167c/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 2,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://www.g-star.com/en",
+    "name": "G-Star Raw Many Geos",
+    "img": "platform/26025.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/4/12/26025-b87dba1811aecac5.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 26025,
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://ntzgd.com/g/vdi4nbdn0t5af0702a2715fcaa1c5f/",
+      "landings": [
+        {
+          "id": 21519,
+          "name": "G-star Men",
+          "code": "dfaff84c82"
+        },
+        {
+          "id": 21521,
+          "name": "G-star Kids",
+          "code": "5d49f7a15d"
+        },
+        {
+          "id": 30178,
+          "name": "Men Trousers and Cargos",
+          "code": "b9abdbd0c1"
+        },
+        {
+          "id": 21518,
+          "name": "G-Star EN",
+          "code": "cf3fcb391c"
+        },
+        {
+          "id": 21520,
+          "name": "G-star Women",
+          "code": "3014a617d5"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 10,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://www.stradivarius.com/fr/",
+    "name": "Stradivarius FR",
+    "img": "platform/26156.png",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/9/21/26156-f8e757f68b48b11f.png",
+    "categories": [
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 26156,
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://dorinebeaumont.com/g/3oms09qxmg5af0702a27965d22d478/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 4,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://newbalance.cz/",
+    "name": "Newbalance Many geos",
+    "img": "platform/26471.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/5/4/26471-36fde9999887eed6.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 26471,
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://uhtkc.com/g/fjezdzu2j15af0702a27d04f993eab/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 8,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://www.street-one.nl/",
+    "name": "Street-One NL",
+    "img": "platform/26562.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/29/26562-cc81aeaa4966208d.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 26562,
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://ad.admitad.com/g/of6l3dtoz65af0702a2792ce75e199/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 10,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://www.joom.com/",
+    "name": "Joom Many GEOs",
+    "img": "platform/27888.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/12/6/27888-c1e25abb5be26939.svg",
     "categories": [
       {
         "name": "Online stores",
@@ -598,8 +1721,8 @@
         }
       },
       {
-        "name": "Personal Care & Pharmacy",
-        "id": 67,
+        "name": "Hobby & Stationery",
+        "id": 89,
         "language": "en",
         "parent": {
           "name": "Online stores",
@@ -607,9 +1730,26 @@
           "language": "en",
           "parent": null
         }
+      },
+      {
+        "name": "Furniture & Homeware",
+        "id": 66,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
       }
     ],
-    "id": 17970,
+    "id": 27888,
     "category": {
       "name": "Clothing, Footwear, Accessories",
       "id": 64,
@@ -622,12 +1762,509 @@
       }
     },
     "affiliate": {
-      "goto_link": "https://codeaven.com/g/mmjnepjawo5af0702a27de0721ef8d/",
+      "goto_link": "https://xnmik.com/g/k1grq9wd9g5af0702a27be0d510ed1/",
       "landings": [],
       "cashback_link_data": null
     },
-    "discountCount": 8,
-    "couponCount": 10
+    "discountCount": 6,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://beyondthebeach.com/",
+    "name": "Beyond The Beach UAE promo codes & links",
+    "img": "platform/30068.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/1/24/30068-6653c0809abe90dc.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 30068,
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://rthsu.com/g/as15wswfho5af0702a27018ab9621e/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 3,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://www.reebok.ae/",
+    "name": "Reebok UAE promo codes & links",
+    "img": "platform/36687.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/7/19/36687-01ed7683018ccecd.svg",
+    "categories": [
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Sports & Outdoor",
+        "id": 85,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 36687,
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://ficca2021.com/g/c03arsuvru5af0702a27f3199c6ed1/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 2,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://www.ae.com/mx/es",
+    "name": "American Eagle MX",
+    "img": "platform/37079.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/4/17/37079-5359cd4876c62a56.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 37079,
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://wpmsx.com/g/mb8eqboaee5af0702a275390cf62bf/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 1,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://bungly.ru/",
+    "name": "",
+    "img": "platform/45373.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/2/12/45373-f9f637ad734d0736.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Toys, Kids & Babies",
+        "id": 69,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Back to school 2025",
+        "id": 371,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 45373,
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://rkdro.com/g/639t4hq54u5af0702a2747b5c02a03/?erid=2bL9aMPo2e49hMef4pgVS5EWfY",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 3,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://samsonite.com.mx/",
+    "name": "Samsonite MX",
+    "img": "platform/100976.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/5/22/100976-99b823768734a5cd.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Furniture & Homeware",
+        "id": 66,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 100976,
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://xmknb.com/g/cj6zaw6m9p5af0702a27a68f2598b9/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 1,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://www.campdavid-soccx-shop.cz/",
+    "name": "Camp David | Soccx CZ CPS",
+    "img": "platform/104513.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/16/104513-e028c67178027c78.svg",
+    "categories": [
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 104513,
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://xqjeo.com/g/t39rzrme555af0702a275474323be3/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 2,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://symbol.fashion/",
+    "name": "Symbol fashion Many GEOs",
+    "img": "platform/105191.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/8/15/105191-5354850cf3f2277c.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Smart Tracking_UA",
+        "id": 379,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 105191,
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://lsuix.com/g/lcs2cmfdpo5af0702a27d98abc09ee/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 2,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://www.m-reason.ru/",
+    "name": "M.REASON RU",
+    "img": "platform/107877.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/8/19/107877-ec4012d6ae60e2c2.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 107877,
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://flcoz.com/g/7vno7ljurx5af0702a2776dd41b8a2/?erid=2bL9aMPo2e49hMef4phzC4WBJW",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 2,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://prm.com/bg",
+    "name": "PRM.com BG",
+    "img": "platform/108184.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/7/21/108184-1befefce7bf99d82.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 108184,
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://rkdro.com/g/yv9l0qxcqa5af0702a277191d05910/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 3,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://www.levi.com/",
+    "name": "Levi’s® Many GEOs",
+    "img": "platform/113770.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/11/5/113770-897adf08e420a2b7.svg",
+    "categories": [
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 113770,
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://fxxag.com/g/c7asm3ceai5af0702a27cf5d098ee2/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 12,
+    "couponCount": 0
   },
   {
     "site_url": "https://www.chicme.com/",
@@ -703,215 +2340,6 @@
     },
     "discountCount": 0,
     "couponCount": 2
-  },
-  {
-    "site_url": "https://www.gap.ae/",
-    "name": "GAP AE KW Offline codes & Links",
-    "img": "platform/18670.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/12/12/18670-1f2cc7572fb89506.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 18670,
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://xpuvo.com/g/d4n9yftnc85af0702a276a374bb096/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://ru.sv77.com/",
-    "name": "Svmoscow",
-    "img": "platform/18806.png",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2020/10/14/18806-66cf99bff38fcb49.png",
-    "categories": [
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 18806,
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://dorinebeaumont.com/g/r4onnn842d5af0702a2799856ee21b/?erid=MvGzQC98w3Z1gMq1mwx2Nwwj",
-      "landings": [
-        {
-          "id": 27929,
-          "name": "Скидка на товары",
-          "code": "af618dcfc9"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 2,
-    "couponCount": 1
-  },
-  {
-    "site_url": "https://vipavenue.ru/",
-    "name": "VipAvenue",
-    "img": "platform/19294.png",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2020/10/15/19294-9e3a601c403efb3d.png",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 19294,
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://grfpr.com/g/wi6mvea2sq5af0702a274c1f95a56e/?erid=MvGzQC98w3Z1gMq1nSA6Ck4N",
-      "landings": [
-        {
-          "id": 22195,
-          "name": "ВРЕМЯ ПОДАРКОВ",
-          "code": "871a8e4fbb"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 7,
-    "couponCount": 1
-  },
-  {
-    "site_url": "https://www.crocs.eu/",
-    "name": "Crocs Many GEOs",
-    "img": "platform/19858.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/17/19858-bcee89a39c16023c.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 19858,
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://bednari.com/g/gjlhxf2hcr5af0702a2781b962f351/",
-      "landings": [
-        {
-          "id": 9524,
-          "name": "Crocs NL",
-          "code": "48533f3ae6"
-        },
-        {
-          "id": 9523,
-          "name": "Crocs FR",
-          "code": "08ba7cdd6b"
-        },
-        {
-          "id": 6842,
-          "name": "Crocs UK ",
-          "code": "7d2108b45f"
-        },
-        {
-          "id": 9522,
-          "name": "Crocs DE",
-          "code": "6f8aec1e1f"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 6,
-    "couponCount": 0
   },
   {
     "site_url": "https://theluxurycloset.com/",
@@ -1029,6 +2457,889 @@
     },
     "discountCount": 0,
     "couponCount": 1
+  },
+  {
+    "site_url": "https://eyewa.com/",
+    "name": "Eyewa AE SA KW QT OM offline codes",
+    "img": "platform/21562.png",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/3/26/21562-17beb9c46064f7fd.png",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 21562,
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://dorinebeaumont.com/g/5brfq9vg0i5af0702a27b7da7466f8/",
+      "landings": [
+        {
+          "id": 17542,
+          "name": "EYEWA TOP BRANDS",
+          "code": "1a20ca3de6"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 4
+  },
+  {
+    "site_url": "https://www.italojewelry.com/",
+    "name": "Italojewerly WW",
+    "img": "platform/23964.png",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2020/10/29/23964-32d8a4c3272c1cfe.png",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Marketplaces (including Chinese Stores)",
+        "id": 96,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Jewelry & Luxury Goods",
+        "id": 200,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 23964,
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://ad.admitad.com/g/l926tcw2sm5af0702a2787e51e1a66/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 2
+  },
+  {
+    "site_url": "https://www.wish.com/",
+    "name": "Wish Many GEOs",
+    "img": "platform/24352.jpg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2022/10/7/24352-5da9ab9e46e99500.jpg",
+    "categories": [
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 24352,
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://yyczo.com/g/fyc6a8zutq5af0702a27915730f414/",
+      "landings": [
+        {
+          "id": 28984,
+          "name": "Home Decor",
+          "code": "0a1c3994ee"
+        },
+        {
+          "id": 28985,
+          "name": "Toys for Kids",
+          "code": "3897f076b3"
+        },
+        {
+          "id": 28986,
+          "name": "Adventure Gear",
+          "code": "fce39b108e"
+        },
+        {
+          "id": 28987,
+          "name": "Fashion",
+          "code": "45661ba9d2"
+        },
+        {
+          "id": 28701,
+          "name": "The gift shop - Awesome picks for every personality and budget",
+          "code": "0ed93ae64a"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 2
+  },
+  {
+    "site_url": "https://nbsklep.pl",
+    "name": "New Balance PL 2 3",
+    "img": "platform/26347.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/29/26347-ba54b7db7b0a2231.svg",
+    "categories": [
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 26347,
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://ad.admitad.com/g/pit51yr0c25af0702a27d15ab831b6/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 1
+  },
+  {
+    "site_url": "https://www.vooglam.com/",
+    "name": "Vooglam WW",
+    "img": "platform/26479.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/5/26/26479-0bdb25d802a948fc.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Marketplaces (including Chinese Stores)",
+        "id": 96,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 26479,
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://bywiola.com/g/mgsq5wj9fw5af0702a2743cbdeb262/",
+      "landings": [
+        {
+          "id": 18236,
+          "name": "Stylish Eyeglasses down to 6.95 USD",
+          "code": "4b703cdbfd"
+        },
+        {
+          "id": 18237,
+          "name": "Voogueme New In",
+          "code": "d735ff52e3"
+        },
+        {
+          "id": 18235,
+          "name": "Voogueme Top Sellers",
+          "code": "859fe6eee2"
+        },
+        {
+          "id": 18239,
+          "name": "Cat Eye Collection",
+          "code": "ab5931ba91"
+        },
+        {
+          "id": 18238,
+          "name": "Sunglasses",
+          "code": "f77dc1b4fa"
+        },
+        {
+          "id": 18229,
+          "name": "Voogueme Website",
+          "code": "a7471efc3b"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 14
+  },
+  {
+    "site_url": "https://sohoshop.ru/",
+    "name": "sohoshop",
+    "img": "platform/27313.jpg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/12/28/27313-377716ef8a195db8.jpg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 27313,
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://naiawork.com/g/x5npm7rr8e5af0702a27e6dc21c9f7/?erid=2bL9aMPo2e49hMef4peVuKvuBw",
+      "landings": [
+        {
+          "id": 22598,
+          "name": "на 23 февраля_скидки на всё мужское",
+          "code": "5ee15aea16"
+        },
+        {
+          "id": 22599,
+          "name": "на 8 марта_скидки на всё женское",
+          "code": "2e42d3e7f8"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 1
+  },
+  {
+    "site_url": "https://www.clarksstores.ae/",
+    "name": "Clarks Stores AE offline codes & links",
+    "img": "platform/27912.png",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2022/4/29/27912-03fedd37728b1bd9.png",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 27912,
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://codeaven.com/g/x51pfgqns95af0702a27ea2a6e1fef/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 6
+  },
+  {
+    "site_url": "https://cocos-moscow.ru/",
+    "name": "Cocos-moscow.ru",
+    "img": "platform/30687.jpg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2022/12/1/30687-88ff24eb766ff4e4.jpg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 30687,
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://ntzgd.com/g/b4yjoieegk5af0702a27c8a37829f9/?erid=5jtCeReNwxHpfQTFQx17EZL",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 1
+  },
+  {
+    "site_url": "https://www.koskii.com/",
+    "name": "Koskii [CPS] IN",
+    "img": "platform/31357.png",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2022/12/27/31357-4b8b3b26f296924a.png",
+    "categories": [
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 31357,
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://tjzuh.com/g/gdylanxddk5af0702a273e4b97150e/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 2
+  },
+  {
+    "site_url": "https://www.allegra-k.com/",
+    "name": "Allegra K Many GEOs",
+    "img": "platform/38910.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/6/28/38910-7b12fecf5b3b3671.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 38910,
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://dorinebeaumont.com/g/aozpgoz74i5af0702a27cdeebe7d54/",
+      "landings": [
+        {
+          "id": 31196,
+          "name": "Black Friday Sales",
+          "code": "f14fe34989"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 20
+  },
+  {
+    "site_url": "https://tr.puma.com",
+    "name": "Puma TR",
+    "img": "platform/46013.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/2/22/46013-6ae0915424820a75.svg",
+    "categories": [
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 46013,
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://rcpsj.com/g/1diesae2p95af0702a2736c4c71279/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 2
+  },
+  {
+    "site_url": "https://postmeridiem-brand.com/",
+    "name": "",
+    "img": "platform/87484.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/2/16/87484-26b8b75a3dbc3355.svg",
+    "categories": [
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 87484,
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://axavl.com/g/mgifglr0q05af0702a2709bc5899e5/?erid=2bL9aMPo2e49hMef4pgz67EgeC",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 1
+  },
+  {
+    "site_url": "https://drippycustom.com/",
+    "name": "Drippy Custom Many GEOs",
+    "img": "platform/102186.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/6/20/102186-c0e26479b9207730.svg",
+    "categories": [
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Sports & Outdoor",
+        "id": 85,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 102186,
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://xpuvo.com/g/5q4v2tbfvw5af0702a2711c83c348e/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 8
+  },
+  {
+    "site_url": "https://only-me.ru/",
+    "name": "Only-me RU",
+    "img": "platform/124949.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/6/19/124949-c09fb6230ed2b35c.svg",
+    "categories": [
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 124949,
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://kjuzv.com/g/05htazhyn85af0702a27eab8be4634/?erid=2bL9aMPo2e49hMef4rqTzFxhm6",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 1
+  },
+  {
+    "site_url": "https://giakarsko.com/",
+    "name": "GIA KARSKO EU",
+    "img": "platform/149085.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/12/10/149085-817027590ed702f9.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 149085,
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://ypetp.com/g/x9v9fme9zq5af0702a272e05f7a992/",
+      "landings": [
+        {
+          "id": 31423,
+          "name": "CHANEL COLLECTION",
+          "code": "3f29f69b31"
+        },
+        {
+          "id": 31422,
+          "name": "LOUIS VUITTON COLLECTION",
+          "code": "d79c61de08"
+        },
+        {
+          "id": 31456,
+          "name": "Shopping Page",
+          "code": "0b08d7bf4a"
+        },
+        {
+          "id": 31420,
+          "name": "How We Authenticate Luxury Handbags",
+          "code": "8facbca6f0"
+        },
+        {
+          "id": 31421,
+          "name": "BALENCIAGA COLLECTION",
+          "code": "b12ab49ea2"
+        },
+        {
+          "id": 31424,
+          "name": "Luxury Brand Guides",
+          "code": "801ba370d0"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 2
+  },
+  {
+    "site_url": "https://www.gap.ae/",
+    "name": "GAP AE KW Offline codes & Links",
+    "img": "platform/18670.svg",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/12/12/18670-1f2cc7572fb89506.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 18670,
+    "category": {
+      "name": "Clothing, Footwear, Accessories",
+      "id": 64,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://xpuvo.com/g/d4n9yftnc85af0702a276a374bb096/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
   },
   {
     "site_url": "https://www.spartoo.hu/",
@@ -1261,100 +3572,6 @@
     "couponCount": 0
   },
   {
-    "site_url": "https://www.titan.co.in/",
-    "name": "Titan [CPS] IN",
-    "img": "platform/21435.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/11/28/21435-9616b06210787653.svg",
-    "categories": [
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 21435,
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://tjzuh.com/g/bukiix5hpd5af0702a27139db86198/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 16,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://eyewa.com/",
-    "name": "Eyewa AE SA KW QT OM offline codes",
-    "img": "platform/21562.png",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2021/3/26/21562-17beb9c46064f7fd.png",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 21562,
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://dorinebeaumont.com/g/5brfq9vg0i5af0702a27b7da7466f8/",
-      "landings": [
-        {
-          "id": 17542,
-          "name": "EYEWA TOP BRANDS",
-          "code": "1a20ca3de6"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 4
-  },
-  {
     "site_url": "https://in.puma.com/",
     "name": "Puma [CPS] IN",
     "img": "platform/21567.png",
@@ -1443,192 +3660,6 @@
     "couponCount": 0
   },
   {
-    "site_url": "https://www.crocs.in/",
-    "name": "Crocs [CPS] IN",
-    "img": "platform/23433.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/2/6/23433-cdd14454d4eb8191.svg",
-    "categories": [
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 23433,
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://tjzuh.com/g/d2s1vaeuqv5af0702a274df569a289/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 7,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://www.italojewelry.com/",
-    "name": "Italojewerly WW",
-    "img": "platform/23964.png",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2020/10/29/23964-32d8a4c3272c1cfe.png",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Marketplaces (including Chinese Stores)",
-        "id": 96,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Jewelry & Luxury Goods",
-        "id": 200,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Smart tracking programs",
-        "id": 382,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 23964,
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://ad.admitad.com/g/l926tcw2sm5af0702a2787e51e1a66/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 2
-  },
-  {
-    "site_url": "https://www.wish.com/",
-    "name": "Wish Many GEOs",
-    "img": "platform/24352.jpg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2022/10/7/24352-5da9ab9e46e99500.jpg",
-    "categories": [
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 24352,
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://yyczo.com/g/fyc6a8zutq5af0702a27915730f414/",
-      "landings": [
-        {
-          "id": 28984,
-          "name": "Home Decor",
-          "code": "0a1c3994ee"
-        },
-        {
-          "id": 28985,
-          "name": "Toys for Kids",
-          "code": "3897f076b3"
-        },
-        {
-          "id": 28986,
-          "name": "Adventure Gear",
-          "code": "fce39b108e"
-        },
-        {
-          "id": 28987,
-          "name": "Fashion",
-          "code": "45661ba9d2"
-        },
-        {
-          "id": 28701,
-          "name": "The gift shop - Awesome picks for every personality and budget",
-          "code": "0ed93ae64a"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 2
-  },
-  {
     "site_url": "https://golden-line.ru/",
     "name": "golden-line.ru",
     "img": "platform/25170.png",
@@ -1714,106 +3745,6 @@
     "couponCount": 0
   },
   {
-    "site_url": "https://answear.bg/",
-    "name": "Answear BG/Euro",
-    "img": "platform/25178.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/6/21/25178-470ed79ac16bc954.svg",
-    "categories": [
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 25178,
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://rzekl.com/g/5369gvhjks5af0702a279020b4167c/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 2,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://aimclo.ru/",
-    "name": "Aim clo",
-    "img": "platform/25281.png",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/5/16/25281-059e6d3b7f9a3d40.png",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "11.11 & Black Friday 2025",
-        "id": 377,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 25281,
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://dhwnh.com/g/4j5krugcvl5af0702a277bcddb12b2/?erid=5jtCeReNwxHpfQTDvQzvw1a",
-      "landings": [
-        {
-          "id": 20734,
-          "name": "Оптовая заявка",
-          "code": "93a4cf0061"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 3,
-    "couponCount": 1
-  },
-  {
     "site_url": "https://www.hacoo.app/",
     "name": "Hacoo WW",
     "img": "platform/25572.svg",
@@ -1891,208 +3822,6 @@
     "couponCount": 0
   },
   {
-    "site_url": "https://askent.ru",
-    "name": "Askent",
-    "img": "platform/26006.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/2/28/26006-8a017402fa1695ab.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 26006,
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://ficca2021.com/g/ho6qrz23t65af0702a276e00fa9874/?erid=5jtCeReNwxHpfQTEQWEv2Rm",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 1,
-    "couponCount": 1
-  },
-  {
-    "site_url": "https://www.g-star.com/en",
-    "name": "G-Star Raw Many Geos",
-    "img": "platform/26025.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/4/12/26025-b87dba1811aecac5.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 26025,
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://ntzgd.com/g/vdi4nbdn0t5af0702a2715fcaa1c5f/",
-      "landings": [
-        {
-          "id": 21519,
-          "name": "G-star Men",
-          "code": "dfaff84c82"
-        },
-        {
-          "id": 21521,
-          "name": "G-star Kids",
-          "code": "5d49f7a15d"
-        },
-        {
-          "id": 30178,
-          "name": "Men Trousers and Cargos",
-          "code": "b9abdbd0c1"
-        },
-        {
-          "id": 21518,
-          "name": "G-Star EN",
-          "code": "cf3fcb391c"
-        },
-        {
-          "id": 21520,
-          "name": "G-star Women",
-          "code": "3014a617d5"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 10,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://www.stradivarius.com/fr/",
-    "name": "Stradivarius FR",
-    "img": "platform/26156.png",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2021/9/21/26156-f8e757f68b48b11f.png",
-    "categories": [
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 26156,
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://dorinebeaumont.com/g/3oms09qxmg5af0702a27965d22d478/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 4,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://nbsklep.pl",
-    "name": "New Balance PL 2 3",
-    "img": "platform/26347.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/29/26347-ba54b7db7b0a2231.svg",
-    "categories": [
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 26347,
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://ad.admitad.com/g/pit51yr0c25af0702a27d15ab831b6/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 1
-  },
-  {
     "site_url": "https://www.timberland.com/de-de",
     "name": "Timberland Many Geos",
     "img": "platform/26439.svg",
@@ -2140,224 +3869,6 @@
       "cashback_link_data": null
     },
     "discountCount": 0,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://www.humanic.net/cz/",
-    "name": "Humanic CZ & SK",
-    "img": "platform/26456.png",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2021/10/22/26456-7ae6205b8b5c0f49.png",
-    "categories": [
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 26456,
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://bednari.com/g/26l34mud9q5af0702a27802cfca7bc/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 6,
-    "couponCount": 4
-  },
-  {
-    "site_url": "https://newbalance.cz/",
-    "name": "Newbalance Many geos",
-    "img": "platform/26471.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/5/4/26471-36fde9999887eed6.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 26471,
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://uhtkc.com/g/fjezdzu2j15af0702a27d04f993eab/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 8,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://www.vooglam.com/",
-    "name": "Vooglam WW",
-    "img": "platform/26479.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/5/26/26479-0bdb25d802a948fc.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Marketplaces (including Chinese Stores)",
-        "id": 96,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 26479,
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://bywiola.com/g/mgsq5wj9fw5af0702a2743cbdeb262/",
-      "landings": [
-        {
-          "id": 18236,
-          "name": "Stylish Eyeglasses down to 6.95 USD",
-          "code": "4b703cdbfd"
-        },
-        {
-          "id": 18237,
-          "name": "Voogueme New In",
-          "code": "d735ff52e3"
-        },
-        {
-          "id": 18235,
-          "name": "Voogueme Top Sellers",
-          "code": "859fe6eee2"
-        },
-        {
-          "id": 18239,
-          "name": "Cat Eye Collection",
-          "code": "ab5931ba91"
-        },
-        {
-          "id": 18238,
-          "name": "Sunglasses",
-          "code": "f77dc1b4fa"
-        },
-        {
-          "id": 18229,
-          "name": "Voogueme Website",
-          "code": "a7471efc3b"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 14
-  },
-  {
-    "site_url": "https://www.street-one.nl/",
-    "name": "Street-One NL",
-    "img": "platform/26562.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/29/26562-cc81aeaa4966208d.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 26562,
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://ad.admitad.com/g/of6l3dtoz65af0702a2792ce75e199/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 10,
     "couponCount": 0
   },
   {
@@ -2537,61 +4048,6 @@
     "couponCount": 0
   },
   {
-    "site_url": "https://sohoshop.ru/",
-    "name": "sohoshop",
-    "img": "platform/27313.jpg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2021/12/28/27313-377716ef8a195db8.jpg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 27313,
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://naiawork.com/g/x5npm7rr8e5af0702a27e6dc21c9f7/?erid=2bL9aMPo2e49hMef4peVuKvuBw",
-      "landings": [
-        {
-          "id": 22598,
-          "name": "на 23 февраля_скидки на всё мужское",
-          "code": "5ee15aea16"
-        },
-        {
-          "id": 22599,
-          "name": "на 8 марта_скидки на всё женское",
-          "code": "2e42d3e7f8"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 1
-  },
-  {
     "site_url": "https://www.dorothyperkins.com/",
     "name": "Dorothy Perkins UK",
     "img": "platform/27324.svg",
@@ -2634,166 +4090,6 @@
     },
     "discountCount": 0,
     "couponCount": 0
-  },
-  {
-    "site_url": "https://www.nadula.com/",
-    "name": "Nadula WW",
-    "img": "platform/27495.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/11/29/27495-e97a7ec938a4ee65.svg",
-    "categories": [
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 27495,
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://xpuvo.com/g/oy5ftorbbz5af0702a2745ffeb074b/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 8,
-    "couponCount": 10
-  },
-  {
-    "site_url": "https://www.joom.com/",
-    "name": "Joom Many GEOs",
-    "img": "platform/27888.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/12/6/27888-c1e25abb5be26939.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Hobby & Stationery",
-        "id": 89,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Furniture & Homeware",
-        "id": 66,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Smart tracking programs",
-        "id": 382,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 27888,
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://xnmik.com/g/k1grq9wd9g5af0702a27be0d510ed1/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 6,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://www.clarksstores.ae/",
-    "name": "Clarks Stores AE offline codes & links",
-    "img": "platform/27912.png",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2022/4/29/27912-03fedd37728b1bd9.png",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 27912,
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://codeaven.com/g/x51pfgqns95af0702a27ea2a6e1fef/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 6
   },
   {
     "site_url": "https://www.jashanmal.com/",
@@ -2921,56 +4217,6 @@
     "couponCount": 0
   },
   {
-    "site_url": "https://www.thedealoutlet.com/",
-    "name": "The Deal Outlet AE SA",
-    "img": "platform/28750.jpg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2022/7/18/28750-50bc5d4e712eb1da.jpg",
-    "categories": [
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 28750,
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://bywiola.com/g/wjw0v6sq2u5af0702a27b6c5579bcf/",
-      "landings": [
-        {
-          "id": 29752,
-          "name": "Ramadan 2025",
-          "code": "eb021be2b2"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 4,
-    "couponCount": 2
-  },
-  {
     "site_url": "https://www.kipling.co.ae/",
     "name": "Kipling AE offline codes & links",
     "img": "platform/28855.png",
@@ -3013,287 +4259,6 @@
     },
     "discountCount": 0,
     "couponCount": 0
-  },
-  {
-    "site_url": "https://www.madwave.ru/",
-    "name": "Madwavenew",
-    "img": "platform/29130.jpg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2022/8/17/29130-b5d88546fe3109e7.jpg",
-    "categories": [
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Sports & Outdoor",
-        "id": 85,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Personal Care & Pharmacy",
-        "id": 67,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Hobby & Stationery",
-        "id": 89,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Toys, Kids & Babies",
-        "id": 69,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "eHealth",
-        "id": 202,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "New Year Festival 2026",
-        "id": 378,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 29130,
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://ficca2021.com/g/02ocqj6mtr5af0702a2702f7474c98/?erid=2bL9aMPo2e49hMef4pezty6FiE",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 1,
-    "couponCount": 1
-  },
-  {
-    "site_url": "https://beyondthebeach.com/",
-    "name": "Beyond The Beach UAE promo codes & links",
-    "img": "platform/30068.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/1/24/30068-6653c0809abe90dc.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 30068,
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://rthsu.com/g/as15wswfho5af0702a27018ab9621e/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 3,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://cocos-moscow.ru/",
-    "name": "Cocos-moscow.ru",
-    "img": "platform/30687.jpg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2022/12/1/30687-88ff24eb766ff4e4.jpg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 30687,
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://ntzgd.com/g/b4yjoieegk5af0702a27c8a37829f9/?erid=5jtCeReNwxHpfQTFQx17EZL",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 1
-  },
-  {
-    "site_url": "https://www.koskii.com/",
-    "name": "Koskii [CPS] IN",
-    "img": "platform/31357.png",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2022/12/27/31357-4b8b3b26f296924a.png",
-    "categories": [
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 31357,
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://tjzuh.com/g/gdylanxddk5af0702a273e4b97150e/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 2
-  },
-  {
-    "site_url": "https://www.casetify.com/",
-    "name": "CASETiFY WW",
-    "img": "platform/33090.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/11/14/33090-8709acbb08f909e4.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 33090,
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://bywiola.com/g/tv8h1uy8ni5af0702a272f7a77e67e/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 2,
-    "couponCount": 2
   },
   {
     "site_url": "https://www.coastfashion.com/",
@@ -3400,105 +4365,6 @@
     "couponCount": 0
   },
   {
-    "site_url": "https://www.reebok.ae/",
-    "name": "Reebok UAE promo codes & links",
-    "img": "platform/36687.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/7/19/36687-01ed7683018ccecd.svg",
-    "categories": [
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Sports & Outdoor",
-        "id": 85,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 36687,
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://ficca2021.com/g/c03arsuvru5af0702a27f3199c6ed1/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 2,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://www.ae.com/mx/es",
-    "name": "American Eagle MX",
-    "img": "platform/37079.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/4/17/37079-5359cd4876c62a56.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 37079,
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://wpmsx.com/g/mb8eqboaee5af0702a275390cf62bf/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 1,
-    "couponCount": 0
-  },
-  {
     "site_url": "https://sportcourt.ru/",
     "name": "sportcourt.ru",
     "img": "platform/37333.svg",
@@ -3602,62 +4468,6 @@
     },
     "discountCount": 0,
     "couponCount": 0
-  },
-  {
-    "site_url": "https://www.allegra-k.com/",
-    "name": "Allegra K Many GEOs",
-    "img": "platform/38910.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/6/28/38910-7b12fecf5b3b3671.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Smart tracking programs",
-        "id": 382,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 38910,
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://dorinebeaumont.com/g/aozpgoz74i5af0702a27cdeebe7d54/",
-      "landings": [
-        {
-          "id": 31196,
-          "name": "Black Friday Sales",
-          "code": "f14fe34989"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 20
   },
   {
     "site_url": "https://highstreet.com.mx/",
@@ -3847,67 +4657,6 @@
     "couponCount": 0
   },
   {
-    "site_url": "https://bungly.ru/",
-    "name": "",
-    "img": "platform/45373.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/2/12/45373-f9f637ad734d0736.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Toys, Kids & Babies",
-        "id": 69,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Back to school 2025",
-        "id": 371,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 45373,
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://rkdro.com/g/639t4hq54u5af0702a2747b5c02a03/?erid=2bL9aMPo2e49hMef4pgVS5EWfY",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 3,
-    "couponCount": 0
-  },
-  {
     "site_url": "https://blackberrys.com/",
     "name": "Blackberrys New [CPS] IN",
     "img": "platform/45469.svg",
@@ -3952,56 +4701,6 @@
     "couponCount": 0
   },
   {
-    "site_url": "https://tr.puma.com",
-    "name": "Puma TR",
-    "img": "platform/46013.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/2/22/46013-6ae0915424820a75.svg",
-    "categories": [
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Smart tracking programs",
-        "id": 382,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 46013,
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://rcpsj.com/g/1diesae2p95af0702a2736c4c71279/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 2
-  },
-  {
     "site_url": "https://www.danielwellington.com/",
     "name": "Daniel wellington [CPS] IN",
     "img": "platform/78682.svg",
@@ -4044,144 +4743,6 @@
     },
     "discountCount": 0,
     "couponCount": 0
-  },
-  {
-    "site_url": "https://postmeridiem-brand.com/",
-    "name": "",
-    "img": "platform/87484.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/2/16/87484-26b8b75a3dbc3355.svg",
-    "categories": [
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 87484,
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://axavl.com/g/mgifglr0q05af0702a2709bc5899e5/?erid=2bL9aMPo2e49hMef4pgz67EgeC",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 1
-  },
-  {
-    "site_url": "https://salty.co.in/",
-    "name": "Salty [CPS] IN",
-    "img": "platform/88834.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/2/14/88834-03392c67689ce30b.svg",
-    "categories": [
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 88834,
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://tjzuh.com/g/9idoi1gyuy5af0702a270c509bedc5/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 2,
-    "couponCount": 16
-  },
-  {
-    "site_url": "https://lacoste.kz/",
-    "name": "Lacoste KZ",
-    "img": "platform/93442.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/3/13/93442-06d86efeb1f02589.svg",
-    "categories": [
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 93442,
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://fxxag.com/g/mfx24mc1h35af0702a27e329afd461/",
-      "landings": [
-        {
-          "id": 29535,
-          "name": "Сезонные скидки до 50процентов",
-          "code": "0afd623ce1"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 4,
-    "couponCount": 1
   },
   {
     "site_url": "https://fablestore.ru/",
@@ -4275,210 +4836,6 @@
       "cashback_link_data": null
     },
     "discountCount": 0,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://www.voishe.ru",
-    "name": "Voishe RU",
-    "img": "platform/100815.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/6/19/100815-0033a33455624d59.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 100815,
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://cafxq.com/g/lua8u9wrpk5af0702a273618909b99/?erid=2bL9aMPo2e49hMef4phyWppCFR",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 1,
-    "couponCount": 2
-  },
-  {
-    "site_url": "https://samsonite.com.mx/",
-    "name": "Samsonite MX",
-    "img": "platform/100976.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/5/22/100976-99b823768734a5cd.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Furniture & Homeware",
-        "id": 66,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 100976,
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://xmknb.com/g/cj6zaw6m9p5af0702a27a68f2598b9/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 1,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://drippycustom.com/",
-    "name": "Drippy Custom Many GEOs",
-    "img": "platform/102186.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/6/20/102186-c0e26479b9207730.svg",
-    "categories": [
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Sports & Outdoor",
-        "id": 85,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Smart tracking programs",
-        "id": 382,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 102186,
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://xpuvo.com/g/5q4v2tbfvw5af0702a2711c83c348e/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 8
-  },
-  {
-    "site_url": "https://www.campdavid-soccx-shop.cz/",
-    "name": "Camp David | Soccx CZ CPS",
-    "img": "platform/104513.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/16/104513-e028c67178027c78.svg",
-    "categories": [
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 104513,
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://xqjeo.com/g/t39rzrme555af0702a275474323be3/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 2,
     "couponCount": 0
   },
   {
@@ -4581,156 +4938,6 @@
     "couponCount": 0
   },
   {
-    "site_url": "https://symbol.fashion/",
-    "name": "Symbol fashion Many GEOs",
-    "img": "platform/105191.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/8/15/105191-5354850cf3f2277c.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Smart tracking programs",
-        "id": 382,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Smart Tracking_UA",
-        "id": 379,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 105191,
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://lsuix.com/g/lcs2cmfdpo5af0702a27d98abc09ee/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 2,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://www.m-reason.ru/",
-    "name": "M.REASON RU",
-    "img": "platform/107877.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/8/19/107877-ec4012d6ae60e2c2.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 107877,
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://flcoz.com/g/7vno7ljurx5af0702a2776dd41b8a2/?erid=2bL9aMPo2e49hMef4phzC4WBJW",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 2,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://prm.com/bg",
-    "name": "PRM.com BG",
-    "img": "platform/108184.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/7/21/108184-1befefce7bf99d82.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Smart tracking programs",
-        "id": 382,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 108184,
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://rkdro.com/g/yv9l0qxcqa5af0702a277191d05910/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 3,
-    "couponCount": 0
-  },
-  {
     "site_url": "https://alexanderbogdanov.com",
     "name": "ALEXANDER BOGDANOV RU",
     "img": "platform/110474.svg",
@@ -4772,50 +4979,6 @@
       "cashback_link_data": null
     },
     "discountCount": 0,
-    "couponCount": 0
-  },
-  {
-    "site_url": "https://www.levi.com/",
-    "name": "Levi’s® Many GEOs",
-    "img": "platform/113770.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/11/5/113770-897adf08e420a2b7.svg",
-    "categories": [
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 113770,
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://fxxag.com/g/c7asm3ceai5af0702a27cf5d098ee2/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 12,
     "couponCount": 0
   },
   {
@@ -5136,50 +5299,6 @@
     },
     "discountCount": 0,
     "couponCount": 0
-  },
-  {
-    "site_url": "https://only-me.ru/",
-    "name": "Only-me RU",
-    "img": "platform/124949.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/6/19/124949-c09fb6230ed2b35c.svg",
-    "categories": [
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 124949,
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://kjuzv.com/g/05htazhyn85af0702a27eab8be4634/?erid=2bL9aMPo2e49hMef4rqTzFxhm6",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 1
   },
   {
     "site_url": "https://gocolors.com/",
@@ -5523,50 +5642,6 @@
     "couponCount": 0
   },
   {
-    "site_url": "https://ricewear.com",
-    "name": "Ricewear RU",
-    "img": "platform/143711.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/10/27/143711-8105abd9b6260961.svg",
-    "categories": [
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 143711,
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://kjuzv.com/g/as8wqvdyiu5af0702a2736f9c1b6c7/?erid=2bL9aMPo2e49hMef4rqUtcBfa7",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 2,
-    "couponCount": 3
-  },
-  {
     "site_url": "https://aramya.in",
     "name": "Aramya [CPS] IN",
     "img": "platform/144262.svg",
@@ -5653,81 +5728,6 @@
     },
     "discountCount": 0,
     "couponCount": 0
-  },
-  {
-    "site_url": "https://giakarsko.com/",
-    "name": "GIA KARSKO EU",
-    "img": "platform/149085.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/12/10/149085-817027590ed702f9.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 149085,
-    "category": {
-      "name": "Clothing, Footwear, Accessories",
-      "id": 64,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://ypetp.com/g/x9v9fme9zq5af0702a272e05f7a992/",
-      "landings": [
-        {
-          "id": 31423,
-          "name": "CHANEL COLLECTION",
-          "code": "3f29f69b31"
-        },
-        {
-          "id": 31422,
-          "name": "LOUIS VUITTON COLLECTION",
-          "code": "d79c61de08"
-        },
-        {
-          "id": 31456,
-          "name": "Shopping Page",
-          "code": "0b08d7bf4a"
-        },
-        {
-          "id": 31420,
-          "name": "How We Authenticate Luxury Handbags",
-          "code": "8facbca6f0"
-        },
-        {
-          "id": 31421,
-          "name": "BALENCIAGA COLLECTION",
-          "code": "b12ab49ea2"
-        },
-        {
-          "id": 31424,
-          "name": "Luxury Brand Guides",
-          "code": "801ba370d0"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 2
   },
   {
     "site_url": "https://lifestylestore.com",
