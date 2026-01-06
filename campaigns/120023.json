@@ -1,0 +1,49 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 120023,
+      "name": "mosdigitals RU",
+      "site_url": "https://mosdigitals.ru/"
+    },
+    "description": "Скидка на все курсы, кроме:\r\nLegal design\r\nExcel - тренажер\r\nЭффективные переговоры\r\n\r\nс другими скидками и акциями не суммируется",
+    "short_name": "Скидка 5%",
+    "exclusive": false,
+    "date_end": "2026-12-31T23:59:00",
+    "date_start": "2025-12-25T15:38:00",
+    "id": 893421,
+    "regions": [
+      "RU"
+    ],
+    "discount": "5%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/1/24/120023-df95e81aa3da7f05.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 22,
+        "name": "Online Education"
+      },
+      {
+        "id": 189,
+        "name": "New Year Festival 2026"
+      }
+    ],
+    "name": "Скидка 5%",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "Admitad2026",
+    "frameset_link": "",
+    "goto_link": "https://ujhjj.com/g/2c40hd3e7d5af0702a278851d86899/?i=3&erid=2bL9aMPo2e49hMef4rqyCuik3q"
+  }
+]

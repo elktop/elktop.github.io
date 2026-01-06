@@ -1,0 +1,394 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 19294,
+      "name": "VipAvenue",
+      "site_url": "https://vipavenue.ru/"
+    },
+    "description": "Актуальные акции VipAvenue: одежда, обувь и аксессуары известных брендов по специальным ценам. Все предложения — на одной странице.",
+    "short_name": "Выгода на бренды: все акции VipAvenue.",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-12-25T19:01:00",
+    "id": 893460,
+    "regions": [
+      "RU"
+    ],
+    "discount": "30%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/10/15/19294-9e3a601c403efb3d.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Выгода на бренды: все акции VipAvenue.",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRE",
+    "frameset_link": "",
+    "goto_link": "https://grfpr.com/g/r5nxg8z18o5af0702a274c1f95a56e/?i=3&erid=2bL9aMPo2e49hMef4rqyCuj5zD"
+  },
+  {
+    "status": "active",
+    "rating": "5.64",
+    "campaign": {
+      "id": 19294,
+      "name": "VipAvenue",
+      "site_url": "https://vipavenue.ru/"
+    },
+    "description": null,
+    "short_name": "Скидка 8% на все, действует и на повторный заказ.",
+    "exclusive": false,
+    "date_end": "2026-01-15T23:59:00",
+    "date_start": "2025-12-03T20:00:00",
+    "id": 889767,
+    "regions": [
+      "RU"
+    ],
+    "discount": "8%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/10/15/19294-9e3a601c403efb3d.png",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Скидка 8% на все, действует и на повторный заказ.",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "admitad",
+    "frameset_link": "",
+    "goto_link": "https://grfpr.com/g/5h8ql2cvy55af0702a274c1f95a56e/?i=3&erid=2bL9aMPo2e49hMef4rqxyvaNPB"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 19294,
+      "name": "VipAvenue",
+      "site_url": "https://vipavenue.ru/"
+    },
+    "description": "Откройте для себя модные новинки сезона осень-зима и приобретайте акционные товары из новых коллекций со скидками до 30% на VipAvenue.ru.",
+    "short_name": "Новые коллекции FW 25/26: скидки до 30% на ряд позиций!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-10-04T01:51:25",
+    "id": 878067,
+    "regions": [
+      "RU"
+    ],
+    "discount": "30%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/10/15/19294-9e3a601c403efb3d.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Новые коллекции FW 25/26: скидки до 30% на ряд позиций!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRE",
+    "frameset_link": "",
+    "goto_link": "https://grfpr.com/g/u0ogy2tl3v5af0702a274c1f95a56e/?i=3&erid=2bL9aMPo2e49hMef4rqUtgedUr"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 19294,
+      "name": "VipAvenue",
+      "site_url": "https://vipavenue.ru/"
+    },
+    "description": "При предоплате банковской картой на сайте предоставляется дополнительная скидка в размере 5% от стоимости заказа. Есть бренды исключения.",
+    "short_name": "Скидка 5% при оплате онлайн!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-08-01T17:00:00",
+    "id": 863915,
+    "regions": [
+      "RU"
+    ],
+    "discount": "5%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/10/15/19294-9e3a601c403efb3d.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Скидка 5% при оплате онлайн!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRE",
+    "frameset_link": "",
+    "goto_link": "https://grfpr.com/g/hnx120q7hr5af0702a274c1f95a56e/?i=3&erid=2bL9aMPo2e49hMef4rqUZ45pES"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 19294,
+      "name": "VipAvenue",
+      "site_url": "https://vipavenue.ru/"
+    },
+    "description": "",
+    "short_name": "Скидки до -50% на детскую коллекцию",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-10-29T23:04:02",
+    "id": 596106,
+    "regions": [
+      "RU"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/10/15/19294-9e3a601c403efb3d.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      },
+      {
+        "id": 4,
+        "name": "Shoes"
+      },
+      {
+        "id": 5,
+        "name": "Clothing"
+      },
+      {
+        "id": 10,
+        "name": "Watches & Jewelry"
+      }
+    ],
+    "name": "Скидки до -50% на детскую коллекцию",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://grfpr.com/g/qca0dltjln5af0702a274c1f95a56e/?i=3&erid=2bL9aMPo2e49hMef4pgVKRk4Sc"
+  },
+  {
+    "status": "active",
+    "rating": "6.94",
+    "campaign": {
+      "id": 19294,
+      "name": "VipAvenue",
+      "site_url": "https://vipavenue.ru/"
+    },
+    "description": "",
+    "short_name": "Скидки до -50% на мужскую коллекцию",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-10-29T23:02:56",
+    "id": 596105,
+    "regions": [
+      "RU"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/10/15/19294-9e3a601c403efb3d.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      },
+      {
+        "id": 4,
+        "name": "Shoes"
+      },
+      {
+        "id": 5,
+        "name": "Clothing"
+      },
+      {
+        "id": 10,
+        "name": "Watches & Jewelry"
+      }
+    ],
+    "name": "Скидки до -50% на мужскую коллекцию",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://grfpr.com/g/mhpdytgxnf5af0702a274c1f95a56e/?i=3&erid=2bL9aMPo2e49hMef4pgVKRk4Sb"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 19294,
+      "name": "VipAvenue",
+      "site_url": "https://vipavenue.ru/"
+    },
+    "description": "",
+    "short_name": "Скидки до -50% на женскую коллекцию",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-10-29T23:02:05",
+    "id": 596104,
+    "regions": [
+      "RU"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/10/15/19294-9e3a601c403efb3d.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      },
+      {
+        "id": 4,
+        "name": "Shoes"
+      },
+      {
+        "id": 5,
+        "name": "Clothing"
+      },
+      {
+        "id": 10,
+        "name": "Watches & Jewelry"
+      }
+    ],
+    "name": "Скидки до -50% на женскую коллекцию",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://grfpr.com/g/lr3rn08uls5af0702a274c1f95a56e/?i=3&erid=2bL9aMPo2e49hMef4pgVKRk4NL"
+  },
+  {
+    "status": "active",
+    "rating": "8.44",
+    "campaign": {
+      "id": 19294,
+      "name": "VipAvenue",
+      "site_url": "https://vipavenue.ru/"
+    },
+    "description": "",
+    "short_name": "Подпишись и получи 3000 бонусных баллов за подписку!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-10-29T22:59:40",
+    "id": 596103,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/10/15/19294-9e3a601c403efb3d.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      },
+      {
+        "id": 4,
+        "name": "Shoes"
+      },
+      {
+        "id": 5,
+        "name": "Clothing"
+      },
+      {
+        "id": 10,
+        "name": "Watches & Jewelry"
+      }
+    ],
+    "name": "Подпишись и получи 3000 бонусных баллов за подписку!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://grfpr.com/g/z2g9s82kvk5af0702a274c1f95a56e/?i=3&erid=2bL9aMPo2e49hMef4pgVKRk4NK"
+  }
+]

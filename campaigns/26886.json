@@ -1,0 +1,393 @@
+[
+  {
+    "status": "active",
+    "rating": "7.86",
+    "campaign": {
+      "id": 26886,
+      "name": "Vipfish",
+      "site_url": "https://vipfish.ru/"
+    },
+    "description": "",
+    "short_name": "Скидка 20% при заказе от 4999",
+    "exclusive": false,
+    "date_end": "2026-02-28T23:59:00",
+    "date_start": "2025-12-18T00:00:00",
+    "id": 892259,
+    "regions": [
+      "RU"
+    ],
+    "discount": "20%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/12/20/26886-8297124a3607c947.png",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      },
+      {
+        "id": 189,
+        "name": "New Year Festival 2026"
+      }
+    ],
+    "name": "Скидка 20% при заказе от 4999",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ADMITNY",
+    "frameset_link": "https://dorinebeaumont.com/coupon/0ixdq0ylun5af0702a2794cf89477e/?erid=2bL9aMPo2e49hMef4rqy6YbBQv",
+    "goto_link": "https://dorinebeaumont.com/g/f8e5enhcab5af0702a2794cf89477e/?i=3&erid=2bL9aMPo2e49hMef4rqy6YbBQv"
+  },
+  {
+    "status": "active",
+    "rating": "3.99",
+    "campaign": {
+      "id": 26886,
+      "name": "Vipfish",
+      "site_url": "https://vipfish.ru/"
+    },
+    "description": "",
+    "short_name": "Запеченный ролл с угрем и сливочным сыром в подарок от 3999 руб.",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-04-15T16:32:12",
+    "id": 846436,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/12/20/26886-8297124a3607c947.png",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Запеченный ролл с угрем и сливочным сыром в подарок от 3999 руб.",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ADMCHEESE",
+    "frameset_link": "https://dorinebeaumont.com/coupon/uf11zt4oxn5af0702a2794cf89477e/?erid=2bL9aMPo2e49hMef4rqU6rTWPc",
+    "goto_link": "https://dorinebeaumont.com/g/p70z81lm2c5af0702a2794cf89477e/?i=3&erid=2bL9aMPo2e49hMef4rqU6rTWPc"
+  },
+  {
+    "status": "active",
+    "rating": "6.58",
+    "campaign": {
+      "id": 26886,
+      "name": "Vipfish",
+      "site_url": "https://vipfish.ru/"
+    },
+    "description": "",
+    "short_name": "Запеченный ролл с угрем и сливочным сыром в подарок от 3999 руб.",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-04-15T16:31:49",
+    "id": 846435,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/12/20/26886-8297124a3607c947.png",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Запеченный ролл с угрем и сливочным сыром в подарок от 3999 руб.",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ADMNG",
+    "frameset_link": "https://dorinebeaumont.com/coupon/s7i1270al05af0702a2794cf89477e/?erid=2bL9aMPo2e49hMef4rqU6rTWPb",
+    "goto_link": "https://dorinebeaumont.com/g/ku4xcnexhr5af0702a2794cf89477e/?i=3&erid=2bL9aMPo2e49hMef4rqU6rTWPb"
+  },
+  {
+    "status": "active",
+    "rating": "2.34",
+    "campaign": {
+      "id": 26886,
+      "name": "Vipfish",
+      "site_url": "https://vipfish.ru/"
+    },
+    "description": "",
+    "short_name": "Запеченный ролл с угрем и сливочным сыром в подарок от 3999 руб.",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-04-15T16:29:37",
+    "id": 846434,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/12/20/26886-8297124a3607c947.png",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Запеченный ролл с угрем и сливочным сыром в подарок от 3999 руб.",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ADMCFL",
+    "frameset_link": "https://dorinebeaumont.com/coupon/snqx3i1qu55af0702a2794cf89477e/?erid=2bL9aMPo2e49hMef4rqU6rTWPa",
+    "goto_link": "https://dorinebeaumont.com/g/xf8ky4vdwo5af0702a2794cf89477e/?i=3&erid=2bL9aMPo2e49hMef4rqU6rTWPa"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 26886,
+      "name": "Vipfish",
+      "site_url": "https://vipfish.ru/"
+    },
+    "description": "",
+    "short_name": "Запеченный ролл с угрем и сливочным сыром в подарок от 3999 руб.",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-10-22T16:48:40",
+    "id": 804590,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/12/20/26886-8297124a3607c947.png",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Запеченный ролл с угрем и сливочным сыром в подарок от 3999 руб.",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "FMNG",
+    "frameset_link": "https://dorinebeaumont.com/coupon/nqjxr5a37x5af0702a2794cf89477e/?erid=2bL9aMPo2e49hMef4piUHWMWXd",
+    "goto_link": "https://dorinebeaumont.com/g/ae1izo11825af0702a2794cf89477e/?i=3&erid=2bL9aMPo2e49hMef4piUHWMWXd"
+  },
+  {
+    "status": "active",
+    "rating": "6.84",
+    "campaign": {
+      "id": 26886,
+      "name": "Vipfish",
+      "site_url": "https://vipfish.ru/"
+    },
+    "description": "",
+    "short_name": "Миниролл с лососем при заказе от 2799!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-04-23T19:31:45",
+    "id": 749739,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/12/20/26886-8297124a3607c947.png",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Миниролл с лососем при заказе от 2799!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "SALMON",
+    "frameset_link": "https://dorinebeaumont.com/coupon/823oht2xc65af0702a2794cf89477e/?erid=2bL9aMPo2e49hMef4phyQ8R7Ww",
+    "goto_link": "https://dorinebeaumont.com/g/2nwck4f8sc5af0702a2794cf89477e/?i=3&erid=2bL9aMPo2e49hMef4phyQ8R7Ww"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 26886,
+      "name": "Vipfish",
+      "site_url": "https://vipfish.ru/"
+    },
+    "description": "",
+    "short_name": "Запеченный ролл с угрем и сливочным сыром в подарок от 3999 руб.",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-01-15T12:58:44",
+    "id": 624650,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/12/20/26886-8297124a3607c947.png",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Запеченный ролл с угрем и сливочным сыром в подарок от 3999 руб.",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ADMFIRST",
+    "frameset_link": "https://dorinebeaumont.com/coupon/qo092he1sq5af0702a2794cf89477e/?erid=2bL9aMPo2e49hMef4pgyyVJvSj",
+    "goto_link": "https://dorinebeaumont.com/g/2vwg1q6o915af0702a2794cf89477e/?i=3&erid=2bL9aMPo2e49hMef4pgyyVJvSj"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 26886,
+      "name": "Vipfish",
+      "site_url": "https://vipfish.ru/"
+    },
+    "description": "",
+    "short_name": "Запеченный ролл угрем и сливочным сыром в подарок от 3999 руб.",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-11-24T13:51:29",
+    "id": 605832,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/12/20/26886-8297124a3607c947.png",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Запеченный ролл угрем и сливочным сыром в подарок от 3999 руб.",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "SHRIMPLOVE",
+    "frameset_link": "https://dorinebeaumont.com/coupon/4jh7aigwrt5af0702a2794cf89477e/?erid=2bL9aMPo2e49hMef4pgVYYJi5E",
+    "goto_link": "https://dorinebeaumont.com/g/aojds232e85af0702a2794cf89477e/?i=3&erid=2bL9aMPo2e49hMef4pgVYYJi5E"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 26886,
+      "name": "Vipfish",
+      "site_url": "https://vipfish.ru/"
+    },
+    "description": "",
+    "short_name": "Ролл Калифорния в подарок при заказе от 3999р",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-02-27T00:00:00",
+    "id": 464173,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/12/20/26886-8297124a3607c947.png",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Ролл Калифорния в подарок при заказе от 3999р",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ADMSTART",
+    "frameset_link": "https://dorinebeaumont.com/coupon/vfxi9xifyf5af0702a2794cf89477e/?erid=2bL9aMPo2e49hMef4peznUZR2E",
+    "goto_link": "https://dorinebeaumont.com/g/7j09vdn29i5af0702a2794cf89477e/?i=3&erid=2bL9aMPo2e49hMef4peznUZR2E"
+  }
+]

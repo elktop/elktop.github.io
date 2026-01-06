@@ -1,0 +1,147 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 38150,
+      "name": "Iherb.group",
+      "site_url": "https://iherbgroup.ru"
+    },
+    "description": "Система подсчитывает общую сумму Ваших заказов и автоматически делает скидку\r\n\r\n 10 000 рублей - скидка 1% \r\n 30 000 рублей - скидка 2% \r\n 50 000 рублей - скидка 3% \r\n 100 000 рублей - скидка 4%\r\nПоэтому объединяйтесь с друзьями, делайте большие заказы и получайте максимальные скидки",
+    "short_name": "Акция \"Накопительная скидка\"! Чем больше сумма заказов, тем больше скидка!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-12-29T15:01:00",
+    "id": 586596,
+    "regions": [
+      "RU"
+    ],
+    "discount": "4%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/1/23/38150-a8b3c61d705ecb4d.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 1,
+        "name": "Toys, Kids & Babies"
+      },
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      },
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Акция \"Накопительная скидка\"! Чем больше сумма заказов, тем больше скидка!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://xnmik.com/coupon/jyu8ou3msk5af0702a2762343b7806/?erid=2bL9aMPo2e49hMef4pgV6R7MUx",
+    "goto_link": "https://xnmik.com/g/nso71fje7x5af0702a2762343b7806/?i=3&erid=2bL9aMPo2e49hMef4pgV6R7MUx"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 38150,
+      "name": "Iherb.group",
+      "site_url": "https://iherbgroup.ru"
+    },
+    "description": "За каждую покупку мы возвращаем Вам на счет 1% от стоимости заказа\r\n\r\nЭти деньги Вы сможете потратить при следующем заказе\r\n\r\nНакопленную сумму Вы можете увидеть в личном кабинете, раздел Партнерская программа",
+    "short_name": "Акция \"Возвращаем деньги на Ваш счет\"",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-12-29T15:00:00",
+    "id": 558700,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/1/23/38150-a8b3c61d705ecb4d.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      },
+      {
+        "id": 6,
+        "name": "Sports & Recreation"
+      }
+    ],
+    "name": "Акция \"Возвращаем деньги на Ваш счет\"",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://xnmik.com/coupon/v0ulzoq6ps5af0702a2762343b7806/?erid=2bL9aMPo2e49hMef4pgUXbZwZz",
+    "goto_link": "https://xnmik.com/g/5ft32n0ilj5af0702a2762343b7806/?i=3&erid=2bL9aMPo2e49hMef4pgUXbZwZz"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 38150,
+      "name": "Iherb.group",
+      "site_url": "https://iherbgroup.ru"
+    },
+    "description": "",
+    "short_name": "До конца месяца бесплатная доставка при заказе от 30 тыс. руб!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-12-29T15:00:00",
+    "id": 558699,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/1/23/38150-a8b3c61d705ecb4d.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      },
+      {
+        "id": 6,
+        "name": "Sports & Recreation"
+      }
+    ],
+    "name": "До конца месяца бесплатная доставка при заказе от 30 тыс. руб!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://xnmik.com/coupon/847x6hnbqc5af0702a2762343b7806/?erid=2bL9aMPo2e49hMef4pgUXbZwZy",
+    "goto_link": "https://xnmik.com/g/h9gxdp3q335af0702a2762343b7806/?i=3&erid=2bL9aMPo2e49hMef4pgUXbZwZy"
+  }
+]

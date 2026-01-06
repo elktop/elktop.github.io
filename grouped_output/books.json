@@ -2,8 +2,11 @@
   {
     "id": 26337,
     "name": "Legimi PL",
+    "name_aliases": "legim,elgim,legmi,lgmi,egim.",
+    "site_url": "https://www.legimi.pl/",
+    "description": "Legimi PL Affiliate Program\r\nLegimi specializes in subscription access to e-books and audiobooks, analogous to Spotify or Netflix known from other industries.\r\nBook lovers have 60,000 titles at their disposal and the service can be tested for free. Legimi's greatest strengths include:\r\n\r\nConvenient access to the best Polish books (news and bestsellers), most often on the day of their market premiere\r\n\r\nAvailability of the service on up to 4 devices under one account on various devices - smartphones, tablets, readers (including Kindle) and computers\r\n\r\n· The ability to freely switch between text and audio mode\r\n\r\nUnique e-book reader offer for PLN 1, combined with a subscription to e-books and audiobooks\r\n\r\n \r\n\r\n\r\n ",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/29/26337-0aac8d0470ecd307.svg",
-    "img": "platform/26337.svg",
     "categories": [
       {
         "name": "Books",
@@ -23,6 +26,12 @@
         "parent": null
       }
     ],
+    "img": "platform/26337.svg",
+    "affiliate": {
+      "goto_link": "https://ad.admitad.com/g/7jgt22chgb5af0702a27ad50618815/",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Books",
       "id": 70,
@@ -38,8 +47,11 @@
   {
     "id": 41597,
     "name": "MyHeritage DNA WW",
+    "name_aliases": "MyHeritage, My Heritage, my heritage, MYHERITAGE, dna",
+    "site_url": "https://www.myheritage.com/",
+    "description": "Looking for a meaningful gift this Black Friday? Give the gift of discovering your roots with the MyHeritage DNA test.\r\n\r\nA simple cheek swab is all it takes to unlock fascinating details about your ancestry and potentially connect with relatives from over 2,100 regions worldwide. Imagine finding long-lost family members or learning something new about where you come from!\r\n\r\nAlong with the DNA test, you’ll get a 30-day free trial of MyHeritage’s family history subscription. This gives you access to powerful tools for building your family tree, exploring over 21 billion historical records, and using AI to bring your family photos to life.\r\n\r\nThis holiday season, MyHeritage DNA is on sale, and you can save even more with the code ADMIT10 for free shipping!",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/11/18/41597-5bf4ef2b3fe781fa.svg",
-    "img": "platform/41597.svg",
     "categories": [
       {
         "name": "Online stores",
@@ -65,6 +77,18 @@
         "parent": null
       }
     ],
+    "img": "platform/41597.svg",
+    "affiliate": {
+      "goto_link": "https://naiawork.com/g/kmz7w822uc5af0702a27e403a0fd30/",
+      "landings": [
+        {
+          "id": 29559,
+          "name": "MyHeritage Genealogy package FR",
+          "code": "c38cef33ea"
+        }
+      ],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Books",
       "id": 70,
@@ -80,8 +104,11 @@
   {
     "id": 42158,
     "name": "Ridmi UA",
+    "name_aliases": "ридми, рыдмы, рідмі, ridmi, hslvs, hblvb",
+    "site_url": "https://ridmi.com.ua/",
+    "description": "Книжковий інтернет-магазин RIDMI, працюємо на книжковому ринку України з 2018 року. За цей час нашими клієнтами стали тисячі жителів країни.\r\n\r\nМи регулярно відстежуємо новинки, щоб радувати читачів. Місія книжкового інтернет-магазину RIDMI — надавати сучасній людині потрібну, корисну та актуальну інформацію з потрібних тем. \r\n\r\nНаш ассортимент налічує:\r\n ⁃ Понад 10000 паперових книг;\r\n ⁃ Понад 4000 електронних книг;\r\n ⁃ До 1000 журналів.",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/10/17/42158-3f1937c76eda253a.svg",
-    "img": "platform/42158.svg",
     "categories": [
       {
         "name": "Online stores",
@@ -113,6 +140,12 @@
         "parent": null
       }
     ],
+    "img": "platform/42158.svg",
+    "affiliate": {
+      "goto_link": "https://xnmik.com/g/d23nmwjwa85af0702a27dc1723da5b/",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Books",
       "id": 70,
@@ -128,8 +161,11 @@
   {
     "id": 91854,
     "name": "Gramedia [CPS] ID",
+    "name_aliases": "Grameida, Gramdemia",
+    "site_url": "https://www.gramedia.com/",
+    "description": "Brief profile of your company: Online Bookstore\r\n\r\nNegative keywords: cigarettes, gambling, pornography, violence, weapons, liquor, narcotics\r\n\r\nBenefits for customers: There is a wide variety of products and also discounts from each product; User could pick up the book at the bookstore\r\n\r\nTarget audience portrait:\r\n\r\n\r\n\tGender: Male/Female\r\n\tAge: 15-60 YO\r\n\tInterest: Books, Travel, E-sport, urban & modern art, health food, entrepreneurship & business, technology, Men's Apparel, Women's Apparel\r\n\tOccupation: Student, Professional, Housewife\r\n\r\n\r\nPopular products:  Novel and comic book\r\n\r\nBrand positioning tips:  As one of biggest and most well known bookstore in Indonesia, Gramedia's brand positioning centers around being a trusted and comprehensive destination for books, stationery, and cultural products in Indonesia",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/3/15/91854-00fab9a98c884cd7.svg",
-    "img": "platform/91854.svg",
     "categories": [
       {
         "name": "Books",
@@ -149,6 +185,12 @@
         "parent": null
       }
     ],
+    "img": "platform/91854.svg",
+    "affiliate": {
+      "goto_link": "https://rzekl.com/g/igkeriuzix5af0702a276ff26f9838/",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Books",
       "id": 70,
@@ -164,8 +206,11 @@
   {
     "id": 128889,
     "name": "Litgorod RU",
+    "name_aliases": "litgorod, литгород, дшепщкщв, kbnujhjl, книги, rybub",
+    "site_url": "https://litgorod.ru",
+    "description": "Litgorod.ru — литературный портал для тех, кто читает, пишет и ищет вдохновение\r\n\r\nЛитГород — это уютная онлайн-платформа для чтения и общения, объединяющая, в основном, поклонников жанра фэнтези и его поджанров. На ЛитГороде представлен большой каталог книг, который постоянно пополняется, а также действует активное комьюнити, где пользователи находят поддержку, вдохновение и возможность обсуждать прочитанное.\r\n\r\nПреимущества для пользователей:\r\n\r\n\r\n\tБолее 48 000 книг в разных жанрах,  преимущественно фэнтези и ромфант\r\n\tУютная, ламповая атмосфера и активное комьюнити единомышленников\r\n\tВозможность читать и комментировать по главам\r\n\tВозможность читать книги без регистрации\r\n\tИнтуитивный интерфейс, адаптированный под мобильные устройства\r\n\tПлатформа не только для чтения, но и для общения и самовыражения\r\n\tСобственный профиль, библиотека, рекомендации и подписки на любимых авторов\r\n\tПерсонализированные подборки книг для каждого пользователя\r\n\tРегулярные акции, розыгрыши в соцсетях и конкурсные подборки\r\n\r\n\r\nЦелевая аудитория:\r\n\r\n\r\n\tЖенщины 25–50 лет, основное ядро — 35–45 лет\r\n\tЖители крупных городов России\r\n\tРаботающие, часто совмещающие профессиональные и семейные обязанности\r\n\tИнтересуются домом, семьей, готовкой, украшениями, садоводством\r\n\tКниги — как способ отвлечься, расслабиться и пообщаться\r\n\r\n\r\nПопулярные жанры:\r\n\r\n\r\n\tСовременный любовный роман\r\n\tФэнтезийный любовный роман\r\n\tМолодежная проза\r\n\tЛитРПГ\r\n\tДетективы и триллеры\r\n\r\n\r\nРекомендации по позиционированию бренда:\r\n\r\n\r\n\tДелать акцент на уют, комфорт и близость: наш Литгород, \r\n\tПодчеркивать коммьюнити как основное отличие: не просто библиотека, а место встречи\r\n\tУпоминать вовлекающие функции платформы: комментарии, подборки\r\n\tПродвигать образ «города друзей по интересам», а не анонимного цифрового архива\r\n\tВыделять фэнтези и ромфант как основное, но не единственное направление\r\n\r\n\r\nПодходящие формулировки для рекламы и партнерских размещений:\r\n\r\n\r\n\t«Литгород — уютный портал для тех, кто любит фэнтези и душевные разговоры»\r\n\t«Тысячи историй. Тысячи голосов. Один Литгород»\r\n\t«Читайте, делитесь, обсуждайте — это ваш Литгород»\r\n\t«Литгород — ваше место силы»\r\n\t«Литгород — уютный, удобный, наш\r\n\r\n\r\nВеб-мастерам следует делать акцент на \r\n\r\n\r\n\tИнтерактивность платформы\r\n\tПерсонализированные подборки, создающие эффект заботы и вовлеченности\r\n\tКоммьюнити и возможность общения — не только с авторами, но и с другими читателями\r\n\tРазнообразие жанров с фокусом на ромфэнтези как «домашнем» жанре для женской аудитории\r\n\tУютную атмосферу: минимализм, тепло, визуальный комфорт\r\n\r\n\r\n \r\n\r\nBRAINSTORM SUMMARY 09/06\r\n\r\n\r\n\t\r\n\tЦА Литгорода: 25-50; ядро 35-45 лет; преимущественно крупные города по всей России; преимущественно женщины, работают. Сфера интересов: семья, готовка, быт, украшения; садоводство; книги как способ отвлечься, приходит на Литгород чтобы пообщаться с единомышленниками, высказаться.\r\n\t\r\n\t\r\n\tКатегория — площадка фэнтезийных жанров и ромфэнтези в преимуществе (в отличие от ЛН — большой каталог самых различных жанров);\r\n\t\r\n\t\r\n\tНастроения: уютный, комфортный, ламповый, коммьюнити, семья. Раньше было: уютный, удобный, наш\r\n\t\r\n\t\r\n\tЛГ про прямое взаимодействие с читателем: возможность комментирования и награды авторам по главам, персонализированные подборки пользователей (увеличение вовлеченности пользователя в портал)\r\n\t\r\n\t\r\n\tЛГ как площадка для общения читателей и любителей ромфанта (не читателя и автора); \r\n\t\r\n\t\r\n\t48 тыс книг (десятки тысяч книг; тысячи книг)\r\n\t\r\n\t\r\n\tГлавное обещание продукта: уютное пространство для общения с единомышленниками и отдыха с электронной книгой (всегда под рукой);\r\n\t\r\n\t\r\n\tГлавное эмоциональное обещание: место, где можно быть услышанным;  принадлежность к коммьюнити Литгорода; единение с площадкой; читатель как полноценный участник сообщества,  мнение которого имеет значение; Литгород как место для отдыха.\r\n\t\r\n\t\r\n\tКонкурентное отличие:  самая динамично меняющаяся площадка в сегменте ромфанта; самое большое кол-во авторов жанра ежедневно на сайте; самая быстрая выкладка новой главы без долгой модерации\r\n\t\r\n\r\n\r\nТОВ: обращение на вы, уважительная коммуникация, менее формальная; вординг: дружелюбная лексика, уют (плед, шарфики и тд), тепло, подруги, принятие, обнимаем/с любовью, забота \r\n\r\nФайл с запрещенными ключами для контекста и соц сетей (В файле две вкладки: бренд и авторы) \r\n\r\n \r\n\r\nДля вебмастеров:\r\n\r\nРучная сверка раз в месяц.\r\n\r\nМодерация вебмастеров 2 раза в неделю.\r\n\r\nНе выдают промокоды\r\n\r\nДанные об ОРД. Код ККТУ: 6.1.1\r\n\r\n ",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/5/28/128889-2ad9e54782181a9c.svg",
-    "img": "platform/128889.svg",
     "categories": [
       {
         "name": "Online stores",
@@ -185,6 +230,12 @@
         }
       }
     ],
+    "img": "platform/128889.svg",
+    "affiliate": {
+      "goto_link": "https://tywhh.com/g/fetm0gi4uc5af0702a279d6bdd994b/?erid=2bL9aMPo2e49hMef4rqUKjfwY8",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Books",
       "id": 70,
@@ -200,8 +251,11 @@
   {
     "id": 142763,
     "name": "Stories of Bible AU CA UK US",
+    "name_aliases": "Bible: Made Simple",
+    "site_url": "https://storiesofbible.com/",
+    "description": "Make the whole Bible click in minutes, not months. The Bible: Made Simple bundles Old Testament: Made Simple and New Testament: Made Simple into a visual-first study set that turns 66 books into an easy, engaging journey.\r\n\r\nEvery page is built for how people learn today, lists, outlines, timelines, maps, tables, and illustrated charts, so readers can see the big picture at a glance and then zoom into key moments fast. Instead of dense commentary, the guides use clear visuals, plain-language summaries, and verse references placed at the bottom of each narrative section for quick lookup.\r\n\r\nIdeal for visual learners, parents, pastors, and small-group leaders. Use either book with reading plans, for lesson or sermon prep, homeschool, or youth nights. Outcome: quicker understanding, confident navigation, and practical application without dense commentary.",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/9/16/142763-97755456c52de18f.svg",
-    "img": "platform/142763.svg",
     "categories": [
       {
         "name": "Books",
@@ -227,6 +281,12 @@
         "parent": null
       }
     ],
+    "img": "platform/142763.svg",
+    "affiliate": {
+      "goto_link": "https://wpmsx.com/g/xumlv2063u5af0702a27dc97fa2161/",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Books",
       "id": 70,

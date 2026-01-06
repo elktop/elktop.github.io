@@ -1,0 +1,1038 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 44243,
+      "name": "Eduson.academy",
+      "site_url": "https://eduson.academy/"
+    },
+    "description": "Скидка для всех пользователей и суммируется с другими скидками на сайте. Для активации необходимо ввести промокод при оформлении заявки на сайте или назвать менеджеру",
+    "short_name": "Дополнительная скидка 10% на все курсы!",
+    "exclusive": false,
+    "date_end": "2026-01-11T23:59:00",
+    "date_start": "2025-12-25T00:00:00",
+    "id": 893415,
+    "regions": [
+      "RU"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/10/31/44243-73ca961299a8ff94.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 22,
+        "name": "Online Education"
+      }
+    ],
+    "name": "Дополнительная скидка 10% на все курсы!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NY2026",
+    "frameset_link": "",
+    "goto_link": "https://yknhc.com/g/d2o4l27xmn5af0702a277e0a786efe/?i=3&erid=2bL9aMPo2e49hMef4rqyCuiR2K"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 44243,
+      "name": "Eduson.academy",
+      "site_url": "https://eduson.academy/"
+    },
+    "description": "для всех пользователей\r\nсуммируется с другими скидками\r\nможно ввести при оформлении заявки или назвать менеджеру",
+    "short_name": "Дополнительная скидка 5% на все курсы!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-04-12T13:08:26",
+    "id": 684954,
+    "regions": [
+      "RU"
+    ],
+    "discount": "5%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/10/31/44243-73ca961299a8ff94.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 137,
+        "name": "Ed+Fun Festival 2023"
+      }
+    ],
+    "name": "Дополнительная скидка 5% на все курсы!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ADMITAD",
+    "frameset_link": "",
+    "goto_link": "https://yknhc.com/g/e054ji3ymu5af0702a277e0a786efe/?i=3&erid=5jtCeReNwxHpfQTHQN2X887"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 44243,
+      "name": "Eduson.academy",
+      "site_url": "https://eduson.academy/"
+    },
+    "description": "",
+    "short_name": "Курс “Продюсер онлайн-курсов” со скидкой 65%",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-04-12T13:07:41",
+    "id": 684953,
+    "regions": [
+      "AM",
+      "AZ",
+      "BY",
+      "KZ",
+      "RU",
+      "TJ",
+      "TM",
+      "UZ"
+    ],
+    "discount": "65%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/10/31/44243-73ca961299a8ff94.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 22,
+        "name": "Online Education"
+      }
+    ],
+    "name": "Курс “Продюсер онлайн-курсов” со скидкой 65%",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://yknhc.com/g/kyt46cquag5af0702a277e0a786efe/?i=3&erid=5jtCeReNwxHpfQTHQN2X886"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 44243,
+      "name": "Eduson.academy",
+      "site_url": "https://eduson.academy/"
+    },
+    "description": "",
+    "short_name": "Курс “MBA: Лидерство” со скидкой 65%",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-04-12T13:07:10",
+    "id": 684952,
+    "regions": [
+      "AM",
+      "AZ",
+      "BY",
+      "KZ",
+      "RU",
+      "TJ",
+      "TM",
+      "UZ"
+    ],
+    "discount": "65%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/10/31/44243-73ca961299a8ff94.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 22,
+        "name": "Online Education"
+      }
+    ],
+    "name": "Курс “MBA: Лидерство” со скидкой 65%",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://yknhc.com/g/9uv3wt76d25af0702a277e0a786efe/?i=3&erid=5jtCeReNwxHpfQTHQN2X885"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 44243,
+      "name": "Eduson.academy",
+      "site_url": "https://eduson.academy/"
+    },
+    "description": "",
+    "short_name": "Курс “MBA: Управление маркетингом” со скидкой 55%",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-04-12T13:06:38",
+    "id": 684951,
+    "regions": [
+      "AM",
+      "AZ",
+      "BY",
+      "KZ",
+      "RU",
+      "TJ",
+      "TM",
+      "UZ"
+    ],
+    "discount": "55%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/10/31/44243-73ca961299a8ff94.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 22,
+        "name": "Online Education"
+      }
+    ],
+    "name": "Курс “MBA: Управление маркетингом” со скидкой 55%",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://yknhc.com/g/rn7k2fafmy5af0702a277e0a786efe/?i=3&erid=5jtCeReNwxHpfQTHQN2X884"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 44243,
+      "name": "Eduson.academy",
+      "site_url": "https://eduson.academy/"
+    },
+    "description": "",
+    "short_name": "Курс “MBA: Управление персоналом” со скидкой 60%",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-04-12T13:05:26",
+    "id": 684949,
+    "regions": [
+      "AM",
+      "AZ",
+      "BY",
+      "KZ",
+      "RU",
+      "TJ",
+      "TM",
+      "UZ"
+    ],
+    "discount": "60%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/10/31/44243-73ca961299a8ff94.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 22,
+        "name": "Online Education"
+      }
+    ],
+    "name": "Курс “MBA: Управление персоналом” со скидкой 60%",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://yknhc.com/g/q0hvqj7r4o5af0702a277e0a786efe/?i=3&erid=5jtCeReNwxHpfQTHQN2X882"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 44243,
+      "name": "Eduson.academy",
+      "site_url": "https://eduson.academy/"
+    },
+    "description": "",
+    "short_name": "Курс “Управление в кризис” со скидкой 65%",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-04-12T13:03:17",
+    "id": 684948,
+    "regions": [
+      "AM",
+      "AZ",
+      "BY",
+      "KZ",
+      "RU",
+      "TJ",
+      "TM",
+      "UZ"
+    ],
+    "discount": "65%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/10/31/44243-73ca961299a8ff94.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 22,
+        "name": "Online Education"
+      }
+    ],
+    "name": "Курс “Управление в кризис” со скидкой 65%",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://yknhc.com/g/kjn72itudc5af0702a277e0a786efe/?i=3&erid=5jtCeReNwxHpfQTHQN2X881"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 44243,
+      "name": "Eduson.academy",
+      "site_url": "https://eduson.academy/"
+    },
+    "description": "",
+    "short_name": "Курс “Soft skills для женщин-лидеров” со скидкой 65%",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-04-12T13:02:27",
+    "id": 684947,
+    "regions": [
+      "AM",
+      "AZ",
+      "BY",
+      "KZ",
+      "RU",
+      "TJ",
+      "TM",
+      "UZ"
+    ],
+    "discount": "65%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/10/31/44243-73ca961299a8ff94.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 22,
+        "name": "Online Education"
+      }
+    ],
+    "name": "Курс “Soft skills для женщин-лидеров” со скидкой 65%",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://yknhc.com/g/xckkd3eo6k5af0702a277e0a786efe/?i=3&erid=5jtCeReNwxHpfQTHQN2X87z"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 44243,
+      "name": "Eduson.academy",
+      "site_url": "https://eduson.academy/"
+    },
+    "description": "",
+    "short_name": "Курс “Директор по продажам” со скидкой 65%",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-04-12T13:00:57",
+    "id": 684946,
+    "regions": [
+      "AM",
+      "AZ",
+      "BY",
+      "KZ",
+      "RU",
+      "TJ",
+      "TM",
+      "UZ"
+    ],
+    "discount": "65%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/10/31/44243-73ca961299a8ff94.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 22,
+        "name": "Online Education"
+      }
+    ],
+    "name": "Курс “Директор по продажам” со скидкой 65%",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://yknhc.com/g/35nh18gxu75af0702a277e0a786efe/?i=3&erid=5jtCeReNwxHpfQTHQN2X83i"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 44243,
+      "name": "Eduson.academy",
+      "site_url": "https://eduson.academy/"
+    },
+    "description": "",
+    "short_name": "Курс “IT-рекрутер” со скидкой 60%",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-04-12T13:00:21",
+    "id": 684945,
+    "regions": [
+      "AM",
+      "AZ",
+      "BY",
+      "KZ",
+      "RU",
+      "TJ",
+      "TM",
+      "UZ"
+    ],
+    "discount": "60%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/10/31/44243-73ca961299a8ff94.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 22,
+        "name": "Online Education"
+      }
+    ],
+    "name": "Курс “IT-рекрутер” со скидкой 60%",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://yknhc.com/g/8sjqqiji0p5af0702a277e0a786efe/?i=3&erid=5jtCeReNwxHpfQTHQN2X83h"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 44243,
+      "name": "Eduson.academy",
+      "site_url": "https://eduson.academy/"
+    },
+    "description": "",
+    "short_name": "Курс “Финансовый аналитик” со скидкой 65%",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-04-12T12:59:50",
+    "id": 684944,
+    "regions": [
+      "AM",
+      "AZ",
+      "BY",
+      "KZ",
+      "RU",
+      "TJ",
+      "TM",
+      "UZ"
+    ],
+    "discount": "65%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/10/31/44243-73ca961299a8ff94.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 22,
+        "name": "Online Education"
+      }
+    ],
+    "name": "Курс “Финансовый аналитик” со скидкой 65%",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://yknhc.com/g/tpui5sjx0h5af0702a277e0a786efe/?i=3&erid=5jtCeReNwxHpfQTHQN2X83g"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 44243,
+      "name": "Eduson.academy",
+      "site_url": "https://eduson.academy/"
+    },
+    "description": "",
+    "short_name": "Курс “MBA Эксперт: Управление финансами” со скидкой 65%",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-04-12T12:58:56",
+    "id": 684942,
+    "regions": [
+      "AM",
+      "AZ",
+      "BY",
+      "KZ",
+      "RU",
+      "TJ",
+      "TM",
+      "UZ"
+    ],
+    "discount": "65%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/10/31/44243-73ca961299a8ff94.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 22,
+        "name": "Online Education"
+      }
+    ],
+    "name": "Курс “MBA Эксперт: Управление финансами” со скидкой 65%",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://yknhc.com/g/kka5ndv0ee5af0702a277e0a786efe/?i=3&erid=5jtCeReNwxHpfQTHQN2X83e"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 44243,
+      "name": "Eduson.academy",
+      "site_url": "https://eduson.academy/"
+    },
+    "description": "",
+    "short_name": "Курс “Директор по экономике и финансам” со скидкой 65%",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-04-12T12:58:16",
+    "id": 684941,
+    "regions": [
+      "AM",
+      "AZ",
+      "BY",
+      "KZ",
+      "RU",
+      "TJ",
+      "TM",
+      "UZ"
+    ],
+    "discount": "65%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/10/31/44243-73ca961299a8ff94.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 22,
+        "name": "Online Education"
+      }
+    ],
+    "name": "Курс “Директор по экономике и финансам” со скидкой 65%",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://yknhc.com/g/rablt05j4k5af0702a277e0a786efe/?i=3&erid=5jtCeReNwxHpfQTHQN2X83d"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 44243,
+      "name": "Eduson.academy",
+      "site_url": "https://eduson.academy/"
+    },
+    "description": "",
+    "short_name": "Курс “Инструменты аналитики” со скидкой 65%",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-04-12T12:57:47",
+    "id": 684940,
+    "regions": [
+      "AM",
+      "AZ",
+      "BY",
+      "KZ",
+      "RU",
+      "TJ",
+      "TM",
+      "UZ"
+    ],
+    "discount": "65%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/10/31/44243-73ca961299a8ff94.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 22,
+        "name": "Online Education"
+      }
+    ],
+    "name": "Курс “Инструменты аналитики” со скидкой 65%",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://yknhc.com/g/nal2ysfst85af0702a277e0a786efe/?i=3&erid=5jtCeReNwxHpfQTHQN2X83c"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 44243,
+      "name": "Eduson.academy",
+      "site_url": "https://eduson.academy/"
+    },
+    "description": "",
+    "short_name": "Курс “Директор по обучению персонала” со скидкой 60%",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-04-12T12:56:18",
+    "id": 684938,
+    "regions": [
+      "AM",
+      "AZ",
+      "BY",
+      "KZ",
+      "RU",
+      "TJ",
+      "TM",
+      "UZ"
+    ],
+    "discount": "60%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/10/31/44243-73ca961299a8ff94.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 22,
+        "name": "Online Education"
+      }
+    ],
+    "name": "Курс “Директор по обучению персонала” со скидкой 60%",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://yknhc.com/g/wjhvop3wib5af0702a277e0a786efe/?i=3&erid=5jtCeReNwxHpfQTHQN2X83a"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 44243,
+      "name": "Eduson.academy",
+      "site_url": "https://eduson.academy/"
+    },
+    "description": "",
+    "short_name": "Курс “Инженер по тестированию” со скидкой 65%",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-04-12T12:55:39",
+    "id": 684937,
+    "regions": [
+      "AM",
+      "AZ",
+      "BY",
+      "KZ",
+      "RU",
+      "TJ",
+      "TM",
+      "UZ"
+    ],
+    "discount": "65%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/10/31/44243-73ca961299a8ff94.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 22,
+        "name": "Online Education"
+      }
+    ],
+    "name": "Курс “Инженер по тестированию” со скидкой 65%",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://yknhc.com/g/m5oqr33vq75af0702a277e0a786efe/?i=3&erid=5jtCeReNwxHpfQTHQN2X83Z"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 44243,
+      "name": "Eduson.academy",
+      "site_url": "https://eduson.academy/"
+    },
+    "description": "",
+    "short_name": "Курс “Тестировщик ПО” со скидкой 65%",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-04-12T12:54:50",
+    "id": 684936,
+    "regions": [
+      "AM",
+      "AZ",
+      "BY",
+      "KZ",
+      "RU",
+      "TJ",
+      "TM",
+      "UZ"
+    ],
+    "discount": "65%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/10/31/44243-73ca961299a8ff94.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 22,
+        "name": "Online Education"
+      }
+    ],
+    "name": "Курс “Тестировщик ПО” со скидкой 65%",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://yknhc.com/g/80v2w75fp75af0702a277e0a786efe/?i=3&erid=5jtCeReNwxHpfQTHQN2X7yJ"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 44243,
+      "name": "Eduson.academy",
+      "site_url": "https://eduson.academy/"
+    },
+    "description": "",
+    "short_name": "Практический курс “Frontend-разработчик” со скидкой 65%",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-04-12T12:54:14",
+    "id": 684934,
+    "regions": [
+      "AM",
+      "AZ",
+      "BY",
+      "KZ",
+      "RU",
+      "TJ",
+      "TM",
+      "UZ"
+    ],
+    "discount": "65%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/10/31/44243-73ca961299a8ff94.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 22,
+        "name": "Online Education"
+      }
+    ],
+    "name": "Практический курс “Frontend-разработчик” со скидкой 65%",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://yknhc.com/g/0sikcy740m5af0702a277e0a786efe/?i=3&erid=5jtCeReNwxHpfQTHQN2X7yG"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 44243,
+      "name": "Eduson.academy",
+      "site_url": "https://eduson.academy/"
+    },
+    "description": "",
+    "short_name": "Практический курс “Веб-разработчик” со скидкой 65%",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-04-12T12:53:38",
+    "id": 684932,
+    "regions": [
+      "AM",
+      "AZ",
+      "BY",
+      "KZ",
+      "RU",
+      "TJ",
+      "TM",
+      "UZ"
+    ],
+    "discount": "65%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/10/31/44243-73ca961299a8ff94.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 22,
+        "name": "Online Education"
+      }
+    ],
+    "name": "Практический курс “Веб-разработчик” со скидкой 65%",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://yknhc.com/g/kvognn78qn5af0702a277e0a786efe/?i=3&erid=5jtCeReNwxHpfQTHQN2X7yE"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 44243,
+      "name": "Eduson.academy",
+      "site_url": "https://eduson.academy/"
+    },
+    "description": "",
+    "short_name": "Практический курс “Python-разработчик с нуля” со скидкой 65%",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-04-12T12:52:51",
+    "id": 684930,
+    "regions": [
+      "AM",
+      "AZ",
+      "BY",
+      "KZ",
+      "RU",
+      "TJ",
+      "TM",
+      "UZ"
+    ],
+    "discount": "65%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/10/31/44243-73ca961299a8ff94.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 22,
+        "name": "Online Education"
+      }
+    ],
+    "name": "Практический курс “Python-разработчик с нуля” со скидкой 65%",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://yknhc.com/g/dwpeted9w95af0702a277e0a786efe/?i=3&erid=5jtCeReNwxHpfQTHQN2X7yC"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 44243,
+      "name": "Eduson.academy",
+      "site_url": "https://eduson.academy/"
+    },
+    "description": "",
+    "short_name": "Скажите карьере “Поехали!” - Скидки 60% на все курсы!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-04-12T12:52:01",
+    "id": 684928,
+    "regions": [
+      "AM",
+      "AZ",
+      "BY",
+      "KZ",
+      "RU",
+      "TJ",
+      "TM",
+      "UZ"
+    ],
+    "discount": "60%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/10/31/44243-73ca961299a8ff94.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 22,
+        "name": "Online Education"
+      }
+    ],
+    "name": "Скажите карьере “Поехали!” - Скидки 60% на все курсы!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://yknhc.com/g/eygcim7a3o5af0702a277e0a786efe/?i=3&erid=5jtCeReNwxHpfQTHQN2X7yA"
+  }
+]

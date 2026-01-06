@@ -1,0 +1,131 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 100815,
+      "name": "Voishe RU",
+      "site_url": "https://www.voishe.ru"
+    },
+    "description": "",
+    "short_name": "Новая коллекция, скидка 4%",
+    "exclusive": false,
+    "date_end": "2026-03-31T23:59:00",
+    "date_start": "2025-11-05T00:00:00",
+    "id": 881388,
+    "regions": [
+      "RU"
+    ],
+    "discount": "4%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/6/19/100815-0033a33455624d59.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Новая коллекция, скидка 4%",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ADM11",
+    "frameset_link": "",
+    "goto_link": "https://cafxq.com/g/4cbgwddmhb5af0702a273618909b99/?i=3&erid=2bL9aMPo2e49hMef4rqV1CgU3p"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 100815,
+      "name": "Voishe RU",
+      "site_url": "https://www.voishe.ru"
+    },
+    "description": "",
+    "short_name": "Скидка 4% на Мужскую коллекцию",
+    "exclusive": false,
+    "date_end": "2026-03-31T23:59:00",
+    "date_start": "2025-11-05T00:00:00",
+    "id": 881387,
+    "regions": [
+      "RU"
+    ],
+    "discount": "4%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/6/19/100815-0033a33455624d59.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Скидка 4% на Мужскую коллекцию",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "AMD11",
+    "frameset_link": "",
+    "goto_link": "https://cafxq.com/g/tbzcwt50a05af0702a273618909b99/?i=3&erid=2bL9aMPo2e49hMef4rqV1CgU3o"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 100815,
+      "name": "Voishe RU",
+      "site_url": "https://www.voishe.ru"
+    },
+    "description": "При  покупке от 20000 р до любого ПВЗ СДЭК по России",
+    "short_name": "Бесплатная доставка от 30000",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-09-03T00:00:00",
+    "id": 874053,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/6/19/100815-0033a33455624d59.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Бесплатная доставка от 30000",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://cafxq.com/g/nv3goefmra5af0702a273618909b99/?i=3&erid=2bL9aMPo2e49hMef4rqUtTHjaQ"
+  }
+]

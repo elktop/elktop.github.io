@@ -1,0 +1,88 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 107877,
+      "name": "M.REASON RU",
+      "site_url": "https://www.m-reason.ru/"
+    },
+    "description": "",
+    "short_name": "Новая осенняя коллекция уже на сайте",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-09-25T00:00:00",
+    "id": 799115,
+    "regions": [
+      "RU"
+    ],
+    "discount": "1%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/8/19/107877-ec4012d6ae60e2c2.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Новая осенняя коллекция уже на сайте",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://flcoz.com/g/gtkcxrdlbq5af0702a2776dd41b8a2/?i=3&erid=2bL9aMPo2e49hMef4piUAuqMk7"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 107877,
+      "name": "M.REASON RU",
+      "site_url": "https://www.m-reason.ru/"
+    },
+    "description": "",
+    "short_name": "Дополнительная скидка 5% в день рождения",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-09-25T16:07:19",
+    "id": 799114,
+    "regions": [
+      "RU"
+    ],
+    "discount": "5%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/8/19/107877-ec4012d6ae60e2c2.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Дополнительная скидка 5% в день рождения",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://flcoz.com/g/ajwygaay1e5af0702a2776dd41b8a2/?i=3&erid=2bL9aMPo2e49hMef4piUAuqMk6"
+  }
+]

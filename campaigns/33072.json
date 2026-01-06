@@ -1,0 +1,437 @@
+[
+  {
+    "status": "active",
+    "rating": "5.45",
+    "campaign": {
+      "id": 33072,
+      "name": "crosspack.ru",
+      "site_url": "https://crosspack.ru/"
+    },
+    "description": "Промокод действует только 1 раз.",
+    "short_name": "1000 бонусных рублей для остальных покупателей.",
+    "exclusive": false,
+    "date_end": "2026-01-31T23:59:00",
+    "date_start": "2025-02-03T17:05:00",
+    "id": 777765,
+    "regions": [
+      "RU"
+    ],
+    "discount": "1%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/2/13/33072-6d67c4768e52184e.jpg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "1000 бонусных рублей для остальных покупателей.",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ADMI1000",
+    "frameset_link": "",
+    "goto_link": "https://sgkaa.com/g/f2ehp2sy165af0702a27650df5d27a/?i=3&erid=5jtCeReNwxHpfQTHuanDnRX"
+  },
+  {
+    "status": "active",
+    "rating": "6.66",
+    "campaign": {
+      "id": 33072,
+      "name": "crosspack.ru",
+      "site_url": "https://crosspack.ru/"
+    },
+    "description": "",
+    "short_name": "2000 бонусных рублей для нового покупателя",
+    "exclusive": false,
+    "date_end": "2026-01-31T23:59:00",
+    "date_start": "2025-02-03T17:05:00",
+    "id": 777764,
+    "regions": [
+      "RU"
+    ],
+    "discount": "1%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/2/13/33072-6d67c4768e52184e.jpg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "2000 бонусных рублей для нового покупателя",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ADMI2000",
+    "frameset_link": "",
+    "goto_link": "https://sgkaa.com/g/3vfg13lvbc5af0702a27650df5d27a/?i=3&erid=5jtCeReNwxHpfQTHuanDnRW"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 33072,
+      "name": "crosspack.ru",
+      "site_url": "https://crosspack.ru/"
+    },
+    "description": "",
+    "short_name": "Ужины на двоих на 5 дней",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-05-15T16:43:09",
+    "id": 756890,
+    "regions": [
+      "RU"
+    ],
+    "discount": "1%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      },
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      },
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/2/13/33072-6d67c4768e52184e.jpg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Ужины на двоих на 5 дней",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://sgkaa.com/g/tjvesz6lyg5af0702a27650df5d27a/?i=3&erid=5jtCeReNwxHpfQTHu2AVFHB"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 33072,
+      "name": "crosspack.ru",
+      "site_url": "https://crosspack.ru/"
+    },
+    "description": "",
+    "short_name": "Обеды на 5 дней",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-05-15T16:42:12",
+    "id": 756889,
+    "regions": [
+      "RU"
+    ],
+    "discount": "1%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      },
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      },
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/2/13/33072-6d67c4768e52184e.jpg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Обеды на 5 дней",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://sgkaa.com/g/nr1bkxzutc5af0702a27650df5d27a/?i=3&erid=5jtCeReNwxHpfQTHu2AVFHA"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 33072,
+      "name": "crosspack.ru",
+      "site_url": "https://crosspack.ru/"
+    },
+    "description": "",
+    "short_name": ". Завтраки на двоих на 5 дней",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-05-15T16:41:24",
+    "id": 756888,
+    "regions": [
+      "RU"
+    ],
+    "discount": "1%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      },
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      },
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/2/13/33072-6d67c4768e52184e.jpg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": ". Завтраки на двоих на 5 дней",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://sgkaa.com/g/5teoi032175af0702a27650df5d27a/?i=3&erid=5jtCeReNwxHpfQTHu2AVFH9"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 33072,
+      "name": "crosspack.ru",
+      "site_url": "https://crosspack.ru/"
+    },
+    "description": "",
+    "short_name": "25 блюд за 4288 рублей",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-05-15T16:40:45",
+    "id": 756886,
+    "regions": [
+      "RU"
+    ],
+    "discount": "1%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      },
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      },
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/2/13/33072-6d67c4768e52184e.jpg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "25 блюд за 4288 рублей",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://sgkaa.com/g/do85dj71875af0702a27650df5d27a/?i=3&erid=5jtCeReNwxHpfQTHu2AUvV5"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 33072,
+      "name": "crosspack.ru",
+      "site_url": "https://crosspack.ru/"
+    },
+    "description": "Это набор по калориям 1200ккал в день на 5 дней",
+    "short_name": "20 блюд за 4 565 рублей",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-05-15T16:39:59",
+    "id": 756885,
+    "regions": [
+      "RU"
+    ],
+    "discount": "1%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      },
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      },
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/2/13/33072-6d67c4768e52184e.jpg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "20 блюд за 4 565 рублей",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://sgkaa.com/g/ttcqzihx1l5af0702a27650df5d27a/?i=3&erid=5jtCeReNwxHpfQTHu2AUvV4"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 33072,
+      "name": "crosspack.ru",
+      "site_url": "https://crosspack.ru/"
+    },
+    "description": "",
+    "short_name": "20 блюд за 3 188 рублей",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-05-15T16:38:55",
+    "id": 756884,
+    "regions": [
+      "RU"
+    ],
+    "discount": "1%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      },
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      },
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/2/13/33072-6d67c4768e52184e.jpg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "20 блюд за 3 188 рублей",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://sgkaa.com/g/nmco46uo115af0702a27650df5d27a/?i=3&erid=5jtCeReNwxHpfQTHu2AUvV3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 33072,
+      "name": "crosspack.ru",
+      "site_url": "https://crosspack.ru/"
+    },
+    "description": "Для участия в акции:\r\n    1. Поделитесь с друзьями своим промокодом. Получить промокод можно в Вашем кабинете в разделе \"Личные данные\";\r\n    2. Ваши друзья вводят Ваш промокод при оформлении заказа на сайте компании «Михайлик kitchen» https://crosspack.ru;\r\nВаш друг получит бонус от шефа!\r\n\r\nУсловия:\r\n    1. Все 3 друга должны быть новыми покупателями и с разными адресами доставки;\r\n    2. Промокод действует на первый заказ нового покупателя при покупке от 2000 рублей;",
+    "short_name": "Приведи 3х друзей – Накормим тебя бесплатно!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-03-02T16:08:33",
+    "id": 524687,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/2/13/33072-6d67c4768e52184e.jpg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Приведи 3х друзей – Накормим тебя бесплатно!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://sgkaa.com/g/h930rqz8705af0702a27650df5d27a/?i=3&erid=5jtCeReNwxHpfQTFuP16R2H"
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 144071,
+      "name": "Kion RU",
+      "site_url": "https://kion.ru"
+    },
+    "description": "ОБЯЗАТЕЛЬНО использовать ссылку для перехода, она полностью готова:\r\nhttps://tracking.pn.mts.ru/tracker?channelId=5bf12d91-c0d0-4de0-ac44-e5289d0d5db3&lid=545374&webSub3={{publisher_id}}&pub_click_id={{admitad_uid}}&webSub2={{YVGVCK3350}",
+    "short_name": "67% скидка на 1 месяц, и 50% скидка на 3 6 и 12",
+    "exclusive": false,
+    "date_end": "2026-01-31T23:59:00",
+    "date_start": "2026-01-01T00:00:00",
+    "id": 893609,
+    "regions": [
+      "RU"
+    ],
+    "discount": "67%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/11/14/144071-ec57fec967679867.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "67% скидка на 1 месяц, и 50% скидка на 3 6 и 12",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "YVGVCK3350",
+    "frameset_link": "",
+    "goto_link": "https://qbzdl.com/g/vz5mikhdv45af0702a27bacd667ddb/?i=3&erid=2bL9aMPo2e49hMef4rqyCukRTS"
+  }
+]

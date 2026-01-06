@@ -1,0 +1,96 @@
+[
+  {
+    "status": "active",
+    "rating": "0.53",
+    "campaign": {
+      "id": 21382,
+      "name": "Арт-маркет \"Красный Карандаш\"",
+      "site_url": "https://krasniykarandash.ru/"
+    },
+    "description": "",
+    "short_name": "Максимальная скидка -40% на экстра-мягкую сухую пастель nuance.",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-05-12T12:44:52",
+    "id": 850432,
+    "regions": [
+      "RU"
+    ],
+    "discount": "40%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/3/17/21382-1e3c5c584bcc1774.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 72,
+        "name": "Hobby & Stationery"
+      }
+    ],
+    "name": "Максимальная скидка -40% на экстра-мягкую сухую пастель nuance.",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://rzekl.com/g/nguf0ti5j25af0702a275f8e5138d9/?i=3&erid=2bL9aMPo2e49hMef4rqUDNWgjX"
+  },
+  {
+    "status": "active",
+    "rating": "1.38",
+    "campaign": {
+      "id": 21382,
+      "name": "Арт-маркет \"Красный Карандаш\"",
+      "site_url": "https://krasniykarandash.ru/"
+    },
+    "description": "",
+    "short_name": "Скидки до 50% в разделе Sale!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2019-05-27T09:35:39",
+    "id": 247833,
+    "regions": [
+      "RU"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/3/17/21382-1e3c5c584bcc1774.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 1,
+        "name": "Toys, Kids & Babies"
+      },
+      {
+        "id": 14,
+        "name": "Books"
+      },
+      {
+        "id": 22,
+        "name": "Online Education"
+      }
+    ],
+    "name": "Скидки до 50% в разделе Sale!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://rzekl.com/g/nymlgx07i95af0702a275f8e5138d9/?i=3&erid=25H8d7vbP8SRTvJZ3uFZGU"
+  }
+]

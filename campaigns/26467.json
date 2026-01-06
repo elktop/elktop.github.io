@@ -1,0 +1,45 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 26467,
+      "name": "onlinesemena.ru",
+      "site_url": "https://onlinesemena.ru/"
+    },
+    "description": "",
+    "short_name": "Раздел с акциями. Скидки до -70%",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2022-02-15T18:08:18",
+    "id": 434241,
+    "regions": [
+      "RU"
+    ],
+    "discount": "70%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2022/1/18/26467-627820360aab155f.jpg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 9,
+        "name": "Gifts & Flowers"
+      }
+    ],
+    "name": "Раздел с акциями. Скидки до -70%",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://dkfrh.com/g/ly3n00ftje5af0702a277e4f5917e6/?i=3&erid=2bL9aMPo2e49hMef4pez77SVLn"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "status": "active",
+    "rating": "2.94",
+    "campaign": {
+      "id": 30329,
+      "name": "Igroray RU",
+      "site_url": "https://igroray.ru"
+    },
+    "description": "",
+    "short_name": "Скидка 1%, но не более 100 руб",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-07-26T00:00:00",
+    "id": 777084,
+    "regions": [
+      "AM",
+      "AZ",
+      "BY",
+      "KZ",
+      "RU",
+      "TJ",
+      "TM",
+      "UZ"
+    ],
+    "discount": "1%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/3/18/30329-b0d084e3d01407b6.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 1,
+        "name": "Toys, Kids & Babies"
+      },
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      },
+      {
+        "id": 19,
+        "name": "Games"
+      }
+    ],
+    "name": "Скидка 1%, но не более 100 руб",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "PRIVET",
+    "frameset_link": "https://xpuvo.com/coupon/2k3fnztqq75af0702a2764ad817589/?erid=2bL9aMPo2e49hMef4phyy3uV9r",
+    "goto_link": "https://xpuvo.com/g/xg01kl65p05af0702a2764ad817589/?i=3&erid=2bL9aMPo2e49hMef4phyy3uV9r"
+  }
+]

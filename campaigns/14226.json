@@ -1,0 +1,131 @@
+[
+  {
+    "status": "active",
+    "rating": "2.14",
+    "campaign": {
+      "id": 14226,
+      "name": "СоюзЦветТорг",
+      "site_url": "https://www.souzcvettorg.ru"
+    },
+    "description": "",
+    "short_name": "Букеты по суперценам!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2020-11-19T10:14:12",
+    "id": 345519,
+    "regions": [
+      "RU"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/11/18/14226-16d003dfcce28a9c.jpg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 9,
+        "name": "Gifts & Flowers"
+      }
+    ],
+    "name": "Букеты по суперценам!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://ogsib.com/g/cbby0xcqjn5af0702a27eac27ebda8/?i=3&erid=25H8d7vbP8SRTvKZVcZVaW"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 14226,
+      "name": "СоюзЦветТорг",
+      "site_url": "https://www.souzcvettorg.ru"
+    },
+    "description": "Распространяется на букеты цветов, представленные в разделе \"Доставим за 60 минут\" и отмеченные соответствующим значком;\r\nДоставка осуществляется и только в ПРЕДЕЛАХ ТТК (Третьего транспортного кольца);\r\nСтоимость доставки - бесплатно (при сумме заказа от 3500 руб.);\r\nПрием заказов с доставкой в течение 1 часа осуществляется только в будние дни c 10:00 до 18:00;\r\nЗаказ букета с доставкой в течение 1 часа осуществляется и исполняется \"день-в-день\";\r\nВы можете выбрать \"Доставка за 60 минут\" в корзине при оформлении заказа (вкладка ШАГ 3. Дата и время доставки);\r\nДоставка за 60 минут осуществляется по предварительному согласованию с оператором интернет магазина\r\nОтсчет времени начинается с момента согласования и подтверждения заказа оператором.",
+    "short_name": "Доставка букета за 60 минут!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2020-09-22T12:30:06",
+    "id": 335182,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/11/18/14226-16d003dfcce28a9c.jpg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 9,
+        "name": "Gifts & Flowers"
+      }
+    ],
+    "name": "Доставка букета за 60 минут!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://ogsib.com/g/6kqk3lhpiy5af0702a27eac27ebda8/?i=3&erid=25H8d7vbP8SRTvKZ9yuyD1"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 14226,
+      "name": "СоюзЦветТорг",
+      "site_url": "https://www.souzcvettorg.ru"
+    },
+    "description": "",
+    "short_name": "Бесплатная доставка по Москве в пределах МКАД при сумме заказа от 3 500 рублей!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2020-09-22T12:28:49",
+    "id": 335180,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/11/18/14226-16d003dfcce28a9c.jpg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 9,
+        "name": "Gifts & Flowers"
+      }
+    ],
+    "name": "Бесплатная доставка по Москве в пределах МКАД при сумме заказа от 3 500 рублей!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://ogsib.com/g/7hxt6g75uf5af0702a27eac27ebda8/?i=3&erid=25H8d7vbP8SRTvKZ9yuyCy"
+  }
+]

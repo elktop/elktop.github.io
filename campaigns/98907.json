@@ -1,0 +1,88 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 98907,
+      "name": "simulative.ru",
+      "site_url": "https://simulative.ru/"
+    },
+    "description": "В честь начала учебного года дарим Premium подписку на 3 месяца в IT Resume  при покупке Курса-симулятора «Аналитик данных» \r\n \r\nСрок акции — до 16 сентября  \r\n \r\n—— \r\n \r\nдля сведения: \r\n \r\nIT Resume — платформа для развития навыков и подготовки к техническим интервью. С подпиской Premium вы можете не просто прокачивать навыки решения задач, но и получить доступ к: \r\n \r\n- задачам от топовых компаний \r\n- тестам с реальных собеседований \r\n- любым подсказкам и подробным решениям \r\n- разбору рабочих кейсов",
+    "short_name": "В честь начала учебного года дарим Premium подписку на 3 месяца в IT Resume  при покупке Курса",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-09-04T18:43:05",
+    "id": 793338,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/5/8/98907-be6de986384cf072.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "В честь начала учебного года дарим Premium подписку на 3 месяца в IT Resume  при покупке Курса",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://kpwfp.com/g/dqmpew0w5i5af0702a27b6618e369e/?i=3&erid=2bL9aMPo2e49hMef4piU4LqDCt"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 98907,
+      "name": "simulative.ru",
+      "site_url": "https://simulative.ru/"
+    },
+    "description": "",
+    "short_name": "скидка 12% при единовременной оплате любого тарифа курса Симулятор «Аналитик данных»",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-08-15T14:45:05",
+    "id": 786286,
+    "regions": [
+      "RU"
+    ],
+    "discount": "12%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/5/8/98907-be6de986384cf072.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "скидка 12% при единовременной оплате любого тарифа курса Симулятор «Аналитик данных»",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://kpwfp.com/g/ehyuss6rqh5af0702a27b6618e369e/?i=3&erid=2bL9aMPo2e49hMef4phzBz6u1G"
+  }
+]

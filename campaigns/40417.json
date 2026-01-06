@@ -1,0 +1,131 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 40417,
+      "name": "Doctorslon KZ",
+      "site_url": "https://doctorslon.kz/"
+    },
+    "description": "",
+    "short_name": "Оплачивайте покупки баллами!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-08-15T18:04:56",
+    "id": 572370,
+    "regions": [
+      "KZ"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/8/14/40417-364de08f3dd8504e.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Оплачивайте покупки баллами!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://yknhc.com/g/92kf9dieln5af0702a27ef285ae838/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 40417,
+      "name": "Doctorslon KZ",
+      "site_url": "https://doctorslon.kz/"
+    },
+    "description": "",
+    "short_name": "Сдайте старую щетку и получите -10% на новую",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-08-15T18:04:00",
+    "id": 572369,
+    "regions": [
+      "KZ"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/8/14/40417-364de08f3dd8504e.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Сдайте старую щетку и получите -10% на новую",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://yknhc.com/g/717nr7gght5af0702a27ef285ae838/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 40417,
+      "name": "Doctorslon KZ",
+      "site_url": "https://doctorslon.kz/"
+    },
+    "description": "",
+    "short_name": "Нашли дешевле?\r\nСделаем скидку",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-08-15T18:02:33",
+    "id": 572368,
+    "regions": [
+      "KZ"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/8/14/40417-364de08f3dd8504e.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Нашли дешевле?\r\nСделаем скидку",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://yknhc.com/g/81m9gmp4h65af0702a27ef285ae838/?i=3"
+  }
+]

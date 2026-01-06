@@ -1,0 +1,389 @@
+[
+  {
+    "status": "active",
+    "rating": "7.63",
+    "campaign": {
+      "id": 18262,
+      "name": "Level Kitchen",
+      "site_url": "https://levelkitchen.com/"
+    },
+    "description": "",
+    "short_name": "1500 рублей скидка на первый заказ полезного и вкусного питания от 5 дней.",
+    "exclusive": false,
+    "date_end": "2026-01-11T23:59:00",
+    "date_start": "2025-12-18T00:00:00",
+    "id": 892255,
+    "regions": [
+      "RU"
+    ],
+    "discount": "1 500 ₽",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/4/12/18262-1cde42718b4579d7.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 189,
+        "name": "New Year Festival 2026"
+      }
+    ],
+    "name": "1500 рублей скидка на первый заказ полезного и вкусного питания от 5 дней.",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NYAdmitad",
+    "frameset_link": "",
+    "goto_link": "https://dhwnh.com/g/xaz508vqej5af0702a27738d825a2a/?i=3&erid=2bL9aMPo2e49hMef4rqy6YbBLc"
+  },
+  {
+    "status": "active",
+    "rating": "4.91",
+    "campaign": {
+      "id": 18262,
+      "name": "Level Kitchen",
+      "site_url": "https://levelkitchen.com/"
+    },
+    "description": "1200 рублей скидка на первый заказ нового меню PRO с повышенным содержанием белка и клетчатки для вашего результата. От 5 дней. Москва и МО.",
+    "short_name": "1200 рублей скидка на первый заказ нового меню PRO с повышенным содержанием белка и клетчатки",
+    "exclusive": false,
+    "date_end": "2026-01-15T23:59:00",
+    "date_start": "2025-10-13T16:18:00",
+    "id": 874420,
+    "regions": [
+      "RU"
+    ],
+    "discount": "1 200 ₽",
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/4/12/18262-1cde42718b4579d7.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "1200 рублей скидка на первый заказ нового меню PRO с повышенным содержанием белка и клетчатки",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "PRO1200",
+    "frameset_link": "",
+    "goto_link": "https://dhwnh.com/g/r2514vpj4b5af0702a27738d825a2a/?i=3&erid=2bL9aMPo2e49hMef4rqUtUmiw7"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 18262,
+      "name": "Level Kitchen",
+      "site_url": "https://levelkitchen.com/"
+    },
+    "description": "",
+    "short_name": "Купите сейчас - оплатите долями. Меню 30 дней.",
+    "exclusive": false,
+    "date_end": "2026-01-15T23:59:00",
+    "date_start": "2025-10-13T16:18:00",
+    "id": 874419,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/4/12/18262-1cde42718b4579d7.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Купите сейчас - оплатите долями. Меню 30 дней.",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://dhwnh.com/g/ab8m22ccev5af0702a27738d825a2a/?i=3&erid=2bL9aMPo2e49hMef4rqUtUmiw6"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 18262,
+      "name": "Level Kitchen",
+      "site_url": "https://levelkitchen.com/"
+    },
+    "description": "",
+    "short_name": "Диета, которая всегда с тобой! Вкусные и полезные рационы под любые цели.",
+    "exclusive": false,
+    "date_end": "2026-01-15T23:59:00",
+    "date_start": "2025-10-13T16:18:00",
+    "id": 853724,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/4/12/18262-1cde42718b4579d7.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Диета, которая всегда с тобой! Вкусные и полезные рационы под любые цели.",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://dhwnh.com/g/6ovhlmeysw5af0702a27738d825a2a/?i=3&erid=2bL9aMPo2e49hMef4rqUKtZrco"
+  },
+  {
+    "status": "active",
+    "rating": "7.50",
+    "campaign": {
+      "id": 18262,
+      "name": "Level Kitchen",
+      "site_url": "https://levelkitchen.com/"
+    },
+    "description": "",
+    "short_name": "Будь в форме! Скидка 10% на первый заказ любого меню от 2000 Ккал",
+    "exclusive": false,
+    "date_end": "2026-01-15T23:59:00",
+    "date_start": "2025-10-13T16:18:00",
+    "id": 837178,
+    "regions": [
+      "RU"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/4/12/18262-1cde42718b4579d7.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Будь в форме! Скидка 10% на первый заказ любого меню от 2000 Ккал",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "BeGood",
+    "frameset_link": "",
+    "goto_link": "https://dhwnh.com/g/zq7742hm7c5af0702a27738d825a2a/?i=3&erid=2bL9aMPo2e49hMef4piV5HbfVv"
+  },
+  {
+    "status": "active",
+    "rating": "8.66",
+    "campaign": {
+      "id": 18262,
+      "name": "Level Kitchen",
+      "site_url": "https://levelkitchen.com/"
+    },
+    "description": "Скидка 400 рублей на все программы для постоянных клиентов. При заказе от 5 дней.",
+    "short_name": "Скидка 400 рублей на все программы для постоянных клиентов. При заказе от 5 дней.",
+    "exclusive": false,
+    "date_end": "2026-01-15T23:59:00",
+    "date_start": "2025-10-13T16:18:00",
+    "id": 834628,
+    "regions": [
+      "RU"
+    ],
+    "discount": "400 ₽",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/4/12/18262-1cde42718b4579d7.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Скидка 400 рублей на все программы для постоянных клиентов. При заказе от 5 дней.",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "LKOLD",
+    "frameset_link": "",
+    "goto_link": "https://dhwnh.com/g/dj5vgpyl0n5af0702a27738d825a2a/?i=3&erid=2bL9aMPo2e49hMef4piV57B4Sr"
+  },
+  {
+    "status": "active",
+    "rating": "5.65",
+    "campaign": {
+      "id": 18262,
+      "name": "Level Kitchen",
+      "site_url": "https://levelkitchen.com/"
+    },
+    "description": "Получите 2500 бонусов за приведенного друга после совершение им 1 заказа.",
+    "short_name": "Пригласите друга и получите 2500 бонусов на счет.",
+    "exclusive": false,
+    "date_end": "2026-01-15T23:59:00",
+    "date_start": "2025-10-13T16:18:00",
+    "id": 830189,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/4/12/18262-1cde42718b4579d7.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Пригласите друга и получите 2500 бонусов на счет.",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRE",
+    "frameset_link": "",
+    "goto_link": "https://dhwnh.com/g/xy67x1agkr5af0702a27738d825a2a/?i=3&erid=2bL9aMPo2e49hMef4piUrDzK1f"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 18262,
+      "name": "Level Kitchen",
+      "site_url": "https://levelkitchen.com/"
+    },
+    "description": "",
+    "short_name": "Кешбэк 3% по программе лояльности.",
+    "exclusive": false,
+    "date_end": "2026-01-15T23:59:00",
+    "date_start": "2025-10-13T16:18:00",
+    "id": 830170,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/4/12/18262-1cde42718b4579d7.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Кешбэк 3% по программе лояльности.",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://dhwnh.com/g/h68nx60xjz5af0702a27738d825a2a/?i=3&erid=2bL9aMPo2e49hMef4piUrDzJrr"
+  },
+  {
+    "status": "active",
+    "rating": "9.02",
+    "campaign": {
+      "id": 18262,
+      "name": "Level Kitchen",
+      "site_url": "https://levelkitchen.com/"
+    },
+    "description": "Скидка 10%  для новых пользователей на все программы, кроме программы wеlcome.",
+    "short_name": "Скидка 10% на первый заказ! На все!",
+    "exclusive": false,
+    "date_end": "2026-01-15T23:59:00",
+    "date_start": "2025-10-13T16:18:00",
+    "id": 296629,
+    "regions": [
+      "RU"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/4/12/18262-1cde42718b4579d7.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Скидка 10% на первый заказ! На все!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "WELCOME",
+    "frameset_link": "",
+    "goto_link": "https://dhwnh.com/g/rbm6ari52e5af0702a27738d825a2a/?i=3&erid=MvGzQC98w3Z1gMq1ow9F33dQ"
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "status": "active",
+    "rating": "6.49",
+    "campaign": {
+      "id": 26165,
+      "name": "Gruzovichkof",
+      "site_url": "https://gruzovichkof.ru/"
+    },
+    "description": "Действует по СПб и ЛО и Мск и МО, с другими скидками и акциями не суммируется, с одного номера телефона можно воспользоваться не более 3х раз.",
+    "short_name": "Скидка 555 рублей от любой суммы заказа",
+    "exclusive": false,
+    "date_end": "2026-01-11T23:59:00",
+    "date_start": "2025-12-15T00:00:00",
+    "id": 885250,
+    "regions": [
+      "RU"
+    ],
+    "discount": "555 ₽",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/10/25/26165-700d6078681376c0.jpg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "Скидка 555 рублей от любой суммы заказа",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NYFESTGF555",
+    "frameset_link": "https://rzekl.com/coupon/zxpdb5dnj15af0702a278292b91ec7/?erid=2bL9aMPo2e49hMef4rqxsUypvb",
+    "goto_link": "https://rzekl.com/g/7q7iyfy5s95af0702a278292b91ec7/?i=3&erid=2bL9aMPo2e49hMef4rqxsUypvb"
+  }
+]

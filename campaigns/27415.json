@@ -1,0 +1,45 @@
+[
+  {
+    "status": "active",
+    "rating": "1.28",
+    "campaign": {
+      "id": 27415,
+      "name": "Rawmid",
+      "site_url": "https://madeindream.com"
+    },
+    "description": "",
+    "short_name": "Раздел скидок",
+    "exclusive": false,
+    "date_end": "2026-12-31T23:59:00",
+    "date_start": "2025-12-23T17:07:00",
+    "id": 438192,
+    "regions": [
+      "RU"
+    ],
+    "discount": "30%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2022/4/19/27415-59c106e35c8b8630.jpg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Раздел скидок",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://xpuvo.com/coupon/5h3vcyjjpc5af0702a27da0834ec96/?erid=2bL9aMPo2e49hMef4pezDc1Lqu",
+    "goto_link": "https://xpuvo.com/g/yfi3wtoszk5af0702a27da0834ec96/?i=3&erid=2bL9aMPo2e49hMef4pezDc1Lqu"
+  }
+]

@@ -2,8 +2,11 @@
   {
     "id": 29788,
     "name": "TK-laser UA",
+    "name_aliases": "тк лазер, TK laser, nr kfpth",
+    "site_url": "https://tk-laser.com.ua/",
+    "description": "\r\nТК-Laser – міжнародна мережа салонів лазерної епіляції та сучасної косметології. Компанія входить в ТОП-5 компаній України, які надають послуги лазерної епіляції. Головне правило в наших салонах - висока якість обслуговування та результат. \r\n\r\nСередній рейтинг салонів TK-Laser в Google - 4.9 зірочки. Основна перевага серед конкурентів - приваблива ціна та висока якість обслуговування в салоні.\r\n\r\nСалони мережі ТК Laser є в 32 містах України. Також кожного місяця додатково відкриваються нові салони. \r\n\r\nОсновні види послуг:\r\n- лазерна епіляція \r\n- чистки & пілінги\r\n- SMAS\r\n- апаратна косметологія\r\n- фотолікування \r\n- доглядові процедури та масаж \r\n- ін'єкції \r\n\r\nПовний список назв послуг . \r\nМіста, послуги та графік роботи за лінком \r\n\r\nЗверніть увагу, що послуги та ціни змінюється в залежності від міста, перевіряйте наявність процедури та актуальної ціни в конкретному місті на нашому сайті.",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/10/10/29788-937287a479678990.svg",
-    "img": "platform/29788.svg",
     "categories": [
       {
         "name": "Online Services",
@@ -35,6 +38,12 @@
         "parent": null
       }
     ],
+    "img": "platform/29788.svg",
+    "affiliate": {
+      "goto_link": "https://ogsib.com/g/ldam5o0hj95af0702a27b9dd758de9/",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Healthcare Services",
       "id": 120,
@@ -50,8 +59,11 @@
   {
     "id": 145953,
     "name": "Cura Care [CPS] IN",
+    "name_aliases": "cure care, curcare, care, cure",
+    "site_url": "https://curacare.in/",
+    "description": "Company Description : Cura Care is reimagining oral wellness in India by making preventive dental care accessible, trustworthy, and professional, right at home! With over 90% having poor oral hygiene, less than 40% brush twice a day. The gap in preventive care is too big to ignore. It’s no wonder oral health problems are on the rise. Our mission is simple: to make preventive oral care a part of every household. By offering expert dental services at home, we’re not just treating problems, we’re helping people avoid them in the first place. One home, one smile, one habit at a time.\r\n\r\nCampaign Description - This is a Cost per Sale (CPS) campaign, where the publishers need to drive sales on cura care's website.\r\n\r\nTarget/Region - PAN India\r\n\r\nValidation Criteria-Successful Delivered Sales. ",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/10/27/145953-7c5509c0485855d9.svg",
-    "img": "platform/145953.svg",
     "categories": [
       {
         "name": "Online Services",
@@ -71,6 +83,12 @@
         }
       }
     ],
+    "img": "platform/145953.svg",
+    "affiliate": {
+      "goto_link": "https://tjzuh.com/g/b496davyux5af0702a27aa7e564914/",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Healthcare Services",
       "id": 120,

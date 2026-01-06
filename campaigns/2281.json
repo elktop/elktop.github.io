@@ -1,0 +1,45 @@
+[
+  {
+    "status": "active",
+    "rating": "6.68",
+    "campaign": {
+      "id": 2281,
+      "name": "Островок RU",
+      "site_url": "https://ostrovok.ru/"
+    },
+    "description": "Превращаем всех наших пользователей в GURU путешествий с новой программой лояльности! Теперь ты можешь бронировать отели и апартаменты со скидками от 10% сразу после авторизации на Ostrovok.ru. \r\n\r\nБольше путешествий — больше скидка, увеличивай выгоду прямо сейчас!\r\n\r\nЧто ты получишь, став GURU:\r\n- Уровень GURU 1 и скидку от 10% уже на первое бронирование (на зарубежные отели — от 5%).\r\n- Возможность увеличивать скидку, путешествуя больше.\r\n- Скидки в тысячах отелей и апартаментов в России и за рубежом.\r\n- Приоритетная поддержка для уровней GURU 3 и GURU 4.\r\n\r\nТвой уровень GURU никогда не сгорит и не понизится — скидки всегда будут с тобой!\r\n\r\nОтели и апартаменты, участвующие в программе, ты узнаешь по специальному значку. В будущем, помимо скидок на бронирования, мы добавим дополнительные бонусы от отелей. Например, бесплатный трансфер, завтрак или отдых в спа.",
+    "short_name": "Скидки до 40% по программе лояльности GURU!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-12-26T13:47:29",
+    "id": 620513,
+    "regions": [
+      "RU"
+    ],
+    "discount": "40%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/4/3/2281-6e9950e75b2d8b59.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 12,
+        "name": "Tours & Travels"
+      }
+    ],
+    "name": "Скидки до 40% по программе лояльности GURU!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://xpuvo.com/coupon/f9xw3ceqrt5af0702a2773c53f4f5f/?erid=2bL9aMPo2e49hMef4pgyryFQPp",
+    "goto_link": "https://xpuvo.com/g/sxujqs0tr15af0702a2773c53f4f5f/?i=3&erid=2bL9aMPo2e49hMef4pgyryFQPp"
+  }
+]

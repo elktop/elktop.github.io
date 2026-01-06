@@ -1,0 +1,303 @@
+[
+  {
+    "status": "active",
+    "rating": "3.40",
+    "campaign": {
+      "id": 4855,
+      "name": "2 Берега",
+      "site_url": "https://2-berega.ru/"
+    },
+    "description": "на все меню от 1600р.",
+    "short_name": "-30% на все меню",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-02-05T11:57:04",
+    "id": 832959,
+    "regions": [
+      "RU"
+    ],
+    "discount": "30%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/4/9/4855-a9a4885fb2f3d178.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "-30% на все меню",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "MIN30",
+    "frameset_link": "https://grfpr.com/coupon/hve3sqosht5af0702a27c831f8e1d7/?erid=2bL9aMPo2e49hMef4piUxh5BYA",
+    "goto_link": "https://grfpr.com/g/ga4k29fr155af0702a27c831f8e1d7/?i=3&erid=2bL9aMPo2e49hMef4piUxh5BYA"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 4855,
+      "name": "2 Берега",
+      "site_url": "https://2-berega.ru/"
+    },
+    "description": "Скидка 50% на любую вторую пиццу, скидка действует на пиццу наименьшей стоимости. Акция не действует на раздел «римские пиццы». Не суммируется с другими скидками и акциями (в том числе с акционными сетами и наборами). Акция действует на сайте и в мобильном приложении 2БЕРЕГА.",
+    "short_name": "СКИДКА 50% НА ЛЮБУЮ ВТОРУЮ ПИЦЦУ В 2БЕРЕГА",
+    "exclusive": true,
+    "date_end": null,
+    "date_start": "2022-11-17T13:29:41",
+    "id": 499632,
+    "regions": [
+      "RU"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/4/9/4855-a9a4885fb2f3d178.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "СКИДКА 50% НА ЛЮБУЮ ВТОРУЮ ПИЦЦУ В 2БЕРЕГА",
+    "language": null,
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "PIZZA50",
+    "frameset_link": "https://grfpr.com/coupon/s36h5uhgd85af0702a27c831f8e1d7/?erid=2bL9aMPo2e49hMef4pfVSS7dJh",
+    "goto_link": "https://grfpr.com/g/ohxeg9bur75af0702a27c831f8e1d7/?i=3&erid=2bL9aMPo2e49hMef4pfVSS7dJh"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 4855,
+      "name": "2 Берега",
+      "site_url": "https://2-berega.ru/"
+    },
+    "description": "Новые улучшенные условия! Теперь до 25% бонусов начисляем на счет. Больше бонусов в мобильном приложении. А использовать бонусы можно на ВСЕ блюда.\r\n\r\nДелайте покупки в течение 3-х месяцев и получайте в следующие 3 месяца повышенные бонусы. \r\n\r\nМинимальным уровнем для всех участников является «Серебро», максимальным уровнем - «Эксклюзив».\r\n\r\nУчастником программы может стать любой клиент компании.",
+    "short_name": "ПРОГРАММА «СБЕРЕГАЙ» - ДО 25% БОНУСОВ НА СЧЕТ",
+    "exclusive": true,
+    "date_end": null,
+    "date_start": "2022-05-30T11:46:04",
+    "id": 456317,
+    "regions": [
+      "RU"
+    ],
+    "discount": "25%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/4/9/4855-a9a4885fb2f3d178.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "ПРОГРАММА «СБЕРЕГАЙ» - ДО 25% БОНУСОВ НА СЧЕТ",
+    "language": null,
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://grfpr.com/coupon/hfjaw8cr8g5af0702a27c831f8e1d7/?erid=2bL9aMPo2e49hMef4pezfn8fGC",
+    "goto_link": "https://grfpr.com/g/ju0aute0cu5af0702a27c831f8e1d7/?i=3&erid=2bL9aMPo2e49hMef4pezfn8fGC"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 4855,
+      "name": "2 Берега",
+      "site_url": "https://2-berega.ru/"
+    },
+    "description": "Полезный завтрак или сытный обед? Все это выгоднее с нами!\r\nВо вторник, среду и четверг с 10 до 16 каждый второй товар в чеке отдаем за 199 рублей!\r\n\r\nАкция не действует на сеты и наборы! Скидки не суммируются с использованием бонусов.\r\nАкция не суммируется с другими акциями.",
+    "short_name": "СЧАСТЛИВЫЕ ЧАСЫ В 2БЕРЕГА!",
+    "exclusive": true,
+    "date_end": null,
+    "date_start": "2022-04-08T00:00:00",
+    "id": 448323,
+    "regions": [
+      "RU"
+    ],
+    "discount": "199 ₽",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/4/9/4855-a9a4885fb2f3d178.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "СЧАСТЛИВЫЕ ЧАСЫ В 2БЕРЕГА!",
+    "language": null,
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ДЕНЬ",
+    "frameset_link": "https://grfpr.com/coupon/qqyyo1y06t5af0702a27c831f8e1d7/?erid=2bL9aMPo2e49hMef4pezSiWdfN",
+    "goto_link": "https://grfpr.com/g/7xnnyeantm5af0702a27c831f8e1d7/?i=3&erid=2bL9aMPo2e49hMef4pezSiWdfN"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 4855,
+      "name": "2 Берега",
+      "site_url": "https://2-berega.ru/"
+    },
+    "description": "У нас сегодня простая математика – закажи четыре пиццы, введи промокод и получи четвертую пиццу в подарок!",
+    "short_name": "ПОЛУЧИ ЧЕТВЕРТУЮ ПИЦЦУ В ПОДАРОК!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2022-03-02T15:41:04",
+    "id": 438173,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/4/9/4855-a9a4885fb2f3d178.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "ПОЛУЧИ ЧЕТВЕРТУЮ ПИЦЦУ В ПОДАРОК!",
+    "language": null,
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "4PIZZA",
+    "frameset_link": "https://grfpr.com/coupon/7q31zqsin95af0702a27c831f8e1d7/?erid=2bL9aMPo2e49hMef4pezDc11Wt",
+    "goto_link": "https://grfpr.com/g/l5kzboo82w5af0702a27c831f8e1d7/?i=3&erid=2bL9aMPo2e49hMef4pezDc11Wt"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 4855,
+      "name": "2 Берега",
+      "site_url": "https://2-berega.ru/"
+    },
+    "description": "Заказывай четное число блюд и оформляй доставку на время с 00:00 до 8:00\r\n\r\nВводи промокод!\r\n\r\nКаждое второе блюдо станет дешевле на 50%",
+    "short_name": "РЫНОЧНАЯ ЭКОНОМИКА! Ночью вкуснее и дешевле! C 00:00 до 8:00 каждое второе блюдо за полцены!",
+    "exclusive": true,
+    "date_end": null,
+    "date_start": "2022-01-31T17:12:19",
+    "id": 430094,
+    "regions": [
+      "RU"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/4/9/4855-a9a4885fb2f3d178.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "РЫНОЧНАЯ ЭКОНОМИКА! Ночью вкуснее и дешевле! C 00:00 до 8:00 каждое второе блюдо за полцены!",
+    "language": null,
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НОЧЬ",
+    "frameset_link": "https://grfpr.com/coupon/ywaho5r99c5af0702a27c831f8e1d7/?erid=2bL9aMPo2e49hMef4peyzcpwTG",
+    "goto_link": "https://grfpr.com/g/2vy83dwzy55af0702a27c831f8e1d7/?i=3&erid=2bL9aMPo2e49hMef4peyzcpwTG"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 4855,
+      "name": "2 Берега",
+      "site_url": "https://2-berega.ru/"
+    },
+    "description": "Получи индивидуальный промокод от 2Берега, когда наступит твой день. \r\nПри оформлении заказа используй индивидуальный промо и получи подарок!\r\nПодарок будет привязан в личном кабинете",
+    "short_name": "ПОЛУЧИ ПОДАРОК В СВОЙ ДЕНЬ РОЖДЕНИЯ!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2022-01-31T17:10:04",
+    "id": 430091,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/4/9/4855-a9a4885fb2f3d178.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "ПОЛУЧИ ПОДАРОК В СВОЙ ДЕНЬ РОЖДЕНИЯ!",
+    "language": null,
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://grfpr.com/coupon/qjuoafjfyc5af0702a27c831f8e1d7/?erid=2bL9aMPo2e49hMef4peyzcpwTD",
+    "goto_link": "https://grfpr.com/g/7qozo9xupt5af0702a27c831f8e1d7/?i=3&erid=2bL9aMPo2e49hMef4peyzcpwTD"
+  }
+]

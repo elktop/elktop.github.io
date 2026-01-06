@@ -1,0 +1,49 @@
+[
+  {
+    "status": "active",
+    "rating": "3.29",
+    "campaign": {
+      "id": 45856,
+      "name": "Tochkalubvi",
+      "site_url": "https://www.tochkalubvi.ru/"
+    },
+    "description": "",
+    "short_name": "11% на любую покупку",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-04-15T00:00:00",
+    "id": 633390,
+    "regions": [
+      "RU"
+    ],
+    "discount": "11%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/7/24/45856-ab3d524ebe5195b8.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 18,
+        "name": "Adult"
+      },
+      {
+        "id": 189,
+        "name": "New Year Festival 2026"
+      }
+    ],
+    "name": "11% на любую покупку",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ADMITAD",
+    "frameset_link": "",
+    "goto_link": "https://ypetp.com/g/jyslntr7co5af0702a2741e58a6524/?i=3&erid=2bL9aMPo2e49hMef4pgzK1w7T7"
+  }
+]

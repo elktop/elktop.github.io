@@ -1,0 +1,432 @@
+[
+  {
+    "status": "active",
+    "rating": "7.32",
+    "campaign": {
+      "id": 18780,
+      "name": "Foodband",
+      "site_url": "https://foodband.ru/"
+    },
+    "description": "корпоративная",
+    "short_name": "Скидка 5, 7, 10, 15, 20, 25, 30% от 745 р.",
+    "exclusive": false,
+    "date_end": "2027-08-31T23:59:00",
+    "date_start": "2025-02-06T00:00:00",
+    "id": 833140,
+    "regions": [
+      "RU"
+    ],
+    "discount": "5%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/10/7/18780-06b292277055c0b6.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "Скидка 5, 7, 10, 15, 20, 25, 30% от 745 р.",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "admitadanisa",
+    "frameset_link": "https://kdbov.com/coupon/ssf67zb56p5af0702a272e77510c9d/?erid=2bL9aMPo2e49hMef4piUxh6rQu",
+    "goto_link": "https://kdbov.com/g/p54fu57lj15af0702a272e77510c9d/?i=3&erid=2bL9aMPo2e49hMef4piUxh6rQu"
+  },
+  {
+    "status": "active",
+    "rating": "4.05",
+    "campaign": {
+      "id": 18780,
+      "name": "Foodband",
+      "site_url": "https://foodband.ru/"
+    },
+    "description": "корпоративная",
+    "short_name": "Скидка 5, 7, 10, 15, 20, 25, 30% от 745 р.",
+    "exclusive": false,
+    "date_end": "2026-08-31T23:59:00",
+    "date_start": "2025-02-06T00:00:00",
+    "id": 833139,
+    "regions": [
+      "RU"
+    ],
+    "discount": "5%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/10/7/18780-06b292277055c0b6.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "Скидка 5, 7, 10, 15, 20, 25, 30% от 745 р.",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "admitad35",
+    "frameset_link": "https://kdbov.com/coupon/kkgwr5dht25af0702a272e77510c9d/?erid=2bL9aMPo2e49hMef4piUxh6rQt",
+    "goto_link": "https://kdbov.com/g/uld7cpsy015af0702a272e77510c9d/?i=3&erid=2bL9aMPo2e49hMef4piUxh6rQt"
+  },
+  {
+    "status": "active",
+    "rating": "6.19",
+    "campaign": {
+      "id": 18780,
+      "name": "Foodband",
+      "site_url": "https://foodband.ru/"
+    },
+    "description": "1й заказ",
+    "short_name": "Сет 5 пицц за 1590 р.",
+    "exclusive": false,
+    "date_end": "2026-08-31T23:59:00",
+    "date_start": "2025-02-06T00:00:00",
+    "id": 833136,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/10/7/18780-06b292277055c0b6.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "Сет 5 пицц за 1590 р.",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "admitad55",
+    "frameset_link": "https://kdbov.com/coupon/ntutl9lr225af0702a272e77510c9d/?erid=2bL9aMPo2e49hMef4piUxh6rQq",
+    "goto_link": "https://kdbov.com/g/f3d7gm2lah5af0702a272e77510c9d/?i=3&erid=2bL9aMPo2e49hMef4piUxh6rQq"
+  },
+  {
+    "status": "active",
+    "rating": "5.07",
+    "campaign": {
+      "id": 18780,
+      "name": "Foodband",
+      "site_url": "https://foodband.ru/"
+    },
+    "description": "1й заказ",
+    "short_name": "Сет 2 пиццы + 2 пиццы за 1470 р.",
+    "exclusive": false,
+    "date_end": "2026-08-31T23:59:00",
+    "date_start": "2025-02-06T00:00:00",
+    "id": 833135,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/10/7/18780-06b292277055c0b6.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "Сет 2 пиццы + 2 пиццы за 1470 р.",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "admitad44",
+    "frameset_link": "https://kdbov.com/coupon/j8ll22om1t5af0702a272e77510c9d/?erid=2bL9aMPo2e49hMef4piUxh6rQp",
+    "goto_link": "https://kdbov.com/g/xn2uaj35g55af0702a272e77510c9d/?i=3&erid=2bL9aMPo2e49hMef4piUxh6rQp"
+  },
+  {
+    "status": "active",
+    "rating": "1.17",
+    "campaign": {
+      "id": 18780,
+      "name": "Foodband",
+      "site_url": "https://foodband.ru/"
+    },
+    "description": "На день рождения мы дарим Вам на выбор одно из 7 блюд нашего меню:\r\nПицца Вегетарианская 30 см;\r\nПицца Пепперони 30 см;\r\nПицца Ассорти острая 30 см;\r\nПицца Аппетитная Курочка 30 см;\r\nПицца Классика 30 см;\r\nРолл Миядзаки (6 шт.);\r\nРолл Шинпачи (6 шт.).\r\n\r\nУсловия акции:\r\nАкция действует за семь дней до, в сам день рождения и семь дней после него;\r\nУкажите Ваш день рождения в Личном кабинете или назовите Оператору;\r\nМинимальная сумма заказа 650 рублей;\r\nВнимание! Дату рождения можно указать только один раз, изменить ее будет нельзя.",
+    "short_name": "Подарок на выбор в День Рождения!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2019-04-09T18:54:53",
+    "id": 240974,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/10/7/18780-06b292277055c0b6.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Подарок на выбор в День Рождения!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "YOURDAY",
+    "frameset_link": "https://kdbov.com/coupon/kznsobuwp55af0702a272e77510c9d/?erid=MvGzQC98w3Z1gMq1nwwgyq7m",
+    "goto_link": "https://kdbov.com/g/c5ie7eiipz5af0702a272e77510c9d/?i=3&erid=MvGzQC98w3Z1gMq1nwwgyq7m"
+  },
+  {
+    "status": "active",
+    "rating": "4.62",
+    "campaign": {
+      "id": 18780,
+      "name": "Foodband",
+      "site_url": "https://foodband.ru/"
+    },
+    "description": "1490",
+    "short_name": "Ролл Филадельфия в подарок от 1490 р.!",
+    "exclusive": false,
+    "date_end": "2027-08-31T23:59:00",
+    "date_start": "2025-04-01T00:00:00",
+    "id": 194486,
+    "regions": [
+      "RU"
+    ],
+    "discount": "1%",
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/10/7/18780-06b292277055c0b6.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Ролл Филадельфия в подарок от 1490 р.!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "admi_fila_*",
+    "frameset_link": "https://kdbov.com/coupon/fyz6u4paik5af0702a272e77510c9d/?erid=MvGzQC98w3Z1gMq1nSqMP46t",
+    "goto_link": "https://kdbov.com/g/jv8k4sxrvu5af0702a272e77510c9d/?i=3&erid=MvGzQC98w3Z1gMq1nSqMP46t"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 18780,
+      "name": "Foodband",
+      "site_url": "https://foodband.ru/"
+    },
+    "description": "1190",
+    "short_name": "Куриные крылья Барбекю 250г в подарок от 1190 р.!",
+    "exclusive": false,
+    "date_end": "2027-08-31T23:59:00",
+    "date_start": "2018-10-11T00:00:00",
+    "id": 194483,
+    "regions": [
+      "RU"
+    ],
+    "discount": "1%",
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/10/7/18780-06b292277055c0b6.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Куриные крылья Барбекю 250г в подарок от 1190 р.!",
+    "language": null,
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "admi_wing_*",
+    "frameset_link": "https://kdbov.com/coupon/v3ieopf0lu5af0702a272e77510c9d/?erid=MvGzQC98w3Z1gMq1nSqMP42b",
+    "goto_link": "https://kdbov.com/g/64at4wecnj5af0702a272e77510c9d/?i=3&erid=MvGzQC98w3Z1gMq1nSqMP42b"
+  },
+  {
+    "status": "active",
+    "rating": "2.90",
+    "campaign": {
+      "id": 18780,
+      "name": "Foodband",
+      "site_url": "https://foodband.ru/"
+    },
+    "description": "1090",
+    "short_name": "Картофель фри в подарок от 1090 р.!",
+    "exclusive": false,
+    "date_end": "2027-08-31T23:59:00",
+    "date_start": "2018-10-11T00:00:00",
+    "id": 194482,
+    "regions": [
+      "RU"
+    ],
+    "discount": "1%",
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/10/7/18780-06b292277055c0b6.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Картофель фри в подарок от 1090 р.!",
+    "language": null,
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "admi_fri_*",
+    "frameset_link": "https://kdbov.com/coupon/og531q280m5af0702a272e77510c9d/?erid=MvGzQC98w3Z1gMq1nSqMP42a",
+    "goto_link": "https://kdbov.com/g/vx6sdd2a0f5af0702a272e77510c9d/?i=3&erid=MvGzQC98w3Z1gMq1nSqMP42a"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 18780,
+      "name": "Foodband",
+      "site_url": "https://foodband.ru/"
+    },
+    "description": "1190",
+    "short_name": "Пицца Маргарита 30см в подарок от 1190 р.!",
+    "exclusive": false,
+    "date_end": "2027-08-31T23:59:00",
+    "date_start": "2018-10-11T00:00:00",
+    "id": 194480,
+    "regions": [
+      "RU"
+    ],
+    "discount": "1%",
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/10/7/18780-06b292277055c0b6.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Пицца Маргарита 30см в подарок от 1190 р.!",
+    "language": null,
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "admi_margo_*",
+    "frameset_link": "https://kdbov.com/coupon/yo8jxd7dkf5af0702a272e77510c9d/?erid=MvGzQC98w3Z1gMq1nSqMP42Y",
+    "goto_link": "https://kdbov.com/g/kc60ogigep5af0702a272e77510c9d/?i=3&erid=MvGzQC98w3Z1gMq1nSqMP42Y"
+  },
+  {
+    "status": "active",
+    "rating": "4.75",
+    "campaign": {
+      "id": 18780,
+      "name": "Foodband",
+      "site_url": "https://foodband.ru/"
+    },
+    "description": "1290",
+    "short_name": "Пицца Пепперони 30см в подарок от 1290 р.!",
+    "exclusive": false,
+    "date_end": "2027-08-31T23:59:00",
+    "date_start": "2018-10-11T00:00:00",
+    "id": 194477,
+    "regions": [
+      "RU"
+    ],
+    "discount": "1%",
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/10/7/18780-06b292277055c0b6.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Пицца Пепперони 30см в подарок от 1290 р.!",
+    "language": null,
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "admi_pep_*",
+    "frameset_link": "https://kdbov.com/coupon/10pligopf95af0702a272e77510c9d/?erid=MvGzQC98w3Z1gMq1nSqMP42V",
+    "goto_link": "https://kdbov.com/g/jiv3q1rc3e5af0702a272e77510c9d/?i=3&erid=MvGzQC98w3Z1gMq1nSqMP42V"
+  }
+]

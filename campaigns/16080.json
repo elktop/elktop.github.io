@@ -1,0 +1,45 @@
+[
+  {
+    "status": "active",
+    "rating": "8.86",
+    "campaign": {
+      "id": 16080,
+      "name": "Huawei RU",
+      "site_url": "https://consumer.huawei.com/ru/"
+    },
+    "description": "",
+    "short_name": "Все акции магазина",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-03-15T16:55:21",
+    "id": 675997,
+    "regions": [
+      "RU"
+    ],
+    "discount": "1%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/3/5/16080-8bdacf1efa80d58d.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Все акции магазина",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://kpwfp.com/g/uyd6pjswlp5af0702a279c697b6d2a/?i=3&erid=5jtCeReNwxHpfQTHQ8xwSxw"
+  }
+]

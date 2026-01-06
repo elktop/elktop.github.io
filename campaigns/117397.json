@@ -1,0 +1,45 @@
+[
+  {
+    "status": "active",
+    "rating": "5.52",
+    "campaign": {
+      "id": 117397,
+      "name": "Rossko RU",
+      "site_url": "https://rossko.ru"
+    },
+    "description": "",
+    "short_name": "Скидка 10% на первый заказ!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-02-27T13:55:00",
+    "id": 825806,
+    "regions": [
+      "RU"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/12/23/117397-244d97f518fc9d3b.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 20,
+        "name": "Auto & Moto Goods"
+      }
+    ],
+    "name": "Скидка 10% на первый заказ!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "A10",
+    "frameset_link": "",
+    "goto_link": "https://ujhjj.com/g/kigq1dt3dm5af0702a27648980e865/?i=3&erid=2bL9aMPo2e49hMef4piUr3djjk"
+  }
+]

@@ -1,0 +1,147 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 18806,
+      "name": "Svmoscow",
+      "site_url": "https://ru.sv77.com/"
+    },
+    "description": "На все товары по полной стоимости за исключением бренда Fear of God Essentias",
+    "short_name": "-10% на все по промокоду WLCM23",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-02-22T09:40:25",
+    "id": 522265,
+    "regions": [
+      "RU"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/10/14/18806-66cf99bff38fcb49.png",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      },
+      {
+        "id": 4,
+        "name": "Shoes"
+      },
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "-10% на все по промокоду WLCM23",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "WLCM23",
+    "frameset_link": "https://dorinebeaumont.com/coupon/vm9b71d9nz5af0702a2799856ee21b/?erid=2bL9aMPo2e49hMef4pfysTYnd5",
+    "goto_link": "https://dorinebeaumont.com/g/qh7exffxm55af0702a2799856ee21b/?i=3&erid=2bL9aMPo2e49hMef4pfysTYnd5"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 18806,
+      "name": "Svmoscow",
+      "site_url": "https://ru.sv77.com/"
+    },
+    "description": "",
+    "short_name": "Sale (women style)",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2022-06-28T16:53:54",
+    "id": 465613,
+    "regions": [
+      "RU"
+    ],
+    "discount": "40%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/10/14/18806-66cf99bff38fcb49.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 4,
+        "name": "Shoes"
+      },
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Sale (women style)",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://dorinebeaumont.com/coupon/nwk8a8w0tk5af0702a2799856ee21b/?erid=2bL9aMPo2e49hMef4pezts9JX6",
+    "goto_link": "https://dorinebeaumont.com/g/p77k3mlu2f5af0702a2799856ee21b/?i=3&erid=2bL9aMPo2e49hMef4pezts9JX6"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 18806,
+      "name": "Svmoscow",
+      "site_url": "https://ru.sv77.com/"
+    },
+    "description": "",
+    "short_name": "Sale (men style)",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2021-12-23T11:04:08",
+    "id": 423526,
+    "regions": [
+      "RU"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/10/14/18806-66cf99bff38fcb49.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 4,
+        "name": "Shoes"
+      },
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Sale (men style)",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://dorinebeaumont.com/coupon/c3d4qesogo5af0702a2799856ee21b/?erid=2bL9aMPo2e49hMef4peW1pX6AR",
+    "goto_link": "https://dorinebeaumont.com/g/ulht3eo0ej5af0702a2799856ee21b/?i=3&erid=2bL9aMPo2e49hMef4peW1pX6AR"
+  }
+]

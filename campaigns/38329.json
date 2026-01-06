@@ -1,0 +1,49 @@
+[
+  {
+    "status": "active",
+    "rating": "7.66",
+    "campaign": {
+      "id": 38329,
+      "name": "Pro32.com",
+      "site_url": "https://pro32.com"
+    },
+    "description": "Дополнительные условия: Скидки не суммируются с другими предложениями. Предложение действует только на Российской версии сайта https://pro32.com/ru/\r\n\r\nСкидка применяется на решения:\r\nPRO32 Ultimate Security, PRO32 Total Security, PRO32 Mobile Security, PRO32 Office Secuirty Base, itHelper, OfficeSuite.",
+    "short_name": "Дополнительная скидка 20%  на все решения для дома и офиса!",
+    "exclusive": false,
+    "date_end": "2026-01-11T23:59:00",
+    "date_start": "2025-12-15T00:00:00",
+    "id": 891291,
+    "regions": [
+      "RU"
+    ],
+    "discount": "20%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/8/2/38329-adb321875bef3220.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      },
+      {
+        "id": 189,
+        "name": "New Year Festival 2026"
+      }
+    ],
+    "name": "Дополнительная скидка 20%  на все решения для дома и офиса!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NEWYEAR25",
+    "frameset_link": "",
+    "goto_link": "https://dhwnh.com/g/y1tsmt43yc5af0702a27218237fc8f/?i=3&erid=2bL9aMPo2e49hMef4rqy6U9t9h"
+  }
+]

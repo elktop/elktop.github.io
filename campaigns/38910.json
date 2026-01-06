@@ -1,0 +1,510 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 38910,
+      "name": "Allegra K Many GEOs",
+      "site_url": "https://www.allegra-k.com/"
+    },
+    "description": "2026 New Year Sales- Buy 3 Get 3RD 35%OFF",
+    "short_name": "2026 New Year Sales- Buy 3 Get 3RD 35%OFF",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-12-26T12:16:05",
+    "id": 893464,
+    "regions": [
+      "AU",
+      "CA",
+      "DE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "IE",
+      "IT",
+      "JP",
+      "US"
+    ],
+    "discount": "35%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/6/28/38910-7b12fecf5b3b3671.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "2026 New Year Sales- Buy 3 Get 3RD 35%OFF",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NY35",
+    "frameset_link": "",
+    "goto_link": "https://dorinebeaumont.com/g/n7ggnbzkco5af0702a27cdeebe7d54/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 38910,
+      "name": "Allegra K Many GEOs",
+      "site_url": "https://www.allegra-k.com/"
+    },
+    "description": "2026 New Year Sales- Buy 1 Get 2ND 15%OFF",
+    "short_name": "2026 New Year Sales- Buy 1 Get 2ND 15%OFF",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-12-26T12:12:32",
+    "id": 893463,
+    "regions": [
+      "AU",
+      "CA",
+      "DE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "IE",
+      "IT",
+      "JP",
+      "US"
+    ],
+    "discount": "15%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/6/28/38910-7b12fecf5b3b3671.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "2026 New Year Sales- Buy 1 Get 2ND 15%OFF",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NY15",
+    "frameset_link": "",
+    "goto_link": "https://dorinebeaumont.com/g/e6gudfur295af0702a27cdeebe7d54/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 38910,
+      "name": "Allegra K Many GEOs",
+      "site_url": "https://www.allegra-k.com/"
+    },
+    "description": "",
+    "short_name": "Buy 2 Get 3RD 35%OFF For FW New Arrival Looks",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-10-21T09:28:23",
+    "id": 879825,
+    "regions": [
+      "AU",
+      "CA",
+      "DE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "IE",
+      "IT",
+      "JP",
+      "US"
+    ],
+    "discount": "35%",
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      },
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/6/28/38910-7b12fecf5b3b3671.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Buy 2 Get 3RD 35%OFF For FW New Arrival Looks",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "BUY35",
+    "frameset_link": "",
+    "goto_link": "https://dorinebeaumont.com/g/asydjbt2cb5af0702a27cdeebe7d54/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 38910,
+      "name": "Allegra K Many GEOs",
+      "site_url": "https://www.allegra-k.com/"
+    },
+    "description": "",
+    "short_name": "Buy 1 Get 2ND 15%OFF For FW New Arrival Looks",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-10-21T09:27:07",
+    "id": 879824,
+    "regions": [
+      "AU",
+      "CA",
+      "DE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "IE",
+      "IT",
+      "JP",
+      "US"
+    ],
+    "discount": "15%",
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      },
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/6/28/38910-7b12fecf5b3b3671.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Buy 1 Get 2ND 15%OFF For FW New Arrival Looks",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "BUY15",
+    "frameset_link": "",
+    "goto_link": "https://dorinebeaumont.com/g/g0wjwqgou85af0702a27cdeebe7d54/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 38910,
+      "name": "Allegra K Many GEOs",
+      "site_url": "https://www.allegra-k.com/"
+    },
+    "description": "",
+    "short_name": "Order Over $159 Get 20%OFF Site-wide Coupon",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-07-14T12:56:34",
+    "id": 862007,
+    "regions": [
+      "AU",
+      "CA",
+      "DE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "IE",
+      "IT",
+      "JP",
+      "US"
+    ],
+    "discount": "20%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/6/28/38910-7b12fecf5b3b3671.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Order Over $159 Get 20%OFF Site-wide Coupon",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "SS20",
+    "frameset_link": "",
+    "goto_link": "https://dorinebeaumont.com/g/0b3n79e7uh5af0702a27cdeebe7d54/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 38910,
+      "name": "Allegra K Many GEOs",
+      "site_url": "https://www.allegra-k.com/"
+    },
+    "description": "",
+    "short_name": "Order Over $89 Get 10%OFF Site-wide Coupon",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-07-14T12:51:20",
+    "id": 862006,
+    "regions": [
+      "AU",
+      "CA",
+      "DE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "IE",
+      "IT",
+      "JP",
+      "US"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/6/28/38910-7b12fecf5b3b3671.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Order Over $89 Get 10%OFF Site-wide Coupon",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "SS10",
+    "frameset_link": "",
+    "goto_link": "https://dorinebeaumont.com/g/yoyqbbi3ax5af0702a27cdeebe7d54/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 38910,
+      "name": "Allegra K Many GEOs",
+      "site_url": "https://www.allegra-k.com/"
+    },
+    "description": "",
+    "short_name": "26%OFF site-wide coupon",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-12-06T05:42:57",
+    "id": 611255,
+    "regions": [
+      "CA",
+      "DE",
+      "ES",
+      "FR",
+      "IE",
+      "IT",
+      "JP",
+      "US"
+    ],
+    "discount": "26%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/6/28/38910-7b12fecf5b3b3671.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "26%OFF site-wide coupon",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "FRIDAY26",
+    "frameset_link": "",
+    "goto_link": "https://dorinebeaumont.com/g/avma0ish6y5af0702a27cdeebe7d54/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 38910,
+      "name": "Allegra K Many GEOs",
+      "site_url": "https://www.allegra-k.com/"
+    },
+    "description": "",
+    "short_name": "25%OFF site-wide coupon",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-09-18T05:12:33",
+    "id": 582900,
+    "regions": [
+      "CA",
+      "US"
+    ],
+    "discount": "25%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/6/28/38910-7b12fecf5b3b3671.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "25%OFF site-wide coupon",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "AKAD25",
+    "frameset_link": "",
+    "goto_link": "https://dorinebeaumont.com/g/5vpralqcv85af0702a27cdeebe7d54/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 38910,
+      "name": "Allegra K Many GEOs",
+      "site_url": "https://www.allegra-k.com/"
+    },
+    "description": "20%OFF Allegra K site wide coupon",
+    "short_name": "20%OFF Allegra K site wide coupon",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-07-19T10:36:33",
+    "id": 559253,
+    "regions": [
+      "CA",
+      "US"
+    ],
+    "discount": "20%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/6/28/38910-7b12fecf5b3b3671.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "20%OFF Allegra K site wide coupon",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "AKAD20",
+    "frameset_link": "",
+    "goto_link": "https://dorinebeaumont.com/g/a9jvcp5anj5af0702a27cdeebe7d54/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 38910,
+      "name": "Allegra K Many GEOs",
+      "site_url": "https://www.allegra-k.com/"
+    },
+    "description": "15%OFF Allegra K site wide coupon",
+    "short_name": "15%OFF Allegra K site wide coupon",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-07-19T07:11:54",
+    "id": 559243,
+    "regions": [
+      "CA",
+      "US"
+    ],
+    "discount": "15%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/6/28/38910-7b12fecf5b3b3671.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "15%OFF Allegra K site wide coupon",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ALLEGRAK",
+    "frameset_link": "",
+    "goto_link": "https://dorinebeaumont.com/g/g2wne5zcme5af0702a27cdeebe7d54/?i=3"
+  }
+]

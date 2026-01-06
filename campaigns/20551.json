@@ -1,0 +1,88 @@
+[
+  {
+    "status": "active",
+    "rating": "7.79",
+    "campaign": {
+      "id": 20551,
+      "name": "Аквафор",
+      "site_url": "https://shop.aquaphor.ru/"
+    },
+    "description": "",
+    "short_name": "Акции в Москве!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2022-08-17T09:17:27",
+    "id": 478016,
+    "regions": [
+      "RU"
+    ],
+    "discount": "1%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/3/13/20551-7f5e969a80aa4ea0.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 7,
+        "name": "Homeware"
+      }
+    ],
+    "name": "Акции в Москве!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://zmgig.com/g/dzi5b908xm5af0702a277daad499a8/?i=3&erid=2bL9aMPo2e49hMef4pfUsnu6MB"
+  },
+  {
+    "status": "active",
+    "rating": "3.90",
+    "campaign": {
+      "id": 20551,
+      "name": "Аквафор",
+      "site_url": "https://shop.aquaphor.ru/"
+    },
+    "description": "Ввод промокода не требуется.",
+    "short_name": "Бесплатная доставка от 4000 руб.",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2020-12-09T18:05:26",
+    "id": 349998,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/3/13/20551-7f5e969a80aa4ea0.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 7,
+        "name": "Homeware"
+      }
+    ],
+    "name": "Бесплатная доставка от 4000 руб.",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://zmgig.com/g/8yhbhdx7mz5af0702a277daad499a8/?i=3&erid=MvGzQC98w3Z1gMq1pSbBhJqM"
+  }
+]

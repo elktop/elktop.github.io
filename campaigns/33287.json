@@ -1,0 +1,53 @@
+[
+  {
+    "status": "active",
+    "rating": "1.96",
+    "campaign": {
+      "id": 33287,
+      "name": "Patch and Go",
+      "site_url": "https://patchandgo.ru/"
+    },
+    "description": "Работает только при оплате заказа онлайн на сайте www.patchandgo.ru. Не распространяется на товары со скидкой, не суммируется с другими кодами и акциями, не действует на разделы Бьюти Upcyclе, Красота внутри, Наборы, Подарочные сертификаты и подарочные наборы Антон тут рядом. Не действует на бренды Jan Marini, Davines.",
+    "short_name": "Скидка -10%",
+    "exclusive": false,
+    "date_end": "2026-01-11T23:59:00",
+    "date_start": "2025-12-18T11:56:00",
+    "id": 632684,
+    "regions": [
+      "RU"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/9/2/33287-f076d6f6ca7ea4ad.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      },
+      {
+        "id": 184,
+        "name": "Oktoberfest 2025"
+      },
+      {
+        "id": 189,
+        "name": "New Year Festival 2026"
+      }
+    ],
+    "name": "Скидка -10%",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ADMIFEST",
+    "frameset_link": "",
+    "goto_link": "https://bywiola.com/g/wqktd9cc185af0702a274b31e04720/?i=3&erid=5jtCeReNwxHpfQTGui6NYAM"
+  }
+]

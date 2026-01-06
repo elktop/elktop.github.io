@@ -1,0 +1,88 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 25178,
+      "name": "Answear BG/Euro",
+      "site_url": "https://answear.bg/"
+    },
+    "description": "Безплатна доставка и връщане за поръчки над 109,99 лв., направени от регистрирани клиенти",
+    "short_name": "Безплатна доставка и връщане за поръчки над 109,99 лв",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-03-06T15:39:20",
+    "id": 671569,
+    "regions": [
+      "BG"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/6/21/25178-470ed79ac16bc954.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Безплатна доставка и връщане за поръчки над 109,99 лв",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "https://rzekl.com/coupon/191kgx8elm5af0702a279020b4167c/",
+    "goto_link": "https://rzekl.com/g/9u9mk8tvvw5af0702a279020b4167c/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 25178,
+      "name": "Answear BG/Euro",
+      "site_url": "https://answear.bg/"
+    },
+    "description": "-15% отстъпка за първа поръчка, когато се абонираш за бюлетина\r\n\r\n**Еднократна отстъпка само за ненамалени продукти, валидна при покупка за минимум 100 лв. Не се комбинира с други промоции и ще бъде изпратена на посочения от теб имейл.",
+    "short_name": "-15% отстъпка за първа поръчка, когато се абонираш за бюлетина",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-03-06T15:34:36",
+    "id": 671566,
+    "regions": [
+      "BG"
+    ],
+    "discount": "15%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/6/21/25178-470ed79ac16bc954.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "-15% отстъпка за първа поръчка, когато се абонираш за бюлетина",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "https://rzekl.com/coupon/ry4msliemu5af0702a279020b4167c/",
+    "goto_link": "https://rzekl.com/g/ww0ff5q6nw5af0702a279020b4167c/?i=3"
+  }
+]

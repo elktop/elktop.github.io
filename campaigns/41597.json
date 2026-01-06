@@ -1,0 +1,45 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 41597,
+      "name": "MyHeritage DNA WW",
+      "site_url": "https://www.myheritage.com/"
+    },
+    "description": "$29 / €29 / £29 / AUD 52 / CAD 45 / NZD 55 / NOK 319 / DKK 209 / CHF 29 / BRL 179 / MXN 589",
+    "short_name": "New Year DNA Sale – Extended",
+    "exclusive": false,
+    "date_end": "2026-01-07T23:59:00",
+    "date_start": "2026-01-04T00:00:00",
+    "id": 891880,
+    "regions": [
+      "00"
+    ],
+    "discount": "29 $",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/11/18/41597-5bf4ef2b3fe781fa.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "New Year DNA Sale – Extended",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/bdjnjaoaov5af0702a27e403a0fd30/?i=3"
+  }
+]

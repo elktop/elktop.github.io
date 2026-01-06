@@ -1,0 +1,96 @@
+[
+  {
+    "status": "active",
+    "rating": "0.78",
+    "campaign": {
+      "id": 103671,
+      "name": "CS2CASE [RevShare] WW",
+      "site_url": "https://cs2case.win/"
+    },
+    "description": "Промокод который дает 15 рублей на баланс, позволяющий бесплатно открывать кейсы \"YOU\"",
+    "short_name": "Промокод который дает 15 рублей на баланс, позволяющий бесплатно открывать кейсы \"YOU\"",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-07-03T10:29:17",
+    "id": 772401,
+    "regions": [
+      "BY",
+      "RU",
+      "TJ",
+      "UA",
+      "UZ"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/7/3/103671-0fbd2d63825208e4.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 19,
+        "name": "Games"
+      }
+    ],
+    "name": "Промокод который дает 15 рублей на баланс, позволяющий бесплатно открывать кейсы \"YOU\"",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "YOU",
+    "frameset_link": "",
+    "goto_link": "https://sgkaa.com/g/3cxb1t234f5af0702a274e1b76ac97/?i=3&erid=2bL9aMPo2e49hMef4phyrRwhTe"
+  },
+  {
+    "status": "active",
+    "rating": "3.32",
+    "campaign": {
+      "id": 103671,
+      "name": "CS2CASE [RevShare] WW",
+      "site_url": "https://cs2case.win/"
+    },
+    "description": "Промокод который дает + к депозиту в виде 30% \"CS2CASE\"",
+    "short_name": "Промокод который дает + к депозиту в виде 30% \"CS2CASE\"",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-07-03T10:28:43",
+    "id": 772400,
+    "regions": [
+      "BY",
+      "RU",
+      "TJ",
+      "UA",
+      "UZ"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/7/3/103671-0fbd2d63825208e4.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 19,
+        "name": "Games"
+      }
+    ],
+    "name": "Промокод который дает + к депозиту в виде 30% \"CS2CASE\"",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "CS2CASE",
+    "frameset_link": "",
+    "goto_link": "https://sgkaa.com/g/652ke68f6g5af0702a274e1b76ac97/?i=3&erid=2bL9aMPo2e49hMef4phyrRwhTd"
+  }
+]

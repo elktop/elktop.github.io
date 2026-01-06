@@ -1,0 +1,49 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 95706,
+      "name": "Tvigle RU",
+      "site_url": "https://tvigle.ru/"
+    },
+    "description": "тариф: 3 месяца\r\nтип: мульти\r\nактивировать до: 31.12.2026",
+    "short_name": "Дает право на подписку Tvigle на 3 месяца",
+    "exclusive": false,
+    "date_end": "2026-01-11T23:59:00",
+    "date_start": "2025-12-17T00:00:00",
+    "id": 892152,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/4/16/95706-d3a4dbfdc9df0abe.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      },
+      {
+        "id": 189,
+        "name": "New Year Festival 2026"
+      }
+    ],
+    "name": "Дает право на подписку Tvigle на 3 месяца",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ADM26",
+    "frameset_link": "",
+    "goto_link": "https://zallj.com/g/80xo9n58p95af0702a270828aff76b/?i=3&erid=2bL9aMPo2e49hMef4rqy6YaApJ"
+  }
+]

@@ -1,0 +1,217 @@
+[
+  {
+    "status": "active",
+    "rating": "6.51",
+    "campaign": {
+      "id": 143711,
+      "name": "Ricewear RU",
+      "site_url": "https://ricewear.com"
+    },
+    "description": "",
+    "short_name": "Скидки до 20%",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-11-07T15:07:16",
+    "id": 882168,
+    "regions": [
+      "RU"
+    ],
+    "discount": "20%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/10/27/143711-8105abd9b6260961.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Скидки до 20%",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://kjuzv.com/g/ghwsaypx7u5af0702a2736f9c1b6c7/?i=3&erid=2bL9aMPo2e49hMef4rqxsH7ajZ"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 143711,
+      "name": "Ricewear RU",
+      "site_url": "https://ricewear.com"
+    },
+    "description": "",
+    "short_name": "Бесплатная доставка от 15 000 рублей",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-11-07T15:06:37",
+    "id": 882167,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/10/27/143711-8105abd9b6260961.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Бесплатная доставка от 15 000 рублей",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://kjuzv.com/g/5vj0jxa40o5af0702a2736f9c1b6c7/?i=3&erid=2bL9aMPo2e49hMef4rqxsH7ajY"
+  },
+  {
+    "status": "active",
+    "rating": "4.68",
+    "campaign": {
+      "id": 143711,
+      "name": "Ricewear RU",
+      "site_url": "https://ricewear.com"
+    },
+    "description": "",
+    "short_name": "Скидка 10 % на капсулу подиумного стиля в честь коллаборации RICE × Sochi Fashion Week",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-11-07T15:06:12",
+    "id": 882166,
+    "regions": [
+      "RU"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/10/27/143711-8105abd9b6260961.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Скидка 10 % на капсулу подиумного стиля в честь коллаборации RICE × Sochi Fashion Week",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "SFW10",
+    "frameset_link": "",
+    "goto_link": "https://kjuzv.com/g/i8iy43uo895af0702a2736f9c1b6c7/?i=3&erid=2bL9aMPo2e49hMef4rqxsH7ajX"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 143711,
+      "name": "Ricewear RU",
+      "site_url": "https://ricewear.com"
+    },
+    "description": "",
+    "short_name": "Скидка 10 % на премиальную линейку RICE",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-11-07T15:05:02",
+    "id": 882165,
+    "regions": [
+      "RU"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/10/27/143711-8105abd9b6260961.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Скидка 10 % на премиальную линейку RICE",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "KINSEI10",
+    "frameset_link": "",
+    "goto_link": "https://kjuzv.com/g/r3lbhnoagu5af0702a2736f9c1b6c7/?i=3&erid=2bL9aMPo2e49hMef4rqxsH7ajW"
+  },
+  {
+    "status": "active",
+    "rating": "5.55",
+    "campaign": {
+      "id": 143711,
+      "name": "Ricewear RU",
+      "site_url": "https://ricewear.com"
+    },
+    "description": "",
+    "short_name": "Скидка 10 % на осмысленную одежду RICE",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-11-07T15:04:09",
+    "id": 882162,
+    "regions": [
+      "RU"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/10/27/143711-8105abd9b6260961.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Скидка 10 % на осмысленную одежду RICE",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "WABISABI10",
+    "frameset_link": "",
+    "goto_link": "https://kjuzv.com/g/dux8i7upw85af0702a2736f9c1b6c7/?i=3&erid=2bL9aMPo2e49hMef4rqxsH7ajT"
+  }
+]

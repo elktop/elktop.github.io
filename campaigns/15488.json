@@ -1,0 +1,88 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 15488,
+      "name": "Moulinex",
+      "site_url": "https://moulinex.ru/"
+    },
+    "description": "Скидка по промокоду ЗИМА суммируется с ценой, указанной на сайте.\r\nПредложение действует только на товары с акционной страницы.\r\nАкция действует до 19.01 включительно.\r\nНе суммируется с баллами программы лояльности, другими акциями и товарами с финальной ценой.",
+    "short_name": "Зимние скидки до 60%",
+    "exclusive": false,
+    "date_end": "2026-01-19T23:59:00",
+    "date_start": "2025-12-26T00:00:00",
+    "id": 893469,
+    "regions": [
+      "RU"
+    ],
+    "discount": "60%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/10/26/15488-45e62abccca25147.jpg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Зимние скидки до 60%",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ЗИМА",
+    "frameset_link": "",
+    "goto_link": "https://rthsu.com/g/iionmazh6z5af0702a27737106c3e0/?i=3&erid=2bL9aMPo2e49hMef4rqyCujRUA"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 15488,
+      "name": "Moulinex",
+      "site_url": "https://moulinex.ru/"
+    },
+    "description": "\"Выберите товар из каталога и оформите бесплатную доставку*\r\n\r\n*В Москве и Санкт-Петербурге при заказе товара на сумму от 3000руб.\"",
+    "short_name": "Бесплатная доставка по Санкт-Петербургу и Москве",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-08-23T00:00:00",
+    "id": 92328,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/10/26/15488-45e62abccca25147.jpg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Бесплатная доставка по Санкт-Петербургу и Москве",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://rthsu.com/g/qmun5bo4705af0702a27737106c3e0/?i=3&erid=25H8d7vbP8SRTvGZQjs4Bw"
+  }
+]

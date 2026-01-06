@@ -1,0 +1,45 @@
+[
+  {
+    "status": "active",
+    "rating": "9.18",
+    "campaign": {
+      "id": 27278,
+      "name": "Yandex eda",
+      "site_url": "https://eda.yandex.ru/"
+    },
+    "description": "Скидка 20% в Яндекс Еда на первый заказ от 900 рублей без учёта стоимости доставки и сервисного сбора. Скидка для новых пользователей, не имеющих заказы в сервисах Деливери и Яндекс Еда. Максимальный размер скидки — 2000 рублей. Срок действия с 05.06.2025 по 31.08.2025",
+    "short_name": "Скидка 20% в Яндекс Еда на первый заказ от 900 рублей без учёта стоимости доставки, сервисного сбора",
+    "exclusive": false,
+    "date_end": "2026-01-31T23:59:00",
+    "date_start": "2025-11-24T13:19:00",
+    "id": 853546,
+    "regions": [
+      "RU"
+    ],
+    "discount": "20%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2022/1/14/27278-0abb3d0c54679551.png",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Скидка 20% в Яндекс Еда на первый заказ от 900 рублей без учёта стоимости доставки, сервисного сбора",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "Admitad",
+    "frameset_link": "https://yyczo.com/coupon/3q9vo7zh7u5af0702a27a368968085/?erid=2bL9aMPo2e49hMef4rqUKtXBNg",
+    "goto_link": "https://yyczo.com/g/j6pc7t3juy5af0702a27a368968085/?i=3&erid=2bL9aMPo2e49hMef4rqUKtXBNg"
+  }
+]

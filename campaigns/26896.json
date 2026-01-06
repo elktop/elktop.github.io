@@ -1,0 +1,45 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 26896,
+      "name": "АТЛ UA",
+      "site_url": "https://atl.ua"
+    },
+    "description": "",
+    "short_name": "Вигідно із АТЛ! Блок води зі знижкою 20%!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-05-28T17:20:12",
+    "id": 759702,
+    "regions": [
+      "UA"
+    ],
+    "discount": "20%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/12/1/26896-1a39a4b38b6f065d.jpg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Вигідно із АТЛ! Блок води зі знижкою 20%!",
+    "language": "ua",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "https://uuwgc.com/coupon/qzra3r35bj5af0702a2724bde01f1a/",
+    "goto_link": "https://uuwgc.com/g/zx89bv4t6n5af0702a2724bde01f1a/?i=3"
+  }
+]

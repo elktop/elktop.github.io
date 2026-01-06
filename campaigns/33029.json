@@ -1,0 +1,264 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 33029,
+      "name": "KRONA",
+      "site_url": "https://krona.ru/"
+    },
+    "description": "",
+    "short_name": "Новогодняя распродажа, -60%",
+    "exclusive": false,
+    "date_end": "2026-01-12T23:59:00",
+    "date_start": "2025-12-30T00:00:00",
+    "id": 893950,
+    "regions": [
+      "RU"
+    ],
+    "discount": "60%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/3/24/33029-d0586ebf3c523c8c.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Новогодняя распродажа, -60%",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://rcpsj.com/g/7f9u6iiz565af0702a2748c36e3ba0/?i=3&erid=2bL9aMPo2e49hMef4rqyCwDQNM"
+  },
+  {
+    "status": "active",
+    "rating": "6.37",
+    "campaign": {
+      "id": 33029,
+      "name": "KRONA",
+      "site_url": "https://krona.ru/"
+    },
+    "description": "",
+    "short_name": "20% скидки на все товары!",
+    "exclusive": false,
+    "date_end": "2026-01-11T23:59:00",
+    "date_start": "2025-12-15T00:00:00",
+    "id": 885113,
+    "regions": [
+      "RU"
+    ],
+    "discount": "20%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/3/24/33029-d0586ebf3c523c8c.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      },
+      {
+        "id": 189,
+        "name": "New Year Festival 2026"
+      }
+    ],
+    "name": "20% скидки на все товары!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "admitad2026",
+    "frameset_link": "",
+    "goto_link": "https://rcpsj.com/g/z37nvlzv2i5af0702a2748c36e3ba0/?i=3&erid=2bL9aMPo2e49hMef4rqxsTWqnR"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 33029,
+      "name": "KRONA",
+      "site_url": "https://krona.ru/"
+    },
+    "description": "",
+    "short_name": "Cнижение цен на все смесители и кухонные мойки до 50%",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-06-11T14:53:18",
+    "id": 854319,
+    "regions": [
+      "RU"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/3/24/33029-d0586ebf3c523c8c.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Cнижение цен на все смесители и кухонные мойки до 50%",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://rcpsj.com/g/sp15gk0tl95af0702a2748c36e3ba0/?i=3&erid=2bL9aMPo2e49hMef4rqUKwVUp6"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 33029,
+      "name": "KRONA",
+      "site_url": "https://krona.ru/"
+    },
+    "description": "",
+    "short_name": "Скидка 34% на морозильник WIESEL",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-04-22T16:06:56",
+    "id": 847726,
+    "regions": [
+      "RU"
+    ],
+    "discount": "34%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/3/24/33029-d0586ebf3c523c8c.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Скидка 34% на морозильник WIESEL",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://rcpsj.com/g/yw8a57amw95af0702a2748c36e3ba0/?i=3&erid=2bL9aMPo2e49hMef4rqUDDbkXD"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 33029,
+      "name": "KRONA",
+      "site_url": "https://krona.ru/"
+    },
+    "description": "",
+    "short_name": "заказы от 25000 руб по Москве и Московской области, в СПБ и ЛО доставляются бесплатно",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-08-21T15:15:52",
+    "id": 788040,
+    "regions": [
+      "RU"
+    ],
+    "discount": "1%",
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/3/24/33029-d0586ebf3c523c8c.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "заказы от 25000 руб по Москве и Московской области, в СПБ и ЛО доставляются бесплатно",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://rcpsj.com/g/xll956gg7y5af0702a2748c36e3ba0/?i=3&erid=2bL9aMPo2e49hMef4phzC61WMd"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 33029,
+      "name": "KRONA",
+      "site_url": "https://krona.ru/"
+    },
+    "description": "Скидка не суммируется с другими скидками и промокодами (кроме скидки 3% за оплату онлайн). То есть по промокоду покупатель получает скидку 10% при оплате онлайн.",
+    "short_name": "5% скидка на все товары.",
+    "exclusive": true,
+    "date_end": "2026-03-01T23:59:00",
+    "date_start": "2025-06-06T10:45:00",
+    "id": 684888,
+    "regions": [
+      "RU"
+    ],
+    "discount": "5%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/3/24/33029-d0586ebf3c523c8c.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "5% скидка на все товары.",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "krona5",
+    "frameset_link": "",
+    "goto_link": "https://rcpsj.com/g/2lwf86qmhy5af0702a2748c36e3ba0/?i=3&erid=2bL9aMPo2e49hMef4phUrcR6vp"
+  }
+]

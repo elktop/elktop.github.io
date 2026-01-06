@@ -1,0 +1,45 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 90288,
+      "name": "Turbosto UA",
+      "site_url": "https://turbosto.com.ua/"
+    },
+    "description": "",
+    "short_name": "Знижка -5% на все",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-05-24T14:10:25",
+    "id": 758932,
+    "regions": [
+      "UA"
+    ],
+    "discount": "5%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/3/7/90288-49ca3d04665f5f8c.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "Знижка -5% на все",
+    "language": "ua",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "",
+    "goto_link": "https://xnmik.com/g/yvg67nmfi65af0702a27651cd57d89/?i=3"
+  }
+]

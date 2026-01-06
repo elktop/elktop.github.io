@@ -1,0 +1,88 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 24854,
+      "name": "Alter",
+      "site_url": "https://alter.ru/start"
+    },
+    "description": null,
+    "short_name": "20% скидка на первую сессию",
+    "exclusive": true,
+    "date_end": "2026-12-31T00:00:00",
+    "date_start": "2025-12-24T00:00:00",
+    "id": 893251,
+    "regions": [
+      "RU"
+    ],
+    "discount": "20%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/6/28/24854-b20488b3c44f1f9b.png",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "20% скидка на первую сессию",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "Admitad",
+    "frameset_link": "",
+    "goto_link": "https://dkfrh.com/g/wixo7qht955af0702a276704bcdbc1/?i=3&erid=2bL9aMPo2e49hMef4rqyCuhjyz"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 24854,
+      "name": "Alter",
+      "site_url": "https://alter.ru/start"
+    },
+    "description": "",
+    "short_name": "23% на первую сессию с психологом",
+    "exclusive": false,
+    "date_end": "2026-01-11T23:59:00",
+    "date_start": "2025-12-15T00:00:00",
+    "id": 889841,
+    "regions": [
+      "RU"
+    ],
+    "discount": "23%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/6/28/24854-b20488b3c44f1f9b.png",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 189,
+        "name": "New Year Festival 2026"
+      }
+    ],
+    "name": "23% на первую сессию с психологом",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NewYear26",
+    "frameset_link": "",
+    "goto_link": "https://dkfrh.com/g/79ar8tp2lz5af0702a276704bcdbc1/?i=3&erid=2bL9aMPo2e49hMef4rqxyvb3aF"
+  }
+]

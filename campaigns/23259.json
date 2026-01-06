@@ -1,0 +1,88 @@
+[
+  {
+    "status": "active",
+    "rating": "6.05",
+    "campaign": {
+      "id": 23259,
+      "name": "Часы Молния Many GEOs",
+      "site_url": "https://molnija.shop/"
+    },
+    "description": "",
+    "short_name": "Коллекции наручных часов!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2022-04-04T15:29:00",
+    "id": 354004,
+    "regions": [
+      "00"
+    ],
+    "discount": "1%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/4/9/23259-2df8ba27ac7adc41.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 10,
+        "name": "Watches & Jewelry"
+      }
+    ],
+    "name": "Коллекции наручных часов!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://rzekl.com/g/grzo3dbx685af0702a2726e097ca3d/?i=3&erid=2bL9aMPo2e49hMef4pdz7gB9vK"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 23259,
+      "name": "Часы Молния Many GEOs",
+      "site_url": "https://molnija.shop/"
+    },
+    "description": "",
+    "short_name": "Бесплатная доставка по всему миру!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2022-04-04T15:29:00",
+    "id": 338174,
+    "regions": [
+      "00"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/4/9/23259-2df8ba27ac7adc41.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 10,
+        "name": "Watches & Jewelry"
+      }
+    ],
+    "name": "Бесплатная доставка по всему миру!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://rzekl.com/g/pfyw9ocg0l5af0702a2726e097ca3d/?i=3&erid=MvGzQC98w3Z1gMq1pSFQDZua"
+  }
+]

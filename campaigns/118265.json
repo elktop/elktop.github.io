@@ -1,0 +1,49 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 118265,
+      "name": "Отели в Т-Банке RU",
+      "site_url": "https://tbank.ru/travel/hotels/new/"
+    },
+    "description": "Новогодняя подборка отелей в Москве, Санкт-Петербурге, Казани, Калининграде, Сочи,  Екатеринбурге\r\nПромокод: ОЛИВЬЕ (до 25%, но не более 3 000 рублей на первый заказ при предоплате картой Т-Банка)\r\n\r\nДаты: 20.12 – 15.01",
+    "short_name": "Скидка 25% на первый заказ",
+    "exclusive": false,
+    "date_end": "2026-01-15T23:59:00",
+    "date_start": "2025-12-20T00:00:00",
+    "id": 892500,
+    "regions": [
+      "RU"
+    ],
+    "discount": "25%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/1/20/118265-d4679c1a8b8c06f3.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 12,
+        "name": "Tours & Travels"
+      },
+      {
+        "id": 189,
+        "name": "New Year Festival 2026"
+      }
+    ],
+    "name": "Скидка 25% на первый заказ",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ОЛИВЬЕ",
+    "frameset_link": "",
+    "goto_link": "https://kdbov.com/g/mo4rus9qvq5af0702a278654ebee79/?i=3&erid=2bL9aMPo2e49hMef4rqy6a4A2L"
+  }
+]

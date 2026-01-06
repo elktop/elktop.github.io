@@ -1,0 +1,45 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 91169,
+      "name": "Mie.ru",
+      "site_url": "https://mie.ru/"
+    },
+    "description": "",
+    "short_name": "Бесплатная доставка от любой суммы при онлайн оплате и оплате долями.",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-08-30T09:41:50",
+    "id": 792107,
+    "regions": [
+      "RU"
+    ],
+    "discount": "1%",
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/4/16/91169-f7f5688832b16655.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 10,
+        "name": "Watches & Jewelry"
+      }
+    ],
+    "name": "Бесплатная доставка от любой суммы при онлайн оплате и оплате долями.",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://zallj.com/g/0ra9567rpg5af0702a27417b147b40/?i=3&erid=2bL9aMPo2e49hMef4piU4GPamR"
+  }
+]

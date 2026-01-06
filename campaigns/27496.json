@@ -1,0 +1,346 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 27496,
+      "name": "Nutritive Cosmetics UA",
+      "site_url": "https://nutritive.com.ua"
+    },
+    "description": "-20% на всі товари у магазині окрім наборів, з іншими знижками не сумується",
+    "short_name": "Знижка -20%",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-09-10T15:37:56",
+    "id": 874705,
+    "regions": [
+      "UA"
+    ],
+    "discount": "20%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/4/19/27496-399108c67404c7e5.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Знижка -20%",
+    "language": "ua",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NutritiveFishka",
+    "frameset_link": "https://rzekl.com/coupon/b8zi1d72785af0702a27f8e73c2259/",
+    "goto_link": "https://rzekl.com/g/fmm49v8hr95af0702a27f8e73c2259/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 27496,
+      "name": "Nutritive Cosmetics UA",
+      "site_url": "https://nutritive.com.ua"
+    },
+    "description": "Підпишіться та отримайте знижку 10% на перше замовлення",
+    "short_name": "Підпишіться та отримайте знижку 10% на перше замовлення",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-04-28T16:01:33",
+    "id": 848395,
+    "regions": [
+      "UA"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/4/19/27496-399108c67404c7e5.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Підпишіться та отримайте знижку 10% на перше замовлення",
+    "language": "ua",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "https://rzekl.com/coupon/c1zhswzlja5af0702a27f8e73c2259/",
+    "goto_link": "https://rzekl.com/g/jltfhpnnmj5af0702a27f8e73c2259/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 27496,
+      "name": "Nutritive Cosmetics UA",
+      "site_url": "https://nutritive.com.ua"
+    },
+    "description": "Суперзнижки до -50%",
+    "short_name": "Суперзнижки до -50%",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-03-20T17:17:50",
+    "id": 839362,
+    "regions": [
+      "UA"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/4/19/27496-399108c67404c7e5.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Суперзнижки до -50%",
+    "language": "ua",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "https://rzekl.com/coupon/cjkopvj4ot5af0702a27f8e73c2259/",
+    "goto_link": "https://rzekl.com/g/1d0valsj005af0702a27f8e73c2259/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 27496,
+      "name": "Nutritive Cosmetics UA",
+      "site_url": "https://nutritive.com.ua"
+    },
+    "description": "Безкоштовна доставка при купівлі товарів на суму понад 800 грн",
+    "short_name": "Безкоштовна доставка при купівлі товарів на суму понад 800 грн",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-09-30T11:37:37",
+    "id": 799724,
+    "regions": [
+      "UA"
+    ],
+    "discount": "1 грн.",
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/4/19/27496-399108c67404c7e5.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Безкоштовна доставка при купівлі товарів на суму понад 800 грн",
+    "language": "ua",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "https://rzekl.com/coupon/0ezluao21b5af0702a27f8e73c2259/",
+    "goto_link": "https://rzekl.com/g/6dglb4wvzs5af0702a27f8e73c2259/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 27496,
+      "name": "Nutritive Cosmetics UA",
+      "site_url": "https://nutritive.com.ua"
+    },
+    "description": "Знижка -25% на аромати для дому Rebellion",
+    "short_name": "Знижка -25% на аромати для дому Rebellion",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-09-30T11:35:43",
+    "id": 799722,
+    "regions": [
+      "UA"
+    ],
+    "discount": "25%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/4/19/27496-399108c67404c7e5.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Знижка -25% на аромати для дому Rebellion",
+    "language": "ua",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ADRebellion25",
+    "frameset_link": "https://rzekl.com/coupon/obp2wwa7dk5af0702a27f8e73c2259/",
+    "goto_link": "https://rzekl.com/g/rkl255nues5af0702a27f8e73c2259/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 27496,
+      "name": "Nutritive Cosmetics UA",
+      "site_url": "https://nutritive.com.ua"
+    },
+    "description": "Знижка -25% на косметику Manelle",
+    "short_name": "Знижка -25% на косметику Manelle",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-09-30T11:34:30",
+    "id": 799721,
+    "regions": [
+      "UA"
+    ],
+    "discount": "25%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/4/19/27496-399108c67404c7e5.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Знижка -25% на косметику Manelle",
+    "language": "ua",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ADManelle25",
+    "frameset_link": "https://rzekl.com/coupon/ge5vnfu4qr5af0702a27f8e73c2259/",
+    "goto_link": "https://rzekl.com/g/7lbssd0s4x5af0702a27f8e73c2259/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 27496,
+      "name": "Nutritive Cosmetics UA",
+      "site_url": "https://nutritive.com.ua"
+    },
+    "description": "Знижка -20% на косметику Lapush",
+    "short_name": "Знижка -20% на косметику Lapush",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-09-30T11:33:14",
+    "id": 799720,
+    "regions": [
+      "UA"
+    ],
+    "discount": "20%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/4/19/27496-399108c67404c7e5.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Знижка -20% на косметику Lapush",
+    "language": "ua",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ADLapush20",
+    "frameset_link": "https://rzekl.com/coupon/e9eiwexq195af0702a27f8e73c2259/",
+    "goto_link": "https://rzekl.com/g/iht3040i5o5af0702a27f8e73c2259/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 27496,
+      "name": "Nutritive Cosmetics UA",
+      "site_url": "https://nutritive.com.ua"
+    },
+    "description": "Знижка -25% на косметику Biono",
+    "short_name": "Знижка -25% на косметику Biono",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-09-30T11:31:49",
+    "id": 799719,
+    "regions": [
+      "UA"
+    ],
+    "discount": "25%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/4/19/27496-399108c67404c7e5.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Знижка -25% на косметику Biono",
+    "language": "ua",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ADBiono25",
+    "frameset_link": "https://rzekl.com/coupon/gvrkjfaatw5af0702a27f8e73c2259/",
+    "goto_link": "https://rzekl.com/g/7se4jm2zc05af0702a27f8e73c2259/?i=3"
+  }
+]

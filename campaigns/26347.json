@@ -1,0 +1,53 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 26347,
+      "name": "New Balance PL",
+      "site_url": "https://nbsklep.pl"
+    },
+    "description": "",
+    "short_name": "15% OFF",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-10-25T10:19:19",
+    "id": 595392,
+    "regions": [
+      "PL"
+    ],
+    "discount": "15%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/8/29/26347-ba54b7db7b0a2231.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      },
+      {
+        "id": 4,
+        "name": "Shoes"
+      },
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "15% OFF",
+    "language": "pl",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NB15",
+    "frameset_link": "https://ad.admitad.com/coupon/486q0hk1aq5af0702a27d15ab831b6/",
+    "goto_link": "https://ad.admitad.com/g/u761gqs1ub5af0702a27d15ab831b6/?i=3"
+  }
+]

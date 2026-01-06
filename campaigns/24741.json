@@ -1,0 +1,88 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 24741,
+      "name": "Medmag UA",
+      "site_url": "https://medmag.ua/"
+    },
+    "description": "Знижка до -40% на акційні товари",
+    "short_name": "Знижка до -40% на акційні товари",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-02-14T22:39:28",
+    "id": 834301,
+    "regions": [
+      "UA"
+    ],
+    "discount": "40%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/4/19/24741-37379091625484b7.jpg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Знижка до -40% на акційні товари",
+    "language": "ua",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "https://ad.admitad.com/coupon/ty6wwgdjdh5af0702a27e4bdeeca69/",
+    "goto_link": "https://ad.admitad.com/g/nqbs28ipol5af0702a27e4bdeeca69/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 24741,
+      "name": "Medmag UA",
+      "site_url": "https://medmag.ua/"
+    },
+    "description": "Безкоштовна доставка від 3000грн",
+    "short_name": "Безкоштовна доставка від 3000грн",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-09-06T17:40:33",
+    "id": 793708,
+    "regions": [
+      "UA"
+    ],
+    "discount": "1 грн.",
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/4/19/24741-37379091625484b7.jpg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Безкоштовна доставка від 3000грн",
+    "language": "ua",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "https://ad.admitad.com/coupon/3cx0tr9qoj5af0702a27e4bdeeca69/",
+    "goto_link": "https://ad.admitad.com/g/vkvjv1zuur5af0702a27e4bdeeca69/?i=3"
+  }
+]

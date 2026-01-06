@@ -1,0 +1,45 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 15411,
+      "name": "Ножиков",
+      "site_url": "https://www.nozhikov.ru/"
+    },
+    "description": "",
+    "short_name": "Товары со скидкой до 50%",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2022-02-09T10:11:21",
+    "id": 432632,
+    "regions": [
+      "RU"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/3/17/15411-4235cec652a39301.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 7,
+        "name": "Homeware"
+      }
+    ],
+    "name": "Товары со скидкой до 50%",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://ntzgd.com/coupon/5k29qyw66e5af0702a27c109c80522/?erid=2bL9aMPo2e49hMef4peyzkEt6F",
+    "goto_link": "https://ntzgd.com/g/50otdb4uub5af0702a27c109c80522/?i=3&erid=2bL9aMPo2e49hMef4peyzkEt6F"
+  }
+]

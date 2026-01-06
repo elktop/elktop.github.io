@@ -1,0 +1,88 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 26798,
+      "name": "Petrolplus",
+      "site_url": "https://www.petrolplus.ru/"
+    },
+    "description": "Условия\r\nАкция действует для новых клиентов ООО \"ППР\"\r\nПредложение действует по всей стране при покупке запчастей и расходных материалов через нашего партнера FIT SERVICE\r\n \r\n\r\nПодключить акцию\r\nБесплатно заменим\r\nтехнические жидкости\r\nамортизаторы\r\nколодки и тормозные диски\r\nсвечи зажигания",
+    "short_name": "4 бесплатные услуги на Ремонт и ТО",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-05-03T00:00:00",
+    "id": 474720,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/10/27/26798-7b98b9f85dac8771.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "4 бесплатные услуги на Ремонт и ТО",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://rzekl.com/coupon/fkmyzm2u675af0702a27fdbdccbe6f/?erid=2bL9aMPo2e49hMef4pfUmKpZXm",
+    "goto_link": "https://rzekl.com/g/xqerbfugxk5af0702a27fdbdccbe6f/?i=3&erid=2bL9aMPo2e49hMef4pfUmKpZXm"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 26798,
+      "name": "Petrolplus",
+      "site_url": "https://www.petrolplus.ru/"
+    },
+    "description": "Акция действует для договоров, оформленных до 31 августа 2022 года.",
+    "short_name": "3 месяца тест-драйва карты «Вездеход Онлайн» без абонентской платы",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-10-12T00:00:00",
+    "id": 474719,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/10/27/26798-7b98b9f85dac8771.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "3 месяца тест-драйва карты «Вездеход Онлайн» без абонентской платы",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://rzekl.com/coupon/mhsfu141w95af0702a27fdbdccbe6f/?erid=2bL9aMPo2e49hMef4pfUmKpEji",
+    "goto_link": "https://rzekl.com/g/goopf0qmw95af0702a27fdbdccbe6f/?i=3&erid=2bL9aMPo2e49hMef4pfUmKpEji"
+  }
+]

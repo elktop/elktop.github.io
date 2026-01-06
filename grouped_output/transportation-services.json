@@ -2,8 +2,11 @@
   {
     "id": 93031,
     "name": "Lennuabi Many GEOs",
+    "name_aliases": "Lennuabi, lenuabi, llenuabi",
+    "site_url": "https://www.lennuabi.com",
+    "description": "Lennuabi is a flight compensation company that is dedicated to assisting passengers in fighting for their rights against airlines. The company offers a user-friendly platform to help passengers claim compensation for delayed, cancelled, or overbooked flights, ensuring that they receive what they are rightfully owed under Regulation (EC) No 261/2004. The platform allows users to easily check their eligibility for compensation and submit a claim, with the potential to receive a compensation.\r\n\r\nComprehensive Compensation Support: Lennuabi's services cover a wide range of flight disruptions, including delays, cancellations, and overbooking, offering passengers a hassle-free way to claim compensation they are entitled to.\r\n\r\nEffortless Claim Submission: The platform simplifies the compensation process, allowing passengers to submit their claims quickly and easily. With a risk-free, \"no win, no fee\" policy, passengers only pay a service fee after they have received their compensation.\r\n\r\nCustomer Testimonials: Lennuabi boasts a growing base of satisfied customers who have successfully received compensation for their flight disruptions. The platform has facilitated the collection of over €1,000,000 in compensations, with the amount continuing to grow.\r\n\r\nLegal Expertise and Support: Lennuabi represents passengers in legal matters related to flight compensation, ensuring that their rights are upheld and that they receive fair and just compensation for their travel inconveniences",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/3/28/93031-567f104f8863e218.svg",
-    "img": "platform/93031.svg",
     "categories": [
       {
         "name": "Transportation services",
@@ -57,6 +60,12 @@
         "parent": null
       }
     ],
+    "img": "platform/93031.svg",
+    "affiliate": {
+      "goto_link": "https://cafxq.com/g/913bhutj0z5af0702a27a8b9cbb737/",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Transportation services",
       "id": 258,

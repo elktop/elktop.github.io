@@ -1,0 +1,45 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 28221,
+      "name": "Zooplus DE",
+      "site_url": "https://www.zooplus.de"
+    },
+    "description": "25% on Gourmet products only, for new customers only and one use per customer.",
+    "short_name": "Get 25% Off the Entire GOURMET – Exclusively for New Customers!",
+    "exclusive": false,
+    "date_end": "2026-01-31T23:59:00",
+    "date_start": "2026-01-02T00:00:00",
+    "id": 894195,
+    "regions": [
+      "DE"
+    ],
+    "discount": "25%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/9/6/28221-2ad1b703831233d0.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 17,
+        "name": "Pet products"
+      }
+    ],
+    "name": "Get 25% Off the Entire GOURMET – Exclusively for New Customers!",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "WELCOMEGOURMET",
+    "frameset_link": "https://ad.admitad.com/coupon/986dnp1rl05af0702a27ce6fe7ba63/",
+    "goto_link": "https://ad.admitad.com/g/iywrv0ahcd5af0702a27ce6fe7ba63/?i=3"
+  }
+]

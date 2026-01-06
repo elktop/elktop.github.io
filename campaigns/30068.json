@@ -1,0 +1,112 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 30068,
+      "name": "Beyond The Beach UAE promo codes & links",
+      "site_url": "https://beyondthebeach.com/"
+    },
+    "description": "",
+    "short_name": "Free shipping over 250 AED",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-01-11T10:31:41",
+    "id": 623805,
+    "regions": [
+      "AE",
+      "BH",
+      "KW",
+      "OM",
+      "SA"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/1/24/30068-6653c0809abe90dc.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      },
+      {
+        "id": 4,
+        "name": "Shoes"
+      },
+      {
+        "id": 5,
+        "name": "Clothing"
+      },
+      {
+        "id": 6,
+        "name": "Sports & Recreation"
+      },
+      {
+        "id": 24,
+        "name": "Outdoor Clothing & Equipment"
+      }
+    ],
+    "name": "Free shipping over 250 AED",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "https://rthsu.com/coupon/s8ts5h3ny25af0702a27018ab9621e/",
+    "goto_link": "https://rthsu.com/g/6uselz6oif5af0702a27018ab9621e/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 30068,
+      "name": "Beyond The Beach UAE promo codes & links",
+      "site_url": "https://beyondthebeach.com/"
+    },
+    "description": "",
+    "short_name": "Socks 3 for Aed 99",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-03-23T22:27:55",
+    "id": 529497,
+    "regions": [
+      "AE",
+      "BH",
+      "KW",
+      "OM",
+      "SA"
+    ],
+    "discount": "25%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/1/24/30068-6653c0809abe90dc.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Socks 3 for Aed 99",
+    "language": "ae",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "https://rthsu.com/coupon/tg6zikt16x5af0702a27018ab9621e/",
+    "goto_link": "https://rthsu.com/g/z0tg10xa1k5af0702a27018ab9621e/?i=3"
+  }
+]

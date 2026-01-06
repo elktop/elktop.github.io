@@ -1,0 +1,45 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 39739,
+      "name": "Gotogate WW",
+      "site_url": "https://www.gotogate.com/"
+    },
+    "description": "The discount code provided is valid for flight bookings made with Mytrip, Gotogate and\r\nFlight Network between December 2nd, 2025 and December 31 st , 2030, regardless of\r\nthe flight departure dates. To redeem the discount, the customer must complete the\r\nbooking through the affiliate links provided by Admitad and its publishers and apply the\r\ncode on the payment page before checkout.\r\n2. The discount code is not valid for bookings that include the following airlines:\r\nAeroMexico, Asiana, Air Canada, Air France, Air India, Air Transat, IndiGo, Alaska\r\nAirlines, American Airlines, Avelo, Copa Airlines, Delta Airlines, Etihad Airways, Frontier\r\nAirlines, Hawaiian Airlines, Iberia, JetBlue, KLM, Korean Air, LATAM, Latin American\r\nWings, Porter Airlines, Spirit Airlines, Sun Country, United Airlines, Uzbekistan Airways,\r\nVirgin Atlantic, WestJet, Silver Airways, Vistara, Air New Zealand, Philippine Airlines,\r\nGOL Airlines, Azul Airlines, Neos Air, and Pacific Coastal.\r\n3. The discount code cannot be redeemed for cash or credit.\r\n4. A discount of 2% will be deducted from the base flight fare of the booking. The discount\r\ndoes not apply to ancillary products or services, including but not limited to travel\r\ninsurance, checked baggage, seat selection, meals, taxes, or fees.\r\n5. To activate the discount, the customer must access the website through the designated\r\naffiliate link. The code will not be valid if the customer visits the Mytrip, Gotogate and\r\nFlight Network websites directly or through any other source.\r\n6. If the order is canceled by the customer or the airline, Etraveli Group reserves the right\r\nto retain and appropriate any otherwise refundable amount exceeding the final price paid\r\nafter the application of the discount code.\r\n7. Etraveli Group reserves the right to modify or terminate this promotion, including the\r\nvalidity of the discount code, at any time without prior notice. By participating in this\r\npromotion, you agree to these terms and conditions.",
+    "short_name": "2% OFF on the flights tickets",
+    "exclusive": false,
+    "date_end": "2030-12-31T23:59:00",
+    "date_start": "2025-12-02T00:00:00",
+    "id": 889605,
+    "regions": [
+      "00"
+    ],
+    "discount": "2%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/8/30/39739-d864f35e57eaf4c2.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 12,
+        "name": "Tours & Travels"
+      }
+    ],
+    "name": "2% OFF on the flights tickets",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "AMGLOBAL",
+    "frameset_link": "",
+    "goto_link": "https://zejcl.com/g/7qbjl5pdaf5af0702a2737873c6bfe/?i=3"
+  }
+]

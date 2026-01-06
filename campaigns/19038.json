@@ -1,0 +1,88 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 19038,
+      "name": "Tez Tour RU & CIS",
+      "site_url": "https://www.tez-tour.com/"
+    },
+    "description": "",
+    "short_name": "Распродажа туров",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-11-22T15:54:32",
+    "id": 815757,
+    "regions": [
+      "00"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/12/1/19038-72ea9a9b4430e777.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 12,
+        "name": "Tours & Travels"
+      }
+    ],
+    "name": "Распродажа туров",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://ficca2021.com/coupon/8rxgwx98ub5af0702a2759fafa9a7f/?erid=2bL9aMPo2e49hMef4piUcubSXz",
+    "goto_link": "https://ficca2021.com/g/r1vln4h6cj5af0702a2759fafa9a7f/?i=3&erid=2bL9aMPo2e49hMef4piUcubSXz"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 19038,
+      "name": "Tez Tour RU & CIS",
+      "site_url": "https://www.tez-tour.com/"
+    },
+    "description": "Лето 2022 в Турции. Покупай и отдыхай выгодно!\r\nЗаезды с 26 апреля 2022 по 16 мая 2022 , от 6 до 14 ночей\r\nГород вылета Санкт-Петербург",
+    "short_name": "Распродажа туров",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2022-03-04T17:54:05",
+    "id": 438841,
+    "regions": [
+      "00"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/12/1/19038-72ea9a9b4430e777.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 12,
+        "name": "Tours & Travels"
+      }
+    ],
+    "name": "Распродажа туров",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://ficca2021.com/coupon/lm08eiifsx5af0702a2759fafa9a7f/?erid=2bL9aMPo2e49hMef4pezDevxxm",
+    "goto_link": "https://ficca2021.com/g/19prlt36v65af0702a2759fafa9a7f/?i=3&erid=2bL9aMPo2e49hMef4pezDevxxm"
+  }
+]

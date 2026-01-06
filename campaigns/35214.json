@@ -1,0 +1,268 @@
+[
+  {
+    "status": "active",
+    "rating": "7.85",
+    "campaign": {
+      "id": 35214,
+      "name": "DoctorSlon",
+      "site_url": "https://doctorslon.ru/"
+    },
+    "description": "",
+    "short_name": "Скидки до 40% на товары по уходу для полости рта",
+    "exclusive": false,
+    "date_end": "2026-01-12T23:59:00",
+    "date_start": "2025-12-23T00:00:00",
+    "id": 892845,
+    "regions": [
+      "RU"
+    ],
+    "discount": "40%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/3/30/35214-a913e07016f6972d.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Скидки до 40% на товары по уходу для полости рта",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://yjfca.com/g/h3vjpxylvf5af0702a273d0c9a2446/?i=3&erid=2bL9aMPo2e49hMef4rqy6bXUBq"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 35214,
+      "name": "DoctorSlon",
+      "site_url": "https://doctorslon.ru/"
+    },
+    "description": "",
+    "short_name": "Третья жидкость для ирригатора Waterdent — бесплатно!",
+    "exclusive": false,
+    "date_end": "2026-01-31T23:59:00",
+    "date_start": "2025-12-17T00:00:00",
+    "id": 892142,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/3/30/35214-a913e07016f6972d.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Третья жидкость для ирригатора Waterdent — бесплатно!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://yjfca.com/g/h5zb9kwhch5af0702a273d0c9a2446/?i=3&erid=2bL9aMPo2e49hMef4rqy6YaAWe"
+  },
+  {
+    "status": "active",
+    "rating": "6.48",
+    "campaign": {
+      "id": 35214,
+      "name": "DoctorSlon",
+      "site_url": "https://doctorslon.ru/"
+    },
+    "description": "Промокоды на посадочной странице",
+    "short_name": "Промокоды декабря на любимые товары",
+    "exclusive": false,
+    "date_end": "2026-01-31T23:59:00",
+    "date_start": "2025-12-17T00:00:00",
+    "id": 892140,
+    "regions": [
+      "RU"
+    ],
+    "discount": "15%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/3/30/35214-a913e07016f6972d.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Промокоды декабря на любимые товары",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://yjfca.com/g/47qhr5wl705af0702a273d0c9a2446/?i=3&erid=2bL9aMPo2e49hMef4rqy6YaAWc"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 35214,
+      "name": "DoctorSlon",
+      "site_url": "https://doctorslon.ru/"
+    },
+    "description": "",
+    "short_name": "Раздел с идеями подарков",
+    "exclusive": false,
+    "date_end": "2026-01-31T23:59:00",
+    "date_start": "2025-12-11T00:00:00",
+    "id": 891323,
+    "regions": [
+      "RU"
+    ],
+    "discount": "49%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/3/30/35214-a913e07016f6972d.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Раздел с идеями подарков",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://yjfca.com/g/5qsm95vr475af0702a273d0c9a2446/?i=3&erid=2bL9aMPo2e49hMef4rqy6VarKt"
+  },
+  {
+    "status": "active",
+    "rating": "1.89",
+    "campaign": {
+      "id": 35214,
+      "name": "DoctorSlon",
+      "site_url": "https://doctorslon.ru/"
+    },
+    "description": "",
+    "short_name": "Новогодняя распродажа, скидки до 50%",
+    "exclusive": false,
+    "date_end": "2026-01-31T23:59:00",
+    "date_start": "2025-12-08T00:00:00",
+    "id": 891133,
+    "regions": [
+      "RU"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/3/30/35214-a913e07016f6972d.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Новогодняя распродажа, скидки до 50%",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://yjfca.com/g/k802ld4z8l5af0702a273d0c9a2446/?i=3&erid=2bL9aMPo2e49hMef4rqxz13LDW"
+  },
+  {
+    "status": "active",
+    "rating": "6.15",
+    "campaign": {
+      "id": 35214,
+      "name": "DoctorSlon",
+      "site_url": "https://doctorslon.ru/"
+    },
+    "description": "",
+    "short_name": "Условия скидка 7% на первый заказ от 10000 рублей на всё кроме медицинской техники",
+    "exclusive": false,
+    "date_end": "2026-01-31T23:59:00",
+    "date_start": "2025-10-10T10:18:56",
+    "id": 878437,
+    "regions": [
+      "RU"
+    ],
+    "discount": "7%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/3/30/35214-a913e07016f6972d.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      },
+      {
+        "id": 91,
+        "name": "11.11"
+      },
+      {
+        "id": 189,
+        "name": "New Year Festival 2026"
+      }
+    ],
+    "name": "Условия скидка 7% на первый заказ от 10000 рублей на всё кроме медицинской техники",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ADM0810",
+    "frameset_link": "",
+    "goto_link": "https://yjfca.com/g/lgt8x8kg295af0702a273d0c9a2446/?i=3&erid=2bL9aMPo2e49hMef4rqUzzrFH7"
+  }
+]

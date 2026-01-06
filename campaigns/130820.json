@@ -1,0 +1,49 @@
+[
+  {
+    "status": "active",
+    "rating": "5.87",
+    "campaign": {
+      "id": 130820,
+      "name": "Vigbo RU",
+      "site_url": "https://vigbo.com"
+    },
+    "description": "Создайте красивый сайт-портфолио со скидкой 40% и привлекайте больше клиентов на съемки. \r\nГалереи для красивой передачи фото в подарок!",
+    "short_name": "Скидка 40% на сайт. Только для новых клиентов Vigbo",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-08-28T16:31:08",
+    "id": 872827,
+    "regions": [
+      "RU"
+    ],
+    "discount": "40%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      },
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/7/3/130820-90ef8f0a4ab07715.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "Скидка 40% на сайт. Только для новых клиентов Vigbo",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://ogsib.com/g/eavmj0ihl85af0702a27a993e75390/?i=3&erid=2bL9aMPo2e49hMef4rqUn6BAUH"
+  }
+]

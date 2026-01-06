@@ -2,8 +2,11 @@
   {
     "id": 2281,
     "name": "Островок RU",
+    "name_aliases": "ostrovok, островок",
+    "site_url": "https://ostrovok.ru/",
+    "description": "\r\n\r\nОстровок – это  лучшие цены и специальные предложения, огромный выбор гостиниц по всем направлениям, круглосуточная служба поддержки и незабываемые впечатления от путешествия!\r\n\r\nПреимущества для вебмастеров:\r\n\r\n\r\n\t\r\n\tБыстрые выплаты\r\n\t30/60 дней в месяц следующий за выездом гостя из отеля\r\n\t\r\n\t\r\n\tШирокий выбор рекламных материалов\r\n\t\r\n\t\r\n\tРегулярные скидки и акции\r\n\t\r\n\t\r\n\tСтавка на зарубежные направления не ниже чем на РФ\r\n\t\r\n\t\r\n\tВысокое вознаграждение и стабильные выплаты\r\n\t\r\n\t\r\n\tОдна из самых высоких конверсий в бронирование из аналогичных сервисов\r\n\t\r\n\r\n\r\nПреимущества для покупателей:\r\n\r\n\r\n\t\r\n\tГибкая оплата\r\n\tМожно оплатить бронирование сразу, а можно при заезде в отель\r\n\t\r\n\t\r\n\tНизкие цены\r\n\tМы работаем напрямую с более чем 70 000 отелей и десятками поставщиков, поэтому у нас всегда есть выгодные предложения на любые направления \r\n\t\r\n\t\r\n\tПоддержка 24/7\r\n\t\r\n\t\r\n\tОтели по всему миру\r\n\tУ нас более 2,6 миллионов вариантов размещений\r\n\t\r\n\t\r\n\tСкидки до 40%\r\n\tПо программе лояльности GURU\r\n\t\r\n\t\r\n\tРейтинг вариантов размещения\r\n\tИ честные отзывы реальных пользователей \r\n\t\r\n\r\n\r\nЦелевая аудитория: \r\n\r\n\r\n\tМужчины 54%, Женщины 46%\r\n\t \r\n\tВозраст\r\n\t33% - 25-34\r\n\t27% - 18-24\r\n\t15% - 35-44\r\n\t12% - 45-54\r\n\t8% - 55-65\r\n\t5% - 65+\r\n\r\n\r\nЗапрещено использовать брендовые промокоды, которые не размещены в личном кабинете рекламодателя и не выданы непосредственно веб-мастеру.\r\n\r\nВажно! Применение не опубликованных в Адмитад промокодов не гарантирует начисление комиссии. Решение остается за рекламодателем\r\n\r\nЗаказы с поддоменов не засчитываются, просьба вести только на основной домен.\r\n\r\nВнимание!\r\nСрок получения статуса заказом рассчитывается с момента чекаута пользователя при выезде из отеля. При постоплате отеля холд может увеличиваться до 180 дней, тк оплата производится только после проживания и оплаты отеля.",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/4/3/2281-6e9950e75b2d8b59.svg",
-    "img": "platform/2281.svg",
     "categories": [
       {
         "name": "Hotels",
@@ -23,6 +26,12 @@
         "parent": null
       }
     ],
+    "img": "platform/2281.svg",
+    "affiliate": {
+      "goto_link": "https://xpuvo.com/g/78b470f15e5af0702a2773c53f4f5f/?erid=5jtCeReLm1S3Xx3LfA6vFuy",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Hotels",
       "id": 41,
@@ -38,8 +47,11 @@
   {
     "id": 17396,
     "name": "Minor Hotels Many GEOs",
+    "name_aliases": "nhhotels.com, nh-hotels.com, nhhotels, nh hotels,nh hotels com, NH, nhhotels.ocm, Minor Hotels, minor hotels, minor-hotels, Minor, minorhotels, minor-hotels.com",
+    "site_url": "https://www.nh-hotels.com/",
+    "description": "Minor Hotels (ex. NH-Hotels) is a group of hotels which has been successfully operating in the market for 35 years. Today, it is a benchmark operator of city hotels all over the world, including top city destinations such as Amsterdam, Barcelona, Berlin, Bogotá, Brussels, Buenos Aires, Düsseldorf, Frankfurt, London, Madrid, Mexico City, Milan, Munich, New York, Rome, and Vienna.\r\n\r\nMinor DISCOVERY members enjoy minimum 5% and up to 10% savings on stays at all our nearly 400 NH hotels in 31 countries and more than 800 participating hotels and resorts from GHA brands worldwide from the moment they join.\r\n\r\nFind and book your hotel wherever you go!\r\n\r\nPerks of working with Minor Hotels:\r\n\r\n\r\n\t0.5 M unique visitors \r\n\tNumerous offers and deals\r\n\tAffordable prices\r\n\tGreat hospitality service\r\n\t24/7 Customer Help\r\n\tNumerous promotional materials\r\n\tWeekly updates and newsletters\r\n\tMore than 300 hotels in Europe (with a significant presence in Germany, the Netherlands, Italy and Spain). More than 50 hotels in America,1 hotel in Africa.\r\n\tGEO: Argentina, Brazil, Chile, Colombia, Germany, Spain, France, United Kingdom, Italy, Mexico, Netherlands, Portugal, United States, Uruguay, Venezuela\r\n\r\n\r\nIMPORTANT: Brand Bidding is strictly prohibited\r\n\r\nMANDATORY Negative Keywords \r\n\r\nJoin the Minor Hotels affiliate program!",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/6/17/17396-d8dbf59575c6abb3.svg",
-    "img": "platform/17396.svg",
     "categories": [
       {
         "name": "Travel & Tourism",
@@ -59,6 +71,12 @@
         }
       }
     ],
+    "img": "platform/17396.svg",
+    "affiliate": {
+      "goto_link": "https://xnmik.com/g/jpnebfysh25af0702a278f408ce589/",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Hotels",
       "id": 41,
@@ -74,8 +92,11 @@
   {
     "id": 19773,
     "name": "Korston",
+    "name_aliases": "korston.ru, отель, клуб, билеты, концерты, Корстон клуб, Корстон отель, лщкыещт",
+    "site_url": "https://korston.ru/",
+    "description": "\r\n\r\nКак проходит сверка \r\n\r\nРучная сверка, проходит в начале каждого месяца.\r\n\r\nВыдача промокодов \r\n\r\nВ программе предусмотрены именные промокоды, Smart-промокоды.\r\n\r\nИнформация про модерацию \r\n\r\nМодерация проводится оперативно, 3 раза в неделю.\r\n\r\nПосмотрите вебинар с рекламодателем, который мы сняли в апреле 2022 года, для того, чтобы узнать, как продвигать партнерскую программу эффективнее \r\n\r\n\r\n\r\nKorston Club Hotel Royal 5*\r\n\r\nОтель с номерным фондом 202 номера, расположенных с 4 по 11 этаж. Из каждого номера открывается прекрасный вид на город. Номера оснащены ванной комнатой с ванной. В наличии имеются номера следующих категорий: Deluxе Double, Deluxе Twin, Club Deluxе, Club Suit, Presidential Suite. Номера категории Club расположены на 11 клубном этаже и имеют повышенную привилегию. В стоимость проживания в этом отеле входит пользование бассейном, тренажёрным залом, хамамом и соляной пещерой, которые расположены на 12 этаж отеля. Для гостей отеля парковка наземная или подземная предоставляется бесплатно.\r\n\r\nKorston Club Hotel Tower 4*\r\n\r\nОтель с номерным фондом 209 номеров, расположенных с 14 по 24 этаж. Из каждого номера открывается панорамный вид на город. Номера оснащены диванами, который может послужить дополнительным спальным местом, и ванной комнатой с душевой кабиной. В наличии имеются номера следующих категорий: Superior Double, Superior Twin, Apartaments (с собственной мини-кухней), Club Deluxе, Club Studio, Club Suit, Ambassador Suite. Номера категории Club расположены на 24 клубном этаже и имеют повышенную привилегию. В стоимость проживания в этом отеле входит пользование тренажёрным залом, хамам и соляной пещерой. Для гостей отеля парковка наземная или подземная предоставляется бесплатно.\r\n\r\n Korston Club Hotel Serpukhov 4*\r\n\r\nОтель с номерным фондом 79 номеров, расположенных с 10 по 14 этаж. Из каждого номера открывается панорамный вид на город. Номера оснащены диванами, который может послужить дополнительным спальным местом, и ванной комнатой с душевой кабиной. В наличии имеются номера следующих категорий: Deluxe, Suite, Apartament, Studio Suite, Ambassador Suite. Дополнительные услуги: фитнес, услуги химчистки, круглосуточный Room Service. На 15 этаже расположен панорамный ресторан \"Extra Lounge\", каждый вечер караоке, по выходным вечеринки! На территории отель также расположен торговый центр, детский парк и кинотеатр. Конференц - комнаты с возможностью проведения мероприятия разного формата. \r\n\r\n ",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/3/11/19773-4906a340379dec03.png",
-    "img": "platform/19773.png",
     "categories": [
       {
         "name": "Hotels",
@@ -113,6 +134,28 @@
         "parent": null
       }
     ],
+    "img": "platform/19773.png",
+    "affiliate": {
+      "goto_link": "https://hvjjg.com/g/liw7b6vmdu5af0702a27cf352232ce/?erid=MvGzQC98w3Z1gMq1nScLmgqh",
+      "landings": [
+        {
+          "id": 10104,
+          "name": "Вечеринки",
+          "code": "d85b486b4d"
+        },
+        {
+          "id": 15602,
+          "name": "Бронь отеля Серпухов",
+          "code": "08052f2cb2"
+        },
+        {
+          "id": 15601,
+          "name": "Бронь отеля Казань",
+          "code": "19b9440db6"
+        }
+      ],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Hotels",
       "id": 41,
@@ -128,8 +171,11 @@
   {
     "id": 23733,
     "name": "Trip.com WW",
+    "name_aliases": "Trip.com, trip.com, tripcom, Tripcom, Trip com, trip com, Trip, trip, трипком, Трипком, трип ком, Трип ком, трип, трайпком, трайп ком, tripecom, Tripecom, Tripe com, tripe com, Tripe.com, tripe.com, tirpcom, tirp com, tirp cpm",
+    "site_url": "https://www.trip.com/",
+    "description": "Trip.com is one of the world's leading online travel agencies. We are a part of the Trip.com Group, a NASDAQ listed company since 2003 (NASDAQ: TCOM) with over 45,100 employees and over 400 million members, making it one of the leading online travel agencies in the world. With more than 1.4 million hotels in 200 countries and regions, we've built an extensive hotel network to give our customers a fantastic choice of accommodation. Our far-reaching flight network has over 2 million individual flight routes connecting more than 5,000 cities around the globe. When you combine this with our 24/7 English customer service and various other travel products, you can trust us to take care of your next trip.\r\n\r\nAdvantages of Trip.com:\r\n\r\n\r\n\tWith 1.4 million accommodation options, flights with 450+ airlines, trains, tours & tickets and more all on one platform, Trip.com's affiliate program delivers excellent conversion and rewarding commission rates. The more bookings you bring, the more commission you earn!\r\n\tData feed for hotel products available\r\n\tStrong management: A strong affiliate management team is available to support you with your creative needs.\r\n\tAward-winning Customer service\r\n\tLow Price Guarantee\r\n\r\n\r\nTarget audience:\r\nGlobal users(exclude China market)\r\n\r\nThe list of negative words you may find here.\r\n\r\nUPD List of negative keywords for September 2025 is HERE. And here in the Excel format. \r\n\r\nBest regards,\r\nTrip.com Affiliate Program\r\n \r\n\r\n ",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2020/10/14/23733-2a3d1f32bb748535.png",
-    "img": "platform/23733.png",
     "categories": [
       {
         "name": "Hotels",
@@ -243,6 +289,33 @@
         "parent": null
       }
     ],
+    "img": "platform/23733.png",
+    "affiliate": {
+      "goto_link": "https://pngkj.com/g/yio6i5e56t5af0702a27f37e25e0cc/",
+      "landings": [
+        {
+          "id": 31207,
+          "name": "11.11 Mega Sale 2025  ES",
+          "code": "7b569a3cb5"
+        },
+        {
+          "id": 31205,
+          "name": "11.11 Mega Sale 2025 UK",
+          "code": "4a3e4761b9"
+        },
+        {
+          "id": 31206,
+          "name": "11.11 Mega Sale 2025  FR",
+          "code": "fcea548c61"
+        },
+        {
+          "id": 31208,
+          "name": "11.11 Mega Sale 2025  DE",
+          "code": "6bb220c50a"
+        }
+      ],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Hotels",
       "id": 41,
@@ -258,8 +331,11 @@
   {
     "id": 25224,
     "name": "Яндекс.Путешествия",
+    "name_aliases": "Yandex Travel, Travel.Yandex.ru Hotels, Яндекс Тревел, Яндекс.Путешествия, Яндекс Путешествия, Яндекс Отели, нфтвуч Екфмуд. Yandex Travel, travel.yandex, Яндекс Отели, Yandex hotels, яндекс туры, путешествия, путе, путеш",
+    "site_url": "https://travel.yandex.ru/",
+    "description": "\r\n\r\nЯндекс Путешествия — сервис по поиску и бронированию отелей, авиабилетов и билетов на поезда!\r\n\r\nПреимущества для веб-мастеров:\r\n\r\n\r\n\tВысокое вознаграждение за бронирования отелей, билетов и туров\r\n\tБольшой выбор рекламных материалов\r\n\tРегулярные скидки и спецпредложения\r\n\tНет комиссий за бронирование\r\n\tВремя жизни куки — 30 дней\r\n\tСильный бренд\r\n\r\n\r\nПреимущества для пользователей: \r\n\r\n\r\n\tНачисление баллов Яндекс Плюс на отели: до 10% всегда, акции и скидки\r\n\tШирокий набор фильтров для поиска предложений\r\n\tВсё в одном месте: варианты, тарифы, цены, условия, рекомендации и акции\r\n\tПоддержка 24/7 по телефону и в чате. Даже в выходные и в Новый год\r\n\tРейтинг вариантов размешения и отзывы от реальных клиентов\r\n\t\r\n\tОбновились правила программы лояльности - https://cdn.admitad-connect.com/public/storage/2025/12/23/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0_%D0%BB%D0%BE%D1%8F%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%93%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D1%86%D1%8B.docx\r\n",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/5/16/25224-dcc2c153a070ebf9.svg",
-    "img": "platform/25224.svg",
     "categories": [
       {
         "name": "Hotels",
@@ -301,6 +377,88 @@
         }
       }
     ],
+    "img": "platform/25224.svg",
+    "affiliate": {
+      "goto_link": "https://uknty.com/g/6fwnm4uptp5af0702a276b3b8b6079/?erid=5jtCeReNwxHpfQTDvQsWzkg",
+      "landings": [
+        {
+          "id": 29479,
+          "name": "Ночь отелей",
+          "code": "aaeb43a283"
+        },
+        {
+          "id": 22462,
+          "name": "Путешествия с Ultima Яндекс Go",
+          "code": "07c628affa"
+        },
+        {
+          "id": 30538,
+          "name": "Фестивальный сезон",
+          "code": "c539bee535"
+        },
+        {
+          "id": 21921,
+          "name": "Черная Пятница",
+          "code": "cca85cb7e2"
+        },
+        {
+          "id": 30000,
+          "name": "Майские 2025",
+          "code": "1e0584fd1b"
+        },
+        {
+          "id": 30612,
+          "name": "В приложении дешевле. Очевидно",
+          "code": "33aa25b32c"
+        },
+        {
+          "id": 29534,
+          "name": "Гендерные праздники 23 февраля и 8 марта",
+          "code": "94e2a3f893"
+        },
+        {
+          "id": 29891,
+          "name": "Флеш Санатории",
+          "code": "6918416ed9"
+        },
+        {
+          "id": 30629,
+          "name": "Три дня мировых скидок",
+          "code": "40e16520ea"
+        },
+        {
+          "id": 30752,
+          "name": "Аттракцион бархатных направлений",
+          "code": "a48afd1346"
+        },
+        {
+          "id": 29889,
+          "name": "Раннее бронирование",
+          "code": "15eb7ea784"
+        },
+        {
+          "id": 30339,
+          "name": "Санаторий 25",
+          "code": "50962418fc"
+        },
+        {
+          "id": 25167,
+          "name": "Горы впечатлений",
+          "code": "4b830efbd5"
+        },
+        {
+          "id": 21922,
+          "name": "Зимнее Путешествие",
+          "code": "df165feda2"
+        },
+        {
+          "id": 29990,
+          "name": "Я устал",
+          "code": "b982213ffe"
+        }
+      ],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Hotels",
       "id": 41,
@@ -316,8 +474,11 @@
   {
     "id": 42483,
     "name": "Avito Путешествия RU",
+    "name_aliases": "Fdbnj gjcenjxyj, Посуточно, Авито, avito posutochno, фмшещ зщыгещсртщ",
+    "site_url": "https://www.avito.ru/moskva/kvartiry/sdam/posutochno/-ASgBAgICAkSSA8gQ8AeSUg/",
+    "description": "\r\n\r\nAvito Путешествия - это надежный ресурс для онлайн-бронирования. Помимо большого выбора, сервис предоставляет пользователям удобство поиска и выбора, гарантии безопасности, поддержку 24/7. На Авито можно закрыть любую задачу по посуточной аренде (жилье в отпуск/жилье на короткую поездку/жилье для командировки)\r\n\r\n \r\n\r\nДанные о целевой аудитории:\r\n\r\nПол\r\n\r\n\r\n\tЖенщины – 53%\r\n\tМужчины – 47%\r\n\r\n\r\nВозраст (по количеству продаж): \r\n\r\n\r\n\t16-24 – 23%\r\n\t25-34 – 34%\r\n\t35-44 – 26%\r\n\t45-49 – 10%\r\n\t50 и старше – 7%\r\n\r\n\r\nГЕО ЦА: \r\n\r\n\r\n\tМосква и МО – 13%\r\n\tгорода миллионники – 23%\r\n\t500-1 млн жителей – 21%\r\n\t250-500к жителей – 24%\r\n\t100-250к – 19%\r\n\r\n\r\nПопулярные направления (ссылки на самые конверсионные направления можно найти в разделе Лендинги):\r\n\r\n\r\n\tМосква\r\n\tСанкт-Петербург\r\n\tКазань\r\n\tКраснодар \r\n\tЕкатеринбург\r\n\tСочи\r\n\r\n\r\nПреимущества для клиентов:\r\n\r\n\r\n\tОнлайн бронирование посуточных квартир\r\n\tБезопасность сделок\r\n\tБольшой выбор квартир для посуточной аренды по всей России\r\n\tКруглосуточная поддержка\r\n\tВсе объявления проходят модерацию, что позволяет без рисков арендовать квартиру\r\n\tВладелец получает деньги только после заселения гостя\r\n\r\n\r\n \r\n\r\n Преимущества работы с партнерской программой:\r\n\r\n\r\n\tИзвестный бренд, которому доверяют пользователи\r\n\tШирокий ассортимент рекламных материалов\r\n\tВысокотехнологичный и удобный сайт\r\n\tВозможность получить индивидуальные условия\r\n\r\n\r\n \r\n\r\nС Уважением, Партнерская программа Avito Путешествия!",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/4/22/42483-aea076ae9e42bcdf.svg",
-    "img": "platform/42483.svg",
     "categories": [
       {
         "name": "Hotels",
@@ -337,6 +498,98 @@
         "parent": null
       }
     ],
+    "img": "platform/42483.svg",
+    "affiliate": {
+      "goto_link": "https://naiawork.com/g/w3n1x1sgd05af0702a270f5f635295/?erid=5jtCeReNwxHpfQTGQbdPVK3",
+      "landings": [
+        {
+          "id": 25468,
+          "name": "Шерегеш",
+          "code": "d617119fff"
+        },
+        {
+          "id": 25494,
+          "name": "Квартиры в Казани стоимостью до 2000 рублей в сутки",
+          "code": "8a53881d22"
+        },
+        {
+          "id": 25493,
+          "name": "Квартиры в Санкт-Петербурге стоимостью до 2000 рублей в сутки",
+          "code": "72cca744f8"
+        },
+        {
+          "id": 25495,
+          "name": "Квартиры в Сочи стоимостью до 2000 рублей в сутки",
+          "code": "6a48cf238a"
+        },
+        {
+          "id": 25049,
+          "name": "Екатеринбург",
+          "code": "1b7abebfe1"
+        },
+        {
+          "id": 25048,
+          "name": "Краснодар",
+          "code": "80e096432f"
+        },
+        {
+          "id": 25496,
+          "name": "Квартиры в Калининграде стоимостью до 1500 рублей в сутки",
+          "code": "6dafe6c8b7"
+        },
+        {
+          "id": 25047,
+          "name": "Казань",
+          "code": "1263456ded"
+        },
+        {
+          "id": 25422,
+          "name": "Квартиры с арендной платой до 2500 руб в сутки",
+          "code": "c451ac7423"
+        },
+        {
+          "id": 25491,
+          "name": "Квартиры стоимостью до 1000 рублей в сутки по всей России",
+          "code": "2a3032dd3f"
+        },
+        {
+          "id": 25469,
+          "name": "Домбай",
+          "code": "9167eedbde"
+        },
+        {
+          "id": 25045,
+          "name": "Москва",
+          "code": "7864dfa53f"
+        },
+        {
+          "id": 25471,
+          "name": "Южно-Сахалинск",
+          "code": "358e61135e"
+        },
+        {
+          "id": 25470,
+          "name": "Мурманск",
+          "code": "c7bf2b9ce1"
+        },
+        {
+          "id": 25046,
+          "name": "Санкт-Петербург",
+          "code": "47ecd0535a"
+        },
+        {
+          "id": 25467,
+          "name": "Сочи",
+          "code": "29b324dbd4"
+        },
+        {
+          "id": 25492,
+          "name": "Квартиры в Москве стоимостью до 2500 рублей в сутки",
+          "code": "9cbe73de76"
+        }
+      ],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Hotels",
       "id": 41,
@@ -352,8 +605,11 @@
   {
     "id": 44618,
     "name": "",
+    "name_aliases": "cuva, кува, ква.кг, сгмф, redf, cuva.ru",
+    "site_url": "https://cuva.ru",
+    "description": "",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/12/21/44618-9539a4bfd0ce3452.svg",
-    "img": "platform/44618.svg",
     "categories": [
       {
         "name": "Travel & Tourism",
@@ -373,6 +629,28 @@
         }
       }
     ],
+    "img": "platform/44618.svg",
+    "affiliate": {
+      "goto_link": "https://ficca2021.com/g/r4ra35y8q35af0702a27d234a74a1f/?erid=2bL9aMPo2e49hMef4pgVKTEP43",
+      "landings": [
+        {
+          "id": 30986,
+          "name": "Подарочный сертификат на отдых в любом из 100 необычных отелей",
+          "code": "a19ae691c0"
+        },
+        {
+          "id": 31197,
+          "name": "Скидки до -25 на сертификаты",
+          "code": "87f1a92248"
+        },
+        {
+          "id": 30985,
+          "name": "Подарочный сертификат на отдых в любом из 1 500 отелей сервиса",
+          "code": "d06bacd8d9"
+        }
+      ],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Hotels",
       "id": 41,
@@ -388,8 +666,11 @@
   {
     "id": 118265,
     "name": "Отели в Т-Банке RU",
+    "name_aliases": "Отель Т-Банк RU,  Т‑Банк, тинькофф, путешествия, е-ифтл, рщеуд",
+    "site_url": "https://tbank.ru/travel/hotels/new/",
+    "description": "Об оффере\r\n\r\nБронируйте отели по всему миру. Ищите и бронируйте жилье онлайн, оплачивайте картой Т‑Банка и получайте кэшбэк.\r\n\r\nВ Путешествиях собраны тысячи отелей по всему миру. У нас вы можете бронировать гостиницы, апартаменты или гостевые дома напрямую. Управлять заказом можно через приложение или личный кабинет Т‑Банка, а по всем вопросам 24/7 проконсультирует наша поддержка.\r\n\r\n\r\nВАЖНО! Сумма бронирования должна быть выше 2 000 руб.\r\n\r\n \r\n\r\n\r\nУТП\r\n\r\n\r\n\t\r\n\tКэшбэк за отели до 10%. Начислим кэшбэк двумя частями за 62 дня\r\n\t\r\n\t\r\n\tИщите и бронируйте жилье онлайн, оплачивайте картой Т‑Банка и получайте кэшбэк\r\n\t\r\n\t\r\n\tПутешествуйте с кэшбэком\r\n\r\n\t \r\n\t\r\n\r\n\r\nКак получить продукт\r\n\r\n\r\n\tПосетите сайт https://www.tinkoff.ru/travel/hotels/new/ . Выберите направление, дату, количество гостей. Выберите предложение, которое вам подходит. Зарегистрируйтесь на сайте с помощью номера телефона. Следуйте за шагам на сайте, забронируйте и оплатите размещение.\r\n\r\n\r\n \r\n\r\nЦелевая аудитория\r\n\r\n\r\n\tВозраст 18-54, интересующиеся и планирующие путешествие\r\n\r\n\r\n \r\n\r\nГЕО\r\n\r\n\r\n\tРФ, без ЛНР, ДНР и Крыма\r\n",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/20/118265-d4679c1a8b8c06f3.svg",
-    "img": "platform/118265.svg",
     "categories": [
       {
         "name": "Hotels",
@@ -415,6 +696,23 @@
         "parent": null
       }
     ],
+    "img": "platform/118265.svg",
+    "affiliate": {
+      "goto_link": "https://kdbov.com/g/bxj7nx1p4b5af0702a278654ebee79/?erid=2bL9aMPo2e49hMef4piUjW6Ehu",
+      "landings": [
+        {
+          "id": 30873,
+          "name": "Лето длиннеееее",
+          "code": "6118f02b4f"
+        },
+        {
+          "id": 30064,
+          "name": "Оу, май. Пора отдыхать",
+          "code": "4c20658e31"
+        }
+      ],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Hotels",
       "id": 41,
@@ -430,8 +728,11 @@
   {
     "id": 135305,
     "name": "CVC BR (EN)",
+    "name_aliases": "cvc,vcv, cvv, cvs",
+    "site_url": "https://www.cvc.com.br/",
+    "description": "CVC Viagens is the largest travel operator in Latin America, operating in the tourism industry. It offers domestic and international travel packages, flights, hotels, cruises, transfers, attraction tickets, travel insurance, and personalized services for both leisure and business trips.\r\n\r\nCustomer Benefits \r\n\r\n\r\n\t\r\n\t24/7 customer support via digital channels and physical stores across Brazil\r\n\t\r\n\t\r\n\tTrust and reliability: over 50 years in the market\r\n\t\r\n\t\r\n\tWide variety of exclusive and customized travel packages\r\n\t\r\n\t\r\n\tFlexible payment options (installments available, often interest-free)\r\n\t\r\n\t\r\n\tFull assistance during the trip\r\n\t\r\n\t\r\n\tHigh customer satisfaction rate with millions of travelers served\r\n\t\r\n\r\n\r\nTarget Audience \r\n\r\n\r\n\t\r\n\tMen and women, 25 to 55 years old\r\n\t\r\n\t\r\n\tCouples, families, and solo travelers\r\n\t\r\n\t\r\n\tMiddle to high income, classes B and C+\r\n\t\r\n\t\r\n\tProfessionals looking for vacations, leisure, or honeymoon trips\r\n\t\r\n\t\r\n\tMarried or single people who value safety, trust, and convenience when traveling\r\n\t\r\n\r\n\r\nPopular Products\r\n\r\n\r\n\t\r\n\tDomestic travel packages (Northeast Brazil, Serra Gaúcha)\r\n\t\r\n\t\r\n\tInternational packages (Caribbean, USA, Europe)\r\n\t\r\n\t\r\n\tCruise trips\r\n\t\r\n\t\r\n\tAll-inclusive resorts\r\n\t\r\n\t\r\n\tFlight + hotel bundles\r\n\t\r\n\r\n\r\nBrand Positioning Tips \r\n\r\n\r\n\t\r\n\tEmphasize safety, trust, tradition, and convenience\r\n\t\r\n\r\n\r\nSuggested phrases for ads:\r\n\r\n\r\n\t\r\n\t“Travel with confidence”\r\n\t\r\n\t\r\n\t“Over 50 years of expertise”\r\n\t\r\n\t\r\n\t“Exclusive packages for every travel style”\r\n\t\r\n\t\r\n\t“CVC takes care of everything so you can enjoy your trip stress-free”\r\n\t\r\n\t\r\n\tAvoid generic “cheap deals” → highlight added value and reliability\r\n\t\r\n",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/8/5/135305-adde20263d9509b9.svg",
-    "img": "platform/135305.svg",
     "categories": [
       {
         "name": "Hotels",
@@ -473,6 +774,12 @@
         }
       }
     ],
+    "img": "platform/135305.svg",
+    "affiliate": {
+      "goto_link": "https://rkdro.com/g/xo8ehfl68m5af0702a27afa41ba253/",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Hotels",
       "id": 41,
@@ -488,8 +795,11 @@
   {
     "id": 146175,
     "name": "The Park [CPS] IN",
+    "name_aliases": "Park Hotel, Theparkhotel, Thepark",
+    "site_url": "https://www.theparkhotels.com/",
+    "description": "Company Description: THE Park, pioneers of luxury boutique hotels for 50 years, is present in India's major cities and tourist destinations. Each hotel is unique, a distinctive interpretation of contemporary India that gives guests an experience that is Anything But Ordinary. Situated in prime locations, they house some of India's most happening nightclubs, liveliest bars and inventive restaurants.The Park is also home to the Aura Spa, a much-vaunted rejuvenation venue. Paintings, sculptures and installations adorn rooms and corridors, and the deisgn driven aesthetic can be felt across the hotels. Along with constant product and service innovation, the Group also focuses on relevant social issues and nurtures art and culture in each region. They respect the environment and take significant steps to protect it.\r\n\r\nThe Park Hotels is managed by the family-owned Apeejay Surrendra Group. Established in 1910, The Apeejay Surrendra Group has its foundations in steel. Its current activities include shipping, tea, retail, real estate and construction, hospitality and finance.\r\n\r\nTarget Geo : PAN India",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/10/30/146175-63f694270f35ffad.svg",
-    "img": "platform/146175.svg",
     "categories": [
       {
         "name": "Travel & Tourism",
@@ -509,6 +819,12 @@
         }
       }
     ],
+    "img": "platform/146175.svg",
+    "affiliate": {
+      "goto_link": "https://tjzuh.com/g/1x71f09qze5af0702a270c9057a180/",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Hotels",
       "id": 41,
@@ -524,8 +840,11 @@
   {
     "id": 146430,
     "name": "Oberoi Hotels [CPS] IN",
+    "name_aliases": "Oberoes , Oberoy , Obaroi",
+    "site_url": "https://www.oberoihotels.com/",
+    "description": "Company Description: Introducing the Oberoi Hotels and Resorts Affiliate Program to all publishers. This is a global luxury hotel company operating in 5 exotic destinations: India, Indonesia, Mauritius, Dubai and Egypt.\r\n\r\nOberoi Hotels & Resorts has been voted World's Best Hotel Brand for the second consecutive year by the readers of ‘Travel + Leisure in 2016 World's Best Awards’. They have established a reputation for redefining the paradigm of luxury and excellence in service amongst leisure hotels around the world. By promoting this program you are ensuring a great source of revenue!\r\n\r\nTarget Geo : PAN India\r\n\r\nKey Selling Points of Oberoi Hotels and Resorts Affiliate Program:\r\n\r\n\r\n\tGood commission percentage on each validated sale.\r\n\tProvide your users with a unique Luxury product.\r\n\tAccess to a dedicated team to help you boost your revenue.\r\n\tLocated at the most picturesque destinations.\r\n",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/11/4/146430-5e469ec24f7d8e21.svg",
-    "img": "platform/146430.svg",
     "categories": [
       {
         "name": "Hotels",
@@ -545,6 +864,12 @@
         "parent": null
       }
     ],
+    "img": "platform/146430.svg",
+    "affiliate": {
+      "goto_link": "https://tjzuh.com/g/xz7iftha3y5af0702a27c0120d7ba4/",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Hotels",
       "id": 41,

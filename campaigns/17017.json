@@ -1,0 +1,134 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 17017,
+      "name": "Lakestone",
+      "site_url": "https://www.lakestone.ru/"
+    },
+    "description": "",
+    "short_name": "Скидки до 30%!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-08-29T00:00:00",
+    "id": 577708,
+    "regions": [
+      "KZ",
+      "RU"
+    ],
+    "discount": "30%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/10/1/17017-5e6f92c839381217.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Скидки до 30%!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://hvjjg.com/coupon/0rq3cux4fa5af0702a276094969c4d/?erid=2bL9aMPo2e49hMef4pgUsL4NK6",
+    "goto_link": "https://hvjjg.com/g/flzj3rv2415af0702a276094969c4d/?i=3&erid=2bL9aMPo2e49hMef4pgUsL4NK6"
+  },
+  {
+    "status": "active",
+    "rating": "6.45",
+    "campaign": {
+      "id": 17017,
+      "name": "Lakestone",
+      "site_url": "https://www.lakestone.ru/"
+    },
+    "description": "",
+    "short_name": "Сделайте первый заказ со скидкой 5%!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2022-12-05T10:54:00",
+    "id": 359335,
+    "regions": [
+      "KZ",
+      "RU"
+    ],
+    "discount": "5%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/10/1/17017-5e6f92c839381217.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      }
+    ],
+    "name": "Сделайте первый заказ со скидкой 5%!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://hvjjg.com/coupon/yk4d31hh5l5af0702a276094969c4d/?erid=2bL9aMPo2e49hMef4pdzEM9bjD",
+    "goto_link": "https://hvjjg.com/g/baky5ovybz5af0702a276094969c4d/?i=3&erid=2bL9aMPo2e49hMef4pdzEM9bjD"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 17017,
+      "name": "Lakestone",
+      "site_url": "https://www.lakestone.ru/"
+    },
+    "description": "Бесплатно доставляем товар по всей России и Казахстану\r\nНикакой предоплаты.\r\nОплата заказа происходит при получении.\r\nБесплатная примерка перед покупкой.\r\nБолее 2000 пунктов выдачи заказов по всей России",
+    "short_name": "Бесплатная доставка по всей России!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2022-12-05T10:54:00",
+    "id": 303896,
+    "regions": [
+      "KZ",
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/10/1/17017-5e6f92c839381217.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      }
+    ],
+    "name": "Бесплатная доставка по всей России!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://hvjjg.com/coupon/442lt406mi5af0702a276094969c4d/?erid=MvGzQC98w3Z1gMq1owNMZM7d",
+    "goto_link": "https://hvjjg.com/g/k87lyhdalw5af0702a276094969c4d/?i=3&erid=MvGzQC98w3Z1gMq1owNMZM7d"
+  }
+]

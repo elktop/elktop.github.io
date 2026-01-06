@@ -2,8 +2,11 @@
   {
     "id": 44734,
     "name": "",
+    "name_aliases": "travel.mts.ru, тревел., мтс, мтс путешествия, тревел мтс, МТС Travel, ьеы екфмуд",
+    "site_url": "https://travel.mts.ru/",
+    "description": " ",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/11/3/44734-30d406936978553a.svg",
-    "img": "platform/44734.svg",
     "categories": [
       {
         "name": "Travel & Tourism",
@@ -78,6 +81,23 @@
         }
       }
     ],
+    "img": "platform/44734.svg",
+    "affiliate": {
+      "goto_link": "https://bywiola.com/g/kuolpa81e95af0702a271a3410bd27/?erid=5jtCeReNwxHpfQTGQpwkgXt",
+      "landings": [
+        {
+          "id": 28662,
+          "name": "Месяц черных пятниц",
+          "code": "ced8fc0de7"
+        },
+        {
+          "id": 25477,
+          "name": "Кешбэк на отели Санкт-Петербурга",
+          "code": "4eb79cf1c3"
+        }
+      ],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Vacation Rentals",
       "id": 212,

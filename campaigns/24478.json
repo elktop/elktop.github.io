@@ -1,0 +1,231 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 24478,
+      "name": "NFO (Norwegian Fish Oil)",
+      "site_url": "https://nfo.ru/"
+    },
+    "description": "Привлекайте трафик и зарабатывайте на зимней распродаже интернет-магазина NFO!\r\n \r\nВ период с 26.12 по 11.01 на выделенный ассортимент действуют новогодние скидки для покупателей интернет-магазина.\r\n \r\nВ НГ-распродаже участвуют популярные нутрицевтики NFO:  D3, C, B-комплекс, Омега-3, коллаген, железо и другое. Продукты для здоровья всей семьи — для взрослых, детей, поддержки при активном образе жизни.\r\n \r\nПочему это выгодно для веб-мастеров?\r\n1.  Высокий спрос на витамины и здоровье в сезон простуд и после праздников.\r\n2.  Ограниченный период действия создает ощущение срочности и повышает конверсию.\r\n3.  Понятный и востребованный товар — тема здоровья всегда актуальна.\r\n4.  Официальный производитель, качественная продукция, доверие аудитории.\r\n \r\nНе упустите возможность увеличить свой доход!",
+    "short_name": "Новогодняя распродажа NFO!",
+    "exclusive": false,
+    "date_end": "2026-01-11T23:59:00",
+    "date_start": "2025-12-26T00:00:00",
+    "id": 893566,
+    "regions": [
+      "BY",
+      "KZ",
+      "RU"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/4/6/24478-d8286b3fc2481780.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Новогодняя распродажа NFO!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://rzekl.com/g/rnz0ia2h8e5af0702a279c176d7edf/?i=3&erid=2bL9aMPo2e49hMef4rqyCujm2P"
+  },
+  {
+    "status": "active",
+    "rating": "8.50",
+    "campaign": {
+      "id": 24478,
+      "name": "NFO (Norwegian Fish Oil)",
+      "site_url": "https://nfo.ru/"
+    },
+    "description": "Не суммируется с другими акциями",
+    "short_name": "Скидка -15% на все товары из каталога",
+    "exclusive": false,
+    "date_end": "2026-01-11T23:59:00",
+    "date_start": "2025-12-17T00:00:00",
+    "id": 892151,
+    "regions": [
+      "BY",
+      "KZ",
+      "RU"
+    ],
+    "discount": "15%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/4/6/24478-d8286b3fc2481780.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      },
+      {
+        "id": 189,
+        "name": "New Year Festival 2026"
+      }
+    ],
+    "name": "Скидка -15% на все товары из каталога",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NYADM15",
+    "frameset_link": "",
+    "goto_link": "https://rzekl.com/g/p1hom37wt05af0702a279c176d7edf/?i=3&erid=2bL9aMPo2e49hMef4rqy6YaApH"
+  },
+  {
+    "status": "active",
+    "rating": "3.08",
+    "campaign": {
+      "id": 24478,
+      "name": "NFO (Norwegian Fish Oil)",
+      "site_url": "https://nfo.ru/"
+    },
+    "description": "Подборки без скидок, но к ним можно применить промокоды выделенные веб-мастерам.",
+    "short_name": "Подборка при повышенном холестерине",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-05-21T17:18:36",
+    "id": 851375,
+    "regions": [
+      "BY",
+      "KZ",
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/4/6/24478-d8286b3fc2481780.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Подборка при повышенном холестерине",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://rzekl.com/g/dvilbafgle5af0702a279c176d7edf/?i=3&erid=2bL9aMPo2e49hMef4rqUKjfFxs"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 24478,
+      "name": "NFO (Norwegian Fish Oil)",
+      "site_url": "https://nfo.ru/"
+    },
+    "description": "Подборки без скидок, но к ним можно применить промокоды выделенные веб-мастерам.",
+    "short_name": "Подборка \"при высоких нагрузках\"",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-05-21T17:17:56",
+    "id": 851374,
+    "regions": [
+      "BY",
+      "KZ",
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/4/6/24478-d8286b3fc2481780.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Подборка \"при высоких нагрузках\"",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://rzekl.com/g/vt6uvpiord5af0702a279c176d7edf/?i=3&erid=2bL9aMPo2e49hMef4rqUKjewAp"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 24478,
+      "name": "NFO (Norwegian Fish Oil)",
+      "site_url": "https://nfo.ru/"
+    },
+    "description": "",
+    "short_name": "Скидки на сроковые товары и товары со скидками до -50%",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-05-21T17:11:35",
+    "id": 851365,
+    "regions": [
+      "BY",
+      "KZ",
+      "RU"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/4/6/24478-d8286b3fc2481780.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Скидки на сроковые товары и товары со скидками до -50%",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://rzekl.com/g/qsvnhte0rz5af0702a279c176d7edf/?i=3&erid=2bL9aMPo2e49hMef4rqUKjew6P"
+  }
+]

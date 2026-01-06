@@ -1,0 +1,45 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 115523,
+      "name": "Hansa RU",
+      "site_url": "https://hansa.ru/"
+    },
+    "description": "Это дополнительные два года сервисного обслуживания к стандартной гарантии 1 год. \r\n\r\nАктивировать расширенную гарантию можно в течение 90 дней после покупки. Для участия в программе требуется ввести модель и серийный номер вашего прибора. Акция может быть использована только на технику, купленную в период с 22/09/2025 по 22/09/2026. \r\n\r\nДополнительная гарантия действует на любой товар, купленный в период акции\r\n\r\nПрограмма обеспечивает ремонт продукта, но не предусматривает его замену на новый.",
+    "short_name": "Три года гарантии",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-09-26T12:36:49",
+    "id": 876429,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/11/13/115523-cc0a31e769424f22.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Три года гарантии",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://heqgr.com/g/f4vslluh8h5af0702a27836ab04704/?i=3&erid=2bL9aMPo2e49hMef4rqUtcDLNP"
+  }
+]

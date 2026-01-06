@@ -2,8 +2,11 @@
   {
     "id": 144580,
     "name": "Simbye eSIM WW",
+    "name_aliases": "Simbye",
+    "site_url": "https://simbye.com",
+    "description": "Partner with Simbye eSIM - a fast-growing travel connectivity provider covering 190+ countries.\r\n\r\nWe offer instant eSIM activation, FREE 100MB trial, and competitive pricing from $0.50/GB.\r\n\r\nPerfect for travel content creators, deal sites, and influencers.\r\n\r\nEarn competitive CPA commissions (avg. order $15-45, 30-day cookies) while helping travelers stay connected globally. Multi-language platform in 9 languages.\r\n\r\n \r\n\r\nJoin now and start earning!",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/10/16/144580-c20c77050851117b.svg",
-    "img": "platform/144580.svg",
     "categories": [
       {
         "name": "Travel & Tourism",
@@ -79,6 +82,12 @@
         }
       }
     ],
+    "img": "platform/144580.svg",
+    "affiliate": {
+      "goto_link": "https://xmknb.com/g/gp9rkzj3gc5af0702a27daec78ae77/",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Mobile E-commerce",
       "id": 118,

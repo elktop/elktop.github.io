@@ -1,471 +1,13 @@
 {
   "data": [
     {
-      "id": 144297,
-      "name": "America-carrental MX",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2025/11/27/144297-74d1295df02ccf85.svg",
-      "img": "platform/144297.svg",
-      "categories": [
-        {
-          "name": "Travel & Tourism",
-          "id": 40,
-          "language": "en",
-          "parent": null
-        },
-        {
-          "name": "Car Rentals",
-          "id": 91,
-          "language": "en",
-          "parent": {
-            "name": "Travel & Tourism",
-            "id": 40,
-            "language": "en",
-            "parent": null
-          }
-        }
-      ],
-      "category": {
-        "name": "Car Rentals",
-        "id": 91,
-        "language": "en",
-        "parent": {
-          "name": "Travel & Tourism",
-          "id": 40,
-          "language": "en",
-          "parent": null
-        }
-      }
-    },
-    {
-      "id": 144417,
-      "name": "Tatkraft Home & Office Furniture Partners EU",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2025/12/18/144417-8a9efc73a3040562.svg",
-      "img": "platform/144417.svg",
-      "categories": [
-        {
-          "name": "Smart Home",
-          "id": 198,
-          "language": "en",
-          "parent": {
-            "name": "Online stores",
-            "id": 62,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Furniture & Homeware",
-          "id": 66,
-          "language": "en",
-          "parent": {
-            "name": "Online stores",
-            "id": 62,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        },
-        {
-          "name": "Smart tracking programs",
-          "id": 382,
-          "language": "en",
-          "parent": null
-        }
-      ],
-      "category": {
-        "name": "Smart Home",
-        "id": 198,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    },
-    {
-      "id": 144572,
-      "name": "Kama Ayurveda [ CPS ] IN",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2025/10/15/144572-77cb8da509dca568.svg",
-      "img": "platform/144572.svg",
-      "categories": [
-        {
-          "name": "Personal Care & Pharmacy",
-          "id": 67,
-          "language": "en",
-          "parent": {
-            "name": "Online stores",
-            "id": 62,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      ],
-      "category": {
-        "name": "Personal Care & Pharmacy",
-        "id": 67,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    },
-    {
-      "id": 144580,
-      "name": "Simbye eSIM WW",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2025/10/16/144580-c20c77050851117b.svg",
-      "img": "platform/144580.svg",
-      "categories": [
-        {
-          "name": "Travel & Tourism",
-          "id": 40,
-          "language": "en",
-          "parent": null
-        },
-        {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        },
-        {
-          "name": "Mobile E-commerce",
-          "id": 118,
-          "language": "en",
-          "parent": {
-            "name": "Mobile Programs",
-            "id": 79,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Flights",
-          "id": 44,
-          "language": "en",
-          "parent": {
-            "name": "Travel & Tourism",
-            "id": 40,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Mobile Services",
-          "id": 115,
-          "language": "en",
-          "parent": {
-            "name": "Mobile Programs",
-            "id": 79,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "IT Services & Soft",
-          "id": 122,
-          "language": "en",
-          "parent": {
-            "name": "Online Services",
-            "id": 18,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Mobile Programs",
-          "id": 79,
-          "language": "en",
-          "parent": null
-        },
-        {
-          "name": "Telecommunications",
-          "id": 20,
-          "language": "en",
-          "parent": {
-            "name": "Online Services",
-            "id": 18,
-            "language": "en",
-            "parent": null
-          }
-        }
-      ],
-      "category": {
-        "name": "Mobile E-commerce",
-        "id": 118,
-        "language": "en",
-        "parent": {
-          "name": "Mobile Programs",
-          "id": 79,
-          "language": "en",
-          "parent": null
-        }
-      }
-    },
-    {
-      "id": 144621,
-      "name": "Botanicawithlove RU",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2025/10/28/144621-d3610609ca3d3094.svg",
-      "img": "platform/144621.svg",
-      "categories": [
-        {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        },
-        {
-          "name": "Gifts & Flowers",
-          "id": 72,
-          "language": "en",
-          "parent": {
-            "name": "Online stores",
-            "id": 62,
-            "language": "en",
-            "parent": null
-          }
-        }
-      ],
-      "category": {
-        "name": "Gifts & Flowers",
-        "id": 72,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    },
-    {
-      "id": 144693,
-      "name": "Gameboost WW",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2025/10/22/144693-01b899cf139a51e2.svg",
-      "img": "platform/144693.svg",
-      "categories": [
-        {
-          "name": "Game Stores and Services",
-          "id": 214,
-          "language": "en",
-          "parent": {
-            "name": "Online Games",
-            "id": 6,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Online Games",
-          "id": 6,
-          "language": "en",
-          "parent": null
-        }
-      ],
-      "category": {
-        "name": "Game Stores and Services",
-        "id": 214,
-        "language": "en",
-        "parent": {
-          "name": "Online Games",
-          "id": 6,
-          "language": "en",
-          "parent": null
-        }
-      }
-    },
-    {
-      "id": 145562,
-      "name": "$Lana MX",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2025/10/20/145562-9d0cc1aa365d94b8.svg",
-      "img": "platform/145562.svg",
-      "categories": [
-        {
-          "name": "Financial Programs",
-          "id": 7,
-          "language": "en",
-          "parent": null
-        },
-        {
-          "name": "Loans",
-          "id": 9,
-          "language": "en",
-          "parent": {
-            "name": "Financial Programs",
-            "id": 7,
-            "language": "en",
-            "parent": null
-          }
-        }
-      ],
-      "category": {
-        "name": "Loans",
-        "id": 9,
-        "language": "en",
-        "parent": {
-          "name": "Financial Programs",
-          "id": 7,
-          "language": "en",
-          "parent": null
-        }
-      }
-    },
-    {
-      "id": 145575,
-      "name": "Stylevana WW",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2025/11/20/145575-d400c86acc111223.svg",
-      "img": "platform/145575.svg",
-      "categories": [
-        {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        },
-        {
-          "name": "Personal Care & Pharmacy",
-          "id": 67,
-          "language": "en",
-          "parent": {
-            "name": "Online stores",
-            "id": 62,
-            "language": "en",
-            "parent": null
-          }
-        }
-      ],
-      "category": {
-        "name": "Personal Care & Pharmacy",
-        "id": 67,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    },
-    {
-      "id": 145953,
-      "name": "Cura Care [CPS] IN",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2025/10/27/145953-7c5509c0485855d9.svg",
-      "img": "platform/145953.svg",
-      "categories": [
-        {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        },
-        {
-          "name": "Healthcare Services",
-          "id": 120,
-          "language": "en",
-          "parent": {
-            "name": "Online Services",
-            "id": 18,
-            "language": "en",
-            "parent": null
-          }
-        }
-      ],
-      "category": {
-        "name": "Healthcare Services",
-        "id": 120,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      }
-    },
-    {
-      "id": 146096,
-      "name": "Aurabits",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2025/10/30/146096-879afbd17264fd64.svg",
-      "img": "platform/146096.svg",
-      "categories": [
-        {
-          "name": "Personal Care & Pharmacy",
-          "id": 67,
-          "language": "en",
-          "parent": {
-            "name": "Online stores",
-            "id": 62,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        },
-        {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        },
-        {
-          "name": "Fitness",
-          "id": 205,
-          "language": "en",
-          "parent": {
-            "name": "Online Services",
-            "id": 18,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "eHealth",
-          "id": 202,
-          "language": "en",
-          "parent": {
-            "name": "Online stores",
-            "id": 62,
-            "language": "en",
-            "parent": null
-          }
-        }
-      ],
-      "category": {
-        "name": "Personal Care & Pharmacy",
-        "id": 67,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    },
-    {
       "id": 146098,
       "name": "Bag Republic UA",
+      "name_aliases": "Bag Republic, Bag",
+      "site_url": "https://bagrepublic.com.ua/",
+      "description": "Bag Republic UA пропонує широкий асортимент стильних та якісних сумок і аксесуарів для щоденного використання та подорожей. Партнери отримують можливість заробляти на продажах жіночих та чоловічих сумок, рюкзаків, гаманців, ременів та валіз.\r\n\r\nАсортимент на сайті:\r\n\r\n\r\n\tЖіночі сумки\r\n\tЧоловічі сумки\r\n\tРюкзаки\r\n\tГаманці\r\n\tРемені\r\n\tВалізи\r\n\r\n\r\nПереваги для партнерів:\r\n\r\n\r\n\tКонкурентні комісійні ставки\r\n\tВеликий вибір товарів для різних аудиторій\r\n\tЗручні промо-матеріали та посилання\r\n\tПостійне оновлення асортименту\r\n\r\n\r\nЦільова аудиторія:\r\nЧоловіки та жінки, які цінують стиль, якість та зручність, а також ті, хто часто подорожує.",
+      "status": "active",
       "image": "https://cdn.admitad-connect.com/campaign/images/2025/11/27/146098-3aad5caa896c7a45.svg",
-      "img": "platform/146098.svg",
       "categories": [
         {
           "name": "Online stores",
@@ -485,6 +27,12 @@
           }
         }
       ],
+      "img": "platform/146098.svg",
+      "affiliate": {
+        "goto_link": "https://heqgr.com/g/g8nq05ksew5af0702a273a04f8e3b6/",
+        "landings": [],
+        "cashback_link_data": null
+      },
       "category": {
         "name": "Clothing, Footwear, Accessories",
         "id": 64,
@@ -500,8 +48,11 @@
     {
       "id": 146175,
       "name": "The Park [CPS] IN",
+      "name_aliases": "Park Hotel, Theparkhotel, Thepark",
+      "site_url": "https://www.theparkhotels.com/",
+      "description": "Company Description: THE Park, pioneers of luxury boutique hotels for 50 years, is present in India's major cities and tourist destinations. Each hotel is unique, a distinctive interpretation of contemporary India that gives guests an experience that is Anything But Ordinary. Situated in prime locations, they house some of India's most happening nightclubs, liveliest bars and inventive restaurants.The Park is also home to the Aura Spa, a much-vaunted rejuvenation venue. Paintings, sculptures and installations adorn rooms and corridors, and the deisgn driven aesthetic can be felt across the hotels. Along with constant product and service innovation, the Group also focuses on relevant social issues and nurtures art and culture in each region. They respect the environment and take significant steps to protect it.\r\n\r\nThe Park Hotels is managed by the family-owned Apeejay Surrendra Group. Established in 1910, The Apeejay Surrendra Group has its foundations in steel. Its current activities include shipping, tea, retail, real estate and construction, hospitality and finance.\r\n\r\nTarget Geo : PAN India",
+      "status": "active",
       "image": "https://cdn.admitad-connect.com/campaign/images/2025/10/30/146175-63f694270f35ffad.svg",
-      "img": "platform/146175.svg",
       "categories": [
         {
           "name": "Travel & Tourism",
@@ -521,6 +72,12 @@
           }
         }
       ],
+      "img": "platform/146175.svg",
+      "affiliate": {
+        "goto_link": "https://tjzuh.com/g/1x71f09qze5af0702a270c9057a180/",
+        "landings": [],
+        "cashback_link_data": null
+      },
       "category": {
         "name": "Hotels",
         "id": 41,
@@ -536,8 +93,11 @@
     {
       "id": 146430,
       "name": "Oberoi Hotels [CPS] IN",
+      "name_aliases": "Oberoes , Oberoy , Obaroi",
+      "site_url": "https://www.oberoihotels.com/",
+      "description": "Company Description: Introducing the Oberoi Hotels and Resorts Affiliate Program to all publishers. This is a global luxury hotel company operating in 5 exotic destinations: India, Indonesia, Mauritius, Dubai and Egypt.\r\n\r\nOberoi Hotels & Resorts has been voted World's Best Hotel Brand for the second consecutive year by the readers of ‘Travel + Leisure in 2016 World's Best Awards’. They have established a reputation for redefining the paradigm of luxury and excellence in service amongst leisure hotels around the world. By promoting this program you are ensuring a great source of revenue!\r\n\r\nTarget Geo : PAN India\r\n\r\nKey Selling Points of Oberoi Hotels and Resorts Affiliate Program:\r\n\r\n\r\n\tGood commission percentage on each validated sale.\r\n\tProvide your users with a unique Luxury product.\r\n\tAccess to a dedicated team to help you boost your revenue.\r\n\tLocated at the most picturesque destinations.\r\n",
+      "status": "active",
       "image": "https://cdn.admitad-connect.com/campaign/images/2025/11/4/146430-5e469ec24f7d8e21.svg",
-      "img": "platform/146430.svg",
       "categories": [
         {
           "name": "Hotels",
@@ -557,6 +117,12 @@
           "parent": null
         }
       ],
+      "img": "platform/146430.svg",
+      "affiliate": {
+        "goto_link": "https://tjzuh.com/g/xz7iftha3y5af0702a27c0120d7ba4/",
+        "landings": [],
+        "cashback_link_data": null
+      },
       "category": {
         "name": "Hotels",
         "id": 41,
@@ -572,8 +138,11 @@
     {
       "id": 146567,
       "name": "Jupiter Money [ Android , CPA ] IN",
+      "name_aliases": "JUPITER MONI",
+      "site_url": "https://jupiter.money/",
+      "description": "Brief Description\r\nJupiter is a digital-first banking platform built to deliver a modern, intuitive banking experience tailored especially for young professionals and digitally savvy users. It combines financial tools, simple design, and convenience to help users manage their money smarter and with minimal friction.\r\n\r\nCampaign Description\r\nThe campaign focuses on driving high-quality app installs and active user engagement by highlighting Jupiter’s effortless money management features.\r\n\r\nTarget Geo\r\nMore than 3000 pincodes covered pan-India, with complete pincode details available in the campaign brief.",
+      "status": "active",
       "image": "https://cdn.admitad-connect.com/campaign/images/2025/11/7/146567-c2a7d5cb27d0dbf1.svg",
-      "img": "platform/146567.svg",
       "categories": [
         {
           "name": "Credit Cards",
@@ -593,6 +162,12 @@
           "parent": null
         }
       ],
+      "img": "platform/146567.svg",
+      "affiliate": {
+        "goto_link": "https://tjzuh.com/g/umgkrpoyr05af0702a2743b3f6f332/",
+        "landings": [],
+        "cashback_link_data": null
+      },
       "category": {
         "name": "Credit Cards",
         "id": 10,
@@ -608,8 +183,11 @@
     {
       "id": 147512,
       "name": "TikTok Lite [Android, CPI/CPA] BR",
+      "name_aliases": "tiktok, tik, took, Tiktok, tiiik, tikokot",
+      "site_url": "https://www.tiktok.com/",
+      "description": "TikTok Lite BR\r\n\r\nBenefits for Customers\r\n\r\n\r\n\tFabulous content: Watch millions of videos selected specifically for you. TikTok Lite adapts to your tastes to keep you entertained with interesting content every day.\r\n\tTime-limited activity: Designed specifically for TikTok Lite users to complete challenging tasks and earn great rewards.\r\n\tImmersed experience: No e-commerce, the purest and fastest viewing experience, focusing only on what you intend to see.\r\n\tData Saver: Save up to 20% on data usage.\r\n\tSmaller App Size: Only 13MB, perfect for devices with limited storage.\r\n\tLower Data Usage: Optimized to consume less data, ideal for users with limited traffic or unstable network connections.\r\n\tBetter Compatibility: Works on a wide range of devices, including older models or those with lower specifications.\r\n\tReduced Load Times: Streamlined design and fewer features offer faster load times, enhancing the overall experience.\r\n\r\n\r\nTarget Audience Profile\r\n\r\n\r\n\tGender: Both female and male\r\n\tAge Range: 18–60 years old\r\n\tIncome Level: All\r\n\tOccupation: All\r\n\tMarital Status: All\r\n\tOther Criteria: Users interested in entertainment, short-form video content, and social media engagement\r\n\r\n\r\nBrand Positioning Guidelines\r\n\r\n\r\n\tPublishers should highlight:\r\n\tQuality content: Emphasize the personalized, engaging video experience\r\n\tApp performance: Lightweight, fast-loading, low data consumption\r\n\tUser benefits: Time-limited challenges, rewards, immersive experience\r\n\tRecommended phrases: “Fabulous content,” “Data Saver,” “Immersed experience,” “Smaller App Size,” “Optimized for all devices”\r\n\r\n\r\nCreative Approval\r\n\r\n\r\n\tYes, only if publishers are creating video content on social media\r\n\r\n\r\nAdditional Rules or Restrictions\r\n\r\n\r\n\tAvoid inappropriate content, including sexual imagery, revealing clothing, violence, profanity, firearms (real or simulated), alcohol, tobacco, gambling, and politically or religiously sensitive topics.\r\n\tUse the correct brand name: Always write TikTok Lite correctly (e.g., avoid \"tiktok Lite,\" \"Tiktok Lite,\" etc.).\r\n\tDo not compare TikTok and TikTok Lite negatively: Avoid discrediting TikTok to promote TikTok Lite.\r\n\tFollow the TikTok Community Guidelines when creating promotional content.\r\n",
+      "status": "active",
       "image": "https://cdn.admitad-connect.com/campaign/images/2025/11/27/147512-5988b7c91891a520.svg",
-      "img": "platform/147512.svg",
       "categories": [
         {
           "name": "Other Services",
@@ -629,6 +207,12 @@
           "parent": null
         }
       ],
+      "img": "platform/147512.svg",
+      "affiliate": {
+        "goto_link": "https://sgkaa.com/g/4811p4g2og5af0702a2701ff74d73d/",
+        "landings": [],
+        "cashback_link_data": null
+      },
       "category": {
         "name": "Other Services",
         "id": 93,
@@ -644,8 +228,11 @@
     {
       "id": 149085,
       "name": "GIA KARSKO EU",
+      "name_aliases": "GIA KARSKO, gia, KARSKO",
+      "site_url": "https://giakarsko.com/",
+      "description": "Partner with GIA KARSKO – Authenticated Luxury for Your Audience\r\n\r\nGIA KARSKO is a trusted destination for authenticated, pre-loved luxury designer handbags. Our curated selection includes iconic brands such as Hermès, Chanel, Louis Vuitton, and more—bringing premium, high-value products that appeal to luxury shoppers.\r\n\r\nAffiliate Benefits\r\n\r\n\r\n\tCompetitive commissions with no payout below €100\r\n\t30-day cookie window for maximized conversions\r\n\tHigh average order value of around €1,000+\r\n\tDedicated affiliate support and guidance\r\n\tProfessional marketing creatives and product imagery\r\n\tReal-time tracking and monthly payouts\r\n\tCustom-built Landing Pages for Affiliates\r\n\r\n\r\nJoin a program built on trust, authenticity, and shared success. Promote GIA KARSKO and offer your audience timeless luxury with exceptional earning potential.\r\n\r\nWebsite:  https://giakarsko.com/ ",
+      "status": "active",
       "image": "https://cdn.admitad-connect.com/campaign/images/2025/12/10/149085-817027590ed702f9.svg",
-      "img": "platform/149085.svg",
       "categories": [
         {
           "name": "Online stores",
@@ -665,6 +252,43 @@
           }
         }
       ],
+      "img": "platform/149085.svg",
+      "affiliate": {
+        "goto_link": "https://ypetp.com/g/x9v9fme9zq5af0702a272e05f7a992/",
+        "landings": [
+          {
+            "id": 31423,
+            "name": "CHANEL COLLECTION",
+            "code": "3f29f69b31"
+          },
+          {
+            "id": 31422,
+            "name": "LOUIS VUITTON COLLECTION",
+            "code": "d79c61de08"
+          },
+          {
+            "id": 31456,
+            "name": "Shopping Page",
+            "code": "0b08d7bf4a"
+          },
+          {
+            "id": 31420,
+            "name": "How We Authenticate Luxury Handbags",
+            "code": "8facbca6f0"
+          },
+          {
+            "id": 31421,
+            "name": "BALENCIAGA COLLECTION",
+            "code": "b12ab49ea2"
+          },
+          {
+            "id": 31424,
+            "name": "Luxury Brand Guides",
+            "code": "801ba370d0"
+          }
+        ],
+        "cashback_link_data": null
+      },
       "category": {
         "name": "Clothing, Footwear, Accessories",
         "id": 64,
@@ -680,8 +304,11 @@
     {
       "id": 158440,
       "name": "Lifestyle Web [CPS] IN",
+      "name_aliases": "Live styke , Live style",
+      "site_url": "https://lifestylestore.com",
+      "description": "Brand Description\r\n\r\nLifestyle Stores is a one-stop digital destination for modern living, offering a curated selection of fashion, beauty, home, and lifestyle essentials. Designed for style-conscious consumers, the brand brings together trend-led designs, quality products, and accessible pricing—all in one seamless online experience.\r\n\r\nCampaign Description : This is a Web Based CPS Campaign . \r\n\r\nTarget Geo :Pan India ",
+      "status": "active",
       "image": "https://cdn.admitad-connect.com/campaign/images/2025/12/16/158440-2d93d9a16766811e.svg",
-      "img": "platform/158440.svg",
       "categories": [
         {
           "name": "Clothing, Footwear, Accessories",
@@ -701,6 +328,12 @@
           "parent": null
         }
       ],
+      "img": "platform/158440.svg",
+      "affiliate": {
+        "goto_link": "https://tjzuh.com/g/xjyf9hlt0t5af0702a27fb440ec775/",
+        "landings": [],
+        "cashback_link_data": null
+      },
       "category": {
         "name": "Clothing, Footwear, Accessories",
         "id": 64,
@@ -716,8 +349,11 @@
     {
       "id": 159043,
       "name": "Meshnology - Meshtastic & LoRa Hardware Specialist",
+      "name_aliases": "Meshnology,Heltec, Meshtastic Power Bank, LoRa Nodes",
+      "site_url": "https://meshnology.com/",
+      "description": "Meshnology is a fast-growing global cross-border e-commerce brand focused on Internet of Things (IoT) hardware and open-source technology products for makers, engineers, and tech enthusiasts. Our catalog includes LoRa and Meshtastic development boards and kits, high-capacity LiPo batteries, antennas, and accessory modules designed for IoT, DIY electronics, and long-range wireless communication.\r\n\r\nBy joining our affiliate program, partners worldwide can promote our products using unique coupons and earn commissions on real sales. We support creators, coupon sites, and content publishers with competitive commissions, flexible coupon incentives, and performance-based payouts. Meshnology delivers high-quality tech products that empower makers and innovators globally.",
+      "status": "active",
       "image": "https://cdn.admitad-connect.com/campaign/images/2025/12/26/159043-e33945248d4da33c.svg",
-      "img": "platform/159043.svg",
       "categories": [
         {
           "name": "Online stores",
@@ -748,6 +384,23 @@
           }
         }
       ],
+      "img": "platform/159043.svg",
+      "affiliate": {
+        "goto_link": "https://tywhh.com/g/97h026mnpx5af0702a27e95c5fd652/",
+        "landings": [
+          {
+            "id": 31521,
+            "name": "January Top Seller , Meshnology N39 ,All-in-One Mesh Kit , High Power V4.",
+            "code": "c8ca8975a6"
+          },
+          {
+            "id": 31522,
+            "name": "High Performance Heltec V4 , Advanced Meshtastic Node",
+            "code": "4d10c954f1"
+          }
+        ],
+        "cashback_link_data": null
+      },
       "category": {
         "name": "Hand & Power tools",
         "id": 102,
@@ -761,5 +414,5 @@
       }
     }
   ],
-  "totalPosts": 618
+  "totalPosts": 608
 }

@@ -1,0 +1,53 @@
+[
+  {
+    "status": "active",
+    "rating": "3.41",
+    "campaign": {
+      "id": 18757,
+      "name": "Dewal",
+      "site_url": "https://www.dewal.ru/"
+    },
+    "description": "*не распространяется на подарочные сертификаты и акционные товары",
+    "short_name": "Скидка -5% на все!",
+    "exclusive": true,
+    "date_end": "2026-01-31T23:59:00",
+    "date_start": "2025-02-14T00:00:00",
+    "id": 758605,
+    "regions": [
+      "RU"
+    ],
+    "discount": "5%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/4/7/18757-2990649403096106.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      },
+      {
+        "id": 7,
+        "name": "Homeware"
+      },
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Скидка -5% на все!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "DEWAL5",
+    "frameset_link": "https://xyowz.com/coupon/md4zngqizk5af0702a27e883c4cd87/?erid=2bL9aMPo2e49hMef4phyWsoWMh",
+    "goto_link": "https://xyowz.com/g/00u50v7tmz5af0702a27e883c4cd87/?i=3&erid=2bL9aMPo2e49hMef4phyWsoWMh"
+  }
+]

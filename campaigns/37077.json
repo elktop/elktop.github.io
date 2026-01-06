@@ -1,0 +1,327 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 37077,
+      "name": "Info Store",
+      "site_url": "https://www.infostore.com.br"
+    },
+    "description": "Cupom informado oferece 5% de desconto em produtos selecionados. Não é válido para softwares ou serviços. Sujeito à alteração ou cancelamento sem comunicação prévia. Limitado a 1 (hum) uso por cliente. Exclusivo para compras realizadas para a cidade de Manaus, Amazonas.",
+    "short_name": "5% OFF EM PROCESSADORES",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-03-26T18:07:23",
+    "id": 840231,
+    "regions": [
+      "BR"
+    ],
+    "discount": "5%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/7/24/37077-29d3519507707ad4.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      },
+      {
+        "id": 7,
+        "name": "Homeware"
+      }
+    ],
+    "name": "5% OFF EM PROCESSADORES",
+    "language": "pt",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "PRO5",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/okm96r8vnr5af0702a277b8e659797/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 37077,
+      "name": "Info Store",
+      "site_url": "https://www.infostore.com.br"
+    },
+    "description": "Cupom informado oferece 5% de desconto em produtos selecionados. Não é válido para softwares ou serviços. Sujeito à alteração ou cancelamento sem comunicação prévia. Limitado a 1 (hum) uso por cliente. Exclusivo para compras realizadas para a cidade de Manaus, Amazonas.",
+    "short_name": "5% OFF EM PLACA DE VÍDEO",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-03-26T18:07:06",
+    "id": 840230,
+    "regions": [
+      "BR"
+    ],
+    "discount": "5%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/7/24/37077-29d3519507707ad4.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      },
+      {
+        "id": 7,
+        "name": "Homeware"
+      }
+    ],
+    "name": "5% OFF EM PLACA DE VÍDEO",
+    "language": "pt",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "PLV5",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/gd7wnmwtze5af0702a277b8e659797/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 37077,
+      "name": "Info Store",
+      "site_url": "https://www.infostore.com.br"
+    },
+    "description": "Cupom informado oferece 5% de desconto em produtos selecionados. Não é válido para softwares ou serviços. Sujeito à alteração ou cancelamento sem comunicação prévia. Limitado a 1 (hum) uso por cliente. Exclusivo para compras realizadas para a cidade de Manaus, Amazonas.",
+    "short_name": "5% OFF EM LAVA-LOUÇA",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-03-26T18:06:49",
+    "id": 840229,
+    "regions": [
+      "BR"
+    ],
+    "discount": "5%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/7/24/37077-29d3519507707ad4.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      },
+      {
+        "id": 7,
+        "name": "Homeware"
+      }
+    ],
+    "name": "5% OFF EM LAVA-LOUÇA",
+    "language": "pt",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "LAL5",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/gah3y8y6mt5af0702a277b8e659797/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 37077,
+      "name": "Info Store",
+      "site_url": "https://www.infostore.com.br"
+    },
+    "description": "Cupom informado oferece 5% de desconto em produtos selecionados. Não é válido para softwares ou serviços. Sujeito à alteração ou cancelamento sem comunicação prévia. Limitado a 1 (hum) uso por cliente. Exclusivo para compras realizadas para a cidade de Manaus, Amazonas.",
+    "short_name": "5% OFF EM FOGÕES",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-03-26T18:06:28",
+    "id": 840228,
+    "regions": [
+      "BR"
+    ],
+    "discount": "5%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/7/24/37077-29d3519507707ad4.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      },
+      {
+        "id": 7,
+        "name": "Homeware"
+      }
+    ],
+    "name": "5% OFF EM FOGÕES",
+    "language": "pt",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "FOG5",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/y2durpr4cr5af0702a277b8e659797/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 37077,
+      "name": "Info Store",
+      "site_url": "https://www.infostore.com.br"
+    },
+    "description": "Cupom informado oferece 5% de desconto em produtos selecionados. Não é válido para softwares ou serviços. Sujeito à alteração ou cancelamento sem comunicação prévia. Limitado a 1 (hum) uso por cliente. Exclusivo para compras realizadas para a cidade de Manaus, Amazonas.",
+    "short_name": "5% OFF EM GELADEIRAS",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-03-26T18:06:10",
+    "id": 840227,
+    "regions": [
+      "BR"
+    ],
+    "discount": "5%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/7/24/37077-29d3519507707ad4.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      },
+      {
+        "id": 7,
+        "name": "Homeware"
+      }
+    ],
+    "name": "5% OFF EM GELADEIRAS",
+    "language": "pt",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "GEL5",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/tvp5nfktgp5af0702a277b8e659797/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 37077,
+      "name": "Info Store",
+      "site_url": "https://www.infostore.com.br"
+    },
+    "description": "Cupom informado oferece 5% de desconto em produtos selecionados. Não é válido para softwares ou serviços. Sujeito à alteração ou cancelamento sem comunicação prévia. Limitado a 1 (hum) uso por cliente. Exclusivo para compras realizadas para a cidade de Manaus, Amazonas.",
+    "short_name": "5% OFF EM AR-CONDICIONADOS",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-03-26T18:05:19",
+    "id": 840226,
+    "regions": [
+      "BR"
+    ],
+    "discount": "5%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/7/24/37077-29d3519507707ad4.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      },
+      {
+        "id": 7,
+        "name": "Homeware"
+      }
+    ],
+    "name": "5% OFF EM AR-CONDICIONADOS",
+    "language": "pt",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "SPLIT5",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/c9c3r5at8f5af0702a277b8e659797/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 37077,
+      "name": "Info Store",
+      "site_url": "https://www.infostore.com.br"
+    },
+    "description": "",
+    "short_name": "Semana do esportista Infostore - Até 20% em produtos selecionados",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-02-20T00:14:31",
+    "id": 634227,
+    "regions": [
+      "BR"
+    ],
+    "discount": "20%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/7/24/37077-29d3519507707ad4.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Semana do esportista Infostore - Até 20% em produtos selecionados",
+    "language": "pt",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/xrjpay9yyn5af0702a277b8e659797/?i=3"
+  }
+]

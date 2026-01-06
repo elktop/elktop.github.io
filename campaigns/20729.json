@@ -1,0 +1,53 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 20729,
+      "name": "Zippo",
+      "site_url": "https://www.zippo.ru/"
+    },
+    "description": "(скидка не распространяется на подарочные сертификаты и акционные зажигалки)",
+    "short_name": "Скидка 7% на все!",
+    "exclusive": true,
+    "date_end": "2026-01-31T23:59:00",
+    "date_start": "2025-04-01T00:00:00",
+    "id": 758604,
+    "regions": [
+      "RU"
+    ],
+    "discount": "7%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/4/6/20729-21fe2d57e16fb6b2.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      },
+      {
+        "id": 9,
+        "name": "Gifts & Flowers"
+      },
+      {
+        "id": 24,
+        "name": "Outdoor Clothing & Equipment"
+      }
+    ],
+    "name": "Скидка 7% на все!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ZIPPO7",
+    "frameset_link": "https://rzekl.com/coupon/zq0nrss4t95af0702a271926b3984a/?erid=2bL9aMPo2e49hMef4phyWsoWMf",
+    "goto_link": "https://rzekl.com/g/45qxh61inw5af0702a271926b3984a/?i=3&erid=2bL9aMPo2e49hMef4phyWsoWMf"
+  }
+]

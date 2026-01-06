@@ -2,8 +2,11 @@
   {
     "id": 13903,
     "name": "Tickets [CPS] UA",
+    "name_aliases": "nbrtnc тикетс тікетс Tickets",
+    "site_url": "https://tickets.ua/",
+    "description": "Tickets.ua – лідер з онлайн-продажу залізничних, автобусних та авіаквитків в Україні \r\n\r\nНа сьогоднішній день компанія представлена в 24 країнах\r\n\r\nНа одній платформі за допомогою зручних фільтрів можна підібрати найкращі квитки на поїзд, автобус та літак.\r\n\r\nЗамовити страхування та додаткові послуги для комфортної подорожі.\r\n\r\nПереваги для клієнтів сервісу:\r\n\r\n\r\n\t900+ авіакомпаній світу;\r\n\t15+ кращих Європейських залізниць та Укрзалізниця;\r\n\t1500+ автобусних перевізників по Україні та Європі;\r\n\t6 способів оплати;\r\n\tбезпечність платежів, підтверджена міжнародними сертифікатами, власні платіжні шлюзи, сертифікат безпеки PCI DSS;\r\n\tсупровід та підтримка 24/7 від покупки квитка до прибуття до кінцевого пункту подорожі;\r\n\r\n\r\nПереваги для партнерів:\r\n\r\n\r\n\tцілодобовий моніторинг працездатності сайту\r\n\tстабільна висока відвідуваність сайту: 60 000+ унікальних сесій за день\r\n\tвисока конверсія, співвідношення look-to-book 40:1;\r\n\tшвидке впровадження інновацій та виправлення багів завдяки роботі власного департаменту технічної розробки\r\n\r\n\r\n ",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/29/13903-b220728043a7dbfd.svg",
-    "img": "platform/13903.svg",
     "categories": [
       {
         "name": "Tours",
@@ -150,6 +153,18 @@
         "parent": null
       }
     ],
+    "img": "platform/13903.svg",
+    "affiliate": {
+      "goto_link": "https://ficca2021.com/g/yk224wdch25af0702a276acf6f3f63/",
+      "landings": [
+        {
+          "id": 4087,
+          "name": "Bus UA",
+          "code": "86e9f122a5"
+        }
+      ],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Tours",
       "id": 234,
@@ -165,8 +180,11 @@
   {
     "id": 42148,
     "name": "Travelking PL & HU",
+    "name_aliases": "Travelking, Travel king",
+    "site_url": "https://travelking.pl/",
+    "description": "ENG\r\n\r\nDo you love traveling and enjoy spending your free time exploring beautiful places in Poland or abroad? Whether you prefer a relaxing wellness vacation, active time in nature or prefer sightseeing at Travelking you will find the perfect vacation for you.\r\n\r\nAlready more than 900,000 satisfied customers from Poland, the Czech Republic, Slovakia and Hungary have proven that you can rely on Travelking to organize your vacation.\r\n\r\nToday, with Travelking you can choose from more than 900 stays in Poland and 8 other European countries. The most popular among customers are the relaxing wellness stays. Throughout the year, stays in the stunning Austrian mountains and exploring the natural and cultural beauty of Poland are in high demand. In addition, Travelking offers stays in attractive ski resorts such as Austria, Slovakia and Slovenia, where you can spend the perfect (not only) winter holidays.\r\n\r\nIf you're a travel lover, you'll be happy to know that you can now get a PLN 100 discount on all stays with Travelking. For every purchase of more than PLN 1,000. This includes discounted stays and Travelbomb, which will save you at least another 30% off the price! The money you save will certainly come in handy during your dream stay!\r\n\r\nPL\r\n\r\nKochasz podróże i lubisz spędzać wolny czas na odkrywaniu pięknych miejsc w Polsce lub za granicą? Niezależnie od tego, czy preferujesz relaksujące wakacje z wellness, aktywny czas na łonie natury, czy wolisz zwiedzać zabytki w Travelking znajdziesz idealne wakacje dla siebie.\r\n\r\nJuż ponad 900 000 zadowolonych klientów z Polski, Czech, Słowacji i Węgier udowodniło, że można polegać na Travelking przy organizacji wakacji.\r\n\r\nObecnie z Travelking można wybierać z ponad 900 pobytów w Polsce i 8 innych krajach europejskich. Największą popularnością wśród klientów cieszą się pełne relaksu pobyty wellness. Przez cały rok dużym zainteresowaniem cieszą się pobyty w zachwycających austriackich górach oraz odkrywanie naturalnego i kulturowego piękna Polski. Ponadto w ofercie Travelking znajdują się pobyty w atrakcyjnych ośrodkach narciarskich, takich jak Austria, Słowacja czy Słowenia, gdzie można spędzić idealne (nie tylko) ferie zimowe.\r\n\r\nJeśli jesteś miłośnikiem podróży, z pewnością ucieszy Cię wiadomość, że teraz możesz otrzymać 100 zł zniżki na wszystkie pobyty z Travelking. Za każdy zakup powyżej 1000 zł. Dotyczy to również pobytów zniżkowych i Travelbomb, dzięki którym zaoszczędzisz co najmniej kolejne 30% ceny! Zaoszczędzone pieniądze z pewnością przydadzą się podczas wymarzonego pobytu!\r\n\r\nHU\r\n\r\nSzeretsz utazni, és szívesen töltöd szabadidődet gyönyörű helyek felfedezésével Lengyelországban vagy külföldön? Akár a pihentető wellness-nyaralást, akár a vidéki aktív időtöltést, akár a városnézést kedveli, a Travelkingnél megtalálja a tökéletes nyaralást az Ön számára.\r\n\r\nMár több mint 900 000 elégedett ügyfél Lengyelországból, Csehországból, Szlovákiából és Magyarországról bizonyította, hogy a Travelkingre bátran hagyatkozhat nyaralása megszervezésében.\r\n\r\nMa a Travelkinggel több mint 900 lengyelországi és 8 másik európai országban található szálláshely közül választhat. Az ügyfelek körében a legnépszerűbbek a pihentető wellness-üdülések. Egész évben nagy a kereslet a lenyűgöző osztrák hegyekben való tartózkodásra és Lengyelország természeti és kulturális szépségeinek felfedezésére. Emellett a Travelking olyan vonzó síparadicsomokban kínál üdüléseket, mint Ausztria, Szlovákia és Szlovénia, ahol tökéletes (nem csak) téli vakációt tölthet.\r\n\r\nHa Ön az utazás szerelmese, örömmel fogja tudni, hogy mostantól 100 font kedvezményt kaphat a Travelkinggel történő összes tartózkodásra. Minden 1000 font feletti vásárlás esetén. Ez vonatkozik a kedvezményes üdülésekre és a Travelbombára is, amivel legalább további 30%-ot spórolhatsz az árból! A megtakarított pénz biztosan jól fog jönni az álmai során!\r\n\r\n \r\n\r\n ",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/11/1/42148-acc3e8710ac31851.svg",
-    "img": "platform/42148.svg",
     "categories": [
       {
         "name": "Travel & Tourism",
@@ -208,6 +226,12 @@
         }
       }
     ],
+    "img": "platform/42148.svg",
+    "affiliate": {
+      "goto_link": "https://vxrlm.com/g/dquwu4q32h5af0702a277eaf385c59/",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Tours",
       "id": 234,

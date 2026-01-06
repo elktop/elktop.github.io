@@ -1,0 +1,596 @@
+[
+  {
+    "status": "active",
+    "rating": "5.46",
+    "campaign": {
+      "id": 2476,
+      "name": "Lingualeo",
+      "site_url": "https://lingualeo.com/"
+    },
+    "description": "",
+    "short_name": "Скидка 75%. Премиум на 12 месяцев для всех пользователей - 2290р",
+    "exclusive": false,
+    "date_end": "2026-01-11T23:59:00",
+    "date_start": "2025-12-22T00:00:00",
+    "id": 892694,
+    "regions": [
+      "AM",
+      "AZ",
+      "BY",
+      "CA",
+      "CN",
+      "DE",
+      "DK",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "IE",
+      "IL",
+      "IN",
+      "IT",
+      "KG",
+      "KZ",
+      "NO",
+      "PL",
+      "PT",
+      "RS",
+      "RU",
+      "TJ",
+      "TR",
+      "US",
+      "UZ"
+    ],
+    "discount": "75%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/2/20/2476-76c48122217d3a08.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 189,
+        "name": "New Year Festival 2026"
+      }
+    ],
+    "name": "Скидка 75%. Премиум на 12 месяцев для всех пользователей - 2290р",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "Festival",
+    "frameset_link": "https://xcdus.com/coupon/3up0mee7nf5af0702a27c814d4b7c0/?erid=2bL9aMPo2e49hMef4rqy6a5VZu",
+    "goto_link": "https://xcdus.com/g/hosf0v00nf5af0702a27c814d4b7c0/?i=3&erid=2bL9aMPo2e49hMef4rqy6a5VZu"
+  },
+  {
+    "status": "active",
+    "rating": "2.81",
+    "campaign": {
+      "id": 2476,
+      "name": "Lingualeo",
+      "site_url": "https://lingualeo.com/"
+    },
+    "description": "Чтобы активировать 30-дневный trial-период, пожалуйста, введите данные карты.\r\nС карты будет списан 1 рубль, это стандартная процедура, которая позволяет нам убедиться, что вы реальный пользователь.\r\nЕсли вы не отмените подписку до окончания пробного периода, она автоматически продлится, и оплата за следующий месяц спишется с карты.",
+    "short_name": "1 Месяц Premium-доступа в подарок",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-10-21T14:17:12",
+    "id": 879862,
+    "regions": [
+      "AM",
+      "AZ",
+      "BY",
+      "CA",
+      "CN",
+      "DE",
+      "DK",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "IE",
+      "IL",
+      "IN",
+      "IT",
+      "KG",
+      "KZ",
+      "NO",
+      "PL",
+      "PT",
+      "RS",
+      "RU",
+      "TJ",
+      "TR",
+      "US",
+      "UZ"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/2/20/2476-76c48122217d3a08.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 22,
+        "name": "Online Education"
+      }
+    ],
+    "name": "1 Месяц Premium-доступа в подарок",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://xcdus.com/coupon/2r4zgih71z5af0702a27c814d4b7c0/?erid=2bL9aMPo2e49hMef4rqV16mXbU",
+    "goto_link": "https://xcdus.com/g/mf81k731o75af0702a27c814d4b7c0/?i=3&erid=2bL9aMPo2e49hMef4rqV16mXbU"
+  },
+  {
+    "status": "active",
+    "rating": "3.80",
+    "campaign": {
+      "id": 2476,
+      "name": "Lingualeo",
+      "site_url": "https://lingualeo.com/"
+    },
+    "description": "",
+    "short_name": "1 год  подписки Premium за 4190р",
+    "exclusive": false,
+    "date_end": "2026-12-31T23:59:00",
+    "date_start": "2025-12-24T13:05:00",
+    "id": 678956,
+    "regions": [
+      "AM",
+      "AZ",
+      "BY",
+      "KG",
+      "KZ",
+      "PT",
+      "RU",
+      "TJ",
+      "TR",
+      "UA",
+      "US",
+      "UZ"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      },
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/2/20/2476-76c48122217d3a08.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 22,
+        "name": "Online Education"
+      }
+    ],
+    "name": "1 год  подписки Premium за 4190р",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://xcdus.com/coupon/tzuhak87r95af0702a27c814d4b7c0/?erid=2bL9aMPo2e49hMef4phUk1tcS9",
+    "goto_link": "https://xcdus.com/g/n6s1tyfa0q5af0702a27c814d4b7c0/?i=3&erid=2bL9aMPo2e49hMef4phUk1tcS9"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 2476,
+      "name": "Lingualeo",
+      "site_url": "https://lingualeo.com/"
+    },
+    "description": "",
+    "short_name": "1 Месяц подписки Premium за 749р",
+    "exclusive": false,
+    "date_end": "2026-12-31T23:59:00",
+    "date_start": "2025-12-24T13:05:00",
+    "id": 678955,
+    "regions": [
+      "AM",
+      "AZ",
+      "BY",
+      "KG",
+      "KZ",
+      "PT",
+      "RU",
+      "TJ",
+      "TR",
+      "UA",
+      "US",
+      "UZ"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/2/20/2476-76c48122217d3a08.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 22,
+        "name": "Online Education"
+      }
+    ],
+    "name": "1 Месяц подписки Premium за 749р",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://xcdus.com/coupon/5u1a8ezu4f5af0702a27c814d4b7c0/?erid=2bL9aMPo2e49hMef4phUk1tcS5",
+    "goto_link": "https://xcdus.com/g/z9m369f5b35af0702a27c814d4b7c0/?i=3&erid=2bL9aMPo2e49hMef4phUk1tcS5"
+  },
+  {
+    "status": "active",
+    "rating": "2.59",
+    "campaign": {
+      "id": 2476,
+      "name": "Lingualeo",
+      "site_url": "https://lingualeo.com/"
+    },
+    "description": "",
+    "short_name": "Подписка Premium на год со скидкой 50%",
+    "exclusive": false,
+    "date_end": "2026-12-31T23:59:00",
+    "date_start": "2025-12-24T13:05:00",
+    "id": 678922,
+    "regions": [
+      "AM",
+      "AZ",
+      "BY",
+      "KG",
+      "KZ",
+      "PT",
+      "RU",
+      "TJ",
+      "TR",
+      "UA",
+      "US",
+      "UZ"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/2/20/2476-76c48122217d3a08.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 22,
+        "name": "Online Education"
+      }
+    ],
+    "name": "Подписка Premium на год со скидкой 50%",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://xcdus.com/coupon/az0ygz7kiv5af0702a27c814d4b7c0/?erid=2bL9aMPo2e49hMef4phUdhjh27",
+    "goto_link": "https://xcdus.com/g/uwjma2r6j25af0702a27c814d4b7c0/?i=3&erid=2bL9aMPo2e49hMef4phUdhjh27"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 2476,
+      "name": "Lingualeo",
+      "site_url": "https://lingualeo.com/"
+    },
+    "description": "Подари подписку Premium другу",
+    "short_name": "Подарок другу подписки Premium от Lingualeo со скидкой 50%",
+    "exclusive": false,
+    "date_end": "2026-12-31T23:59:00",
+    "date_start": "2025-12-24T12:15:00",
+    "id": 670708,
+    "regions": [
+      "AM",
+      "AZ",
+      "BY",
+      "CA",
+      "CN",
+      "DE",
+      "DK",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "IE",
+      "IL",
+      "IN",
+      "IT",
+      "KG",
+      "KZ",
+      "NO",
+      "PL",
+      "PT",
+      "RS",
+      "RU",
+      "TJ",
+      "TR",
+      "UA",
+      "US",
+      "UZ"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/2/20/2476-76c48122217d3a08.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 22,
+        "name": "Online Education"
+      }
+    ],
+    "name": "Подарок другу подписки Premium от Lingualeo со скидкой 50%",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://xcdus.com/coupon/ygrhx2j22v5af0702a27c814d4b7c0/?erid=2bL9aMPo2e49hMef4phUX2kZwo",
+    "goto_link": "https://xcdus.com/g/9il122wdl65af0702a27c814d4b7c0/?i=3&erid=2bL9aMPo2e49hMef4phUX2kZwo"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 2476,
+      "name": "Lingualeo",
+      "site_url": "https://lingualeo.com/"
+    },
+    "description": "",
+    "short_name": "29 грамматических курсов при покупке Premium — Годовой премиум 65% 2990 / 8990",
+    "exclusive": false,
+    "date_end": "2026-12-31T23:59:00",
+    "date_start": "2025-12-24T12:15:00",
+    "id": 628461,
+    "regions": [
+      "AM",
+      "AZ",
+      "BY",
+      "KG",
+      "KZ",
+      "PT",
+      "RU",
+      "TJ",
+      "TR",
+      "UA",
+      "US",
+      "UZ"
+    ],
+    "discount": "65%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      },
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/2/20/2476-76c48122217d3a08.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 22,
+        "name": "Online Education"
+      }
+    ],
+    "name": "29 грамматических курсов при покупке Premium — Годовой премиум 65% 2990 / 8990",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://xcdus.com/coupon/ozoe240ege5af0702a27c814d4b7c0/?erid=2bL9aMPo2e49hMef4pgz68kgfM",
+    "goto_link": "https://xcdus.com/g/sb2zn3uoa55af0702a27c814d4b7c0/?i=3&erid=2bL9aMPo2e49hMef4pgz68kgfM"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 2476,
+      "name": "Lingualeo",
+      "site_url": "https://lingualeo.com/"
+    },
+    "description": "",
+    "short_name": "Все курсы 97% 1990 / 61176",
+    "exclusive": false,
+    "date_end": "2026-12-31T23:59:00",
+    "date_start": "2025-12-24T12:15:00",
+    "id": 628459,
+    "regions": [
+      "AM",
+      "AZ",
+      "BY",
+      "KG",
+      "KZ",
+      "PT",
+      "RU",
+      "TJ",
+      "TR",
+      "UA",
+      "US",
+      "UZ"
+    ],
+    "discount": "97%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/2/20/2476-76c48122217d3a08.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 22,
+        "name": "Online Education"
+      }
+    ],
+    "name": "Все курсы 97% 1990 / 61176",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://xcdus.com/coupon/8sq89ipjff5af0702a27c814d4b7c0/?erid=2bL9aMPo2e49hMef4pgz68kgfK",
+    "goto_link": "https://xcdus.com/g/1254xtrreg5af0702a27c814d4b7c0/?i=3&erid=2bL9aMPo2e49hMef4pgz68kgfK"
+  },
+  {
+    "status": "active",
+    "rating": "2.55",
+    "campaign": {
+      "id": 2476,
+      "name": "Lingualeo",
+      "site_url": "https://lingualeo.com/"
+    },
+    "description": "",
+    "short_name": "Вечный премиум 60% 7990 /19990",
+    "exclusive": false,
+    "date_end": "2026-12-31T23:59:00",
+    "date_start": "2025-12-24T12:15:00",
+    "id": 628458,
+    "regions": [
+      "AM",
+      "AZ",
+      "BY",
+      "KG",
+      "KZ",
+      "PT",
+      "RU",
+      "TJ",
+      "TR",
+      "UA",
+      "US",
+      "UZ"
+    ],
+    "discount": "60%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/2/20/2476-76c48122217d3a08.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 22,
+        "name": "Online Education"
+      }
+    ],
+    "name": "Вечный премиум 60% 7990 /19990",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://xcdus.com/coupon/5n35vl5is95af0702a27c814d4b7c0/?erid=2bL9aMPo2e49hMef4pgz68kgfJ",
+    "goto_link": "https://xcdus.com/g/vjcjtlzm1o5af0702a27c814d4b7c0/?i=3&erid=2bL9aMPo2e49hMef4pgz68kgfJ"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 2476,
+      "name": "Lingualeo",
+      "site_url": "https://lingualeo.com/"
+    },
+    "description": "",
+    "short_name": "Годовой премиум 65% 2990 / 8990",
+    "exclusive": false,
+    "date_end": "2026-12-31T23:59:00",
+    "date_start": "2025-12-24T12:15:00",
+    "id": 628457,
+    "regions": [
+      "AM",
+      "AZ",
+      "BY",
+      "KG",
+      "KZ",
+      "PT",
+      "RU",
+      "TJ",
+      "TR",
+      "UA",
+      "US",
+      "UZ"
+    ],
+    "discount": "65%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/2/20/2476-76c48122217d3a08.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 22,
+        "name": "Online Education"
+      }
+    ],
+    "name": "Годовой премиум 65% 2990 / 8990",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://xcdus.com/coupon/v68sq2b4c65af0702a27c814d4b7c0/?erid=2bL9aMPo2e49hMef4pgz68kMdw",
+    "goto_link": "https://xcdus.com/g/bw3lycej845af0702a27c814d4b7c0/?i=3&erid=2bL9aMPo2e49hMef4pgz68kMdw"
+  }
+]

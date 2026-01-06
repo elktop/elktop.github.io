@@ -1,0 +1,260 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 21527,
+      "name": "Garshinka",
+      "site_url": "https://www.garshinka.ru/"
+    },
+    "description": "Полученными бонусами можно оплатить до 15% стоимости заказа",
+    "short_name": "5000 бонусов за подписку на E-mail рассылки",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-05-22T14:13:40",
+    "id": 851479,
+    "regions": [
+      "RU"
+    ],
+    "discount": "15%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/3/21/21527-73e65841f615c031.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 23,
+        "name": "DIY, Garden"
+      }
+    ],
+    "name": "5000 бонусов за подписку на E-mail рассылки",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://codeaven.com/coupon/a0kupop54z5af0702a27458cf12507/?erid=2bL9aMPo2e49hMef4rqUKjgGdv",
+    "goto_link": "https://codeaven.com/g/1nt17fwg2c5af0702a27458cf12507/?i=3&erid=2bL9aMPo2e49hMef4rqUKjgGdv"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 21527,
+      "name": "Garshinka",
+      "site_url": "https://www.garshinka.ru/"
+    },
+    "description": "",
+    "short_name": "ТОП Подборки растений",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-02-02T15:26:44",
+    "id": 629050,
+    "regions": [
+      "RU"
+    ],
+    "discount": "1%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/3/21/21527-73e65841f615c031.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 23,
+        "name": "DIY, Garden"
+      }
+    ],
+    "name": "ТОП Подборки растений",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://codeaven.com/coupon/jy2c4u5dvb5af0702a27458cf12507/?erid=2bL9aMPo2e49hMef4pgzCUPwNX",
+    "goto_link": "https://codeaven.com/g/l3dr6zp75c5af0702a27458cf12507/?i=3&erid=2bL9aMPo2e49hMef4pgzCUPwNX"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 21527,
+      "name": "Garshinka",
+      "site_url": "https://www.garshinka.ru/"
+    },
+    "description": "",
+    "short_name": "Новинки ассортимента",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-02-02T15:24:20",
+    "id": 629048,
+    "regions": [
+      "RU"
+    ],
+    "discount": "1%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/3/21/21527-73e65841f615c031.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 23,
+        "name": "DIY, Garden"
+      }
+    ],
+    "name": "Новинки ассортимента",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://codeaven.com/coupon/fr8vnw5zq45af0702a27458cf12507/?erid=2bL9aMPo2e49hMef4pgzCUPwNV",
+    "goto_link": "https://codeaven.com/g/bd2mfjar8p5af0702a27458cf12507/?i=3&erid=2bL9aMPo2e49hMef4pgzCUPwNV"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 21527,
+      "name": "Garshinka",
+      "site_url": "https://www.garshinka.ru/"
+    },
+    "description": "Заполните все поля профиля в личном кабинете и получите 100 бонусов. Бонусы можно потратить на оплату заказов, 1 бонус = 1 рубль. Ввод промокода не требуется.",
+    "short_name": "Получите 100 бонусов за заполнение профиля!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-06-20T12:16:00",
+    "id": 248420,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/3/21/21527-73e65841f615c031.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 23,
+        "name": "DIY, Garden"
+      }
+    ],
+    "name": "Получите 100 бонусов за заполнение профиля!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://codeaven.com/coupon/wfssvmplha5af0702a27458cf12507/?erid=MvGzQC98w3Z1gMq1oS2rUd5P",
+    "goto_link": "https://codeaven.com/g/zoarqp6gg85af0702a27458cf12507/?i=3&erid=MvGzQC98w3Z1gMq1oS2rUd5P"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 21527,
+      "name": "Garshinka",
+      "site_url": "https://www.garshinka.ru/"
+    },
+    "description": "Оставьте комментарий или отзыв к любому материалу или товару на сайте и получите: 50 бонусов за простой комментарий или отзыв, 100 бонусов за комментарий с фото или за фото к товару, 150 бонусов за комментарий с видео или отзыв с фото.                                      Все комментарии проходят модерацию. Бонусы можно потратить на оплату заказов, 1 бонус = 1 рубль. Ввод промокода не требуется.",
+    "short_name": "Дарим бонусы за активность на сайте!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-06-20T12:16:00",
+    "id": 248419,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/3/21/21527-73e65841f615c031.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 23,
+        "name": "DIY, Garden"
+      }
+    ],
+    "name": "Дарим бонусы за активность на сайте!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://codeaven.com/coupon/lfd564wvlf5af0702a27458cf12507/?erid=MvGzQC98w3Z1gMq1oS2rUd5N",
+    "goto_link": "https://codeaven.com/g/82lhi9qlbb5af0702a27458cf12507/?i=3&erid=MvGzQC98w3Z1gMq1oS2rUd5N"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 21527,
+      "name": "Garshinka",
+      "site_url": "https://www.garshinka.ru/"
+    },
+    "description": "За каждую полную 1000 рублей в заказе пользователю начисляется 100 бонусов. Бонусы можно потратить на оплату следующих заказов, 1 бонус = 1 рубль. Ввод промокода не требуется.",
+    "short_name": "100 бонусов за каждую полную 1000 рублей в заказе!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-06-20T12:16:00",
+    "id": 248418,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/3/21/21527-73e65841f615c031.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 23,
+        "name": "DIY, Garden"
+      }
+    ],
+    "name": "100 бонусов за каждую полную 1000 рублей в заказе!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://codeaven.com/coupon/11yd7i3cgj5af0702a27458cf12507/?erid=MvGzQC98w3Z1gMq1oS2rUd5M",
+    "goto_link": "https://codeaven.com/g/gde95fxj4u5af0702a27458cf12507/?i=3&erid=MvGzQC98w3Z1gMq1oS2rUd5M"
+  }
+]

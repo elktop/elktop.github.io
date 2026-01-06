@@ -1,0 +1,88 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 14080,
+      "name": "AnywayAnyday",
+      "site_url": "https://www.anywayanyday.com/"
+    },
+    "description": "Промокод можно использовать только 1 раз на покупку авиабилетов или бронь отелей. Скидка не суммируется с другими промокодами и не действует на \"плоские\" тарифы",
+    "short_name": "Промокод на 2000 рублей при заказе от 70 000 рублей",
+    "exclusive": false,
+    "date_end": "2026-01-31T23:59:00",
+    "date_start": "2025-12-31T00:00:00",
+    "id": 893426,
+    "regions": [
+      "RU"
+    ],
+    "discount": "2 000 R",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/2/8/14080-2215677fade7698d.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 12,
+        "name": "Tours & Travels"
+      }
+    ],
+    "name": "Промокод на 2000 рублей при заказе от 70 000 рублей",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ADMNY3000",
+    "frameset_link": "https://zmgig.com/coupon/rmde00ss915af0702a2753b922955a/?erid=2bL9aMPo2e49hMef4rqyCuikRs",
+    "goto_link": "https://zmgig.com/g/gu4a2glhar5af0702a2753b922955a/?i=3&erid=2bL9aMPo2e49hMef4rqyCuikRs"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 14080,
+      "name": "AnywayAnyday",
+      "site_url": "https://www.anywayanyday.com/"
+    },
+    "description": "Промокод можно использовать только 1 раз на покупку авиабилетов или бронь отелей. Скидка не суммируется с другими промокодами и не действует на \"плоские\" тарифы",
+    "short_name": "Промокод на 1000 рублей при заказе от 30 000 рублей",
+    "exclusive": false,
+    "date_end": "2026-01-31T23:59:00",
+    "date_start": "2025-12-31T00:00:00",
+    "id": 893425,
+    "regions": [
+      "RU"
+    ],
+    "discount": "1 000 R",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/2/8/14080-2215677fade7698d.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 12,
+        "name": "Tours & Travels"
+      }
+    ],
+    "name": "Промокод на 1000 рублей при заказе от 30 000 рублей",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ADMNY1000",
+    "frameset_link": "https://zmgig.com/coupon/5zkp5gz9225af0702a2753b922955a/?erid=2bL9aMPo2e49hMef4rqyCuikRr",
+    "goto_link": "https://zmgig.com/g/tsw14diumg5af0702a2753b922955a/?i=3&erid=2bL9aMPo2e49hMef4rqyCuikRr"
+  }
+]

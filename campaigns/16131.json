@@ -1,0 +1,88 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 16131,
+      "name": "Bask",
+      "site_url": "https://bask.ru/"
+    },
+    "description": "Забудьте о морозах или подготовьтесь к следующей зиме, выгодно утеплившись с BASK. Скидки действуют на зимний ассортимент и снаряжение — актуальные женские, мужские и детские пуховые куртки, брюки, комбинезоны и многие другие товары.\n\nДоставка по акции платная, рассчитывается по тарифам службы доставки. Количество цветов и размеров ограничено.",
+    "short_name": "Максимальная выгода от BASK",
+    "exclusive": false,
+    "date_end": "2026-03-01T23:59:00",
+    "date_start": "2025-01-19T11:00:00",
+    "id": 827680,
+    "regions": [
+      "RU"
+    ],
+    "discount": "60%",
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/12/29/16131-a553deb469809a6e.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Максимальная выгода от BASK",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRE",
+    "frameset_link": "https://ypetp.com/coupon/kcbfcr4n6y5af0702a27083675f20b/?erid=2bL9aMPo2e49hMef4piUr9YgRL",
+    "goto_link": "https://ypetp.com/g/rrgisz4cfz5af0702a27083675f20b/?i=3&erid=2bL9aMPo2e49hMef4piUr9YgRL"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 16131,
+      "name": "Bask",
+      "site_url": "https://bask.ru/"
+    },
+    "description": "Запускаем уникальную программу переработки натурального пуха из изделий собственного производства. Мы заботимся об экологии и приглашаем вас стать частью разумного потребления. Акция действут только офлайн в г. Москве",
+    "short_name": "Вторая жизнь пуха: меняем старое на новое",
+    "exclusive": false,
+    "date_end": "2026-01-31T23:59:00",
+    "date_start": "2025-01-19T11:00:00",
+    "id": 827679,
+    "regions": [
+      "RU"
+    ],
+    "discount": "1%",
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/12/29/16131-a553deb469809a6e.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Вторая жизнь пуха: меняем старое на новое",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRE",
+    "frameset_link": "https://ypetp.com/coupon/syu3qae6vi5af0702a27083675f20b/?erid=2bL9aMPo2e49hMef4piUr9YgRK",
+    "goto_link": "https://ypetp.com/g/4uykqfq9dy5af0702a27083675f20b/?i=3&erid=2bL9aMPo2e49hMef4piUr9YgRK"
+  }
+]

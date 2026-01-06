@@ -1,0 +1,223 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 20231,
+      "name": "Pharmacosmetica.ru",
+      "site_url": "https://www.pharmacosmetica.ru/"
+    },
+    "description": "Необходимо добавлять сноску: *в акции участвуют не все товары, максимально доступную скидку на товар, вы увидите в корзине\r\n\r\nИсключения по всем кодам на бренды (обновленный список):\r\nA Tech Nutrition, Alterna, American Crew, Batiste, Biorepair, Christina, Cloud Nine, Constant Delight, Crescina,Daigo, Davines, Doppelherz, Dr.F5, EVO, Fabuloso, Fillerina, Framar, FRAMESI, Gernetic, Gezatone, GiGi, Global Keratin, GLS, Hempz, Holyland Laboratories, Hot Tools Professional, Indola, Insight Professional, K-18, Kaaral, Kapous Professional, Klorane, Lakme, Lebel, Limoni, Lysi, Natrol, Nature's Bounty, NOOK, Norwegian Fish Oil, Nourkrin, Now Foods, Ollin Professional, Optimum Nutrition, Oribe, REVYLINE, Sesderma, Solgar, Sothys,Tefia, Гельтек,",
+    "short_name": "20% + Бесплатная доставка от 3500 р",
+    "exclusive": true,
+    "date_end": "2026-01-31T23:59:00",
+    "date_start": "2025-02-11T00:00:00",
+    "id": 765369,
+    "regions": [
+      "BY",
+      "KZ",
+      "RU"
+    ],
+    "discount": "20%",
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      },
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/3/13/20231-1ca1ce044ac585ad.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "20% + Бесплатная доставка от 3500 р",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "Admitad",
+    "frameset_link": "https://xpuvo.com/coupon/e2xolzdr195af0702a2745f5c1a381/?erid=5jtCeReNwxHpfQTHuFB5Gr2",
+    "goto_link": "https://xpuvo.com/g/q7dcus1m7q5af0702a2745f5c1a381/?i=3&erid=5jtCeReNwxHpfQTHuFB5Gr2"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 20231,
+      "name": "Pharmacosmetica.ru",
+      "site_url": "https://www.pharmacosmetica.ru/"
+    },
+    "description": "",
+    "short_name": "Выгодные наборы со скидками до 80%!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-04-09T12:26:00",
+    "id": 684112,
+    "regions": [
+      "RU"
+    ],
+    "discount": "80%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/3/13/20231-1ca1ce044ac585ad.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Выгодные наборы со скидками до 80%!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://xpuvo.com/coupon/u2me19sh0a5af0702a2745f5c1a381/?erid=5jtCeReNwxHpfQTHQMyYUbT",
+    "goto_link": "https://xpuvo.com/g/dijnq26uoi5af0702a2745f5c1a381/?i=3&erid=5jtCeReNwxHpfQTHQMyYUbT"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 20231,
+      "name": "Pharmacosmetica.ru",
+      "site_url": "https://www.pharmacosmetica.ru/"
+    },
+    "description": "",
+    "short_name": "Уценка! Скидки до 50%!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-04-09T12:26:08",
+    "id": 684110,
+    "regions": [
+      "RU"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/3/13/20231-1ca1ce044ac585ad.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Уценка! Скидки до 50%!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://xpuvo.com/coupon/hznk7ns5dm5af0702a2745f5c1a381/?erid=5jtCeReNwxHpfQTHQMyYUbR",
+    "goto_link": "https://xpuvo.com/g/7ewpmfm53w5af0702a2745f5c1a381/?i=3&erid=5jtCeReNwxHpfQTHQMyYUbR"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 20231,
+      "name": "Pharmacosmetica.ru",
+      "site_url": "https://www.pharmacosmetica.ru/"
+    },
+    "description": "",
+    "short_name": "Скидки до 80% на выделенный ассортимент!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-02-29T12:34:25",
+    "id": 669843,
+    "regions": [
+      "RU"
+    ],
+    "discount": "80%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/3/13/20231-1ca1ce044ac585ad.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Скидки до 80% на выделенный ассортимент!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://xpuvo.com/coupon/k34fyg37er5af0702a2745f5c1a381/?erid=5jtCeReNwxHpfQTHQ2PscCy",
+    "goto_link": "https://xpuvo.com/g/1r0c3f4w245af0702a2745f5c1a381/?i=3&erid=5jtCeReNwxHpfQTHQ2PscCy"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 20231,
+      "name": "Pharmacosmetica.ru",
+      "site_url": "https://www.pharmacosmetica.ru/"
+    },
+    "description": "Вы часто делитесь впечатлениями о работе нашего сайта и приложения и помогаете нам исправлять ошибки.\r\n\r\nПоэтому мы предлагаем вам принять участие в новом интересном конкурсе и получить шанс выиграть суперпризы - сертификаты на покупки в нашем интернет-магазине номиналом 10 000 рублей!\r\n\r\nУСЛОВИЯ:\r\n- зайдите к нам на сайт (мобильная версия или для компьютеров) и изучите их (разные разделы, страницы и т.п),\r\n- ищите ошибки и присылайте их описание на почту support@pharmacosmetica.ru (сообщения в директ, личные сообщения в социальных сетях и мессенджеры не учитываются, нужно писать именно на эту почту!).\r\n\r\nОшибки можно присылать любые - в описаниях, фотографиях и т.д., технические по работе, \"глюки\" зависания, несоответствие цены в каталоге/карточке и в корзине и т.д.\r\n\r\nВ вашем письме укажите следующие детали (к участию в конкурсе будут приниматься письма только с этими данными) :\r\n\r\n- устройство, на котором воспроизвелась ошибка (стационарный компьютер, ноутбук, планшет, телефон и т.д.),\r\n- наименования и версия браузера (Яндекс Браузер, Opera, Mozilla, Firefox, Google Chrome и пр.)\r\n- ссылку на страницу где была найдена ошибка, артикул товара, если ошибка в карточке товра\r\n\r\n\r\nКонкурс продлится до 28 февраля включительно, после чего мы прочитаем все-все ваши письма и подведем итоги 20 марта.\r\nТе участники (всего будет 10 победителей), которые пришлют больше всего ошибок, а также, чьи письма будут наиболее полезными в исправлении, получат призы - сертификаты на покупки в нашем интернет-магазине номиналом 10 000 рублей.\r\n \r\n\r\nЗаранее всем большое спасибо и удачи!",
+    "short_name": "Помоги нам стать лучше и выиграй сертификат на 10 000 р!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-02-06T00:00:00",
+    "id": 517342,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/3/13/20231-1ca1ce044ac585ad.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Помоги нам стать лучше и выиграй сертификат на 10 000 р!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://xpuvo.com/coupon/50phjbxydd5af0702a2745f5c1a381/?erid=5jtCeReNwxHpfQTFuGHC1hF",
+    "goto_link": "https://xpuvo.com/g/tiyp3aexd85af0702a2745f5c1a381/?i=3&erid=5jtCeReNwxHpfQTFuGHC1hF"
+  }
+]

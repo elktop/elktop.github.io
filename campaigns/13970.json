@@ -1,0 +1,49 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 13970,
+      "name": "Столото",
+      "site_url": "https://www.stoloto.ru/"
+    },
+    "description": "",
+    "short_name": "3100 бонусов  при покупке от 300 рублей  новому зарегистрированному пользователю",
+    "exclusive": true,
+    "date_end": "2026-01-11T23:59:00",
+    "date_start": "2025-12-15T00:00:00",
+    "id": 891374,
+    "regions": [
+      "RU"
+    ],
+    "discount": "3 100 ₽",
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/11/25/13970-c1d9aaa476660095.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      },
+      {
+        "id": 189,
+        "name": "New Year Festival 2026"
+      }
+    ],
+    "name": "3100 бонусов  при покупке от 300 рублей  новому зарегистрированному пользователю",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "gift30",
+    "frameset_link": "",
+    "goto_link": "https://dhwnh.com/g/us9ppywmx65af0702a270e4677dd22/?i=3&erid=2bL9aMPo2e49hMef4rqy6VbXDR"
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "status": "active",
+    "rating": "5.75",
+    "campaign": {
+      "id": 144021,
+      "name": "Альмак Прокат RU",
+      "site_url": "https://www.almak-prokat.ru/"
+    },
+    "description": "Промокод действует только на услуги краткосрочной аренды.",
+    "short_name": "Скидка 500 рублей на первую аренду",
+    "exclusive": false,
+    "date_end": "2026-02-28T23:59:00",
+    "date_start": "2025-11-06T00:00:00",
+    "id": 882054,
+    "regions": [
+      "RU"
+    ],
+    "discount": "500 ₽",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/10/1/144021-ad634b0d7ff530b9.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "Скидка 500 рублей на первую аренду",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ADMI500",
+    "frameset_link": "",
+    "goto_link": "https://rkdro.com/g/f566b19iok5af0702a2726c598e9aa/?i=3&erid=2bL9aMPo2e49hMef4rqV1EC8jn"
+  }
+]

@@ -1,0 +1,131 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 21083,
+      "name": "Domovenok",
+      "site_url": "https://www.domovenok.ru/"
+    },
+    "description": "Рекомендуйте сервис уборки “Домовёнок” своим друзьям - это выгодно всем! Вы получаете 500 бонусов за каждого друга, который сделал у нас заказ. И каждый друг тоже получает 500 бонусов. Бонусы можно потратить на оплату услуг, 1 бонус = 1 рубль.\r\n\r\nКак получить бонусы?\r\n\r\nВариант 1. Скопируйте ссылку в вашем личном кабинете или приложении, в разделе “Подарки”, акция “500 бонусов”. Отправьте ссылку своему другу. Другу необходимо перейти по ссылке и сделать заказ.\r\n\r\nВариант 2. Назовите другу номер своего любого заказа в “Домовенке”. Другу необходимо назвать этот номер при оформлении заказа.\r\n\r\nПосле проведения уборки, вы и ваш друг получите по 500 бонусов. Количество бонусов можно проверить в разделе “Профиль”.",
+    "short_name": "Дарим 500 бонусов за каждого клиента, который пришёл по вашей рекомендации.",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2022-07-26T16:22:23",
+    "id": 472057,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/12/27/21083-313972da3a2d6848.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "Дарим 500 бонусов за каждого клиента, который пришёл по вашей рекомендации.",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://ntzgd.com/g/tqna6i6jim5af0702a278919f973c9/?i=3&erid=2bL9aMPo2e49hMef4pfUmDtxa4"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 21083,
+      "name": "Domovenok",
+      "site_url": "https://www.domovenok.ru/"
+    },
+    "description": "Мы очень рады, что Вы являетесь нашим клиентом. Пожалуйста, уделите немного Вашего времени и пришлите нам фотографии до-после уборки, которые мы сможем применить на сайте и в соц.сетях для наглядного отображения результата наших услуг.",
+    "short_name": "Получи 200 бонусов за фото до-после!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2022-07-26T16:20:54",
+    "id": 472056,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/12/27/21083-313972da3a2d6848.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "Получи 200 бонусов за фото до-после!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://ntzgd.com/g/51c6zk19655af0702a278919f973c9/?i=3&erid=2bL9aMPo2e49hMef4pfUmDtxa3"
+  },
+  {
+    "status": "active",
+    "rating": "3.46",
+    "campaign": {
+      "id": 21083,
+      "name": "Domovenok",
+      "site_url": "https://www.domovenok.ru/"
+    },
+    "description": "Все промокоды действуют один раз для каждого клиента, с другими скидками не суммируются.",
+    "short_name": "Скидка 10% на первый заказ любого клиента на мытье окон при заказе поддерживающей уборки или комплек",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2022-03-27T22:51:59",
+    "id": 445657,
+    "regions": [
+      "RU"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/12/27/21083-313972da3a2d6848.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "Скидка 10% на первый заказ любого клиента на мытье окон при заказе поддерживающей уборки или комплек",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "AD10",
+    "frameset_link": "",
+    "goto_link": "https://ntzgd.com/g/i3jlo5yt0z5af0702a278919f973c9/?i=3&erid=2bL9aMPo2e49hMef4pezLFR6rc"
+  }
+]

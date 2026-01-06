@@ -1,0 +1,45 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 27313,
+      "name": "sohoshop",
+      "site_url": "https://sohoshop.ru/"
+    },
+    "description": "",
+    "short_name": "Скидка 10% на онлайн заказ!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-09-18T16:44:28",
+    "id": 797773,
+    "regions": [
+      "RU"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/12/28/27313-377716ef8a195db8.jpg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 4,
+        "name": "Shoes"
+      }
+    ],
+    "name": "Скидка 10% на онлайн заказ!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "admitad",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/ovd2ra9e455af0702a27e6dc21c9f7/?i=3&erid=2bL9aMPo2e49hMef4piUAqP3xk"
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 122340,
+      "name": "Яндекс 360 для бизнеса RU",
+      "site_url": "https://360.yandex.ru/business/tariff/"
+    },
+    "description": "Бесплатная регистрация и настройка домена на год при подключении тарифа",
+    "short_name": "Домен в подарок в тарифах Яндекс 360 для бизнеса на год",
+    "exclusive": false,
+    "date_end": "2026-01-31T23:59:00",
+    "date_start": "2025-12-12T00:00:00",
+    "id": 891360,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/3/7/122340-c8b4c68d7e5ae20a.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "Домен в подарок в тарифах Яндекс 360 для бизнеса на год",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://plrvq.com/g/fdlaku2q2m5af0702a2744555227c3/?i=3&erid=2bL9aMPo2e49hMef4rqy6VbBtC"
+  },
+  {
+    "status": "active",
+    "rating": "8.75",
+    "campaign": {
+      "id": 122340,
+      "name": "Яндекс 360 для бизнеса RU",
+      "site_url": "https://360.yandex.ru/business/tariff/"
+    },
+    "description": "Почта, Диск, Телемост и другие сервисы для совместной работы команд по выгодной цене в первые три месяца.",
+    "short_name": "Скидка 20% на Яндекс 360 для бизнеса",
+    "exclusive": false,
+    "date_end": "2026-01-31T23:59:00",
+    "date_start": "2025-11-27T12:44:00",
+    "id": 881909,
+    "regions": [
+      "RU"
+    ],
+    "discount": "20%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/3/7/122340-c8b4c68d7e5ae20a.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "Скидка 20% на Яндекс 360 для бизнеса",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "admyabusiness360",
+    "frameset_link": "",
+    "goto_link": "https://plrvq.com/g/p5xnbl6qhy5af0702a2744555227c3/?i=3&erid=2bL9aMPo2e49hMef4rqV1EBTUK"
+  }
+]

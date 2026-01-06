@@ -2,8 +2,11 @@
   {
     "id": 11347,
     "name": "Планета Спорт",
+    "name_aliases": "Planeta sport. planetasport, Здфтуеф ызщке, Планетаспорт",
+    "site_url": "https://www.planeta-sport.ru/",
+    "description": "ИНТЕРНЕТ-МАГАЗИН СПОРТИВНЫХ ТОВАРОВ «ПЛАНЕТА СПОРТ»\r\n\r\n«Планета Спорт» - это интернет-магазин и сеть популярных спортивных мультибрендовых магазинов, представленных по всей России. Компания работает на рынке товаров сегмента Outdoor (товары для экстремального спорта и активного отдыха) более 20 лет.\r\n\r\nВ интернет-магазине «Планете Спорт» представлен огромный ассортимент спортивных товаров и товаров outdoor индустрии от легендарных мировых брендов, таких как Red Fox, Zamberlan, Vasque, Inov-8, Asics, Adidas, Osprey и многих других. Зимний ассортимент составляют сноуборды, лыжи, теплая спортивная и городская одежда и обувь. Летний – спортивная и городская одежда и обувь, экипировка для велоспорта, роликов и походов. Также на протяжении всего года в продаже огромный выбор снаряжения для спорта, туризма и альпинизма: рюкзаки, палатки, спальные мешки, одежда и обувь для альпинизма, треккинга, бега, хайкинга. Также в продаже расширенная линейка детских товаров от одежды, обуви и рюкзаков до горнолыжной и сноубордической экипировки.\r\n\r\n«Планета Спорт» – это целый мир для спортсменов, путешественников и искателей приключений – для всех, кто не любит сидеть дома.\r\n\r\n \r\n\r\nПРЕИМУЩЕСТВА ДЛЯ ПОКУПАТЕЛЕЙ\r\n\r\n\r\n\tОфициальный дистрибьютор ведущих брендов. Высококачественная одежда, обувь, экипировка, аксессуары и другие инновационные товары. Все товары в магазинах «Планета Спорт» имеют сертификат качества и являются подлинными изделиями заявленных брендов.\r\n\tЦены от производителей. Что позволяет нам гарантировать оптимальное соотношение «цена-качество» на каждый товар.\r\n\tШирокий ассортимент. Большое выбор необходимой экипировки на все случаи жизни.\r\n\tCамовывоз. В Санкт-Петербурге возможен бесплатный самовывоз из 4 магазинов.\r\n\tДоставка по всей России (при заказе от 9000 р. – доставка по РФ бесплатно)\r\n\tВозврат товара 15 дней. Если товар не понравился или не подошел - беспрепятственный возврат.\r\n\tКлубная дисконтная карта. При первом заказе покупатель получает Клубную карту с накопительной системой скидок.\r\n\tСкидки и акции. В разделе «SALE» всегда есть товары со скидками до 70%. Также регулярно проводятся распродажи и различные акции.\r\n\tУдобная система оплаты. Оплата возможна как онлайн, так и при получении.\r\n\r\n\r\n \r\n\r\nПРЕИМУЩЕСТВА ДЛЯ ВЕБМАСТЕРОВ\r\n\r\n\r\n\tШирокий ассортимент товаров. Постоянное обновление ассортимента и полная выгрузка товаров в xml.\r\n\tСкидки и акции. В разделе «SALE» всегда есть товары со скидками до 70%. Также регулярно проводятся распродажи и различные акции.\r\n\tРекламные материалы всех популярных форматов\r\n\tРучная сверка раз в месяц\r\n\tМодерация вебмастеров 2 раза в неделю\r\n\tВыдача именных промокодов\r\n\t \r\n\r\n\r\n \r\n\r\nЦЕЛЕВАЯ АУДИТОРИЯ\r\n\r\n\r\n\tАльпинисты\r\n\tТуристы\r\n\tЛыжники\r\n\tСкалолазы\r\n\tВелосипедисты\r\n\tРоллеры\r\n\tБегуны\r\n\tСноубордисты\r\n\tВсе кто занимается любительским или профессиональным спортом\r\n\r\n\r\n \r\n\r\nСРЕДНИЙ ЧЕК\r\n\r\n7500 руб.\r\n\r\n \r\n\r\n \r\n\r\nГЕОГРАФИЯ\r\n\r\nВся РФ (доставка заказов осуществляется по всей России), Белоруссия, Казахстан.\r\nСанкт-Петербург - 29%\r\nМосква - 15%\r\nМосковская область - 5%\r\nРеспублика Башкоркостан - 4%\r\nКраснодарский край - 4%\r\n\r\nИркутская область – 3,5%\r\n\r\n\r\n\r\nСкачать минус-слова можно здесь.\r\n\r\nДанные об ОРД. Код ККТУ: 14.1.12",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2020/10/1/11347-40a91b60ee22488a.png",
-    "img": "platform/11347.png",
     "categories": [
       {
         "name": "Online stores",
@@ -34,6 +37,12 @@
         }
       }
     ],
+    "img": "platform/11347.png",
+    "affiliate": {
+      "goto_link": "https://grfpr.com/g/1387bd5a205af0702a274dead8de0a/?erid=F7NfYUJRWmqqH8Yt2Uc1",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Sports & Outdoor",
       "id": 85,
@@ -49,8 +58,11 @@
   {
     "id": 14578,
     "name": "Answear UA",
+    "name_aliases": "Answear, Ансвер, fycdth, answer",
+    "site_url": "https://answear.ua/",
+    "description": "Answear.ua - це інтернет-магазин, представлений на 12 європейських ринках, в якому ви знайдете більше 200 000 обраних товарів преміум-класу та лімітованих колекцій від понад 500 світових брендів, таких як Victoria Beckham, Tory Burch, Rotate, Custommade, Elisabetta Franchi, Liu Jo, Pinko, Michael Kors, Iro, Diesel, AllSaints, Vanda Novak, Coach, Swarovski, Furla, а також adidas, Calvin Klein, Boss, Tommy Hilfiger і Polo Ralph Lauren.\r\n\r\nAnswear - це вражаючий світ оригінальних модних стилів та дизайнерських колекцій PREMIUM FASHION BRANDS. Ми говоримо: \"Життя вдягни у те, що цінне\", адже віримо, що саме речі здатні наповнити наше повсякденне життя, а стиль - є сутністю вибору та досвіду, а також людей та місць, з якими ми пов'язані, і які залишаються нам дорогими спогадами. Мода стає вираженням цінностей, а шопінг перетворюється на унікальний досвід, що приносить нам повний спектр приємних емоцій.\r\n\r\nЖіночі, чоловічі та дитячі колекції доступні 24 години на добу, в будь-який день тижня. Шопінг з нами - це задоволення для всієї родини та чудове місце для пошуку подарунків для різних нагод. Всі товари відправляються з нашого центрального складу, що зводить до мінімуму час очікування доставки.\r\n\r\nОкрім тисяч ретельно описаних товарів, ви знайдете широкий вибір найновіших трендів та натхнення. Ми постійно співпрацюємо зі стилістами, блогерами та модними експертами, аби відкрити для вас безмежне море ідей для створення оригінальних образів\".\r\n\r\nПонад 80 нагород та відзнак\r\n21 000 000 візитів на сайті щомісяця\r\n150 000 000 потенційних клієнтів у країнах, де оперує Answear\r\n\r\nПЕРЕВАГИ ДЛЯ КЛІЄНТІВ:\r\n\r\n\r\n\tЕВРОПЕЙСКИЙ РІВЕНЬ СЕРВІСУ;\r\n\t100% ОРИГІНАЛЬНІ ТОВАРИ;\r\n\tБЕЗКОШТОВНА ДОСТАВКА при замовленні від 2 500 грн;\r\n\tПОСТІЙНИЙ РАЗДІЛ ЗІ ЗНИЖКАМИ І АКЦІЯМИ;\r\n\tВЕЛИКА КІЛЬКІСТЬ СВІТОВИХ БРЕНДІВ;\r\n\r\n\r\nПЕРЕВАГИ ДЛЯ ПАРТНЕРІВ:\r\n\r\n\r\n\tВПІЗНАВАННІСТЬ БРЕНДУ ANSWEAR.UA\r\n\tВЕЛИКА ВІДВІДУВАННІСТЬ\r\n\tВЕЛИКИЙ АСОРТИМЕНТ\r\n\tВИСОКА ВИНАГОРОДА\r\n\r\n\r\nБільш детальна інформація про ANSWEAR доступна за посиланням",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/21/14578-bebcd89184c71b99.svg",
-    "img": "platform/14578.svg",
     "categories": [
       {
         "name": "Sports & Outdoor",
@@ -104,6 +116,12 @@
         "parent": null
       }
     ],
+    "img": "platform/14578.svg",
+    "affiliate": {
+      "goto_link": "https://hxbok.com/g/h29o15jdr65af0702a27a76d99edd2/",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Sports & Outdoor",
       "id": 85,
@@ -119,8 +137,11 @@
   {
     "id": 14647,
     "name": "Спортмастер",
+    "name_aliases": "спортмастер, ызщкеьфыеук, sportmaster, cgjhnvfcnth, cgjhn vfcnth, спорт мастер",
+    "site_url": "https://www.sportmaster.ru/",
+    "description": "\r\n\r\nИнформация о бренде/магазине:\r\n\r\nСеть спортивных магазинов «Спортмастер» — международная сеть спортивных магазинов качественного спортивного инвентаря для фитнеса, летних и зимних видов спорта, а также товаров для активного отдыха. Существует с 1992 года и входит в 10-ку крупнейших мировых ритейлеров.\r\n\r\nНа сайте www.sportmaster.ru представлен широкий ассортимент товаров для всей семьи -   тренажеры, спортивный инвентарь, одежда и обувь на любой сезон — от самых простых спорттоваров до технологичного снаряжения последнего поколения.\r\n\r\nОтдельное внимание уделяется товарам для детей - форма, обувь и снаряды для уроков физкультуры, а также самостоятельных занятий спортом.\r\n\r\n \r\n\r\nПортрет ЦА (демография, география):\r\n\r\n\r\n\tБолее 28 млн. активная клиентская база.\r\n\tСредний возраст покупателей 25-34 года\r\n\t50% покупателей из Москвы, Санкт-Петербурга и Екатеринбурга\r\n\tСредний чек более 4000 рублей\r\n\tБолее 45 тыс. товаров в каталоге\r\n\r\n\r\n \r\n\r\nПреимущества для клиентов:\r\n\r\n\r\n\tБолее 540 магазинов на территории России, Белоруссии, Казахстана, Армении  и Киргизии.\r\n\tБолее 300 брендов Sport & Outdoor товаров, одежды и обуви\r\n\tДоступные цены\r\n\tДоставка и самовывоз по всей России. Стоимость доставки — от 290 рублей. При заказе от 3000 рублей доставка бесплатная. Бесплатный самовывоз из магазинов Спортмастер\r\n\tСобственная служба курьерской доставки\r\n\tПостоянные скидки и акции\r\n\tГарантийное и послегарантийное сервисное обслуживание товара в сервисных центрах  - Дисконтная программа \"Спортмастер\"\r\n\r\n\r\n \r\n\r\nПреимущества для вебмастеров:\r\n\r\n\r\n\tПостоянные акции\r\n\tУзнаваемость бренда\r\n\tВысокий средний чек\r\n\r\n\r\nКак проходит сверка:\r\nРаз в месяц с 1-14 число, ручная\r\n\r\nДанные об ОРД:\r\nКод ККТУ 28.1.9\r\n\r\nВыдача промокодов:\r\nТолько под промо-активность - не именные\r\n\r\nИнформация про модерацию:\r\nна стороне рекламодателя\r\n\r\nПравила использования логотипа\r\n\r\nАктуальный логотип",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/8/14647-0dd7fbe25553b712.png",
-    "img": "platform/14647.png",
     "categories": [
       {
         "name": "Online stores",
@@ -157,6 +178,18 @@
         "parent": null
       }
     ],
+    "img": "platform/14647.png",
+    "affiliate": {
+      "goto_link": "https://iatjw.com/g/ih21ujqkwf5af0702a27b09e931874/?erid=25H8d7vbP8SRTvFafQupqm",
+      "landings": [
+        {
+          "id": 27772,
+          "name": "РАСПРОДАЖА",
+          "code": "ae9418e8aa"
+        }
+      ],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Sports & Outdoor",
       "id": 85,
@@ -172,8 +205,11 @@
   {
     "id": 15894,
     "name": "ВелоСклад",
+    "name_aliases": "velosklad, велосклад, dtkjcrkfl",
+    "site_url": "https://www.velosklad.ru/",
+    "description": "Информация о компании:\r\n\r\n\"ВелоСклад.ру\" был основан в Москве в 2004 году. За время работы более 60000 человек стали нашими довольными покупателями. Нам есть чем удивить Вас - у нас собственный склад с более чем 9000 наименованиями товаров, а также собственная мастерская, 3D фотостудия, служба доставки по Москве. На сегодняшний день \"ВелоСклад.ру\" это фирма со сложившейся командой профессионалов, обладающих значительным практическим опытом и развивающаяся в следующих направлениях: продажа велосипедов, аксессуаров, запчастей, а также обслуживание и ремонт. \r\n\r\nПортрет целевой аудитории:\r\n\r\n\r\n\tСредний возраст покупателей 25-34 года;\r\n\tПримерно 70% покупателей мужчины.\r\n\r\n\r\nПреимущества для веб-мастеров:\r\n\r\n\r\n\tВысокий средний чек 18000 руб;\r\n\tВсе популярные бренды и виды велосипедов;\r\n\tДоставка по всей РФ;\r\n\tРегулярные акции;\r\n\tПостоянный раздел sale;\r\n\tБольшая популярность сайта.\r\n\r\n\r\nПреимущества для клиентов:\r\n\r\n\r\n\tЛучшие велосипедные бренды, более 30 мировых брендов;\r\n\tПринимаем все виды платежей;\r\n\tБыстрая, надежная доставка;\r\n\tДоставка в более чем 200 городов России;\r\n\tФирменная гарантия;\r\n\tСобственная высокотехнологичная мастерская.\r\n\r\n\r\nПромокоды:\r\nОтсутствуют.\r\n\r\nСверка заказов:\r\nПроводится вручную один раз в месяц.\r\n\r\nМодерация вебмастеров:\r\nПроводится три раза в неделю.\r\n\r\nОтклонение заказов / отключение партнёра за:\r\n\r\n\r\n\tконтекстную рекламу на бренд,\r\n\tиспользование запрещённых видов трафика.\r\n\r\n\r\nКод ККТУ: 28.1.9",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2020/10/1/15894-78421c7a863b0fdc.png",
-    "img": "platform/15894.png",
     "categories": [
       {
         "name": "Online stores",
@@ -193,6 +229,12 @@
         }
       }
     ],
+    "img": "platform/15894.png",
+    "affiliate": {
+      "goto_link": "https://rzekl.com/g/s763oztejh5af0702a27535f9d39fd/?erid=MvGzQC98w3Z1gMq1kxQvCu27",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Sports & Outdoor",
       "id": 85,
@@ -208,8 +250,11 @@
   {
     "id": 17101,
     "name": "Xiaomi",
+    "name_aliases": "Xiaomi, чшфщьш, сяоми, czjvb",
+    "site_url": "https://mi-shop.com",
+    "description": "Присоединяйтесь к партнерской программе Xiaomi\r\n\r\n\r\n\t\r\n\t\t\r\n\t\t\t\r\n\t\t\tXiaomi — компания уникальная и работает не так, как большинство китайских брендов электроники: есть подлинная философия дизайна, обеспечены высочайшие стандарты производства, разработана своя оригинальная оболочка для Android и, конечно же, постоянно ведется разработка собственных топовых технологий и железа, которые незамедлительно применяются в новейших гаджетах.\r\n\t\t\r\n\t\t\r\n\t\t\t \r\n\t\t\r\n\t\t\r\n\t\t\tПреимущества для покупателей:\r\n\t\t\t- Авторизованный магазин Xiaomi\r\n\t\t\t- Весь товар сертифицирован\r\n\t\t\t- Более 70 магазинов\r\n\t\t\t- Бесплатная доставка по России от 20 000р\r\n\t\t\r\n\t\t\r\n\t\t\t \r\n\t\t\r\n\t\t\r\n\t\t\tПреимущества для вебмастеров:\r\n\t\t\t- Стабильные выплаты вознаграждения\r\n\t\t\t- Узнаваемый бренд\r\n\t\t\t- Постоянно проходят акции, иногда 2-3 одновременно\r\n\t\t\t- Широкий выбор рекламных материалов отличного дизайна\r\n\t\t\t- Удобный интерфейс\r\n\t\t\t- Широкий выбор разрешенных источников трафика\r\n\t\t\r\n\t\r\n\r\n\r\n\r\n\t\r\n\t\t\r\n\t\t\t \r\n\t\t\t \r\n\t\t\r\n\t\t\r\n\t\t\t \r\n\t\t\t \r\n\t\t\r\n\t\r\n\r\n\r\n\r\n\t\r\n\t\t\r\n\t\t\tГЕО\r\n\t\t\tРоссия\r\n\t\t\r\n\t\t\r\n\t\t\tДлительность холда\r\n\t\t\t30 дней\r\n\t\t\r\n\t\t\r\n\t\t\tСрок хранения cookie\r\n\t\t\t30 дней\r\n\t\t\r\n\t\t\r\n\t\t\t \r\n\t\t\t \r\n\t\t\r\n\t\t\r\n\t\t\tЦелевая аудитория\r\n\t\t\t%\r\n\t\t\r\n\t\t\r\n\t\t\tЖенщины\r\n\t\t\t33,6\r\n\t\t\r\n\t\t\r\n\t\t\tМужчины\r\n\t\t\t66,4\r\n\t\t\r\n\t\t\r\n\t\t\t \r\n\t\t\t \r\n\t\t\r\n\t\t\r\n\t\t\tВозраст\r\n\t\t\t%\r\n\t\t\r\n\t\t\r\n\t\t\t18-24\r\n\t\t\t15\r\n\t\t\r\n\t\t\r\n\t\t\t25-34\r\n\t\t\t45\r\n\t\t\r\n\t\t\r\n\t\t\t35-44\r\n\t\t\t23\r\n\t\t\r\n\t\t\r\n\t\t\t45-54\r\n\t\t\t10\r\n\t\t\r\n\t\t\r\n\t\t\t55-64\r\n\t\t\t5\r\n\t\t\r\n\t\t\r\n\t\t\t65+\r\n\t\t\t2\r\n\t\t\r\n\t\t\r\n\t\t\t \r\n\t\t\t \r\n\t\t\r\n\t\t\r\n\t\t\tГорода\r\n\t\t\t%\r\n\t\t\r\n\t\t\r\n\t\t\tМосква + МО\r\n\t\t\t33\r\n\t\t\r\n\t\t\r\n\t\t\tСанкт-Петербург\r\n\t\t\t12,7\r\n\t\t\r\n\t\t\r\n\t\t\tСвердловская область\r\n\t\t\t3,7\r\n\t\t\r\n\t\t\r\n\t\t\tОстальные регионы\r\n\t\t\t54,3\r\n\t\t\r\n\t\t\r\n\t\t\t \r\n\t\t\t \r\n\t\t\r\n\t\t\r\n\t\t\tТип устройства\r\n\t\t\t%\r\n\t\t\r\n\t\t\r\n\t\t\tmobile+tablet\r\n\t\t\t61,2\r\n\t\t\r\n\t\t\r\n\t\t\tdesktop\r\n\t\t\t38,8\r\n\t\t\r\n\t\t\r\n\t\t\t \r\n\t\t\t \r\n\t\t\r\n\t\t\r\n\t\t\tВажно:\r\n\t\t\t \r\n\t\t\r\n\t\t\r\n\t\t\t1. Можно использовать только материалы, предоставленные партнерам\r\n\t\t\t \r\n\t\t\r\n\t\t\r\n\t\t\t2. Список стоп-слов для ведения контекстной рекламы\r\n\t\t\tссылка\r\n\t\t\r\n\t\r\n\r\n\r\n \r\n\r\nДля вебмастеров:\r\n\r\n\r\n\tРучная сверка раз в месяц.\r\n\tМодерация вебмастеров 2 раза в неделю.\r\n\tВозможна выдача именных промокодов.\r\n\r\n\r\nДанные об ОРД. Код ККТУ: 28.1.3",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/8/29/17101-8924aa066d314c08.svg",
-    "img": "platform/17101.svg",
     "categories": [
       {
         "name": "Sports & Outdoor",
@@ -257,6 +302,23 @@
         "parent": null
       }
     ],
+    "img": "platform/17101.svg",
+    "affiliate": {
+      "goto_link": "https://dorinebeaumont.com/g/huwtg7ffwa5af0702a27d58cfa5201/?erid=25H8d7vbP8SRTvGZyQaa7R",
+      "landings": [
+        {
+          "id": 19451,
+          "name": "23 февраля",
+          "code": "ad097b1f0f"
+        },
+        {
+          "id": 19606,
+          "name": "8 марта",
+          "code": "c5d8737cdb"
+        }
+      ],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Sports & Outdoor",
       "id": 85,
@@ -272,8 +334,11 @@
   {
     "id": 20158,
     "name": "Фитомаркет Эвалар",
+    "name_aliases": "fitomarket,abnjvfhrtn, фитомаркет, ашещьфклуе, Фитомаркет Эвалар, Эвалар",
+    "site_url": "https://fitomarket.ru/",
+    "description": "Fitomarket.ru — маркетплейс товаров для здоровья, красоты и активного образа жизни: витамины и БАД, косметика с эффективными составами, натуральные продукты питания, спортпит, экологичные товары для дома и детей (работает с 2018 года). Создан «Эвалар», ведущим российским производителем БАД с сертификатом качества GMP.\r\n\r\nНа «Фитомаркет» представлены сертифицированные продукты брендов из Азии, России и Европы, без подделок и напрямую от производителей (прошли строгий отбор комитета). Есть много полезной информации от экспертов на тему питания, спорта, здоровья, ухода за кожей лица, тела, за волосами и пр.\r\n\r\n2) Портрет целевой аудитории:\r\n\r\nГеография: вся РФ\r\n\r\nДемография: МЖ 23-51, Ядро: Ж 30-40 \r\n\r\n\r\n\r\n\r\n\r\n3) Преимущества для покупателей\r\n\r\n\r\n\tБолее 8 000 натуральных и органических товаров\r\n\tТолько сертифицированная продукция\r\n\tПостоянные акции: https://fitomarket.ru/specials/\r\n\r\n\r\n4) Преимущества для партнеров\r\n\r\n\r\n\tВысокий % комиссии\r\n\tВысокая конверсия сайта.\r\n\tРегулярно проводится usability-тестирование сайта, с целью увеличения конверсии\r\n\tПостоянные скидки и акции: https://fitomarket.ru/specials/\r\n\tПопулярность и уровень доверия к бренду постоянно растут\r\n\r\n\r\nМИНУС СЛОВА НА БРЕНД!!!\r\n\r\nТОП ТОВАРЫ!!!\r\n\r\nМы уважаем и ценим своих партнеров, ведь когда зарабатывает партнер, зарабатываем и мы. Заботимся о своей репутации и нам важно ваше мнение о нас. Мы настроены на честное, продолжительное и взаимовыгодное сотрудничество!\r\n\r\n ",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/9/21/20158-37338d5e53a2ced5.svg",
-    "img": "platform/20158.svg",
     "categories": [
       {
         "name": "Sports & Outdoor",
@@ -321,6 +386,18 @@
         "parent": null
       }
     ],
+    "img": "platform/20158.svg",
+    "affiliate": {
+      "goto_link": "https://bywiola.com/g/kwudlemd1h5af0702a2766084fa431/?erid=MvGzQC98w3Z1gMq1nSwvMrFy",
+      "landings": [
+        {
+          "id": 30615,
+          "name": "К школе готовы - подборка товаров со скидками",
+          "code": "2d41173dbe"
+        }
+      ],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Sports & Outdoor",
       "id": 85,
@@ -336,8 +413,11 @@
   {
     "id": 25270,
     "name": "Barfits",
+    "name_aliases": "Barfits, спорт, спорттовары",
+    "site_url": "https://barfits.ru",
+    "description": "ИНТЕРНЕТ-МАГАЗИН СПОРТИВНЫХ ТОВАРОВ «BARFITS»\r\n\r\n«BARFITS» - это производство спортивного оборудования для профессионального и\r\nдомашнего использования. Доставка по России и Европе. Оптом и в розницу.\r\nКлючевая направленность компании на рынок товаров сегмента HOME (товары для\r\nкомфортного домашнего использования).\r\nВ интернет-магазине представлен обширный ассортимент спортивных товаров от разных\r\nпроизводителей. Производство «BARFITS» также представлено и в большей степени\r\nориентировано на категории «турники», «шведские стенки», «скамьи и стойки», «workout\r\nкомплексы».\r\n«BARFITS» – это качественный и доступный спорт. инвентарь, который станет\r\nестественной и неотъемлемой частью каждого дома!\r\n\r\nПортрет ЦА\r\n\r\n•  География: Вся Россия (наибольший спрос в Санкт-Петербурге и Москве).\r\n\r\n•  Демография:\r\n\r\n  •  Турники: 18-40 лет, 80% Мужчины. Женщины берут в подарок. Ср. чек 4200р.\r\n\r\n  •  Тяжелая атлетика: 18-50 лет, 90% Мужчины. Ср. чек 9000р.\r\n\r\n  •  Шведские стенки: 30-60 лет, 50/50 М и Ж. Берут для детей и поддержания формы. Ср. чек 13000р.\r\n\r\n  •  Уличные комплексы: 35-60 лет, 50/50 М и Ж. Сезон: апрель-ноябрь. Ср. чек 70000р.\r\n\r\n  •  Эспандер-петля: 18-60 лет, 80% женщины. Для домашнего фитнеса. Ср. чек 1200р.\r\n\r\nПреимущества работы для партнеров\r\n\r\n\r\n\tШирокий ассортимент товаров. Постоянное обновление и пополнение ассортимента. Полная выгрузка товаров в xml.\r\n\tТакже регулярно проводятся различные акции. Скидки и акции. В разделе «АКЦИИ» всегда есть товары со скидками до 80%. \r\n\tРекламные материалы всех популярных форматов\r\n\tЕсть нестандартные решения для клиентов. Примерка товара в своём интерьере https://barfits.ru/interior/ . И возможность собрать свой набор для шведской стенки https://barfits.ru/constructor/. \r\n\tДополнительные вопросы и предложения можно написать в Тикеты\r\n\r\n\r\nПреимущества для покупателей\r\n\r\n\r\n\tСобственное производство. Высококачественный инвентарь, который превосходит всех производителей в России по своим свойствам (надежность, комфорт, функционал, внешний вид) в сегменте эконом. Имеются все необходимые сертификаты качества.\r\n\tСоотношение «цена-качество» на каждый товар.напрямую без перекупщиков, что позволяет нам гарантировать оптимальное Цены от производителей. С другими производителями товаров мы работаем такой же товар ниже в другом месте.представленный в нашем интернет-магазине, если клиент сможет найти цену на Гарантия самой низкой цены. \r\n\tМы даём лучшую цену на любой товар, \r\n\tМагазины-шоурумы. В Санкт-Петербурге и Москве возможно посмотреть и поупражняться на интересующих изделиях еще до покупки.\r\n\tВ 2 раза увеличены гарантии. Если товар не понравился или не подошел - беспрепятственный возврат в течение 30 дней и гарантия на металлические изделия бренда БАРФИТС – 2 года.\r\n\tКачественный монтаж изделий нашими специалистами с гарантией 1 год.\r\n\tКрутые консультанты, которые очень глубоко погружены в технические особенности продуктов и их влиянии на тренировочную деятельность.\r\n\r\n\r\nУсловия доставки\r\n\r\n•  Бесплатная доставка от 3000 р. в СПб, МСК и 5000 р. в РФ – до пункта выдачи. Имеются ограничения по габаритам.\r\n•  (Более подробные условия доставки, такие как сроки, стоимость доставки в другие регионы, уточняются на сайте BARFITS).\r\n\r\nКак проходит сверка \r\n\r\nСверка проводится вручную 1 раз в начале каждого месяца.\r\n\r\nВыдача промокодов\r\n\r\nВ программе выдаются именные промокоды, есть общие промокоды, Smart-промокоды.\r\n\r\nИнформация про модерацию \r\n\r\nМодерация проводится оперативно, 3 раза в неделю.\r\n\r\n ",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/8/12/25270-5e23560857545e64.jpg",
-    "img": "platform/25270.jpg",
     "categories": [
       {
         "name": "Online stores",
@@ -357,6 +437,18 @@
         }
       }
     ],
+    "img": "platform/25270.jpg",
+    "affiliate": {
+      "goto_link": "https://rzekl.com/g/d4892uekm75af0702a27d8a3291cea/?erid=2bL9aMPo2e49hMef4pdzuZMc2k",
+      "landings": [
+        {
+          "id": 19941,
+          "name": "Премиальные Шведские Стенки",
+          "code": "a49dd9ed1f"
+        }
+      ],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Sports & Outdoor",
       "id": 85,
@@ -372,8 +464,11 @@
   {
     "id": 26696,
     "name": "Bodylab24 DE",
+    "name_aliases": "Bodylab24, Bodylab 24, 24",
+    "site_url": "https://www.bodylab24.de/",
+    "description": "Bodylab24.de has been the market leader for sports nutrition in Germany, Austria and Switzerland for 15 years and can look back on many years of experience in the sports and fitness segment. The target group of Bodylab24 are people who maintain a healthy and body-conscious lifestyle. In the online shop of Bodylab24 these people will find all the products they need to build muscle, reduce fat and strengthen their body.\r\n\r\nThe advantages for your users:\r\n\r\n• A wide range of international brands and products\r\n• High quality standard\r\n• Always the best price\r\n• Delivery time 1-3 days, unless otherwise stated\r\n• Free shipping throughout Germany from € 75, otherwise € 4.90\r\n• Payment by invoice, direct debit, PayPal or credit card and many more!\r\n\r\nThe advantages for you as an affiliate:\r\n\r\n• Changing promotions\r\n• Changing current advertising banners\r\n• Cookie lifetime of 30 days\r\n• Premium commission possible\r\n• Very low cancellation rate\r\n• Personal contact and many more!\r\n\r\nNot active yet? Then start your campaign for the Bodylab24 partner program now!",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/29/26696-930ecde5754fe5ea.svg",
-    "img": "platform/26696.svg",
     "categories": [
       {
         "name": "Online stores",
@@ -404,6 +499,12 @@
         }
       }
     ],
+    "img": "platform/26696.svg",
+    "affiliate": {
+      "goto_link": "https://ad.admitad.com/g/q51r4zfcu55af0702a27fad1369401/",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Sports & Outdoor",
       "id": 85,
@@ -419,8 +520,11 @@
   {
     "id": 26846,
     "name": "Wayrates WW",
+    "name_aliases": "Wayrates, вайретс, weyr,",
+    "site_url": "https://www.wayrates.com/",
+    "description": "Wayrates.com is one of the leading suppliers of fashion wholesale and retail store. We keep abreast with the latest trends in fashion and provide pants, tops, coats, accessories of good quality designed for men at the most affordable price for global shoppers. We have an elite team with professional skills and unlimited creativity in fashion apparel. Whether you are on the special occasions or in the daily life, our items can make you the focus of attention.\r\n\r\nBenefits for publishers:\r\n\r\nFree to join, 90 Days Long Term Cookie To Get Your Credit\r\n\r\nCreatives: Rich & Exclusive Coupon/Deals/Banners/Text Links Available.\r\n\r\nInsight: Periodical Newsletter With Hot Promotions & Bonus Campaign\r\n\r\nData feed: Update Daily & Automatically, Free To Use\r\n\r\nSupport: A Professional & Dedicated Program Team Help You Succeed\r\n\r\n \r\n\r\nBenefit For Customers:\r\n\r\nMore Than 10000+ Fashionable And High Quality items Sales At Affordable Price\r\n\r\nReal And Effective Promotions To Benefit Customers\r\n\r\nEnjoy Shopping For Patient And Professional Customer Service\r\n\r\nReturn & Refund Without Any Reason\r\n\r\nTOP-selling products you may find here.\r\n\r\nJoin Us\r\n\r\nGet Our Links And Make Full Use Of Your Resource To Promote Us\r\n\r\nBring Clicks To Wayrates.com\r\n\r\nGet The Commission After The Customers Complete Payment\r\n\r\nPlus, Get Extra Reward For Introduce New Potential Publishers To Us\r\n\r\nBig Surprise, Extra Bonus or Incentive Commission According to Your Good Performance.\r\n\r\n ",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/11/25/26846-d58dfb65a2cfcd62.png",
-    "img": "platform/26846.png",
     "categories": [
       {
         "name": "Sports & Outdoor",
@@ -462,6 +566,23 @@
         "parent": null
       }
     ],
+    "img": "platform/26846.png",
+    "affiliate": {
+      "goto_link": "https://zallj.com/g/gfhc91n9bb5af0702a271d81d40fc4/",
+      "landings": [
+        {
+          "id": 30275,
+          "name": "Wayrates",
+          "code": "ce65fa65ae"
+        },
+        {
+          "id": 31090,
+          "name": "F W 2025",
+          "code": "c6868bf219"
+        }
+      ],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Sports & Outdoor",
       "id": 85,
@@ -477,8 +598,11 @@
   {
     "id": 27368,
     "name": "birota",
+    "name_aliases": "ишкщеф",
+    "site_url": "https://www.birota.ru/",
+    "description": "Всем привет! Мы - единственный в России крупный интернет-веломагазин, работающий исключительно со своего склада - после оформления заявки мы собираем заказ практически моментально и выполняем ежедневную отправку через курьерские службы в любую точку страны\r\n\r\nПроект BIROTA - официальный дистрибьютор трех известнейших европейских производителей профессиональных велокомпонентов, таких как FSA, Vision, Deda Elementi и Stronglight.\r\n\r\nПортрет ЦА\r\n\r\n- Профессиональные и любительские велосипедисты\r\n\r\n- Веломагазины и сервисные центры\r\n\r\n- Спортивные клубы и команды\r\n\r\n- Энтузиасты велоспорта, ищущие качественные компоненты\r\n\r\nГеография\r\n\r\n- Основной рынок — Россия \r\n\r\n- Возможность работы по всей территории РФ \r\n\r\nПреимущества для партнёров\r\n\r\n- Работа с официальным дистрибьютором известных европейских брендов (FSA, Vision, Deda Elementi, Stronglight)\r\n\r\n- Высокое качество и популярность товаров, что повышает доверие и конверсию\r\n\r\n- Возможность получать комиссионные с продаж профессиональных и востребованных велокомпонентов\r\n\r\n- Поддержка маркетинговыми материалами и своевременным обновлением ассортимента\r\n\r\nПреимущества для клиентов\r\n\r\n- Доступ к сертифицированным, оригинальным компонентам от ведущих европейских производителей\r\n\r\n- Широкий ассортимент продукции для различных уровней и дисциплин велоспорта\r\n\r\n- Гарантии качества и сервисное сопровождение\r\n\r\n- Конкурентные цены благодаря официальному дистрибьютору\r\n\r\nУсловия доставки\r\n\r\n- Доставка по России через проверенные логистические сервисы\r\n\r\n- Возможны варианты самовывоза из складов или партнерских точек\r\n\r\n- Отслеживание заказов и своевременная обработка для максимального удобства клиентов\r\n \r\n\r\nКак проходит сверка:\r\nРаз в месяц с 1-14 число, ручная.\r\n\r\n \r\n\r\nВыдача промокодов:\r\nЕсть возможность выдачи именных промокодов по запросу.\r\n\r\nИнформация про модерацию:\r\nМодерация проводится 3 раза в неделю.\r\n\r\nС Уважением, Партнерская программа BIROTA!",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/4/15/27368-78459cea7cfb9b8d.jpg",
-    "img": "platform/27368.jpg",
     "categories": [
       {
         "name": "Sports & Outdoor",
@@ -542,6 +666,23 @@
         }
       }
     ],
+    "img": "platform/27368.jpg",
+    "affiliate": {
+      "goto_link": "https://dorinebeaumont.com/g/r1wwx08wsl5af0702a270f1c7c3529/?erid=2bL9aMPo2e49hMef4peW1h69mL",
+      "landings": [
+        {
+          "id": 20654,
+          "name": "Новые модели Oakley",
+          "code": "ae96d70d6b"
+        },
+        {
+          "id": 20655,
+          "name": "Сумки и кофты для активного велотуризма",
+          "code": "d93a630a76"
+        }
+      ],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Sports & Outdoor",
       "id": 85,
@@ -557,8 +698,11 @@
   {
     "id": 27749,
     "name": "Jockey Club UK",
+    "name_aliases": "Jockey Club",
+    "site_url": "https://www.thejockeyclub.co.uk",
+    "description": "The Jockey Club is the largest commercial group in British horseracing with a portfolio of 15 leading racecourses nationwide, including Aintree, Cheltenham, Epsom Downs and Newmarket. Governed by Royal Charter, all profits made by The Jockey Club are invested back into racing to protect the longevity of the UK’s second largest spectator sport.\r\n\r\nWith a range of some of the most renowned racecourses in the country, The Jockey Club plays host to the most prestigious events in the racing calendar such as; the Randox Health Grand National, the Cheltenham festival, and the Investec Derby.\r\n\r\nProgramme description\r\n\r\nThe Jockey Club’s affiliate programme is fully supported by a digital media agency partner, who are closely aligned with both The Jockey Club’s central and regional teams. This is to ensure effective communication with affiliate partners, providing updates on upcoming race day opportunities and developments in The Jockey Club’s offerings.Affiliates have the opportunity to work with The Jockey Club through commission on fixture tickets as well as tenancy packages for each of the 15 racecourses.",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/2/11/27749-b21ac1d4370a8b77.png",
-    "img": "platform/27749.png",
     "categories": [
       {
         "name": "Sports & Outdoor",
@@ -595,6 +739,12 @@
         "parent": null
       }
     ],
+    "img": "platform/27749.png",
+    "affiliate": {
+      "goto_link": "https://ad.admitad.com/g/v08v4dp9y45af0702a2784cb344a50/",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Sports & Outdoor",
       "id": 85,
@@ -610,8 +760,11 @@
   {
     "id": 113984,
     "name": "Sitpack WW",
+    "name_aliases": "Sitpack, Sit pack, Portable Seating",
+    "site_url": "https://sitpack.com/",
+    "description": "Dear Publisher\r\n\r\nI hope this message finds you well. My name is Jonas, and I’m the Founder and CEO of Sitpack, a brand known for creating the most innovative and stylish outdoor travel products. Our collection includes top-selling items like the 1.5L Bottle Size Foldable Camping Chair, Carbon Fiber Portable Stool, Octo Max 20-in-1 Multitool, and the Adventure Blanket, all designed to make outdoor adventures more comfortable and hassle-free.\r\n\r\nOur flagship product, the Campster 2 Chair, has been incredibly successful, with over 100k units sold to date. As we continue to expand, we're looking to form new partnerships that will help us reach a wider audience—and I believe a collaboration with you could be mutually beneficial.\r\n\r\nWe’re excited to offer the following incentives as part of this partnership:\r\n\r\n\r\n\tA high commission on all orders, effective until December 31, 2025.\r\n\tA bonus structure for the first order.\r\n\r\n\r\nWe also encourage you to feature our ad creatives in your advertising space to drive traffic and conversions, helping us both achieve greater success.\r\n\r\nIf this sounds interesting to you, we’d love to discuss the details further and explore how we can work together.\r\n\r\nLooking forward to your response.\r\n\r\nBest regards,\r\nJonas\r\nFounder & CEO, Sitpack",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/24/113984-85ace6283e127d5d.png",
-    "img": "platform/113984.png",
     "categories": [
       {
         "name": "Online stores",
@@ -631,6 +784,12 @@
         }
       }
     ],
+    "img": "platform/113984.png",
+    "affiliate": {
+      "goto_link": "https://ujhjj.com/g/nljx8wkict5af0702a27ef57333d53/",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Sports & Outdoor",
       "id": 85,

@@ -1,0 +1,45 @@
+[
+  {
+    "status": "active",
+    "rating": "0.32",
+    "campaign": {
+      "id": 45296,
+      "name": "aptekiplus.ru",
+      "site_url": "https://aptekiplus.ru/"
+    },
+    "description": "Зарегистрируйтесь, совершите покупку от 300 рублей и мы начислим Вам 100 приветственных баллов!",
+    "short_name": "АптекаПлюс дарит каждому новому клиенту 100 приветственных баллов!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-02-06T15:13:21",
+    "id": 630004,
+    "regions": [
+      "RU"
+    ],
+    "discount": "100 ₽",
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/1/10/45296-adf02f14d781cbbc.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "АптекаПлюс дарит каждому новому клиенту 100 приветственных баллов!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://tsygg.com/g/qdue7t0nbx5af0702a27f724164c66/?i=3&erid=2bL9aMPo2e49hMef4pgzCVuwvX"
+  }
+]

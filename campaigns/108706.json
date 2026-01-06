@@ -1,0 +1,45 @@
+[
+  {
+    "status": "active",
+    "rating": "0.99",
+    "campaign": {
+      "id": 108706,
+      "name": "IBLS",
+      "site_url": "https://ibls.one"
+    },
+    "description": "",
+    "short_name": "Эксклюзивный промокод для Admitad: Скидка 5% на обучение в школе IBLS!",
+    "exclusive": true,
+    "date_end": null,
+    "date_start": "2025-02-20T16:54:18",
+    "id": 835000,
+    "regions": [
+      "RU"
+    ],
+    "discount": "5%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/2/6/108706-abeeeff5cb83af98.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 22,
+        "name": "Online Education"
+      }
+    ],
+    "name": "Эксклюзивный промокод для Admitad: Скидка 5% на обучение в школе IBLS!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "admitad",
+    "frameset_link": "",
+    "goto_link": "https://vxrlm.com/g/10s91xwg8w5af0702a274bed46b8f3/?i=3&erid=2bL9aMPo2e49hMef4piV58gPjL"
+  }
+]

@@ -1,0 +1,221 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 93442,
+      "name": "Lacoste KZ",
+      "site_url": "https://lacoste.kz/"
+    },
+    "description": "",
+    "short_name": "Скидки до 30% на новую коллекцию",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-12-10T18:09:19",
+    "id": 891282,
+    "regions": [
+      "KZ"
+    ],
+    "discount": "30%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/3/13/93442-06d86efeb1f02589.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 4,
+        "name": "Shoes"
+      },
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Скидки до 30% на новую коллекцию",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://fxxag.com/g/vtrttvp9no5af0702a27e329afd461/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "6.17",
+    "campaign": {
+      "id": 93442,
+      "name": "Lacoste KZ",
+      "site_url": "https://lacoste.kz/"
+    },
+    "description": "",
+    "short_name": "Скидка -15% на все товары для Admitad",
+    "exclusive": true,
+    "date_end": null,
+    "date_start": "2024-04-09T13:32:31",
+    "id": 684123,
+    "regions": [
+      "KZ"
+    ],
+    "discount": "15%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/3/13/93442-06d86efeb1f02589.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Скидка -15% на все товары для Admitad",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "Lacostekz15",
+    "frameset_link": "",
+    "goto_link": "https://fxxag.com/g/dkrfilagqc5af0702a27e329afd461/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 93442,
+      "name": "Lacoste KZ",
+      "site_url": "https://lacoste.kz/"
+    },
+    "description": "",
+    "short_name": "Скидки на женскую одежду",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-04-09T13:23:47",
+    "id": 684122,
+    "regions": [
+      "KZ"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/3/13/93442-06d86efeb1f02589.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Скидки на женскую одежду",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://fxxag.com/g/cgmsv6wja55af0702a27e329afd461/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 93442,
+      "name": "Lacoste KZ",
+      "site_url": "https://lacoste.kz/"
+    },
+    "description": "",
+    "short_name": "Скидки на мужскую одежду",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-04-09T13:22:44",
+    "id": 684121,
+    "regions": [
+      "KZ"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/3/13/93442-06d86efeb1f02589.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Скидки на мужскую одежду",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://fxxag.com/g/bg407apt3e5af0702a27e329afd461/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 93442,
+      "name": "Lacoste KZ",
+      "site_url": "https://lacoste.kz/"
+    },
+    "description": "",
+    "short_name": "Скидка 10% при первом заказе",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-04-09T13:20:33",
+    "id": 684119,
+    "regions": [
+      "KZ"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/3/13/93442-06d86efeb1f02589.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Скидка 10% при первом заказе",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://fxxag.com/g/zhvuh8vh8m5af0702a27e329afd461/?i=3"
+  }
+]

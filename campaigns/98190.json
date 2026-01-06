@@ -1,0 +1,53 @@
+[
+  {
+    "status": "active",
+    "rating": "7.01",
+    "campaign": {
+      "id": 98190,
+      "name": "yamanshop.ru",
+      "site_url": "https://yamanshop.ru"
+    },
+    "description": "",
+    "short_name": "Скидка 10%, бесплатная доставка и подарок к заказу товара Bloom WR Star",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-06-13T14:33:24",
+    "id": 767068,
+    "regions": [
+      "RU"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      },
+      {
+        "id": 1,
+        "name": "Free delivery"
+      },
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/5/7/98190-cb3b1d1ddd14ca37.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Скидка 10%, бесплатная доставка и подарок к заказу товара Bloom WR Star",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "BLOOMSTAR",
+    "frameset_link": "",
+    "goto_link": "https://ogsib.com/g/21i612ca7t5af0702a27c3d579441b/?i=3&erid=2bL9aMPo2e49hMef4phyjrusyB"
+  }
+]

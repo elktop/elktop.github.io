@@ -1,0 +1,45 @@
+[
+  {
+    "status": "active",
+    "rating": "8.40",
+    "campaign": {
+      "id": 33919,
+      "name": "Priem.menu",
+      "site_url": "https://priem.menu/"
+    },
+    "description": "Примечание: Не совместим при оплате картами ТБанка, действует только для линеек питания Приём 2, Приём 3, Приём 4, Приём 5.\r\nhttps://priem.menu/",
+    "short_name": "Вкусная домашняя еда со скидкой 1111 рублей при оформлении заказа до конца выходных!",
+    "exclusive": false,
+    "date_end": "2026-01-12T23:59:00",
+    "date_start": "2025-12-25T00:00:00",
+    "id": 893422,
+    "regions": [
+      "RU"
+    ],
+    "discount": "1 111 ₽",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/4/25/33919-f4db98d28379e8cf.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "Вкусная домашняя еда со скидкой 1111 рублей при оформлении заказа до конца выходных!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "PRIEM_WEEKEND_SALE",
+    "frameset_link": "",
+    "goto_link": "https://bywiola.com/g/vque9p1pe65af0702a27e6f01a452d/?i=3&erid=2bL9aMPo2e49hMef4rqyCuik88"
+  }
+]

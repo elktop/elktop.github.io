@@ -1,0 +1,92 @@
+[
+  {
+    "status": "active",
+    "rating": "3.98",
+    "campaign": {
+      "id": 30400,
+      "name": "Storeinua UA",
+      "site_url": "https://storeinua.com/"
+    },
+    "description": "Товари тижня - знижки до -30%",
+    "short_name": "Товари тижня - знижки до -30%",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-09-16T12:22:20",
+    "id": 875432,
+    "regions": [
+      "UA"
+    ],
+    "discount": "30%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/4/25/30400-b311960869832095.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 7,
+        "name": "Homeware"
+      },
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Товари тижня - знижки до -30%",
+    "language": "ua",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "https://naiawork.com/coupon/0zdw4a1xwr5af0702a2790e72178e7/",
+    "goto_link": "https://naiawork.com/g/9nh6li6ffj5af0702a2790e72178e7/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "4.73",
+    "campaign": {
+      "id": 30400,
+      "name": "Storeinua UA",
+      "site_url": "https://storeinua.com/"
+    },
+    "description": "Підтверджуйте підписку та отримайте знижку -100 грн на перше замовлення від 19 990 грн",
+    "short_name": "Знижка - 100 грн на перше замовлення",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-07-13T11:13:59",
+    "id": 558220,
+    "regions": [
+      "UA"
+    ],
+    "discount": "1%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/4/25/30400-b311960869832095.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Знижка - 100 грн на перше замовлення",
+    "language": "ua",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "https://naiawork.com/coupon/idr2yhr9ti5af0702a2790e72178e7/",
+    "goto_link": "https://naiawork.com/g/1z56ris25n5af0702a2790e72178e7/?i=3"
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "status": "active",
+    "rating": "6.23",
+    "campaign": {
+      "id": 21070,
+      "name": "Т- Мобайл (SIM-карты)",
+      "site_url": "https://www.tinkoff.ru/mobile-operator/form/"
+    },
+    "description": "Ограничения: Акция не распространяется на абонентов, заключивших договор об оказании услуг связи после 01.02.2024г. в регионах:\r\n\r\nСтавропольский край, Карачаево-Черкесская Республика, Самарская область, Саратовская область, Удмуртская\r\n\r\nреспублика, Республика Башкортостан, Республика Северная Осетия-Алания, Калининградская область, Пензенская\r\n\r\nобласть, Республика Ингушетия, Астраханская область, Чеченская Республика, Республика Дагестан, Республика\r\n\r\nКалмыкия, Кабардино-Балкарская Республика, Хабаровский край, Забайкальский край, Республика Саха (Якутия),\r\n\r\nАмурская область, Чукотский АО, Ненецкий автономный округ.",
+    "short_name": "300 бонусных рублей на счет для новых клиентов Т-Мобайл",
+    "exclusive": false,
+    "date_end": "2028-01-31T23:59:00",
+    "date_start": "2025-12-23T12:29:00",
+    "id": 748865,
+    "regions": [
+      "RU"
+    ],
+    "discount": "300 ₽",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/7/2/21070-44b909eb66a0025f.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "300 бонусных рублей на счет для новых клиентов Т-Мобайл",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "admitad300",
+    "frameset_link": "https://ficca2021.com/coupon/uh7c9swfsl5af0702a27b8d11ffb1c/?erid=5jtCeReNwxHpfQTHtoCprSb",
+    "goto_link": "https://ficca2021.com/g/ilxi1isir15af0702a27b8d11ffb1c/?i=3&erid=5jtCeReNwxHpfQTHtoCprSb"
+  }
+]

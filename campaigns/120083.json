@@ -1,0 +1,92 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 120083,
+      "name": "Бруноям RU",
+      "site_url": "https://brunoyam.com/"
+    },
+    "description": "",
+    "short_name": "Скидка 13%!",
+    "exclusive": false,
+    "date_end": "2026-01-11T23:59:00",
+    "date_start": "2025-12-15T00:00:00",
+    "id": 885114,
+    "regions": [
+      "RU"
+    ],
+    "discount": "13%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/1/29/120083-63e0290875c8f202.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 22,
+        "name": "Online Education"
+      },
+      {
+        "id": 189,
+        "name": "New Year Festival 2026"
+      }
+    ],
+    "name": "Скидка 13%!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NY26",
+    "frameset_link": "",
+    "goto_link": "https://xqjeo.com/g/24avz4elo45af0702a27ff1d95857f/?i=3&erid=2bL9aMPo2e49hMef4rqxsTWqnS"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 120083,
+      "name": "Бруноям RU",
+      "site_url": "https://brunoyam.com/"
+    },
+    "description": "",
+    "short_name": "Скидка 11%!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-04-04T12:38:25",
+    "id": 844778,
+    "regions": [
+      "RU"
+    ],
+    "discount": "11%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/1/29/120083-63e0290875c8f202.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 22,
+        "name": "Online Education"
+      }
+    ],
+    "name": "Скидка 11%!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ADMITAD",
+    "frameset_link": "",
+    "goto_link": "https://xqjeo.com/g/kbad18y4ev5af0702a27ff1d95857f/?i=3&erid=2bL9aMPo2e49hMef4rqU6kVt5r"
+  }
+]

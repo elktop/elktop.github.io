@@ -1,0 +1,53 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 104513,
+      "name": "Camp David | Soccx CZ CPS",
+      "site_url": "https://www.campdavid-soccx-shop.cz/"
+    },
+    "description": "",
+    "short_name": "15% sleva na nákupy se zakaznickou kartou Membercard",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-07-16T19:37:31",
+    "id": 774865,
+    "regions": [
+      "CZ"
+    ],
+    "discount": "15%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/7/16/104513-e028c67178027c78.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      },
+      {
+        "id": 4,
+        "name": "Shoes"
+      },
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "15% sleva na nákupy se zakaznickou kartou Membercard",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "",
+    "goto_link": "https://xqjeo.com/g/stoyyvoc385af0702a275474323be3/?i=3"
+  }
+]

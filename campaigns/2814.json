@@ -1,0 +1,417 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 2814,
+      "name": "GroupPrice",
+      "site_url": "https://groupprice.ru/"
+    },
+    "description": "Активируется в форме",
+    "short_name": "доп скидка 5% на заказы от 3500 руб при оплате на сайте или банковским переводом",
+    "exclusive": false,
+    "date_end": "2026-01-31T23:59:00",
+    "date_start": "2025-12-22T00:00:00",
+    "id": 892660,
+    "regions": [
+      "RU"
+    ],
+    "discount": "5%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/10/14/2814-2b06af32b7abd306.png",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 34,
+        "name": "Marketplaces (including Chinese Stores)"
+      }
+    ],
+    "name": "доп скидка 5% на заказы от 3500 руб при оплате на сайте или банковским переводом",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "groupprice6",
+    "frameset_link": "",
+    "goto_link": "https://thevospad.com/g/91u7lzf6645af0702a27f2d40bf9c7/?i=3&erid=2bL9aMPo2e49hMef4rqy6a5Aco"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 2814,
+      "name": "GroupPrice",
+      "site_url": "https://groupprice.ru/"
+    },
+    "description": "Активируется в форме: https://groupprice.ru/profile/promocodes",
+    "short_name": "доп скидка 5% на заказы от 3500 руб при оплате на сайте или банковским переводом",
+    "exclusive": true,
+    "date_end": "2026-01-11T23:59:00",
+    "date_start": "2025-12-15T00:00:00",
+    "id": 891594,
+    "regions": [
+      "RU"
+    ],
+    "discount": "5%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/10/14/2814-2b06af32b7abd306.png",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 34,
+        "name": "Marketplaces (including Chinese Stores)"
+      },
+      {
+        "id": 189,
+        "name": "New Year Festival 2026"
+      }
+    ],
+    "name": "доп скидка 5% на заказы от 3500 руб при оплате на сайте или банковским переводом",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "groupprice6",
+    "frameset_link": "",
+    "goto_link": "https://thevospad.com/g/7i8xwd0n7n5af0702a27f2d40bf9c7/?i=3&erid=2bL9aMPo2e49hMef4rqy6X5Wa3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 2814,
+      "name": "GroupPrice",
+      "site_url": "https://groupprice.ru/"
+    },
+    "description": "",
+    "short_name": "Скидка -5% при оплате онлайн!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-10-03T14:12:00",
+    "id": 457451,
+    "regions": [
+      "RU"
+    ],
+    "discount": "5%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/10/14/2814-2b06af32b7abd306.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      },
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Скидка -5% при оплате онлайн!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://thevospad.com/g/pgxau6w7rg5af0702a27f2d40bf9c7/?i=3&erid=2bL9aMPo2e49hMef4pezfrZx53"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 2814,
+      "name": "GroupPrice",
+      "site_url": "https://groupprice.ru/"
+    },
+    "description": "",
+    "short_name": "Товары для детей со скидками!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-10-03T14:12:00",
+    "id": 457450,
+    "regions": [
+      "RU"
+    ],
+    "discount": "5%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/10/14/2814-2b06af32b7abd306.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      },
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Товары для детей со скидками!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://thevospad.com/g/vtgxa846ht5af0702a27f2d40bf9c7/?i=3&erid=2bL9aMPo2e49hMef4pezfrZx52"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 2814,
+      "name": "GroupPrice",
+      "site_url": "https://groupprice.ru/"
+    },
+    "description": "",
+    "short_name": "Товары для мужчин со скидками!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-10-03T14:12:00",
+    "id": 457448,
+    "regions": [
+      "RU"
+    ],
+    "discount": "5%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/10/14/2814-2b06af32b7abd306.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      },
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Товары для мужчин со скидками!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://thevospad.com/g/vbht5yzlov5af0702a27f2d40bf9c7/?i=3&erid=2bL9aMPo2e49hMef4pezfrZx4z"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 2814,
+      "name": "GroupPrice",
+      "site_url": "https://groupprice.ru/"
+    },
+    "description": "",
+    "short_name": "Товары для женщин со скидками!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-10-03T14:12:00",
+    "id": 457447,
+    "regions": [
+      "RU"
+    ],
+    "discount": "5%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/10/14/2814-2b06af32b7abd306.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      },
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Товары для женщин со скидками!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://thevospad.com/g/hyy3gcjph75af0702a27f2d40bf9c7/?i=3&erid=2bL9aMPo2e49hMef4pezfrZx4y"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 2814,
+      "name": "GroupPrice",
+      "site_url": "https://groupprice.ru/"
+    },
+    "description": "Товары со скидками",
+    "short_name": "Раздел Распродажа!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-10-03T14:12:00",
+    "id": 457444,
+    "regions": [
+      "RU"
+    ],
+    "discount": "35%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/10/14/2814-2b06af32b7abd306.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      },
+      {
+        "id": 5,
+        "name": "Clothing"
+      },
+      {
+        "id": 7,
+        "name": "Homeware"
+      }
+    ],
+    "name": "Раздел Распродажа!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://thevospad.com/g/6i02sie1wi5af0702a27f2d40bf9c7/?i=3&erid=2bL9aMPo2e49hMef4pezfrZwzg"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 2814,
+      "name": "GroupPrice",
+      "site_url": "https://groupprice.ru/"
+    },
+    "description": "Используйте бонусы для оплаты следующего заказа",
+    "short_name": "Бонусы за каждый заказ! Ваша скидка до 50% на следующий заказ",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-10-03T14:12:00",
+    "id": 457442,
+    "regions": [
+      "RU"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/10/14/2814-2b06af32b7abd306.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Бонусы за каждый заказ! Ваша скидка до 50% на следующий заказ",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://thevospad.com/g/cr0am52ttf5af0702a27f2d40bf9c7/?i=3&erid=2bL9aMPo2e49hMef4pezfrZwze"
+  },
+  {
+    "status": "active",
+    "rating": "2.07",
+    "campaign": {
+      "id": 2814,
+      "name": "GroupPrice",
+      "site_url": "https://groupprice.ru/"
+    },
+    "description": "",
+    "short_name": "Бесплатная доставка от 3000 рублей",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-10-03T14:12:00",
+    "id": 457441,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/10/14/2814-2b06af32b7abd306.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Бесплатная доставка от 3000 рублей",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://thevospad.com/g/067psffjw25af0702a27f2d40bf9c7/?i=3&erid=2bL9aMPo2e49hMef4pezfrZwzd"
+  }
+]

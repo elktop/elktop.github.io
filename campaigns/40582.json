@@ -1,0 +1,45 @@
+[
+  {
+    "status": "active",
+    "rating": "8.81",
+    "campaign": {
+      "id": 40582,
+      "name": "Bang Bang Education",
+      "site_url": "https://bangbangeducation.ru"
+    },
+    "description": "Совокупно не более 50%, т.е если у профессии скидка 50%, то купон не будет действительным. Называть необходимо менеджеру отдела продаж при звонке.",
+    "short_name": "Скидка 5% на все курсы и профессии",
+    "exclusive": false,
+    "date_end": "2026-02-28T23:59:00",
+    "date_start": "2025-12-22T17:20:00",
+    "id": 669025,
+    "regions": [
+      "RU"
+    ],
+    "discount": "5%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/8/30/40582-d9499a01963b562a.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 22,
+        "name": "Online Education"
+      }
+    ],
+    "name": "Скидка 5% на все курсы и профессии",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "admitadbbe",
+    "frameset_link": "",
+    "goto_link": "https://dhwnh.com/g/2wf4ccvpc75af0702a2719f6940153/?i=3&erid=2bL9aMPo2e49hMef4phUWvpHLU"
+  }
+]

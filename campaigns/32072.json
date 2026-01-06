@@ -1,0 +1,131 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 32072,
+      "name": "Wolt  DEU, CYP, GEO, JPN, LTU, LVA, MLT, KAZ",
+      "site_url": "https://wolt.com/"
+    },
+    "description": "",
+    "short_name": "LVA 2x3€ auf die ersten beiden Bestellungen für Neukunden",
+    "exclusive": false,
+    "date_end": "2026-12-08T23:59:00",
+    "date_start": "2025-12-29T00:00:00",
+    "id": 893787,
+    "regions": [
+      "LV"
+    ],
+    "discount": "3 €",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/1/11/32072-a61d74b1e0f8008b.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "LVA 2x3€ auf die ersten beiden Bestellungen für Neukunden",
+    "language": "de",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "AFFWOLTLVA26",
+    "frameset_link": "",
+    "goto_link": "https://bywiola.com/g/4eqpmz5n1i5af0702a27c40fa0b339/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 32072,
+      "name": "Wolt  DEU, CYP, GEO, JPN, LTU, LVA, MLT, KAZ",
+      "site_url": "https://wolt.com/"
+    },
+    "description": "",
+    "short_name": "LTU 2x3€ auf die ersten beiden Bestellungen für Neukunden",
+    "exclusive": false,
+    "date_end": "2026-12-08T23:59:00",
+    "date_start": "2025-12-29T00:00:00",
+    "id": 893786,
+    "regions": [
+      "LT"
+    ],
+    "discount": "3 €",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/1/11/32072-a61d74b1e0f8008b.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "LTU 2x3€ auf die ersten beiden Bestellungen für Neukunden",
+    "language": "de",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "AFFWOLTLTU26",
+    "frameset_link": "",
+    "goto_link": "https://bywiola.com/g/j7jnl6jlm95af0702a27c40fa0b339/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 32072,
+      "name": "Wolt  DEU, CYP, GEO, JPN, LTU, LVA, MLT, KAZ",
+      "site_url": "https://wolt.com/"
+    },
+    "description": "",
+    "short_name": "DE 2x10€ auf die ersten beiden Bestellungen für Neukunden",
+    "exclusive": false,
+    "date_end": "2026-12-08T23:59:00",
+    "date_start": "2026-01-01T00:00:00",
+    "id": 893785,
+    "regions": [
+      "DE"
+    ],
+    "discount": "10 €",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/1/11/32072-a61d74b1e0f8008b.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "DE 2x10€ auf die ersten beiden Bestellungen für Neukunden",
+    "language": "de",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "AFFWOLTDEU26",
+    "frameset_link": "",
+    "goto_link": "https://bywiola.com/g/34vps85p2x5af0702a27c40fa0b339/?i=3"
+  }
+]

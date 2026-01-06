@@ -1,0 +1,288 @@
+[
+  {
+    "status": "active",
+    "rating": "9.12",
+    "campaign": {
+      "id": 24549,
+      "name": "Lu.ru",
+      "site_url": "https://lu.ru"
+    },
+    "description": "Не действует на: Citilux, Eurosvet, Bogates, TK Lighting, Elektrostandard, Werkel, Lightstar, Osgona, Eletto, Русские Фонари, светильники под заказ и уцененные товары. Не суммируется с кешбэком, другими скидками и акциями.",
+    "short_name": "Скидка 15% на освещение, минимальный заказ 1500 рублей.",
+    "exclusive": false,
+    "date_end": "2026-01-11T23:59:00",
+    "date_start": "2025-12-17T00:00:00",
+    "id": 892153,
+    "regions": [
+      "RU"
+    ],
+    "discount": "15%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/11/28/24549-89bb807d2d1b15c3.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 7,
+        "name": "Homeware"
+      },
+      {
+        "id": 189,
+        "name": "New Year Festival 2026"
+      }
+    ],
+    "name": "Скидка 15% на освещение, минимальный заказ 1500 рублей.",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NEW26",
+    "frameset_link": "",
+    "goto_link": "https://thevospad.com/g/144yaxtl0a5af0702a27ca00fd3984/?i=3&erid=2bL9aMPo2e49hMef4rqy6YaApL"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 24549,
+      "name": "Lu.ru",
+      "site_url": "https://lu.ru"
+    },
+    "description": "",
+    "short_name": "Распродажа: польские светильники",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-05-10T20:21:36",
+    "id": 540053,
+    "regions": [
+      "RU"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/11/28/24549-89bb807d2d1b15c3.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 7,
+        "name": "Homeware"
+      },
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Распродажа: польские светильники",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://thevospad.com/g/98s7jbc0km5af0702a27ca00fd3984/?i=3&erid=5jtCeReNwxHpfQTFuq8ERBT"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 24549,
+      "name": "Lu.ru",
+      "site_url": "https://lu.ru"
+    },
+    "description": "",
+    "short_name": "Распродажа: польские светильники",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-04-05T18:41:47",
+    "id": 532977,
+    "regions": [
+      "RU"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/11/28/24549-89bb807d2d1b15c3.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 7,
+        "name": "Homeware"
+      },
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Распродажа: польские светильники",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://thevospad.com/g/1930xcb1io5af0702a27ca00fd3984/?i=3&erid=5jtCeReNwxHpfQTFuc694nc"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 24549,
+      "name": "Lu.ru",
+      "site_url": "https://lu.ru"
+    },
+    "description": "",
+    "short_name": "Уличные светильники Eglo со скидкой",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-04-05T18:41:09",
+    "id": 532976,
+    "regions": [
+      "RU"
+    ],
+    "discount": "35%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/11/28/24549-89bb807d2d1b15c3.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 7,
+        "name": "Homeware"
+      },
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      },
+      {
+        "id": 23,
+        "name": "DIY, Garden"
+      }
+    ],
+    "name": "Уличные светильники Eglo со скидкой",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://thevospad.com/g/sezguvqryg5af0702a27ca00fd3984/?i=3&erid=5jtCeReNwxHpfQTFuc694nb"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 24549,
+      "name": "Lu.ru",
+      "site_url": "https://lu.ru"
+    },
+    "description": "Зачем тратить время на подбор лампочек?\r\n\r\nОформите заказ на 5000 рублей, и мы бесплатно подарим вам комплект светодиодных ламп под заказанные светильники.",
+    "short_name": "Лампочки в подарок!",
+    "exclusive": false,
+    "date_end": "2026-01-18T23:59:00",
+    "date_start": "2022-06-03T17:13:36",
+    "id": 458450,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/11/28/24549-89bb807d2d1b15c3.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 7,
+        "name": "Homeware"
+      },
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Лампочки в подарок!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://thevospad.com/g/79le5e6xqc5af0702a27ca00fd3984/?i=3&erid=5jtCeReNwxHpfQTEvBKcwXx"
+  },
+  {
+    "status": "active",
+    "rating": "3.96",
+    "campaign": {
+      "id": 24549,
+      "name": "Lu.ru",
+      "site_url": "https://lu.ru"
+    },
+    "description": "При заказе от 3000 рублей. Не действует на: Citilux, ST Luce, EvoLed, Evoluce, Crystal Lux, Maytoni, Freya, Rivoli, Lightstar, Osgona, Eletto, Eurosvet, Bogates, TK Lighting, Elektrostandard, Werkel, Syneil, светильники под заказ и уцененные товары. Не суммируется с другими скидками, акциями и кешбэком.",
+    "short_name": "Скидка 10% на освещение!",
+    "exclusive": false,
+    "date_end": "2026-01-18T23:59:00",
+    "date_start": "2023-04-10T06:32:00",
+    "id": 375033,
+    "regions": [
+      "RU"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/11/28/24549-89bb807d2d1b15c3.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 7,
+        "name": "Homeware"
+      },
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Скидка 10% на освещение!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "WEBPROMO",
+    "frameset_link": "",
+    "goto_link": "https://thevospad.com/g/ld9wlkdpvi5af0702a27ca00fd3984/?i=3&erid=5jtCeReNwxHpfQTDvJNz9ge"
+  }
+]

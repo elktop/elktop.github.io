@@ -1,0 +1,647 @@
+[
+  {
+    "status": "active",
+    "rating": "6.70",
+    "campaign": {
+      "id": 42483,
+      "name": "Avito Путешествия RU",
+      "site_url": "https://www.avito.ru/moskva/kvartiry/sdam/posutochno/-ASgBAgICAkSSA8gQ8AeSUg/"
+    },
+    "description": "Найдите привлекательные цены на жильё в подборке со скидками — включите фильтр «Горящие предложения». Такие объявления показывают скидки от 10 до 50% на ближайшие 14 дней. Дополнительно горящие предложения отмечены в обычном поиске значком огонька и зачёркнутой ценой.",
+    "short_name": "Горящие предложение! Скидки от 10 до 50% при бронировании на ближайшие 14 дней!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-05-14T14:08:53",
+    "id": 850567,
+    "regions": [
+      "RU"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/4/22/42483-aea076ae9e42bcdf.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 12,
+        "name": "Tours & Travels"
+      }
+    ],
+    "name": "Горящие предложение! Скидки от 10 до 50% при бронировании на ближайшие 14 дней!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/kyqkyv14f95af0702a270f5f635295/?i=3&erid=2bL9aMPo2e49hMef4rqUDPyLKS"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 42483,
+      "name": "Avito Путешествия RU",
+      "site_url": "https://www.avito.ru/moskva/kvartiry/sdam/posutochno/-ASgBAgICAkSSA8gQ8AeSUg/"
+    },
+    "description": "Дома, коттеджи и таунхаусы Краснодарский  край",
+    "short_name": "Дома, коттеджи и таунхаусы Краснодарский  край",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-12-22T14:50:15",
+    "id": 620185,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/4/22/42483-aea076ae9e42bcdf.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 12,
+        "name": "Tours & Travels"
+      }
+    ],
+    "name": "Дома, коттеджи и таунхаусы Краснодарский  край",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/k7aomcljii5af0702a270f5f635295/?i=3&erid=5jtCeReNwxHpfQTGuNLM6Re"
+  },
+  {
+    "status": "active",
+    "rating": "6.13",
+    "campaign": {
+      "id": 42483,
+      "name": "Avito Путешествия RU",
+      "site_url": "https://www.avito.ru/moskva/kvartiry/sdam/posutochno/-ASgBAgICAkSSA8gQ8AeSUg/"
+    },
+    "description": "Дома, коттеджи и таунхаусы Татарстан",
+    "short_name": "Дома, коттеджи и таунхаусы Татарстан",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-12-22T14:49:25",
+    "id": 620184,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/4/22/42483-aea076ae9e42bcdf.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 12,
+        "name": "Tours & Travels"
+      }
+    ],
+    "name": "Дома, коттеджи и таунхаусы Татарстан",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/zleuwbnyjc5af0702a270f5f635295/?i=3&erid=5jtCeReNwxHpfQTGuNLM6Rd"
+  },
+  {
+    "status": "active",
+    "rating": "3.93",
+    "campaign": {
+      "id": 42483,
+      "name": "Avito Путешествия RU",
+      "site_url": "https://www.avito.ru/moskva/kvartiry/sdam/posutochno/-ASgBAgICAkSSA8gQ8AeSUg/"
+    },
+    "description": "Дома, коттеджи и таунхаусы Санкт-Петербург и Ленинградская область",
+    "short_name": "Дома, коттеджи и таунхаусы Санкт-Петербург и Ленинградская область",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-12-22T14:48:19",
+    "id": 620183,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/4/22/42483-aea076ae9e42bcdf.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 12,
+        "name": "Tours & Travels"
+      }
+    ],
+    "name": "Дома, коттеджи и таунхаусы Санкт-Петербург и Ленинградская область",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/1xq4gdhmij5af0702a270f5f635295/?i=3&erid=5jtCeReNwxHpfQTGuNLM6Rc"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 42483,
+      "name": "Avito Путешествия RU",
+      "site_url": "https://www.avito.ru/moskva/kvartiry/sdam/posutochno/-ASgBAgICAkSSA8gQ8AeSUg/"
+    },
+    "description": "Дома, коттеджи и таунхаусы Москва и Московская область",
+    "short_name": "Дома, коттеджи и таунхаусы Москва и Московская область",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-12-22T14:47:24",
+    "id": 620182,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/4/22/42483-aea076ae9e42bcdf.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 12,
+        "name": "Tours & Travels"
+      }
+    ],
+    "name": "Дома, коттеджи и таунхаусы Москва и Московская область",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/yehxrnf44e5af0702a270f5f635295/?i=3&erid=5jtCeReNwxHpfQTGuNLM6Rb"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 42483,
+      "name": "Avito Путешествия RU",
+      "site_url": "https://www.avito.ru/moskva/kvartiry/sdam/posutochno/-ASgBAgICAkSSA8gQ8AeSUg/"
+    },
+    "description": "Подборка квартир в Южно-Сахалинске",
+    "short_name": "Подборка квартир в Южно-Сахалинске",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-12-18T13:23:54",
+    "id": 617386,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/4/22/42483-aea076ae9e42bcdf.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 12,
+        "name": "Tours & Travels"
+      }
+    ],
+    "name": "Подборка квартир в Южно-Сахалинске",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/vr45h25p6r5af0702a270f5f635295/?i=3&erid=5jtCeReNwxHpfQTGu2kmGQs"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 42483,
+      "name": "Avito Путешествия RU",
+      "site_url": "https://www.avito.ru/moskva/kvartiry/sdam/posutochno/-ASgBAgICAkSSA8gQ8AeSUg/"
+    },
+    "description": "Подборка квартир в Мурманске",
+    "short_name": "Подборка квартир в Мурманске",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-12-18T13:23:03",
+    "id": 617385,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/4/22/42483-aea076ae9e42bcdf.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 12,
+        "name": "Tours & Travels"
+      }
+    ],
+    "name": "Подборка квартир в Мурманске",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/mgj1t8lv1i5af0702a270f5f635295/?i=3&erid=5jtCeReNwxHpfQTGu2kmGQr"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 42483,
+      "name": "Avito Путешествия RU",
+      "site_url": "https://www.avito.ru/moskva/kvartiry/sdam/posutochno/-ASgBAgICAkSSA8gQ8AeSUg/"
+    },
+    "description": "Подборка квартир в Домбае",
+    "short_name": "Подборка квартир в Домбае",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-12-18T13:21:26",
+    "id": 617384,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/4/22/42483-aea076ae9e42bcdf.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 12,
+        "name": "Tours & Travels"
+      }
+    ],
+    "name": "Подборка квартир в Домбае",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/mlydcjbxt95af0702a270f5f635295/?i=3&erid=5jtCeReNwxHpfQTGu2kmGG4"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 42483,
+      "name": "Avito Путешествия RU",
+      "site_url": "https://www.avito.ru/moskva/kvartiry/sdam/posutochno/-ASgBAgICAkSSA8gQ8AeSUg/"
+    },
+    "description": "Подборка квартир в Сочи",
+    "short_name": "Подборка квартир в Сочи",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-12-18T13:19:53",
+    "id": 617383,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/4/22/42483-aea076ae9e42bcdf.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 12,
+        "name": "Tours & Travels"
+      }
+    ],
+    "name": "Подборка квартир в Сочи",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/mqr2ojp0t25af0702a270f5f635295/?i=3&erid=5jtCeReNwxHpfQTGu2kmGBi"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 42483,
+      "name": "Avito Путешествия RU",
+      "site_url": "https://www.avito.ru/moskva/kvartiry/sdam/posutochno/-ASgBAgICAkSSA8gQ8AeSUg/"
+    },
+    "description": "Подборка квартир в Шерегеше",
+    "short_name": "Подборка квартир в Шерегеше",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-12-18T13:18:36",
+    "id": 617382,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/4/22/42483-aea076ae9e42bcdf.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 12,
+        "name": "Tours & Travels"
+      }
+    ],
+    "name": "Подборка квартир в Шерегеше",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/hrnbm838p45af0702a270f5f635295/?i=3&erid=5jtCeReNwxHpfQTGu2kkwPU"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 42483,
+      "name": "Avito Путешествия RU",
+      "site_url": "https://www.avito.ru/moskva/kvartiry/sdam/posutochno/-ASgBAgICAkSSA8gQ8AeSUg/"
+    },
+    "description": "Квартиры в Санкт-Петербурге стоимостью до 2000 рублей в сутки",
+    "short_name": "Квартиры в Санкт-Петербурге стоимостью до 2000 рублей в сутки",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-12-18T13:16:49",
+    "id": 617380,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/4/22/42483-aea076ae9e42bcdf.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 12,
+        "name": "Tours & Travels"
+      }
+    ],
+    "name": "Квартиры в Санкт-Петербурге стоимостью до 2000 рублей в сутки",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/ma55dw189q5af0702a270f5f635295/?i=3&erid=5jtCeReNwxHpfQTGu2kkwEd"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 42483,
+      "name": "Avito Путешествия RU",
+      "site_url": "https://www.avito.ru/moskva/kvartiry/sdam/posutochno/-ASgBAgICAkSSA8gQ8AeSUg/"
+    },
+    "description": "Квартиры в Казани стоимостью до 2000 рублей в сутки",
+    "short_name": "Квартиры в Казани стоимостью до 2000 рублей в сутки",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-12-18T12:44:59",
+    "id": 617370,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/4/22/42483-aea076ae9e42bcdf.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 12,
+        "name": "Tours & Travels"
+      }
+    ],
+    "name": "Квартиры в Казани стоимостью до 2000 рублей в сутки",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/kxf25isc355af0702a270f5f635295/?i=3&erid=5jtCeReNwxHpfQTGu2kkw1L"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 42483,
+      "name": "Avito Путешествия RU",
+      "site_url": "https://www.avito.ru/moskva/kvartiry/sdam/posutochno/-ASgBAgICAkSSA8gQ8AeSUg/"
+    },
+    "description": "Квартиры в Сочи стоимостью до 2000 рублей в сутки",
+    "short_name": "Квартиры в Сочи стоимостью до 2000 рублей в сутки",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-12-18T12:40:34",
+    "id": 617369,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/4/22/42483-aea076ae9e42bcdf.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 12,
+        "name": "Tours & Travels"
+      }
+    ],
+    "name": "Квартиры в Сочи стоимостью до 2000 рублей в сутки",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/svgr5plumd5af0702a270f5f635295/?i=3&erid=5jtCeReNwxHpfQTGu2kkw1J"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 42483,
+      "name": "Avito Путешествия RU",
+      "site_url": "https://www.avito.ru/moskva/kvartiry/sdam/posutochno/-ASgBAgICAkSSA8gQ8AeSUg/"
+    },
+    "description": "Квартиры в Калининграде стоимостью до 1500 рублей в сутки",
+    "short_name": "Квартиры в Калининграде стоимостью до 1500 рублей в сутки",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-12-18T12:39:45",
+    "id": 617368,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/4/22/42483-aea076ae9e42bcdf.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 12,
+        "name": "Tours & Travels"
+      }
+    ],
+    "name": "Квартиры в Калининграде стоимостью до 1500 рублей в сутки",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/tto0k7euay5af0702a270f5f635295/?i=3&erid=5jtCeReNwxHpfQTGu2kkw1H"
+  },
+  {
+    "status": "active",
+    "rating": "1.49",
+    "campaign": {
+      "id": 42483,
+      "name": "Avito Путешествия RU",
+      "site_url": "https://www.avito.ru/moskva/kvartiry/sdam/posutochno/-ASgBAgICAkSSA8gQ8AeSUg/"
+    },
+    "description": "Квартиры с арендной платой до 2500 руб в сутки",
+    "short_name": "Квартиры с арендной платой до 2500 руб в сутки",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-11-21T11:04:39",
+    "id": 604673,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/4/22/42483-aea076ae9e42bcdf.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 12,
+        "name": "Tours & Travels"
+      }
+    ],
+    "name": "Квартиры с арендной платой до 2500 руб в сутки",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/i18qy2wpyx5af0702a270f5f635295/?i=3&erid=5jtCeReNwxHpfQTGR3sx6Jm"
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 22771,
+      "name": "My Food",
+      "site_url": "https://m-food.ru/"
+    },
+    "description": "",
+    "short_name": "Скидка 2000 рублей на первый заказ меню ПРОСТО 30 дней.",
+    "exclusive": false,
+    "date_end": "2026-01-11T23:59:00",
+    "date_start": "2025-12-18T00:00:00",
+    "id": 892256,
+    "regions": [
+      "RU"
+    ],
+    "discount": "2 000 ₽",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/4/12/22771-2a112c9de18e2464.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      },
+      {
+        "id": 189,
+        "name": "New Year Festival 2026"
+      }
+    ],
+    "name": "Скидка 2000 рублей на первый заказ меню ПРОСТО 30 дней.",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NYAdmitad",
+    "frameset_link": "https://dkfrh.com/coupon/oxhixyww435af0702a27042e35a20f/?erid=2bL9aMPo2e49hMef4rqy6YbBQs",
+    "goto_link": "https://dkfrh.com/g/6bdoh826ul5af0702a27042e35a20f/?i=3&erid=2bL9aMPo2e49hMef4rqy6YbBQs"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 22771,
+      "name": "My Food",
+      "site_url": "https://m-food.ru/"
+    },
+    "description": "",
+    "short_name": "Три вкусных и сытных блюда от 616 рублей в день. Меню ПРОСТО.",
+    "exclusive": false,
+    "date_end": "2026-01-19T23:59:00",
+    "date_start": "2025-11-25T00:00:00",
+    "id": 884673,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/4/12/22771-2a112c9de18e2464.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Три вкусных и сытных блюда от 616 рублей в день. Меню ПРОСТО.",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://dkfrh.com/coupon/nefu5y73lv5af0702a27042e35a20f/?erid=2bL9aMPo2e49hMef4rqxsS2reu",
+    "goto_link": "https://dkfrh.com/g/1zwbjzewlb5af0702a27042e35a20f/?i=3&erid=2bL9aMPo2e49hMef4rqxsS2reu"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 22771,
+      "name": "My Food",
+      "site_url": "https://m-food.ru/"
+    },
+    "description": "",
+    "short_name": "30 дней вкусного и сытного питания от 18490 рублей. Меню ПРОСТО.",
+    "exclusive": false,
+    "date_end": "2026-01-19T23:59:00",
+    "date_start": "2025-11-25T00:00:00",
+    "id": 884672,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/4/12/22771-2a112c9de18e2464.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "30 дней вкусного и сытного питания от 18490 рублей. Меню ПРОСТО.",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://dkfrh.com/coupon/xqfh6y45ok5af0702a27042e35a20f/?erid=2bL9aMPo2e49hMef4rqxsS2res",
+    "goto_link": "https://dkfrh.com/g/f8lu8hvpma5af0702a27042e35a20f/?i=3&erid=2bL9aMPo2e49hMef4rqxsS2res"
+  }
+]

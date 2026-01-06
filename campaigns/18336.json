@@ -1,0 +1,49 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 18336,
+      "name": "ChicMe WW",
+      "site_url": "https://www.chicme.com/"
+    },
+    "description": "",
+    "short_name": "OVER $98 EXTRA 15% OFF",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-10-28T00:00:00",
+    "id": 749565,
+    "regions": [
+      "00"
+    ],
+    "discount": "15%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/9/30/18336-16313399a7473b4b.png",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      },
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "OVER $98 EXTRA 15% OFF",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ADMITAD015",
+    "frameset_link": "https://rzekl.com/coupon/bwigqqqjqz5af0702a27312b8f391a/",
+    "goto_link": "https://rzekl.com/g/cd3rfcselm5af0702a27312b8f391a/?i=3"
+  }
+]

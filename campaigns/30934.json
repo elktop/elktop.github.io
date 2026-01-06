@@ -1,0 +1,45 @@
+[
+  {
+    "status": "active",
+    "rating": "1.68",
+    "campaign": {
+      "id": 30934,
+      "name": "sushishop.ru",
+      "site_url": "https://sushishop.ru"
+    },
+    "description": "",
+    "short_name": "Раздел акций",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-02-01T18:01:26",
+    "id": 516062,
+    "regions": [
+      "RU"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/1/17/30934-8b1d59765b22500f.jpg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Раздел акций",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://ewwhk.com/coupon/fmuwh3jyif5af0702a2768c261a740/?erid=2bL9aMPo2e49hMef4pfyeVwR7e",
+    "goto_link": "https://ewwhk.com/g/jeb0r27ces5af0702a2768c261a740/?i=3&erid=2bL9aMPo2e49hMef4pfyeVwR7e"
+  }
+]

@@ -1,0 +1,565 @@
+[
+  {
+    "status": "active",
+    "rating": "7.64",
+    "campaign": {
+      "id": 20158,
+      "name": "Фитомаркет Эвалар",
+      "site_url": "https://fitomarket.ru/"
+    },
+    "description": "",
+    "short_name": "Скидка 15% распространяется на весь ассортимент Фитомаркет, суммируется с текущими скидками на сайте",
+    "exclusive": false,
+    "date_end": "2026-01-31T23:59:00",
+    "date_start": "2025-12-18T00:00:00",
+    "id": 892258,
+    "regions": [
+      "RU"
+    ],
+    "discount": "15%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/9/21/20158-37338d5e53a2ced5.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      },
+      {
+        "id": 189,
+        "name": "New Year Festival 2026"
+      }
+    ],
+    "name": "Скидка 15% распространяется на весь ассортимент Фитомаркет, суммируется с текущими скидками на сайте",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ADMITAD15",
+    "frameset_link": "https://bywiola.com/coupon/2ideu27apy5af0702a2766084fa431/?erid=2bL9aMPo2e49hMef4rqy6YbBQu",
+    "goto_link": "https://bywiola.com/g/5u29x9zq965af0702a2766084fa431/?i=3&erid=2bL9aMPo2e49hMef4rqy6YbBQu"
+  },
+  {
+    "status": "active",
+    "rating": "1.16",
+    "campaign": {
+      "id": 20158,
+      "name": "Фитомаркет Эвалар",
+      "site_url": "https://fitomarket.ru/"
+    },
+    "description": "Коллаген для поддержания красоты кожи, волос и суставов изнутри. Компонент помогает сохранить уровень упругости и увлажнения кожи, поддерживать гибкость суставов, что особенно актуально в период жаркой и сухой погоды. Успейте заказать по скидке! \r\n\r\nВысокие скидки активны пока товар есть в наличии.",
+    "short_name": "Коллаген со скидкой до 50% для волос, кожи и суставов",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-03-28T09:00:00",
+    "id": 679465,
+    "regions": [
+      "RU"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/9/21/20158-37338d5e53a2ced5.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Коллаген со скидкой до 50% для волос, кожи и суставов",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://bywiola.com/coupon/96jmxaauwg5af0702a2766084fa431/?erid=2bL9aMPo2e49hMef4phUk3NbVF",
+    "goto_link": "https://bywiola.com/g/gr91lrbag05af0702a2766084fa431/?i=3&erid=2bL9aMPo2e49hMef4phUk3NbVF"
+  },
+  {
+    "status": "active",
+    "rating": "2.10",
+    "campaign": {
+      "id": 20158,
+      "name": "Фитомаркет Эвалар",
+      "site_url": "https://fitomarket.ru/"
+    },
+    "description": "Всем зарегистрировавшимся клиентам начисляем бонусные баллы за каждую покупку и отзывы о товарах (1 балл = 1 рубль). Баллы начисляются в размере 5% от суммы каждой покупки (любого товара). Оплатить баллами можно до 50% стоимости товара, но не менее 1 (одного) рубля общей стоимости покупки. Полностью детали можно прочитать в правилах Бонусной программы на сайте fitomarket.ru",
+    "short_name": "Получите кэшбэк 5% и баллы за отзывы",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-03-28T09:00:00",
+    "id": 679454,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/9/21/20158-37338d5e53a2ced5.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Получите кэшбэк 5% и баллы за отзывы",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://bywiola.com/coupon/qbt66cqrlo5af0702a2766084fa431/?erid=2bL9aMPo2e49hMef4phUk3NGh2",
+    "goto_link": "https://bywiola.com/g/lzhm5uxa9u5af0702a2766084fa431/?i=3&erid=2bL9aMPo2e49hMef4phUk3NGh2"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 20158,
+      "name": "Фитомаркет Эвалар",
+      "site_url": "https://fitomarket.ru/"
+    },
+    "description": "",
+    "short_name": "Бесплатная доставка по всей России при заказе от 999р.",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-11-18T09:00:00",
+    "id": 604178,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/9/21/20158-37338d5e53a2ced5.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Бесплатная доставка по всей России при заказе от 999р.",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://bywiola.com/coupon/9l0qg5lfnz5af0702a2766084fa431/?erid=2bL9aMPo2e49hMef4pgVYSMkjS",
+    "goto_link": "https://bywiola.com/g/z67oci3zph5af0702a2766084fa431/?i=3&erid=2bL9aMPo2e49hMef4pgVYSMkjS"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 20158,
+      "name": "Фитомаркет Эвалар",
+      "site_url": "https://fitomarket.ru/"
+    },
+    "description": "",
+    "short_name": "Скидки до 50% на ОМЕГА-3 для зрения, работы сердца и мозга",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-09-08T09:00:00",
+    "id": 581316,
+    "regions": [
+      "RU"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/9/21/20158-37338d5e53a2ced5.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Скидки до 50% на ОМЕГА-3 для зрения, работы сердца и мозга",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://bywiola.com/coupon/99ntq3kpha5af0702a2766084fa431/?erid=2bL9aMPo2e49hMef4pgUypcYhW",
+    "goto_link": "https://bywiola.com/g/rh0l3tc24o5af0702a2766084fa431/?i=3&erid=2bL9aMPo2e49hMef4pgUypcYhW"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 20158,
+      "name": "Фитомаркет Эвалар",
+      "site_url": "https://fitomarket.ru/"
+    },
+    "description": "",
+    "short_name": "Скидки до 55% на протеин - для тех кто в спорте",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-09-08T09:00:00",
+    "id": 581315,
+    "regions": [
+      "RU"
+    ],
+    "discount": "45%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/9/21/20158-37338d5e53a2ced5.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Скидки до 55% на протеин - для тех кто в спорте",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://bywiola.com/coupon/vhqn7po5k25af0702a2766084fa431/?erid=2bL9aMPo2e49hMef4pgUypcYhV",
+    "goto_link": "https://bywiola.com/g/b94dbg0rjj5af0702a2766084fa431/?i=3&erid=2bL9aMPo2e49hMef4pgUypcYhV"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 20158,
+      "name": "Фитомаркет Эвалар",
+      "site_url": "https://fitomarket.ru/"
+    },
+    "description": "",
+    "short_name": "Скидки до 50% на товары для детей",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-09-08T09:00:00",
+    "id": 581286,
+    "regions": [
+      "RU"
+    ],
+    "discount": "60%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/9/21/20158-37338d5e53a2ced5.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Скидки до 50% на товары для детей",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://bywiola.com/coupon/mrnj62di2u5af0702a2766084fa431/?erid=2bL9aMPo2e49hMef4pgUypcYUG",
+    "goto_link": "https://bywiola.com/g/hkz0for73q5af0702a2766084fa431/?i=3&erid=2bL9aMPo2e49hMef4pgUypcYUG"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 20158,
+      "name": "Фитомаркет Эвалар",
+      "site_url": "https://fitomarket.ru/"
+    },
+    "description": "",
+    "short_name": "Скидки до 60% на продукты для здорового питания (суперфуды, чай, клетчатка и пр)",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-09-08T09:00:00",
+    "id": 581284,
+    "regions": [
+      "RU"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/9/21/20158-37338d5e53a2ced5.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Скидки до 60% на продукты для здорового питания (суперфуды, чай, клетчатка и пр)",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://bywiola.com/coupon/s181rmp2115af0702a2766084fa431/?erid=2bL9aMPo2e49hMef4pgUypcYPz",
+    "goto_link": "https://bywiola.com/g/zqt1q9n4fv5af0702a2766084fa431/?i=3&erid=2bL9aMPo2e49hMef4pgUypcYPz"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 20158,
+      "name": "Фитомаркет Эвалар",
+      "site_url": "https://fitomarket.ru/"
+    },
+    "description": "",
+    "short_name": "Спортивное питание со скидками до 55%",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-09-08T09:00:00",
+    "id": 581283,
+    "regions": [
+      "RU"
+    ],
+    "discount": "55%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/9/21/20158-37338d5e53a2ced5.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Спортивное питание со скидками до 55%",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://bywiola.com/coupon/sovjifcq7x5af0702a2766084fa431/?erid=2bL9aMPo2e49hMef4pgUypcYPy",
+    "goto_link": "https://bywiola.com/g/0stts2ovql5af0702a2766084fa431/?i=3&erid=2bL9aMPo2e49hMef4pgUypcYPy"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 20158,
+      "name": "Фитомаркет Эвалар",
+      "site_url": "https://fitomarket.ru/"
+    },
+    "description": "",
+    "short_name": "Скидки до 65% на косметику",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-09-08T09:00:00",
+    "id": 581282,
+    "regions": [
+      "RU"
+    ],
+    "discount": "65%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/9/21/20158-37338d5e53a2ced5.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Скидки до 65% на косметику",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://bywiola.com/coupon/5ny6156jy05af0702a2766084fa431/?erid=2bL9aMPo2e49hMef4pgUypcYPx",
+    "goto_link": "https://bywiola.com/g/zhp9drl9345af0702a2766084fa431/?i=3&erid=2bL9aMPo2e49hMef4pgUypcYPx"
+  },
+  {
+    "status": "active",
+    "rating": "2.25",
+    "campaign": {
+      "id": 20158,
+      "name": "Фитомаркет Эвалар",
+      "site_url": "https://fitomarket.ru/"
+    },
+    "description": "",
+    "short_name": "Витамины и БАД со скидками до 70%",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-09-08T09:00:00",
+    "id": 581281,
+    "regions": [
+      "RU"
+    ],
+    "discount": "70%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/9/21/20158-37338d5e53a2ced5.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Витамины и БАД со скидками до 70%",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://bywiola.com/coupon/1kcc3qltxs5af0702a2766084fa431/?erid=2bL9aMPo2e49hMef4pgUypcYPw",
+    "goto_link": "https://bywiola.com/g/3j4wad5uai5af0702a2766084fa431/?i=3&erid=2bL9aMPo2e49hMef4pgUypcYPw"
+  },
+  {
+    "status": "active",
+    "rating": "1.76",
+    "campaign": {
+      "id": 20158,
+      "name": "Фитомаркет Эвалар",
+      "site_url": "https://fitomarket.ru/"
+    },
+    "description": "",
+    "short_name": "НАРУШЕННАЯ УПАКОВКА скидки до 60%!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-02-06T16:27:53",
+    "id": 517369,
+    "regions": [
+      "RU"
+    ],
+    "discount": "60%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/9/21/20158-37338d5e53a2ced5.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "НАРУШЕННАЯ УПАКОВКА скидки до 60%!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://bywiola.com/coupon/9xdz9g13mx5af0702a2766084fa431/?erid=2bL9aMPo2e49hMef4pfyks6fTv",
+    "goto_link": "https://bywiola.com/g/v96lcmz0se5af0702a2766084fa431/?i=3&erid=2bL9aMPo2e49hMef4pfyks6fTv"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 20158,
+      "name": "Фитомаркет Эвалар",
+      "site_url": "https://fitomarket.ru/"
+    },
+    "description": "",
+    "short_name": "Новинки от Эвалар 2025 со скидками до 30%",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-02-06T16:22:11",
+    "id": 517362,
+    "regions": [
+      "RU"
+    ],
+    "discount": "30%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/9/21/20158-37338d5e53a2ced5.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Новинки от Эвалар 2025 со скидками до 30%",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://bywiola.com/coupon/48ieum8gvv5af0702a2766084fa431/?erid=2bL9aMPo2e49hMef4pfyks6fTo",
+    "goto_link": "https://bywiola.com/g/5z8zswuk1j5af0702a2766084fa431/?i=3&erid=2bL9aMPo2e49hMef4pfyks6fTo"
+  }
+]

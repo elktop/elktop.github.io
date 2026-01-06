@@ -1,0 +1,131 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 42158,
+      "name": "Ridmi UA",
+      "site_url": "https://ridmi.com.ua/"
+    },
+    "description": "Безкоштовна доставка при замовленні від 5000 грн.",
+    "short_name": "Безкоштовна доставка при замовленні від 5000 грн.",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-04-22T16:05:11",
+    "id": 847724,
+    "regions": [
+      "UA"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/10/17/42158-3f1937c76eda253a.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 14,
+        "name": "Books"
+      }
+    ],
+    "name": "Безкоштовна доставка при замовленні від 5000 грн.",
+    "language": "ua",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "",
+    "goto_link": "https://xnmik.com/g/kk00uduztm5af0702a27dc1723da5b/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 42158,
+      "name": "Ridmi UA",
+      "site_url": "https://ridmi.com.ua/"
+    },
+    "description": "Для клієнтів, що зробили протягом року покупки на суму понад 10 000 грн, застосовується персональна знижка від 7%",
+    "short_name": "Персональна знижка від 7%",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-01-31T22:53:37",
+    "id": 832649,
+    "regions": [
+      "UA"
+    ],
+    "discount": "7%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/10/17/42158-3f1937c76eda253a.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 14,
+        "name": "Books"
+      }
+    ],
+    "name": "Персональна знижка від 7%",
+    "language": "ua",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "",
+    "goto_link": "https://xnmik.com/g/7odq0eaucj5af0702a27dc1723da5b/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 42158,
+      "name": "Ridmi UA",
+      "site_url": "https://ridmi.com.ua/"
+    },
+    "description": "Книги різних жанрів зі знижками до -30%",
+    "short_name": "Книги різних жанрів зі знижками до -30%",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-09-20T00:00:00",
+    "id": 786915,
+    "regions": [
+      "UA"
+    ],
+    "discount": "30%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/10/17/42158-3f1937c76eda253a.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 14,
+        "name": "Books"
+      }
+    ],
+    "name": "Книги різних жанрів зі знижками до -30%",
+    "language": "ua",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "",
+    "goto_link": "https://xnmik.com/g/mg50t7q3345af0702a27dc1723da5b/?i=3"
+  }
+]

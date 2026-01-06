@@ -1,0 +1,131 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 45373,
+      "name": "BUNGLY",
+      "site_url": "https://bungly.ru/"
+    },
+    "description": "",
+    "short_name": "Big Sale до 40%",
+    "exclusive": false,
+    "date_end": "2026-01-25T23:59:00",
+    "date_start": "2025-12-16T00:00:00",
+    "id": 892085,
+    "regions": [
+      "RU"
+    ],
+    "discount": "40%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/2/12/45373-f9f637ad734d0736.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 1,
+        "name": "Toys, Kids & Babies"
+      }
+    ],
+    "name": "Big Sale до 40%",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://rkdro.com/g/pne582igkf5af0702a2747b5c02a03/?i=3&erid=2bL9aMPo2e49hMef4rqy6YZVn3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 45373,
+      "name": "BUNGLY",
+      "site_url": "https://bungly.ru/"
+    },
+    "description": "",
+    "short_name": "OUTLET со скидками до -50%",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-10-09T11:12:26",
+    "id": 878382,
+    "regions": [
+      "RU"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/2/12/45373-f9f637ad734d0736.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 1,
+        "name": "Toys, Kids & Babies"
+      }
+    ],
+    "name": "OUTLET со скидками до -50%",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://rkdro.com/g/z958ma7ow65af0702a2747b5c02a03/?i=3&erid=2bL9aMPo2e49hMef4rqUzzqaPc"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 45373,
+      "name": "BUNGLY",
+      "site_url": "https://bungly.ru/"
+    },
+    "description": "",
+    "short_name": "Бесплатная доставка от 10000 р.",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-03-22T15:36:32",
+    "id": 677894,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/2/12/45373-f9f637ad734d0736.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 1,
+        "name": "Toys, Kids & Babies"
+      }
+    ],
+    "name": "Бесплатная доставка от 10000 р.",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://rkdro.com/g/wdzxowef0v5af0702a2747b5c02a03/?i=3&erid=2bL9aMPo2e49hMef4phUdgDgUA"
+  }
+]

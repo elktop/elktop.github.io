@@ -1,0 +1,45 @@
+[
+  {
+    "status": "active",
+    "rating": "8.58",
+    "campaign": {
+      "id": 18904,
+      "name": "justfood",
+      "site_url": "https://www.justfood.pro/"
+    },
+    "description": "",
+    "short_name": "Скидка 1500р при покупке от 5 дней на любую программу",
+    "exclusive": false,
+    "date_end": "2026-12-31T23:59:00",
+    "date_start": "2024-04-22T00:00:00",
+    "id": 749525,
+    "regions": [
+      "RU"
+    ],
+    "discount": "1 500 ₽",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/5/27/18904-9688558adcd9e51c.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Скидка 1500р при покупке от 5 дней на любую программу",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "admitad",
+    "frameset_link": "",
+    "goto_link": "https://zallj.com/g/qn4tjtog9n5af0702a272c0087287e/?i=3&erid=2bL9aMPo2e49hMef4phyQ8PSLb"
+  }
+]

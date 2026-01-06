@@ -1,0 +1,92 @@
+[
+  {
+    "status": "active",
+    "rating": "9.40",
+    "campaign": {
+      "id": 26006,
+      "name": "Askent",
+      "site_url": "https://askent.ru"
+    },
+    "description": "промо не применяется на товар с скидкой и подарочные наборы",
+    "short_name": "-10% по промокоду ASK",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-05-31T08:11:33",
+    "id": 548625,
+    "regions": [
+      "RU"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/2/28/26006-8a017402fa1695ab.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      }
+    ],
+    "name": "-10% по промокоду ASK",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ASK",
+    "frameset_link": "https://ficca2021.com/coupon/r3zs4hb18x5af0702a276e00fa9874/?erid=5jtCeReNwxHpfQTFuwmiD3e",
+    "goto_link": "https://ficca2021.com/g/rjxlqw9qhr5af0702a276e00fa9874/?i=3&erid=5jtCeReNwxHpfQTFuwmiD3e"
+  },
+  {
+    "status": "active",
+    "rating": "5.59",
+    "campaign": {
+      "id": 26006,
+      "name": "Askent",
+      "site_url": "https://askent.ru"
+    },
+    "description": "",
+    "short_name": "Бесплатная доставка по России при заказе от 4 000 руб!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2022-02-11T13:24:40",
+    "id": 433412,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/2/28/26006-8a017402fa1695ab.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      },
+      {
+        "id": 10,
+        "name": "Watches & Jewelry"
+      }
+    ],
+    "name": "Бесплатная доставка по России при заказе от 4 000 руб!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://ficca2021.com/coupon/aro7mrks8f5af0702a276e00fa9874/?erid=5jtCeReNwxHpfQTEucW2AW9",
+    "goto_link": "https://ficca2021.com/g/7lvylknuj35af0702a276e00fa9874/?i=3&erid=5jtCeReNwxHpfQTEucW2AW9"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 26664,
+      "name": "zaochnik",
+      "site_url": "https://zaochnik.ru/"
+    },
+    "description": "",
+    "short_name": "Скидка 10% скидка на заказ",
+    "exclusive": false,
+    "date_end": "2026-12-31T23:59:00",
+    "date_start": "2025-12-29T14:53:00",
+    "id": 893801,
+    "regions": [
+      "BY",
+      "RU",
+      "UA"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/10/19/26664-45402df390a29890.jpg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 22,
+        "name": "Online Education"
+      }
+    ],
+    "name": "Скидка 10% скидка на заказ",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "adm10",
+    "frameset_link": "https://cafxq.com/coupon/bzcdc8j2we5af0702a276853a97b34/?erid=2bL9aMPo2e49hMef4rqyCwC4Sf",
+    "goto_link": "https://cafxq.com/g/zgq9mcrbgg5af0702a276853a97b34/?i=3&erid=2bL9aMPo2e49hMef4rqyCwC4Sf"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 26664,
+      "name": "zaochnik",
+      "site_url": "https://zaochnik.ru/"
+    },
+    "description": "",
+    "short_name": "Скидка 300 руб при внесении предоплаты за заказ",
+    "exclusive": false,
+    "date_end": "2026-12-31T23:59:00",
+    "date_start": "2025-12-29T14:53:00",
+    "id": 893800,
+    "regions": [
+      "BY",
+      "RU",
+      "UA"
+    ],
+    "discount": "300 ₽",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/10/19/26664-45402df390a29890.jpg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 22,
+        "name": "Online Education"
+      }
+    ],
+    "name": "Скидка 300 руб при внесении предоплаты за заказ",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "adm300",
+    "frameset_link": "https://cafxq.com/coupon/lx01mqlum25af0702a276853a97b34/?erid=2bL9aMPo2e49hMef4rqyCwC4Se",
+    "goto_link": "https://cafxq.com/g/g1zt2ddbut5af0702a276853a97b34/?i=3&erid=2bL9aMPo2e49hMef4rqyCwC4Se"
+  }
+]

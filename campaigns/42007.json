@@ -1,0 +1,45 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 42007,
+      "name": "ACredit CPS KZ",
+      "site_url": "https://acredit.kz/"
+    },
+    "description": "Каждую неделю мы будем случайным образом выбирать одного победителя с помощью генератора чисел. Победителю будет полностью списан микрокредит.\r\n\r\n\r\nКак принять участие в акции?\r\n\r\n- Получите или отсрочите (реструктуризируйте) микрокредит минимум на 10 дней в период проведения акции.\r\n- Подпишитесь на наш Instagram и оставайтесь активными.",
+    "short_name": "Выгода в подарок - списание каждую неделю!",
+    "exclusive": false,
+    "date_end": "2026-10-01T23:59:00",
+    "date_start": "2025-10-06T00:00:00",
+    "id": 878144,
+    "regions": [
+      "KZ"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/9/8/42007-ec4d6c4424a317ed.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 15,
+        "name": "Finance & Insurance"
+      }
+    ],
+    "name": "Выгода в подарок - списание каждую неделю!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://bywiola.com/g/yv1ly13lb55af0702a27838ab0aac0/?i=3"
+  }
+]

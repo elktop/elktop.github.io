@@ -1,0 +1,346 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 29608,
+      "name": "garlyn.ru",
+      "site_url": "https://garlyn.ru/"
+    },
+    "description": "Подпишитесь и получите скидку 500₽",
+    "short_name": "Скидка 500 рублей!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-09-11T10:45:38",
+    "id": 796417,
+    "regions": [
+      "RU"
+    ],
+    "discount": "500 ₽",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/3/13/29608-c50b9bfffca13db6.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Скидка 500 рублей!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://flcoz.com/coupon/9tkant2dw25af0702a27cb35fbf9c6/?erid=2bL9aMPo2e49hMef4piUAjUnvj",
+    "goto_link": "https://flcoz.com/g/93zxeckma75af0702a27cb35fbf9c6/?i=3&erid=2bL9aMPo2e49hMef4piUAjUnvj"
+  },
+  {
+    "status": "active",
+    "rating": "4.76",
+    "campaign": {
+      "id": 29608,
+      "name": "garlyn.ru",
+      "site_url": "https://garlyn.ru/"
+    },
+    "description": "",
+    "short_name": "Фен GARLYN Air Lux со скидкой -34%!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-01-31T14:27:51",
+    "id": 628380,
+    "regions": [
+      "RU"
+    ],
+    "discount": "34%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/3/13/29608-c50b9bfffca13db6.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Фен GARLYN Air Lux со скидкой -34%!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://flcoz.com/coupon/ppyuq10lq85af0702a27cb35fbf9c6/?erid=2bL9aMPo2e49hMef4pgz68jgkV",
+    "goto_link": "https://flcoz.com/g/lhvar98ryn5af0702a27cb35fbf9c6/?i=3&erid=2bL9aMPo2e49hMef4pgz68jgkV"
+  },
+  {
+    "status": "active",
+    "rating": "5.18",
+    "campaign": {
+      "id": 29608,
+      "name": "garlyn.ru",
+      "site_url": "https://garlyn.ru/"
+    },
+    "description": "",
+    "short_name": "Фен GARLYN Hair Pro 5 со скидкой -25%!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-01-31T14:26:03",
+    "id": 628379,
+    "regions": [
+      "RU"
+    ],
+    "discount": "25%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/3/13/29608-c50b9bfffca13db6.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Фен GARLYN Hair Pro 5 со скидкой -25%!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://flcoz.com/coupon/pd68umr9385af0702a27cb35fbf9c6/?erid=2bL9aMPo2e49hMef4pgz68jgkU",
+    "goto_link": "https://flcoz.com/g/kkl1cmjag55af0702a27cb35fbf9c6/?i=3&erid=2bL9aMPo2e49hMef4pgz68jgkU"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 29608,
+      "name": "garlyn.ru",
+      "site_url": "https://garlyn.ru/"
+    },
+    "description": "Художники GARLYN создадут и разработают для Вас индивидуальный дизайн любимой техники.",
+    "short_name": "PREMIUM - Закажите собственный дизайн техники!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-10-12T00:00:00",
+    "id": 593062,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/3/13/29608-c50b9bfffca13db6.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "PREMIUM - Закажите собственный дизайн техники!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://flcoz.com/coupon/gp0931r3ne5af0702a27cb35fbf9c6/?erid=2bL9aMPo2e49hMef4pgVCxerWg",
+    "goto_link": "https://flcoz.com/g/osmy1hkfn05af0702a27cb35fbf9c6/?i=3&erid=2bL9aMPo2e49hMef4pgVCxerWg"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 29608,
+      "name": "garlyn.ru",
+      "site_url": "https://garlyn.ru/"
+    },
+    "description": "Комплект: Робот-пылесос GARLYN SR-800 Max + Мойка воздуха GARLYN AirWash V40 со скидкой 15 000р.",
+    "short_name": "Комплект с выгодой 15 000 ₽!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-10-12T00:00:00",
+    "id": 593060,
+    "regions": [
+      "RU"
+    ],
+    "discount": "15 000 ₽",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/3/13/29608-c50b9bfffca13db6.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Комплект с выгодой 15 000 ₽!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://flcoz.com/coupon/vb2ixocivl5af0702a27cb35fbf9c6/?erid=2bL9aMPo2e49hMef4pgVCxerWe",
+    "goto_link": "https://flcoz.com/g/5ucvftgqms5af0702a27cb35fbf9c6/?i=3&erid=2bL9aMPo2e49hMef4pgVCxerWe"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 29608,
+      "name": "garlyn.ru",
+      "site_url": "https://garlyn.ru/"
+    },
+    "description": "Получайте 5% в виде бонусных рублей с каждой покупки продукции GARLYN и 10% с покупки посуды ZEPTER\r\nБонусные рубли будут начислены после покупки\r\nСрок действия – 6 месяцев после начисления.\r\n\r\nКАК ПОТРАТИТЬ\r\nОплачивайте бонусными рублями до 50% от стоимости покупки.\r\nБонусные рубли не суммируются с другими скидками, акциями и спецпредложениями.\r\nНе распространяются на покупку подарочных сертификатов, аксессуаров, чистящих средств, кофе GARLYN и оплату доставки.\r\nПри оформлении заказа юридическим лицом бонусные рубли не начисляются.",
+    "short_name": "5% бонусных рублей с каждой покупки продукции GARLYN и 10% с покупки посуды ZEPTER!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-10-12T15:00:46",
+    "id": 593058,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/3/13/29608-c50b9bfffca13db6.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "5% бонусных рублей с каждой покупки продукции GARLYN и 10% с покупки посуды ZEPTER!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://flcoz.com/coupon/co4shlg8u95af0702a27cb35fbf9c6/?erid=2bL9aMPo2e49hMef4pgVCxerWc",
+    "goto_link": "https://flcoz.com/g/lmz2x94ijm5af0702a27cb35fbf9c6/?i=3&erid=2bL9aMPo2e49hMef4pgVCxerWc"
+  },
+  {
+    "status": "active",
+    "rating": "8.96",
+    "campaign": {
+      "id": 29608,
+      "name": "garlyn.ru",
+      "site_url": "https://garlyn.ru/"
+    },
+    "description": "при заказе от 5 000 рублей",
+    "short_name": "Скидки 8%!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2022-12-16T00:00:00",
+    "id": 507327,
+    "regions": [
+      "RU"
+    ],
+    "discount": "8%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/3/13/29608-c50b9bfffca13db6.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Скидки 8%!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "admitad",
+    "frameset_link": "https://flcoz.com/coupon/2ugxxdmtzj5af0702a27cb35fbf9c6/?erid=2bL9aMPo2e49hMef4pfVZBY334",
+    "goto_link": "https://flcoz.com/g/9mb3c8vwa45af0702a27cb35fbf9c6/?i=3&erid=2bL9aMPo2e49hMef4pfVZBY334"
+  },
+  {
+    "status": "active",
+    "rating": "8.98",
+    "campaign": {
+      "id": 29608,
+      "name": "garlyn.ru",
+      "site_url": "https://garlyn.ru/"
+    },
+    "description": "Скидка 500 рублей на первую покупку по промокоду!",
+    "short_name": "Скидка 500 рублей!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-01-27T00:00:00",
+    "id": 500210,
+    "regions": [
+      "RU"
+    ],
+    "discount": "500 ₽",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/3/13/29608-c50b9bfffca13db6.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Скидка 500 рублей!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "LOVEGARLYN",
+    "frameset_link": "https://flcoz.com/coupon/9wb2vi7xzs5af0702a27cb35fbf9c6/?erid=2bL9aMPo2e49hMef4pfVSTddUb",
+    "goto_link": "https://flcoz.com/g/7svb1r5nas5af0702a27cb35fbf9c6/?i=3&erid=2bL9aMPo2e49hMef4pfVSTddUb"
+  }
+]

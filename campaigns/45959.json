@@ -1,0 +1,53 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 45959,
+      "name": "1-ofd.ru",
+      "site_url": "https://www.1-ofd.ru/"
+    },
+    "description": "",
+    "short_name": "Три месяца использования за 0 рублей.",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-05-24T16:45:36",
+    "id": 758963,
+    "regions": [
+      "RU"
+    ],
+    "discount": "1%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      },
+      {
+        "id": 1,
+        "name": "Free delivery"
+      },
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/12/26/45959-fa18f3a98b6ed577.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "Три месяца использования за 0 рублей.",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://zallj.com/g/26xq91g05e5af0702a27b17e829c53/?i=3&erid=2bL9aMPo2e49hMef4phydBz7BF"
+  }
+]

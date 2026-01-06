@@ -1,0 +1,217 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 17045,
+      "name": "РИГЛА",
+      "site_url": "https://www.rigla.ru/"
+    },
+    "description": "Акция проводится в аптеках бренда «Ригла». При применении карты лояльности действует скидка 10% и начисляется бонусами кешбэк 10%. 1 бонус = 1 рублю. Кешбэк – базовые бонусы, которые начисляются на карту лояльности клиента в рамках программы лояльности «Аптечная семья». Ассортимент акции, размер скидки в аптеках и на сайте может отличаться. Подробные условия применения скидки указаны на сайте.",
+    "short_name": "-10% на Инфатрини и Нутридринк!",
+    "exclusive": false,
+    "date_end": "2026-01-31T00:00:00",
+    "date_start": "2025-12-23T00:00:00",
+    "id": 892816,
+    "regions": [
+      "RU"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2022/4/22/17045-994123553e9ab5b2.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "-10% на Инфатрини и Нутридринк!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRE",
+    "frameset_link": "https://zallj.com/coupon/jjapvu79ua5af0702a275b4157882f/?erid=2bL9aMPo2e49hMef4rqy6bWoc4",
+    "goto_link": "https://zallj.com/g/708eomf54n5af0702a275b4157882f/?i=3&erid=2bL9aMPo2e49hMef4rqy6bWoc4"
+  },
+  {
+    "status": "active",
+    "rating": "6.46",
+    "campaign": {
+      "id": 17045,
+      "name": "РИГЛА",
+      "site_url": "https://www.rigla.ru/"
+    },
+    "description": "Акция проводится в период с 15.12.2025 по 31.01.2026 в аптеках бренда «Ригла». При применении карты лояльности на акционный ассортимент действует скидка до 40% и начисляется бонусами кешбэк 10%. 1 бонус = 1 рублю. Кешбэк – базовые бонусы, которые начисляются на карту лояльности клиента в рамках программы лояльности «Аптечная семья». Ассортимент акции, размер скидки в аптеках, на сайте и в мобильном приложении может отличаться. Подробные условия применения скидки указаны на сайте www.rigla.ru",
+    "short_name": "Новогодняя распродажа 40%",
+    "exclusive": false,
+    "date_end": "2026-01-31T23:59:00",
+    "date_start": "2025-12-15T00:00:00",
+    "id": 891582,
+    "regions": [
+      "RU"
+    ],
+    "discount": "40%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2022/4/22/17045-994123553e9ab5b2.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Новогодняя распродажа 40%",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://zallj.com/coupon/pjpdstu9ch5af0702a275b4157882f/?erid=2bL9aMPo2e49hMef4rqy6X5WGV",
+    "goto_link": "https://zallj.com/g/3dx58x8jbl5af0702a275b4157882f/?i=3&erid=2bL9aMPo2e49hMef4rqy6X5WGV"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 17045,
+      "name": "РИГЛА",
+      "site_url": "https://www.rigla.ru/"
+    },
+    "description": "Позаботьтесь о здоровье пищеварения с выгодой — Метабиотик со скидкой 20%.",
+    "short_name": "Скидка 20% на комплекс для нормализации микрофлоры кишечника!",
+    "exclusive": false,
+    "date_end": "2026-01-31T00:00:00",
+    "date_start": "2025-12-10T00:00:00",
+    "id": 891228,
+    "regions": [
+      "RU"
+    ],
+    "discount": "20%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2022/4/22/17045-994123553e9ab5b2.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Скидка 20% на комплекс для нормализации микрофлоры кишечника!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRE",
+    "frameset_link": "https://zallj.com/coupon/6anrt7a9uo5af0702a275b4157882f/?erid=2bL9aMPo2e49hMef4rqy6U8tAR",
+    "goto_link": "https://zallj.com/g/x9eotbpwmt5af0702a275b4157882f/?i=3&erid=2bL9aMPo2e49hMef4rqy6U8tAR"
+  },
+  {
+    "status": "active",
+    "rating": "3.59",
+    "campaign": {
+      "id": 17045,
+      "name": "РИГЛА",
+      "site_url": "https://www.rigla.ru/"
+    },
+    "description": "Скидка 20% на акционный ассортимент. Успейте совершить выгодные покупки.",
+    "short_name": "Новогодние скидки!",
+    "exclusive": false,
+    "date_end": "2026-01-11T00:00:00",
+    "date_start": "2025-12-10T00:00:00",
+    "id": 891225,
+    "regions": [
+      "RU"
+    ],
+    "discount": "20%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2022/4/22/17045-994123553e9ab5b2.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Новогодние скидки!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRE",
+    "frameset_link": "https://zallj.com/coupon/ad95taz9ah5af0702a275b4157882f/?erid=2bL9aMPo2e49hMef4rqy6U8tAN",
+    "goto_link": "https://zallj.com/g/osnzpjne1j5af0702a275b4157882f/?i=3&erid=2bL9aMPo2e49hMef4rqy6U8tAN"
+  },
+  {
+    "status": "active",
+    "rating": "0.94",
+    "campaign": {
+      "id": 17045,
+      "name": "РИГЛА",
+      "site_url": "https://www.rigla.ru/"
+    },
+    "description": "Дарим 700 бонусов всем новым клиентам!\r\nКарта лояльности «Аптечная семья» оформляется бесплатно.\r\n\r\n300 бонусов сразу за оформление карты лояльности в аптеке, на сайте или в мобильном приложении и подписку на уведомления (E-mail и/или Push), 200 бонусов за первую покупку в течение 15 дней после получения карты, 200 бонусов за вторую покупку в течение 15 дней после первой покупки.\r\nВажно знать: При подписке на push убедитесь, что у вас включены уведомления от приложения «Ригла» в настройках вашего телефона. При подписке на e-mail проверьте корректность указанного вами e-mail адреса.\r\n\r\nКак потратить бонусы? У каждого начисления срок действия 15 дней с даты получения. Оплачивайте бонусами до 30% стоимости покупки. Используйте бонусы при покупке любых товаров, кроме исключений. Проверить баланс можно в личном кабинете на сайте, в мобильном приложении или в аптеке. Бонусы начисляются однократно, при отмене и повторном разрешении на уведомления бонусы не начисляются.\r\n\r\nС картой лояльности «Аптечная семья» покупать выгодно!",
+    "short_name": "Велком-бонусы новым клиентам!",
+    "exclusive": false,
+    "date_end": "2026-12-31T23:59:00",
+    "date_start": "2025-11-25T00:00:00",
+    "id": 884688,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2022/4/22/17045-994123553e9ab5b2.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Велком-бонусы новым клиентам!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://zallj.com/coupon/x65euq91vo5af0702a275b4157882f/?erid=2bL9aMPo2e49hMef4rqxsS2ror",
+    "goto_link": "https://zallj.com/g/8thlsb9n8t5af0702a275b4157882f/?i=3&erid=2bL9aMPo2e49hMef4rqxsS2ror"
+  }
+]

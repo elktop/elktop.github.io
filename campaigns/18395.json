@@ -1,0 +1,217 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 18395,
+      "name": "GeekBrains",
+      "site_url": "https://gb.ru"
+    },
+    "description": "https://gb.ru/sale?from=main_banner)",
+    "short_name": "9% скидка к текущей скидке (сейчас в декабре скидка до 69% и 3 курса в подарок",
+    "exclusive": false,
+    "date_end": "2026-01-11T23:59:00",
+    "date_start": "2025-12-15T00:00:00",
+    "id": 890934,
+    "regions": [
+      "RU"
+    ],
+    "discount": "9%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/9/30/18395-7cd3143d24f2a50c.png",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 189,
+        "name": "New Year Festival 2026"
+      }
+    ],
+    "name": "9% скидка к текущей скидке (сейчас в декабре скидка до 69% и 3 курса в подарок",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ADMITADNY",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/tbnfe2zve95af0702a2765a37ca03d/?i=3&erid=2bL9aMPo2e49hMef4rqxyx6N6g"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 18395,
+      "name": "GeekBrains",
+      "site_url": "https://gb.ru"
+    },
+    "description": "",
+    "short_name": "доп скидка 7% на заказ",
+    "exclusive": false,
+    "date_end": "2026-01-31T23:59:00",
+    "date_start": "2025-04-18T00:00:00",
+    "id": 847098,
+    "regions": [
+      "RU"
+    ],
+    "discount": "7%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/9/30/18395-7cd3143d24f2a50c.png",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 22,
+        "name": "Online Education"
+      }
+    ],
+    "name": "доп скидка 7% на заказ",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "admitad",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/zg0f5doges5af0702a2765a37ca03d/?i=3&erid=2bL9aMPo2e49hMef4rqUDC6kR6"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 18395,
+      "name": "GeekBrains",
+      "site_url": "https://gb.ru"
+    },
+    "description": "Акция действует на покупку курсов детского образования GeekSchool",
+    "short_name": "Купи любой курс GeekSchool и получи 2 курса в подарок",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-01-20T08:38:09",
+    "id": 513097,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/9/30/18395-7cd3143d24f2a50c.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 22,
+        "name": "Online Education"
+      }
+    ],
+    "name": "Купи любой курс GeekSchool и получи 2 курса в подарок",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/zabi6ukbwq5af0702a2765a37ca03d/?i=3&erid=2bL9aMPo2e49hMef4pfVnDdPMR"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 18395,
+      "name": "GeekBrains",
+      "site_url": "https://gb.ru"
+    },
+    "description": "Акция действует на покупку курсов со страницы SALE",
+    "short_name": "Купи любой курс Geekbrains  и получи 5 курсов бесплатно на сумму 146000 р",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-01-20T08:35:09",
+    "id": 513096,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/9/30/18395-7cd3143d24f2a50c.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 22,
+        "name": "Online Education"
+      }
+    ],
+    "name": "Купи любой курс Geekbrains  и получи 5 курсов бесплатно на сумму 146000 р",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/7ar7681kja5af0702a2765a37ca03d/?i=3&erid=2bL9aMPo2e49hMef4pfVnDdPMQ"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 18395,
+      "name": "GeekBrains",
+      "site_url": "https://gb.ru"
+    },
+    "description": "Записываясь на любой курс, пользователь получает бонус: бесплатный доступ на год к курсу по английскому языку, составленному по уникальной методике \"КЭСПА\" на отдельной собственной платформе. Актуально для любого уровня владения языком.",
+    "short_name": "Купи любой курс и получи курс по английскому языку бесплатно!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2022-10-10T10:11:36",
+    "id": 489070,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/9/30/18395-7cd3143d24f2a50c.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 22,
+        "name": "Online Education"
+      }
+    ],
+    "name": "Купи любой курс и получи курс по английскому языку бесплатно!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/p4wvhg6qsj5af0702a2765a37ca03d/?i=3&erid=2bL9aMPo2e49hMef4pfV71NhGc"
+  }
+]

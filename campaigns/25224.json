@@ -1,0 +1,174 @@
+[
+  {
+    "status": "active",
+    "rating": "9.25",
+    "campaign": {
+      "id": 25224,
+      "name": "Яндекс.Путешествия",
+      "site_url": "https://travel.yandex.ru/"
+    },
+    "description": "Применяется ко всем заказам с датой начала путешествия от 01.01.2026 любых пользователей в мобильном приложении",
+    "short_name": "Скидка 1 000 рублей на заказ от 10 000 рублей",
+    "exclusive": false,
+    "date_end": "2026-01-31T23:59:00",
+    "date_start": "2025-11-25T00:00:00",
+    "id": 884756,
+    "regions": [
+      "RU"
+    ],
+    "discount": "1 000 ₽",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/5/16/25224-dcc2c153a070ebf9.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 12,
+        "name": "Tours & Travels"
+      }
+    ],
+    "name": "Скидка 1 000 рублей на заказ от 10 000 рублей",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ADM-ALL1000",
+    "frameset_link": "https://uknty.com/coupon/yst3yx2w8w5af0702a276b3b8b6079/?erid=2bL9aMPo2e49hMef4rqxsS3Xr7",
+    "goto_link": "https://uknty.com/g/khv4jq71up5af0702a276b3b8b6079/?i=3&erid=2bL9aMPo2e49hMef4rqxsS3Xr7"
+  },
+  {
+    "status": "active",
+    "rating": "8.39",
+    "campaign": {
+      "id": 25224,
+      "name": "Яндекс.Путешествия",
+      "site_url": "https://travel.yandex.ru/"
+    },
+    "description": "Забронируйте отель с предоплатой от 1 ₽ и зафиксируйте стоимость проживания. Перед путешествием пришлём СМС, чтобы напомнить о финальной оплате.\r\n\r\nКстати, на бронирование с отложенным платежом также распространяется кешбэк — возвращаем до 20% баллами Плюса.",
+    "short_name": "Забронируйте отель с предоплатой от 1₽",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-12-21T12:15:18",
+    "id": 619930,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/5/16/25224-dcc2c153a070ebf9.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 12,
+        "name": "Tours & Travels"
+      }
+    ],
+    "name": "Забронируйте отель с предоплатой от 1₽",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://uknty.com/coupon/bayplhyjr05af0702a276b3b8b6079/?erid=5jtCeReNwxHpfQTGu2resF6",
+    "goto_link": "https://uknty.com/g/i5tf32e9yd5af0702a276b3b8b6079/?i=3&erid=5jtCeReNwxHpfQTGu2resF6"
+  },
+  {
+    "status": "active",
+    "rating": "6.52",
+    "campaign": {
+      "id": 25224,
+      "name": "Яндекс.Путешествия",
+      "site_url": "https://travel.yandex.ru/"
+    },
+    "description": "Яндекс Путешествия запустили программу лояльности: чем больше отелей бронирует пользователь, тем больше кешбэка он получает! Кешбэк начисляется в виде баллов Яндекс Плюса, которые можно тратить на поездки или использовать в других сервисах Яндекса.\r\n \r\nВ программе предусмотрено 4 уровня: те, кто только начал пользоваться сервисом, будут получать до 5% кешбэка, а активные клиенты Путешествий — до 20%.\r\nХорошая новость: для того, чтобы достичь первого уровня, не потребуется ни одного бронирования! Кешбэк 5% уже ждёт пользователей Путешествий.\r\n\r\n*Обращаем ваше внимание на то, что в программе лояльности не участвуют бронирования, в которых применяется промокод",
+    "short_name": "Кешбэк до 20%",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-10-12T16:19:09",
+    "id": 593100,
+    "regions": [
+      "RU"
+    ],
+    "discount": "20%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/5/16/25224-dcc2c153a070ebf9.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 12,
+        "name": "Tours & Travels"
+      }
+    ],
+    "name": "Кешбэк до 20%",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://uknty.com/coupon/y2d3j4icg45af0702a276b3b8b6079/?erid=5jtCeReNwxHpfQTGQiNkYXf",
+    "goto_link": "https://uknty.com/g/e8n9apefqc5af0702a276b3b8b6079/?i=3&erid=5jtCeReNwxHpfQTGQiNkYXf"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 25224,
+      "name": "Яндекс.Путешествия",
+      "site_url": "https://travel.yandex.ru/"
+    },
+    "description": "Если вам нравятся комфортные путешествия под стук колёс, рекомендуем отправиться в поездку на ретропоезде. Это старые паровозы, которые тянут туристические поезда по уникальным маршрутам. Каждая поездка на ретропоезде — это страница истории страны.",
+    "short_name": "Ретропоезда",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2022-12-09T18:34:35",
+    "id": 506871,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/5/16/25224-dcc2c153a070ebf9.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 12,
+        "name": "Tours & Travels"
+      }
+    ],
+    "name": "Ретропоезда",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://uknty.com/coupon/fe245xafta5af0702a276b3b8b6079/?erid=5jtCeReNwxHpfQTFR4Ygkhm",
+    "goto_link": "https://uknty.com/g/lhp1156x555af0702a276b3b8b6079/?i=3&erid=5jtCeReNwxHpfQTFR4Ygkhm"
+  }
+]

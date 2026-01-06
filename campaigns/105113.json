@@ -1,0 +1,88 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 105113,
+      "name": "ANECOLE RU",
+      "site_url": "https://anecole.com/"
+    },
+    "description": "",
+    "short_name": "Скидка 25% на первую покупку",
+    "exclusive": true,
+    "date_end": "2026-01-11T23:59:00",
+    "date_start": "2025-12-15T00:00:00",
+    "id": 891375,
+    "regions": [
+      "RU"
+    ],
+    "discount": "25%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/7/17/105113-c97ea7f3d88d347d.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 22,
+        "name": "Online Education"
+      }
+    ],
+    "name": "Скидка 25% на первую покупку",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ADM",
+    "frameset_link": "",
+    "goto_link": "https://rkdro.com/g/54wduaxqvi5af0702a27c493b9e3d9/?i=3&erid=2bL9aMPo2e49hMef4rqy6VbXDS"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 105113,
+      "name": "ANECOLE RU",
+      "site_url": "https://anecole.com/"
+    },
+    "description": "",
+    "short_name": "Скидка 20%",
+    "exclusive": false,
+    "date_end": "2026-12-31T23:59:00",
+    "date_start": "2025-12-26T13:19:00",
+    "id": 820162,
+    "regions": [
+      "RU"
+    ],
+    "discount": "20%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/7/17/105113-c97ea7f3d88d347d.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 22,
+        "name": "Online Education"
+      }
+    ],
+    "name": "Скидка 20%",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "УЧИСЬ",
+    "frameset_link": "",
+    "goto_link": "https://rkdro.com/g/6kq4x995z45af0702a27c493b9e3d9/?i=3&erid=2bL9aMPo2e49hMef4piUjXYtSb"
+  }
+]

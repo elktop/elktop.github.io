@@ -1,0 +1,530 @@
+[
+  {
+    "status": "active",
+    "rating": "7.37",
+    "campaign": {
+      "id": 22320,
+      "name": "BeFit",
+      "site_url": "https://letbefit.ru/"
+    },
+    "description": "-2026 рублей на первый заказ\r\n15 декабря 2025 – 11 января",
+    "short_name": "-2026 рублей на первый заказ",
+    "exclusive": false,
+    "date_end": "2026-01-31T23:59:00",
+    "date_start": "2025-12-15T00:00:00",
+    "id": 891183,
+    "regions": [
+      "RU"
+    ],
+    "discount": "2 026 ₽",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/10/15/22320-c9f0495221a967d3.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      },
+      {
+        "id": 189,
+        "name": "New Year Festival 2026"
+      }
+    ],
+    "name": "-2026 рублей на первый заказ",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ADMBF2026",
+    "frameset_link": "",
+    "goto_link": "https://uuwgc.com/g/xmev4xmv5o5af0702a27fcd3300043/?i=3&erid=2bL9aMPo2e49hMef4rqy6U7sLX"
+  },
+  {
+    "status": "active",
+    "rating": "6.89",
+    "campaign": {
+      "id": 22320,
+      "name": "BeFit",
+      "site_url": "https://letbefit.ru/"
+    },
+    "description": "Только на первый заказ.",
+    "short_name": "Спецпромокод на максимальную выгоду! \r\n-2000 руб + скидка за подписку!",
+    "exclusive": false,
+    "date_end": "2026-01-31T23:59:00",
+    "date_start": "2025-12-17T17:33:00",
+    "id": 890989,
+    "regions": [
+      "RU"
+    ],
+    "discount": "2 000 ₽",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/10/15/22320-c9f0495221a967d3.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Спецпромокод на максимальную выгоду! \r\n-2000 руб + скидка за подписку!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "TPROMO2000",
+    "frameset_link": "",
+    "goto_link": "https://uuwgc.com/g/1mkgypsxs95af0702a27fcd3300043/?i=3&erid=2bL9aMPo2e49hMef4rqxyx738z"
+  },
+  {
+    "status": "active",
+    "rating": "7.34",
+    "campaign": {
+      "id": 22320,
+      "name": "BeFit",
+      "site_url": "https://letbefit.ru/"
+    },
+    "description": "",
+    "short_name": "Скидка 15%",
+    "exclusive": false,
+    "date_end": "2026-01-31T23:59:00",
+    "date_start": "2025-12-17T17:33:00",
+    "id": 878101,
+    "regions": [
+      "RU"
+    ],
+    "discount": "15%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/10/15/22320-c9f0495221a967d3.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Скидка 15%",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ADM15",
+    "frameset_link": "",
+    "goto_link": "https://uuwgc.com/g/nibm9lt9ya5af0702a27fcd3300043/?i=3&erid=2bL9aMPo2e49hMef4rqUtgfJX8"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 22320,
+      "name": "BeFit",
+      "site_url": "https://letbefit.ru/"
+    },
+    "description": "Скидки по другим акциям и купонам не суммируются.",
+    "short_name": "Скидка 5% на питание при заказе любой программы на 2 недели.",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-04-21T21:05:17",
+    "id": 847420,
+    "regions": [
+      "RU"
+    ],
+    "discount": "5%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/10/15/22320-c9f0495221a967d3.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Скидка 5% на питание при заказе любой программы на 2 недели.",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://uuwgc.com/g/m3pf0x3yyp5af0702a27fcd3300043/?i=3&erid=2bL9aMPo2e49hMef4rqUDDaQSj"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 22320,
+      "name": "BeFit",
+      "site_url": "https://letbefit.ru/"
+    },
+    "description": "Подписка на рацион с оплатой по частям - это удобно! Оплачивайте 1 раз в неделю с вашей банковской карты. Скидки по другим акциям и купонам не суммируются. Подписку можно отменить в любой момент.",
+    "short_name": "Скидка 14% на питание при заказе любой программы на 2 месяца.",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-04-21T21:04:32",
+    "id": 847419,
+    "regions": [
+      "RU"
+    ],
+    "discount": "14%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/10/15/22320-c9f0495221a967d3.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Скидка 14% на питание при заказе любой программы на 2 месяца.",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://uuwgc.com/g/r37bvmxvoj5af0702a27fcd3300043/?i=3&erid=2bL9aMPo2e49hMef4rqUDDaQSi"
+  },
+  {
+    "status": "active",
+    "rating": "0.50",
+    "campaign": {
+      "id": 22320,
+      "name": "BeFit",
+      "site_url": "https://letbefit.ru/"
+    },
+    "description": "",
+    "short_name": "Дарим скидку 11% на первый заказ в Мобильном приложении\r\nпромокод: MOBADM",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-02-02T14:22:38",
+    "id": 832657,
+    "regions": [
+      "RU"
+    ],
+    "discount": "11%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/10/15/22320-c9f0495221a967d3.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Дарим скидку 11% на первый заказ в Мобильном приложении\r\nпромокод: MOBADM",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "MOBADM",
+    "frameset_link": "",
+    "goto_link": "https://uuwgc.com/g/7mo9whws595af0702a27fcd3300043/?i=3&erid=2bL9aMPo2e49hMef4piUxfbBoD"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 22320,
+      "name": "BeFit",
+      "site_url": "https://letbefit.ru/"
+    },
+    "description": "Подписка на рацион с оплатой по частям - это удобно! Оплачивайте 1 раз в неделю с вашей банковской карты. Скидки по другим акциям и купонам не суммируются. Подписку можно отменить в любой момент.",
+    "short_name": "Скидка 10% на питание при заказе любой программы на 2 месяца.",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-02-02T14:19:00",
+    "id": 832656,
+    "regions": [
+      "RU"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/10/15/22320-c9f0495221a967d3.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Скидка 10% на питание при заказе любой программы на 2 месяца.",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://uuwgc.com/g/69e089v3s15af0702a27fcd3300043/?i=3&erid=2bL9aMPo2e49hMef4piUxfbBix"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 22320,
+      "name": "BeFit",
+      "site_url": "https://letbefit.ru/"
+    },
+    "description": "- Вы оставляете отзыв с фотографией еды/пакета, которые мы Вам привезли, в любой из соцсетей\r\n- Ссылку на отзыв присылаете в наш WhatsApp.\r\n- Мы обрабатываем и присваиваем Вам 500 баллов за каждый уникальный отзыв!\r\n- Отзыв можно публиковать не более 1 раза в неделю",
+    "short_name": "Оставляйте отзывы и получайте 500 баллов!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-08-28T15:18:53",
+    "id": 791804,
+    "regions": [
+      "RU"
+    ],
+    "discount": "500 ₽",
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/10/15/22320-c9f0495221a967d3.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Оставляйте отзывы и получайте 500 баллов!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://uuwgc.com/g/nd6nwq0yd25af0702a27fcd3300043/?i=3&erid=2bL9aMPo2e49hMef4piU4EvGNa"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 22320,
+      "name": "BeFit",
+      "site_url": "https://letbefit.ru/"
+    },
+    "description": "- Вы делаете заказ и рекомендуете наш сервис Вашим друзьям и знакомым.\r\n- Ваш знакомый, делая заказ, называет Ваш контактный телефон или e-mail адрес.\r\n- Вы и Ваш друг получаете до 1500 бонусных баллов на свои счета!",
+    "short_name": "Рекомендуйте нас друзьям и получайте до 1500 бонусных баллов на свои счета!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-08-28T15:17:17",
+    "id": 791803,
+    "regions": [
+      "RU"
+    ],
+    "discount": "1 500 ₽",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      },
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/10/15/22320-c9f0495221a967d3.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Рекомендуйте нас друзьям и получайте до 1500 бонусных баллов на свои счета!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://uuwgc.com/g/9gy39aneno5af0702a27fcd3300043/?i=3&erid=2bL9aMPo2e49hMef4piU4EvGNZ"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 22320,
+      "name": "BeFit",
+      "site_url": "https://letbefit.ru/"
+    },
+    "description": "- За заказ курса на 5 или 7 дней — 100 бонусных балов на счет\r\n- За два курса подряд — получи 5% скидку сразу и еще 200 баллов на Ваш счет.\r\n- За четыре курса подряд — получи скидку 7,5% сразу и 400 баллов на счет",
+    "short_name": "Бонусная программа для наших клиентов!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-08-28T15:15:22",
+    "id": 791802,
+    "regions": [
+      "RU"
+    ],
+    "discount": "7%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      },
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/10/15/22320-c9f0495221a967d3.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Бонусная программа для наших клиентов!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://uuwgc.com/g/ab75fgivh05af0702a27fcd3300043/?i=3&erid=2bL9aMPo2e49hMef4piU4EvGNY"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 22320,
+      "name": "BeFit",
+      "site_url": "https://letbefit.ru/"
+    },
+    "description": "При заказе любой программы питания на месяц - скидка 7,5% !! Скидки по другим акциям и промокодам не суммируются.",
+    "short_name": "Скидка 7,5% при заказе на месяц!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-02-02T14:19:00",
+    "id": 791801,
+    "regions": [
+      "RU"
+    ],
+    "discount": "7%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/10/15/22320-c9f0495221a967d3.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Скидка 7,5% при заказе на месяц!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://uuwgc.com/g/s8krsn7dhw5af0702a27fcd3300043/?i=3&erid=2bL9aMPo2e49hMef4piU4EvGNX"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 22320,
+      "name": "BeFit",
+      "site_url": "https://letbefit.ru/"
+    },
+    "description": "Подписка на рацион с оплатой по частям - это удобно! Оплачивайте 1 раз в неделю с вашей банковской карты. Скидки по другим акциям и купонам не суммируются. Подписку можно отменить в любой момент.",
+    "short_name": "Скидка 18% на питание при заказе любой программы на 4 месяца.",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-02-02T14:19:00",
+    "id": 791800,
+    "regions": [
+      "RU"
+    ],
+    "discount": "18%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/10/15/22320-c9f0495221a967d3.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Скидка 18% на питание при заказе любой программы на 4 месяца.",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://uuwgc.com/g/ftzuia06zr5af0702a27fcd3300043/?i=3&erid=2bL9aMPo2e49hMef4piU4EvGNW"
+  }
+]

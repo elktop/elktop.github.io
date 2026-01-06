@@ -1,0 +1,88 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 21892,
+      "name": "Круиз.онлайн RU",
+      "site_url": "https://kruiz.online/"
+    },
+    "description": "- Новая возможность для продаж в Саудовскую Аравию! Круиз без виз! Отмена виз между Россией и Саудовской Аравией открывает направление, которое ранее было сложно продавать. Теперь маршруты через Саудовскую Аравию становятся проще, доступнее и заметнее для туристов, ищущих тёплый, необычный Восток.Это отличный момент, чтобы занять нишу первым: заходы в Саудовскую Аравию без визы были невозможны ещё до марта 2024, теперь — можно.",
+    "short_name": "скидки до 24% и розыгрыш призов на Новый год!",
+    "exclusive": false,
+    "date_end": "2026-01-31T23:59:00",
+    "date_start": "2025-12-09T00:00:00",
+    "id": 891190,
+    "regions": [
+      "RU"
+    ],
+    "discount": "24%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/9/4/21892-41504baef4f201da.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 12,
+        "name": "Tours & Travels"
+      }
+    ],
+    "name": "скидки до 24% и розыгрыш призов на Новый год!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://ujhjj.com/g/ybksvcwbse5af0702a27c29ca9d9f1/?i=3&erid=2bL9aMPo2e49hMef4rqy6U8DCa"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 21892,
+      "name": "Круиз.онлайн RU",
+      "site_url": "https://kruiz.online/"
+    },
+    "description": "- Распространяется только на новые бронирования при условии 100% оплаты в течение 5 рабочих или 7 календарных дней.\r\n- Совместима только с акцией «Два плюс один!» и не суммируется с другими акциями и скидками (за исключением детского тарифа).\r\n- Не распространяется на теплоход партнёра «Иван Бунин».",
+    "short_name": "«Лучшее предложение дня!» скидки 20%",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-06-30T14:39:05",
+    "id": 859890,
+    "regions": [
+      "RU"
+    ],
+    "discount": "20%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/9/4/21892-41504baef4f201da.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 12,
+        "name": "Tours & Travels"
+      }
+    ],
+    "name": "«Лучшее предложение дня!» скидки 20%",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://ujhjj.com/g/5ed19iyudd5af0702a27c29ca9d9f1/?i=3&erid=2bL9aMPo2e49hMef4rqUSS6h4m"
+  }
+]

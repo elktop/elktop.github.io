@@ -1,0 +1,58 @@
+[
+  {
+    "status": "active",
+    "rating": "9.90",
+    "campaign": {
+      "id": 33754,
+      "name": "AMAZING ONLINE [CPP] RU+CIS",
+      "site_url": "https://amazing-online.com/"
+    },
+    "description": "",
+    "short_name": "Mercedes-Benz G65 W463 (в лизинг)",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-05-21T18:16:31",
+    "id": 758067,
+    "regions": [
+      "AM",
+      "AZ",
+      "BY",
+      "EE",
+      "GE",
+      "KG",
+      "KZ",
+      "LT",
+      "LV",
+      "MD",
+      "RU",
+      "TJ",
+      "TM",
+      "UZ"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/3/20/33754-9450f03997edc72b.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 19,
+        "name": "Games"
+      }
+    ],
+    "name": "Mercedes-Benz G65 W463 (в лизинг)",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "AMAZING65",
+    "frameset_link": "",
+    "goto_link": "https://rzekl.com/g/ji7u2g7nii5af0702a27c065b8a873/?i=3&erid=2bL9aMPo2e49hMef4phyWrHAUg"
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "status": "active",
+    "rating": "2.68",
+    "campaign": {
+      "id": 87484,
+      "name": "Post Meridiem ​​​​​​​",
+      "site_url": "https://postmeridiem-brand.com/"
+    },
+    "description": "",
+    "short_name": "-3% по промокоду!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-05-17T11:59:14",
+    "id": 757261,
+    "regions": [
+      "RU"
+    ],
+    "discount": "3%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/2/16/87484-26b8b75a3dbc3355.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "-3% по промокоду!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "PostMeridiemWelcome",
+    "frameset_link": "",
+    "goto_link": "https://axavl.com/g/tfvxzzvpo95af0702a2709bc5899e5/?i=3&erid=2bL9aMPo2e49hMef4phyWmtECC"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 21788,
+      "name": "Otus",
+      "site_url": "https://otus.ru/"
+    },
+    "description": "",
+    "short_name": "Бесплатные вебинары от OTUS!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2020-04-29T17:46:21",
+    "id": 311913,
+    "regions": [
+      "AM",
+      "AZ",
+      "BY",
+      "EE",
+      "KZ",
+      "LT",
+      "LV",
+      "MD",
+      "RU",
+      "TJ",
+      "TM",
+      "UZ"
+    ],
+    "discount": "1%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/5/14/21788-82d5022e6e0e1970.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      },
+      {
+        "id": 22,
+        "name": "Online Education"
+      }
+    ],
+    "name": "Бесплатные вебинары от OTUS!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://rzekl.com/g/or8udkpf775af0702a2772de1a383e/?i=3&erid=MvGzQC98w3Z1gMq1owbSdgfj"
+  }
+]

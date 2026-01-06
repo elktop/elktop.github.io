@@ -1,0 +1,88 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 18326,
+      "name": "Инглекс",
+      "site_url": "https://englex.ru/"
+    },
+    "description": "Действует на первую покупку от 10 уроков с русскоязычным преподавателем.",
+    "short_name": "Добавляет 3 урока к любому пакету занятий",
+    "exclusive": false,
+    "date_end": "2026-01-31T23:59:00",
+    "date_start": "2025-09-23T00:00:00",
+    "id": 876106,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2022/12/21/18326-569d501842d9f94d.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 22,
+        "name": "Online Education"
+      }
+    ],
+    "name": "Добавляет 3 урока к любому пакету занятий",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ADMITAD3",
+    "frameset_link": "",
+    "goto_link": "https://xpuvo.com/g/ttrbfcxkdp5af0702a2747fc997f9b/?i=3&erid=2bL9aMPo2e49hMef4rqUtakMm3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 18326,
+      "name": "Инглекс",
+      "site_url": "https://englex.ru/"
+    },
+    "description": "Предложение не суммируется с другими акциями.\r\n\r\nПромокод ADMITAD/start40 (можно выбрать любой).",
+    "short_name": "Скидка 40% на первую покупку уроков английского с русскоязычным преподавателем",
+    "exclusive": false,
+    "date_end": "2026-01-31T23:59:00",
+    "date_start": "2025-05-13T00:00:00",
+    "id": 850510,
+    "regions": [
+      "RU"
+    ],
+    "discount": "40%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2022/12/21/18326-569d501842d9f94d.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 22,
+        "name": "Online Education"
+      }
+    ],
+    "name": "Скидка 40% на первую покупку уроков английского с русскоязычным преподавателем",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ADMITAD",
+    "frameset_link": "",
+    "goto_link": "https://xpuvo.com/g/ocgljnhmay5af0702a2747fc997f9b/?i=3&erid=2bL9aMPo2e49hMef4rqUDPxekG"
+  }
+]

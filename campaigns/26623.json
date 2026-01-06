@@ -1,0 +1,88 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 26623,
+      "name": "Zoohit CZ&SK",
+      "site_url": "https://www.zoohit.cz/"
+    },
+    "description": "",
+    "short_name": "Doprava ZDARMA pre NOVÝCH ZÁKAZNÍKOV!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-05-24T16:59:37",
+    "id": 546674,
+    "regions": [
+      "SK"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/5/24/26623-6c0d1047b2f1b43b.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 17,
+        "name": "Pet products"
+      }
+    ],
+    "name": "Doprava ZDARMA pre NOVÝCH ZÁKAZNÍKOV!",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "POSTOVNE",
+    "frameset_link": "https://rcpsj.com/coupon/7tcxztk4xi5af0702a27e88da1467f/",
+    "goto_link": "https://rcpsj.com/g/3d4zw99fx65af0702a27e88da1467f/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 26623,
+      "name": "Zoohit CZ&SK",
+      "site_url": "https://www.zoohit.cz/"
+    },
+    "description": "",
+    "short_name": "5% SLEVA na vše pro NOVÉ ZÁKAZNÍKY",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-05-24T16:58:38",
+    "id": 546672,
+    "regions": [
+      "CZ"
+    ],
+    "discount": "5%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/5/24/26623-6c0d1047b2f1b43b.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 17,
+        "name": "Pet products"
+      }
+    ],
+    "name": "5% SLEVA na vše pro NOVÉ ZÁKAZNÍKY",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "VSE-5",
+    "frameset_link": "https://rcpsj.com/coupon/w0egwhcc8l5af0702a27e88da1467f/",
+    "goto_link": "https://rcpsj.com/g/t2x5xxulu25af0702a27e88da1467f/?i=3"
+  }
+]

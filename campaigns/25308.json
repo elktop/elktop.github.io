@@ -1,0 +1,174 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 25308,
+      "name": "Restoll",
+      "site_url": "https://restoll.ru"
+    },
+    "description": "Покупатели получают скидку 8% на товары этой категории при использовании промокода..",
+    "short_name": "Скидка 2% на все!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-08-08T10:48:51",
+    "id": 570037,
+    "regions": [
+      "RU"
+    ],
+    "discount": "2%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/9/13/25308-8a70cbc5aef5982b.jpg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Скидка 2% на все!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ADM2",
+    "frameset_link": "https://naiawork.com/coupon/va72qfye8r5af0702a27376f2ee4c7/?erid=5jtCeReNwxHpfQTGQG6hwLU",
+    "goto_link": "https://naiawork.com/g/gzdvoheyz25af0702a27376f2ee4c7/?i=3&erid=5jtCeReNwxHpfQTGQG6hwLU"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 25308,
+      "name": "Restoll",
+      "site_url": "https://restoll.ru"
+    },
+    "description": "Покупатели получают скидку 8% на товары этой категории при использовании промокода..",
+    "short_name": "Скидка 8% на климатическое оборудование!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-08-08T10:08:56",
+    "id": 570030,
+    "regions": [
+      "RU"
+    ],
+    "discount": "8%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/9/13/25308-8a70cbc5aef5982b.jpg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Скидка 8% на климатическое оборудование!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "CLIM8",
+    "frameset_link": "https://naiawork.com/coupon/vdmvjw5nso5af0702a27376f2ee4c7/?erid=5jtCeReNwxHpfQTGQG6hbw6",
+    "goto_link": "https://naiawork.com/g/onricifczj5af0702a27376f2ee4c7/?i=3&erid=5jtCeReNwxHpfQTGQG6hbw6"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 25308,
+      "name": "Restoll",
+      "site_url": "https://restoll.ru"
+    },
+    "description": "Покупатели получают скидку 15% на товары этой категории при использовании промокода.",
+    "short_name": "Скидка 15% на посуду!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-08-08T10:07:36",
+    "id": 570029,
+    "regions": [
+      "RU"
+    ],
+    "discount": "15%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/9/13/25308-8a70cbc5aef5982b.jpg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Скидка 15% на посуду!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "POSUDA15",
+    "frameset_link": "https://naiawork.com/coupon/wacltcj3nk5af0702a27376f2ee4c7/?erid=5jtCeReNwxHpfQTGQG6hbw5",
+    "goto_link": "https://naiawork.com/g/4uyaqo5cq75af0702a27376f2ee4c7/?i=3&erid=5jtCeReNwxHpfQTGQG6hbw5"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 25308,
+      "name": "Restoll",
+      "site_url": "https://restoll.ru"
+    },
+    "description": "",
+    "short_name": "Распродажа б/у пароконвектоматов Rational",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2022-02-17T10:04:08",
+    "id": 434986,
+    "regions": [
+      "RU"
+    ],
+    "discount": "5%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/9/13/25308-8a70cbc5aef5982b.jpg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Распродажа б/у пароконвектоматов Rational",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://naiawork.com/coupon/mn9woeqt785af0702a27376f2ee4c7/?erid=5jtCeReNwxHpfQTEucaTo27",
+    "goto_link": "https://naiawork.com/g/2pe2a924q45af0702a27376f2ee4c7/?i=3&erid=5jtCeReNwxHpfQTEucaTo27"
+  }
+]

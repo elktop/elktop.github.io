@@ -1,0 +1,260 @@
+[
+  {
+    "status": "active",
+    "rating": "1.09",
+    "campaign": {
+      "id": 17220,
+      "name": "Tasty Coffee",
+      "site_url": "https://shop.tastycoffee.ru/"
+    },
+    "description": "Действует на чай и кофе, кроме сортов недели и месяца, мин. сумма заказа - 1000 р.",
+    "short_name": "Скидка 10% по купону!",
+    "exclusive": true,
+    "date_end": "2026-12-31T23:59:00",
+    "date_start": "2024-03-25T00:00:00",
+    "id": 678330,
+    "regions": [
+      "RU"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/5/11/17220-2ef89f8d806226bb.png",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Скидка 10% по купону!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "Admitad",
+    "frameset_link": "https://dkfrh.com/coupon/dzo25skjf85af0702a279ebcee8c5e/?erid=2bL9aMPo2e49hMef4phUdgFhtk",
+    "goto_link": "https://dkfrh.com/g/cqczjd6klb5af0702a279ebcee8c5e/?i=3&erid=2bL9aMPo2e49hMef4phUdgFhtk"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 17220,
+      "name": "Tasty Coffee",
+      "site_url": "https://shop.tastycoffee.ru/"
+    },
+    "description": "при покупке 6 пачек чая по 250 г",
+    "short_name": "Пачка чая в подарок на выбор",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2022-06-17T20:12:36",
+    "id": 462918,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/5/11/17220-2ef89f8d806226bb.png",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Пачка чая в подарок на выбор",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "не нужен",
+    "frameset_link": "https://dkfrh.com/coupon/85gx5l1zj15af0702a279ebcee8c5e/?erid=2bL9aMPo2e49hMef4peznRaRrs",
+    "goto_link": "https://dkfrh.com/g/1a03l49vq75af0702a279ebcee8c5e/?i=3&erid=2bL9aMPo2e49hMef4peznRaRrs"
+  },
+  {
+    "status": "active",
+    "rating": "0.14",
+    "campaign": {
+      "id": 17220,
+      "name": "Tasty Coffee",
+      "site_url": "https://shop.tastycoffee.ru/"
+    },
+    "description": "при покупке от 6 пачек кофе по 250 г",
+    "short_name": "Кофе, чай или аксессуары на выбор  в подарок",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2022-06-17T20:11:35",
+    "id": 462917,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/5/11/17220-2ef89f8d806226bb.png",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Кофе, чай или аксессуары на выбор  в подарок",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "не нужен",
+    "frameset_link": "https://dkfrh.com/coupon/lcuz6j4fkt5af0702a279ebcee8c5e/?erid=2bL9aMPo2e49hMef4peznRaRrr",
+    "goto_link": "https://dkfrh.com/g/8dk5ongndu5af0702a279ebcee8c5e/?i=3&erid=2bL9aMPo2e49hMef4peznRaRrr"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 17220,
+      "name": "Tasty Coffee",
+      "site_url": "https://shop.tastycoffee.ru/"
+    },
+    "description": "За каждые 1000 рублей в заказе вы получаете +1% к накопительной скидке на следующие заказы. Максимальная скидка — 15%\r\n\r\nСкидка увеличивается автоматически после получения заказа. Накопительная скидка не распространяется на сорта недели, сорта месяца и аксессуары и не суммируется с другими скидками.",
+    "short_name": "НАКОПИТЕЛЬНАЯ СИСТЕМА",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2022-06-17T20:09:50",
+    "id": 462916,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/5/11/17220-2ef89f8d806226bb.png",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "НАКОПИТЕЛЬНАЯ СИСТЕМА",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "не нужен",
+    "frameset_link": "https://dkfrh.com/coupon/r58z2fgirz5af0702a279ebcee8c5e/?erid=2bL9aMPo2e49hMef4peznRaRrq",
+    "goto_link": "https://dkfrh.com/g/bpzxds2xpg5af0702a279ebcee8c5e/?i=3&erid=2bL9aMPo2e49hMef4peznRaRrq"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 17220,
+      "name": "Tasty Coffee",
+      "site_url": "https://shop.tastycoffee.ru/"
+    },
+    "description": "Вввод промокода не требуется, акция распространяется на товары из категорий",
+    "short_name": "При покупке 6 пачек кофе 250г подарок на выбор: пачка кофе или пачка чая, или аксессуар из списка",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2019-04-12T00:00:00",
+    "id": 135538,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/5/11/17220-2ef89f8d806226bb.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "При покупке 6 пачек кофе 250г подарок на выбор: пачка кофе или пачка чая, или аксессуар из списка",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "https://dkfrh.com/coupon/5dmwo7878l5af0702a279ebcee8c5e/?erid=MvGzQC98w3Z1gMq1mwW49DBn",
+    "goto_link": "https://dkfrh.com/g/ypvihqsh515af0702a279ebcee8c5e/?i=3&erid=MvGzQC98w3Z1gMq1mwW49DBn"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 17220,
+      "name": "Tasty Coffee",
+      "site_url": "https://shop.tastycoffee.ru/"
+    },
+    "description": "Вввод промокода не требуется, акция распространяется на товары из категории чай",
+    "short_name": "При покупке 6 пачек чая 100г в подарок: +1 пачка чая в подарок",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2019-04-12T00:00:00",
+    "id": 135537,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/5/11/17220-2ef89f8d806226bb.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "При покупке 6 пачек чая 100г в подарок: +1 пачка чая в подарок",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "https://dkfrh.com/coupon/3f1f0lzmkw5af0702a279ebcee8c5e/?erid=MvGzQC98w3Z1gMq1mwW49DBm",
+    "goto_link": "https://dkfrh.com/g/fl5yxji2rt5af0702a279ebcee8c5e/?i=3&erid=MvGzQC98w3Z1gMq1mwW49DBm"
+  }
+]

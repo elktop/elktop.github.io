@@ -1,0 +1,92 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 29130,
+      "name": "Madwavenew",
+      "site_url": "https://www.madwave.ru/"
+    },
+    "description": "",
+    "short_name": "SALE до 50%",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-11-19T16:23:36",
+    "id": 814466,
+    "regions": [
+      "RU"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2022/8/17/29130-b5d88546fe3109e7.jpg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 6,
+        "name": "Sports & Recreation"
+      }
+    ],
+    "name": "SALE до 50%",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://ficca2021.com/coupon/m4fouwiua75af0702a2702f7474c98/?erid=2bL9aMPo2e49hMef4piUWYTBic",
+    "goto_link": "https://ficca2021.com/g/e78drkapma5af0702a2702f7474c98/?i=3&erid=2bL9aMPo2e49hMef4piUWYTBic"
+  },
+  {
+    "status": "active",
+    "rating": "9.03",
+    "campaign": {
+      "id": 29130,
+      "name": "Madwavenew",
+      "site_url": "https://www.madwave.ru/"
+    },
+    "description": "",
+    "short_name": "Скидка 25% на все товары",
+    "exclusive": false,
+    "date_end": "2026-01-15T23:59:00",
+    "date_start": "2025-12-10T13:02:00",
+    "id": 668892,
+    "regions": [
+      "RU"
+    ],
+    "discount": "25%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2022/8/17/29130-b5d88546fe3109e7.jpg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 6,
+        "name": "Sports & Recreation"
+      },
+      {
+        "id": 189,
+        "name": "New Year Festival 2026"
+      }
+    ],
+    "name": "Скидка 25% на все товары",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "admitad",
+    "frameset_link": "https://ficca2021.com/coupon/mc58838xb95af0702a2702f7474c98/?erid=2bL9aMPo2e49hMef4phUQcfgsd",
+    "goto_link": "https://ficca2021.com/g/7e1jv0cxxg5af0702a2702f7474c98/?i=3&erid=2bL9aMPo2e49hMef4phUQcfgsd"
+  }
+]

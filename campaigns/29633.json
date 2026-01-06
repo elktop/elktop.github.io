@@ -1,0 +1,131 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 29633,
+      "name": "Донинтурфлот",
+      "site_url": "https://doninturflot.com/"
+    },
+    "description": "- Участник должен быть зарегистрирован в программе лояльности «Донинтурфлот Бонус»\r\n- 3 000 рублей начисляются на ваш бонусный счет после того, как ваши друзья забронируют круиз. Воспользоваться бонусами можно будет после завершения их круиза.\r\n- Скидка 3 000 рублей предоставляется вашим друзьям при первом бронировании круиза с «Донинтурфлот», если они ранее не были пассажирами или покупателями компании «Донинтурфлот».\r\n- Акция распространяется только на новые бронирования.\r\n- Акция суммируется с другими акциями и скидками компании.\r\n- Акция не распространяется на круизы на теплоходе «Иван Бунин».",
+    "short_name": "3 000 рублей на бонусный счет по программе \"Приведи друга\"",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-04-24T16:28:19",
+    "id": 847985,
+    "regions": [
+      "RU"
+    ],
+    "discount": "3 000 ₽",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2022/10/17/29633-9a3fb7670f8900c2.jpg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 12,
+        "name": "Tours & Travels"
+      }
+    ],
+    "name": "3 000 рублей на бонусный счет по программе \"Приведи друга\"",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://ficca2021.com/coupon/yi9jj8b5xw5af0702a2711c78c3848/?erid=2bL9aMPo2e49hMef4rqUDF5QUP",
+    "goto_link": "https://ficca2021.com/g/ih8l6q8am75af0702a2711c78c3848/?i=3&erid=2bL9aMPo2e49hMef4rqUDF5QUP"
+  },
+  {
+    "status": "active",
+    "rating": "8.65",
+    "campaign": {
+      "id": 29633,
+      "name": "Донинтурфлот",
+      "site_url": "https://doninturflot.com/"
+    },
+    "description": "- Распространяется только на новые бронирования при условии 100% оплаты в течение 5 рабочих или 7 календарных дней.\r\n- Совместима только с акцией «Два плюс один!» и не суммируется с другими акциями и скидками (за исключением детского тарифа).\r\n- Не распространяется на теплоход партнёра «Иван Бунин».\r\n- Скидка по акции — 20%. Дополнительная скидка по Программе лояльности — от 3 до 5%.",
+    "short_name": "Скидка 25%",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-04-24T16:24:17",
+    "id": 847984,
+    "regions": [
+      "RU"
+    ],
+    "discount": "25%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2022/10/17/29633-9a3fb7670f8900c2.jpg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 12,
+        "name": "Tours & Travels"
+      }
+    ],
+    "name": "Скидка 25%",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://ficca2021.com/coupon/dwyump2ev65af0702a2711c78c3848/?erid=2bL9aMPo2e49hMef4rqUDF5QQ8",
+    "goto_link": "https://ficca2021.com/g/nc8f0q8tvv5af0702a2711c78c3848/?i=3&erid=2bL9aMPo2e49hMef4rqUDF5QQ8"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 29633,
+      "name": "Донинтурфлот",
+      "site_url": "https://doninturflot.com/"
+    },
+    "description": "В рамках данного предложения у клиентов есть отличный шанс взять с собой в путешествие ребенка практически бесплатно.\r\n\r\nНа теплоходах-пансионатах «Максим Литвинов», «Антон Чехов», «Сергей Дягилев», «Иван Бунин» и «Волга Стар» в каютах класса «Люкс 2М+» ребенок до 15 лет на дополнительном месте размещается бесплатно при условии оплаты питания ребенка в размере 1500 рублей в сутки.\r\n\r\nУсловия акции: акция распространяется только на новые бронирования круизов компании «Донинтурфлот». В акции участвуют круизы с любыми датами. Суммируется с акционными и индивидуальными скидками компании.",
+    "short_name": "Спецпредложение для путешественников с детьми «Два плюс один!»",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2022-11-17T15:36:18",
+    "id": 499677,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2022/10/17/29633-9a3fb7670f8900c2.jpg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 12,
+        "name": "Tours & Travels"
+      }
+    ],
+    "name": "Спецпредложение для путешественников с детьми «Два плюс один!»",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://ficca2021.com/coupon/5jhk7dcv8p5af0702a2711c78c3848/?erid=2bL9aMPo2e49hMef4pfVSS8HfN",
+    "goto_link": "https://ficca2021.com/g/u7g533hapf5af0702a2711c78c3848/?i=3&erid=2bL9aMPo2e49hMef4pfVSS8HfN"
+  }
+]

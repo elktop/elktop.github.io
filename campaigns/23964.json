@@ -1,0 +1,49 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 23964,
+      "name": "Italojewerly WW",
+      "site_url": "https://www.italojewelry.com/"
+    },
+    "description": "Promo code is required",
+    "short_name": "20% OFF sitewide",
+    "exclusive": true,
+    "date_end": null,
+    "date_start": "2025-02-17T09:24:14",
+    "id": 834346,
+    "regions": [
+      "00"
+    ],
+    "discount": "20%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/10/29/23964-32d8a4c3272c1cfe.png",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      },
+      {
+        "id": 10,
+        "name": "Watches & Jewelry"
+      }
+    ],
+    "name": "20% OFF sitewide",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ADMITAD20",
+    "frameset_link": "https://ad.admitad.com/coupon/8si0vo2f135af0702a2787e51e1a66/",
+    "goto_link": "https://ad.admitad.com/g/r9taba7ci15af0702a2787e51e1a66/?i=3"
+  }
+]

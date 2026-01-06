@@ -1,0 +1,45 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 30687,
+      "name": "Cocos-moscow.ru",
+      "site_url": "https://cocos-moscow.ru/"
+    },
+    "description": "",
+    "short_name": "5% скидка на заказ",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-09-18T10:13:09",
+    "id": 582921,
+    "regions": [
+      "RU"
+    ],
+    "discount": "5%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2022/12/1/30687-88ff24eb766ff4e4.jpg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "5% скидка на заказ",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "START",
+    "frameset_link": "https://ntzgd.com/coupon/tnr2q1y8ij5af0702a27c8a37829f9/?erid=5jtCeReNwxHpfQTGQbdNp7t",
+    "goto_link": "https://ntzgd.com/g/ytf4b35mb75af0702a27c8a37829f9/?i=3&erid=5jtCeReNwxHpfQTGQbdNp7t"
+  }
+]

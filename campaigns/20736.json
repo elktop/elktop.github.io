@@ -1,0 +1,174 @@
+[
+  {
+    "status": "active",
+    "rating": "2.43",
+    "campaign": {
+      "id": 20736,
+      "name": "sushi-master",
+      "site_url": "https://tyumen.sushi-master.ru/"
+    },
+    "description": "Не пересекается с другими скидками, промокодами, бонусными баллами и не распространяется на блюда по акции.",
+    "short_name": "Дарим скидку 20% на основное меню за первый заказ оформленный в НОВОМ приложении.",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-01-16T00:00:00",
+    "id": 624938,
+    "regions": [
+      "RU"
+    ],
+    "discount": "20%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2022/2/28/20736-c32ab475e73af6ae.jpg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Дарим скидку 20% на основное меню за первый заказ оформленный в НОВОМ приложении.",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "HELLOAPP",
+    "frameset_link": "https://dkfrh.com/coupon/q3tx1efbia5af0702a27aaf3a7e464/?erid=2bL9aMPo2e49hMef4pgyyWmtyn",
+    "goto_link": "https://dkfrh.com/g/0t12v91yrv5af0702a27aaf3a7e464/?i=3&erid=2bL9aMPo2e49hMef4pgyyWmtyn"
+  },
+  {
+    "status": "active",
+    "rating": "2.01",
+    "campaign": {
+      "id": 20736,
+      "name": "sushi-master",
+      "site_url": "https://tyumen.sushi-master.ru/"
+    },
+    "description": "",
+    "short_name": "Популярный ролл в подарок  за самовывоз",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-10-17T00:00:00",
+    "id": 593838,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2022/2/28/20736-c32ab475e73af6ae.jpg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Популярный ролл в подарок  за самовывоз",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ЗАБЕРУКАЛИФА",
+    "frameset_link": "https://dkfrh.com/coupon/2r858ne8ad5af0702a27aaf3a7e464/?erid=2bL9aMPo2e49hMef4pgVKJK7bA",
+    "goto_link": "https://dkfrh.com/g/5bl4q0d95e5af0702a27aaf3a7e464/?i=3&erid=2bL9aMPo2e49hMef4pgVKJK7bA"
+  },
+  {
+    "status": "active",
+    "rating": "2.68",
+    "campaign": {
+      "id": 20736,
+      "name": "sushi-master",
+      "site_url": "https://tyumen.sushi-master.ru/"
+    },
+    "description": "",
+    "short_name": "Кэшбек 15%  за самовывоз",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-10-17T00:00:00",
+    "id": 593836,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2022/2/28/20736-c32ab475e73af6ae.jpg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Кэшбек 15%  за самовывоз",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ЗАБЕРУ15",
+    "frameset_link": "https://dkfrh.com/coupon/iiuwsw2abo5af0702a27aaf3a7e464/?erid=2bL9aMPo2e49hMef4pgVKJK7b8",
+    "goto_link": "https://dkfrh.com/g/umdxxgpbcg5af0702a27aaf3a7e464/?i=3&erid=2bL9aMPo2e49hMef4pgVKJK7b8"
+  },
+  {
+    "status": "active",
+    "rating": "4.89",
+    "campaign": {
+      "id": 20736,
+      "name": "sushi-master",
+      "site_url": "https://tyumen.sushi-master.ru/"
+    },
+    "description": "Сет Запеченные Ходоки, БОЛЬШЕ ДВУХ КИЛОГРАММОВ всего за 2039 рублей: Филадельфия лайт сяке (8 шт.); Калифорния Эби с икрой (8 шт.); Оушен (8 шт.); Нежный с курицей (8 шт.); Оливье (8 шт.); Лава с крабом (8 шт.); Калифорния каппа маки с икрой (8 шт.); Футомаки чикен (10 шт.); Футомаки ясай (10 шт.) Калифорния каппа маки в кунжуте (8 шт.). И это еще далеко не все!;) Ищите новые цены на сайте с 19 мая в разделе «Сеты» с пометкой «Стало дешевле». Предложение не пересекается с другими скидками, промокодами и бонусными баллами. Не является публичной офертой. Выгодных покупок и приятного аппетита!",
+    "short_name": "Шокирующий ценопад в Суши Мастере!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2022-06-28T11:56:37",
+    "id": 465285,
+    "regions": [
+      "RU"
+    ],
+    "discount": "25%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2022/2/28/20736-c32ab475e73af6ae.jpg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Шокирующий ценопад в Суши Мастере!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://dkfrh.com/coupon/k0569ov0815af0702a27aaf3a7e464/?erid=2bL9aMPo2e49hMef4peznYzNj2",
+    "goto_link": "https://dkfrh.com/g/bol56miq7j5af0702a27aaf3a7e464/?i=3&erid=2bL9aMPo2e49hMef4peznYzNj2"
+  }
+]

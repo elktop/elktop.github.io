@@ -1,0 +1,88 @@
+[
+  {
+    "status": "active",
+    "rating": "8.04",
+    "campaign": {
+      "id": 11347,
+      "name": "Планета Спорт",
+      "site_url": "https://www.planeta-sport.ru/"
+    },
+    "description": "",
+    "short_name": "Товар дня со скидкой  -50%!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-06-07T14:38:12",
+    "id": 765888,
+    "regions": [
+      "RU"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/10/1/11347-40a91b60ee22488a.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 6,
+        "name": "Sports & Recreation"
+      }
+    ],
+    "name": "Товар дня со скидкой  -50%!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://grfpr.com/g/exk2w5q3605af0702a274dead8de0a/?i=3&erid=5jtCeReNwxHpfQTHuFCZvs2"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 11347,
+      "name": "Планета Спорт",
+      "site_url": "https://www.planeta-sport.ru/"
+    },
+    "description": "",
+    "short_name": "Скидки до -70% в разделе распродажи!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2019-04-03T09:21:17",
+    "id": 239921,
+    "regions": [
+      "RU"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/10/1/11347-40a91b60ee22488a.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 6,
+        "name": "Sports & Recreation"
+      }
+    ],
+    "name": "Скидки до -70% в разделе распродажи!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://grfpr.com/g/8v3pt46ymp5af0702a274dead8de0a/?i=3&erid=25H8d7vbP8SRTvJ4xiGndn"
+  }
+]

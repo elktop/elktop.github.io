@@ -1,0 +1,88 @@
+[
+  {
+    "status": "active",
+    "rating": "3.14",
+    "campaign": {
+      "id": 37980,
+      "name": "Mamash UA",
+      "site_url": "https://mamash.ua/"
+    },
+    "description": "-10% на першу покупку",
+    "short_name": "-10% на першу покупку",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-01-31T23:05:47",
+    "id": 832650,
+    "regions": [
+      "UA"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/6/23/37980-5f0bc39b25e03866.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "-10% на першу покупку",
+    "language": "ua",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "",
+    "goto_link": "https://bywiola.com/g/r92qjfkogo5af0702a272b2a4ed853/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 37980,
+      "name": "Mamash UA",
+      "site_url": "https://mamash.ua/"
+    },
+    "description": "",
+    "short_name": "Безкоштовна доставка Новою поштою при замовлені на суму від 1300 грн",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-06-23T17:20:03",
+    "id": 554348,
+    "regions": [
+      "UA"
+    ],
+    "discount": "1%",
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/6/23/37980-5f0bc39b25e03866.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Безкоштовна доставка Новою поштою при замовлені на суму від 1300 грн",
+    "language": "ua",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "",
+    "goto_link": "https://bywiola.com/g/9fw4ve42ty5af0702a272b2a4ed853/?i=3"
+  }
+]

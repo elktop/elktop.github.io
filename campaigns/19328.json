@@ -1,0 +1,281 @@
+[
+  {
+    "status": "active",
+    "rating": "0.53",
+    "campaign": {
+      "id": 19328,
+      "name": "online.globus.ru",
+      "site_url": "https://online.globus.ru/"
+    },
+    "description": null,
+    "short_name": "20% от 9990р на Хиты продаж",
+    "exclusive": true,
+    "date_end": "2026-02-28T23:59:59",
+    "date_start": "2025-12-27T00:00:00",
+    "id": 893716,
+    "regions": [
+      "RU"
+    ],
+    "discount": "20%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/11/30/19328-9341624c1b8afe28.png",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "20% от 9990р на Хиты продаж",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "adm226next",
+    "frameset_link": "https://dorinebeaumont.com/coupon/56pseogd5l5af0702a274ac2eebc76/?erid=2bL9aMPo2e49hMef4rqyCukmF4",
+    "goto_link": "https://dorinebeaumont.com/g/u2u7iu282j5af0702a274ac2eebc76/?i=3&erid=2bL9aMPo2e49hMef4rqyCukmF4"
+  },
+  {
+    "status": "active",
+    "rating": "2.10",
+    "campaign": {
+      "id": 19328,
+      "name": "online.globus.ru",
+      "site_url": "https://online.globus.ru/"
+    },
+    "description": "(кроме акц товаров, электроники и бытовой техники)",
+    "short_name": "Скидка 8% на 1 заказ от 6890 руб.",
+    "exclusive": true,
+    "date_end": "2026-02-28T23:59:59",
+    "date_start": "2025-12-27T00:00:00",
+    "id": 893673,
+    "regions": [
+      "RU"
+    ],
+    "discount": "8%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/11/30/19328-9341624c1b8afe28.png",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "Скидка 8% на 1 заказ от 6890 руб.",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "adm826next",
+    "frameset_link": "https://dorinebeaumont.com/coupon/nvn2pk3r7j5af0702a274ac2eebc76/?erid=2bL9aMPo2e49hMef4rqyCukkwM",
+    "goto_link": "https://dorinebeaumont.com/g/zo3uz8w1h55af0702a274ac2eebc76/?i=3&erid=2bL9aMPo2e49hMef4rqyCukkwM"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 19328,
+      "name": "online.globus.ru",
+      "site_url": "https://online.globus.ru/"
+    },
+    "description": "кроме исключений Новый клиент",
+    "short_name": "Admitad/12% от 5900, но не более 1000р,",
+    "exclusive": true,
+    "date_end": "2026-02-28T23:59:59",
+    "date_start": "2025-12-27T00:00:00",
+    "id": 893632,
+    "regions": [
+      "RU"
+    ],
+    "discount": "12%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/11/30/19328-9341624c1b8afe28.png",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "Admitad/12% от 5900, но не более 1000р,",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "adm1226",
+    "frameset_link": "https://dorinebeaumont.com/coupon/phza5w0wn15af0702a274ac2eebc76/?erid=2bL9aMPo2e49hMef4rqyCukRut",
+    "goto_link": "https://dorinebeaumont.com/g/v9zd9cmdmh5af0702a274ac2eebc76/?i=3&erid=2bL9aMPo2e49hMef4rqyCukRut"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 19328,
+      "name": "online.globus.ru",
+      "site_url": "https://online.globus.ru/"
+    },
+    "description": "",
+    "short_name": "Держим цену",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2022-09-30T11:52:57",
+    "id": 486922,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/11/30/19328-9341624c1b8afe28.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      },
+      {
+        "id": 6,
+        "name": "Sports & Recreation"
+      },
+      {
+        "id": 7,
+        "name": "Homeware"
+      },
+      {
+        "id": 9,
+        "name": "Gifts & Flowers"
+      },
+      {
+        "id": 11,
+        "name": "Food"
+      },
+      {
+        "id": 17,
+        "name": "Pet products"
+      },
+      {
+        "id": 23,
+        "name": "DIY, Garden"
+      },
+      {
+        "id": 24,
+        "name": "Outdoor Clothing & Equipment"
+      },
+      {
+        "id": 72,
+        "name": "Hobby & Stationery"
+      }
+    ],
+    "name": "Держим цену",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://dorinebeaumont.com/coupon/3lc72uigbd5af0702a274ac2eebc76/?erid=2bL9aMPo2e49hMef4pfV6sxm1i",
+    "goto_link": "https://dorinebeaumont.com/g/iixvh1aqdb5af0702a274ac2eebc76/?i=3&erid=2bL9aMPo2e49hMef4pfV6sxm1i"
+  },
+  {
+    "status": "active",
+    "rating": "3.83",
+    "campaign": {
+      "id": 19328,
+      "name": "online.globus.ru",
+      "site_url": "https://online.globus.ru/"
+    },
+    "description": "\"Получите скидку 5% по социальной карте на покупки* в гипермаркетах «Глобус». Скидка действует круглосуточно в будние дни. Скидка не действует в выходные и праздничные дни.\r\n\r\nПредъявите на кассе один из документов, дающих право на скидку: социальную карту, пенсионное удостоверение (справка о назначении пенсии) или социальный документ (удостоверение).\r\n\r\n*Скидка не предоставляется на алкогольную и табачную продукцию (табак, табачные изделия и курительные принадлежности, в том числе, трубки, кальяны, сигаретная бумага, зажигалки и товары, имитирующие табачные изделия).\r\n\r\nСкидка по социальной карте не суммируется с другими акциями.\r\n\r\nУсловия акции\r\nНаименование Акции — «Социальная скидка 5%»\r\nАкция бессрочна, но в любой момент может быть приостановлена организатором.\r\nСкидка действует только в будние дни круглосуточно. Скидка не действует в выходные и праздничные дни.\r\nДля получения социальной скидки 5% предъявите на кассе социальный документ:\r\nСоциальную карту;\r\nПенсионное удостоверение (справка о назначении пенсии);\r\nСоциальный документ (удостоверение).\"",
+    "short_name": "Социальная скидка",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2022-07-07T21:42:57",
+    "id": 468627,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/11/30/19328-9341624c1b8afe28.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 1,
+        "name": "Toys, Kids & Babies"
+      },
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      },
+      {
+        "id": 6,
+        "name": "Sports & Recreation"
+      },
+      {
+        "id": 9,
+        "name": "Gifts & Flowers"
+      },
+      {
+        "id": 11,
+        "name": "Food"
+      },
+      {
+        "id": 17,
+        "name": "Pet products"
+      },
+      {
+        "id": 23,
+        "name": "DIY, Garden"
+      },
+      {
+        "id": 24,
+        "name": "Outdoor Clothing & Equipment"
+      },
+      {
+        "id": 72,
+        "name": "Hobby & Stationery"
+      }
+    ],
+    "name": "Социальная скидка",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://dorinebeaumont.com/coupon/lr39sycs7o5af0702a274ac2eebc76/?erid=2bL9aMPo2e49hMef4peztzbbDw",
+    "goto_link": "https://dorinebeaumont.com/g/oyurmkrnwu5af0702a274ac2eebc76/?i=3&erid=2bL9aMPo2e49hMef4peztzbbDw"
+  }
+]

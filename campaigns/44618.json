@@ -1,0 +1,45 @@
+[
+  {
+    "status": "active",
+    "rating": "4.28",
+    "campaign": {
+      "id": 44618,
+      "name": "Cuva",
+      "site_url": "https://cuva.ru"
+    },
+    "description": "",
+    "short_name": "Новогодние скидки: до -35% на тематические сертификаты",
+    "exclusive": false,
+    "date_end": "2026-01-12T23:59:00",
+    "date_start": "2025-12-04T00:00:00",
+    "id": 889856,
+    "regions": [
+      "RU"
+    ],
+    "discount": "35%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/12/21/44618-9539a4bfd0ce3452.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 12,
+        "name": "Tours & Travels"
+      }
+    ],
+    "name": "Новогодние скидки: до -35% на тематические сертификаты",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://ficca2021.com/g/pr5xou0uqo5af0702a27d234a74a1f/?i=3&erid=2bL9aMPo2e49hMef4rqxyvbhvu"
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 95470,
+      "name": "UberEats UK",
+      "site_url": "https://www.ubereats.com/"
+    },
+    "description": "",
+    "short_name": "£10 off first order when you spend at least £25. Terms apply.",
+    "exclusive": false,
+    "date_end": "2026-01-31T23:59:00",
+    "date_start": "2026-01-01T00:00:00",
+    "id": 892052,
+    "regions": [
+      "GB"
+    ],
+    "discount": "10 £",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/3/29/95470-b55affbfe8a881b7.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "£10 off first order when you spend at least £25. Terms apply.",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "eats0126uk",
+    "frameset_link": "",
+    "goto_link": "https://heqgr.com/g/jdm1jmqbud5af0702a2725340d27bd/?i=3"
+  }
+]

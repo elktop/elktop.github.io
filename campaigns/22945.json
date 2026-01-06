@@ -1,0 +1,88 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 22945,
+      "name": "Учи.Дома",
+      "site_url": "https://www.doma.uchi.ru/"
+    },
+    "description": "Действует при покупке пакета от 96 занятий",
+    "short_name": "Дарим 2 месяца обучения в айти, при оплате полного курса",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-11-21T17:32:04",
+    "id": 884421,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/4/25/22945-3dbc3856b8faa963.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 22,
+        "name": "Online Education"
+      }
+    ],
+    "name": "Дарим 2 месяца обучения в айти, при оплате полного курса",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://heqgr.com/coupon/mqseti7ac75af0702a2788ed9027a3/?erid=2bL9aMPo2e49hMef4rqxsQZspM",
+    "goto_link": "https://heqgr.com/g/6wwue2c0hj5af0702a2788ed9027a3/?i=3&erid=2bL9aMPo2e49hMef4rqxsQZspM"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 22945,
+      "name": "Учи.Дома",
+      "site_url": "https://www.doma.uchi.ru/"
+    },
+    "description": "Промик IT25 - его необходимо сказать менеджеру перед покупкой курса.",
+    "short_name": "Cкидка до 25% всем посетителям вводного урока",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-11-21T17:30:20",
+    "id": 884420,
+    "regions": [
+      "RU"
+    ],
+    "discount": "25%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/4/25/22945-3dbc3856b8faa963.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 22,
+        "name": "Online Education"
+      }
+    ],
+    "name": "Cкидка до 25% всем посетителям вводного урока",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://heqgr.com/coupon/tbtrezt04u5af0702a2788ed9027a3/?erid=2bL9aMPo2e49hMef4rqxsQZspL",
+    "goto_link": "https://heqgr.com/g/utmgp9ots05af0702a2788ed9027a3/?i=3&erid=2bL9aMPo2e49hMef4rqxsQZspL"
+  }
+]

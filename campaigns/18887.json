@@ -1,0 +1,253 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 18887,
+      "name": "Airo",
+      "site_url": "https://airo.ru/"
+    },
+    "description": "При заказе до 2 490, стоимость доставки  всего 390",
+    "short_name": "Бесплатная доставка от 2 490 руб",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-10-03T18:38:51",
+    "id": 586847,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/10/23/18887-19979f6f0164dddb.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "Бесплатная доставка от 2 490 руб",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://xpuvo.com/g/zq0flg72pi5af0702a27a3b811983e/?i=3&erid=5jtCeReNwxHpfQTGQbqF3rb"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 18887,
+      "name": "Airo",
+      "site_url": "https://airo.ru/"
+    },
+    "description": "Скидка 50% на чистку детской одежды до 36 размера. На обувь и аксессуары\r\nне распространяется.",
+    "short_name": "Скидка 50% на чистку детской одежды",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2022-06-28T14:23:55",
+    "id": 465394,
+    "regions": [
+      "RU"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/10/23/18887-19979f6f0164dddb.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "Скидка 50% на чистку детской одежды",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://xpuvo.com/g/a36kliynqs5af0702a27a3b811983e/?i=3&erid=5jtCeReNwxHpfQTEvHy6j2B"
+  },
+  {
+    "status": "active",
+    "rating": "5.36",
+    "campaign": {
+      "id": 18887,
+      "name": "Airo",
+      "site_url": "https://airo.ru/"
+    },
+    "description": "Скидка действует на все услуги уборки для клиентов сделавших первый заказ в Airo",
+    "short_name": "Скидка 500 рублей на уборку квартир",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2021-04-06T00:00:00",
+    "id": 368021,
+    "regions": [
+      "RU"
+    ],
+    "discount": "500 ₽",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/10/23/18887-19979f6f0164dddb.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 4,
+        "name": "Shoes"
+      },
+      {
+        "id": 5,
+        "name": "Clothing"
+      },
+      {
+        "id": 7,
+        "name": "Homeware"
+      },
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "Скидка 500 рублей на уборку квартир",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ADMCL2146",
+    "frameset_link": "",
+    "goto_link": "https://xpuvo.com/g/6aecqka1ji5af0702a27a3b811983e/?i=3&erid=5jtCeReNwxHpfQTDv5HuVdz"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 18887,
+      "name": "Airo",
+      "site_url": "https://airo.ru/"
+    },
+    "description": "Скидка действует на все услуги химчистки с доставкой и ремонта обуви",
+    "short_name": "Скидка 5% на химчистку одежды и обуви с доставкой",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2021-04-01T10:42:10",
+    "id": 367040,
+    "regions": [
+      "RU"
+    ],
+    "discount": "5%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/10/23/18887-19979f6f0164dddb.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 4,
+        "name": "Shoes"
+      },
+      {
+        "id": 5,
+        "name": "Clothing"
+      },
+      {
+        "id": 7,
+        "name": "Homeware"
+      },
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "Скидка 5% на химчистку одежды и обуви с доставкой",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ADM555",
+    "frameset_link": "",
+    "goto_link": "https://xpuvo.com/g/7o8bw251ls5af0702a27a3b811983e/?i=3&erid=5jtCeReNwxHpfQTDv5DUsZu"
+  },
+  {
+    "status": "active",
+    "rating": "3.05",
+    "campaign": {
+      "id": 18887,
+      "name": "Airo",
+      "site_url": "https://airo.ru/"
+    },
+    "description": "Скидка действует на все услуги химчистка для клиентов сделавших первый заказ в Airo",
+    "short_name": "Скидка 500 рублей на химчистку одежды и обуви с доставкой",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2021-04-01T10:39:00",
+    "id": 367039,
+    "regions": [
+      "RU"
+    ],
+    "discount": "500 ₽",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/10/23/18887-19979f6f0164dddb.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 4,
+        "name": "Shoes"
+      },
+      {
+        "id": 5,
+        "name": "Clothing"
+      },
+      {
+        "id": 7,
+        "name": "Homeware"
+      },
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "Скидка 500 рублей на химчистку одежды и обуви с доставкой",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ADM412",
+    "frameset_link": "",
+    "goto_link": "https://xpuvo.com/g/3hzz36s0mx5af0702a27a3b811983e/?i=3&erid=5jtCeReNwxHpfQTDv5DUsZt"
+  }
+]

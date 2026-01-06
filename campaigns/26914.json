@@ -1,0 +1,45 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 26914,
+      "name": "DocMorris FR",
+      "site_url": "https://www.docmorris.fr/"
+    },
+    "description": "Valable uniquement sur l'application, dès 62 € d'achat minimum. Non cumulable.",
+    "short_name": "Brillez de beauté en 2026 & -5% SUPP",
+    "exclusive": false,
+    "date_end": "2026-01-06T23:59:00",
+    "date_start": "2026-01-02T00:00:00",
+    "id": 894188,
+    "regions": [
+      "FR"
+    ],
+    "discount": "5%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/8/29/26914-d9e97368affa3e2b.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Brillez de beauté en 2026 & -5% SUPP",
+    "language": "fr",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "DM2026",
+    "frameset_link": "https://ad.admitad.com/coupon/v9lnuladc75af0702a2743dea864fe/",
+    "goto_link": "https://ad.admitad.com/g/cxeuow0kv55af0702a2743dea864fe/?i=3"
+  }
+]

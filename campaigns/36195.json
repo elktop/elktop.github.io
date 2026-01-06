@@ -1,0 +1,92 @@
+[
+  {
+    "status": "active",
+    "rating": "9.38",
+    "campaign": {
+      "id": 36195,
+      "name": "ufanet.ru",
+      "site_url": "https://www.ufanet.ru/"
+    },
+    "description": "Перейдите на сайт Уфанет  оформите заявку на интернет или интернет+ТВ, оставьте заявку и введите промокод\r\n Акция действует, если по адресу нет действующего договора. Чтобы воспользоваться акцией оформите новый договор, внесите одну абонентскую плату согласно выбранному тарифу, получите 1 месяц пользования услугами в подарок.",
+    "short_name": "Месяц пользования услуг в подарок.",
+    "exclusive": false,
+    "date_end": "2026-12-31T23:59:00",
+    "date_start": "2025-12-25T16:49:00",
+    "id": 774558,
+    "regions": [
+      "RU"
+    ],
+    "discount": "1%",
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/5/30/36195-a9579484fec735f0.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "Месяц пользования услуг в подарок.",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "INTERNET7777",
+    "frameset_link": "",
+    "goto_link": "https://kdbov.com/g/zm3qe4l4x05af0702a27c968ff9c59/?i=3&erid=2bL9aMPo2e49hMef4phyxsWuNS"
+  },
+  {
+    "status": "active",
+    "rating": "7.85",
+    "campaign": {
+      "id": 36195,
+      "name": "ufanet.ru",
+      "site_url": "https://www.ufanet.ru/"
+    },
+    "description": "Перейдите на сайт Уфанет по ссылке оформите заявку на интернет или интернет+ТВ.\r\n\r\nАкция действует, если по адресу нет действующего договора. Чтобы воспользоваться акцией оформите новый договор, внесите одну абонентскую плату согласно выбранному тарифу, получите 1 месяц пользования услугами в подарок.",
+    "short_name": "Месяц пользования в подарок",
+    "exclusive": false,
+    "date_end": "2026-12-31T23:59:00",
+    "date_start": "2025-12-25T16:49:00",
+    "id": 770455,
+    "regions": [
+      "RU"
+    ],
+    "discount": "1%",
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      },
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/5/30/36195-a9579484fec735f0.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "Месяц пользования в подарок",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "",
+    "goto_link": "https://kdbov.com/g/qakf9bowrm5af0702a27c968ff9c59/?i=3&erid=2bL9aMPo2e49hMef4phyrKzQL5"
+  }
+]

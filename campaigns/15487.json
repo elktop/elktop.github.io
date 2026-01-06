@@ -1,0 +1,45 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 15487,
+      "name": "KRUPS",
+      "site_url": "https://krups.ru/"
+    },
+    "description": "Скидка по промокоду ЗИМА суммируется с ценой, указанной на сайте.\r\nПредложение действует только на товары с акционной страницы.\r\nАкция действует до 19.01 включительно.\r\nНе суммируется с баллами программы лояльности, другими акциями и товарами с финальной ценой.",
+    "short_name": "Зимние скидки до 40%",
+    "exclusive": false,
+    "date_end": "2026-01-19T23:59:00",
+    "date_start": "2025-12-26T00:00:00",
+    "id": 893470,
+    "regions": [
+      "RU"
+    ],
+    "discount": "40%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/10/26/15487-1632b0ff99248a9b.jpg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Зимние скидки до 40%",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ЗИМА",
+    "frameset_link": "",
+    "goto_link": "https://bednari.com/g/hct5cyrxi25af0702a27f0da19d497/?i=3&erid=2bL9aMPo2e49hMef4rqyCujRYU"
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 95657,
+      "name": "Nespresso.press",
+      "site_url": "https://nespresso.press"
+    },
+    "description": "",
+    "short_name": "Бесплатная доставка заказов в пункт самовывоза.",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-07-17T19:28:17",
+    "id": 775090,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/4/8/95657-b4cc7cca067b4597.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 7,
+        "name": "Homeware"
+      },
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Бесплатная доставка заказов в пункт самовывоза.",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://axavl.com/g/gn4hyrsx9t5af0702a2753117c683b/?i=3&erid=2bL9aMPo2e49hMef4phyxu2Zbv"
+  }
+]

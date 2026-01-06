@@ -1,0 +1,49 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 146683,
+      "name": "Тари Тур RU",
+      "site_url": "https://www.tarispb.ru"
+    },
+    "description": "",
+    "short_name": "5% скидки на любые туры в СПб",
+    "exclusive": false,
+    "date_end": "2026-12-31T23:59:00",
+    "date_start": "2025-12-11T00:00:00",
+    "id": 891319,
+    "regions": [
+      "RU"
+    ],
+    "discount": "5%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/12/2/146683-bd16cb739198eac0.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 12,
+        "name": "Tours & Travels"
+      },
+      {
+        "id": 189,
+        "name": "New Year Festival 2026"
+      }
+    ],
+    "name": "5% скидки на любые туры в СПб",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ТариТурБонус5",
+    "frameset_link": "",
+    "goto_link": "https://ogsib.com/g/m6mc4v2ix95af0702a27e8f59da0b4/?i=3&erid=2bL9aMPo2e49hMef4rqy6VarFa"
+  }
+]

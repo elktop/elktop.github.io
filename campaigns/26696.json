@@ -1,0 +1,45 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 26696,
+      "name": "Bodylab24 DE",
+      "site_url": "https://www.bodylab24.de/"
+    },
+    "description": "Regelmäßig, wechselnd attraktive Angebote per E-Mail. News rund um Fitness, Abnehmen und gesunde Ernährung.",
+    "short_name": "30% Willkommensrabatt bei Newsletteranmeldung",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-03-18T11:43:14",
+    "id": 839041,
+    "regions": [
+      "DE"
+    ],
+    "discount": "30%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/8/29/26696-930ecde5754fe5ea.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "30% Willkommensrabatt bei Newsletteranmeldung",
+    "language": "de",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "https://ad.admitad.com/coupon/gy0o5e4fdw5af0702a27fad1369401/",
+    "goto_link": "https://ad.admitad.com/g/hy3lpx87cd5af0702a27fad1369401/?i=3"
+  }
+]

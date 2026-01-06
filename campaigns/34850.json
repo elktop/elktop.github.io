@@ -1,0 +1,45 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 34850,
+      "name": "dushevoi.ru",
+      "site_url": "https://www.dushevoi.ru/"
+    },
+    "description": "",
+    "short_name": "Скидка 5% на все товары",
+    "exclusive": false,
+    "date_end": "2026-12-31T23:59:00",
+    "date_start": "2024-04-11T16:05:00",
+    "id": 547314,
+    "regions": [
+      "RU"
+    ],
+    "discount": "5%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/4/20/34850-466fc17c8858fdcb.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 7,
+        "name": "Homeware"
+      }
+    ],
+    "name": "Скидка 5% на все товары",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "dush",
+    "frameset_link": "",
+    "goto_link": "https://thevospad.com/g/gihekk9hnp5af0702a271eeafaf0b6/?i=3&erid=2bL9aMPo2e49hMef4pfzSJcs4R"
+  }
+]

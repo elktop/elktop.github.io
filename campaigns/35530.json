@@ -1,0 +1,139 @@
+[
+  {
+    "status": "active",
+    "rating": "2.51",
+    "campaign": {
+      "id": 35530,
+      "name": "Joom RU",
+      "site_url": "https://www.joom.ru/ru"
+    },
+    "description": "",
+    "short_name": "Топовые скидки: limited-stock discount",
+    "exclusive": false,
+    "date_end": "2026-01-11T23:59:00",
+    "date_start": "2025-12-15T00:00:00",
+    "id": 889811,
+    "regions": [
+      "RU"
+    ],
+    "discount": "1%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/6/22/35530-5089dcb4d939fbb5.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 34,
+        "name": "Marketplaces (including Chinese Stores)"
+      },
+      {
+        "id": 189,
+        "name": "New Year Festival 2026"
+      }
+    ],
+    "name": "Топовые скидки: limited-stock discount",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://aflink.ru/g/6u3d3sfcrr5af0702a2779deb39b46/?i=3&erid=2bL9aMPo2e49hMef4rqxyvb37m"
+  },
+  {
+    "status": "active",
+    "rating": "7.23",
+    "campaign": {
+      "id": 35530,
+      "name": "Joom RU",
+      "site_url": "https://www.joom.ru/ru"
+    },
+    "description": "",
+    "short_name": "Подарок за покупку!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-05-16T10:49:21",
+    "id": 850811,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/6/22/35530-5089dcb4d939fbb5.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 34,
+        "name": "Marketplaces (including Chinese Stores)"
+      }
+    ],
+    "name": "Подарок за покупку!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://aflink.ru/g/2ek79730475af0702a2779deb39b46/?i=3&erid=2bL9aMPo2e49hMef4rqUDRSeBP"
+  },
+  {
+    "status": "active",
+    "rating": "8.96",
+    "campaign": {
+      "id": 35530,
+      "name": "Joom RU",
+      "site_url": "https://www.joom.ru/ru"
+    },
+    "description": "",
+    "short_name": "Скидка 10% на все только на первый заказ",
+    "exclusive": false,
+    "date_end": "2026-01-31T23:59:00",
+    "date_start": "2025-12-15T17:27:00",
+    "id": 595790,
+    "regions": [
+      "RU"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/6/22/35530-5089dcb4d939fbb5.png",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 34,
+        "name": "Marketplaces (including Chinese Stores)"
+      },
+      {
+        "id": 189,
+        "name": "New Year Festival 2026"
+      }
+    ],
+    "name": "Скидка 10% на все только на первый заказ",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "Admitad",
+    "frameset_link": "",
+    "goto_link": "https://aflink.ru/g/hbg7kmyggr5af0702a2779deb39b46/?i=3&erid=5jtCeReNwxHpfQTGQppP6a3"
+  }
+]

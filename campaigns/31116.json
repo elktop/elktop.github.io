@@ -1,0 +1,131 @@
+[
+  {
+    "status": "active",
+    "rating": "2.46",
+    "campaign": {
+      "id": 31116,
+      "name": "Litnet.com",
+      "site_url": "https://litnet.com/"
+    },
+    "description": "https://litnet.com/bundle/fpc-knigi-kotorye-sogrevayut",
+    "short_name": "Скидка 20% на две любые книги из подборки",
+    "exclusive": false,
+    "date_end": "2026-12-31T23:59:00",
+    "date_start": "2025-04-29T00:00:00",
+    "id": 848526,
+    "regions": [
+      "RU"
+    ],
+    "discount": "20%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/4/25/31116-fecebcb02eebbbe4.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "Скидка 20% на две любые книги из подборки",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "B-X5086SV",
+    "frameset_link": "https://dkfrh.com/coupon/lvrw53arv85af0702a27d90592f333/?erid=2bL9aMPo2e49hMef4rqUDGZinD",
+    "goto_link": "https://dkfrh.com/g/yc3bt3nd9s5af0702a27d90592f333/?i=3&erid=2bL9aMPo2e49hMef4rqUDGZinD"
+  },
+  {
+    "status": "active",
+    "rating": "0.26",
+    "campaign": {
+      "id": 31116,
+      "name": "Litnet.com",
+      "site_url": "https://litnet.com/"
+    },
+    "description": null,
+    "short_name": "Скидка 20% на первую покупку",
+    "exclusive": true,
+    "date_end": "2026-12-31T23:59:00",
+    "date_start": "2025-04-28T00:00:00",
+    "id": 848398,
+    "regions": [
+      "RU"
+    ],
+    "discount": "20%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/4/25/31116-fecebcb02eebbbe4.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Скидка 20% на первую покупку",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "B-16D85PB",
+    "frameset_link": "https://dkfrh.com/coupon/kuw7bqb6ba5af0702a27d90592f333/?erid=2bL9aMPo2e49hMef4rqUDGZ3yF",
+    "goto_link": "https://dkfrh.com/g/gq84irg0p95af0702a27d90592f333/?i=3&erid=2bL9aMPo2e49hMef4rqUDGZ3yF"
+  },
+  {
+    "status": "active",
+    "rating": "0.80",
+    "campaign": {
+      "id": 31116,
+      "name": "Litnet.com",
+      "site_url": "https://litnet.com/"
+    },
+    "description": "Промокод действует для пользователей, у которых не было покупок.",
+    "short_name": "Скидка 20% на первую покупку",
+    "exclusive": false,
+    "date_end": "2026-12-31T23:59:00",
+    "date_start": "2024-12-28T00:00:00",
+    "id": 819316,
+    "regions": [
+      "RU"
+    ],
+    "discount": "20%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/4/25/31116-fecebcb02eebbbe4.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 14,
+        "name": "Books"
+      }
+    ],
+    "name": "Скидка 20% на первую покупку",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "newbuy20",
+    "frameset_link": "https://dkfrh.com/coupon/6rqx4078iz5af0702a27d90592f333/?erid=2bL9aMPo2e49hMef4piUjT6axx",
+    "goto_link": "https://dkfrh.com/g/cb6tqg9lik5af0702a27d90592f333/?i=3&erid=2bL9aMPo2e49hMef4piUjT6axx"
+  }
+]

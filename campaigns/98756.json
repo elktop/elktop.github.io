@@ -1,0 +1,57 @@
+[
+  {
+    "status": "active",
+    "rating": "6.34",
+    "campaign": {
+      "id": 98756,
+      "name": "Waldos MX",
+      "site_url": "https://waldos.com.mx/"
+    },
+    "description": "EN PRIMERAS COMPRAS",
+    "short_name": "Cupón con el 10% OFF en tu primera compra",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-03-04T00:42:38",
+    "id": 837103,
+    "regions": [
+      "MX"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/6/14/98756-0c356aa6bfa2bc87.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      },
+      {
+        "id": 5,
+        "name": "Clothing"
+      },
+      {
+        "id": 7,
+        "name": "Homeware"
+      },
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Cupón con el 10% OFF en tu primera compra",
+    "language": "es",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "REGALO100",
+    "frameset_link": "",
+    "goto_link": "https://yknhc.com/g/8545fxr1yy5af0702a27ba31ea0f20/?i=3"
+  }
+]

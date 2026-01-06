@@ -1,0 +1,991 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 40716,
+      "name": "Старая Ферма",
+      "site_url": "https://www.dogeat.ru/"
+    },
+    "description": "не сумиируется",
+    "short_name": "Скидка 10% на первую покупку товаров бренда Woofa",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-08-28T09:00:00",
+    "id": 786780,
+    "regions": [
+      "RU"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/8/14/40716-6140055e55c7fb39.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 17,
+        "name": "Pet products"
+      }
+    ],
+    "name": "Скидка 10% на первую покупку товаров бренда Woofa",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "Woofa10",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/mkx1vouozf5af0702a273f42da7610/?i=3&erid=2bL9aMPo2e49hMef4phzC32Bnv"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 40716,
+      "name": "Старая Ферма",
+      "site_url": "https://www.dogeat.ru/"
+    },
+    "description": "не сумиируется",
+    "short_name": "Скидка 10% на первую покупку товаров бренда Мираторг",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-08-27T09:00:00",
+    "id": 786779,
+    "regions": [
+      "RU"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/8/14/40716-6140055e55c7fb39.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 17,
+        "name": "Pet products"
+      }
+    ],
+    "name": "Скидка 10% на первую покупку товаров бренда Мираторг",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "Мираторг10",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/pm98anbeoh5af0702a273f42da7610/?i=3&erid=2bL9aMPo2e49hMef4phzC32Bnu"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 40716,
+      "name": "Старая Ферма",
+      "site_url": "https://www.dogeat.ru/"
+    },
+    "description": "не сумиируется",
+    "short_name": "Скидка 10% на первую покупку товаров бренда Forza",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-08-26T09:00:00",
+    "id": 786778,
+    "regions": [
+      "RU"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/8/14/40716-6140055e55c7fb39.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 17,
+        "name": "Pet products"
+      }
+    ],
+    "name": "Скидка 10% на первую покупку товаров бренда Forza",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "Forza10",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/ouw254s2h45af0702a273f42da7610/?i=3&erid=2bL9aMPo2e49hMef4phzC32Bnt"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 40716,
+      "name": "Старая Ферма",
+      "site_url": "https://www.dogeat.ru/"
+    },
+    "description": "не сумиируется",
+    "short_name": "Скидка 10% на первую покупку товаров бренда Happy Daily",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-08-25T09:00:00",
+    "id": 786777,
+    "regions": [
+      "RU"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/8/14/40716-6140055e55c7fb39.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 17,
+        "name": "Pet products"
+      }
+    ],
+    "name": "Скидка 10% на первую покупку товаров бренда Happy Daily",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "HappyDaily10",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/vld5flfa275af0702a273f42da7610/?i=3&erid=2bL9aMPo2e49hMef4phzC32Bns"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 40716,
+      "name": "Старая Ферма",
+      "site_url": "https://www.dogeat.ru/"
+    },
+    "description": "не сумиируется",
+    "short_name": "Скидка 10% на первую покупку товаров бренда Rogz",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-08-24T09:00:00",
+    "id": 786776,
+    "regions": [
+      "RU"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/8/14/40716-6140055e55c7fb39.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 17,
+        "name": "Pet products"
+      }
+    ],
+    "name": "Скидка 10% на первую покупку товаров бренда Rogz",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "Rogz10",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/au0ch2gtpk5af0702a273f42da7610/?i=3&erid=2bL9aMPo2e49hMef4phzC32Bnr"
+  },
+  {
+    "status": "active",
+    "rating": "1.18",
+    "campaign": {
+      "id": 40716,
+      "name": "Старая Ферма",
+      "site_url": "https://www.dogeat.ru/"
+    },
+    "description": "не сумиируется",
+    "short_name": "Скидка 10% на первую покупку товаров бренда Every Day",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-08-23T09:00:00",
+    "id": 786775,
+    "regions": [
+      "RU"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/8/14/40716-6140055e55c7fb39.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 17,
+        "name": "Pet products"
+      }
+    ],
+    "name": "Скидка 10% на первую покупку товаров бренда Every Day",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "EveryDay10",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/dbxbf5e0uv5af0702a273f42da7610/?i=3&erid=2bL9aMPo2e49hMef4phzC32Bnq"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 40716,
+      "name": "Старая Ферма",
+      "site_url": "https://www.dogeat.ru/"
+    },
+    "description": "не сумиируется",
+    "short_name": "Скидка 10% на первую покупку товаров бренда Catmania",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-08-22T09:00:00",
+    "id": 786774,
+    "regions": [
+      "RU"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/8/14/40716-6140055e55c7fb39.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 17,
+        "name": "Pet products"
+      }
+    ],
+    "name": "Скидка 10% на первую покупку товаров бренда Catmania",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "Catmania10",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/sbvtbqw65h5af0702a273f42da7610/?i=3&erid=2bL9aMPo2e49hMef4phzC32Bnp"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 40716,
+      "name": "Старая Ферма",
+      "site_url": "https://www.dogeat.ru/"
+    },
+    "description": "не сумиируется",
+    "short_name": "Скидка 10% на первую покупку товаров бренда Cats way",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-08-21T09:00:00",
+    "id": 786773,
+    "regions": [
+      "RU"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/8/14/40716-6140055e55c7fb39.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 17,
+        "name": "Pet products"
+      }
+    ],
+    "name": "Скидка 10% на первую покупку товаров бренда Cats way",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "Catsway10",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/n2vtzzte2w5af0702a273f42da7610/?i=3&erid=2bL9aMPo2e49hMef4phzC32Bno"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 40716,
+      "name": "Старая Ферма",
+      "site_url": "https://www.dogeat.ru/"
+    },
+    "description": "не сумиируется",
+    "short_name": "Скидка 10% на первую покупку товаров бренда kit cat",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-08-20T09:00:00",
+    "id": 786772,
+    "regions": [
+      "RU"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/8/14/40716-6140055e55c7fb39.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 17,
+        "name": "Pet products"
+      }
+    ],
+    "name": "Скидка 10% на первую покупку товаров бренда kit cat",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "kitcat10",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/v0hk06urls5af0702a273f42da7610/?i=3&erid=2bL9aMPo2e49hMef4phzC32BiY"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 40716,
+      "name": "Старая Ферма",
+      "site_url": "https://www.dogeat.ru/"
+    },
+    "description": "не сумиируется",
+    "short_name": "Скидка 10% на первую покупку товаров бренда Biospotix",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-08-19T09:00:00",
+    "id": 786771,
+    "regions": [
+      "RU"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/8/14/40716-6140055e55c7fb39.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 17,
+        "name": "Pet products"
+      }
+    ],
+    "name": "Скидка 10% на первую покупку товаров бренда Biospotix",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "Biospotix10",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/rpv75qjhuv5af0702a273f42da7610/?i=3&erid=2bL9aMPo2e49hMef4phzC32BiX"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 40716,
+      "name": "Старая Ферма",
+      "site_url": "https://www.dogeat.ru/"
+    },
+    "description": "не сумиируется",
+    "short_name": "Скидка 10% на первую покупку товаров бренда BIOGANCE",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-08-18T09:00:00",
+    "id": 786770,
+    "regions": [
+      "RU"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/8/14/40716-6140055e55c7fb39.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 17,
+        "name": "Pet products"
+      }
+    ],
+    "name": "Скидка 10% на первую покупку товаров бренда BIOGANCE",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "BIOGANCE10",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/rbblvqycy05af0702a273f42da7610/?i=3&erid=2bL9aMPo2e49hMef4phzC32BiW"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 40716,
+      "name": "Старая Ферма",
+      "site_url": "https://www.dogeat.ru/"
+    },
+    "description": "не сумиируется",
+    "short_name": "Скидка 10% на первую покупку товаров бренда OASY",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-08-17T09:00:00",
+    "id": 786769,
+    "regions": [
+      "RU"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/8/14/40716-6140055e55c7fb39.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 17,
+        "name": "Pet products"
+      }
+    ],
+    "name": "Скидка 10% на первую покупку товаров бренда OASY",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "OASY10",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/9zpd3l3vbw5af0702a273f42da7610/?i=3&erid=2bL9aMPo2e49hMef4phzC32BiV"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 40716,
+      "name": "Старая Ферма",
+      "site_url": "https://www.dogeat.ru/"
+    },
+    "description": "не сумиируется",
+    "short_name": "Скидка 10% на первую покупку товаров бренда CHICOPEE",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-08-16T09:00:00",
+    "id": 786768,
+    "regions": [
+      "RU"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/8/14/40716-6140055e55c7fb39.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 17,
+        "name": "Pet products"
+      }
+    ],
+    "name": "Скидка 10% на первую покупку товаров бренда CHICOPEE",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "CHICOPEE10",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/1cae421lzb5af0702a273f42da7610/?i=3&erid=2bL9aMPo2e49hMef4phzC32BiU"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 40716,
+      "name": "Старая Ферма",
+      "site_url": "https://www.dogeat.ru/"
+    },
+    "description": "*Со списком акционных товаров можно ознакомиться под текстом акции.\r\nВ акции участвует выделенный ассортимент.",
+    "short_name": "Товары для правильного охлаждения питомца!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-08-16T09:00:00",
+    "id": 786746,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/8/14/40716-6140055e55c7fb39.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 17,
+        "name": "Pet products"
+      }
+    ],
+    "name": "Товары для правильного охлаждения питомца!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/mf8ivtk92g5af0702a273f42da7610/?i=3&erid=2bL9aMPo2e49hMef4phzC32BZc"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 40716,
+      "name": "Старая Ферма",
+      "site_url": "https://www.dogeat.ru/"
+    },
+    "description": "*Со списком акционных товаров можно ознакомиться под текстом акции.\r\nВ акции участвует выделенный ассортимент.",
+    "short_name": "Скидка -60% на все корма бренда Dado",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-08-16T09:00:00",
+    "id": 786730,
+    "regions": [
+      "RU"
+    ],
+    "discount": "60%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/8/14/40716-6140055e55c7fb39.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 17,
+        "name": "Pet products"
+      }
+    ],
+    "name": "Скидка -60% на все корма бренда Dado",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/aqini62wd35af0702a273f42da7610/?i=3&erid=2bL9aMPo2e49hMef4phzC32BQr"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 40716,
+      "name": "Старая Ферма",
+      "site_url": "https://www.dogeat.ru/"
+    },
+    "description": "Скидка применяется к заказу автоматически, при его подтверждении менеджером Контакт-центра.\r\nКогда заказ будет собран в магазине, то у вас будет 3 дня, чтобы забрать его.\r\n\r\nАдреса самовывоза: \r\n1) Жулебино, Улица Генерала Кузнецова, д. 17\r\n2) Отрадное, Улица Отрадная, д. 16\r\n3) Щелковская, Щелковское шоссе, д. 94\r\n4) Коньково, Улица Островитянова, д. 18\r\n5) Марьина Роща, Улица Шереметьевская, д. 20\r\n6) Новокосино, ул. Кетчерская, д. 13\r\n7) Выхино, ул. Сормовская, д. 6",
+    "short_name": "Дополнительная скидка 3% при самовывозе заказа!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-06-04T09:00:00",
+    "id": 764416,
+    "regions": [
+      "RU"
+    ],
+    "discount": "3%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/8/14/40716-6140055e55c7fb39.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 17,
+        "name": "Pet products"
+      }
+    ],
+    "name": "Дополнительная скидка 3% при самовывозе заказа!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/y3r7li2sp95af0702a273f42da7610/?i=3&erid=2bL9aMPo2e49hMef4phydRL128"
+  },
+  {
+    "status": "active",
+    "rating": "1.95",
+    "campaign": {
+      "id": 40716,
+      "name": "Старая Ферма",
+      "site_url": "https://www.dogeat.ru/"
+    },
+    "description": "*Со списком акционных товаров можно ознакомиться под текстом акции.\r\nВ акции участвует выделенный ассортимент.\r\nМагазин оставляет за собой право досрочного завершения акции.",
+    "short_name": "Больше берешь - меньше платишь!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-01-23T09:00:00",
+    "id": 626609,
+    "regions": [
+      "RU"
+    ],
+    "discount": "30%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/8/14/40716-6140055e55c7fb39.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 17,
+        "name": "Pet products"
+      }
+    ],
+    "name": "Больше берешь - меньше платишь!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/0y93ir88na5af0702a273f42da7610/?i=3&erid=2bL9aMPo2e49hMef4pgz61Lkde"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 40716,
+      "name": "Старая Ферма",
+      "site_url": "https://www.dogeat.ru/"
+    },
+    "description": "Теперь в Старой ферме можно расплатиться Долями. Оплачивайте 25% суммы и забирайте покупку. Стоимость заказа делится на 4 равных платежа, которые автоматически списываются в течение 6 недель с интервалом 14 дней.\r\nКак это работает:\r\n1. Соберите корзину для вашего питомца.\r\n2. Выберите способ оплаты «Долями» и нажмите кнопку «Оформить заказ». \r\n3. В открывшейся форме проверьте состав заказа, укажите свои ФИО, номер телефона, дату рождения, почту и подтвердите оплату покупки. С карты спишется 25% от общей суммы.\r\nВаши преимущества:\r\nВы сразу получаете покупку, а полностью расплачиваетесь потом: можно устроить большой шопинг.\r\n«Долями» – это не кредит: никаких комиссий и процентных ставок. Вы выплачиваете только стоимость покупки. Чтобы пользоваться сервисом, не нужны документы – только данные покупателя. Расплачиваться «Долями» так же просто, как картой.",
+    "short_name": "У нас можно покупать Долями!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-11-17T09:00:00",
+    "id": 603771,
+    "regions": [
+      "RU"
+    ],
+    "discount": "25%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/8/14/40716-6140055e55c7fb39.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 17,
+        "name": "Pet products"
+      }
+    ],
+    "name": "У нас можно покупать Долями!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/mafo0l9lx45af0702a273f42da7610/?i=3&erid=2bL9aMPo2e49hMef4pgVYQtSVK"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 40716,
+      "name": "Старая Ферма",
+      "site_url": "https://www.dogeat.ru/"
+    },
+    "description": "",
+    "short_name": "Бесплатная доставка от 3000р.",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-10-12T15:39:37",
+    "id": 593096,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/8/14/40716-6140055e55c7fb39.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 17,
+        "name": "Pet products"
+      }
+    ],
+    "name": "Бесплатная доставка от 3000р.",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/zc236fl1a15af0702a273f42da7610/?i=3&erid=2bL9aMPo2e49hMef4pgVCxertg"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 40716,
+      "name": "Старая Ферма",
+      "site_url": "https://www.dogeat.ru/"
+    },
+    "description": "",
+    "short_name": "Распродажа на зоотовары",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-10-12T15:38:53",
+    "id": 593095,
+    "regions": [
+      "RU"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/8/14/40716-6140055e55c7fb39.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 17,
+        "name": "Pet products"
+      }
+    ],
+    "name": "Распродажа на зоотовары",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/5zgrkc09sr5af0702a273f42da7610/?i=3&erid=2bL9aMPo2e49hMef4pgVCxertf"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 40716,
+      "name": "Старая Ферма",
+      "site_url": "https://www.dogeat.ru/"
+    },
+    "description": "Подпишитесь и получите скидку",
+    "short_name": "Скидка 7% на первую покупку при подписке",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-10-10T13:59:16",
+    "id": 592573,
+    "regions": [
+      "RU"
+    ],
+    "discount": "7%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/8/14/40716-6140055e55c7fb39.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 17,
+        "name": "Pet products"
+      }
+    ],
+    "name": "Скидка 7% на первую покупку при подписке",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/smjwz13bxx5af0702a273f42da7610/?i=3&erid=2bL9aMPo2e49hMef4pgVCwAs16"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 40716,
+      "name": "Старая Ферма",
+      "site_url": "https://www.dogeat.ru/"
+    },
+    "description": "",
+    "short_name": "Уценённые товары",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-10-10T13:57:39",
+    "id": 592572,
+    "regions": [
+      "RU"
+    ],
+    "discount": "35%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/8/14/40716-6140055e55c7fb39.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 17,
+        "name": "Pet products"
+      }
+    ],
+    "name": "Уценённые товары",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/49bsdjo6905af0702a273f42da7610/?i=3&erid=2bL9aMPo2e49hMef4pgVCwAs15"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 40716,
+      "name": "Старая Ферма",
+      "site_url": "https://www.dogeat.ru/"
+    },
+    "description": "Скидка до 22% на антипаразитарные средства от АВЗ",
+    "short_name": "Скидки на АВЗ до -22%",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-09-29T16:33:46",
+    "id": 586073,
+    "regions": [
+      "RU"
+    ],
+    "discount": "22%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/8/14/40716-6140055e55c7fb39.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 17,
+        "name": "Pet products"
+      }
+    ],
+    "name": "Скидки на АВЗ до -22%",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/oup558t39n5af0702a273f42da7610/?i=3&erid=2bL9aMPo2e49hMef4pgV6NCQZG"
+  }
+]

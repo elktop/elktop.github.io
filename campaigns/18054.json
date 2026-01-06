@@ -1,0 +1,45 @@
+[
+  {
+    "status": "active",
+    "rating": "6.25",
+    "campaign": {
+      "id": 18054,
+      "name": "Zdravcity RU",
+      "site_url": "https://zdravcity.ru/"
+    },
+    "description": "Промокоды многоразовые.\nОграничение: применяется на первый интернет - заказ на сайте Здравсити (только для новых клиентов).",
+    "short_name": "Скидка 10%, максимальная скидка - 500 руб",
+    "exclusive": false,
+    "date_end": "2026-01-31T00:00:00",
+    "date_start": "2025-12-29T00:00:00",
+    "id": 892289,
+    "regions": [
+      "RU"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/3/21/18054-d68796701e188db5.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Скидка 10%, максимальная скидка - 500 руб",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "admitad126",
+    "frameset_link": "",
+    "goto_link": "https://dhwnh.com/g/1cuqhwfjqr5af0702a27af67a6436f/?i=3&erid=2bL9aMPo2e49hMef4rqy6a2p28"
+  }
+]

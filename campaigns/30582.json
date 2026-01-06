@@ -1,0 +1,88 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 30582,
+      "name": "iBOX",
+      "site_url": "https://iboxstore.ru/"
+    },
+    "description": "",
+    "short_name": "Скидка 500 рублей на видеорегистраторы и радар-детекторы",
+    "exclusive": false,
+    "date_end": "2026-12-31T23:59:00",
+    "date_start": "2025-12-29T12:43:00",
+    "id": 671132,
+    "regions": [
+      "RU"
+    ],
+    "discount": "500 ₽",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2022/11/22/30582-a548398269d30c32.jpg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Скидка 500 рублей на видеорегистраторы и радар-детекторы",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "admitad500",
+    "frameset_link": "https://codeaven.com/coupon/o902a5zefg5af0702a27e6b606b04d/?erid=5jtCeReNwxHpfQTHQ2UMaQh",
+    "goto_link": "https://codeaven.com/g/8k2snua6w95af0702a27e6b606b04d/?i=3&erid=5jtCeReNwxHpfQTHQ2UMaQh"
+  },
+  {
+    "status": "active",
+    "rating": "1.40",
+    "campaign": {
+      "id": 30582,
+      "name": "iBOX",
+      "site_url": "https://iboxstore.ru/"
+    },
+    "description": "",
+    "short_name": "Скидка 1000 рублей на комбо-устройства",
+    "exclusive": false,
+    "date_end": "2026-12-31T23:59:00",
+    "date_start": "2025-12-29T12:43:00",
+    "id": 671131,
+    "regions": [
+      "RU"
+    ],
+    "discount": "1 000 ₽",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2022/11/22/30582-a548398269d30c32.jpg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Скидка 1000 рублей на комбо-устройства",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "admitad1000",
+    "frameset_link": "https://codeaven.com/coupon/ecwt7ucrsh5af0702a27e6b606b04d/?erid=5jtCeReNwxHpfQTHQ2UMaQg",
+    "goto_link": "https://codeaven.com/g/oxuyp72eqf5af0702a27e6b606b04d/?i=3&erid=5jtCeReNwxHpfQTHQ2UMaQg"
+  }
+]

@@ -1,0 +1,217 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 105262,
+      "name": "HyperHost many GEOs",
+      "site_url": "https://hyperhost.ua/"
+    },
+    "description": "Знижка 50% на VPN від HyperHost! Встигни скористатися персональним промокодом при замовленні нової послуги на місяць, півроку або навіть рік!",
+    "short_name": "50% постійна знижка на VPN",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-09-12T11:50:47",
+    "id": 874971,
+    "regions": [
+      "00"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/7/19/105262-e9a6b920ed84449b.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "50% постійна знижка на VPN",
+    "language": "ua",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "AZ38Y5PLST",
+    "frameset_link": "",
+    "goto_link": "https://rcpsj.com/g/w5avhxvuj45af0702a277f67b8171e/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 105262,
+      "name": "HyperHost many GEOs",
+      "site_url": "https://hyperhost.ua/"
+    },
+    "description": "Знижка при оплаті послуги хостингу для сайту або віртуального сервера на перше замовлення та подовження послуги",
+    "short_name": "10% постійна знижка на Хостинг і VPS",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-09-12T11:49:53",
+    "id": 874970,
+    "regions": [
+      "00"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/7/19/105262-e9a6b920ed84449b.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "10% постійна знижка на Хостинг і VPS",
+    "language": "ua",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "promo_10",
+    "frameset_link": "",
+    "goto_link": "https://rcpsj.com/g/iyep135oo45af0702a277f67b8171e/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 105262,
+      "name": "HyperHost many GEOs",
+      "site_url": "https://hyperhost.ua/"
+    },
+    "description": "При оплаті послуги хостингу для сайту або віртуального сервера строком на 2 роки, отримайте постійну знижку у 24%. Діє як на першу оплату так і на продовження послуг.",
+    "short_name": "24% постійна знижка на Хостинг і VPS",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-09-12T11:48:50",
+    "id": 874969,
+    "regions": [
+      "00"
+    ],
+    "discount": "24%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/7/19/105262-e9a6b920ed84449b.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "24% постійна знижка на Хостинг і VPS",
+    "language": "ua",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "",
+    "goto_link": "https://rcpsj.com/g/lztuemyp1v5af0702a277f67b8171e/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 105262,
+      "name": "HyperHost many GEOs",
+      "site_url": "https://hyperhost.ua/"
+    },
+    "description": "Знижка на офіційні ліцензії Windows server від Microsoft, для віддалених робочих столів, при оплаті відповідного тарифу VDS. Та проведемо безкоштовне налаштування віддаленого rdp підключення",
+    "short_name": "50% знижка на ліцензії Windows та безкоштовне налаштування",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-09-12T11:47:55",
+    "id": 874968,
+    "regions": [
+      "00"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/7/19/105262-e9a6b920ed84449b.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "50% знижка на ліцензії Windows та безкоштовне налаштування",
+    "language": "ua",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "",
+    "goto_link": "https://rcpsj.com/g/30uryguxzo5af0702a277f67b8171e/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 105262,
+      "name": "HyperHost many GEOs",
+      "site_url": "https://hyperhost.ua/"
+    },
+    "description": "Отримай Безкоштовно один із доменів в доменній зоні .com, .com.ua, .net, при першій купівлі послуги хостингу строком на рік або більше!",
+    "short_name": "100% знижка на реєстрацію домену",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-09-12T11:47:14",
+    "id": 874967,
+    "regions": [
+      "00"
+    ],
+    "discount": "99%",
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/7/19/105262-e9a6b920ed84449b.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "100% знижка на реєстрацію домену",
+    "language": "ua",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "",
+    "goto_link": "https://rcpsj.com/g/yqupq69fyk5af0702a277f67b8171e/?i=3"
+  }
+]

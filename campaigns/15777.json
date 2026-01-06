@@ -1,0 +1,131 @@
+[
+  {
+    "status": "active",
+    "rating": "6.75",
+    "campaign": {
+      "id": 15777,
+      "name": "Koffer",
+      "site_url": "https://www.koffer.ru/"
+    },
+    "description": "",
+    "short_name": "Получите -5% на первую покупку! Подписывайтесь на рассылку новостей",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2022-06-28T16:31:13",
+    "id": 465585,
+    "regions": [
+      "RU"
+    ],
+    "discount": "5%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/3/12/15777-01910043769616a2.jpg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      }
+    ],
+    "name": "Получите -5% на первую покупку! Подписывайтесь на рассылку новостей",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://xnmik.com/g/1m0ifesw7e5af0702a27136007434a/?i=3&erid=5jtCeReNwxHpfQTEvQHEyvn"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 15777,
+      "name": "Koffer",
+      "site_url": "https://www.koffer.ru/"
+    },
+    "description": "Ввод промокода не требуется. При сумме заказа выше 4000 руб. - Доставка курьером. Доставка до пункта самовывоза от 3000 руб.",
+    "short_name": "Бесплатная доставка по Москве и Петербургу",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2020-10-22T11:03:35",
+    "id": 340474,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/3/12/15777-01910043769616a2.jpg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      }
+    ],
+    "name": "Бесплатная доставка по Москве и Петербургу",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://xnmik.com/g/ic4fawic4y5af0702a27136007434a/?i=3&erid=25H8d7vbP8SRTvKZGerjz8"
+  },
+  {
+    "status": "active",
+    "rating": "6.88",
+    "campaign": {
+      "id": 15777,
+      "name": "Koffer",
+      "site_url": "https://www.koffer.ru/"
+    },
+    "description": "Ввод промокода не требуется.",
+    "short_name": "Скидки до 60% в разделе Распродажа!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2020-09-21T13:22:38",
+    "id": 334827,
+    "regions": [
+      "RU"
+    ],
+    "discount": "60%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/3/12/15777-01910043769616a2.jpg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      }
+    ],
+    "name": "Скидки до 60% в разделе Распродажа!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://xnmik.com/g/ywdjba1xhp5af0702a27136007434a/?i=3&erid=25H8d7vbP8SRTvKZ9xSzuD"
+  }
+]

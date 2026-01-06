@@ -1,0 +1,45 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 15218,
+      "name": "Floraexpress",
+      "site_url": "https://www.floraexpress.ru/"
+    },
+    "description": "Требуется ввод промо-кода;\r\nАкция распространяется на все товары;\r\nАкция доступна для всех клиентов магазина;\r\nАкция доступна без ограничений по сумме заказа;",
+    "short_name": "Скидка 5% на все!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-05-23T12:25:00",
+    "id": 332752,
+    "regions": [
+      "RU"
+    ],
+    "discount": "5%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/4/6/15218-4343911c873f090f.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 9,
+        "name": "Gifts & Flowers"
+      }
+    ],
+    "name": "Скидка 5% на все!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "admitad",
+    "frameset_link": "",
+    "goto_link": "https://ujhjj.com/g/pe5336kuyf5af0702a27c1e2b709c0/?i=3&erid=MvGzQC98w3Z1gMq1pS2R7CkP"
+  }
+]

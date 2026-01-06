@@ -1,0 +1,217 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 23446,
+      "name": "Budzdorov",
+      "site_url": "https://www.budzdorov.ru/"
+    },
+    "description": "Акция проводится в аптеках бренда «Ригла». При применении карты лояльности действует скидка 10% и начисляется бонусами кешбэк 10%. 1 бонус = 1 рублю. Кешбэк – базовые бонусы, которые начисляются на карту лояльности клиента в рамках программы лояльности «Аптечная семья». Ассортимент акции, размер скидки в аптеках и на сайте может отличаться. Подробные условия применения скидки указаны на сайте.",
+    "short_name": "-10% на Инфатрини и Нутридринк!",
+    "exclusive": false,
+    "date_end": "2026-01-31T00:00:00",
+    "date_start": "2025-12-23T00:00:00",
+    "id": 892819,
+    "regions": [
+      "RU"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/10/15/23446-1a07392a64421ef4.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "-10% на Инфатрини и Нутридринк!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRE",
+    "frameset_link": "https://ogsib.com/coupon/uysavojro75af0702a27562e5f47b0/?erid=2bL9aMPo2e49hMef4rqy6bWoc7",
+    "goto_link": "https://ogsib.com/g/djnav1e4vv5af0702a27562e5f47b0/?i=3&erid=2bL9aMPo2e49hMef4rqy6bWoc7"
+  },
+  {
+    "status": "active",
+    "rating": "0.41",
+    "campaign": {
+      "id": 23446,
+      "name": "Budzdorov",
+      "site_url": "https://www.budzdorov.ru/"
+    },
+    "description": "Акция проводится в период с 15.12.2025 по 31.01.2026 в аптеках бренда «Будь Здоров!».\r\n\r\nПри применении карты лояльности на акционный ассортимент действует скидка до 40% и начисляется кешбэк 10%. Кешбэк – базовые бонусы, которые начисляются на карту лояльности клиента в рамках программы лояльности «Аптечная семья». Акция действует в аптеках, в мобильном приложении и на сайте. Ассортимент акции, размер скидки в аптеках, на сайте и в мобильном приложении может отличаться.\r\n\r\nАссортимент акции, размер скидки и подробные условия применения скидки указаны на сайте www.budzdorov.ru.",
+    "short_name": "Новогодняя распродажа 40%",
+    "exclusive": false,
+    "date_end": "2026-01-31T23:59:00",
+    "date_start": "2025-12-15T00:00:00",
+    "id": 891583,
+    "regions": [
+      "RU"
+    ],
+    "discount": "40%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/10/15/23446-1a07392a64421ef4.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Новогодняя распродажа 40%",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://ogsib.com/coupon/dxjlkgxrb55af0702a27562e5f47b0/?erid=2bL9aMPo2e49hMef4rqy6X5WLw",
+    "goto_link": "https://ogsib.com/g/tqu4d1dl905af0702a27562e5f47b0/?i=3&erid=2bL9aMPo2e49hMef4rqy6X5WLw"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 23446,
+      "name": "Budzdorov",
+      "site_url": "https://www.budzdorov.ru/"
+    },
+    "description": "Позаботьтесь о здоровье пищеварения с выгодой — Метабиотик со скидкой 20%.",
+    "short_name": "Скидка 20% на комплекс для нормализации микрофлоры кишечника!",
+    "exclusive": false,
+    "date_end": "2026-01-31T00:00:00",
+    "date_start": "2025-12-10T00:00:00",
+    "id": 891241,
+    "regions": [
+      "RU"
+    ],
+    "discount": "20%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/10/15/23446-1a07392a64421ef4.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Скидка 20% на комплекс для нормализации микрофлоры кишечника!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRE",
+    "frameset_link": "https://ogsib.com/coupon/oj28avuk0x5af0702a27562e5f47b0/?erid=2bL9aMPo2e49hMef4rqy6U9Cxg",
+    "goto_link": "https://ogsib.com/g/fkp9v68e445af0702a27562e5f47b0/?i=3&erid=2bL9aMPo2e49hMef4rqy6U9Cxg"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 23446,
+      "name": "Budzdorov",
+      "site_url": "https://www.budzdorov.ru/"
+    },
+    "description": "Скидка 20% на акционный ассортимент. Успейте совершить выгодные покупки.",
+    "short_name": "Новогодние скидки!",
+    "exclusive": false,
+    "date_end": "2026-01-11T00:00:00",
+    "date_start": "2025-12-10T00:00:00",
+    "id": 891237,
+    "regions": [
+      "RU"
+    ],
+    "discount": "20%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/10/15/23446-1a07392a64421ef4.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Новогодние скидки!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRE",
+    "frameset_link": "https://ogsib.com/coupon/z7fwpd0x9b5af0702a27562e5f47b0/?erid=2bL9aMPo2e49hMef4rqy6U9Cxc",
+    "goto_link": "https://ogsib.com/g/qpr4al4fn35af0702a27562e5f47b0/?i=3&erid=2bL9aMPo2e49hMef4rqy6U9Cxc"
+  },
+  {
+    "status": "active",
+    "rating": "3.53",
+    "campaign": {
+      "id": 23446,
+      "name": "Budzdorov",
+      "site_url": "https://www.budzdorov.ru/"
+    },
+    "description": "Дарим 700 бонусов всем новым клиентам!\r\nКарта лояльности «Аптечная семья» оформляется бесплатно.\r\n\r\n300 бонусов сразу за оформление карты лояльности в аптеке, на сайте или в мобильном приложении и подписку на уведомления (E-mail и/или Push), 200 бонусов за первую покупку в течение 15 дней после получения карты, 200 бонусов за вторую покупку в течение 15 дней после первой  покупки.\r\n\r\nВажно знать: При подписке на push убедитесь, что у вас включены уведомления от приложения «Будь здоров» в настройках вашего телефона. При подписке на e-mail проверьте корректность указанного вами e-mail адреса.\r\n\r\nКак потратить бонусы? У каждого начисления срок действия 15 дней с даты получения. Оплачивайте бонусами до 30% стоимости покупки. Используйте бонусы при покупке любых товаров, кроме исключений. Проверить баланс можно в личном кабинете на сайте, в мобильном приложении или в аптеке.\r\nБонусы начисляются однократно, при отмене и повторном разрешении на уведомления бонусы не начисляются.\r\n\r\nС картой лояльности «Аптечная семья» покупать выгодно!",
+    "short_name": "Велком-бонусы новым клиентам!",
+    "exclusive": false,
+    "date_end": "2026-12-31T23:59:00",
+    "date_start": "2025-11-25T00:00:00",
+    "id": 884682,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/10/15/23446-1a07392a64421ef4.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Велком-бонусы новым клиентам!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://ogsib.com/coupon/hthw8o5rmy5af0702a27562e5f47b0/?erid=2bL9aMPo2e49hMef4rqxsS2rok",
+    "goto_link": "https://ogsib.com/g/yznvx8no5p5af0702a27562e5f47b0/?i=3&erid=2bL9aMPo2e49hMef4rqxsS2rok"
+  }
+]

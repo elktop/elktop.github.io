@@ -1,0 +1,139 @@
+[
+  {
+    "status": "active",
+    "rating": "2.04",
+    "campaign": {
+      "id": 17378,
+      "name": "Букет СПБ RU",
+      "site_url": "https://www.buket-piter.ru/"
+    },
+    "description": "",
+    "short_name": "Букеты со скидками до -50%!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2022-03-03T18:28:10",
+    "id": 438478,
+    "regions": [
+      "RU"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      },
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/4/5/17378-2b8bf049c97b2140.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 9,
+        "name": "Gifts & Flowers"
+      }
+    ],
+    "name": "Букеты со скидками до -50%!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://thevospad.com/coupon/8nvrfz0p5y5af0702a279d0b0aeedb/?erid=2bL9aMPo2e49hMef4pezDdUKc9",
+    "goto_link": "https://thevospad.com/g/m5tvd6e2pe5af0702a279d0b0aeedb/?i=3&erid=2bL9aMPo2e49hMef4pezDdUKc9"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 17378,
+      "name": "Букет СПБ RU",
+      "site_url": "https://www.buket-piter.ru/"
+    },
+    "description": "",
+    "short_name": "Скидки на букеты до -40% + бесплатная доставка!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2020-09-22T15:33:41",
+    "id": 335253,
+    "regions": [
+      "RU"
+    ],
+    "discount": "40%",
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      },
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/4/5/17378-2b8bf049c97b2140.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 9,
+        "name": "Gifts & Flowers"
+      }
+    ],
+    "name": "Скидки на букеты до -40% + бесплатная доставка!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://thevospad.com/coupon/8tu7iitwmr5af0702a279d0b0aeedb/?erid=MvGzQC98w3Z1gMq1pS8ueNh7",
+    "goto_link": "https://thevospad.com/g/kzqawsde805af0702a279d0b0aeedb/?i=3&erid=MvGzQC98w3Z1gMq1pS8ueNh7"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 17378,
+      "name": "Букет СПБ RU",
+      "site_url": "https://www.buket-piter.ru/"
+    },
+    "description": "Ввод промо-кода не требуется;\r\nАкция распространяется на определенную группу товаров;\r\nАкция доступна для всех клиентов магазина;\r\nМинимальная сумма заказа 3500 рублей.",
+    "short_name": "Бесплатная доставка по СПБ!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2019-01-18T17:31:50",
+    "id": 225121,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/4/5/17378-2b8bf049c97b2140.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 9,
+        "name": "Gifts & Flowers"
+      }
+    ],
+    "name": "Бесплатная доставка по СПБ!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://thevospad.com/coupon/4zhvhcuxfm5af0702a279d0b0aeedb/?erid=MvGzQC98w3Z1gMq1nwbrVmBD",
+    "goto_link": "https://thevospad.com/g/ws8gyviqnl5af0702a279d0b0aeedb/?i=3&erid=MvGzQC98w3Z1gMq1nwbrVmBD"
+  }
+]

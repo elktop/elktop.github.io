@@ -1,0 +1,131 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 28861,
+      "name": "Польза",
+      "site_url": "https://polza.diet/"
+    },
+    "description": "",
+    "short_name": "Приведи друга и получи cкидку 20% на недельный заказ",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2022-10-11T15:44:11",
+    "id": 489355,
+    "regions": [
+      "RU"
+    ],
+    "discount": "20%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2022/7/11/28861-1d3131378dd1cd4c.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Приведи друга и получи cкидку 20% на недельный заказ",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://tywhh.com/coupon/mug4eajdwd5af0702a27b6fd49dbd9/?erid=2bL9aMPo2e49hMef4pfV71R3e9",
+    "goto_link": "https://tywhh.com/g/lsfpqvrg0x5af0702a27b6fd49dbd9/?i=3&erid=2bL9aMPo2e49hMef4pfV71R3e9"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 28861,
+      "name": "Польза",
+      "site_url": "https://polza.diet/"
+    },
+    "description": "",
+    "short_name": "Скидка 10%  на второй набор при заказе 2 наборов на 1 адрес",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2022-10-11T15:43:47",
+    "id": 489354,
+    "regions": [
+      "RU"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2022/7/11/28861-1d3131378dd1cd4c.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Скидка 10%  на второй набор при заказе 2 наборов на 1 адрес",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://tywhh.com/coupon/ih2alrkt685af0702a27b6fd49dbd9/?erid=2bL9aMPo2e49hMef4pfV71R3e8",
+    "goto_link": "https://tywhh.com/g/wt9czweg4x5af0702a27b6fd49dbd9/?i=3&erid=2bL9aMPo2e49hMef4pfV71R3e8"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 28861,
+      "name": "Польза",
+      "site_url": "https://polza.diet/"
+    },
+    "description": "",
+    "short_name": "Скидка 15% для клиентов старше 65 лет",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2022-10-11T15:43:25",
+    "id": 489353,
+    "regions": [
+      "RU"
+    ],
+    "discount": "15%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2022/7/11/28861-1d3131378dd1cd4c.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Скидка 15% для клиентов старше 65 лет",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://tywhh.com/coupon/ylis74qun85af0702a27b6fd49dbd9/?erid=2bL9aMPo2e49hMef4pfV71R3e7",
+    "goto_link": "https://tywhh.com/g/fe3zvazs9i5af0702a27b6fd49dbd9/?i=3&erid=2bL9aMPo2e49hMef4pfV71R3e7"
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 16026,
+      "name": "Sprinthost",
+      "site_url": "https://sprinthost.ru/"
+    },
+    "description": "5000 доменов в зоне .RU и .РФ всего за 149 рублей! \r\n\r\nВ разделе «Добавить сайт» укажите имя нового домена, который вы хотите зарегистрировать;\r\n\r\nПоставьте галочку «Зарегистрировать этот домен» и нажмите «Добавить сайт»;\r\n\r\nУкажите владельца домена и режим продления;\r\n\r\nВыберите регистратора Спринтнеймс;\r\n\r\nОжидайте письмо о регистрации нового домена!\r\n\r\nСрок действия акции ограничен количеством зарегистрированных доменов.",
+    "short_name": "Домен в зоне .RU или .РФ за 149 рублей!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2021-03-23T12:28:28",
+    "id": 365259,
+    "regions": [
+      "RU"
+    ],
+    "discount": "1%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/2/2/16026-1ccb0d7ff2844de4.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "Домен в зоне .RU или .РФ за 149 рублей!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://dkfrh.com/g/dqhgbx417e5af0702a27b183dfeeb8/?i=3&erid=2bL9aMPo2e49hMef4pdzTQkH6g"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 16026,
+      "name": "Sprinthost",
+      "site_url": "https://sprinthost.ru/"
+    },
+    "description": "",
+    "short_name": "Специальные предложения",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2020-12-30T17:50:10",
+    "id": 353086,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/2/2/16026-1ccb0d7ff2844de4.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "Специальные предложения",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://dkfrh.com/g/aildp3qniz5af0702a27b183dfeeb8/?i=3&erid=MvGzQC98w3Z1gMq1pShkjoyC"
+  }
+]

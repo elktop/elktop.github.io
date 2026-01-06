@@ -1,0 +1,96 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 14625,
+      "name": "KANZLER",
+      "site_url": "https://kanzler-style.ru/"
+    },
+    "description": "",
+    "short_name": "Подарки от партнеров за заказ!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2022-07-04T15:35:55",
+    "id": 466787,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/12/1/14625-b12f8666b707e8aa.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 4,
+        "name": "Shoes"
+      },
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Подарки от партнеров за заказ!",
+    "language": null,
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://dorinebeaumont.com/g/fr1i4obx4y5af0702a27d49f1e17ed/?i=3&erid=2bL9aMPo2e49hMef4peztv9xQH"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 14625,
+      "name": "KANZLER",
+      "site_url": "https://kanzler-style.ru/"
+    },
+    "description": "",
+    "short_name": "Скидка 10% за подписку на новости",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2022-07-04T15:35:15",
+    "id": 466786,
+    "regions": [
+      "RU"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/12/1/14625-b12f8666b707e8aa.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 4,
+        "name": "Shoes"
+      },
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Скидка 10% за подписку на новости",
+    "language": null,
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://dorinebeaumont.com/g/esix1ai8m85af0702a27d49f1e17ed/?i=3&erid=2bL9aMPo2e49hMef4peztv9xQG"
+  }
+]

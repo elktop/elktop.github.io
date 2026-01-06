@@ -1,0 +1,217 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 26562,
+      "name": "Street-One NL",
+      "site_url": "https://www.street-one.nl/"
+    },
+    "description": "Profiteer van tot 50% korting op geselecteerde items voor heren uit de categorie \"\"Sale\"\"!",
+    "short_name": "Tot 50% korting op sale-artikelen voor heren!",
+    "exclusive": false,
+    "date_end": "2026-01-06T23:59:00",
+    "date_start": "2026-01-02T12:00:00",
+    "id": 894194,
+    "regions": [
+      "NL"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/8/29/26562-cc81aeaa4966208d.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Tot 50% korting op sale-artikelen voor heren!",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRE",
+    "frameset_link": "https://ad.admitad.com/coupon/jm9u7g6gov5af0702a2792ce75e199/",
+    "goto_link": "https://ad.admitad.com/g/vvjvuqu7og5af0702a2792ce75e199/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 26562,
+      "name": "Street-One NL",
+      "site_url": "https://www.street-one.nl/"
+    },
+    "description": "10% korting als je je inschrijft voor onze nieuwsbrief!",
+    "short_name": "10% korting op bijna alles!",
+    "exclusive": false,
+    "date_end": "2026-01-13T23:59:00",
+    "date_start": "2026-01-02T12:00:00",
+    "id": 894193,
+    "regions": [
+      "NL"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/8/29/26562-cc81aeaa4966208d.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "10% korting op bijna alles!",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRE",
+    "frameset_link": "https://ad.admitad.com/coupon/a10jeqpcmt5af0702a2792ce75e199/",
+    "goto_link": "https://ad.admitad.com/g/4gweihguv85af0702a2792ce75e199/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 26562,
+      "name": "Street-One NL",
+      "site_url": "https://www.street-one.nl/"
+    },
+    "description": "Profiteer van tot 50% korting op de aankoop van geselecteerde items voor dames uit de categorie \"Sale\"!",
+    "short_name": "Tot 50% korting op sale-artikelen voor dames!",
+    "exclusive": false,
+    "date_end": "2026-01-20T23:59:00",
+    "date_start": "2026-01-02T12:00:00",
+    "id": 894192,
+    "regions": [
+      "NL"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/8/29/26562-cc81aeaa4966208d.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Tot 50% korting op sale-artikelen voor dames!",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRE",
+    "frameset_link": "https://ad.admitad.com/coupon/zswv6swocm5af0702a2792ce75e199/",
+    "goto_link": "https://ad.admitad.com/g/qh8row6lm85af0702a2792ce75e199/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 26562,
+      "name": "Street-One NL",
+      "site_url": "https://www.street-one.nl/"
+    },
+    "description": "Word nu lid en profiteer van gratis verzending bij een minimale bestelwaarde van € 29.",
+    "short_name": "Gratis verzending voor leden!",
+    "exclusive": false,
+    "date_end": "2026-01-27T23:59:00",
+    "date_start": "2026-01-02T12:00:00",
+    "id": 894191,
+    "regions": [
+      "NL"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/8/29/26562-cc81aeaa4966208d.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Gratis verzending voor leden!",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRE",
+    "frameset_link": "https://ad.admitad.com/coupon/0dlbigj0h35af0702a2792ce75e199/",
+    "goto_link": "https://ad.admitad.com/g/dno8qclsbf5af0702a2792ce75e199/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 26562,
+      "name": "Street-One NL",
+      "site_url": "https://www.street-one.nl/"
+    },
+    "description": "Ontvang nu tot 30% korting op een selectie jassen & meer voor dames.",
+    "short_name": "Tot 30% korting op jassen & meer!",
+    "exclusive": false,
+    "date_end": "2026-01-06T23:59:00",
+    "date_start": "2026-01-02T12:00:00",
+    "id": 894190,
+    "regions": [
+      "NL"
+    ],
+    "discount": "30%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/8/29/26562-cc81aeaa4966208d.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Tot 30% korting op jassen & meer!",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRE",
+    "frameset_link": "https://ad.admitad.com/coupon/kttxnmrx475af0702a2792ce75e199/",
+    "goto_link": "https://ad.admitad.com/g/jhvsi6k7x25af0702a2792ce75e199/?i=3"
+  }
+]

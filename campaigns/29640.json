@@ -1,0 +1,131 @@
+[
+  {
+    "status": "active",
+    "rating": "0.88",
+    "campaign": {
+      "id": 29640,
+      "name": "Hvalwaters",
+      "site_url": "https://hvalwaters.ru/"
+    },
+    "description": "",
+    "short_name": "Подарки и скидки!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-08-08T11:55:49",
+    "id": 570149,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2022/10/21/29640-8ea76f8638bfda15.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "Подарки и скидки!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://xmknb.com/coupon/egsehyy4055af0702a2700dcac28d3/?erid=2bL9aMPo2e49hMef4pgUkgcvSC",
+    "goto_link": "https://xmknb.com/g/b4m98x4q7s5af0702a2700dcac28d3/?i=3&erid=2bL9aMPo2e49hMef4pgUkgcvSC"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 29640,
+      "name": "Hvalwaters",
+      "site_url": "https://hvalwaters.ru/"
+    },
+    "description": "",
+    "short_name": "Получайте воду дешевле или вообще бесплатно! Бонусная программа",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-08-08T11:54:29",
+    "id": 570147,
+    "regions": [
+      "RU"
+    ],
+    "discount": "5%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2022/10/21/29640-8ea76f8638bfda15.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "Получайте воду дешевле или вообще бесплатно! Бонусная программа",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://xmknb.com/coupon/uafhqreu5d5af0702a2700dcac28d3/?erid=2bL9aMPo2e49hMef4pgUkgcbe8",
+    "goto_link": "https://xmknb.com/g/istf8vajay5af0702a2700dcac28d3/?i=3&erid=2bL9aMPo2e49hMef4pgUkgcbe8"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 29640,
+      "name": "Hvalwaters",
+      "site_url": "https://hvalwaters.ru/"
+    },
+    "description": "",
+    "short_name": "Стартовый набор за 449 руб!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-08-04T10:59:01",
+    "id": 568862,
+    "regions": [
+      "RU"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2022/10/21/29640-8ea76f8638bfda15.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "Стартовый набор за 449 руб!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://xmknb.com/coupon/qq1mcyfkdy5af0702a2700dcac28d3/?erid=2bL9aMPo2e49hMef4pgUkddGYM",
+    "goto_link": "https://xmknb.com/g/o02kefsbko5af0702a2700dcac28d3/?i=3&erid=2bL9aMPo2e49hMef4pgUkddGYM"
+  }
+]

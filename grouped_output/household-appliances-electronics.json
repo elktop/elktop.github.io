@@ -2,113 +2,36 @@
   {
     "id": 2402,
     "name": "МегаФон",
+    "name_aliases": "Megafon, МегаФон",
+    "site_url": "https://shop.megafon.ru/",
+    "description": "Информация о бренде/магазине:\r\n\r\nДобро пожаловать в интернет-магазин компании МегаФон!\r\nВ нашем интернет-магазине вы можете приобрести смартфоны и планшеты ведущих производителей, аксессуары к ним, а также подключиться к тарифным планам МегаФон и самостоятельно выбрать запоминающийся номер, при помощи различных способов подбора. Например, вы можете поискать номер, содержащий любимое число или похожий на номер домашнего телефона, с повторяющимися цифрами или включающий памятную дату. На сайте представлены наши фирменные модемы и роутеры, которые позволят вам всегда оставаться на связи!\r\n\r\nПортрет ЦА (демография, география):\r\n\r\n\r\n\r\n\r\n\r\nПол:\r\nМужчины - 65%\r\nЖенщины - 35%\r\n\r\nВозраст:\r\n18-24 - 15%\r\n25-34 - 20%\r\n35-44 - 35%\r\n45-54% - 20%\r\n55-65% - 5%\r\n\r\nПреимущества работы для партнеров:\r\n\r\n1.       Работа с крупной стабильной компанией\r\n2.       Известность бренда\r\n3.       Высокая конверсия\r\n4.       Широкий выбор качественных рекламных материалов\r\n\r\nКак проходит сверка:\r\nРаз в месяц с 1-14 число, ручная\r\n\r\nДанные об ОРД:\r\nКод ККТУ 23.1.2\r\n\r\nВыдача промокодов:\r\nПо запросу веб-мастера\r\n\r\nИнформация про модерацию:\r\nНа стороне рекламодателя",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/1/16/2402-40e3a5aa54f776dd.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Household Appliances & Electronics",
+        "id": 65,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
     "img": "platform/2402.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Household Appliances & Electronics",
-        "id": 65,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "category": {
-      "name": "Household Appliances & Electronics",
-      "id": 65,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 13623,
-    "name": "Banggood WW",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/12/6/13623-dfbe7221ab9eb994.svg",
-    "img": "platform/13623.svg",
-    "categories": [
-      {
-        "name": "Household Appliances & Electronics",
-        "id": 65,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Marketplaces (including Chinese Stores)",
-        "id": 96,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Hand & Power tools",
-        "id": 102,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Furniture & Homeware",
-        "id": 66,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Sports & Outdoor",
-        "id": 85,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Smart tracking programs",
-        "id": 382,
-        "language": "en",
-        "parent": null
-      }
-    ],
+    "affiliate": {
+      "goto_link": "https://dhwnh.com/g/207bcbdf4c5af0702a27159ac4a8d3/?erid=F7NfYUJRWmqqH7kvRQRV",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Household Appliances & Electronics",
       "id": 65,
@@ -124,8 +47,11 @@
   {
     "id": 14113,
     "name": "Tefal",
+    "name_aliases": "tefal, тефаль",
+    "site_url": "https://tefal.ru/",
+    "description": "Официальный интернет-магазин TEFAL предлагает яркую и практичную бытовую технику, уникальную посуду с антипригарным покрытием, фирменные коллекции посуды, разработанные знаменитым Джейми Оливером, кухонные аксессуары и другие продукты TEFAL. Магазин создан и поддерживается в партнерстве с ООО «ГИПЕР», официальным партнёром TEFAL.\r\n\r\nПортрет ЦА\r\n\r\nПрактичные семьи и активные современные потребители, ценящие инновационные, удобные и надежные решения для кухни. Основной фокус сделан на занятых людях (чаще — женщин 25-55 лет), которые стремятся упростить повседневные задачи, экономя время без ущерба качеству. Бренд также ориентируется на здоровый образ жизни, предлагая технологии, которые помогают готовить полезную пищу (например, антипригарные покрытия и пароварки).\r\n\r\nПреимущества работы для партнеров \r\n\r\n- Всемирно известный бренд \r\n\r\n- Высокий процент вознаграждений \r\n\r\n- Время жизни PostClick Cookie — 30 дней \r\n\r\n- Время холда — 30 дней\r\n\r\nПреимущества для клиентов \r\n\r\n- Вся продукция сертифицирована, соответствует стандартам и проверяется независимыми лабораториями \r\n\r\n- Гарантия на продукцию \r\n\r\n- Квалифицированное сервисное обслуживание и бесплатная техническая поддержка \r\n\r\n- Доставка по всей России\r\n\r\nУсловия доставки \r\n\r\nДоставка заказов по Москве и Санкт-Петербургу осуществляется транспортными компаниями Dalli Service, Яндекс Доставка, DPD и СДЭК\r\n\r\nСтоимость доставки:\r\n\r\nКурьер:\r\n\r\n\r\n\t\r\n\tдля заказов на сумму меньше 5 000 руб. — 490 руб.\r\n\t\r\n\t\r\n\tдля заказов на сумму меньше 10 000 руб. — 190 руб.\r\n\t\r\n\t\r\n\tдля заказов на сумму от 10 000 руб. — бесплатно\r\n\t\r\n\t\r\n\tдоставка паровых систем 1000 руб.\r\n\t\r\n\t\r\n\tстоимость доставки для юридических лиц уточняйте у менеджера при заказе\r\n\t\r\n\r\n\r\nПВЗ:\r\n\r\n\r\n\t\r\n\tдля заказов на сумму меньше 10 000 руб. — согласно расчету калькулятора на сайте\r\n\t\r\n\t\r\n\tдля заказов на сумму больше 10 000 руб. — бесплатно\r\n\t\r\n\t\r\n\tдоставка паровых систем 1000 руб.\r\n\t\r\n\r\n\r\nОбычно доставка товара производится в течение следующего рабочего дня после заказа. Оплатить товар курьеру можно наличными или банковской картой.\r\n\r\nЭкспресс-доставка осуществляется службой Курьерист и доступна только для покупателей из Москвы и Санкт-Петербурга. Покупатель оплачивает полную стоимость услуги, которую устанавливает служба доставки. Оплата экспресс-доставки доступна только онлайн.\r\n\r\nРегионы\r\n\r\nСтоимость доставки:\r\n\r\nКурьер:\r\n\r\n\r\n\t\r\n\tдля заказов на сумму меньше 20 000 руб. — согласно расчету калькулятора на сайте\r\n\t\r\n\t\r\n\tдля заказов на сумму больше 20 000 руб. — бесплатно\r\n\t\r\n\t\r\n\tдоставка паровых систем 1490 руб. \r\n\t\r\n\t\r\n\tстоимость доставки для юридических лиц уточняйте у менеджера при заказе\r\n\t\r\n\r\n\r\nПВЗ:\r\n\r\n\r\n\t\r\n\tдля заказов на сумму меньше 10 000 руб. — согласно расчету калькулятору на сайте\r\n\t\r\n\t\r\n\tдля заказов на сумму больше 10 000 руб. — бесплатно\r\n\t\r\n\t\r\n\tдоставка паровых систем 1490 руб.\r\n\t\r\n\r\n\r\nОплатить товар курьеру можно наличными или банковской картой. Регионы-исключения: Амурская область, Камчатский край, Магаданская область, Сахалинская область, Чукотский АО, Якутия, Норильск, Калининградская область - возможна только онлайн-оплата на сайте.\r\n\r\nКак проходит сверка\r\n\r\nСверка проводится вручную 1 раз в месяц.\r\n\r\nВыдача промокодов\r\n\r\nВ программе выдаются именные промокоды\r\n\r\nИнформация про модерацию \r\n\r\nМодерация проводится оперативно, 3 раза в неделю.",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2020/10/19/14113-37f7a7e0b8b3074a.jpg",
-    "img": "platform/14113.jpg",
     "categories": [
       {
         "name": "Household Appliances & Electronics",
@@ -157,6 +83,18 @@
         "parent": null
       }
     ],
+    "img": "platform/14113.jpg",
+    "affiliate": {
+      "goto_link": "https://xpuvo.com/g/4g9wcb99tf5af0702a2784f7c78da0/?erid=25H8d7vbP8SRTvFaDGHA8o",
+      "landings": [
+        {
+          "id": 31385,
+          "name": "Новогодняя распродажа, скидки до -80",
+          "code": "f0f96a8558"
+        }
+      ],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Household Appliances & Electronics",
       "id": 65,
@@ -172,8 +110,11 @@
   {
     "id": 14622,
     "name": "DHgate WW",
+    "name_aliases": "DHgait, dhgeit, DH gate, DH gaut, dhgayt, dhgeyt, врпфеу, врп\\не",
+    "site_url": "https://www.dhgate.com/",
+    "description": "DHgate is a leading online shopping platform for both retailers and wholesalers from China!\r\n\r\nDHgate.com is the world's leading online wholesale marketplace for goods made in China, connecting international buyers with Chinese wholesale sellers who offer the same quality products found elsewhere at a fraction of the price. DHgate hosts over 30 million products in a wide range. Get low prices on top selling products such as but not limited to wedding dresses, tablet pc, and cell phones. Sellers on DHgate offer a huge range of goods from China at very attractive prices. Here are and Chinese electronics, and a variety of accessories for popular gadgets, cheap clothes, shoes, jewelry, watches, sports goods, household goods, toys and much more. We can say that on DHgate have almost all kinds of consumer goods that are manufactured in China. Sellers of goods sent by post to all over the world.\r\n\r\nBenefits for users:\r\n\r\n\r\n\tFree shipping for the most of goods\r\n\tYou can bargain with the sellers\r\n\tWholesale and retail\r\n\tSecure payment system - the funds are transferred to DHgate account and only then to the seller\r\n\tSimple conditions of return\r\n\r\n\r\nBenefits for publishers:\r\n\r\n\r\n\tHigh average check! Wholesale purchases\r\n\t30 days of cookies lifetime\r\n\tUptodate promotions\r\n\tMillions of goods  - a huge set of commodities available to all the publishers\r\n\tAdditional opportunities to earn extra bonuses - could be discussed on an individual basis\r\n\tThe platform is very popular all over the world\r\n\r\n\r\nJoin the affiliate program DHgate WW!",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/12/6/14622-71d163c4c54338eb.svg",
-    "img": "platform/14622.svg",
     "categories": [
       {
         "name": "Household Appliances & Electronics",
@@ -232,6 +173,323 @@
         "parent": null
       }
     ],
+    "img": "platform/14622.svg",
+    "affiliate": {
+      "goto_link": "https://rzekl.com/g/pzwp2neyhy5af0702a276a95c12d58/",
+      "landings": [
+        {
+          "id": 27271,
+          "name": "Eid Al Adha offers Discounts up to 50 percent. Choose a gift for your family",
+          "code": "645e9cd0d6"
+        },
+        {
+          "id": 31442,
+          "name": "The Global Gifting Guide__Up to 70 percent Off__17.12--26.12",
+          "code": "b7409c2517"
+        },
+        {
+          "id": 21837,
+          "name": "Express Dispatch Within 48 Hours Local Warehouse and Fast Delivery",
+          "code": "c0c7fe16d7"
+        },
+        {
+          "id": 21840,
+          "name": "Multi-Tier Discounts Save Even More Across Stores",
+          "code": "7574e4c799"
+        },
+        {
+          "id": 31193,
+          "name": "Global Goodies, Direct to South Africa___valid 4.11-31.12",
+          "code": "861e257bcb"
+        },
+        {
+          "id": 27877,
+          "name": "test link",
+          "code": "fed1f194f5"
+        },
+        {
+          "id": 31194,
+          "name": "Global Goodies, Direct to South Africa___APP___valid 4.11-31.12",
+          "code": "068d6a83d1"
+        },
+        {
+          "id": 31195,
+          "name": "Christmas Gift Specials___valid 5.11-30.11",
+          "code": "9ec99f190e"
+        },
+        {
+          "id": 27897,
+          "name": "Featured Stores",
+          "code": "0a42b78471"
+        },
+        {
+          "id": 31478,
+          "name": "UK Boxing Day Sale Up to 70 per cent Off",
+          "code": "8ca158be42"
+        },
+        {
+          "id": 21834,
+          "name": "Sourcing For Trending Products Great Picks of Home, Auto and Industrial Products From 0.99 USD",
+          "code": "03c039a573"
+        },
+        {
+          "id": 16588,
+          "name": "Registration",
+          "code": "7a8306b69c"
+        },
+        {
+          "id": 9967,
+          "name": "DHgate Home Page",
+          "code": "6606018c4d"
+        },
+        {
+          "id": 21835,
+          "name": "Top Picks and Deals Cellphone Accessories and More Up To 70perc. Off",
+          "code": "bd0a372f5f"
+        },
+        {
+          "id": 21832,
+          "name": "Women's Bags and Shoes Explore 2022 Fashion Trends UP TO 50 perc. OFF",
+          "code": "30d8b9f99b"
+        },
+        {
+          "id": 21836,
+          "name": "Discover High-Tech Essentials Electronics and More Up To 70 perc. Off",
+          "code": "0d616a741c"
+        },
+        {
+          "id": 21831,
+          "name": "Refresh Your Winter Wear Hot Deals Down to 9.99USD",
+          "code": "020f3a6b1d"
+        },
+        {
+          "id": 31342,
+          "name": "Black Friday 2025_Top Deals",
+          "code": "dd5ce7d16d"
+        },
+        {
+          "id": 21833,
+          "name": "Outdoor Clothing and Footwear Get Kitted Out For Your Next Adventure UP TO 50 perc. OFF",
+          "code": "60eb53cdcf"
+        },
+        {
+          "id": 21839,
+          "name": "Customized Wholesale Products 48 Hours Fast Dispatch Up To 80 perc. Off",
+          "code": "3ac7d6dfe4"
+        },
+        {
+          "id": 30930,
+          "name": "Premium Quality, Source Factory PC",
+          "code": "7e3a4d1e06"
+        },
+        {
+          "id": 30932,
+          "name": "Fresh Fits Every Tuesday PC",
+          "code": "8bd35659fc"
+        },
+        {
+          "id": 30931,
+          "name": "Premium Quality, Source Factory APP",
+          "code": "409fb07679"
+        },
+        {
+          "id": 30935,
+          "name": "Select Your Style APP",
+          "code": "921030abeb"
+        },
+        {
+          "id": 30936,
+          "name": "High Quality Sellers PC",
+          "code": "5b072a46ba"
+        },
+        {
+          "id": 30933,
+          "name": "Fresh Fits Every Tuesday APP",
+          "code": "77d43c2d04"
+        },
+        {
+          "id": 30934,
+          "name": "Select Your Style PC",
+          "code": "b2a5277522"
+        },
+        {
+          "id": 30937,
+          "name": "High Quality Sellers APP",
+          "code": "c26f241135"
+        },
+        {
+          "id": 27089,
+          "name": "Selling Shoes",
+          "code": "9408030808"
+        },
+        {
+          "id": 28950,
+          "name": "Christmas promotion",
+          "code": "697ef77218"
+        },
+        {
+          "id": 31099,
+          "name": "Halloween sale",
+          "code": "4840c2cb1d"
+        },
+        {
+          "id": 27972,
+          "name": "Mega Deals",
+          "code": "db3277df35"
+        },
+        {
+          "id": 25607,
+          "name": "DIY products",
+          "code": "85d3a8ef8e"
+        },
+        {
+          "id": 21830,
+          "name": "\"Discover the Best Sellers Up To 70per Off Get Seller Coupons\"",
+          "code": "5d5732c717"
+        },
+        {
+          "id": 30664,
+          "name": "Anniversary Sale Main Landing Page PC",
+          "code": "9bb343860a"
+        },
+        {
+          "id": 30665,
+          "name": "Anniversary Sale Main Landing Page APP",
+          "code": "8be13bb3f8"
+        },
+        {
+          "id": 21838,
+          "name": "Customized Wholesale Products 48 Hours Fast Dispatch Up To 80 perc. Off",
+          "code": "a8fdb7e4ce"
+        },
+        {
+          "id": 30633,
+          "name": "Lenovo Global HEADPHONES Launch",
+          "code": "ff82b4c658"
+        },
+        {
+          "id": 30634,
+          "name": "lenovo app",
+          "code": "ed8aa9f455"
+        },
+        {
+          "id": 31228,
+          "name": "Black Friday Early Bird Offers__valid Nov 11-14___PC",
+          "code": "e15a6c5086"
+        },
+        {
+          "id": 31229,
+          "name": "Black Friday Early Bird Offers__valid Nov 11-14___APP",
+          "code": "e3c3c32401"
+        },
+        {
+          "id": 31292,
+          "name": "Black Friday Sale__EN Main Venue__PC__19.11-1.12",
+          "code": "4d85680547"
+        },
+        {
+          "id": 31294,
+          "name": "Black Friday Sale__EN Bestsellers Venue__PC__19.11-1.12",
+          "code": "68e70a5620"
+        },
+        {
+          "id": 31293,
+          "name": "Black Friday Sale__EN Main Venue__APP__19.11-1.12",
+          "code": "cc5c872842"
+        },
+        {
+          "id": 31295,
+          "name": "Black Friday Sale__EN Bestsellers Venue__APP__19.11-1.12",
+          "code": "2173b785ed"
+        },
+        {
+          "id": 31296,
+          "name": "Black Friday Sale__FR Main Venue__PC__19.11-1.12",
+          "code": "09c939fce5"
+        },
+        {
+          "id": 31297,
+          "name": "Black Friday Sale__FR Main Venue__APP__19.11-1.12",
+          "code": "45e91e6353"
+        },
+        {
+          "id": 31305,
+          "name": "Black Friday Sale__DE Main Venue__APP__19.11-1.12",
+          "code": "789a07f15c"
+        },
+        {
+          "id": 31301,
+          "name": "Black Friday Sale__ES Main Venue__APP__19.11-1.12",
+          "code": "ecb3ca5aa2"
+        },
+        {
+          "id": 31304,
+          "name": "Black Friday Sale__DE Main Venue__PC__19.11-1.12",
+          "code": "49f4b5bd2d"
+        },
+        {
+          "id": 31299,
+          "name": "Black Friday Sale__FR New Arrivals__APP__19.11-1.12",
+          "code": "8d0cddf403"
+        },
+        {
+          "id": 31298,
+          "name": "Black Friday Sale__FR New Arrivals__PC__19.11-1.12",
+          "code": "82825c3ed8"
+        },
+        {
+          "id": 31300,
+          "name": "Black Friday Sale__ES Main Venue__PC__19.11-1.12",
+          "code": "dfb5d20e2b"
+        },
+        {
+          "id": 31308,
+          "name": "Black Friday Sale__IT Main Venue__PC__19.11-1.12",
+          "code": "fcd1a8d9aa"
+        },
+        {
+          "id": 31309,
+          "name": "Black Friday Sale__IT Main Venue__APP__19.11-1.12",
+          "code": "31a627c131"
+        },
+        {
+          "id": 31310,
+          "name": "Black Friday Sale__IT New Arrivals__PC__19.11-1.12",
+          "code": "a0c71758c2"
+        },
+        {
+          "id": 31311,
+          "name": "Black Friday Sale__IT New Arrivals__APP__19.11-1.12",
+          "code": "bc7d24fe78"
+        },
+        {
+          "id": 31302,
+          "name": "Black Friday Sale__ES New Arrivals__PC__19.11-1.12",
+          "code": "b56acd9d79"
+        },
+        {
+          "id": 31303,
+          "name": "Black Friday Sale__ES New Arrivals__APP__19.11-1.12",
+          "code": "9da66da432"
+        },
+        {
+          "id": 31307,
+          "name": "Black Friday Sale__DE New Arrivals__APP__19.11-1.12",
+          "code": "a8726166c8"
+        },
+        {
+          "id": 31306,
+          "name": "Black Friday Sale__DE New Arrivals__PC__19.11-1.12",
+          "code": "ed471ad06f"
+        },
+        {
+          "id": 31383,
+          "name": "Gifting Season__Black Friday Hit Products Return__2-5.12",
+          "code": "399819938f"
+        }
+      ],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Household Appliances & Electronics",
       "id": 65,
@@ -247,8 +505,11 @@
   {
     "id": 15467,
     "name": "Geekbuying WW",
+    "name_aliases": "geekbuiyng, gekbuying, geekbuing, geekbuyng, гикбаингб гикбаин, int, инт, Geekbuying.com INT, Geekbuying.com",
+    "site_url": "https://www.geekbuying.com/",
+    "description": "We welcome all of you to join our Geekbuying Shopping Carnival and earn more money!\r\n\r\nGeekBuying - it is a professional and reliable online store founded in 2012, which specializes in selling electronics: TV set-top boxes, smartphones, tablets, video recorders and other gadgets (more than 10,000 products in 14 major categories). As the name implies, GeekBuying popular with hundreds of thousands of geeks around the world.\r\n\r\nGeekBuying team focused on customer needs, meet their needs and trying to exceed their expectations.\r\n\r\nGeekBuying.com was created to present to the world the most interesting gadgets at incredibly low prices. \r\n\r\nWe know that online shopping has become very popular around the world these days, but at the same time making a purchase on-line, you lose some highlight the real process of shopping. In GeekBuying we have tried to create such an online store to your purchases have been for you in the joy. \r\nIt does not matter, you are a geek or not, you will certainly enjoy shopping in GeekBuying. We work with all the dedication that each time to surpass your expectations. \r\nMake a purchase and see it!\r\n\r\nNow you can find all the best deals in this file (updated daily)!\r\n\r\n \r\n\r\nGEEKBUYING guarantees:\r\n\r\n\r\n\tOriginal goods at competitive prices\r\n\t100% strict quality control and express delivery\r\n\tFree shipping trusted intermediaries\r\n\tExcellent reputation in customer service\r\n\t1-year warranty for free repair\r\n\tThe principles of secure payment and confidentiality of information\r\n\r\n\r\n \r\n\r\nTarget audience: men aged 18 to 45 years.\r\n\r\n\r\n\r\n \r\n\r\nSincerely, \r\nGeekbuying.com affiliate program",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/12/6/15467-132f8e42f99e6f75.svg",
-    "img": "platform/15467.svg",
     "categories": [
       {
         "name": "Household Appliances & Electronics",
@@ -285,6 +546,33 @@
         "parent": null
       }
     ],
+    "img": "platform/15467.svg",
+    "affiliate": {
+      "goto_link": "https://bywiola.com/g/78tuvzaw8k5af0702a270267b86f6e/",
+      "landings": [
+        {
+          "id": 28873,
+          "name": "BF2024",
+          "code": "e4e10cd051"
+        },
+        {
+          "id": 28874,
+          "name": "BF2 2024",
+          "code": "ac4bb92b3d"
+        },
+        {
+          "id": 28655,
+          "name": "November 2024 HighComission",
+          "code": "711244ad3b"
+        },
+        {
+          "id": 15519,
+          "name": "Roborock S7 Launch Sales",
+          "code": "1f855eb443"
+        }
+      ],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Household Appliances & Electronics",
       "id": 65,
@@ -300,8 +588,11 @@
   {
     "id": 15487,
     "name": "KRUPS",
+    "name_aliases": "Krups, Крупс, лкгзы, rhegc",
+    "site_url": "https://krups.ru/",
+    "description": "KRUPS — бренд с более чем полуторавековой историей, основанный в 1846 году в Золингене (Германия). Компания известна точностью, качеством и стильным дизайном своей продукции. KRUPS постоянно совершенствует технику, внедряя инновационные технологии и современный дизайн. В 2006 году была представлена серия кухонной техники Krups Prep Expert с профессиональной эффективностью и высокой производительностью. Ассортимент включает автоматические кофемашины, рожковые кофеварки эспрессо, Nescafe Dolce Gusto, Nespresso и аксессуары.\r\n\r\nПортрет ЦА \r\n\r\nПремиальные потребители (30-55 лет), ценители высококачественной кофейной и кухонной техники, для которых важны инновационные технологии, элегантный дизайн и профессиональный результат. Бренд ориентирован на успешных профессионалов и гурманов, готовых инвестировать в долговечные и технологичные устройства для создания идеального кофе и кулинарных шедевров дома.\r\n\r\nПреимущества работы для партнеров \r\n\r\n- Высокий процент вознаграждений \r\n\r\n- Время холда — 30 дней \r\n\r\n- Время жизни Cookies — 30 дней \r\n\r\n- Всемирно известная продукция бренда\r\n\r\nПреимущества для клиентов \r\n\r\n- Фирменная гарантия на продукцию 2 года \r\n\r\n- Вся продукция сертифицирована \r\n\r\n- Возврат по любой причине в течение 7 дней \r\n\r\n- Бесплатная доставка при заказе от 5 000 рублей\r\n\r\nУсловия доставки \r\n\r\nКурьер:\r\n\r\nДля заказов на сумму меньше 5 000 руб. — 300 руб.\r\n\r\nДля заказов на сумму больше 5 000 руб. — бесплатно\r\n\r\nСтоимость доставки для юридических лиц уточняйте у менеджера при заказе\r\n\r\nПВЗ:\r\n\r\nдля заказов на сумму меньше 5 000 руб. — согласно расчету калькулятору на сайте \r\n\r\nдля заказов на сумму больше 5 000 руб. — бесплатно \r\n\r\nРегионы:\r\n\r\nКурьер:\r\n\r\nДля заказов на сумму меньше 10 000 руб. — согласно расчету калькулятора на сайте\r\n\r\nДля заказов на сумму больше 10 000 руб. — бесплатно\r\n\r\nСтоимость доставка для юридических лиц уточняйте у менеджера при заказе\r\n\r\nПВЗ:\r\n\r\nдля заказов на сумму меньше 5 000 руб. — согласно расчету калькулятора на сайте \r\n\r\nдля заказов на сумму больше 5 000 руб. — бесплатно \r\n\r\nКак проходит сверка \r\n\r\nСверка проводится вручную 1 раз в начале каждого месяца.\r\n\r\nВыдача промокодов\r\n\r\nВ программе выдаются именные промокоды\r\n\r\nИнформация про модерацию \r\n\r\nМодерация проводится оперативно, 3 раза в неделю.\r\n\r\n \r\n\r\nПодключайтесь к партнерской программе KRUPS!",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2020/10/26/15487-1632b0ff99248a9b.jpg",
-    "img": "platform/15487.jpg",
     "categories": [
       {
         "name": "Online stores",
@@ -327,6 +618,12 @@
         "parent": null
       }
     ],
+    "img": "platform/15487.jpg",
+    "affiliate": {
+      "goto_link": "https://bednari.com/g/19845i4v375af0702a27f0da19d497/?erid=25H8d7vbP8SRTvG56HSigH",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Household Appliances & Electronics",
       "id": 65,
@@ -342,8 +639,11 @@
   {
     "id": 15488,
     "name": "Moulinex",
+    "name_aliases": "Moulinex, мулинекс, vekbytrc, ьщгдштуч",
+    "site_url": "https://moulinex.ru/",
+    "description": "Всемирно известный бренд Moulinex более 80 лет производит электроприборы, которые дарят истинное удовольствие от приготовления пищи. Компания постоянно изобретает и совершенствует продукцию, отвечая ежедневным потребностям клиентов. Ассортимент включает мясорубки, мультиварки, кухонные машины, погружные блендеры, хлебопечки и чайники.\r\n\r\nПортрет ЦА\r\n\r\nПрактичные и активные люди (преимущественно женщины 25-55 лет), ценящие удобство, технологичность и стильный дизайн кухонной техники. Бренд ориентирован на семьи и современных пользователей, которые хотят экономить время на готовке, но при этом получать профессиональный результат с помощью интуитивно понятных и многофункциональных устройств.\r\n\r\nПреимущества работы для партнеров \r\n\r\n- Всемирно известный бренд \r\n\r\n- Высокий процент вознаграждений \r\n\r\n- Время холда — 30 дней \r\n\r\n- Время жизни Cookies — 30 дней\r\n\r\nПреимущества для клиентов \r\n\r\n- Фирменная гарантия на продукцию 2 года \r\n\r\n- Вся продукция сертифицирована \r\n\r\n- Возврат по любой причине в течение 7 дней \r\n\r\n- Бесплатная доставка при заказе от 5 000 рублей\r\n\r\nУсловия доставки \r\n\r\nКурьер:\r\n\r\nДля заказов на сумму меньше 5 000 руб. — 300 руб.\r\n\r\nДля заказов на сумму больше 5 000 руб. — бесплатно\r\n\r\nПВЗ:\r\n\r\nдля заказов на сумму меньше 5 000 руб. — согласно расчету калькулятору на сайте \r\n\r\nдля заказов на сумму больше 5 000 руб. — бесплатно \r\n\r\nРегионы\r\n\r\nКурьер:\r\n\r\nДля заказов на сумму меньше 10 000 руб. — согласно расчету калькулятора на сайте\r\n\r\nДля заказов на сумму больше 10 000 руб. — бесплатно\r\n\r\nПВЗ:\r\n\r\nдля заказов на сумму меньше 5 000 руб. — согласно расчету калькулятора на сайте \r\n\r\nдля заказов на сумму больше 5 000 руб. — бесплатно\r\n\r\nКак проходит сверка \r\n\r\nСверка проводится вручную 1 раз в месяц.\r\n\r\nВыдача промокодов \r\n\r\nВ программе выдаются именные промокоды\r\n\r\nИнформация про модерацию \r\n\r\nМодерация проводится оперативно, 3 раза в неделю.\r\n\r\n \r\n\r\nПодключайтесь к партнерской программе Moulinex!",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2020/10/26/15488-45e62abccca25147.jpg",
-    "img": "platform/15488.jpg",
     "categories": [
       {
         "name": "Household Appliances & Electronics",
@@ -369,48 +669,12 @@
         "parent": null
       }
     ],
-    "category": {
-      "name": "Household Appliances & Electronics",
-      "id": 65,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 16711,
-    "name": "Kinostore",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2025/8/15/16711-d296b37ce5a94096.svg",
-    "img": "platform/16711.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Household Appliances & Electronics",
-        "id": 65,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "New Year Festival 2026",
-        "id": 378,
-        "language": "en",
-        "parent": null
-      }
-    ],
+    "img": "platform/15488.jpg",
+    "affiliate": {
+      "goto_link": "https://rthsu.com/g/8hjl82af025af0702a27737106c3e0/?erid=25H8d7vbP8SRTvG56HSigJ",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Household Appliances & Electronics",
       "id": 65,
@@ -426,8 +690,11 @@
   {
     "id": 17328,
     "name": "Yota",
+    "name_aliases": "Yota, ёта, нщеф, `nf",
+    "site_url": "https://www.yota.ru/",
+    "description": "Общее описание\r\n\r\nYota - федеральный оператор беспроводной связи. Предоставляет услуги мобильной связи и 4G интернета. Работает на сети «Мегафон» с полным покрытием по всей России, за исключением Крыма и г. Севастополь. Создаёт сервисы и продукты так, чтобы пользоваться ими было просто и удобно. Например, SIM-карты и устройства доставляются бесплатно (условия доставки уточнять на сайте), а пользователи могут настраивать условия в приложении с гибким конструктором тарифов, без скрытых подписок и навязанных услуг.\r\n\r\nЧем хороши тарифы:\r\n\r\n - единая цена дома и в поездках по стране;\r\n\r\n- звонки на все номера России без доплат;\r\n\r\n- беcплатные звонки внутри сети;\r\n\r\nС SIM-картой Yota можно:\r\n- Сохранить привычный номер телефона;\r\n- Настроить тариф с точностью до минуты и Гб;\r\n- Подключить безлимитные приложения;\r\n-Возвращать деньги за неиспользованные минуты и ГБ.\r\n\r\nЧем хороши модемы и роутеры:\r\n- Много разных — от модема для ноутбука до роутера для офиса или дома;\r\n- Подключаются быстро и без проводов;\r\n- Можно пользоваться дома, можно брать с собой;\r\n- 4G интернет даже при нулевом балансе;\r\n- Цена тарифа зависит от скорости — изменить её можно в любой момент;\r\n- Доставка устройств бесплатная, кроме городов Московской и Ленинградской области — стоимость доставки в них может составлять до 250 руб.;\r\n- Бесплатный тест-драйв интернета на максимальной скорости - 48 часов;\r\n- Тест-драйв устройства 30 дней на модемы: Модем Yota, Wi-Fi Модем Yota, Мобильный роутер Yota, Роутер Yota для дома, Интернет-Центр Yota 2;\r\n\r\nПреимущества для веб-мастеров:\r\n- Работа с крупной стабильной компанией.\r\n- Известность бренда.\r\n- Прозрачные условия работы.\r\n- Широкий геотаргетинг.\r\n- Время жизни cookie 60 дней.\r\n- Большая доля новых пользователей на сайте.\r\n\r\nЦелевая аудитория:\r\n\r\n  \r\n\r\n\r\n\tДля вебмастеров: \r\n\t \r\n\tРучная сверка раз в месяц\r\n\tМодерация вебмастеров 2 раза в неделю\r\n\tВыдача именных промокодов\r\n\r\n\r\n\r\nВажно! Города доставки сим карт и модемов. \r\n\r\n ",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/9/17328-fcd16c71c48e5001.svg",
-    "img": "platform/17328.svg",
     "categories": [
       {
         "name": "Online stores",
@@ -464,6 +731,108 @@
         }
       }
     ],
+    "img": "platform/17328.svg",
+    "affiliate": {
+      "goto_link": "https://yjfca.com/g/ix7eisyc2u5af0702a278d5b295c68/?erid=25H8d7vbP8SRTvGa6142tf",
+      "landings": [
+        {
+          "id": 20362,
+          "name": "Интернет-магазин_SIM-карта для модема",
+          "code": "ff53dd0f4f"
+        },
+        {
+          "id": 26174,
+          "name": "Подключи максимум",
+          "code": "6bae2088dd"
+        },
+        {
+          "id": 27215,
+          "name": "Умные устройства",
+          "code": "7175664e40"
+        },
+        {
+          "id": 27216,
+          "name": "Модем",
+          "code": "7a8c2f6e29"
+        },
+        {
+          "id": 27217,
+          "name": "eSIM",
+          "code": "1e270a8298"
+        },
+        {
+          "id": 29973,
+          "name": "eSIM от YOTA",
+          "code": "465342761b"
+        },
+        {
+          "id": 27229,
+          "name": "Голос",
+          "code": "92210d6b94"
+        },
+        {
+          "id": 20360,
+          "name": "Сайт_SIM-карта для планшета",
+          "code": "a73fcaa16f"
+        },
+        {
+          "id": 28040,
+          "name": "Гейминг",
+          "code": "6b559b8885"
+        },
+        {
+          "id": 20348,
+          "name": "Интернет-магазин_SIM-карта для смартфона",
+          "code": "60398a6f26"
+        },
+        {
+          "id": 26173,
+          "name": "Можно со своим номером",
+          "code": "abf33214bb"
+        },
+        {
+          "id": 20365,
+          "name": "Интернет-магазин_Wi-Fi модем Yota и SIM-карта за 2740 руб",
+          "code": "faf724da02"
+        },
+        {
+          "id": 30447,
+          "name": "3 месяца за 499 рублей",
+          "code": "5de114db89"
+        },
+        {
+          "id": 30771,
+          "name": "Делись тарифом",
+          "code": "42004c98f2"
+        },
+        {
+          "id": 30135,
+          "name": "Собери свой тариф",
+          "code": "85e83fdbc5"
+        },
+        {
+          "id": 29676,
+          "name": "eSIM с Максимум",
+          "code": "45120b0ebe"
+        },
+        {
+          "id": 29677,
+          "name": "eSIM и Максимум с абонементом",
+          "code": "fb2ecded53"
+        },
+        {
+          "id": 28467,
+          "name": "Сим-карта для интернета",
+          "code": "8d75ade759"
+        },
+        {
+          "id": 31382,
+          "name": "Акция \"YotaАрхив\"",
+          "code": "38d548c0f4"
+        }
+      ],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Household Appliances & Electronics",
       "id": 65,
@@ -479,8 +848,11 @@
   {
     "id": 18201,
     "name": "Lenovo Many GEOs",
+    "name_aliases": "lenovo, linovo, lenovo.uk, дутщмщ, леново",
+    "site_url": "https://www.lenovo.com/",
+    "description": "Join the Lenovo affiliate program!\r\n\r\nLenovo is a Chinese multinational technology company with headquarters in Beijing. Today, Lenovo is a US$46 billion multinational company with 55,000 employees serving customers in over 160 countries. Ranked #202 on the Fortune 500 list, to be the world’s largest PC vendor. Our portfolio now includes workstations, servers, storage solutions, IT management software, smart TVs, tablets, smartphones, and even apps.\r\n\r\nOur culture also drives how we work every day, specifically we are:\r\n\r\n\r\n\tFocused on CUSTOMERS in everything we do\r\n\tGlobal TEAM players guided by integrity and TRUST\r\n\tENTREPRENEURS committed to driving change\r\n\tINNOVATORS who relentlessly pursue new idea\r\n\r\n\r\nEarn together with Lenovo!\r\n\r\n\r\n\tInstant credibility - more visitors! Lenovo is the #1 PC Vendor world-wide! Adding Lenovo assets to your site, instantly communicates that you are partnered with an industry leader.\r\n\t33.1 M UNIQUE VISITORS\r\n\tWeekly offers. To help generate more commissions, Lenovo offers weekly eCoupons to provide a hook for your site\r\n\r\n\r\nSincerely,\r\n\r\nLenovo affiliate program!",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/6/18201-663af8f1ba05c226.svg",
-    "img": "platform/18201.svg",
     "categories": [
       {
         "name": "Online stores",
@@ -500,6 +872,118 @@
         }
       }
     ],
+    "img": "platform/18201.svg",
+    "affiliate": {
+      "goto_link": "https://bednari.com/g/6iia5dppfe5af0702a27cc01b591a8/",
+      "landings": [
+        {
+          "id": 4696,
+          "name": "Швейцария",
+          "code": "37b61b0faf"
+        },
+        {
+          "id": 4700,
+          "name": "Испания ",
+          "code": "c8d9785c6d"
+        },
+        {
+          "id": 4695,
+          "name": "Бельгия",
+          "code": "a16d55adf7"
+        },
+        {
+          "id": 4697,
+          "name": "Колумбия ",
+          "code": "098eb1122a"
+        },
+        {
+          "id": 4704,
+          "name": "Ирландия ",
+          "code": "8a16783b8c"
+        },
+        {
+          "id": 4707,
+          "name": "Мексика",
+          "code": "62bd12d652"
+        },
+        {
+          "id": 5001,
+          "name": "Canada",
+          "code": "87b919b4e5"
+        },
+        {
+          "id": 5457,
+          "name": "USA",
+          "code": "b4062f0190"
+        },
+        {
+          "id": 4823,
+          "name": "Сингапур",
+          "code": "d7c710d566"
+        },
+        {
+          "id": 4709,
+          "name": "Швеция ",
+          "code": "0ea1fe2f75"
+        },
+        {
+          "id": 4694,
+          "name": "Австрия",
+          "code": "ecfa14901a"
+        },
+        {
+          "id": 4063,
+          "name": "Netherlands",
+          "code": "954da0b1ff"
+        },
+        {
+          "id": 4062,
+          "name": "Norway",
+          "code": "666f664834"
+        },
+        {
+          "id": 4706,
+          "name": "Южная Корея",
+          "code": "f5f4a2bdb7"
+        },
+        {
+          "id": 4701,
+          "name": "Финляндия ",
+          "code": "31889562f7"
+        },
+        {
+          "id": 4702,
+          "name": "Франция ",
+          "code": "a1e4e52395"
+        },
+        {
+          "id": 4705,
+          "name": "Италия ",
+          "code": "7731557e55"
+        },
+        {
+          "id": 5456,
+          "name": "Австралия",
+          "code": "97c94ad0ea"
+        },
+        {
+          "id": 4698,
+          "name": "Германия ",
+          "code": "9474bce96a"
+        },
+        {
+          "id": 4699,
+          "name": "Дания",
+          "code": "4afc68f4c5"
+        },
+        {
+          "id": 4703,
+          "name": "Великобритания ",
+          "code": "9de4164500"
+        }
+      ],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Household Appliances & Electronics",
       "id": 65,
@@ -515,8 +999,11 @@
   {
     "id": 18239,
     "name": "Adorama WW",
+    "name_aliases": "adorama, фвщкфьф, int, инт, ИНТ, INT",
+    "site_url": "https://www.adorama.com/",
+    "description": "For over 40 years Adorama has and continues to be one of the world’s largest and most reputable retailers in the consumer electronics category. With over 250,000+ products in our catalog and millions of satisfied customers your earnings are unlimited.\r\n\r\nAdorama is the world’s only full-service destination for photo, video and electronics. The company offer the best selection and prices on professional photography and video gear, pro-audio, and consumer electronics such as home theaters, mobile computing, home office equipment and more.\r\n\r\nAdorama's vast product offerings encompass home entertainment, mobile computing, and professional video and audio, while its services include an in-house photo lab, AdoramaPix, pro equipment rental at Adorama Rental Company and the award-winning Adorama Learning Center, which offers free education for photographers in video channels such as the popular AdoramaTV.\r\n\r\nAdorama is listed as one of the top five electronics retailers by Consumer Reports, “Best of the Web” by Forbes.com, Internet Retailers Top 100, and is the official Electronics Retailer of the NY Giants. Even though the prices are low, the company pride ourselves on their service. Every piece of equipment is carefully inspected before delivery and the knowledgeable experts are happy to show you how to use it.\r\n\r\nAdorama.com welcome everyone to join their Affiliate Program.\r\n\r\nAdvantages for publishers:\r\n\r\n\r\n\t7.2 M unique visitors\r\n\tProduct-category based commission\r\n\tGEO: WORLDWIDE\r\n\tPartners get exclusive free shipping on most of the products, worldwide shipping to 250 countries, constant communication of promos, specials, deals and much more\r\n\r\n\r\n \r\n\r\nAdorama.com also provides publishers with tools including a large selection of banners ads, easy to create tracking links, advanced tracking technology and reporting and more.\r\n\r\nFor over 10 years online comparison shoppers have been leaving glowing reviews detailing how satisfied they are with Adorama huge selection, availability, price and quick shipping. Experience it yourself now!\r\n\r\n \r\n\r\nSincerely,\r\n\r\nAdorama.com affiliate program\r\n\r\n \r\n\r\n \r\n\r\n*All orders are tracked by one rate, but at the end of each month the advertiser will make payments according to the type of product\r\n\r\nAny terms that contain the word Adorama or any variation thereof are forbidden.\r\n\r\nI.e. Adorama, Adorama Camera, Adorama Sales, Adorama Coupons ETC.",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/8/18239-c2944745ae0e6a97.svg",
-    "img": "platform/18239.svg",
     "categories": [
       {
         "name": "Household Appliances & Electronics",
@@ -536,6 +1023,12 @@
         "parent": null
       }
     ],
+    "img": "platform/18239.svg",
+    "affiliate": {
+      "goto_link": "https://ficca2021.com/g/cbvmqmmirj5af0702a2745f1c03a4a/",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Household Appliances & Electronics",
       "id": 65,
@@ -551,8 +1044,11 @@
   {
     "id": 18428,
     "name": "Sunsky-online WW",
+    "name_aliases": "sunsky, sun-sky, sansky, санскай, сански, ыгтылн, инт,, int, SUNSKY-online.com INT, SUNSKY-online.com, SUNSKY online",
+    "site_url": "https://www.sunsky-online.com/",
+    "description": "Latest coupons and Deals\r\n\r\nSunsky is a lead wholesaler from China, we focus on electronic products specializing in mobile phone & accessories, Digital Camera accessories, Car accessories and LED light and more. Our company headquarters is located in Shenzhen, China.\r\n\r\nWe supply and deliver more than 30,000 orders per day to customers from more than 200 countries every day, our business is growing, it will help you earn money.\r\n\r\nTOOLS/SERVICES TO HELP YOU SUCCEED\r\n\r\n\r\n\tCompetitive Commission\r\n\tLatest product feed per week\r\n\tRegularly updated banner and promotion\r\n\tAt least 200 coupons per month\r\n\tTop seller, daily & weekly deal promotions\r\n\tBonus & contest\r\n\tCompetitive Wholesale Price\r\n\tOpen API Services\r\n\tDownload Non-Watermark Product Images\r\n\tDownload Excel Format Pricelist\r\n\tOne-on-One Service by Sales Manager\r\n\tBuy at Bottom Prices\r\n\tFree Samples\r\n\tCustomize Shipping Invoice\r\n\tAmazon Data Feed\r\n\r\n\r\nJoin Sunsky to make money!\r\n\r\nSincerely,\r\n\r\nSunsky-online WW affiliate program.",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2020/10/22/18428-6999aaa7187e4c25.png",
-    "img": "platform/18428.png",
     "categories": [
       {
         "name": "Online stores",
@@ -583,6 +1079,12 @@
         }
       }
     ],
+    "img": "platform/18428.png",
+    "affiliate": {
+      "goto_link": "https://dorinebeaumont.com/g/7npkd4cs1i5af0702a27869a299fda/",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Household Appliances & Electronics",
       "id": 65,
@@ -598,8 +1100,11 @@
   {
     "id": 19350,
     "name": "Drop WW",
+    "name_aliases": "massdrop, massdrop.com, масдроп, массдроп, ьфыывкщз, инт, int",
+    "site_url": "https://drop.com/",
+    "description": "Massdrop is a community-driven commerce platform. It is an online community for enthusiasts that provides people a place to connect with one another, discuss their favorite products and activities, and buy those products.\r\n\r\nWhy promote Massdrop?\r\n-- 30 day cookie period\r\n-- High average order amount\r\n-- Free Shipping worldwide\r\n-- Mobile optimised site\r\n\r\n\r\nWe look forward to working with you!\r\n\r\nSincerely,\r\nThe Massdrop Affiliate Management Team",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/8/19350-35c8809ec336b9b7.svg",
-    "img": "platform/19350.svg",
     "categories": [
       {
         "name": "Household Appliances & Electronics",
@@ -641,6 +1146,12 @@
         }
       }
     ],
+    "img": "platform/19350.svg",
+    "affiliate": {
+      "goto_link": "https://ficca2021.com/g/zun49ooqd25af0702a273d44f2291c/",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Household Appliances & Electronics",
       "id": 65,
@@ -656,8 +1167,11 @@
   {
     "id": 20543,
     "name": "Redmagic WW",
+    "name_aliases": "redmagic, red magic, redmaigc, кувьфпшс, кувьфшпс, red-magic",
+    "site_url": "https://global.redmagic.gg/",
+    "description": "\r\nRed Magic Establishing ourselves in October 2017 as the gaming arm of Nubia. Delivering the most complete gaming experience on mobile. That’s the goal we had in mind when we set up Red Magic.\r\n\r\nAdvantages for Publishers\r\n\r\n- Global brand fame\r\n\r\n- Big amount average bill\r\n\r\n- Global GEO\r\n\r\n- Cheap shipping\r\n\r\n- All products are paid\r\n\r\n \r\n\r\nAdvantages for users\r\n\r\n- To Get one Gaming smartphones that sleek, ergonomic hardware and fully optimized software\r\n\r\n- Cheap shipping to over 200 countries & regions\r\n\r\n- Buyer protection guarantees: Transactions protected until the customer confirm delivery\r\n\r\n- 24/7 Help Center\r\n\r\n- Multiple payment methods\r\n\r\n- 24 Months Warranty for Smartphone\r\n\r\nNegative keywords list for SEM advertising can be found here",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/9/5/20543-75ebe1c2bc996c2b.svg",
-    "img": "platform/20543.svg",
     "categories": [
       {
         "name": "Online stores",
@@ -683,6 +1197,33 @@
         "parent": null
       }
     ],
+    "img": "platform/20543.svg",
+    "affiliate": {
+      "goto_link": "https://yyczo.com/g/qmttmvxh1u5af0702a2756637026d8/",
+      "landings": [
+        {
+          "id": 28411,
+          "name": "REDMAGIC Nova Gaming Tablet",
+          "code": "10ce73e7ed"
+        },
+        {
+          "id": 27944,
+          "name": "REDMAGIC Titan 16 Pro",
+          "code": "3ee69eceb3"
+        },
+        {
+          "id": 23380,
+          "name": "Keyboard 2023",
+          "code": "2e74ae4031"
+        },
+        {
+          "id": 23381,
+          "name": "Gaming mouse 2023",
+          "code": "85701e9560"
+        }
+      ],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Household Appliances & Electronics",
       "id": 65,
@@ -698,8 +1239,11 @@
   {
     "id": 21026,
     "name": "Touch UA",
+    "name_aliases": "touch.com.ua, тач ком юа",
+    "site_url": "https://touch.com.ua/",
+    "description": "TOUCH.COM.UA - це сучасний інтернет-магазин гаджетів, побутової техніки, товарів для дому, саду, ремонту та навіть більше. Ми займаємося роздрібним продажем електроніки понад 16 років і завжди ставимо якість та доступність цін на перше місце. Окрім інтернет-магазину, ми маємо фізичні магазини, що дає змогу клієнтам отримати особистий досвід перегляду та вибору техніки.\r\n\r\nНаша головна мета - лідерство у своєму сегменті ринку. Тому ми ретельно обираємо продукцію для нашого каталогу, надаючи перевагу якості та незабутньому враженню від її використання. Наш асортимент налічує більше тисячі різноманітних категорій, які включають в себе понад 50 тисяч товарів. В каталозі присутні смартфони, планшети, телевізори та інша комп'ютерна техніка від таких відомих брендів як Apple, Xiaomi, Samsung, JBL, Asus, LG, Acer, Lenovo, Redmi, Poco та інших. Ми завжди в пошуку нових можливостей та тенденцій, щоб задовольнити потреби наших клієнтів.\r\n\r\nНаш слоган: TOUCH - твої цифрові мрії\r\n\r\nПереваги для веб-майстрів:\r\n- Високі винагороди\r\n- Регулярні виплати\r\n- Відомий і довірений бренд\r\n- Регулярні акції та заходи для покупців\r\n- Всебічна підтримка з наданням рекламних матеріалів\r\n- Регулярні покращення умов партнерської програми\r\n\r\nГЕО: Україна, крім АР Крим та територій, що тимчасово знаходяться під окупацією\r\nНаша аудиторія складається з 45% жінок і 55% чоловіків, і відповідає віковому діапазону від 18 до 55 років.\r\n\r\n            Логотип можна взяти тут.",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/11/7/21026-0ccccd884c1c062c.svg",
-    "img": "platform/21026.svg",
     "categories": [
       {
         "name": "Household Appliances & Electronics",
@@ -719,6 +1263,12 @@
         "parent": null
       }
     ],
+    "img": "platform/21026.svg",
+    "affiliate": {
+      "goto_link": "https://wbbsv.com/g/ynys1f2mjp5af0702a270e81904d8b/",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Household Appliances & Electronics",
       "id": 65,
@@ -734,8 +1284,11 @@
   {
     "id": 21071,
     "name": "cosmogon",
+    "name_aliases": "Cosmogon.ru, Космогон, сщыьщпщт, космогонру, космогонюкг, rjcvjujy, rjcvjujy.ru",
+    "site_url": "https://cosmogon.ru/",
+    "description": "Информация о компании:\r\n\r\nCosmogon.ru — крупнейший онлайн-магазин по продаже товаров для приготовления алкоголя и натуральных продуктов питания. Магазин работает 14 лет с 2009г.\r\n\r\nУ компании несколько розничных складов и множество точек в регионах России. Компани является официальным дистрибьютором   оборудования для приготовления алкоголя, что позволяет компании поддерживать постоянное наличие товаров на складе, высокий процент подтверждения в отгрузку и конкурентные цены. \r\n\r\nУ нас на сайте представлены эксклюзивные товары из России, Португалии, Франции, Испании, Италии, Сербии и других стран. Мы продаем оборудование для приготовления крепких алкогольных напитков, вина, пива, натуральных продуктов питания и товары для садоводства и животноводства. Нашей особой гордостью является эксклюзивная линейка дубовых бочек Partizan из Сербии и Allary из Франции, которым нет аналогов на Российском рынке.\r\n\r\nПортрет целевой аудитории: \r\n\r\nГеография:\r\nМосква и МО.\r\n\r\nДемография:\r\n27-50 лет, преимущественно мужчины.\r\n\r\nПреимущества для веб-мастеров:\r\n\r\n\r\n\tвысокая ставку;\r\n\tхороший EPC;\r\n\tкачественные рекламные материалы;\r\n\tвремя холда 30 дней;\r\n\tвремя жизни Cookie - 90 дней;\r\n\tсвоевременные выплаты.\r\n\r\n\r\nПреимущества для клиентов:\r\n\r\n\r\n\tБольшой выбор различных товаров для домашнего производства продуктов питания, ресторанов и любых людей интересующихся крафтом;\r\n\tШирокий ассортимент: на сайте представлен огромный выбор товаров для самогоноварения, виноделия, выдержки алкоголя, сыроварения, приготовления натуральных продуктов питания и многое другое. Все нужное можно найти в одном месте;\r\n\tНизкие цены: мы ежедневно анализируем цены на наши товары с конкурентами, чтобы покупать у нас было действительно выгодно;\r\n\tОперативная доставка: собственная курьерская служба позволяет нам доставлять товары по Москве и Московской области уже на следующий день, а сотрудничество с известными транспортными компаниями в течение всего нескольких дней после оформления заказа;\r\n\tКачественный сервис: наши менеджеры на связи с 9 до 21 часа 7 дней в неделю. Они помогут выбрать подходящие товары, подробно проконсультируют перед покупкой и оперативно решат любой возникший в процессе эксплуатации вопрос;\r\n\tРабота без предоплаты: покупая у нас товары, наши клиенты ничем не рискуют. Мы не берем предоплату за заказ. Можно оплатить свои покупки в момент получения курьеру, в отделении почты России или транспортной компании. Если клиенту удобнее оплачивать заранее электронными деньгами или банковской карточкой это тоже можно сделать в процессе оформления заказа. Для юридических лиц можно осуществлять платежи по счету;\r\n\tГарантия возврата и обмена: мы гарантируем высокое качество наших товаров, так как получаем от проверенных поставщиков. Если по какой-то причине клиенты недовольны покупкой, товар можно обменять или вернуть и получить назад деньги;\r\n\tБесплатная консультация наших специалистов: наши менеджеры абсолютно бесплатно проконсультирую вас по всем возникшим вопросам как до, так и после покупки, даже в тех случаях, если товар был куплен не у нас.\r\n\r\n\r\n\r\n\r\n\r\nОсновные особенности кампании:\r\n\r\n\r\n\tболее 3 000 Товаров на сайте;\r\n\tболее 70 000 довольных клиентов;\r\n\tсклады и точки по всей России;\r\n\tдоставка и пункты выдачи по всех России.\r\n\r\n\r\nПромокоды:\r\nВыдача именных промокодов по запросу.\r\n\r\n\r\nСверка заказов:\r\nПроводится вручную один раз в месяц.\r\n\r\nМодерация вебмастеров:\r\nПроводится три раза в неделю.\r\n\r\nОтклонение заказов / отключение партнёра за:\r\n\r\n\r\n\tиспользование запрещённых видов трафика.\r\n\r\n\r\nСписок минус-слов\r\n\r\nКод ККТУ: 7.1.2",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/20/21071-392c0d658ee73fd8.svg",
-    "img": "platform/21071.svg",
     "categories": [
       {
         "name": "Household Appliances & Electronics",
@@ -766,6 +1319,12 @@
         }
       }
     ],
+    "img": "platform/21071.svg",
+    "affiliate": {
+      "goto_link": "https://dorinebeaumont.com/g/94v4tj5pfm5af0702a2723f8fafe99/?erid=MvGzQC98w3Z1gMq1nwbrWSDV",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Household Appliances & Electronics",
       "id": 65,
@@ -781,8 +1340,11 @@
   {
     "id": 21957,
     "name": "Geekmall [CPS] IT",
+    "name_aliases": "Geekmall, Geekmal, Geekmallcpsit, Geekmallcps, пуульфдд, пуульфд, пуульфддсзыше, пуульфдд",
+    "site_url": "https://www.geekmall.com/",
+    "description": "Geekmall.com è un sito di e-commerce italiano professionale che offre una vasta gamma di prodotti per soddisfare diverse esigenze nelle categorie di e-mobility, Smart Home, Portable Power Station e Consumer electronics. Con particolare attenzione ai prodotti per la pulizia intelligente come aspirapolvere e alla e-mobility come monopattino elettrico, Geekmall.com si tiene al passo con le ultime tendenze tecnologiche e offre soluzioni convenienti per le attività quotidiane.\r\n\r\nVantaggi per gli editori:\r\n\r\n\r\n\tAlta commissione\r\n\tCoupon, sconti e banner regolarmente aggiornati\r\n\tProdotti convenienti\r\n\tEssere selettivi nella scelta dei prodotti\r\n\tAssortimento di prodotti specializzati\r\n\tCampagna promozionale regolare.\r\n\r\n\r\nBenefici per i consumatori：\r\n\r\n\r\n\tProdotti di qualità a prezzi accessibili\r\n\tAssortimento di prodotti specializzati\r\n\tSeguire criteri rigorosi di selezione dei prodotti.\r\n\tCentro di assistenza e riparazione professionale locale\r\n\t2 anni di garanzia\r\n\tPaga in tre rate uguali senza interessi\r\n\tSpedizione dal magazzino europeo (2-7 giorni per il tempo di consegna)\r\n\r\n\r\nPodotti Popolari\r\n\r\nSmart Home\r\n\r\nProscenic 850T Robot Aspirapolvere E Lavapavimenti\r\n\r\nhttps://www.geekmall.com/1381-proscenic-850t-robot-aspirapolvere-e-lavapavimenti-nero.html\r\n\r\nProscenic P12 Aspirapolvere A Batteria\r\n\r\nhttps://www.geekmall.com/2591-aspirapolvere-a-batteria-proscenic-p12-forte-aspirazione-da-33kpa.html\r\n\r\nMobilità Elettrica\r\n\r\nKUKIRIN G2 MAX 10*2.75 Pollici Pneumatici Pieghevole Scooter\r\n\r\nhttps://www.geekmall.com/2147-kukirin-g2-max-pieghevole-scooter-elettrico-fuoristrada-motore-1000w-e-batteria-20ah.html\r\n\r\nKugoo Kirin M4 PRO Versione Aggiornata 18Ah Scooter\r\n\r\nhttps://www.geekmall.com/1857-kugoo-kirin-m4-pro-versione-aggiornata-scooter-elettrico-pieghevole-pneumatico-18ah.html\r\n\r\nStazione di Energia Portatili\r\n\r\nBLUETTI EB70 Portable Power Station\r\n\r\nhttps://www.geekmall.com/2654-bluetti-eb70-bluetti-pv200-kit-generatore-solare.html\r\n\r\nFOSSiBOT F2400\r\n\r\nhttps://www.geekmall.com/2429-fossibot-f2400-generatore-solare-portatile-da-2048wh2400w-nero.html\r\n\r\nElettronica di consumo\r\n\r\nArtillery Genius Pro 3D Printer\r\n\r\nhttps://www.geekmall.com/2132-stampante-3d-artillery-genius-pro-volume-di-produzione.html\r\n\r\nArtillery Sidewinder X2 3D Printer\r\n\r\nhttps://www.geekmall.com/2134-stampante-3d-artillery-sidewinder-x2-volume-di-produzione.html",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/8/21957-ca47799dc6054d26.svg",
-    "img": "platform/21957.svg",
     "categories": [
       {
         "name": "Household Appliances & Electronics",
@@ -808,6 +1370,78 @@
         "parent": null
       }
     ],
+    "img": "platform/21957.svg",
+    "affiliate": {
+      "goto_link": "https://yynbx.com/g/d9vbl05kd95af0702a2799cad33c2f/",
+      "landings": [
+        {
+          "id": 20747,
+          "name": "Roborock S7 PRO ULTRA",
+          "code": "1395a7cffc"
+        },
+        {
+          "id": 17393,
+          "name": "Robot Aspirapolvere - SCONTI",
+          "code": "43203a3f54"
+        },
+        {
+          "id": 22408,
+          "name": "Roborock Dyad Pro",
+          "code": "1098f13475"
+        },
+        {
+          "id": 24956,
+          "name": "Monitor da gioco",
+          "code": "1f1595307a"
+        },
+        {
+          "id": 24957,
+          "name": "Generatore Solare Portatile",
+          "code": "d96ed81924"
+        },
+        {
+          "id": 22816,
+          "name": "Roborock S8",
+          "code": "8559fb73e4"
+        },
+        {
+          "id": 22720,
+          "name": "Mini monitor da gioco a led",
+          "code": "3c74a9142e"
+        },
+        {
+          "id": 20608,
+          "name": "Sport e esterni",
+          "code": "f1d912c320"
+        },
+        {
+          "id": 26655,
+          "name": "SALDI",
+          "code": "6dd5076cbd"
+        },
+        {
+          "id": 26657,
+          "name": "NUOVI PRODOTTI",
+          "code": "078636fec1"
+        },
+        {
+          "id": 26658,
+          "name": "BEST SELLERS",
+          "code": "e20f209418"
+        },
+        {
+          "id": 17395,
+          "name": "TOP PRODUCT - ELEGLIDE Bicicletta Elettrica",
+          "code": "3a04b6f77f"
+        },
+        {
+          "id": 14356,
+          "name": "Scope Elettriche Senza Filo",
+          "code": "d9d49a65af"
+        }
+      ],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Household Appliances & Electronics",
       "id": 65,
@@ -823,8 +1457,11 @@
   {
     "id": 24073,
     "name": "Gshopper Many GEOs",
+    "name_aliases": "Gshopper Many GEOs, gshopper, Gshopper, джишоппер, Джишоппер, l;bijggth, L;bijggth, джишопер, Джишопер, l;bijgth, L;bijgth, джишоппре, ждишоппер",
+    "site_url": "https://www.gshopper.com/",
+    "description": "You may download the LIST OF WEEKLY HOT DEALS HERE.\r\n\r\nGshopper is a one-stop e-commerce platform enabling customers to live a truly global lifestyle. We devoted ourselves in building a platform where global merchants to sell to global consumers. We employ cutting-edge big data AI technology to provide the most appropriate products to our consumers. Our cooperation with hundreds of global logistics partners and global brands, allow us to ship from warehouses in a global range while let our customers enjoy greatest discounts. Therefore, products authenticity and shorter delivery period can be guaranteed. We provide competitive commission to all publishers who trust our brand and want to share the triumph with us.\r\n\r\nOur products: Most of the products are 3C products. Such as Xiaomi, Rozi, Gohyo, Flurff, Gbasics, and Roborock.\r\n\r\nAdvantages for users:\r\n\r\nOur cooperation with hundreds of global logistics partners and global brands, allow us to ship from warehouses in a global range while let our customers enjoy greatest discounts.\r\nTherefore, products authenticity and shorter delivery period can be guaranteed.\r\n\r\nAdvantages for partners:\r\n\r\nWe provide competitive commission to all publishers who trust our brand and want to share the triumph with us.\r\n\r\nTarget audience:\r\n\r\nAnyone who is a fan of great discounts on electronic products.\r\n\r\nBest Regards,\r\nGshopper Affiliate Program \r\n\r\n \r\n\r\n\r\n \r\n",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/7/19/24073-20294aae38122887.svg",
-    "img": "platform/24073.svg",
     "categories": [
       {
         "name": "Household Appliances & Electronics",
@@ -905,6 +1542,228 @@
         "parent": null
       }
     ],
+    "img": "platform/24073.svg",
+    "affiliate": {
+      "goto_link": "https://bywiola.com/g/nx2yncwth65af0702a27d497214fca/",
+      "landings": [
+        {
+          "id": 20315,
+          "name": "Deals of the Day - Good Discount",
+          "code": "6a0d30246b"
+        },
+        {
+          "id": 19415,
+          "name": "SPRING CLOTHING SALE UK",
+          "code": "434e784e1e"
+        },
+        {
+          "id": 21305,
+          "name": "Under 200 Euros - Great Deals At Low Price",
+          "code": "bedac9a40a"
+        },
+        {
+          "id": 22155,
+          "name": "Daily Deals 54 percent OFF Mibro GS Smartwatch Only 49.90",
+          "code": "57f4f6148b"
+        },
+        {
+          "id": 19416,
+          "name": "SPRING CLOTHING SALE US",
+          "code": "1dc62e9928"
+        },
+        {
+          "id": 19448,
+          "name": "VENDITA DI ABBIGLIAMENTO PRIMAVERA",
+          "code": "f95a1fad4b"
+        },
+        {
+          "id": 20382,
+          "name": "Deals of the Day - Thursday Deals",
+          "code": "378cd64cff"
+        },
+        {
+          "id": 20381,
+          "name": "Deals of the Day - Wednesday Deals",
+          "code": "92fe78764e"
+        },
+        {
+          "id": 20408,
+          "name": "Deals of the Day - Tuesday plus",
+          "code": "218215f0c2"
+        },
+        {
+          "id": 20420,
+          "name": "Deals of the Day - Thursday plus",
+          "code": "954734f51a"
+        },
+        {
+          "id": 22359,
+          "name": "Flash Deals",
+          "code": "bf119e5d3f"
+        },
+        {
+          "id": 21952,
+          "name": "2022 Word Cup - Up to 80 percent OFF Selected Electronics",
+          "code": "5fada269fa"
+        },
+        {
+          "id": 20180,
+          "name": "Deals of the Day - Super Deals",
+          "code": "ecd6694a8b"
+        },
+        {
+          "id": 21207,
+          "name": "Clearance Sale",
+          "code": "be8d685083"
+        },
+        {
+          "id": 19417,
+          "name": "St. Patrick's Day",
+          "code": "35f64f04fc"
+        },
+        {
+          "id": 21274,
+          "name": "2022 Back To School BR",
+          "code": "7fa2d7e673"
+        },
+        {
+          "id": 20325,
+          "name": "Deals of the Day -  Joyful Buy",
+          "code": "44ebb5f601"
+        },
+        {
+          "id": 20269,
+          "name": "Deals of the Day - Tuesday",
+          "code": "892e4a039c"
+        },
+        {
+          "id": 21954,
+          "name": "Up to 67 Percent OFF Decoration and Gifts for Christmas",
+          "code": "345ea751d7"
+        },
+        {
+          "id": 20122,
+          "name": "Deals of the Day - Smart Life",
+          "code": "ddbeb187a7"
+        },
+        {
+          "id": 20181,
+          "name": "Deals of the Day - Top Rate Product",
+          "code": "3b2162c280"
+        },
+        {
+          "id": 20340,
+          "name": "Deals of the Day - Hot Choice",
+          "code": "df7e4fa3d2"
+        },
+        {
+          "id": 20349,
+          "name": "Deals of the Day - New and Good",
+          "code": "dc0039f7d5"
+        },
+        {
+          "id": 21273,
+          "name": "2022 Back To School US",
+          "code": "ef80a1b579"
+        },
+        {
+          "id": 19449,
+          "name": "SPRINGKLEIDUNG VERKAUF",
+          "code": "77d0352870"
+        },
+        {
+          "id": 21953,
+          "name": "Get USD 100,000 Bonus Coupons on Black Friday",
+          "code": "1e521055ba"
+        },
+        {
+          "id": 21977,
+          "name": "2022 Christmas Day",
+          "code": "6c6d6bfad6"
+        },
+        {
+          "id": 22156,
+          "name": "Limited Time Flash Deals-Ankishi LED Floor Lamp is only 31.99EUR",
+          "code": "a433a56bf7"
+        },
+        {
+          "id": 19447,
+          "name": "Venta de ropa de primavera",
+          "code": "3ac4d81122"
+        },
+        {
+          "id": 21951,
+          "name": "Exclusive Deals for Electronics - At Least 30 Percent OFF",
+          "code": "d1a430f663"
+        },
+        {
+          "id": 20311,
+          "name": "Deals of the Day - Nice Offers",
+          "code": "618f5ab7f1"
+        },
+        {
+          "id": 19418,
+          "name": "LOCAL WAREHOUSE DELIVERY",
+          "code": "45b70b424d"
+        },
+        {
+          "id": 20273,
+          "name": "Deals of the Day - Amazing Wednesday",
+          "code": "e6e1d6681e"
+        },
+        {
+          "id": 19947,
+          "name": "Classic Coupon for The United State",
+          "code": "20811d5f14"
+        },
+        {
+          "id": 21364,
+          "name": "Everyday Low Price - Up to 40 Percent OFF",
+          "code": "7e43f1960b"
+        },
+        {
+          "id": 21304,
+          "name": "Super Shopping Day - Up to 40 Percent OFF",
+          "code": "005a0784e6"
+        },
+        {
+          "id": 20170,
+          "name": "Deals of the Day - Hot Sales",
+          "code": "f34cfef6fe"
+        },
+        {
+          "id": 21611,
+          "name": "Clearance Discount - Up to 35 Percent Off",
+          "code": "35fa1103e5"
+        },
+        {
+          "id": 20338,
+          "name": "Deals of the Day - Top Sales",
+          "code": "7762286a9e"
+        },
+        {
+          "id": 22154,
+          "name": "FlashDeals-Up to 80 percent Off",
+          "code": "c5bc27a3ec"
+        },
+        {
+          "id": 20245,
+          "name": "Deals of the Day - Surprising Monday",
+          "code": "52b6b9aff6"
+        },
+        {
+          "id": 20287,
+          "name": "Deals of the Day - Delightful Thursday",
+          "code": "66b7a0f909"
+        },
+        {
+          "id": 24420,
+          "name": "5th Anniversary",
+          "code": "c7c015e899"
+        }
+      ],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Household Appliances & Electronics",
       "id": 65,
@@ -920,8 +1779,11 @@
   {
     "id": 24074,
     "name": "Rulez BY",
+    "name_aliases": "Рулез, русес, кгдуя, rulez, BY, Беларусь, рб, техника, электроника, уные гаджеты",
+    "site_url": "https://rulez.by/",
+    "description": "RULEZ.BY - полезные и нужные товары по самым выгодным ценам представлены в нашем каталоге.\r\nМы подберём: для геймера - ноутбук, благодаря которому он погрузится в любимую компьютерную игру; для ценителей новинок техники – самые новые гаджеты; для любителей мастерить своими руками - надежный инструмент.\r\n\r\nНаша целевая аудитория\r\n\r\n\r\n\tЖители регионов и городов от 25 лет;\r\n\tЦели покупок: для себя, в подарок и под конкретную задачу;\r\n\tУровень дохода: средний и выше среднего, высокий;\r\n\tРанее имели опыт онлайн-покупок и предпочитают именного его;\r\n\tЦенят экономию своего времени, комфортные условия покупки (доставка, гарантия, финансовые возможности);\r\n\tИм важно получить грамотную консультация, иметь возможность изучить товар онлайн, что бы быть уверенным в правильности выбора, особенно когда речь идёт о дорогой покупке типа ноутбук, телевизор или смартфон;\r\n\tХотят получить лучшее предложение по товару.\r\n\r\n\r\n \r\n\r\nПреимущества для пользователей\r\n\r\n\r\n\tКлиенты любят нас за огромный ассортимент;\r\n\tУ нас больше 20000 товаров и 300 категорий! Их количество постоянно растет;\r\n\tГибкие условия оплаты;\r\n\tВыбор финансовых инструментов огромен: кредит до 0,0001% онлайн - оформлением, лизинг, оплата по ВСЕМ кредитным картам, оплата для юридических лиц или наличный расчёт;\r\n\tОперативная доставка товаров в любую точку Беларуси за 1-3 дня, а по Минску день в день;\r\n\r\n\r\n \r\n\r\nПреимущества для партнеров\r\n\r\n\r\n\tВремя жизни cookie 30 дней\r\n\tОбновляемые фиды и рекламные материалы \r\n\tОперативные выплаты веб-мастерам\r\n\t \r\n\t\r\n\r\n\r\n​​​​​​​Особенности работы оффера:\r\n\r\n\r\n\tЕжемесячная ручная сверка \r\n\tВ программе доступен промокодный инструмент\r\n\tРегулярная модерация на стороне Адмитад\r\n\r\n\r\n \r\n\r\nПодключайтесь к партнерской программе Rulez BY прямо сейчас!",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/11/24/24074-4f3482a4cf644bc0.svg",
-    "img": "platform/24074.svg",
     "categories": [
       {
         "name": "Online stores",
@@ -974,6 +1836,12 @@
         }
       }
     ],
+    "img": "platform/24074.svg",
+    "affiliate": {
+      "goto_link": "https://xcdus.com/g/66hsnobd0f5af0702a278b141a6ee8/",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Household Appliances & Electronics",
       "id": 65,
@@ -989,8 +1857,11 @@
   {
     "id": 24118,
     "name": "nubia Many GEOs",
+    "name_aliases": "ZTE, zte, zre, ztr, ZTR, ZRE, зте, зие, ЗТЕ, зтн\r\nNBia, нубия, нубиа, NUBYA, nubia",
+    "site_url": "https://intl.nubia.com/",
+    "description": "Who is nubia?\r\n\r\nFounded in October 2012, nubia aims to bring high - end  innovative smartphones to adventurous users who want to pursue new experiences and an enhanced quality of life. Inspiring the world to “Be Yourself,” nubia continues to elevate lifestyles by encouraging users to chase their dreams and pursue new passions.  \r\n\r\nnubia is committing to provide unique and innovative technology, products and services to consumers who crave joy of adventures and discoveries. Ushering a new era for user interaction, nubia introduced the world’s first bezel-less design, FiT (Frame interactive Technology) and TiO (Three-in-One) fingerprint recognition feature.  \r\n\r\nSpecializing in professional mobile photography, nubia offers consumers with highly advanced DSLR camera functions. Now, anyone is capable of shooting high quality photographs of light paintings, star trails and time lapses with nubia smartphone.  \r\n\r\nHow does it work?\r\n\r\nOur affiliate program offers a commission per sale made when someone visits https://intl.nubia.com and makes a purchase within 90 days of clicking a link on your digital property (website, blog, social media site, etc.). Join our program today and start earning commission promoting one of Best Mobile.\r\n\r\n \r\n\r\nAdvantages for Publishers\r\n\r\n-Global brand fame\r\n\r\n-30-days Cookies\r\n\r\n-Great banners and text links available.\r\n\r\n-Data Feeds & Widgets are available.\r\n\r\n-Sign up process is free, easy and fast!\r\n\r\n-Monthly newsletter and incentive campaign.\r\n\r\nAdvantages for users\r\n\r\n- Quality product with the latest innovative technology\r\n\r\n- 24/7 Help Center\r\n\r\n- Free standard shipping\r\n\r\n- 14 Days Return Guarantee\r\n\r\n- 12 Months Warranty for Smartphone\r\n\r\n- Buyer protection guarantees: Transactions protected until the customer confirms delivery",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/10/11/24118-4c2a1691f1041c80.svg",
-    "img": "platform/24118.svg",
     "categories": [
       {
         "name": "Online stores",
@@ -1010,6 +1881,53 @@
         }
       }
     ],
+    "img": "platform/24118.svg",
+    "affiliate": {
+      "goto_link": "https://xpuvo.com/g/lh3bbik9ly5af0702a27e62ca5e32f/",
+      "landings": [
+        {
+          "id": 26762,
+          "name": "nubia 60 Ultra purchase page",
+          "code": "1c8a56b689"
+        },
+        {
+          "id": 25132,
+          "name": "UK  Store",
+          "code": "faaaf2ca3a"
+        },
+        {
+          "id": 25130,
+          "name": "EU Store",
+          "code": "326f12f375"
+        },
+        {
+          "id": 26761,
+          "name": "nubia Flip 5G purchase page",
+          "code": "93b66a36cc"
+        },
+        {
+          "id": 31365,
+          "name": "UK Black Friday",
+          "code": "b66fe62820"
+        },
+        {
+          "id": 31366,
+          "name": "EU Black Friday",
+          "code": "2650431036"
+        },
+        {
+          "id": 31368,
+          "name": "MX Black Friday",
+          "code": "608a0e2967"
+        },
+        {
+          "id": 31367,
+          "name": "INTL Black Friday",
+          "code": "f1f459ef0c"
+        }
+      ],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Household Appliances & Electronics",
       "id": 65,
@@ -1025,8 +1943,11 @@
   {
     "id": 24369,
     "name": "E2e4online",
+    "name_aliases": "E2e4online, е2е4, у2у4щтдшту, E2e4 online, t2t4online",
+    "site_url": "https://e2e4online.ru",
+    "description": "e2e4 — это интернет-магазин электроники, бытовой и цифровой техники, электроинструмента и других товаров. Компания продаёт не просто товары, а комплексные решения: консультирует клиентов, помогает подобрать оборудование, находит даже редкие позиции. В каталоге более 100 000 товаров: компьютеры, комплектующие, смартфоны, офисная техника, системы безопасности, бытовая техника и др.\r\n\r\nПортрет ЦА:\r\n\r\nПол:\r\n\r\n\r\n\tмужчины — 83%\r\n\tженщины — 17%\r\n\r\n\r\nВозраст:\r\n\r\n\r\n\t18–24 — 6,8%\r\n\t25–34 — 38,9%\r\n\t35–44 — 35,9%\r\n\t45–54 — 13%\r\n\r\n\r\nДоход: средний и выше среднего.\r\nОсобенности: системные администраторы, владельцы IT-компаний, продвинутая ИТ-аудитория.\r\n\r\nГеография: \r\n\r\nРоссия, преимущественно регионы Сибирь, Урал, Поволжье, Дальний Восток.\r\n\r\nПреимущества для партнёров:\r\n\r\n\r\n\tВысокая комиссия за продажи.\r\n\tСтабильный доход: более 50% покупателей совершают повторные покупки.\r\n\tБыстрая конверсия: 15% клиентов оплачивают заказ в день визита, 19% — в течение месяца.\r\n\tДлительный жизненный цикл клиента (LTV более 2 лет).\r\n\tПоддержка рекламными материалами и регулярные акции.\r\n\r\n\r\nПреимущества для клиентов:\r\n\r\n\r\n\tПрограмма лояльности для компаний: персональные цены, увеличенный кэшбэк, списание до 99% бонусов, хранение бонусов 12 месяцев, бесплатная доставка, отсрочка платежа.\r\n\tБольшой ассортимент (100 000+ товаров).\r\n\tЭкспертная помощь в подборе.\r\n\tГарантии: ремонт, возврат, обмен без проблем.\r\n\tВыгодная доставка:\r\n\tБесплатная доставка — в 8 городах;\r\n\tБесплатная доставка от 1000 ₽ — в 18 городах;\r\n\tЭкспресс-доставка за 2 часа — в 5 городах.\r\n\tУдобные способы оплаты: карты, рассрочка, кредит, электронные кошельки, наличные.\r\n\tРегулярные акции и рассрочка 0%.\r\n\r\n\r\nУсловия доставки:\r\n\r\n\r\n\tСамовывоз — из магазина, пункта выдачи или отделений Почты РФ.\r\n\tКурьер e2e4:\r\n\tЗаказы до 10 000 ₽ — 499 ₽;\r\n\tСвыше 10 000 ₽ — бесплатно;\r\n\tКрупногабарит — стоимость индивидуальна.\r\n\tСДЭК:\r\n\tДо 5 000 ₽ — от 320 ₽ (города присутствия), от 500 ₽ (Москва);\r\n\tСвыше 5 000 ₽ — бесплатно в городах присутствия, в остальных — по тарифу СДЭК.\r\n\tDPD (оплата клиентом): доступно в ряде городов (Абакан, Сургут, Магнитогорск и др.).\r\n\tЭкспресс-доставка Яндекс — в городах присутствия.\r\n\tДоставка ТК или EMS — по согласованию.\r\n\r\n\r\nКак проходит сверка:\r\nРаз в месяц с 1-14 число, ручная.\r\n\r\nДанные об ОРД (ККТУ):\r\n9.1.1 — Компьютеры\r\n9.1.3 — Компьютерная периферия\r\n9.1.4 — Компьютерные комплектующие\r\n9.1.5 — Офисная техника\r\n23.1.1 — Сотовые телефоны\r\n28.1.3 — Магазины бытовой техники и электроники\r\n\r\nВыдача промокодов:\r\nНет возможности выдачи именных промокодов по запросу.\r\n\r\nИнформация про модерацию:\r\nМодерация проводится 3 раза в неделю.",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/1/13/24369-c4968eff0b0c87da.jpg",
-    "img": "platform/24369.jpg",
     "categories": [
       {
         "name": "Online stores",
@@ -1046,6 +1967,12 @@
         }
       }
     ],
+    "img": "platform/24369.jpg",
+    "affiliate": {
+      "goto_link": "https://bjpql.com/g/uwqj8es2z45af0702a27d39a5facf7/?erid=2bL9aMPo2e49hMef4pdz7q4jyi",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Household Appliances & Electronics",
       "id": 65,
@@ -1061,8 +1988,11 @@
   {
     "id": 25925,
     "name": "Tion",
+    "name_aliases": "Tion, тион, ешщт, nbjy",
+    "site_url": "https://tion.ru",
+    "description": "Подключайтесь к новой партнерской программе от интернет - магазина Tion!\r\n\r\nКомпания TION разрабатывает и производит оборудование для очистки и обеззараживания воздуха, основана в 2006 году.\r\n\r\nНаша цель – изменить подходы людей к здоровью и ресурсам, существенно улучшив качество жизни. Для этого мы создаем новые продукты, функциональность и эффективность которых всегда находится на верхней грани существующих технологий. Более того, мы сдвигаем эту грань, проводя собственные фундаментальные исследования.\r\n\r\nПортрет ЦА\r\n\r\n 1. Жители больших городов, кому мешает шум и пыль с улиц.\r\n 2. Семьи в которых ожидают ребёнка и есть дети.\r\n 3. Люди, кто ищет технику для профилактики от вирусов, в том числе COVID-19.\r\n 4. Любители здорового образа жизни и зож.\r\n 5. Любители умных гаджетов.\r\n\r\n\r\n\r\n\r\n\r\nПреимущества работы для партнеров\r\n\r\n1. Работа с брендом, который на рынке более 15 лет и производит востребованный товар в условиях борьбы с вирусами.\r\n2. Специальные акции только для Интернет – магазина.\r\n3. Опыт TION в климатической инженерии более 14 лет, от небольших помещений до медучреждений и школ.\r\n4. Продукты основаны на честных и работающих технологиях без ложных обещаний, TION строит долгосрочные отношения с партнерами.\r\n5. Каждый продукт Tion - часть экосистемы, которая растёт, развивается и обновляется ежедневно.\r\n\r\nПреимущества для клиентов\r\n\r\n•  Техника от экспертов в области климатической инженерии.\r\n•  Эффективные решения для очистки и обеззараживания воздуха.\r\n•  Экосистема продуктов, постоянно развивающаяся и обновляющаяся.\r\n•  Честные и работающие технологии без ложных обещаний.\r\n\r\nКак проходит сверка\r\n\r\nСверка проводится вручную 1 раз в начале каждого месяца\r\n\r\nВыдача промокодов\r\n\r\nВ программе не предусмотрены промокоды\r\n\r\nИнформация про модерацию \r\n\r\nМодерация проводится оперативно, 3 раза в неделю",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/8/6/25925-704368c4cd790a07.png",
-    "img": "platform/25925.png",
     "categories": [
       {
         "name": "Online stores",
@@ -1088,6 +2018,23 @@
         "parent": null
       }
     ],
+    "img": "platform/25925.png",
+    "affiliate": {
+      "goto_link": "https://rzekl.com/g/1q2r9vphv55af0702a273787886fbc/?erid=2bL9aMPo2e49hMef4pe18cxctN",
+      "landings": [
+        {
+          "id": 29040,
+          "name": "Волшебная шкатулка",
+          "code": "dc0b966fc3"
+        },
+        {
+          "id": 28402,
+          "name": "Щедрая Осень",
+          "code": "625fe23278"
+        }
+      ],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Household Appliances & Electronics",
       "id": 65,
@@ -1103,8 +2050,11 @@
   {
     "id": 26150,
     "name": "Kenwood CZ",
+    "name_aliases": "kenwood, kenwud",
+    "site_url": "https://www.kenwoodworld.com",
+    "description": "Kenwood je přední světová značka v oblasti produktů pro přípravu potravin. Od roku 1947 jsme spojili lásku k dobrému jídlu s pochopením toho, jak domácí kuchaři vytvářejí jídla. To vedlo k designu kvalitních produktů a přineslo radost celému procesu.\r\n\r\nPopis programu\r\n\r\nVítejte v affiliate programu Kenwood. \r\n\r\nNabízíme přibližně 100+ produktů ke koupi a počet produktů neustále roste! Naším cílem je spolupracovat a strategicky pracovat s řadou přidružených společností, abychom pomohli zvýšit návštěvnost našich obchodů a přivést nové zákazníky. Těšíme se na posouzení Vaší přihlášky a usilujeme o to, abychom zahájili spolupráci co nejdříve. Přidejte se k nám na této cestě ještě dnes!\r\n\r\nExistuje mnoho důvodů, proč byste se měli zapojit do přidruženého programu :\r\n\r\n\r\n\tDělejte affiliate marketing jedné z nejrespektovanějších značek na světě v kategorii přípravy jídla\r\n\tJsme světovou jedničkou v kategorii kuchyňských robotů v Evropě\r\n\tNaše výrobky jsou vysoké hodnoty a výjimečné kvality \r\n",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/6/26/26150-711173f3fe4bf726.svg",
-    "img": "platform/26150.svg",
     "categories": [
       {
         "name": "Household Appliances & Electronics",
@@ -1124,6 +2074,12 @@
         "parent": null
       }
     ],
+    "img": "platform/26150.svg",
+    "affiliate": {
+      "goto_link": "https://heqgr.com/g/dd7jf6ihmq5af0702a275219d95572/",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Household Appliances & Electronics",
       "id": 65,
@@ -1139,8 +2095,11 @@
   {
     "id": 26219,
     "name": "Huawei CZ",
+    "name_aliases": "Huawei, Huawei.cz, shop huawei, shop Huawei cz",
+    "site_url": "https://consumer.huawei.com/cz/",
+    "description": "Huawei is a global provider of information and communication technology (ICT) infrastructure and smart devices. One of Huawei's three business groups is Huawei Consumer BG, which deals in smartphones, computers and tablets, wearable electronics, mobile broadband devices, family devices and cloud service devices. It is the third largest smartphone manufacturer in the world. Huawei Consumer BG provides the latest technology to customers around the world.\r\n\r\nHuawei je světovým poskytovatelem infrastruktury informačních a komunikačních technologií (ICT) a chytrých zařízení. Jednou ze tří obchodních skupin společnosti Huawei je Huawei Consumer BG, která se zabývá chytrými telefony, počítači a tablety, nositelnou elektronikou, mobilními širokopásmovými zařízeními, rodinnými zařízeními a zařízeními cloudových služeb. Jde o třetího největšího výrobce chytrých telefonů na světě. Huawei Consumer BG poskytuje nejnovější technologie zákazníkům po celém světě.",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/4/19/26219-2b77a73e0dce7dd1.svg",
-    "img": "platform/26219.svg",
     "categories": [
       {
         "name": "Online stores",
@@ -1160,6 +2119,12 @@
         }
       }
     ],
+    "img": "platform/26219.svg",
+    "affiliate": {
+      "goto_link": "https://lsuix.com/g/vg5a5px7gy5af0702a2721c22008e4/",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Household Appliances & Electronics",
       "id": 65,
@@ -1175,8 +2140,11 @@
   {
     "id": 26315,
     "name": "DeinDesign DE 2",
+    "name_aliases": "DeinDesig, Designde,Dendesign,Deidesign,desagn,",
+    "site_url": "https://www.deindesign.de/",
+    "description": "English Summary Publisher benefits\r\n\r\n\r\n\tInnovative lifestyle product with high commission rates\r\n\tAppealing banners (conversion-optimized)\r\n\tConstantly increasing demand of end customers forced by intensive advertising tactics (TV, print and online)\r\n\tWide range of designs and products\r\n\tGreat brand awareness\r\n\tIndividual and professional support for all affiliates\r\n\r\n\r\n\r\nAbout DeinDesign\r\nDeinDesign was the first German producer of the lifestyle product DesignSkins®. Till this date the company is still the market leader in the fast growing segment of design foils and cases for consumer electronics.\r\n \r\n\r\nFacts & Figures                                                                                                                                      \r\n\r\nCurrently more than 10,000 different electronics can be customized at www.deindesign.de, eg:\r\n\r\n\r\n\tNotebooks,\r\n\tCell phones,\r\n\tMp3 player,\r\n\tGame pads,\r\n\tThermomix and many more\r\n\r\n\r\nto mention but a few.",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/29/26315-7b6b923ea1a90f38.svg",
-    "img": "platform/26315.svg",
     "categories": [
       {
         "name": "Online stores",
@@ -1196,6 +2164,12 @@
         }
       }
     ],
+    "img": "platform/26315.svg",
+    "affiliate": {
+      "goto_link": "https://ad.admitad.com/g/fw3bp7q59n5af0702a27470d789cef/",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Household Appliances & Electronics",
       "id": 65,
@@ -1211,8 +2185,11 @@
   {
     "id": 26670,
     "name": "Samsung CA",
+    "name_aliases": "Samsung, samsung, SAMSUNG,Samsung CA,SamsungCA,",
+    "site_url": "https://shop.samsung.com/ca/",
+    "description": "About Samsung\r\n\r\nSamsung Electronics inspires the world and shapes the future with transformative ideas and technologies, redefining the worlds of TVs, smartphones, wearable devices, tablets, cameras, digital appliances, and printers. We are also leading in the Internet of Things space through, among others, our Smart Home and Digital Health initiatives.\r\n\r\nOur Vision 2020 is at the core of our commitment to create a better world full of richer digital experiences, through innovative technology and products. The goal of the vision is to become a beloved brand, an innovative company, and an admired company. For this, we dedicate our efforts to creativity and innovation, shared value with our partners, and our great people\r\n\r\nWhy Join the Affiliate Program?\r\n\r\nSamsung offers our customers a wide range of products from across our portfolio, with new categories of product being launched each year. Samsung take pride in providing the best service we can to customers and offer our direct customers. We have a dedicated customer service team who can support customers with pre-purchase questions, during their purchase journey and in the setup and operation of their products throughout the lifetime of ownership. We have at least one major offer every month, with mini-offers every week. New product lines are being added throughout the year and there is scope for launch exclusive offers.\r\n\r\nSamsung Canada has a dedicated Account Manager and Affiliate contact, making partnership development and implementation easy for you and your team!\r\n\r\nBenefits of joining the Samsung Canada program on Admitad\r\n\r\n\r\n\tBanners: Creative content updated in line with promotions and seasonal events\r\n\tWeekly newsletters and communication for offers, promotions and new product releases\r\n\tAccess to our expansive and up-to-date product data feed \r\n\r\n\r\nPlease note:\r\n\r\n\r\n\tUse of Samsung's assets, logos , images and other collaterall is provided under strict confidence and is not to be shared with any third parties, individuals outside your organisation or unauthorised individuals within your organisation(s)\r\n\tSamsung Canada does not approve private catalog orders. All orders on non \".com\" domains will be declined.\r\n\t \r\n",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/29/26670-931b082e5885750b.svg",
-    "img": "platform/26670.svg",
     "categories": [
       {
         "name": "Household Appliances & Electronics",
@@ -1232,6 +2209,12 @@
         "parent": null
       }
     ],
+    "img": "platform/26670.svg",
+    "affiliate": {
+      "goto_link": "https://ad.admitad.com/g/6o1rcptdxo5af0702a276dc86515f8/",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Household Appliances & Electronics",
       "id": 65,
@@ -1247,8 +2230,11 @@
   {
     "id": 27415,
     "name": "Rawmid",
+    "name_aliases": "Rawmid, RAWMID, РОМИД, РОУМИД",
+    "site_url": "https://madeindream.com",
+    "description": " RAWMID — бытовая техника для здорового питания: блендеры, соковыжималки, дегидраторы с горизонтальной сушкой, маслопрессы, средства для очистки и структурирования воды, сувиды, вакууматоры, пылесосы и другая мелкая бытовая техника для кухни и дома. Доставка по России бесплатная. Можем доставлять по миру.\r\n\r\nПреимущества для веб-мастеров:\r\n\r\n\r\n\tПроцент подтверждения более 96%\r\n\tИзвестность бренда\r\n\tБесплатная доставка по РФ\r\n\tПринимаются все основные виды оплат\r\n\tВысокие тарифы\r\n\r\n\r\nПреимущества для покупателей:\r\n\r\n\r\n\t50 самых популярных и проверенных товаров для кухни\r\n\tБолее 20 тыс. покупателей\r\n\tБесплатная доставка на все товары по РФ\r\n\tБолее 10 способов оплаты\r\n\tБесплатная клиентская поддержка\r\n\r\n\r\nКак проходит сверка (периодичность, автоматическая или ручная)\r\nРаз в месяц с 1-14 число. Ручная.\r\n\r\nДанные об ОРД\r\nКод ККТУ 3.2.1\r\n\r\nВыдача промокодов (именные, смарт, одноразовые итп)\r\nнет\r\n\r\nИнформация про модерацию\r\nНесколько раз в неделю.",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/4/19/27415-59c106e35c8b8630.jpg",
-    "img": "platform/27415.jpg",
     "categories": [
       {
         "name": "Online stores",
@@ -1268,6 +2254,12 @@
         }
       }
     ],
+    "img": "platform/27415.jpg",
+    "affiliate": {
+      "goto_link": "https://xpuvo.com/g/87lavg2fef5af0702a27da0834ec96/?erid=2bL9aMPo2e49hMef4peW1mXmfz",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Household Appliances & Electronics",
       "id": 65,
@@ -1283,63 +2275,47 @@
   {
     "id": 27630,
     "name": "Huawei AE Offline codes & Links",
+    "name_aliases": "huawei, huaweiuae, HUAWEI الإمارات,",
+    "site_url": "https://consumer.huawei.com/ae-en/offer/",
+    "description": "About HUAWEI:\r\n\r\nFounded in 1987, Huawei is a leading global provider of information and communications technology (ICT) infrastructure and smart devices. With integrated solutions across four key domains – telecom networks, IT, smart devices, and cloud services – we are committed to bringing digital to every person, home and organisation for a fully connected, intelligent world.\r\n\r\nWe operate in over 170 countries and regions, serving more than three billion people around the world.\r\n\r\nWhy choosing HUAWEI:\r\n\r\n\r\n\tGlobal brand fame.\r\n\tGlobal GEO.\r\n\tVery Profitable commission for made sale!\r\n\tHigher conversion Rates supported through the Regular Sale and Flash Sale events each month\r\n\tOn time repayments!\r\n\tAccept all major payment cards.\r\n\tAll products are paid.\r\n\r\n\r\nAdvantages for users:\r\n\r\n\r\n\tMany offers and new products launch.\r\n\tMulti-category platform for a wide variety of shopping.\r\n\tProfessional customer services.\r\n\tUnlimited order quantity.\r\n\tShipment & Buyer protection.\r\n\r\n\r\nOffers:\r\n\r\n\r\n\thttps://consumer.huawei.com/ae-en/offer/  \r\n\thttps://consumer.huawei.com/ae/offer/ \r\n\r\n\r\nTop popular products \r\n\r\n \r\n\r\n ",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/5/12/27630-855407c90fa76108.png",
+    "categories": [
+      {
+        "name": "Household Appliances & Electronics",
+        "id": 65,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
     "img": "platform/27630.png",
-    "categories": [
-      {
-        "name": "Household Appliances & Electronics",
-        "id": 65,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
+    "affiliate": {
+      "goto_link": "https://ficca2021.com/g/2k0ixkhyho5af0702a27fc61652cc0/",
+      "landings": [
+        {
+          "id": 20237,
+          "name": "Offers EN",
+          "code": "78676bb0d8"
+        },
+        {
+          "id": 20236,
+          "name": "Offers AR",
+          "code": "0e1d54ead7"
         }
-      },
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "category": {
-      "name": "Household Appliances & Electronics",
-      "id": 65,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    }
-  },
-  {
-    "id": 27805,
-    "name": "Canon UAE",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2022/11/15/27805-ec431bc4b670e15b.png",
-    "img": "platform/27805.png",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Household Appliances & Electronics",
-        "id": 65,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
+      ],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Household Appliances & Electronics",
       "id": 65,
@@ -1355,8 +2331,11 @@
   {
     "id": 28994,
     "name": "realme [CPS] IN",
+    "name_aliases": "Realme, Real me, Reelme",
+    "site_url": "https://www.realme.com/in/",
+    "description": "Company Description - realme is a technology brand officially established on Aug 28, 2018, by Sky Li. The aspiration of realme is to provide products with a comprehensive superior experience for the young, and realme is committed to be a trendsetting technology brand.  Due to the abilities in cutting-edge technologies of smartphones and AIoT, realme brings consumers products with leap-forward technologies and trendsetting designs that are first applied in the price segment. At the beginning of 2020, realme announced its dual-driven strategy of “Smartphone + AIoT”. In November of 2020, realme has just been named by Counterpoint's Q3 2020 smartphone shipment report to be the fastest growing brand to reach the 50 million smartphone sales milestone. In addition to this milestone, realme is also the world’s fastest-growing brand in Q3 as it grew 132% QoQ for the quarter, gaining momentum and surpassing analysts’ expectations. As the world's fastest-growing smartphone brand, realme stands firmly among the mainstream smartphone brands. At present, realme has entered 61 markets worldwide, including Asia, Europe, Oceania, Middle, and East Africa, etc.\r\n\r\nCampaign Description - This is a Cost per Sale (CPS) Campaign where the publishers need to drive sales on realme's website\r\n\r\nTarget/Ragion - PAN India\r\n\r\nMissing - Not Allowed\r\n\r\nThe SKU's that are available on microsite are only billable. The SKU's that are not available on microsite are not billable.",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/8/29/28994-915d4f717d267c9c.jpg",
-    "img": "platform/28994.jpg",
     "categories": [
       {
         "name": "Online stores",
@@ -1376,6 +2355,12 @@
         }
       }
     ],
+    "img": "platform/28994.jpg",
+    "affiliate": {
+      "goto_link": "https://tjzuh.com/g/cdjrir5bwp5af0702a27359494a0af/",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Household Appliances & Electronics",
       "id": 65,
@@ -1391,8 +2376,11 @@
   {
     "id": 29427,
     "name": "ipiter",
+    "name_aliases": "айпитер, ипитер, шзшеук",
+    "site_url": "https://ipiter.ru/",
+    "description": "Присоединяйтесь к партнёрской программе интернет магазина IPiter. С 2012 года наш магазин продаёт оригинальную и новую технику Apple с гарантией 1 год от официального сервис центра Apple для покупателей Санкт-Петербурга и Ленинградской области.\r\n\r\nТысячи довольных покупателей приходят к нам, чтобы порадовать себя и своих близких.\r\n\r\nУ нас вы можете полностью проверить устройство и убедиться в его качестве до оплаты. Надёжные поставщики, тысячи отзывов от реальных покупателей. Покупка у нас - это гарантия вашего спокойствия за потраченные средства.\r\n\r\n\r\n \r\nЦелевая аудитория магазина:\r\nВозраст:\r\n\r\n\r\n\t25-34 года (указать в процентах)\r\n\t35-44 года (указать в процентах)\r\n\t45-54 года (указать в процентах)\r\n\t18-24 года (указать в процентах)\r\n\t55 лет и старше (указать в процентах)\r\n\r\n\r\n \r\nТип устройства:\r\n\r\n\r\n\tСмартфоны 61,2 %\r\n\tПК 33,7 %\r\n\tПланшеты 5,06 %\r\n\r\n\r\n\r\n \r\nГЕО (доставка только в данных регионах):\r\n-Санкт-Петербург\r\n-Ленинградская область\r\n\r\n\r\n \r\nПреимущества для покупателей:\r\n1. Мы можем доставить ваш товар в день заказа при наличии товара на складе\r\n2. Даем 14 дней на проверку товара\r\n3. 1 год гарантии от производителя на смартфоны, планшеты и ноутбуки.\r\n4. Десять лет работаем для вас\r\n5. Подарки постоянным покупателям\r\n\r\n\r\n\r\nПреимущества для партнеров:\r\n1. Торгуем только востребованными товарами и постоянно следим за этим\r\n2. Адекватны цены на товары в нашем магазине\r\n3. Быстрая обработка заказов\r\n4. Средний чек от 30 000 руб.\r\n5. Достойное вознаграждение для наших вебмастеров\r\n\r\nКак проходит сверка: подключена автоматическая сверка заказов\r\nВыдача промокодов: рекламодатель не выдает промокоды \r\nИнформация про модерацию: модерация проводится на регулярной основе, 3 раза в неделю\r\n\r\nДанные об ОРД: код ККТУ 7.1.2\r\n\r\nМинус-слова: iPiter, айпитер, марата 5, маяковская\r\n\r\n \r\n\r\nС Уважением, Партнерская программа Ipiter!",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/10/12/29427-bff538acf5f95131.jpg",
-    "img": "platform/29427.jpg",
     "categories": [
       {
         "name": "Household Appliances & Electronics",
@@ -1412,6 +2400,12 @@
         "parent": null
       }
     ],
+    "img": "platform/29427.jpg",
+    "affiliate": {
+      "goto_link": "https://ewwhk.com/g/s5xrmo3y125af0702a27cc66a33f1f/?erid=2bL9aMPo2e49hMef4pfUzEXezx",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Household Appliances & Electronics",
       "id": 65,
@@ -1427,8 +2421,11 @@
   {
     "id": 29608,
     "name": "garlyn.ru",
+    "name_aliases": "пфкдшт, garlin, герлин, гарлин",
+    "site_url": "https://garlyn.ru/",
+    "description": "Информация о компании:\r\n\r\nКомпания Garlyn - российский производитель бытовой техники бизнес-класса с собственным отделом разработки новых устройств и контрактным производством, расположенным в Китае. Линейка продукции Garlyn включает более 20 наименований: кофемашины, дегидраторы, мультиварки, варочные панели, роботы-пылесосы, мойщики окон и пр. Продукция компании представлена в крупнейших торговых сетях и маркетплейсах, а также на сайте компании и в шоу-румах в Москве и Петербурге.\r\n\r\nПортрет целевой аудитории: \r\n\r\nГЕО: Россия\r\n\r\nГорода:\r\n\r\n\r\n\tМосква и область - 31%\r\n\tСанкт-Петербург и область -10%\r\n\tСвердловская область - 3%\r\n\tКраснодарский край - 3%\r\n\tОстальные - 53%\r\n\r\n\r\nДемография:\r\n\r\n\r\n\tЖенщины - 59%\r\n\tМужчины - 41%\r\n\r\n\r\nВозраст:\r\n\r\n\r\n\t25-34 - 13%\r\n\t35-44 - 24%\r\n\t45-54 - 29%\r\n\t55+ - 30%\r\n\tОстальные - 4%\r\n\r\n\r\nТип устройства:\r\n\r\n\r\n\tmobile+tablet - 64%\r\n\tdesktop - 36%\r\n\r\n\r\nПреимущества для веб-мастеров:\r\n\r\n\r\n\tРегулярные акции.\r\n\tСрок хранения Cookies составляет 90 дней.\r\n\tРегулярное тестирование и совершенствование функционала сайта.\r\n\tЧестные автоматические сверки заказов.\r\n\tСтабильные выплаты вознаграждения.\r\n\tАктуальный товарный фид данных.\r\n\tСредний чек 20 000 рублей.\r\n\r\n\r\n\r\n\r\n\r\nПреимущества для клиентов:\r\n\r\n\r\n\tГарантия 2 года на весь ассортимент продукции.\r\n\tДоставка по всей России.\r\n\tСкорость ремонта в случае поломки выше, чем у всех конкурентов: 1 день в МСК и СПб, 5 дней в крупных городах, до 14 дней в регионах.\r\n\tМенее 1% брака - меньше всех в отрасли.\r\n\tЛюбые способы оплаты.\r\n\tРассрочка 0%.\r\n\tКэшбек система: возврат баллами от суммы покупки.\r\n\tГарантированная скидка на первый заказ, которая суммируется с любой другой акцией или скидкой.\r\n\tРегулярные акции различных типов: скидки, подарки, промо, кросс-акции.\r\n\tПостоянно действующий раздел спецпредложений с существенными скидками.\r\n\r\n\r\nТоп-товары:\r\n\r\n\r\n\thttps://garlyn.ru/product/garlyn-mg-5000/\r\n\thttps://garlyn.ru/product/garlyn-d-09/\r\n\thttps://garlyn.ru/product/garlyn-l1000/\r\n\thttps://garlyn.ru/product/garlyn-sr-800-max/\r\n\r\n\r\nПромокоды:\r\nВыдача именных промокодов по запросу.\r\nДоступны смарт-промокоды.\r\n\r\nСверка заказов:\r\nПроводится вручную один раз в месяц.\r\n\r\nМодерация вебмастеров:\r\nПроводится три раза в неделю.\r\n\r\nМинус-слова для контекстной рекламы: garlin, garlyn, гарлин, гарлен, гарлун, гарлунг, carlyn, гарлинг\r\n\r\nОтклонение заказов / отключение партнёра за:\r\n\r\n\r\n\tпривлечение заказов по брендовым запросам;\r\n\tпривлечение заказов в последние дни месяца с последующей отменой через 14 дней;\r\n\tпривлечение заказов с несогласованных площадок ненадлежащего взрослого, шок или политического контента;\r\n\tзаведомое дезинформирование потенциальных покупателей по условиям покупки.\r\n\r\n\r\nКод ККТУ: 3.2.1\r\n\r\nС Уважением,\r\nПартнерская программа Garlyn!\r\n\r\n ",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/13/29608-c50b9bfffca13db6.svg",
-    "img": "platform/29608.svg",
     "categories": [
       {
         "name": "Online stores",
@@ -1448,6 +2445,18 @@
         }
       }
     ],
+    "img": "platform/29608.svg",
+    "affiliate": {
+      "goto_link": "https://flcoz.com/g/16th4xoob45af0702a27cb35fbf9c6/?erid=2bL9aMPo2e49hMef4pfV6xT5Jj",
+      "landings": [
+        {
+          "id": 25973,
+          "name": "Киберпонедельник. выгода до -40 процентов по промокоду",
+          "code": "f0586816ea"
+        }
+      ],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Household Appliances & Electronics",
       "id": 65,
@@ -1463,8 +2472,11 @@
   {
     "id": 30400,
     "name": "Storeinua UA",
+    "name_aliases": "storeinua, сторінюа, сторинюа, store in ua",
+    "site_url": "https://storeinua.com/",
+    "description": "STOREinUA - мережа інтернет-магазинів якісної техніки від відомих брендів. На ринку вже понад 10 років. \r\n\r\nПлатформа реалізує продукцію бренду Apple, новинки можна замовити першими, за вигідною ціною. Діє послуга Traide-In - обмін старих гаджетів Apple на знижку під час купівлі нових моделей.\r\nАсортимент каталогів різноманітний: кухонна, побутова техніка, різна електроніка та аксесуари. Менеджери вивчають ринок - оновлення позицій завжди актуальні та затребувані в клієнтів.\r\n\r\nЦільова аудиторія інтернет-магазину різна: підприємства і фірми здійснюють корпоративні закупівлі, обирають офісне обладнання, молодь і старше покоління віддають перевагу техніці для навчання, роботи, особистого використання, вирішення побутових завдань і розваг. \r\n\r\nПереваги для клієнтів:\r\n\r\n\r\n\tвеликий вибір техніки різного призначення. Сертифікована продукція з гарантією, від таких брендів як: Apple, Samsung, Bosch, Philips, LG, Sony, PlayStation, Beko та інших;\r\n\tпростий, інтуїтивно зрозумілий сайт, з системою фільтрів для пошуку і швидкого оформлення замовлення;\r\n\tстаціонарні точки продажу - 4 магазини в різних районах Києва і точки сервісного обслуговування та ремонту;\r\n\tбагато позицій у наявності на складах мережі, але також є можливість купівлі конкретної моделі під замовлення. Наприклад, генератори, квадрокоптери, зарядні станції, Starlink та інші вузькоспеціалізовані пристрої;\r\n\tдоступні ціни, при цьому тільки високоякісна, перевірена продукція;\r\n\tпостійне оновлення товару в категорії Акції, приємні знижки;\r\n\tвибір способу оплати і доставка в усі регіони України.\r\n\r\n\r\nПереваги для вебмайстрів:\r\n\r\n\r\n\tстабільність виплат щомісяця;\r\n\tширокий трафік;\r\n\tрегулярні звірки в обумовлені терміни;\r\n\tпропозиція продуманих креативів;\r\n\tпостійне поповнення сайту новинками;\r\n\tефективні рекламні запуски, промо активність.\r\n\r\n\r\n ",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/4/25/30400-b311960869832095.svg",
-    "img": "platform/30400.svg",
     "categories": [
       {
         "name": "Online stores",
@@ -1496,6 +2508,12 @@
         "parent": null
       }
     ],
+    "img": "platform/30400.svg",
+    "affiliate": {
+      "goto_link": "https://naiawork.com/g/x2f5p3q25u5af0702a2790e72178e7/",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Household Appliances & Electronics",
       "id": 65,
@@ -1511,8 +2529,11 @@
   {
     "id": 30582,
     "name": "iBOX",
+    "name_aliases": "http://iboxstore.ru/, iboxstore.ru, iboxstore, ибокс, ибоксстор, iBOX, шищч, шищчыещку",
+    "site_url": "https://iboxstore.ru/",
+    "description": " iBOX – ведущая Российская инновационная компания.\r\nМы, совместно с зарубежными партнерами производим современные видеорегистраторы, радар-детекторы и комбо-устройства.\r\n\r\nТоп-товары:\r\n\r\n\r\n\tiBOX   Sonar LaserScan Signature Cloud\r\n\tiBOX RoadScan WiFi GPS Dual\r\n\tiBOX EVO LaserVision WiFi Signature Dual\r\n\tiBOX iCON LaserVision WiFi   Signature S\r\n\tiBOX Alta LaserScan Signature Dual\r\n\tiBOX Range LaserVision WiFi Signature Dual\r\n\r\n\r\nГЕО — РФ\r\nПортрет целевой аудитории - Аудитория, совершающая покупку от 25 до 60, мужского пола, редко - женского (10-20%). Ядро аудитории от 35 до 55 мужского пола, автомобилисты (владельцы авто)\r\n\r\nПреимущества для партнеров:\r\n\r\n\r\n\tВысокий процент комиссии\r\n\tВремя холда - 30 дней\r\n\tВысокая конверсия сайта, над увеличением которой мы постоянно работаем\r\n\r\n\r\nДля вебмастеров:\r\n\r\n\r\n\tРучная сверка раз в месяц.\r\n\tМодерация вебмастеров 2 раза в неделю.\r\n\tВозможна выдача именных промокодов.\r\n\r\n\r\nДанные об ОРД. Код ККТУ: 10.9.7",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/11/22/30582-a548398269d30c32.jpg",
-    "img": "platform/30582.jpg",
     "categories": [
       {
         "name": "Online stores",
@@ -1532,6 +2553,12 @@
         }
       }
     ],
+    "img": "platform/30582.jpg",
+    "affiliate": {
+      "goto_link": "https://codeaven.com/g/4hh84nh1h65af0702a27e6b606b04d/?erid=5jtCeReNwxHpfQTFQwvgGrT",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Household Appliances & Electronics",
       "id": 65,
@@ -1547,8 +2574,11 @@
   {
     "id": 32972,
     "name": "Colorway Many Geo",
+    "name_aliases": "Colorway, Color way, Colorvay, Color vay, Colorwey, Color wey, Colorwai, Color wai, Colorvai, Color vai, Colorwei, Color wei, kolorway, kolor way, kolorvay, kolor vay, kolorwey, kolor wey, kolorwai, kolor wai, kolorvai, kolor vai, kolorwei, kolor wei",
+    "site_url": "https://www.colorway-shop.sk/",
+    "description": "TM ColorWay is an international brand of smart mobile accessories and printing consumables which was established in 2007 in Ukraine.\r\n\r\nColorWay European office was opened in Slovakia, Bratislava in 2012. \r\nOur goal is to advance the brand and gain new satisfied customers in EU countries.\r\n\r\nIt is now represented and successfully sold in more than 40 countries of Europe, Northern America and Asia. \r\n\r\nAt ColorWay, we guarantee quality products at competitive prices.\r\n\r\nAll our products are certified according to valid ISO standards and certified for sale in the EU. Strong quality control of sold products, investments in new technologies help us to remain at the leading positions in the market and offer products that bring savings, value and customer satisfaction.\r\n\r\nCatalog for using",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/2/21/32972-70d6eafc00a29d97.svg",
-    "img": "platform/32972.svg",
     "categories": [
       {
         "name": "Online stores",
@@ -1568,6 +2598,12 @@
         }
       }
     ],
+    "img": "platform/32972.svg",
+    "affiliate": {
+      "goto_link": "https://wpmsx.com/g/v8ro9yqcl65af0702a2748457f1360/",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Household Appliances & Electronics",
       "id": 65,
@@ -1583,8 +2619,11 @@
   {
     "id": 33029,
     "name": "KRONA",
+    "name_aliases": "krona, rhjyf, rhjyf.ru, krona.ru, крона, лкщтф",
+    "site_url": "https://krona.ru/",
+    "description": "Информация о компании:\r\n \r\nНемецкий бренд KRONA специализируется на производстве крупной бытовой техники для кухни:\r\n\r\n\r\n\tвытяжки;\r\n\tварочные панели;\r\n\tдуховые шкафы;\r\n\tпосудомоечные машины;\r\n\tмикроволновые печи;\r\n\tхолодильники, морозильники;\r\n\tстиральные машины.\r\n\r\n\r\nПродукция бренда KRONA соответствует европейским и международным стандартам качества и безопасности, которые подтверждаются сертификатами СE, EAC, ISO и ROHS. Их наличие говорит об устойчивости техники к поломкам и отлаженном производственном процессе, а GS TUV – маркировка является неофициальным знаком качества Германии.\r\n\r\nРезультаты работы компании наглядно отражаются в цифрах и фактах:\r\n\r\n\r\n\tреализовано более 6 млн единиц продукции, из них более 5 млн. вытяжек и около 1 млн единиц встраиваемой техники;\r\n\tпервый бренд, выпустивший на рынок сбыта России встраиваемую кухонную технику 45 см;\r\n\tработает 5 официальных представительств по всей России;\r\n\tтехника представлена в 6 странах СНГ и 4х странах Европы;\r\n\tрекордно низкая доля рекламаций - 0,43%.\r\n\r\n\r\nПортрет целевой аудитории: \r\n\r\n\r\n\tПол: Мужчины (51%) и женщины (49%) со средним уровнем дохода, которые делают ремонт;\r\n\tВозраст: 25+.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\nПреимущества для веб-мастеров:\r\n\r\n\r\n\tРегулярно проводятся работы по увеличению конверсии интернет-магазина с помощью Flocktory, Аskusers и др. инструментов;\r\n\tБренд активно развивается, выделяются большие бюджеты на его рост и узнаваемость;\r\n\tАссортимент техники постоянно пополняется;\r\n\tГотовы предоставить информацию по интересующим заказам в случае спорных ситуаций;\r\n\tГотовы участвовать в создании дополнительных материалов: промокоды, баннеры и т.п. по запросу;\r\n\tГотовы рассмотреть каждого успешного вебмастера на отдельные условия по %;\r\n\tСтабильные выплаты;\r\n\tШирокие возможности по каналам привлечения трафика.\r\n\r\n\r\nПреимущества для клиентов:\r\n\r\n\r\n\t5 лет гарантии на технику;\r\n\t7 лет гарантии на мотор вытяжки;\r\n\tБолее 120 сервисных центров, расположенных в России, Республике Беларусь и Республике Казахстан;\r\n\tБолее 23 лет на рынке;\r\n\tОперативная доставка по всей России;\r\n\tПВЗ в Москве (м. Бауманская);\r\n\tХорошие отзывы на сторонних сайтах;\r\n\tВысокий процент удовлетворенных клиентов;\r\n\tШирокий ассортимент техники;\r\n\tВозможность выбрать модель самых компактных размеров (ширина техники от 30 см, отлично подходит для малогабаритных квартир);\r\n\tСпециальные акции и предложения на покупку встраиваемой техники комплектом;\r\n\tОфициальный интернет-магазин – только оригинальная продукция, все новинки у нас;\r\n\tКачественные консультации операторов по телефону, помощь в подборе техники, удовлетворяющей потребности клиентов;\r\n\tЛидерство на рынке России в категории “Техника шириной 45 см”.\r\n\r\n\r\nПромокоды:\r\nВыдача именных промокодов по запросу.\r\n\r\nСверка заказов:\r\nПроводится вручную один раз в месяц.\r\n\r\nМодерация вебмастеров:\r\nПроводится три раза в неделю.\r\n\r\nМинус-слова для контекстной рекламы:\r\n\r\n\r\n\tkrona\r\n\tкрона\r\n\tkrona магазин\r\n\tкрона магазин\r\n\tkrona интернет магазин\r\n\tкрона интернет магазин\r\n\tkrona официальный сайт\r\n\tкрона официальный сайт\r\n\r\n\r\nОтклонение заказов / отключение партнёра за:\r\n\r\n\r\n\tконтекстную рекламу на бренд,\r\n\tиспользование запрещённых видов трафика.\r\n\r\n\r\nКод ККТУ: 3.1.3\r\n\r\nС Уважением,\r\nПартнерская программа KRONA!",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/24/33029-d0586ebf3c523c8c.svg",
-    "img": "platform/33029.svg",
     "categories": [
       {
         "name": "Online stores",
@@ -1616,6 +2655,12 @@
         "parent": null
       }
     ],
+    "img": "platform/33029.svg",
+    "affiliate": {
+      "goto_link": "https://rcpsj.com/g/4qaa5pbj5p5af0702a2748c36e3ba0/?erid=2bL9aMPo2e49hMef4pfyePxmqH",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Household Appliances & Electronics",
       "id": 65,
@@ -1631,8 +2676,11 @@
   {
     "id": 35026,
     "name": "Acer Many Geos",
+    "name_aliases": "acer, асер, aser",
+    "site_url": "https://store.acer.com/",
+    "description": "Established in 1976, Acer is a hardware + software + services company dedicated to the research, design, marketing, sale, and support of innovative products that enhance people's lives. Acer's product offerings include PCs, displays, projectors and tablets.\r\n\r\nIf you own a website that attracts people looking to buy computers, laptops, and IT solutions, then why not join the Acer affiliate program and monetize all that traffic by converting your visitors into Acer customers and earn sales commissions? By partnering with Acer as an affiliate, you're leveraging on Acer's brand globally renowned for quality products and efficient customer service.\r\n\r\n- UK/NL/ES stores ship only in the UK/NL/ES respectively.\r\n\r\n ",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/7/11/35026-9958eb3798548945.svg",
-    "img": "platform/35026.svg",
     "categories": [
       {
         "name": "Online stores",
@@ -1652,6 +2700,12 @@
         }
       }
     ],
+    "img": "platform/35026.svg",
+    "affiliate": {
+      "goto_link": "https://bywiola.com/g/u0s9j5myap5af0702a273fb6d05805/",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Household Appliances & Electronics",
       "id": 65,
@@ -1667,8 +2721,11 @@
   {
     "id": 36176,
     "name": "Asus [CPS] IN",
+    "name_aliases": "asos , fasos , Asoos",
+    "site_url": "https://asus.com/in/",
+    "description": "Brand description : ASUS India is a leading technology brand recognized for its innovation, quality, and commitment to excellence. Established as a global leader in the tech industry, ASUS has consistently delivered cutting-edge products that cater to a diverse range of users, from gamers and creative professionals to everyday consumers.\r\n\r\nWith a strong presence in India, ASUS offers a wide array of products including laptops, smartphones, motherboards, graphics cards, networking equipment, and peripherals. Known for its premium design and advanced engineering, ASUS combines powerful performance with sleek aesthetics to create devices that enhance productivity, entertainment, and connectivity.\r\n\r\nCampaign Description : The campaign is on Offline tracking . The client will refer to GA for final validation .\r\n\r\nTarget Geo : Pan India ",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/9/4/36176-af15c85bc3ab6496.svg",
-    "img": "platform/36176.svg",
     "categories": [
       {
         "name": "Online stores",
@@ -1688,6 +2745,12 @@
         }
       }
     ],
+    "img": "platform/36176.svg",
+    "affiliate": {
+      "goto_link": "https://tjzuh.com/g/9d2vnaf4jq5af0702a2703be1d2ce2/",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Household Appliances & Electronics",
       "id": 65,
@@ -1703,8 +2766,11 @@
   {
     "id": 38227,
     "name": "Gait KW QA",
+    "name_aliases": "gait, جايت، جيت",
+    "site_url": "https://gait.com.kw/g_kw_en",
+    "description": "All things Apple. Including experts.\r\n\r\nGait offers the best possible Apple experience through expert advice and a wide range of exclusive services that ensure you get the most out of your Apple products for your personal, business, and educational purchases and upgrades.\r\n\r\nOur first store opened in The Avenues Mall, Phase 4, and since then we've grown to 4 retail stores that are conveniently situated across the country, as well as an online store.\r\n\r\nYour local Apple experts can assist during the discovery stage, ensuring you purchase the right and complete solution for your needs, are able to set up your new devices easily, and remain committed to ensuring you enjoy your Apple products beyond the purchase stage.  We are here to service and repair your Apple products, and when the time comes to upgrade, we can assist with your upgrade to a new Apple product.\r\n\r\nWe're expanding our Apple Premium Partner store to Qatar. We'll be offering the latest Apple products, services, and accessories to customers in this exciting new market. Our focus on innovation and technology aligns well with Qatar's aspirations to be a hub for advanced technology in the region. We're dedicated to providing excellent customer service and support, and we're excited to contribute to Qatar's growth and development.",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/18/38227-a09fdcffa5254381.svg",
-    "img": "platform/38227.svg",
     "categories": [
       {
         "name": "Online stores",
@@ -1724,6 +2790,12 @@
         }
       }
     ],
+    "img": "platform/38227.svg",
+    "affiliate": {
+      "goto_link": "https://zallj.com/g/fidnk4kp0w5af0702a27a331958848/",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Household Appliances & Electronics",
       "id": 65,
@@ -1739,8 +2811,11 @@
   {
     "id": 40500,
     "name": "wau.ru",
+    "name_aliases": "ллскин, ддылшт, kkcrby, crby,  wau.ru,  wau, dfe, вау, цфн",
+    "site_url": "https://wau.ru/",
+    "description": "WAU - девайсы и косметика с ВАУ-эффектом! Это самые современные технологии для омоложения, поддержания красоты и здоровья в домашних условиях. В линейке 15 девайсов и премиальная корейская косметика Petit Ra. Ключевые продукты: VIA, MAMI, LED Mask, MIGA, RIKA, EMI\r\n\r\nПреимущества для клиентов:\r\n\r\nГарантия результата - если через 60 дней вы не увидите результат от процедур с нашими Бьюти-девайсами, то мы вернём деньги!\r\n\r\nАссортимент девайсов WAU\r\nЛинейка WAU включает в себя девайсы для комплексной заботы о себе - от аппаратов для лица до перкуссионного массажера. В косметической линейке также представлены уходовые средства для всех этапов заботы о коже разных типов. \r\n\r\nКачество - все девайсы и косметика разработаны с использованием самых современных и эффективных технологий и материалов в области красоты и здоровья.\r\n\r\nКосметика Petit Ra имеет высокоэффективные составы, которые в лечении применяют врачи-косметологи. Косметика не маскирует эстетические недостатки, а устраняет их. \r\n\r\nВсе девайсы выполнены в стильном дизайне из высококачественных материалов, даря эстетическое удовольствие от ухода за собой. А также они компактные, благодаря чему их удобно брать с собой в поездки и путешествия.\r\n\r\nБесплатные консультации специалистов - эксперты и косметологи WAU готовы подобрать индивидуальный уход под потребности кожи и ответить на любые вопросы.  \r\n\r\nПортрет целевой аудитории:\r\n\r\n\r\n\t\r\n\t\t\r\n\t\t\t\r\n\t\t\tЖенщины 25-55, ядро 35-45. \r\n\r\n\t\t\tДоход: средний и выше\r\n\r\n\t\t\tИнтересы: красота и здоровье, следят за собой и здоровьем, интересуются модой, косметологическими услугами\r\n\r\n\t\t\t \r\n\r\n\t\t\tГеография:\r\n\r\n\t\t\tМосква и область, Санкт-Петербург и область, города миллионники, но есть клиенты и из городов меньше.\r\n\r\n\t\t\tХарактеристики аудитории можно расширять, так как наши товары потенциально могут быть интересны всем женщинам, есть возможность покупки в рассрочку и доставка в любую точку РФ. \r\n\t\t\t\r\n\t\t\r\n\t\r\n\r\n\r\nРекомендации по позиционированию бренда:\r\n\r\n 1) наши девайсы позволяют проводить салонные процедуры регулярно в домашних условиях, а по стоимости сравнимы с 2-3 походами к косметологу. \r\nМожно использовать слоган: Девайсы и косметика с ВАУ-эффектом! \r\n\r\n2) уверенность бренда в качестве своей продукции: Гарантия результата - если через 60 дней вы не увидите результат от процедур с аппаратами WAU, то компания вернёт деньги! \r\nМожно использовать слоган: Если через 60 дней вы не увидите результат, вернём деньги!\r\n\r\n3) во всех девайсах (от массажеров до зеркал) используются только самые современные технологии, с проверенной эффективностью. \r\nМожно использовать: WAU - это самые современные инновационные технологии для омоложения, поддержания красоты и здоровья вашей кожи в домашних условиях\r\n\r\n4) в косметической линейке под брендом Petit Ra используются только эффективные комбинации натуральных компонентов, которые лечат, а не маскируют. Воплощает в себе все лучшее, за что ценится корейская косметика. \r\nМожно использовать: \r\nПремиальная косметика Petit Ra не маскирует эстетические недостатки, а устраняет причину появления. \r\nНатуральные и действенные составы и компоненты.\r\n \r\n\r\nСписок Минус слов: https://disk.yandex.ru/d/aRnXinGFqRBHJQ \r\n\r\nПреимущества для партнёров:\r\n\r\n- Широкая продуктовая линейка\r\n\r\n- Большой ассортимент товаров и частая ротация акций и скидок, что повышает конверсию партнёрских ссылок.\r\n\r\n- Баннеры, промо-материалы, промокоды и специальные условия для сезонных кампаний.\r\n\r\n- Прозрачный трекинг и регулярные выплаты по стандартным правилам сети.\r\n\r\n- Поддержка и аналитика\r\n\r\nУсловия доставки \r\n\r\n- Способы доставки\r\n\r\n  Курьерская доставка по городу, почтоматы/пункт выдачи заказов, самовывоз из магазинов-партнёров (если доступно). Конкретные опции зависят от региона и наличия товара.\r\n\r\n- Сроки доставки\r\n\r\n  От 1–2 рабочих дней по городу до 5–10 рабочих дней по регионам; точные сроки указываются при оформлении заказа.\r\n\r\n- Стоимость доставки\r\n\r\n  Может быть бесплатной при достижении минимальной суммы заказа или по промокоду; иначе фиксированная или рассчитанная по тарифам перевозчика.\r\n\r\n- Упаковка и сохранность\r\n\r\n  Товары упаковываются в защитную упаковку; при получении рекомендуется проверять целостность и комплектацию.\r\n\r\n- Возврат и обмен\r\n\r\n  Правила возврата и обмена соответствуют закону о защите прав потребителей: в течение установленного периода (обычно 14 дней для непродовольственных товаров) возможен возврат при сохранности товара и упаковки; для товаров надлежащего качества — с учётом исключений (индивидуальные изделия, средства личной гигиены и т. п.). Точные условия доступны на сайте wau.ru в разделе «Доставка и возврат».\r\n\r\nКак проходит сверка:\r\nРаз в месяц с 1-14 число, ручная.\r\n\r\nВыдача промокодов:\r\nЕсть возможность выдачи именных промокодов по запросу.\r\n\r\nИнформация про модерацию:\r\nМодерация проводится 3 раза в неделю.",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/3/6/40500-23ac6f3edd093e38.svg",
-    "img": "platform/40500.svg",
     "categories": [
       {
         "name": "Online stores",
@@ -1771,6 +2846,12 @@
         }
       }
     ],
+    "img": "platform/40500.svg",
+    "affiliate": {
+      "goto_link": "https://codeaven.com/g/7q8usxb8w55af0702a275054ae159b/?erid=2bL9aMPo2e49hMef4pgUkafdv5",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Household Appliances & Electronics",
       "id": 65,
@@ -1786,8 +2867,11 @@
   {
     "id": 40817,
     "name": "redsolution.company",
+    "name_aliases": "redsolution.company, RED , ред, ред компани",
+    "site_url": "https://redsolution.company/",
+    "description": "RED SOLUTION – инновационный проект бытовой техники и электроники, запущенный командой, на счету которой уже есть успешный 15-летний опыт создания и продвижения известного бренда. Ассортимент бренда RED SOLUTION охватывает большинство категорий бытовой техники для дома и кухни, а также выводит уникальные для российского рынка товарные группы, такие как персональные роботы-помощники и электротранспорт. В ближайших планах расширить ассортимент в сторону крупной бытовой техники, аудиосистем, товаров для здоровья и спорта, и товаров для животных.\r\n\r\n Преимущества для клиентов\r\n\r\n\r\n\tИнновационные товары в самом современном дизайне и функционале\r\n\tРазвитая сервисная поддержка\r\n\r\n\r\nЯдро ЦА: Люди 25-35 лет с активной позицией и образом жизни, достатком выше среднего. Делятся на две категории: холостые и семейные. Холостые – мужчины и женщины, 25-34 года, живут в большом городе, сконцентрированы на работе, саморазвитии и ЗОЖе. Семейные – мужчины и женщины, 35-54 лет, состоят в браке, есть дети. Покупкой качественной техники хотят облегчить себе жизнь.\r\n\r\nПопулярные товары\r\n\r\nДля дома: умный робот-пылесос RV-RL6000S, вертикальный беспроводной пылесос RV-UR3100, RV-UR3200, парогенератор RSS-5906, ультразвуковой увлажнитель RHF-3340, фен RF-500\r\n\r\nДля кухни: умная мультиварка RMC-M800S, компактные кофемашины RCM-1540, RCM-1550, грили RGM-M805, RGM-G850P, кухонная машина RKM-4021, умная духовая печь RO-5727S\r\n\r\nРекомендации по позиционированию бренда\r\n\r\nRED SOLUTION это инновационный бренд бытовой техники. За счет внедрения передовых технологий он способен быстро откликаться на потребности современных людей, которые стремятся вывести свой быт на новый уровень комфорта, простоты и удовольствия от процесса и результата.\r\n\r\n«Инновации» – внедряем инновации в обиход, упрощаем быт, дарим удовольствие от процесса уборки, приготовления пищи и ухода за собой.\r\n\r\n«Передовые технологии» — умная техника и техника с передовыми решениями в промышленных технологиях.\r\n\r\n«Быстрый отклик» — скорость вывода наших новинок на рынок.\r\n\r\n \r\n\r\nКак проходит сверка:\r\nРаз в месяц с 1-14 число, ручная\r\n\r\nДанные об ОРД:\r\nКод ККТУ 3.2.1\r\n\r\nВыдача промокодов:\r\nВыдают промокоды\r\n\r\nИнформация про модерацию:\r\nНа стороне Admitad",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/6/10/40817-4c56a5ed4bf759cb.jpg",
-    "img": "platform/40817.jpg",
     "categories": [
       {
         "name": "Online stores",
@@ -1813,6 +2897,12 @@
         "parent": null
       }
     ],
+    "img": "platform/40817.jpg",
+    "affiliate": {
+      "goto_link": "https://xcdus.com/g/rv80ywrpwu5af0702a27f8d31ee3d3/?erid=2bL9aMPo2e49hMef4pgUki6FDF",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Household Appliances & Electronics",
       "id": 65,
@@ -1828,8 +2918,11 @@
   {
     "id": 49307,
     "name": "",
+    "name_aliases": "aqara.ru, акара, фйфкф, aqara.ru, frfhf",
+    "site_url": "https://aqara.ru",
+    "description": "",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/12/22/49307-0302a7d5eeaa48b8.svg",
-    "img": "platform/49307.svg",
     "categories": [
       {
         "name": "Online stores",
@@ -1860,6 +2953,12 @@
         }
       }
     ],
+    "img": "platform/49307.svg",
+    "affiliate": {
+      "goto_link": "https://gndrz.com/g/a0xuyucz7q5af0702a27a69a5c0e88/?erid=2bL9aMPo2e49hMef4pgyXDEJu5",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Household Appliances & Electronics",
       "id": 65,
@@ -1875,8 +2974,11 @@
   {
     "id": 49316,
     "name": "Jumbo AE",
+    "name_aliases": "jumbo, jumbo electronics, جمبو",
+    "site_url": "https://www.jumbo.ae/",
+    "description": "Program Top-Sellers: https://docs.google.com/spreadsheets/d/12oH-uYkHwn4rTAxtZtlB_FmliPAAlLOqSGrFc3bUo1E/edit?usp=sharing\r\n\r\nAt Jumbo, we are passionate about technology and even more passionate about earning the trust of our customers.\r\n\r\nFew things signal the dawn of a new era like the revolution that Jumbo heralded into UAE over 40 years ago. The late Mr. M R Chhabria founded the company that went on to transform the consumer electronics landscape in UAE and grew into what we are today - a formidable corporate.\r\n\r\nGuided by our founder’s philosophy and defined by our varied portfolio, unique strengths and skills, we have grown from strength to strength over the last four decades. Through strategic diversification, we aim to create a future where everyone has access to the best that the world can offer.\r\n\r\nWe believe in the significance of long-term partnerships – precisely why our brands, customers, associates and employees have been our long-standing allies and will remain with us in our march towards a bigger and brighter tomorrow.\r\n\r\nFrom being a brick and mortar retailer, Jumbo Retail has grown into an OmniChannel Retailer providing the most seamless shopping experience, be it online or in-store.\r\n\r\nOur evolution is embodied in steady and significant growth that Jumbo OmniChannel Retail has seen in the last 4 decades. Since 1974, Jumbo has continued to be UAE’s most trusted retailer with an omnichannel retail experience. The concept offers superior experience and customized offerings on latest technology products and services, online as well as offline.\r\n\r\nJumbo OmniChannel Retail offers the best in mobile phones, laptops, TVs, home theatres, cameras, gaming, lifestyle products, accessories and telecom services. As a strategic partner for high end premium brands like SONY and DYSON, Jumbo OmniChannel Retail manages brand boutiques too. It also operates DU franchise stores across UAE. Jumbo offers after-sales service from Jumbo Serve (the largest service centre in the UAE) and installation support as well as smart home services from Jumbo UnwiredCrew. We also offer other value added services such as Jumbo Salama and Jumbo Exchange.\r\n\r\nJumbo OmniChannel Retail continues to be the pioneer tech-retailer in the region.",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/12/15/49316-7c1d6d7a81efa628.svg",
-    "img": "platform/49316.svg",
     "categories": [
       {
         "name": "Online stores",
@@ -1896,6 +2998,12 @@
         }
       }
     ],
+    "img": "platform/49316.svg",
+    "affiliate": {
+      "goto_link": "https://grfpr.com/g/gpx4rqbpkb5af0702a27dda4f3f08f/",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Household Appliances & Electronics",
       "id": 65,
@@ -1911,8 +3019,11 @@
   {
     "id": 87618,
     "name": "2droida",
+    "name_aliases": "ДВАДРОИДА, двадроида, ldflhjblf, ldf lhjblf, 2дроида, 2 дроида, вкщшвф",
+    "site_url": "https://2droida.ru/",
+    "description": "2DROIDA магазин электроники и техники.\r\n\r\n \r\n\r\nОсновные категории товаров: Смартфоны, Ноутбуки, Телевизоры, Планшеты, Мониторы.\r\n\r\nГеография: Томск, Новосибирск, Москва.\r\n\r\nМинус-слова — 2дроида, 2Droida, 2 droida, 2 дроида, 2 др.\r\n\r\n \r\n\r\nПреимущества для клиентов:\r\n\r\n\r\n\tодна из самых низких цен на рынке, большой ассортимент, уникальные товары.\r\n\t3 года гарантии.\r\n\tв МСК и НСК есть доставка товаров.\r\n\r\n\r\nПреимущества для партнеров: \r\n\r\n\r\n\tпостоянные акции для своих покупателей\r\n\tпостоянные распродажи\r\n\r\n\r\nКак проходит сверка: ручная сверка, проходит в начале каждого месяца.\r\n\r\nВыдача промокодов: в программе возможно получить именной промокод, есть общие промокоды.\r\n\r\nПортрет целевой аудитории — От 18 до 65 м/ж.\r\n\r\nПопулярные товары — Смартфоны, планшеты, мониторы - все города, Телевизоры - НСК, МСК, Ноутбуки - НСК, МСК.\r\n\r\nРекомендации по позиционированию бренда:  всегда делать акцент на низкие цены. Упоминать что оплата возможно только наличными.\r\n\r\n \r\n\r\nС Уважением, Партнерская программа 2DROIDA!",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/2/20/87618-3bf6a043449a9abb.svg",
-    "img": "platform/87618.svg",
     "categories": [
       {
         "name": "Household Appliances & Electronics",
@@ -1932,6 +3043,12 @@
         "parent": null
       }
     ],
+    "img": "platform/87618.svg",
+    "affiliate": {
+      "goto_link": "https://yyczo.com/g/hwqp2c6xiu5af0702a27d8eff27ef9/?erid=2bL9aMPo2e49hMef4pgz67HNRD",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Household Appliances & Electronics",
       "id": 65,
@@ -1947,8 +3064,11 @@
   {
     "id": 103715,
     "name": "Getsy RU",
+    "name_aliases": "getsyru_RU_2, Гетси, Getsy, urncb, гетсиру, Getsy RU, getsy.ru",
+    "site_url": "https://getsy.ru/",
+    "description": "Getsy.ru - интернет-магазин оригинальной техники Гетси (Getsy) - интернет-магазин техники.  \r\n\r\nПопулярные товары: ноутбуки, видеокарты, техника для кухни\r\n\r\nТоповые бренды, с которыми мы работаем - это Bosch, MSI, HP, Samsung, Apple, Asus, Lenovo, Gorenje, Gygabate, Dyson и многие другие\r\n\r\nМы доставили более 500.000 посылок.\r\n\r\nПреимущества для клиентов:\r\n\r\n+ Оригинальная техника \r\n\r\n+ Большой ассортимент техники (более 6000 позиций)\r\n\r\n+ Отзывчивые операторы службы поддержки каждый день на связи по телефону и в чате.\r\n\r\nКак покупатель совершает заказ:\r\n\r\n\r\n\t\r\n\t Выбирает товар через удобный каталог\r\n\t\r\n\t\r\n\tОплачивает заказ \r\n\t\r\n\t\r\n\tПолучает свой заказ курьером\r\n\t\r\n\r\n\r\nЦелевая аудитория Getsy - максимально широкая, благодаря широкому ассортименту.\r\n\r\nПортрет целевой аудитории\r\n\r\nГеография - Москва, Санкт-Петербург\r\n\r\nПреимущества для веб-мастеров:\r\n\r\n\r\n\tМы открыты к диалогу, готовы обсуждать индивидуальные условия.\r\n\tПредоставляем товарные фиды (json,xml) для удобной работы с контентом по нашим товарам.\r\n\tПредоставляем эффективные рекламные материалы, баннеры.\r\n\tБыстро и регулярно выплачиваем вознаграждение.\r\n\r\n\r\nУсловия доставки \r\n\r\n  Доставка по всей России (подробности на сайте магазина).\r\n\r\n- Сроки\r\n\r\n  2–10 рабочих дней в зависимости от региона и типа доставки.\r\n\r\n- Стоимость\r\n\r\n  Рассчитывается по весу и региону; возможна бесплатная при достижении минимальной суммы заказа.\r\n\r\n- Типы доставки\r\n\r\n  Курьерная доставка, пункт выдачи/почтомат, самовывоз.\r\n\r\n- Оплата при доставке\r\n\r\n  Возможны онлайн‑оплата и наложенный платёж (зависит от региона и товара).\r\n\r\n- Отслеживание\r\n\r\n  Трек‑номер и уведомления на e‑mail/по смс.\r\n\r\n- Возврат и обмен\r\n\r\n  По правилам магазина (обычно 7–14 дней с момента получения, возврат после проверки состояния товара).\r\n\r\n(Для точных условий и исключений уточните информацию в карточке товара и разделе \"Доставка\" на сайте Getsy RU)\r\n\r\nКак проходит сверка:\r\nРаз в месяц с 1-14 число, ручная.\r\n\r\nВыдача промокодов:\r\nЕсть возможность выдачи именных промокодов по запросу.\r\n\r\nИнформация про модерацию:\r\nМодерация проводится 3 раза в неделю.\r\n\r\nС Уважением, Партнерская программа Getsy.ru\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n ",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/1/103715-a211f75c53b2b83b.svg",
-    "img": "platform/103715.svg",
     "categories": [
       {
         "name": "Online stores",
@@ -1974,6 +3094,12 @@
         "parent": null
       }
     ],
+    "img": "platform/103715.svg",
+    "affiliate": {
+      "goto_link": "https://zejcl.com/g/4ko2kilusq5af0702a27045782620b/?erid=2bL9aMPo2e49hMef4phyrMU3yb",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Household Appliances & Electronics",
       "id": 65,
@@ -1989,8 +3115,11 @@
   {
     "id": 109430,
     "name": "Miniso MX",
+    "name_aliases": "MINISO, RETAIL, CHEAP,  CHINESE, JAPAN, HOBBIES, GIFTS, MAKEUP",
+    "site_url": "https://www.miniso.com.mx/",
+    "description": "MINISO es un minorista de productos de estilo de vida de inspiración japonesa que ofrece artículos para el hogar, cosméticos y alimentos de alta calidad a precios asequibles. Fundada por el CEO Ye Guofu, MINISO ha abierto más de 4,200 tiendas en más de 80 países y regiones desde 2013, incluidos los EE.",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/9/14/109430-ff296a2595e8bc13.svg",
-    "img": "platform/109430.svg",
     "categories": [
       {
         "name": "Household Appliances & Electronics",
@@ -2076,6 +3205,12 @@
         }
       }
     ],
+    "img": "platform/109430.svg",
+    "affiliate": {
+      "goto_link": "https://rkdro.com/g/jdog8giuxy5af0702a27e4f3ffcb11/",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Household Appliances & Electronics",
       "id": 65,
@@ -2091,8 +3226,11 @@
   {
     "id": 109641,
     "name": "Hi Store RU",
+    "name_aliases": "hi-stores, hi-store, histore, hi.stores, хи сторе, хисторе, ру-ыещку",
+    "site_url": "https://hi-stores.ru",
+    "description": "Hi Store — магазин оригинальной техники Apple, Samsung, Xiaomi!\r\n\r\nРаботает с 2012 года\r\n\r\n• Лучшие цены!\r\n\r\n• Рассрочка до 36 месяцев!\r\n\r\n• Огромный ассортимент техники Apple, Samsung, Xiaomi!\r\n\r\n• Большой выбор фирменных оригинальных аксессуаров!\r\n\r\nПортрет ЦА \r\n\r\n- Демография: возраст 18-45 лет, доход средний и выше среднего, мужчины — 65%, женщины — 35% \r\n\r\n- Геолокация: Самара, Екатеринбург, Москва, Белгород, Брянск, Великий Новгород, Владимир, Волгоград, Вологда, Воронеж, Иваново, Казань, Калуга, Кострома, Краснодар, Курск, Липецк, Нижний Новгород, Новосибирск, Омск, Орел, Пермь, Ростов-на-Дону, Рязань, Санкт-Петербург, Саратов, Смоленск, Ставрополь, Тамбов, Тверь, Тольятти, Тула, Тюмень, Уфа, Чебоксары, Челябинск, Ярославль. Доставка возможна в любой город России почтовыми службами. \r\n\r\n- Психографика: активные, современные, ценящие технологичность и удобство; интересы — инновационные технологии, гаджеты, мобильные устройства, дизайн, фото/видео, музыка, игры, спорт; ценности — качество, надежность, функциональность, стиль, престиж; поведение в интернете — активные пользователи соцсетей, интернет-магазинов и онлайн-платформ. \r\n\r\n- Основные сегменты: студенты и молодые специалисты, профессионалы, любители гаджетов, родители.\r\n\r\nПреимущества работы для партнеров \r\n\r\n- Открытость к диалогу и долгосрочному сотрудничеству \r\n\r\n- Предоставление товарных фидов (JSON, XML) для удобной интеграции каталога \r\n\r\n- Богатая рекламная библиотека с эффективными материалами и баннерами \r\n\r\n- Своевременные выплаты за успешные действия \r\n\r\n- Регулярные конкурсы и активности для веб-мастеров с дополнительными бонусами\r\n\r\nПреимущества для клиентов \r\n\r\n- Лучшие цены \r\n\r\n- Рассрочка до 36 месяцев \r\n\r\n- Огромный ассортимент техники и оригинальных аксессуаров \r\n\r\n- Профессиональная помощь и консультации \r\n\r\n- Быстрая доставка по всей России\r\n\r\nУсловия доставки \r\n\r\nДоставка осуществляется по всей России, включая крупные города и регионы, с возможностью доставки в любой город почтовыми службами.\r\n\r\nКак проходит сверка \r\n\r\nРучная сверка, проходит в начале каждого месяца.\r\n\r\nИнформация про модерацию \r\n\r\nМодерация проводится оперативно, 3 раза в неделю.",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/9/16/109641-b50f578380af87b4.svg",
-    "img": "platform/109641.svg",
     "categories": [
       {
         "name": "Household Appliances & Electronics",
@@ -2112,6 +3250,12 @@
         "parent": null
       }
     ],
+    "img": "platform/109641.svg",
+    "affiliate": {
+      "goto_link": "https://wpmsx.com/g/hwysxaae1b5af0702a273a4ea8cf25/?erid=2bL9aMPo2e49hMef4piUAotQ6a",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Household Appliances & Electronics",
       "id": 65,
@@ -2127,8 +3271,11 @@
   {
     "id": 115523,
     "name": "Hansa RU",
+    "name_aliases": "hansa, ханса, электроника, бытовая техника, техника, рфтыф, [fycf",
+    "site_url": "https://hansa.ru/",
+    "description": "HANSA — хорошо известный европейский бренд бытовой техники с почти 70-летним опытом, доступный более чем в 20 странах, включая Россию и Восточную Европу. Продукция отличается стильным дизайном, современными технологиями и высоким качеством материалов, создавая комфорт и уют на кухне.\r\n\r\nПортрет ЦА \r\n\r\n- Демография: женщины 60%, мужчины 40% \r\n\r\n- Возраст: от 25 до 60 лет\r\n\r\nПреимущества работы для партнеров \r\n\r\n- Всемирно известный бренд \r\n\r\n- Высокий процент вознаграждений \r\n\r\n- Интересные уникальные предложения \r\n\r\n- Постоянная работа над удобством сайта для повышения конверсии\r\n\r\nПреимущества для клиентов \r\n\r\n- Квалифицированное сервисное обслуживание с бесплатной технической поддержкой \r\n\r\n- Положительные отзывы о товарах \r\n\r\n- Официальная гарантия от производителя \r\n\r\n- Сервисные центры по всей России \r\n\r\n- Частые акции и хорошие скидки \r\n\r\n- Доставка по всей России курьером «до двери» \r\n\r\n- Бесплатная доставка по Москве и Санкт-Петербургу при заказе от 5 000 рублей\r\n\r\nУсловия доставки \r\n\r\n- Доставка курьером по всей России \r\n\r\n- Бесплатная доставка по Москве и Санкт-Петербургу при заказе от 5 000 рублей\r\n\r\nКак проходит сверка \r\n\r\nСверка проводится вручную 1 раз в начале каждого месяца.\r\n\r\nВыдача промокодов\r\n\r\nВ программе выдаются именные промокоды, Smart-промокоды\r\n\r\nИнформация про модерацию \r\n\r\nМодерация проводится оперативно, 3 раза в неделю.\r\n\r\n \r\n\r\nПодключайтесь к партнерской программе HANSA!",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/11/13/115523-cc0a31e769424f22.svg",
-    "img": "platform/115523.svg",
     "categories": [
       {
         "name": "Online stores",
@@ -2148,6 +3295,18 @@
         }
       }
     ],
+    "img": "platform/115523.svg",
+    "affiliate": {
+      "goto_link": "https://heqgr.com/g/u9yhtpx8tc5af0702a27836ab04704/?erid=2bL9aMPo2e49hMef4piUWTytUj",
+      "landings": [
+        {
+          "id": 29561,
+          "name": "Больше, чем просто покупка",
+          "code": "5bb87994ab"
+        }
+      ],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Household Appliances & Electronics",
       "id": 65,
@@ -2163,8 +3322,11 @@
   {
     "id": 119285,
     "name": "LG SA Offline Codes & Links",
+    "name_aliases": "lg,ال جي",
+    "site_url": "https://www.lg.com/",
+    "description": "Discover the latest in advanced technology with LG, a world-renowned leader in consumer electronics, home appliances, and more. LG delivers high-performance products designed to enhance your lifestyle with cutting-edge features and sleek designs. From smart TVs and home appliances to innovative kitchen solutions, LG combines innovation and quality to meet all your tech needs.\r\n\r\nKey Benefits of Shopping with LG:\r\n\r\n\r\n\tFree Delivery: Enjoy free delivery across Saudi Arabia on all products.\r\n\tFree Installation: Get your products professionally installed at no extra charge, ensuring optimal setup and performance.\r\n\tExcellent Customer Service: LG provides dedicated, responsive customer support to assist with any inquiries or issues.\r\n\tExclusive Offers: Access special discounts, promotions, and deals only available to LG customers.\r\n\tWarranty & Protection Plans: Benefit from reliable warranty options and protection plans for peace of mind with your purchase.\r\n\tInnovative Technology: From energy-efficient home appliances to next-gen electronics, LG offers products that combine the latest tech with user-friendly designs.\r\n\r\n\r\nBest selling products:\r\n\r\n\r\n\tLG OLED TV 4K (55-inch) https://www.lg.com/sa_en/tv-soundbars/oled/oled55b46la/buy/\r\n\tLG InstaView Door-in-Door Refrigerator https://www.lg.com/sa_en/refrigerators/side-by-side/ls32cbbsiv/buy/\r\n\tLG Washing Machine with TurboWash™ 360 https://www.lg.com/sa_en/washing-machines/washtower/wk1310bst/buy/\r\n\tLG CordZero™ A9 Kompressor Cordless Stick Vacuum Cleaner https://www.lg.com/sa_en/vacuum-cleaners/a9t-ultra/\r\n\tLG 49-inch UHD Monitor https://www.lg.com/sa_en/monitors/fhd-qhd/32sr50f-w/buy/\r\n\r\n\r\nProduct Categories:\r\n\r\n\r\n\tHome Appliances: Refrigerators, Washing Machines, Microwaves, and more.\r\n\tElectronics: TVs, Sound Systems, Monitors, and more.\r\n\r\n\r\nShop from LG and enjoy amazing offers with competitive prices and excellent service, where we bring you the latest products with the best deals to meet your needs, ensuring high quality and a comfortable, easy shopping experience.\r\n\r\nPurchasing habits: \r\n\r\nTime of Day:\r\n\r\n\r\n\tEvenings (6 PM - 10 PM)\r\n\tLate Night (10 PM - 12 AM)\r\n\r\n\r\nDays of the Week:\r\n\r\n\r\n\tWeekends (Friday and Saturday)\r\n\tThursday Evening\r\n",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/21/119285-8e6b3229fef560e9.svg",
-    "img": "platform/119285.svg",
     "categories": [
       {
         "name": "Household Appliances & Electronics",
@@ -2184,6 +3346,12 @@
         "parent": null
       }
     ],
+    "img": "platform/119285.svg",
+    "affiliate": {
+      "goto_link": "https://zejcl.com/g/efmcw9mw1i5af0702a27c31d685009/",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Household Appliances & Electronics",
       "id": 65,
@@ -2199,8 +3367,11 @@
   {
     "id": 119288,
     "name": "LG TR Offline Codes & Links",
+    "name_aliases": "lg,ال جي",
+    "site_url": "https://www.lg.com/tr/",
+    "description": "As one of the global leaders in the consumer electronics industry, LG Electronics stands out with its passion for innovations that enhance life. Guided by the principle of \"Innovation for a Better Life,\" LG offers a product range designed to simplify lives and adapt to lifestyles, catering to both individual and corporate users. With a comprehensive portfolio that includes TVs and Audio Systems, Home Appliances, Air Conditioning Solutions, Monitors, and Projectors, LG combines superior quality with an outstanding user experience.\r\n\r\nMost Popular Product Categories:\r\n\r\n\r\n\tTVs and Audio Systems: LG OLED and QNED TVs, perfectly compatible soundbars, and high-quality, portable XBOOM audio systems. https://www.lg.com/tr/tv-soundbar/ \r\n\tHome Appliances: Large-capacity refrigerators, steam-equipped washing machines, dryers, dishwashers, and stick vacuum cleaners. https://www.lg.com/tr/buzdolabi/ , https://www.lg.com/tr/camasir-makinesi/ , https://www.lg.com/tr/bulasik-makinesi/ , https://www.lg.com/tr/elektrik-supurgesi/\r\n\tAir Conditioning Solutions: Energy-efficient air conditioning systems and air purifiers.  https://www.lg.com/tr/klima/ , https://www.lg.com/tr/air-care/\r\n\tMonitors and Projectors: Monitors with a wide color gamut, crystal-clear resolution, and portable and high-performance projectors. https://www.lg.com/tr/monitor/ , https://www.lg.com/tr/projektorler/  \r\n\r\n\r\nAffiliate Program Details:\r\n\r\n\r\n\tCompetitive commission rate + 10% Discount on All Products!\r\n\tCoupons are valid from January 21st 2025 – December 31st 2025. Affiliate Discount Coupons cannot be combined with other coupon codes or redeemed for cash. The discount coupon applies to the entire cart. LG Electronics reserves the right to make changes to the campaign.\r\n\r\n\r\nCustomer Insights:\r\n\r\n\r\n\tAge: The primary user demographic is between 25 and 55 years old.\r\n\tGender: LG products appeal equally to both men and women.\r\n\tInterests: Technology, comfort, energy efficiency, home décor, and practical solutions.\r\n\tDevice Usage: Most website visits are made via mobile devices, while desktop devices are often preferred for purchases.\r\n\r\n\r\nExclusive Opportunities for LG Customers:\r\n\r\n\r\n\tCredit and Installment Options: Flexible payment plans tailored to your budget.\r\n\tExclusive Promotions: Seasonal and product-specific promotions offered throughout the year.\r\n\r\n\r\nAt LG, we strive to provide products and an experience that simplifies and adds value to our customers' lives. LG Electronics remains dedicated to understanding our users' needs and delivering the best solutions with passion and commitment.",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/20/119288-edf4a32d7733a136.svg",
-    "img": "platform/119288.svg",
     "categories": [
       {
         "name": "Online stores",
@@ -2220,6 +3391,12 @@
         }
       }
     ],
+    "img": "platform/119288.svg",
+    "affiliate": {
+      "goto_link": "https://kjuzv.com/g/kzqyy0q2575af0702a27ef2202fc4d/",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Household Appliances & Electronics",
       "id": 65,
@@ -2235,8 +3412,11 @@
   {
     "id": 128892,
     "name": "7way PL, FR, IT, ES, UK",
+    "name_aliases": "7way",
+    "site_url": "https://7way.pl",
+    "description": "7way - jesteśmy producentem oraz dystrybutorem hulajnóg elektrycznych. Zakres cen wynosi od 1399 zł do 20 0000 zł za hulajnogę. Prężnie rozwijamy swoją sprzedaż e-commerce. Organizujemy częste promocje na hulajnogi. \r\n\r\nDozwolone źródła ruchu:\r\n\r\n\r\n\tProjekty contentowe, blogi\r\n\tPorównywarki cenowe\r\n\tSerwisy cashback\r\n\tProgramy Lojalnościowe – na akceptację\r\n\tKupony i kody rabatowe\r\n\tKody rabatowe w Google (czy wydawcy kuponowi mogą promować kody rabatowe w Google) - TAK\r\n\tReklama w messengerach (Telegram, WhatsApp etc) - na akceptację - W zależności od sposobu prowadzenia komunikacji\r\n\tReklama targetowana w social media\r\n\tGrupy i społeczności na Facebooku\r\n\tInfluencerzy (Instagram, YouTube)\r\n\tReklama w aplikacjach mobilnych\r\n\tMailingi\r\n\tTeasersy / display\r\n\tPopUp / ClickUnder\r\n\tToolbar\r\n\tRetargeting\r\n\tSubnetworki \r\n\r\n\r\nKraje: PL, FR, IT, ES, UK. ",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/6/27/128892-732130a199ae3178.svg",
-    "img": "platform/128892.svg",
     "categories": [
       {
         "name": "Online stores",
@@ -2256,6 +3436,12 @@
         }
       }
     ],
+    "img": "platform/128892.svg",
+    "affiliate": {
+      "goto_link": "https://ntzgd.com/g/d2u58x2ifi5af0702a27ed0a2305f6/",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Household Appliances & Electronics",
       "id": 65,

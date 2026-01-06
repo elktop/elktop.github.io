@@ -1,0 +1,45 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 103715,
+      "name": "Getsy RU",
+      "site_url": "https://getsy.ru/"
+    },
+    "description": "",
+    "short_name": "Новый способ оплаты: Я-Пэй и Сплит",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-08-14T15:25:58",
+    "id": 871460,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/7/1/103715-a211f75c53b2b83b.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Новый способ оплаты: Я-Пэй и Сплит",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://zejcl.com/g/84kaq1qiwk5af0702a27045782620b/?i=3&erid=2bL9aMPo2e49hMef4rqUmzEYcH"
+  }
+]

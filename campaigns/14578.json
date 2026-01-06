@@ -1,0 +1,269 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 14578,
+      "name": "Answear UA",
+      "site_url": "https://answear.ua/"
+    },
+    "description": "Знижка 20% на новинки (товари з \"чорними\" цінниками) при мінімальному кошику 3500 грн. Код є багаторазовим та не поєднується з іншими акціями.",
+    "short_name": "Знижка 20% на новинки від 3500 грн",
+    "exclusive": true,
+    "date_end": "2026-01-31T23:59:00",
+    "date_start": "2026-01-05T00:00:00",
+    "id": 894209,
+    "regions": [
+      "UA"
+    ],
+    "discount": "20%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/4/21/14578-bebcd89184c71b99.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      },
+      {
+        "id": 4,
+        "name": "Shoes"
+      },
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Знижка 20% на новинки від 3500 грн",
+    "language": "ua",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ANSPLUS",
+    "frameset_link": "",
+    "goto_link": "https://hxbok.com/g/bg5yfswjkz5af0702a27a76d99edd2/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 14578,
+      "name": "Answear UA",
+      "site_url": "https://answear.ua/"
+    },
+    "description": "Знижка 5% на товари з розпродажу при мінімальному кошику 3500 грн. Код є багаторазовим та не поєднується з іншими акціями.",
+    "short_name": "Знижка 5% на товари з розпродажу від 3500 грн",
+    "exclusive": true,
+    "date_end": "2026-01-31T23:59:00",
+    "date_start": "2026-01-05T00:00:00",
+    "id": 894208,
+    "regions": [
+      "UA"
+    ],
+    "discount": "5%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/4/21/14578-bebcd89184c71b99.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      },
+      {
+        "id": 4,
+        "name": "Shoes"
+      },
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Знижка 5% на товари з розпродажу від 3500 грн",
+    "language": "ua",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ANSPLUS",
+    "frameset_link": "",
+    "goto_link": "https://hxbok.com/g/qafhdq1nrh5af0702a27a76d99edd2/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 14578,
+      "name": "Answear UA",
+      "site_url": "https://answear.ua/"
+    },
+    "description": "Ще більше товарів, ще нижчі ціни! Не проґав можливість придбати асортимент топових світових брендів зі знижкою до -60%. На обрані товари також діє промокод ДИВО. Звертай увагу на фішку, додавай товар до кошика та купуй вигідніше",
+    "short_name": "ЗИМОВИЙ РОЗПРОДАЖ ЗІ ЗНИЖКАМИ ДО -60%",
+    "exclusive": false,
+    "date_end": "2026-01-07T23:59:00",
+    "date_start": "2025-12-30T00:00:00",
+    "id": 893967,
+    "regions": [
+      "UA"
+    ],
+    "discount": "60%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/4/21/14578-bebcd89184c71b99.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      },
+      {
+        "id": 4,
+        "name": "Shoes"
+      },
+      {
+        "id": 5,
+        "name": "Clothing"
+      },
+      {
+        "id": 10,
+        "name": "Watches & Jewelry"
+      }
+    ],
+    "name": "ЗИМОВИЙ РОЗПРОДАЖ ЗІ ЗНИЖКАМИ ДО -60%",
+    "language": "ua",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ДИВО",
+    "frameset_link": "",
+    "goto_link": "https://hxbok.com/g/sefckrjwf95af0702a27a76d99edd2/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 14578,
+      "name": "Answear UA",
+      "site_url": "https://answear.ua/"
+    },
+    "description": "-15% знижки на першу покупку** за підписку на розсилку. \r\n**Знижка є одноразовою, діє лише на новинки (товари з \"чорними\" цінниками) при мінімальному кошику 1500 грн. Промокод не поєднується з іншими акціями, а деякі товари можуть бути виключені з його дії.",
+    "short_name": "-15% знижки на першу покупку за підписку на розсилку",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-12-06T13:20:46",
+    "id": 818663,
+    "regions": [
+      "UA"
+    ],
+    "discount": "15%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/4/21/14578-bebcd89184c71b99.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 1,
+        "name": "Toys, Kids & Babies"
+      },
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      },
+      {
+        "id": 4,
+        "name": "Shoes"
+      },
+      {
+        "id": 5,
+        "name": "Clothing"
+      },
+      {
+        "id": 10,
+        "name": "Watches & Jewelry"
+      }
+    ],
+    "name": "-15% знижки на першу покупку за підписку на розсилку",
+    "language": "ua",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://hxbok.com/g/tlfxrerrzv5af0702a27a76d99edd2/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 14578,
+      "name": "Answear UA",
+      "site_url": "https://answear.ua/"
+    },
+    "description": "",
+    "short_name": "Постійні знижки в аутлет! До 70%",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2022-09-09T14:55:15",
+    "id": 483102,
+    "regions": [
+      "UA"
+    ],
+    "discount": "70%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/4/21/14578-bebcd89184c71b99.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      },
+      {
+        "id": 4,
+        "name": "Shoes"
+      },
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Постійні знижки в аутлет! До 70%",
+    "language": "ua",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://hxbok.com/g/rp878jcu3a5af0702a27a76d99edd2/?i=3"
+  }
+]

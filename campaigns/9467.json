@@ -1,0 +1,178 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 9467,
+      "name": "Gold UA",
+      "site_url": "https://gold.ua/"
+    },
+    "description": "Знижки до -60%",
+    "short_name": "Безпрецедентна пропозиція на каблучки з великими діамантами!",
+    "exclusive": false,
+    "date_end": "2026-02-16T23:59:00",
+    "date_start": "2025-10-20T00:00:00",
+    "id": 879803,
+    "regions": [
+      "UA"
+    ],
+    "discount": "60%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/10/5/9467-9908bb2f0d9c5985.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      },
+      {
+        "id": 10,
+        "name": "Watches & Jewelry"
+      }
+    ],
+    "name": "Безпрецедентна пропозиція на каблучки з великими діамантами!",
+    "language": "ua",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "https://ytebb.com/coupon/ojkknlhnmw5af0702a27dec3118284/",
+    "goto_link": "https://ytebb.com/g/0efwl281nb5af0702a27dec3118284/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 9467,
+      "name": "Gold UA",
+      "site_url": "https://gold.ua/"
+    },
+    "description": "Ідеальне рішення для Вашої коханої - каблучки з діаманатми до -75%",
+    "short_name": "Ідеальне рішення для Вашої коханої - каблучки з діаманатми до -75%",
+    "exclusive": false,
+    "date_end": "2026-02-16T23:59:00",
+    "date_start": "2025-05-21T00:00:00",
+    "id": 851379,
+    "regions": [
+      "UA"
+    ],
+    "discount": "75%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/10/5/9467-9908bb2f0d9c5985.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      }
+    ],
+    "name": "Ідеальне рішення для Вашої коханої - каблучки з діаманатми до -75%",
+    "language": "ua",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "https://ytebb.com/coupon/83pz4hdf1w5af0702a27dec3118284/",
+    "goto_link": "https://ytebb.com/g/2d5f34k1sr5af0702a27dec3118284/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 9467,
+      "name": "Gold UA",
+      "site_url": "https://gold.ua/"
+    },
+    "description": "200 грн. при підписці",
+    "short_name": "200 грн. при підписці",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-04-22T17:08:59",
+    "id": 847817,
+    "regions": [
+      "UA"
+    ],
+    "discount": "200 грн.",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/10/5/9467-9908bb2f0d9c5985.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      }
+    ],
+    "name": "200 грн. при підписці",
+    "language": "ua",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "https://ytebb.com/coupon/uv0tdw2cy15af0702a27dec3118284/",
+    "goto_link": "https://ytebb.com/g/53k9u086o95af0702a27dec3118284/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 9467,
+      "name": "Gold UA",
+      "site_url": "https://gold.ua/"
+    },
+    "description": "",
+    "short_name": "Доставка без предоплаты - бесплатно при заказе от 1500 грн",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2020-07-16T18:07:36",
+    "id": 324095,
+    "regions": [
+      "UA"
+    ],
+    "discount": "1%",
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/10/5/9467-9908bb2f0d9c5985.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      }
+    ],
+    "name": "Доставка без предоплаты - бесплатно при заказе от 1500 грн",
+    "language": "ua",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://ytebb.com/coupon/3t5og799pn5af0702a27dec3118284/",
+    "goto_link": "https://ytebb.com/g/tgzpnn91m15af0702a27dec3118284/?i=3"
+  }
+]

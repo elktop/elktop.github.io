@@ -1,0 +1,155 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 108184,
+      "name": "PRM.com BG",
+      "site_url": "https://prm.com/bg"
+    },
+    "description": "Зимната разпродажба е тук, а с нея и хиляди стилни артикули с отстъпки до -50%.Офертата важи за продуктите, изброени по-долу.",
+    "short_name": "WINTER SALE ДО -50%!",
+    "exclusive": false,
+    "date_end": "2026-01-07T23:59:00",
+    "date_start": "2025-12-30T00:00:00",
+    "id": 893980,
+    "regions": [
+      "BG"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/7/21/108184-1befefce7bf99d82.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      },
+      {
+        "id": 4,
+        "name": "Shoes"
+      },
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "WINTER SALE ДО -50%!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://rkdro.com/g/n0poo2jsut5af0702a277191d05910/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 108184,
+      "name": "PRM.com BG",
+      "site_url": "https://prm.com/bg"
+    },
+    "description": "",
+    "short_name": "Разпродажба до -40%",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-07-25T13:48:40",
+    "id": 862928,
+    "regions": [
+      "BG"
+    ],
+    "discount": "40%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/7/21/108184-1befefce7bf99d82.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      },
+      {
+        "id": 4,
+        "name": "Shoes"
+      },
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Разпродажба до -40%",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://rkdro.com/g/rcqiqj8kmo5af0702a277191d05910/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 108184,
+      "name": "PRM.com BG",
+      "site_url": "https://prm.com/bg"
+    },
+    "description": "Еднократна отстъпка само за продукти с редовна цена, валидна при покупка за минимум 230 лв. Не важи за продуктите посочени тук: изключения от промоцията (https://prm.com/bg/s/promo-exclusions). Не се комбинира с други отстъпки и промоции и ще бъде изпратена на посочения от теб имейл.",
+    "short_name": "Абонирай се за нашия бюлетин и вземи -15% за първа поръчка!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-07-25T13:46:30",
+    "id": 862927,
+    "regions": [
+      "BG"
+    ],
+    "discount": "15%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/7/21/108184-1befefce7bf99d82.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      },
+      {
+        "id": 4,
+        "name": "Shoes"
+      },
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Абонирай се за нашия бюлетин и вземи -15% за първа поръчка!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://rkdro.com/g/dqiwdrrytj5af0702a277191d05910/?i=3"
+  }
+]

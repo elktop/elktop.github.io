@@ -1,0 +1,88 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 87108,
+      "name": "Movida BR CPA",
+      "site_url": "https://www.movida.com.br/"
+    },
+    "description": "A condição vale a partir da 2ª diária\r\nPromoção por tempo indeterminado",
+    "short_name": "2ª diária com até 15% OFF",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-11-26T20:35:33",
+    "id": 884977,
+    "regions": [
+      "BR"
+    ],
+    "discount": "15%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/3/20/87108-909f4e90b13ba6a5.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "2ª diária com até 15% OFF",
+    "language": "pt",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "",
+    "goto_link": "https://cafxq.com/g/3lx04o9a635af0702a278712c08607/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "2.24",
+    "campaign": {
+      "id": 87108,
+      "name": "Movida BR CPA",
+      "site_url": "https://www.movida.com.br/"
+    },
+    "description": "",
+    "short_name": "10% OFF em sua RESERVA de um TERA",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-10-31T22:26:00",
+    "id": 881381,
+    "regions": [
+      "BR"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/3/20/87108-909f4e90b13ba6a5.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "10% OFF em sua RESERVA de um TERA",
+    "language": "pt",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "TERA10",
+    "frameset_link": "",
+    "goto_link": "https://cafxq.com/g/t9llbklf2c5af0702a278712c08607/?i=3"
+  }
+]

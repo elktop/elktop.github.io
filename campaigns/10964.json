@@ -1,0 +1,304 @@
+[
+  {
+    "status": "active",
+    "rating": "5.12",
+    "campaign": {
+      "id": 10964,
+      "name": "Baon",
+      "site_url": "https://baon.ru/"
+    },
+    "description": "",
+    "short_name": "Скидка 10!",
+    "exclusive": false,
+    "date_end": "2026-07-31T23:59:00",
+    "date_start": "2025-08-11T00:00:00",
+    "id": 870869,
+    "regions": [
+      "RU"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/8/18/10964-2393d8a4294a0afa.jpg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      },
+      {
+        "id": 182,
+        "name": "Back to school 2025"
+      }
+    ],
+    "name": "Скидка 10!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "Admitad10",
+    "frameset_link": "https://rzekl.com/coupon/crgiqu4sp05af0702a278159b86709/?erid=2bL9aMPo2e49hMef4rqUmwFZbs",
+    "goto_link": "https://rzekl.com/g/ygmj1ltyec5af0702a278159b86709/?i=3&erid=2bL9aMPo2e49hMef4rqUmwFZbs"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 10964,
+      "name": "Baon",
+      "site_url": "https://baon.ru/"
+    },
+    "description": null,
+    "short_name": "Скидка 10% на первую покупку при подписке",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-05-20T09:00:00",
+    "id": 757704,
+    "regions": [
+      "RU"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/8/18/10964-2393d8a4294a0afa.jpg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      },
+      {
+        "id": 4,
+        "name": "Shoes"
+      },
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Скидка 10% на первую покупку при подписке",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRE",
+    "frameset_link": "https://rzekl.com/coupon/b01eghdoid5af0702a278159b86709/?erid=5jtCeReNwxHpfQTHu2DStSL",
+    "goto_link": "https://rzekl.com/g/dx29zihl8s5af0702a278159b86709/?i=3&erid=5jtCeReNwxHpfQTHu2DStSL"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 10964,
+      "name": "Baon",
+      "site_url": "https://baon.ru/"
+    },
+    "description": "",
+    "short_name": "Скидка 15% при оплате онлайн",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-05-20T09:00:00",
+    "id": 757703,
+    "regions": [
+      "RU"
+    ],
+    "discount": "15%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/8/18/10964-2393d8a4294a0afa.jpg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      },
+      {
+        "id": 4,
+        "name": "Shoes"
+      },
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Скидка 15% при оплате онлайн",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://rzekl.com/coupon/jpgyso505w5af0702a278159b86709/?erid=5jtCeReNwxHpfQTHu2DStSK",
+    "goto_link": "https://rzekl.com/g/b25zu735zx5af0702a278159b86709/?i=3&erid=5jtCeReNwxHpfQTHu2DStSK"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 10964,
+      "name": "Baon",
+      "site_url": "https://baon.ru/"
+    },
+    "description": null,
+    "short_name": "Бесплатная доставка от 3000р.",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-05-20T09:00:00",
+    "id": 757702,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/8/18/10964-2393d8a4294a0afa.jpg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      },
+      {
+        "id": 4,
+        "name": "Shoes"
+      },
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Бесплатная доставка от 3000р.",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRE",
+    "frameset_link": "https://rzekl.com/coupon/0s7q7xcbal5af0702a278159b86709/?erid=5jtCeReNwxHpfQTHu2DStN4",
+    "goto_link": "https://rzekl.com/g/rpfmwgkbvv5af0702a278159b86709/?i=3&erid=5jtCeReNwxHpfQTHu2DStN4"
+  },
+  {
+    "status": "active",
+    "rating": "4.67",
+    "campaign": {
+      "id": 10964,
+      "name": "Baon",
+      "site_url": "https://baon.ru/"
+    },
+    "description": null,
+    "short_name": "1000 бонусов на первый заказ",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-05-20T09:00:00",
+    "id": 757701,
+    "regions": [
+      "RU"
+    ],
+    "discount": "1 000 ₽",
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/8/18/10964-2393d8a4294a0afa.jpg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      },
+      {
+        "id": 4,
+        "name": "Shoes"
+      },
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "1000 бонусов на первый заказ",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRE",
+    "frameset_link": "https://rzekl.com/coupon/5izgnp2w085af0702a278159b86709/?erid=5jtCeReNwxHpfQTHu2DStN3",
+    "goto_link": "https://rzekl.com/g/a9xvofwbkn5af0702a278159b86709/?i=3&erid=5jtCeReNwxHpfQTHu2DStN3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 10964,
+      "name": "Baon",
+      "site_url": "https://baon.ru/"
+    },
+    "description": "",
+    "short_name": "Sale до -80%",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-05-20T09:00:00",
+    "id": 757691,
+    "regions": [
+      "RU"
+    ],
+    "discount": "80%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/8/18/10964-2393d8a4294a0afa.jpg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      },
+      {
+        "id": 4,
+        "name": "Shoes"
+      },
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Sale до -80%",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://rzekl.com/coupon/pricb5jhes5af0702a278159b86709/?erid=5jtCeReNwxHpfQTHu2DSZZq",
+    "goto_link": "https://rzekl.com/g/ircxa47n5a5af0702a278159b86709/?i=3&erid=5jtCeReNwxHpfQTHu2DSZZq"
+  }
+]

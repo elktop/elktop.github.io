@@ -1,0 +1,88 @@
+[
+  {
+    "status": "active",
+    "rating": "3.03",
+    "campaign": {
+      "id": 26239,
+      "name": "COZY HOME",
+      "site_url": "https://cozyhome.ru/"
+    },
+    "description": "",
+    "short_name": "Дополнительная скидка 10% на ВСЁ!",
+    "exclusive": false,
+    "date_end": "2026-05-22T23:59:00",
+    "date_start": "2025-05-20T00:00:00",
+    "id": 851189,
+    "regions": [
+      "RU"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2022/7/11/26239-9ee15859e5e68126.jpg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 7,
+        "name": "Homeware"
+      }
+    ],
+    "name": "Дополнительная скидка 10% на ВСЁ!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://ficca2021.com/coupon/6o81v9wjyn5af0702a2774bec426fb/?erid=2bL9aMPo2e49hMef4rqUKjdadf",
+    "goto_link": "https://ficca2021.com/g/7c0jr0gfia5af0702a2774bec426fb/?i=3&erid=2bL9aMPo2e49hMef4rqUKjdadf"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 26239,
+      "name": "COZY HOME",
+      "site_url": "https://cozyhome.ru/"
+    },
+    "description": "",
+    "short_name": "Outlet -85%",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2022-03-16T15:27:37",
+    "id": 443896,
+    "regions": [
+      "RU"
+    ],
+    "discount": "85%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2022/7/11/26239-9ee15859e5e68126.jpg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 7,
+        "name": "Homeware"
+      }
+    ],
+    "name": "Outlet -85%",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://ficca2021.com/coupon/vr3sphh8r35af0702a2774bec426fb/?erid=2bL9aMPo2e49hMef4pezL9VUq7",
+    "goto_link": "https://ficca2021.com/g/av8sra0joa5af0702a2774bec426fb/?i=3&erid=2bL9aMPo2e49hMef4pezL9VUq7"
+  }
+]

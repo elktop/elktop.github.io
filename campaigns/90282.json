@@ -1,0 +1,221 @@
+[
+  {
+    "status": "active",
+    "rating": "5.97",
+    "campaign": {
+      "id": 90282,
+      "name": "Simply Meal RU",
+      "site_url": "https://simplymeal.ru/"
+    },
+    "description": "- 30% на первый заказ\r\n15 декабря 2025 – 11 января",
+    "short_name": "- 30% на первый заказ",
+    "exclusive": false,
+    "date_end": "2026-01-11T23:59:00",
+    "date_start": "2025-12-15T00:00:00",
+    "id": 891184,
+    "regions": [
+      "RU"
+    ],
+    "discount": "30%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/2/20/90282-3709b868479b24fb.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      },
+      {
+        "id": 189,
+        "name": "New Year Festival 2026"
+      }
+    ],
+    "name": "- 30% на первый заказ",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ADMSM30",
+    "frameset_link": "",
+    "goto_link": "https://yyczo.com/g/l125h7pwvc5af0702a276e7feec041/?i=3&erid=2bL9aMPo2e49hMef4rqy6U7sLY"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 90282,
+      "name": "Simply Meal RU",
+      "site_url": "https://simplymeal.ru/"
+    },
+    "description": "-28% от базовой стоимости рациона.",
+    "short_name": "-28% при заказе рациона на 25 дней!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-12-02T14:11:00",
+    "id": 889603,
+    "regions": [
+      "RU"
+    ],
+    "discount": "28%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/2/20/90282-3709b868479b24fb.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "-28% при заказе рациона на 25 дней!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://yyczo.com/g/487zhnufuj5af0702a276e7feec041/?i=3&erid=2bL9aMPo2e49hMef4rqxyu7PPr"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 90282,
+      "name": "Simply Meal RU",
+      "site_url": "https://simplymeal.ru/"
+    },
+    "description": "-20% от базовой стоимости рациона.",
+    "short_name": "-20% при заказе рациона на 10 дней!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-02-02T00:00:00",
+    "id": 832659,
+    "regions": [
+      "RU"
+    ],
+    "discount": "20%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/2/20/90282-3709b868479b24fb.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "-20% при заказе рациона на 10 дней!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://yyczo.com/g/eds4a0uefu5af0702a276e7feec041/?i=3&erid=2bL9aMPo2e49hMef4piUxfbBoF"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 90282,
+      "name": "Simply Meal RU",
+      "site_url": "https://simplymeal.ru/"
+    },
+    "description": "Отзыв можно публиковать не более 1 раза в неделю!",
+    "short_name": "Получите 500 бонусов за отзыв о нас на популярных площадках!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-08-26T20:45:17",
+    "id": 791339,
+    "regions": [
+      "RU"
+    ],
+    "discount": "500 ₽",
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/2/20/90282-3709b868479b24fb.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Получите 500 бонусов за отзыв о нас на популярных площадках!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://yyczo.com/g/eeulz837hr5af0702a276e7feec041/?i=3&erid=2bL9aMPo2e49hMef4piU4DSH1n"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 90282,
+      "name": "Simply Meal RU",
+      "site_url": "https://simplymeal.ru/"
+    },
+    "description": "Чтобы получить по 1500 бонусов:\r\nВаш друг должен сделать заказ на сайте или по телефону и указать Вас, как рекомендателя. Для идентификации надо указать Ваш телефон. После совершения заказа будет начислено по 1500 бонусов Вам и Вашему другу.",
+    "short_name": "Рекомендуй нас друзьям и получите оба по 1500 бонусов!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-08-26T20:38:52",
+    "id": 791337,
+    "regions": [
+      "RU"
+    ],
+    "discount": "1 500 ₽",
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/2/20/90282-3709b868479b24fb.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Рекомендуй нас друзьям и получите оба по 1500 бонусов!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://yyczo.com/g/8y4getzp8p5af0702a276e7feec041/?i=3&erid=2bL9aMPo2e49hMef4piU4DSH1k"
+  }
+]

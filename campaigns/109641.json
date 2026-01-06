@@ -1,0 +1,45 @@
+[
+  {
+    "status": "active",
+    "rating": "8.92",
+    "campaign": {
+      "id": 109641,
+      "name": "Hi Store RU",
+      "site_url": "https://hi-stores.ru"
+    },
+    "description": "Промокод не суммируется с другими",
+    "short_name": "Скидка 500р на любую покупку.",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-10-20T14:07:45",
+    "id": 879726,
+    "regions": [
+      "RU"
+    ],
+    "discount": "500 ₽",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/9/16/109641-b50f578380af87b4.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Скидка 500р на любую покупку.",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "HiAdmitad500",
+    "frameset_link": "",
+    "goto_link": "https://wpmsx.com/g/tzdxvofnyo5af0702a273a4ea8cf25/?i=3&erid=2bL9aMPo2e49hMef4rqV15HXnF"
+  }
+]

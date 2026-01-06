@@ -2,8 +2,11 @@
   {
     "id": 48884,
     "name": "Super Interessante BR (Grupo Abril)",
+    "name_aliases": "Super interessante",
+    "site_url": "https://super.abril.com.br/",
+    "description": "Promova os planos de \"Assinatura Digital\" e \"Digital + Impresso\" da Super Interessante, com acesso ilimitado a todos os títulos..O usuário terá uma experiência única de entretenimento e acesso a assuntos variados e divertidos dentro do universo da cultura, ciência, atualidades com a Revista mais Interessante de todos os tempos na palma da mão.\r\n\r\nEste programa é ideal se a sua audiência tem interesse em:\r\n\r\n\r\n\tConsumir conteúdo variado de curiosidades e entretenimento;\r\n\tLeitura de qualidade sobre ciências, tecnologia, natureza e atualidades;\r\n",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/10/48884-8c9e89a73a818031.svg",
-    "img": "platform/48884.svg",
     "categories": [
       {
         "name": "Online Services",
@@ -23,6 +26,12 @@
         }
       }
     ],
+    "img": "platform/48884.svg",
+    "affiliate": {
+      "goto_link": "https://qbzdl.com/g/auo2v261as5af0702a27ba527eaa02/",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "News and Media",
       "id": 310,

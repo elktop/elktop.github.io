@@ -1,0 +1,174 @@
+[
+  {
+    "status": "active",
+    "rating": "8.26",
+    "campaign": {
+      "id": 110058,
+      "name": "Колесо  RU",
+      "site_url": "https://koleso.ru/"
+    },
+    "description": "",
+    "short_name": "Товары акции \"Скидки месяца\"",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-10-31T14:12:41",
+    "id": 881187,
+    "regions": [
+      "RU"
+    ],
+    "discount": "1 000 ₽",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/9/23/110058-c2a244ec686faf39.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 92,
+        "name": "Cars"
+      }
+    ],
+    "name": "Товары акции \"Скидки месяца\"",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://uhtkc.com/g/cap8482qn15af0702a27adffb7e431/?i=3&erid=2bL9aMPo2e49hMef4rqV1BEVjT"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 110058,
+      "name": "Колесо  RU",
+      "site_url": "https://koleso.ru/"
+    },
+    "description": "Лето дешевле зимой! Зачем переплачивать потом, если можно сэкономить уже сегодня?\r\n\r\nПри покупке любых летних шин летних шин (от 1 шт.) в сети центров Колесо.ру или на сайте koleso.ru вы получаете бесплатное хранение до момента монтажа. Мы позаботимся о ваших шинах!\r\n\r\nДвойная выгода:\r\n\r\nБесплатное хранение до весны;\r\n\r\nБесплатный шиномонтаж на большинство моделей шин при покупке от 4х шт.\r\n\r\nИспользуйте обе акции и получайте максимум выгоды!\r\n\r\nАкция действует при покупке с 1 октября 2025 г. по 15 мая 2026 г.\r\n\r\nНе откладывайте — купите сегодня, а установите, когда придёт время.",
+    "short_name": "Хранение до монтажа бесплатно!",
+    "exclusive": false,
+    "date_end": "2026-05-15T23:59:00",
+    "date_start": "2025-10-31T13:27:00",
+    "id": 881181,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/9/23/110058-c2a244ec686faf39.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 92,
+        "name": "Cars"
+      }
+    ],
+    "name": "Хранение до монтажа бесплатно!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://uhtkc.com/g/u2b5a09sbs5af0702a27adffb7e431/?i=3&erid=2bL9aMPo2e49hMef4rqV1BEVjM"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 110058,
+      "name": "Колесо  RU",
+      "site_url": "https://koleso.ru/"
+    },
+    "description": "При покупке комплекта (4 шт.) летних шин YOKOHAMA в сети центров Колесо.ру или на сайте koleso.ru вы можете воспользоваться услугой шиномонтажа в сети центров Колесо.ру БЕСПЛАТНО!\r\n\r\nСрок проведения акции: до 31 января 2026г\r\n\r\nВ акции не участвуют шины категории «С»\r\n\r\n* Принимая участие в акции, Покупатель должен зарегистрироваться на сайте koleso.ru и предоставить свои контактные данные: фамилию, имя и подтвердить номер мобильного телефона. Регистрация может быть произведена в момент покупки шин.",
+    "short_name": "Бесплатный шиномонтаж летних шин YOKOHAMA",
+    "exclusive": false,
+    "date_end": "2026-01-31T23:59:00",
+    "date_start": "2025-10-31T13:27:00",
+    "id": 881180,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/9/23/110058-c2a244ec686faf39.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 92,
+        "name": "Cars"
+      }
+    ],
+    "name": "Бесплатный шиномонтаж летних шин YOKOHAMA",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://uhtkc.com/g/vyux7qk9135af0702a27adffb7e431/?i=3&erid=2bL9aMPo2e49hMef4rqV1BEVf6"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 110058,
+      "name": "Колесо  RU",
+      "site_url": "https://koleso.ru/"
+    },
+    "description": "При покупке комплекта (4 шт.) зимних шин CORDIANT от 15 диаметра в сети шинных и сервисных центров Колесо.ру или на сайте вы можете воспользоваться услугой шиномонтажа БЕСПЛАТНО!\r\n\r\nСрок проведения акции: до 26 февраля 2026 г.\r\n\r\n*Также на шины CORDIANT действует Безусловная гарантия и акция Кешбэк 10%.\r\n\r\n* Принимая участие в акции, Покупатель должен зарегистрироваться на сайте koleso.ru и предоставить свои контактные данные: фамилию, имя и подтвердить номер мобильного телефона. Регистрация может быть произведена в момент покупки шин. При получении услуг шиномонтажа по Акции номер телефона Покупателя необходимо подтвердить.",
+    "short_name": "Бесплатный шиномонтаж зимних шин CORDIANT",
+    "exclusive": false,
+    "date_end": "2026-02-26T23:59:00",
+    "date_start": "2025-10-31T13:27:00",
+    "id": 881179,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/9/23/110058-c2a244ec686faf39.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 92,
+        "name": "Cars"
+      }
+    ],
+    "name": "Бесплатный шиномонтаж зимних шин CORDIANT",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://uhtkc.com/g/m5znw90m425af0702a27adffb7e431/?i=3&erid=2bL9aMPo2e49hMef4rqV1BEVf5"
+  }
+]

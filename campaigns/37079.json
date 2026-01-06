@@ -1,0 +1,49 @@
+[
+  {
+    "status": "active",
+    "rating": "4.00",
+    "campaign": {
+      "id": 37079,
+      "name": "American Eagle MX",
+      "site_url": "https://www.ae.com/mx/es"
+    },
+    "description": "",
+    "short_name": "¿Quiéres un 20% extra? ¡Recomienda a un amigo!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-05-09T00:57:09",
+    "id": 754732,
+    "regions": [
+      "MX"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/4/17/37079-5359cd4876c62a56.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      },
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "¿Quiéres un 20% extra? ¡Recomienda a un amigo!",
+    "language": "es",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "",
+    "goto_link": "https://wpmsx.com/g/864bk4yy0g5af0702a275390cf62bf/?i=3"
+  }
+]

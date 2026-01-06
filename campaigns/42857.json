@@ -1,0 +1,174 @@
+[
+  {
+    "status": "active",
+    "rating": "6.43",
+    "campaign": {
+      "id": 42857,
+      "name": "Pizzahut.ru",
+      "site_url": "https://pizzahut.ru"
+    },
+    "description": "При заказе от 1290р, кроме комбо",
+    "short_name": "Пицца в подарок Любители пепперони 23 см",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-11-13T00:00:00",
+    "id": 599888,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/9/29/42857-53a6001b991894b6.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Пицца в подарок Любители пепперони 23 см",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "Пылко",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/vzvmd882515af0702a27ba0ab394fc/?i=3&erid=2bL9aMPo2e49hMef4pgVRyHDuy"
+  },
+  {
+    "status": "active",
+    "rating": "8.12",
+    "campaign": {
+      "id": 42857,
+      "name": "Pizzahut.ru",
+      "site_url": "https://pizzahut.ru"
+    },
+    "description": "при заказе от 1590Р, кроме комбо",
+    "short_name": "Европейская 30 см в подарок",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-11-09T00:00:00",
+    "id": 599044,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/9/29/42857-53a6001b991894b6.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Европейская 30 см в подарок",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "Колизей",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/riz6sihn6v5af0702a27ba0ab394fc/?i=3&erid=2bL9aMPo2e49hMef4pgVRtqbUW"
+  },
+  {
+    "status": "active",
+    "rating": "7.97",
+    "campaign": {
+      "id": 42857,
+      "name": "Pizzahut.ru",
+      "site_url": "https://pizzahut.ru"
+    },
+    "description": "при заказе от 1290р, кроме комбо",
+    "short_name": "Четыре сыра 23 см в подарок",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-11-09T00:00:00",
+    "id": 599043,
+    "regions": [
+      "RU"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/9/29/42857-53a6001b991894b6.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "Четыре сыра 23 см в подарок",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "Сырно",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/wsck1z3iti5af0702a27ba0ab394fc/?i=3&erid=2bL9aMPo2e49hMef4pgVRtqbUV"
+  },
+  {
+    "status": "active",
+    "rating": "9.55",
+    "campaign": {
+      "id": 42857,
+      "name": "Pizzahut.ru",
+      "site_url": "https://pizzahut.ru"
+    },
+    "description": "при заказе от 1590, кроме комбо",
+    "short_name": "20% скидка",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-11-08T00:00:00",
+    "id": 598699,
+    "regions": [
+      "RU"
+    ],
+    "discount": "20%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/9/29/42857-53a6001b991894b6.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "20% скидка",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "Сюрприз",
+    "frameset_link": "",
+    "goto_link": "https://naiawork.com/g/39y7mg67jb5af0702a27ba0ab394fc/?i=3&erid=2bL9aMPo2e49hMef4pgVRsMwbf"
+  }
+]

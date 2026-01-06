@@ -1,0 +1,56 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 32718,
+      "name": "VeePN Many Geos",
+      "site_url": "https://veepn.com/"
+    },
+    "description": "",
+    "short_name": "10% off",
+    "exclusive": true,
+    "date_end": null,
+    "date_start": "2023-05-03T11:16:39",
+    "id": 538755,
+    "regions": [
+      "AU",
+      "CA",
+      "CN",
+      "DE",
+      "EG",
+      "FR",
+      "GB",
+      "IL",
+      "JP",
+      "NL",
+      "SA",
+      "US"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/2/20/32718-204a792742cc40d3.png",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "10% off",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "AD10",
+    "frameset_link": "",
+    "goto_link": "https://dhwnh.com/g/nuk548jqle5af0702a2718b9df0e74/?i=3"
+  }
+]

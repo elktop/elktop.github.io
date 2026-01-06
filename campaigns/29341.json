@@ -1,0 +1,45 @@
+[
+  {
+    "status": "active",
+    "rating": "5.23",
+    "campaign": {
+      "id": 29341,
+      "name": "Аптека  Озерки",
+      "site_url": "https://ozerki.ru/"
+    },
+    "description": "Скачайте мобильное приложение Озерки в App Store или Google Play и примените промокод NEW200 на первый заказ от 1000 рублей*\r\n\r\n\r\n\r\n1) Отсканируйте QR и скачайте приложение \r\n\r\n2) Зарегистрируйтесь в разделе \"Профиль\" (без предварительной регистрации купон не сработает)\r\n\r\n3) Соберите корзину от 1000 руб. и нажмите \"Перейти к оформлению\"\r\n\r\n4) Введите \"NEW200\" в поле \"Купон\" и нажмите \"Применить\".\r\n\r\n5) Оформите заказ\r\n\r\n\r\n\r\n*Единоразовая скидка 200 рублей по промокоду NEW200 на первый заказ предоставляется авторизованным пользователям в мобильном приложении Озерки при оформлении самовывоза из аптеки на сумму от 1000 рублей с учетом списания бонусов программы лояльности сети аптек Озерки.\r\n\r\nПромокод не применим, если сумма первого заказа в мобильном приложении Озерки менее 1000 рублей и не применим на последующие заказы независимо от их суммы. Скидка по промокоду не суммируется со скидками или акциями, действующими в момент покупки. Промокод не подлежит обмену на денежные средства.",
+    "short_name": "Скидка 200₽ на первый заказ от 1000 р. по промокоду NEW200",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-11-14T14:28:52",
+    "id": 600245,
+    "regions": [
+      "RU"
+    ],
+    "discount": "200 ₽",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/5/31/29341-f6161b73f4611ae7.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Скидка 200₽ на первый заказ от 1000 р. по промокоду NEW200",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NEW200",
+    "frameset_link": "https://bednari.com/coupon/4pblt0wecw5af0702a274be74b625d/?erid=5jtCeReNwxHpfQTGQwQsZeL",
+    "goto_link": "https://bednari.com/g/ksgiiemrma5af0702a274be74b625d/?i=3&erid=5jtCeReNwxHpfQTGQwQsZeL"
+  }
+]

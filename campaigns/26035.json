@@ -1,0 +1,131 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 26035,
+      "name": "МЕГАСТРОЙ",
+      "site_url": "https://megastroy.com/"
+    },
+    "description": "",
+    "short_name": "Гардеробные системы со скидкой до 20%!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-03-19T11:29:34",
+    "id": 839176,
+    "regions": [
+      "RU"
+    ],
+    "discount": "20%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/11/24/26035-9da86fdaf81d2508.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 23,
+        "name": "DIY, Garden"
+      }
+    ],
+    "name": "Гардеробные системы со скидкой до 20%!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://bednari.com/coupon/el2l7dqszz5af0702a27161cbbe6df/?erid=2bL9aMPo2e49hMef4rqTzD14T7",
+    "goto_link": "https://bednari.com/g/nqh2eu1wwa5af0702a27161cbbe6df/?i=3&erid=2bL9aMPo2e49hMef4rqTzD14T7"
+  },
+  {
+    "status": "active",
+    "rating": "2.18",
+    "campaign": {
+      "id": 26035,
+      "name": "МЕГАСТРОЙ",
+      "site_url": "https://megastroy.com/"
+    },
+    "description": "",
+    "short_name": "Кухни по выгодным ценам.",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-03-19T11:28:35",
+    "id": 839175,
+    "regions": [
+      "RU"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/11/24/26035-9da86fdaf81d2508.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 23,
+        "name": "DIY, Garden"
+      }
+    ],
+    "name": "Кухни по выгодным ценам.",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://bednari.com/coupon/fnmgja8siz5af0702a27161cbbe6df/?erid=2bL9aMPo2e49hMef4rqTzD14T6",
+    "goto_link": "https://bednari.com/g/7zki0000yw5af0702a27161cbbe6df/?i=3&erid=2bL9aMPo2e49hMef4rqTzD14T6"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 26035,
+      "name": "МЕГАСТРОЙ",
+      "site_url": "https://megastroy.com/"
+    },
+    "description": "",
+    "short_name": "Стеллажи для рассады с выгодой до 50%!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-04-05T12:09:17",
+    "id": 532605,
+    "regions": [
+      "RU"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/11/24/26035-9da86fdaf81d2508.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 23,
+        "name": "DIY, Garden"
+      }
+    ],
+    "name": "Стеллажи для рассады с выгодой до 50%!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://bednari.com/coupon/cc4089x1nm5af0702a27161cbbe6df/?erid=5jtCeReNwxHpfQTFuc4fkUG",
+    "goto_link": "https://bednari.com/g/a8inynfm9j5af0702a27161cbbe6df/?i=3&erid=5jtCeReNwxHpfQTFuc4fkUG"
+  }
+]

@@ -1,0 +1,174 @@
+[
+  {
+    "status": "active",
+    "rating": "9.44",
+    "campaign": {
+      "id": 120932,
+      "name": "СберМобайл RU",
+      "site_url": "https://sbermobile.ru/"
+    },
+    "description": "Предложение доступно на тарифы \"Для рациональных\", \"Для неудержимых \", \"Для максималистов \" после ввода промокода.",
+    "short_name": "Скидка 50% на 12 месяцев для новых абонентов",
+    "exclusive": false,
+    "date_end": "2026-01-31T23:59:00",
+    "date_start": "2025-12-24T11:28:00",
+    "id": 891852,
+    "regions": [
+      "RU"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/1/31/120932-a78f80156bfd728c.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "Скидка 50% на 12 месяцев для новых абонентов",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "SUPER50",
+    "frameset_link": "",
+    "goto_link": "https://wpmsx.com/g/5uwgjs6vtc5af0702a275c9761355b/?i=3&erid=2bL9aMPo2e49hMef4rqy6X6Wdv"
+  },
+  {
+    "status": "active",
+    "rating": "9.00",
+    "campaign": {
+      "id": 120932,
+      "name": "СберМобайл RU",
+      "site_url": "https://sbermobile.ru/"
+    },
+    "description": "Предложение доступно на тарифы \"Для рациональных\", \"Для неудержимых \", \"Для максималистов \" после ввода промокода.",
+    "short_name": "Скидка 50% на 3 месяца для новых абонентов.",
+    "exclusive": false,
+    "date_end": "2026-01-31T23:59:00",
+    "date_start": "2025-12-24T11:28:00",
+    "id": 877803,
+    "regions": [
+      "RU"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/1/31/120932-a78f80156bfd728c.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "Скидка 50% на 3 месяца для новых абонентов.",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "VISIT50",
+    "frameset_link": "",
+    "goto_link": "https://wpmsx.com/g/sdqcnr80zc5af0702a275c9761355b/?i=3&erid=2bL9aMPo2e49hMef4rqUtfBesa"
+  },
+  {
+    "status": "active",
+    "rating": "7.74",
+    "campaign": {
+      "id": 120932,
+      "name": "СберМобайл RU",
+      "site_url": "https://sbermobile.ru/"
+    },
+    "description": "Чтобы воспользоваться промокодом, введите его в окне \"У меня есть промокод\"",
+    "short_name": "Скидка 15% на 12 месяцев для новых абонентов!",
+    "exclusive": false,
+    "date_end": "2026-01-31T23:59:00",
+    "date_start": "2025-12-24T11:28:00",
+    "id": 872947,
+    "regions": [
+      "RU"
+    ],
+    "discount": "15%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/1/31/120932-a78f80156bfd728c.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "Скидка 15% на 12 месяцев для новых абонентов!",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ADM15",
+    "frameset_link": "",
+    "goto_link": "https://wpmsx.com/g/zov7jmbtx85af0702a275c9761355b/?i=3&erid=2bL9aMPo2e49hMef4rqUn7comJ"
+  },
+  {
+    "status": "active",
+    "rating": "7.84",
+    "campaign": {
+      "id": 120932,
+      "name": "СберМобайл RU",
+      "site_url": "https://sbermobile.ru/"
+    },
+    "description": "",
+    "short_name": "Скидка 15% на 12 месяцев для новых абонентов.",
+    "exclusive": false,
+    "date_end": "2026-01-31T23:59:00",
+    "date_start": "2025-12-24T11:28:00",
+    "id": 833078,
+    "regions": [
+      "RU"
+    ],
+    "discount": "15%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/1/31/120932-a78f80156bfd728c.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "Скидка 15% на 12 месяцев для новых абонентов.",
+    "language": "ru",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ADMITAD",
+    "frameset_link": "",
+    "goto_link": "https://wpmsx.com/g/l4fn0dm3y75af0702a275c9761355b/?i=3&erid=2bL9aMPo2e49hMef4piUxh6XAE"
+  }
+]

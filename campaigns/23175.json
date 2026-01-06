@@ -1,0 +1,88 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 23175,
+      "name": "Compbest UA",
+      "site_url": "https://compbest.com.ua/"
+    },
+    "description": "Новий формат знижки - накопичувальна знижка 3% для постійних клієнтів!",
+    "short_name": "Новий формат знижки - накопичувальна знижка 3% для постійних клієнтів!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-11-21T13:39:04",
+    "id": 815374,
+    "regions": [
+      "UA"
+    ],
+    "discount": "3%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/10/5/23175-7a3a9ad68e0f9007.jpg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Новий формат знижки - накопичувальна знижка 3% для постійних клієнтів!",
+    "language": "ua",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "https://dhwnh.com/coupon/7u9h6up36e5af0702a272b2948c699/",
+    "goto_link": "https://dhwnh.com/g/g833wjljdv5af0702a272b2948c699/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 23175,
+      "name": "Compbest UA",
+      "site_url": "https://compbest.com.ua/"
+    },
+    "description": "Безкоштовна доставка та накладний платіж без комісії на всі замовлення",
+    "short_name": "Безкоштовна доставка та накладний платіж без комісії на всі замовлення",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-09-04T18:03:31",
+    "id": 793329,
+    "regions": [
+      "UA"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/10/5/23175-7a3a9ad68e0f9007.jpg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Безкоштовна доставка та накладний платіж без комісії на всі замовлення",
+    "language": "ua",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "https://dhwnh.com/coupon/zwyf3fsfxb5af0702a272b2948c699/",
+    "goto_link": "https://dhwnh.com/g/p1gxc9vcy35af0702a272b2948c699/?i=3"
+  }
+]

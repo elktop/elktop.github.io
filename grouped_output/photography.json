@@ -2,8 +2,11 @@
   {
     "id": 121315,
     "name": "Retouch4me WW",
+    "name_aliases": "retouch4.me, Retouch4me, Retouch",
+    "site_url": "https://retouch4.me",
+    "description": "Retouch4.me is a set of AI-powered software tools for photo retouching. These plugins are designed to simplify the image editing process by automating various stages of retouching, such as skin enhancement, defect removal, texture improvement, and other features.\r\n\r\nSkin Retouching Collection – A set of AI-powered plugins that remove imperfections, apply dodge and burn techniques, even out skin tone, while preserving natural skin texture.\r\n\r\nStudio Photography Enhancements – Tools that clean up backgrounds, remove dirt, and smooth out wrinkles in clothing, ensuring a flawless, studio-quality look.\r\n\r\nColor Correction – Automatically matches colors from a reference image and supports a wide range of LUTs from the LUT cloud.\r\n\r\nFace Make – Effortlessly adjusts lipstick, eyeshadow, and blush shades to create the perfect look for any occasion while maintaining a natural and personalized style.\r\n\r\nVideo Retouching – Two specialized AI-powered plugins for seamless retouching in video production.\r\n\r\nJoin our affiliate program and start earning by promoting Retouch4me AI plugins! The demand for automatic retouching is growing—be part of the future of AI-driven photography. \r\n\r\nApex - All-in-one AI Plugin A full set of Advanced AI tools for every retouching task — all in one clean, intuitive interface.",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/3/20/121315-2556d96d2827bae5.svg",
-    "img": "platform/121315.svg",
     "categories": [
       {
         "name": "Online Services",
@@ -29,6 +32,23 @@
         "parent": null
       }
     ],
+    "img": "platform/121315.svg",
+    "affiliate": {
+      "goto_link": "https://plrvq.com/g/gp8po8i1u75af0702a2745d8e108c6/",
+      "landings": [
+        {
+          "id": 31431,
+          "name": "advent calendar",
+          "code": "54d64cd7ff"
+        },
+        {
+          "id": 29927,
+          "name": "Free Cloud Retouch bonuses and discounts for all plugins",
+          "code": "f68fde710d"
+        }
+      ],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Photography",
       "id": 309,
@@ -44,8 +64,11 @@
   {
     "id": 124270,
     "name": "Phooto BR",
+    "name_aliases": "foto, photo, photoo, fotos",
+    "site_url": "https://phooto.com.br",
+    "description": "O Phooto é o seu destino definitivo para equipamentos fotográficos de alta qualidade, oferecendo uma ampla seleção de câmeras, lentes e acessórios das melhores marcas. Seja você um fotógrafo profissional ou entusiasta, temos tudo o que você precisa para capturar a sua foto perfeita.\r\n\r\nBenefícios para os Clientes:\r\n\r\n\r\n\tEntrega rápida e confiável\r\n\tAmpla variedade de câmeras, lentes e acessórios\r\n\tDescontos exclusivos em grandes marcas\r\n\tPromoções e ofertas frequentes\r\n\tAtendimento ao cliente de alta qualidade\r\n\tDicas de especialistas e conselhos fotográficos disponíveis\r\n\tDevoluções gratuitas dentro de um período especificado\r\n\r\n\r\nO Phooto.com.br se destaca pela alta taxa de conversão, especialmente em newsletters, tornando-se uma ótima opção para editores que buscam maximizar seus ganhos. Recomendamos que os editores incluam informações sobre nossas últimas ofertas, concursos e bônus para aumentar o engajamento e as conversões.\r\n\r\nTarget audience\r\nFotógrafos profissionais e amadores, entusiastas, influenciadores e agências de marketing, com foco em equipamentos fotográficos de alta qualidade. O público está principalmente em grandes centros urbanos do Brasil, com idades entre 18 e 45 anos.\r\n\r\nNo Phooto.com.br, os produtos mais procurados incluem:\r\n\r\n\r\n\tFotolivros - Personalizados com alta qualidade de impressão e acabamentos exclusivos.\r\n\tRevelação de Fotos - Impressão em papel fotográfico profissional, garantindo cores vivas e durabilidade.\r\n\tFoto Quadros - Personalização de quadros decorativos com fotos.\r\n\tFoto Presentes - Itens personalizados como canecas, acessórios e objetos decorativos.\r\n\r\n\r\n ",
+    "status": "active",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/3/12/124270-02f854e8979d56ec.svg",
-    "img": "platform/124270.svg",
     "categories": [
       {
         "name": "Online Services",
@@ -65,6 +88,12 @@
         }
       }
     ],
+    "img": "platform/124270.svg",
+    "affiliate": {
+      "goto_link": "https://yyczo.com/g/a4qn83uou15af0702a273af1fe6dea/",
+      "landings": [],
+      "cashback_link_data": null
+    },
     "category": {
       "name": "Photography",
       "id": 309,
