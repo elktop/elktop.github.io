@@ -3298,48 +3298,88 @@
       "couponCount": 0
     },
     {
-      "site_url": "https://asus.com/in/",
-      "name": "Asus [CPS] IN",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2024/9/4/36176-af15c85bc3ab6496.svg",
+      "site_url": "https://360.yandex.ru/premium-plans",
+      "name": "Яндекс 360",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2024/4/9/35946-b1d9a975c8350015.svg",
       "categories": [
         {
-          "name": "Online stores",
-          "id": 62,
+          "name": "Online Services",
+          "id": 18,
           "language": "en",
           "parent": null
         },
         {
-          "name": "Household Appliances & Electronics",
-          "id": 65,
+          "name": "IT Services & Soft",
+          "id": 122,
           "language": "en",
           "parent": {
-            "name": "Online stores",
-            "id": 62,
+            "name": "Online Services",
+            "id": 18,
             "language": "en",
             "parent": null
           }
+        },
+        {
+          "name": "B2B Online Services",
+          "id": 206,
+          "language": "en",
+          "parent": {
+            "name": "Online Services",
+            "id": 18,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "11.11 & Black Friday 2025",
+          "id": 377,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Back to school 2025",
+          "id": 371,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "New Year Festival 2026",
+          "id": 378,
+          "language": "en",
+          "parent": null
         }
       ],
-      "id": 36176,
+      "id": 35946,
       "category": {
-        "name": "Household Appliances & Electronics",
-        "id": 65,
+        "name": "IT Services & Soft",
+        "id": 122,
         "language": "en",
         "parent": {
-          "name": "Online stores",
-          "id": 62,
+          "name": "Online Services",
+          "id": 18,
           "language": "en",
           "parent": null
         }
       },
       "affiliate": {
-        "goto_link": "https://tjzuh.com/g/9d2vnaf4jq5af0702a2703be1d2ce2/",
-        "landings": [],
+        "goto_link": "https://ficca2021.com/g/a8ajaerquo5af0702a271888f31262/?erid=2bL9aMPo2e49hMef4pfzD4he4c",
+        "landings": [
+          {
+            "id": 29985,
+            "name": "Казахстан",
+            "code": "397e349adc"
+          },
+          {
+            "id": 29986,
+            "name": "Беларусь",
+            "code": "2f05984e0b"
+          }
+        ],
         "cashback_link_data": null
       },
       "discountCount": 0,
       "couponCount": 0
     }
   ],
-  "totalPosts": 649
+  "totalPosts": 651
 }

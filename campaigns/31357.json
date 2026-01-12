@@ -170,5 +170,48 @@
     "promocode": "ADMKOSKII10",
     "frameset_link": "https://tjzuh.com/coupon/8epcv8a6bt5af0702a273e4b97150e/",
     "goto_link": "https://tjzuh.com/g/15gfz1xv6h5af0702a273e4b97150e/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "1.65",
+    "campaign": {
+      "id": 31357,
+      "name": "Koskii [CPS] IN",
+      "site_url": "https://www.koskii.com/"
+    },
+    "description": "",
+    "short_name": "Offer: 10% off on total order value\r\nMinimum order value: 3000Rs",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-07-04T08:57:13",
+    "id": 772667,
+    "regions": [
+      "IN"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2022/12/27/31357-4b8b3b26f296924a.png",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Offer: 10% off on total order value\r\nMinimum order value: 3000Rs",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ADMKOSKII10",
+    "frameset_link": "https://tjzuh.com/coupon/8epcv8a6bt5af0702a273e4b97150e/",
+    "goto_link": "https://tjzuh.com/g/15gfz1xv6h5af0702a273e4b97150e/?i=3"
   }
 ]

@@ -186,5 +186,52 @@
     "promocode": "VIP10",
     "frameset_link": "",
     "goto_link": "https://ypetp.com/g/d0i5ihaq2y5af0702a272e05f7a992/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 149085,
+      "name": "GIA KARSKO EU",
+      "site_url": "https://giakarsko.com/"
+    },
+    "description": "Applies to any GIA KARSKO website visitor referred to by our affiliate partners.",
+    "short_name": "10% off all designer handbags for affiliate Customers.",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-12-15T15:55:31",
+    "id": 891892,
+    "regions": [
+      "DE",
+      "ES",
+      "FR",
+      "GR",
+      "NL"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/12/10/149085-817027590ed702f9.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      }
+    ],
+    "name": "10% off all designer handbags for affiliate Customers.",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "VIP10",
+    "frameset_link": "",
+    "goto_link": "https://ypetp.com/g/d0i5ihaq2y5af0702a272e05f7a992/?i=3"
   }
 ]

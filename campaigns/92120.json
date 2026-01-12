@@ -342,5 +342,91 @@
     "promocode": "WOLTGR25",
     "frameset_link": "",
     "goto_link": "https://rzekl.com/g/7bknut4ie35af0702a27b327575e05/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 92120,
+      "name": "WOLT CZ PL HU GR SK HR RS",
+      "site_url": "https://wolt.com/"
+    },
+    "description": "MOV 3000 HUF. Only valid for FTUs. Valid till 31.12.26",
+    "short_name": "WOLT (HUN) 2x1000 HUF for new users only. min order value 3000 HUF",
+    "exclusive": true,
+    "date_end": "2026-12-31T23:59:00",
+    "date_start": "2026-01-01T00:00:00",
+    "id": 892843,
+    "regions": [
+      "HU"
+    ],
+    "discount": "1 000 Fr",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/5/10/92120-8c987e88a6327ddb.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "WOLT (HUN) 2x1000 HUF for new users only. min order value 3000 HUF",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "AFFWOLTHUN26",
+    "frameset_link": "",
+    "goto_link": "https://rzekl.com/g/73sc5tfc505af0702a27b327575e05/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 92120,
+      "name": "WOLT CZ PL HU GR SK HR RS",
+      "site_url": "https://wolt.com/"
+    },
+    "description": "MOV 12€. Only valid for FTUs. Valid till 31.01.26",
+    "short_name": "WOLT (GRC) 1x6 EUR for new users only. min order value 12 EUR",
+    "exclusive": true,
+    "date_end": "2026-01-31T23:59:00",
+    "date_start": "2025-10-15T00:00:00",
+    "id": 879331,
+    "regions": [
+      "GR"
+    ],
+    "discount": "6 €",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/5/10/92120-8c987e88a6327ddb.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Food"
+      }
+    ],
+    "name": "WOLT (GRC) 1x6 EUR for new users only. min order value 12 EUR",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "WOLTGR25",
+    "frameset_link": "",
+    "goto_link": "https://rzekl.com/g/7bknut4ie35af0702a27b327575e05/?i=3"
   }
 ]

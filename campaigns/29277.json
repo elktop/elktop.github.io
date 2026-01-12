@@ -206,5 +206,57 @@
     "promocode": "NOT REQUIRED",
     "frameset_link": "https://wbbsv.com/coupon/5dvwrffryt5af0702a27be59cac899/",
     "goto_link": "https://wbbsv.com/g/uaami8ff605af0702a27be59cac899/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 29277,
+      "name": "Vperfumes GCC Links& Offline codes",
+      "site_url": "https://www.vperfumes.com/home"
+    },
+    "description": "",
+    "short_name": "Free Delivery on orders above 200 AED",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-01-24T10:51:57",
+    "id": 626893,
+    "regions": [
+      "AE",
+      "BH",
+      "KW",
+      "OM",
+      "QA",
+      "SA"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2022/11/18/29277-309be5ed10adfc4a.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      },
+      {
+        "id": 144,
+        "name": "Ramadan 2024"
+      }
+    ],
+    "name": "Free Delivery on orders above 200 AED",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "https://wbbsv.com/coupon/5dvwrffryt5af0702a27be59cac899/",
+    "goto_link": "https://wbbsv.com/g/uaami8ff605af0702a27be59cac899/?i=3"
   }
 ]

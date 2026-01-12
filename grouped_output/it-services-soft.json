@@ -67,8 +67,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "discountCount": 4,
-    "couponCount": 4
+    "discountCount": 5,
+    "couponCount": 5
   },
   {
     "site_url": "https://adminvps.ru/",
@@ -153,8 +153,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "discountCount": 36,
-    "couponCount": 4
+    "discountCount": 45,
+    "couponCount": 5
   },
   {
     "site_url": "https://www.iolo.com/",
@@ -227,8 +227,8 @@
       ],
       "cashback_link_data": null
     },
-    "discountCount": 4,
-    "couponCount": 8
+    "discountCount": 5,
+    "couponCount": 10
   },
   {
     "site_url": "https://www.capcut.com/",
@@ -270,8 +270,8 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "discountCount": 4,
-    "couponCount": 4
+    "discountCount": 5,
+    "couponCount": 5
   },
   {
     "site_url": "https://360.yandex.ru/business/tariff/",
@@ -482,7 +482,7 @@
       ],
       "cashback_link_data": null
     },
-    "discountCount": 8,
+    "discountCount": 10,
     "couponCount": 0
   },
   {
@@ -682,7 +682,7 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "discountCount": 4,
+    "discountCount": 5,
     "couponCount": 0
   },
   {
@@ -811,7 +811,7 @@
       ],
       "cashback_link_data": null
     },
-    "discountCount": 8,
+    "discountCount": 10,
     "couponCount": 0
   },
   {
@@ -925,7 +925,7 @@
       "cashback_link_data": null
     },
     "discountCount": 0,
-    "couponCount": 28
+    "couponCount": 35
   },
   {
     "site_url": "https://business.yandex.ru/",
@@ -1099,7 +1099,7 @@
       "cashback_link_data": null
     },
     "discountCount": 0,
-    "couponCount": 4
+    "couponCount": 5
   },
   {
     "site_url": "https://www.coohom.com/",
@@ -1148,7 +1148,7 @@
       "cashback_link_data": null
     },
     "discountCount": 0,
-    "couponCount": 20
+    "couponCount": 25
   },
   {
     "site_url": "https://www.thordata.com/",
@@ -1197,7 +1197,7 @@
       "cashback_link_data": null
     },
     "discountCount": 0,
-    "couponCount": 4
+    "couponCount": 5
   },
   {
     "site_url": "https://2ndnumber.tel/",
@@ -1296,7 +1296,7 @@
       "cashback_link_data": null
     },
     "discountCount": 0,
-    "couponCount": 4
+    "couponCount": 5
   },
   {
     "site_url": "https://www.aomeitech.com/",
@@ -1376,7 +1376,7 @@
       "cashback_link_data": null
     },
     "discountCount": 0,
-    "couponCount": 12
+    "couponCount": 15
   },
   {
     "site_url": "https://prohoster.info",
@@ -1425,7 +1425,7 @@
       "cashback_link_data": null
     },
     "discountCount": 0,
-    "couponCount": 48
+    "couponCount": 52
   },
   {
     "site_url": "https://www.topoftheresults.com",
@@ -1491,7 +1491,7 @@
       "cashback_link_data": null
     },
     "discountCount": 0,
-    "couponCount": 4
+    "couponCount": 5
   },
   {
     "site_url": "https://kion.ru",
@@ -1824,6 +1824,89 @@
     "affiliate": {
       "goto_link": "https://plrvq.com/g/ayvzzawv405af0702a27dd63dd688c/",
       "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://360.yandex.ru/premium-plans",
+    "name": "Яндекс 360",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/4/9/35946-b1d9a975c8350015.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "IT Services & Soft",
+        "id": 122,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "B2B Online Services",
+        "id": 206,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "11.11 & Black Friday 2025",
+        "id": 377,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Back to school 2025",
+        "id": 371,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "New Year Festival 2026",
+        "id": 378,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 35946,
+    "category": {
+      "name": "IT Services & Soft",
+      "id": 122,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://ficca2021.com/g/a8ajaerquo5af0702a271888f31262/?erid=2bL9aMPo2e49hMef4pfzD4he4c",
+      "landings": [
+        {
+          "id": 29985,
+          "name": "Казахстан",
+          "code": "397e349adc"
+        },
+        {
+          "id": 29986,
+          "name": "Беларусь",
+          "code": "2f05984e0b"
+        }
+      ],
       "cashback_link_data": null
     },
     "discountCount": 0,

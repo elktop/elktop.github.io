@@ -298,5 +298,80 @@
     "promocode": "НЕ НУЖЕН",
     "frameset_link": "",
     "goto_link": "https://tywhh.com/g/ahcm9wk0k95af0702a275392be98a7/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 77545,
+      "name": "Hasznos-holmik HU",
+      "site_url": "https://www.hasznos-holmik.hu/"
+    },
+    "description": "",
+    "short_name": "Sale up to 35%",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-02-22T12:01:30",
+    "id": 664941,
+    "regions": [
+      "HU"
+    ],
+    "discount": "35%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/1/15/77545-b07e5c247730eb9c.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 1,
+        "name": "Toys, Kids & Babies"
+      },
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      },
+      {
+        "id": 4,
+        "name": "Shoes"
+      },
+      {
+        "id": 5,
+        "name": "Clothing"
+      },
+      {
+        "id": 6,
+        "name": "Sports & Recreation"
+      },
+      {
+        "id": 7,
+        "name": "Homeware"
+      },
+      {
+        "id": 17,
+        "name": "Pet products"
+      },
+      {
+        "id": 20,
+        "name": "Auto & Moto Goods"
+      },
+      {
+        "id": 72,
+        "name": "Hobby & Stationery"
+      }
+    ],
+    "name": "Sale up to 35%",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "",
+    "goto_link": "https://tywhh.com/g/ahcm9wk0k95af0702a275392be98a7/?i=3"
   }
 ]

@@ -170,5 +170,48 @@
     "promocode": "NOT REQUIRED",
     "frameset_link": "",
     "goto_link": "https://bjpql.com/g/s1snc2xxk25af0702a27e35c9874e2/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 85858,
+      "name": "Pujckaplus CZ [CPS]",
+      "site_url": "https://pujckaplus.cz/"
+    },
+    "description": "",
+    "short_name": "První půjčka až 15.000 Kč na 10 dní je zdarma!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-02-29T17:42:39",
+    "id": 670205,
+    "regions": [
+      "CZ"
+    ],
+    "discount": "99%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/2/29/85858-0d0f85aa63938837.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 15,
+        "name": "Finance & Insurance"
+      }
+    ],
+    "name": "První půjčka až 15.000 Kč na 10 dní je zdarma!",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "",
+    "goto_link": "https://bjpql.com/g/s1snc2xxk25af0702a27e35c9874e2/?i=3"
   }
 ]

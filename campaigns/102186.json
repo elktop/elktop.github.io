@@ -830,5 +830,213 @@
     "promocode": "WELCOME10",
     "frameset_link": "",
     "goto_link": "https://xpuvo.com/g/my24laozyv5af0702a2711c83c348e/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 102186,
+      "name": "Drippy Custom Many GEOs",
+      "site_url": "https://drippycustom.com/"
+    },
+    "description": "Get $15 off your entire order with a $100+ purchase!",
+    "short_name": "$15 OFF on all orders and special sales available on our website",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-02-04T00:00:00",
+    "id": 832832,
+    "regions": [
+      "CA",
+      "CH",
+      "DE",
+      "GB",
+      "US"
+    ],
+    "discount": "15 $",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/6/20/102186-c0e26479b9207730.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      },
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "$15 OFF on all orders and special sales available on our website",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "GB0APXPG6ZDK",
+    "frameset_link": "",
+    "goto_link": "https://xpuvo.com/g/8ocntyaa5q5af0702a2711c83c348e/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 102186,
+      "name": "Drippy Custom Many GEOs",
+      "site_url": "https://drippycustom.com/"
+    },
+    "description": "",
+    "short_name": "For bulk orders starting from 5 pairs (from $900), get a discount of 15%",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-06-15T16:32:19",
+    "id": 768902,
+    "regions": [
+      "CA",
+      "CH",
+      "DE",
+      "GB",
+      "US"
+    ],
+    "discount": "15%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/6/20/102186-c0e26479b9207730.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 4,
+        "name": "Shoes"
+      },
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "For bulk orders starting from 5 pairs (from $900), get a discount of 15%",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "YAGCYAXK6T4B",
+    "frameset_link": "",
+    "goto_link": "https://xpuvo.com/g/izm0i8go7e5af0702a2711c83c348e/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 102186,
+      "name": "Drippy Custom Many GEOs",
+      "site_url": "https://drippycustom.com/"
+    },
+    "description": "Can be used once per order",
+    "short_name": "Buy custom shoes to get free accessories",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-06-15T16:29:17",
+    "id": 768901,
+    "regions": [
+      "CA",
+      "CH",
+      "DE",
+      "GB",
+      "US"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/6/20/102186-c0e26479b9207730.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      },
+      {
+        "id": 4,
+        "name": "Shoes"
+      }
+    ],
+    "name": "Buy custom shoes to get free accessories",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "FREESTUFF",
+    "frameset_link": "",
+    "goto_link": "https://xpuvo.com/g/zcv4pxezdb5af0702a2711c83c348e/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 102186,
+      "name": "Drippy Custom Many GEOs",
+      "site_url": "https://drippycustom.com/"
+    },
+    "description": "Limit to one use per customer",
+    "short_name": "$10 OFF on all products",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-06-15T16:16:23",
+    "id": 768900,
+    "regions": [
+      "CA",
+      "CH",
+      "DE",
+      "GB",
+      "US"
+    ],
+    "discount": "10 $",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/6/20/102186-c0e26479b9207730.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      },
+      {
+        "id": 4,
+        "name": "Shoes"
+      },
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "$10 OFF on all products",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "WELCOME10",
+    "frameset_link": "",
+    "goto_link": "https://xpuvo.com/g/my24laozyv5af0702a2711c83c348e/?i=3"
   }
 ]

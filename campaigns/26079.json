@@ -170,5 +170,48 @@
     "promocode": "Not Required",
     "frameset_link": "https://dhwnh.com/coupon/exa5fiahgg5af0702a2756a188e224/",
     "goto_link": "https://dhwnh.com/g/g730rpalpx5af0702a2756a188e224/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 26079,
+      "name": "Currentbody MENA",
+      "site_url": "https://me.currentbody.com/"
+    },
+    "description": "",
+    "short_name": "Black Friday \"Your Skin's Best Investment\" \r\nNext Level tech, Incomparable results.",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-11-19T17:28:21",
+    "id": 814493,
+    "regions": [
+      "AE",
+      "BH",
+      "JO",
+      "KW",
+      "OM",
+      "SA"
+    ],
+    "discount": "1%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/9/23/26079-9b6e7f8f7a49eecb.jpg",
+    "species": "promocode",
+    "categories": [],
+    "name": "Black Friday \"Your Skin's Best Investment\" \r\nNext Level tech, Incomparable results.",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "Not Required",
+    "frameset_link": "https://dhwnh.com/coupon/exa5fiahgg5af0702a2756a188e224/",
+    "goto_link": "https://dhwnh.com/g/g730rpalpx5af0702a2756a188e224/?i=3"
   }
 ]

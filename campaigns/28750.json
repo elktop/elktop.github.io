@@ -526,5 +526,137 @@
     "promocode": "NOT REQUIRED",
     "frameset_link": "https://bywiola.com/coupon/rueiw86ses5af0702a27b6c5579bcf/",
     "goto_link": "https://bywiola.com/g/fep6flw79m5af0702a27b6c5579bcf/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 28750,
+      "name": "The Deal Outlet AE SA",
+      "site_url": "https://www.thedealoutlet.com/"
+    },
+    "description": "",
+    "short_name": "25-75% off on selected items",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-09-05T14:28:24",
+    "id": 793511,
+    "regions": [
+      "AE",
+      "SA"
+    ],
+    "discount": "75%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2022/7/18/28750-50bc5d4e712eb1da.jpg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "25-75% off on selected items",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "https://bywiola.com/coupon/bhul1a96785af0702a27b6c5579bcf/",
+    "goto_link": "https://bywiola.com/g/2snsgzg8z75af0702a27b6c5579bcf/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 28750,
+      "name": "The Deal Outlet AE SA",
+      "site_url": "https://www.thedealoutlet.com/"
+    },
+    "description": "",
+    "short_name": "15% off of your first app order",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-09-05T15:27:42",
+    "id": 579772,
+    "regions": [
+      "AE",
+      "SA"
+    ],
+    "discount": "15%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2022/7/18/28750-50bc5d4e712eb1da.jpg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "15% off of your first app order",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "FIRST15",
+    "frameset_link": "https://bywiola.com/coupon/k3w31j8pas5af0702a27b6c5579bcf/",
+    "goto_link": "https://bywiola.com/g/flre7moyl65af0702a27b6c5579bcf/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 28750,
+      "name": "The Deal Outlet AE SA",
+      "site_url": "https://www.thedealoutlet.com/"
+    },
+    "description": "",
+    "short_name": "Free Shipping Over 350 AED — Designer Fashion Up To 75% Off",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-06-02T11:23:22",
+    "id": 549217,
+    "regions": [
+      "AE",
+      "SA"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2022/7/18/28750-50bc5d4e712eb1da.jpg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Free Shipping Over 350 AED — Designer Fashion Up To 75% Off",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "https://bywiola.com/coupon/rueiw86ses5af0702a27b6c5579bcf/",
+    "goto_link": "https://bywiola.com/g/fep6flw79m5af0702a27b6c5579bcf/?i=3"
   }
 ]

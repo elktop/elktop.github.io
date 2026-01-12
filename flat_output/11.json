@@ -1,6 +1,49 @@
 {
   "data": [
     {
+      "site_url": "https://insperia.ru/",
+      "name": "Insperia RU",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2025/10/24/127068-45f464ade4ce0274.svg",
+      "categories": [
+        {
+          "name": "Online Education",
+          "id": 98,
+          "language": "en",
+          "parent": {
+            "name": "Online Services",
+            "id": 18,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "id": 127068,
+      "category": {
+        "name": "Online Education",
+        "id": 98,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      "affiliate": {
+        "goto_link": "https://cafxq.com/g/yqmtlji26m5af0702a2724e7a0a455/?erid=2bL9aMPo2e49hMef4rqUDF54cY",
+        "landings": [],
+        "cashback_link_data": null
+      },
+      "discountCount": 0,
+      "couponCount": 0
+    },
+    {
       "site_url": "https://cloveoralcare.com/",
       "name": "Clove Oral Care [ CPS ] IN",
       "image": "https://cdn.admitad-connect.com/campaign/images/2025/7/2/128030-2580d9dc2dcae5bb.svg",
@@ -2814,6 +2857,49 @@
       "couponCount": 0
     },
     {
+      "site_url": "https://mongolshop.ru/",
+      "name": "Mongolshop RU",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2025/12/12/148396-cf32d4b6a6b3914f.svg",
+      "categories": [
+        {
+          "name": "Clothing, Footwear, Accessories",
+          "id": 64,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "id": 148396,
+      "category": {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      "affiliate": {
+        "goto_link": "https://rcpsj.com/g/01prioob0e5af0702a27022da27f68/?erid=2bL9aMPo2e49hMef4rqxsWUVAp",
+        "landings": [],
+        "cashback_link_data": null
+      },
+      "discountCount": 0,
+      "couponCount": 0
+    },
+    {
       "site_url": "https://lifestylestore.com",
       "name": "Lifestyle Web [CPS] IN",
       "image": "https://cdn.admitad-connect.com/campaign/images/2025/12/16/158440-2d93d9a16766811e.svg",
@@ -2900,5 +2986,5 @@
       "couponCount": 0
     }
   ],
-  "totalPosts": 649
+  "totalPosts": 651
 }
