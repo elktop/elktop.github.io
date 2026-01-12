@@ -280,5 +280,99 @@
     "promocode": "NOT REQUIRED",
     "frameset_link": "https://dorinebeaumont.com/coupon/psk9af9sqt5af0702a27965d22d478/",
     "goto_link": "https://dorinebeaumont.com/g/at2o2lug165af0702a27965d22d478/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 26156,
+      "name": "Stradivarius FR",
+      "site_url": "https://www.stradivarius.com/fr/"
+    },
+    "description": "**Free delivery over €45, only for non-discounted products from the new collection. Geo: NL",
+    "short_name": "Free delivery over €45 - only for non-discounted products from the new collection.",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2022-06-29T00:00:00",
+    "id": 465774,
+    "regions": [
+      "NL"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/9/21/26156-f8e757f68b48b11f.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      },
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Free delivery over €45 - only for non-discounted products from the new collection.",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "https://dorinebeaumont.com/coupon/vdb1v9v2xx5af0702a27965d22d478/",
+    "goto_link": "https://dorinebeaumont.com/g/7vlnp9uqdw5af0702a27965d22d478/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 26156,
+      "name": "Stradivarius FR",
+      "site_url": "https://www.stradivarius.com/fr/"
+    },
+    "description": "Free delivery over €40 - only for non-discounted products from the new collection. Geo: France",
+    "short_name": "Free delivery over €40 - only for non-discounted products from the new collection",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2022-06-29T00:00:00",
+    "id": 465773,
+    "regions": [
+      "FR"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/9/21/26156-f8e757f68b48b11f.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      },
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Free delivery over €40 - only for non-discounted products from the new collection",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "https://dorinebeaumont.com/coupon/psk9af9sqt5af0702a27965d22d478/",
+    "goto_link": "https://dorinebeaumont.com/g/at2o2lug165af0702a27965d22d478/?i=3"
   }
 ]

@@ -214,5 +214,77 @@
     "promocode": "НЕ НУЖЕН",
     "frameset_link": "https://rthsu.com/coupon/3q9wv1bgpy5af0702a2764d8a2254a/",
     "goto_link": "https://rthsu.com/g/8afvqqy6zp5af0702a2764d8a2254a/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 22964,
+      "name": "Star Conflict [CPP] Many GEOs",
+      "site_url": "https://star-conflict.com/"
+    },
+    "description": "Register in Star Conflict via this link and play absolutely for FREE",
+    "short_name": "Play in Star Conflict for FREE!",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2020-09-17T13:09:30",
+    "id": 334034,
+    "regions": [
+      "AT",
+      "AU",
+      "BE",
+      "BG",
+      "BR",
+      "CA",
+      "CH",
+      "CZ",
+      "DE",
+      "DK",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IT",
+      "JP",
+      "NL",
+      "NO",
+      "NZ",
+      "PL",
+      "PT",
+      "RO",
+      "SE",
+      "SK",
+      "TR",
+      "US"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/4/7/22964-5046104b306deff7.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 19,
+        "name": "Games"
+      }
+    ],
+    "name": "Play in Star Conflict for FREE!",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "НЕ НУЖЕН",
+    "frameset_link": "https://rthsu.com/coupon/3q9wv1bgpy5af0702a2764d8a2254a/",
+    "goto_link": "https://rthsu.com/g/8afvqqy6zp5af0702a2764d8a2254a/?i=3"
   }
 ]

@@ -397,5 +397,138 @@
     "promocode": "AMAD30",
     "frameset_link": "",
     "goto_link": "https://kpwfp.com/g/f36q952i095af0702a27fec4620825/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 127996,
+      "name": "AOMEI [CPS] WW",
+      "site_url": "https://www.aomeitech.com/"
+    },
+    "description": "",
+    "short_name": "AOMEI Backupper Lifetime  promotion,25%",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-09-30T10:47:39",
+    "id": 876870,
+    "regions": [
+      "00"
+    ],
+    "discount": "25%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/5/27/127996-f450da1da49bf0dd.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 155,
+        "name": "Summer fest"
+      }
+    ],
+    "name": "AOMEI Backupper Lifetime  promotion,25%",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "24H25OFF",
+    "frameset_link": "",
+    "goto_link": "https://kpwfp.com/g/jnmnukeov45af0702a27fec4620825/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 127996,
+      "name": "AOMEI [CPS] WW",
+      "site_url": "https://www.aomeitech.com/"
+    },
+    "description": "",
+    "short_name": "AOMEI Backupper Yearly promotion,10%",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-09-30T10:45:14",
+    "id": 876869,
+    "regions": [
+      "00"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/5/27/127996-f450da1da49bf0dd.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 155,
+        "name": "Summer fest"
+      }
+    ],
+    "name": "AOMEI Backupper Yearly promotion,10%",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "24H10OFF",
+    "frameset_link": "",
+    "goto_link": "https://kpwfp.com/g/jqxv5lm8lo5af0702a27fec4620825/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 127996,
+      "name": "AOMEI [CPS] WW",
+      "site_url": "https://www.aomeitech.com/"
+    },
+    "description": "",
+    "short_name": "AOMEI Sale, 30%",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-07-30T00:00:00",
+    "id": 863354,
+    "regions": [
+      "00"
+    ],
+    "discount": "30%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/5/27/127996-f450da1da49bf0dd.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 91,
+        "name": "11.11"
+      },
+      {
+        "id": 188,
+        "name": "11.11 & Black Friday 2025"
+      }
+    ],
+    "name": "AOMEI Sale, 30%",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "AMAD30",
+    "frameset_link": "",
+    "goto_link": "https://kpwfp.com/g/f36q952i095af0702a27fec4620825/?i=3"
   }
 ]

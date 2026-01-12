@@ -1890,5 +1890,177 @@
     "promocode": "VPN_AD",
     "frameset_link": "",
     "goto_link": "https://ntzgd.com/g/qrgha2ligt5af0702a27934d4157fe/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 132842,
+      "name": "ProHoster WW",
+      "site_url": "https://prohoster.info"
+    },
+    "description": "We offer each user:\r\n- Unlimited traffic\r\n- Free control panel\r\n- Full control over services\r\n- The ability to install your own OS\r\n- 24/7 support",
+    "short_name": "With the promo code VPS_SSD_RU, the client can get a 50% discount on the order of VPS.",
+    "exclusive": true,
+    "date_end": null,
+    "date_start": "2025-09-11T23:53:27",
+    "id": 874882,
+    "regions": [
+      "00"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/7/16/132842-d9ea6b9dab0d1842.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "With the promo code VPS_SSD_RU, the client can get a 50% discount on the order of VPS.",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "VPS_SSD_RU",
+    "frameset_link": "",
+    "goto_link": "https://ntzgd.com/g/u63nat0eb05af0702a27934d4157fe/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 132842,
+      "name": "ProHoster WW",
+      "site_url": "https://prohoster.info"
+    },
+    "description": "We offer each user:\r\n- Unlimited traffic\r\n- Free control panel\r\n- Full control over services\r\n- The ability to install your own OS\r\n- 24/7 support",
+    "short_name": "With the promo code VPS_AD, the client can get a 50% discount on the order of VPS.",
+    "exclusive": true,
+    "date_end": null,
+    "date_start": "2025-09-05T23:12:52",
+    "id": 874538,
+    "regions": [
+      "00"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/7/16/132842-d9ea6b9dab0d1842.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "With the promo code VPS_AD, the client can get a 50% discount on the order of VPS.",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "VPS_AD",
+    "frameset_link": "",
+    "goto_link": "https://ntzgd.com/g/xdthadca9j5af0702a27934d4157fe/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 132842,
+      "name": "ProHoster WW",
+      "site_url": "https://prohoster.info"
+    },
+    "description": "We offer all clients unlimited Internet hosting with a FREE website builder and selling landing pages from ProHoster.info. Also, all clients absolutely FREE receive:\r\n- Professional DDoS protection\r\n- SSL certificate\r\n- 3rd level domain\r\n- Transfer of sites from the old hosting (when transferring a site from the old host, you get a month of hosting absolutely free).",
+    "short_name": "With the promo code HOST_AD, the client can get a 50% discount on the order of shared hosting.",
+    "exclusive": true,
+    "date_end": null,
+    "date_start": "2025-09-05T16:01:10",
+    "id": 874460,
+    "regions": [
+      "00"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/7/16/132842-d9ea6b9dab0d1842.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "With the promo code HOST_AD, the client can get a 50% discount on the order of shared hosting.",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "HOST_AD",
+    "frameset_link": "",
+    "goto_link": "https://ntzgd.com/g/dsje3xttya5af0702a27934d4157fe/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 132842,
+      "name": "ProHoster WW",
+      "site_url": "https://prohoster.info"
+    },
+    "description": "With our VPN you will receive:\r\n- Access to your favorite websites\r\n- 50+ locations\r\n- Openvpn UDP/TCP, IKEv2, L2TP/IPsec, PPTP\r\n- P2P allowed\r\n- No logs\r\n- High connection speed without restrictions.",
+    "short_name": "With the promo code VPN_AD, the client can get a 50% discount on the order of the VPN service.",
+    "exclusive": true,
+    "date_end": null,
+    "date_start": "2025-09-05T15:54:55",
+    "id": 874459,
+    "regions": [
+      "00"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/7/16/132842-d9ea6b9dab0d1842.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "With the promo code VPN_AD, the client can get a 50% discount on the order of the VPN service.",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "VPN_AD",
+    "frameset_link": "",
+    "goto_link": "https://ntzgd.com/g/qrgha2ligt5af0702a27934d4157fe/?i=3"
   }
 ]

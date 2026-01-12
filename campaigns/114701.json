@@ -127,5 +127,48 @@
     "promocode": "HS10",
     "frameset_link": "",
     "goto_link": "https://cafxq.com/g/9wvx28jaks5af0702a2728a65238d7/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 114701,
+      "name": "Homestyler WW",
+      "site_url": "https://www.homestyler.com/"
+    },
+    "description": "- for the All-in-one Interior Design Service at Homestyler.\r\n- Usage restrictions: Applies in addition to the monthly subscription.",
+    "short_name": "Extra 10% Off",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-02-19T10:50:08",
+    "id": 834735,
+    "regions": [
+      "00"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/1/9/114701-eaaa963c5e2ae236.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "Extra 10% Off",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "HS10",
+    "frameset_link": "",
+    "goto_link": "https://cafxq.com/g/9wvx28jaks5af0702a2728a65238d7/?i=3"
   }
 ]

@@ -562,5 +562,193 @@
     "promocode": "NOT REQUIRED",
     "frameset_link": "https://qwpeg.com/coupon/16ug3y7bve5af0702a27c8dbeb8f0d/",
     "goto_link": "https://qwpeg.com/g/vk5v99exrb5af0702a27c8dbeb8f0d/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 24287,
+      "name": "Noracora WW",
+      "site_url": "https://noracora.com/"
+    },
+    "description": "",
+    "short_name": "Free Gift for order over $79",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-04-05T16:25:26",
+    "id": 683656,
+    "regions": [
+      "00"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/2/26/24287-ff8b06f448b60cfe.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      },
+      {
+        "id": 4,
+        "name": "Shoes"
+      },
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Free Gift for order over $79",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "https://qwpeg.com/coupon/zmta1p21c25af0702a27c8dbeb8f0d/",
+    "goto_link": "https://qwpeg.com/g/oaskkk02j85af0702a27c8dbeb8f0d/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 24287,
+      "name": "Noracora WW",
+      "site_url": "https://noracora.com/"
+    },
+    "description": "",
+    "short_name": "10% OFF for NEW",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-04-05T16:24:25",
+    "id": 683652,
+    "regions": [
+      "00"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/2/26/24287-ff8b06f448b60cfe.png",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      },
+      {
+        "id": 4,
+        "name": "Shoes"
+      },
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "10% OFF for NEW",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "10NC",
+    "frameset_link": "https://qwpeg.com/coupon/glips8f7kv5af0702a27c8dbeb8f0d/",
+    "goto_link": "https://qwpeg.com/g/vc2bdb98w65af0702a27c8dbeb8f0d/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 24287,
+      "name": "Noracora WW",
+      "site_url": "https://noracora.com/"
+    },
+    "description": "",
+    "short_name": "Free standard shipping for orders over $89",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-08-03T18:29:52",
+    "id": 568681,
+    "regions": [
+      "00"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/2/26/24287-ff8b06f448b60cfe.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Free standard shipping for orders over $89",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "https://qwpeg.com/coupon/se13uwjjp55af0702a27c8dbeb8f0d/",
+    "goto_link": "https://qwpeg.com/g/ricxlrch4b5af0702a27c8dbeb8f0d/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 24287,
+      "name": "Noracora WW",
+      "site_url": "https://noracora.com/"
+    },
+    "description": "",
+    "short_name": "Up to 50% off on your 1st purchase",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-07-25T13:34:28",
+    "id": 560659,
+    "regions": [
+      "00"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/2/26/24287-ff8b06f448b60cfe.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Up to 50% off on your 1st purchase",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "https://qwpeg.com/coupon/16ug3y7bve5af0702a27c8dbeb8f0d/",
+    "goto_link": "https://qwpeg.com/g/vk5v99exrb5af0702a27c8dbeb8f0d/?i=3"
   }
 ]

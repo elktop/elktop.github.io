@@ -3094,5 +3094,1037 @@
     "promocode": "NOT REQUIRE",
     "frameset_link": "",
     "goto_link": "https://ntzgd.com/g/uneu75e0en5af0702a2745cfa0a3aa/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 130741,
+      "name": "Corsair WW",
+      "site_url": "https://corsair.com"
+    },
+    "description": "ALL European markets deal - Use code EE-WINTER20 to save 20% off Full Priced PC components between 26th Dec - 30th Dec. T&Cs: Memory, Storage, Systems, Monitors, Furniture and Gaming peripherals are not part of this deal.",
+    "short_name": "Use code EE-WINTER20 to save 20% off Components at Corsair",
+    "exclusive": false,
+    "date_end": "2026-12-30T23:59:00",
+    "date_start": "2025-12-26T00:00:00",
+    "id": 893411,
+    "regions": [
+      "00"
+    ],
+    "discount": "20%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/10/27/130741-4902ff414d2f0ee9.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Use code EE-WINTER20 to save 20% off Components at Corsair",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "EE-WINTER20",
+    "frameset_link": "",
+    "goto_link": "https://ntzgd.com/g/ay6rkc48aj5af0702a2745cfa0a3aa/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 130741,
+      "name": "Corsair WW",
+      "site_url": "https://corsair.com"
+    },
+    "description": "50% discount will apply to 1 item from Keyboard, Mice, Mouse Pad, Headsets and Ambient Lighting",
+    "short_name": "Buy a Gaming PC and Receive 50% off Gaming Peripherals",
+    "exclusive": false,
+    "date_end": "2027-01-01T00:00:00",
+    "date_start": "2025-10-27T00:00:00",
+    "id": 880499,
+    "regions": [
+      "US"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/10/27/130741-4902ff414d2f0ee9.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Buy a Gaming PC and Receive 50% off Gaming Peripherals",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "BOGO50",
+    "frameset_link": "",
+    "goto_link": "https://ntzgd.com/g/zjfjm79j015af0702a2745cfa0a3aa/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 130741,
+      "name": "Corsair WW",
+      "site_url": "https://corsair.com"
+    },
+    "description": null,
+    "short_name": "Buy a Computer Case and receive 10% off orders over $250",
+    "exclusive": false,
+    "date_end": "2027-01-01T00:00:00",
+    "date_start": "2025-10-27T00:00:00",
+    "id": 880498,
+    "regions": [
+      "US"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/10/27/130741-4902ff414d2f0ee9.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Buy a Computer Case and receive 10% off orders over $250",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRE",
+    "frameset_link": "",
+    "goto_link": "https://ntzgd.com/g/tcua0u6mtw5af0702a2745cfa0a3aa/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 130741,
+      "name": "Corsair WW",
+      "site_url": "https://corsair.com"
+    },
+    "description": null,
+    "short_name": "Up to 40% off on Corsair's Weekly Deals",
+    "exclusive": false,
+    "date_end": "2027-01-01T00:00:00",
+    "date_start": "2025-10-27T00:00:00",
+    "id": 880497,
+    "regions": [
+      "US"
+    ],
+    "discount": "40%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/10/27/130741-4902ff414d2f0ee9.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Up to 40% off on Corsair's Weekly Deals",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRE",
+    "frameset_link": "",
+    "goto_link": "https://ntzgd.com/g/h1ar9tba9u5af0702a2745cfa0a3aa/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 130741,
+      "name": "Corsair WW",
+      "site_url": "https://corsair.com"
+    },
+    "description": null,
+    "short_name": "Corsair 63% off VIRTUOSO RGB WIRELESS XT",
+    "exclusive": false,
+    "date_end": "2027-01-01T00:00:00",
+    "date_start": "2025-10-27T00:00:00",
+    "id": 880496,
+    "regions": [
+      "US"
+    ],
+    "discount": "63%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/10/27/130741-4902ff414d2f0ee9.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Corsair 63% off VIRTUOSO RGB WIRELESS XT",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRE",
+    "frameset_link": "",
+    "goto_link": "https://ntzgd.com/g/hqnbn2w9e85af0702a2745cfa0a3aa/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 130741,
+      "name": "Corsair WW",
+      "site_url": "https://corsair.com"
+    },
+    "description": null,
+    "short_name": "Corsair M75 WIRELESS Lightweight RGB Gaming Mouse",
+    "exclusive": false,
+    "date_end": "2027-01-01T00:00:00",
+    "date_start": "2025-10-27T00:00:00",
+    "id": 880495,
+    "regions": [
+      "US"
+    ],
+    "discount": "73%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/10/27/130741-4902ff414d2f0ee9.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Corsair M75 WIRELESS Lightweight RGB Gaming Mouse",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRE",
+    "frameset_link": "",
+    "goto_link": "https://ntzgd.com/g/qui3b8uj015af0702a2745cfa0a3aa/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 130741,
+      "name": "Corsair WW",
+      "site_url": "https://corsair.com"
+    },
+    "description": null,
+    "short_name": "Corsair HS80 RGB WIRELESS Premium Gaming Headset",
+    "exclusive": false,
+    "date_end": "2027-01-01T00:00:00",
+    "date_start": "2025-10-27T00:00:00",
+    "id": 880494,
+    "regions": [
+      "US"
+    ],
+    "discount": "60%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/10/27/130741-4902ff414d2f0ee9.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Corsair HS80 RGB WIRELESS Premium Gaming Headset",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRE",
+    "frameset_link": "",
+    "goto_link": "https://ntzgd.com/g/1rxkksvzkz5af0702a2745cfa0a3aa/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 130741,
+      "name": "Corsair WW",
+      "site_url": "https://corsair.com"
+    },
+    "description": null,
+    "short_name": "Corsair VIRTUOSO RGB WIRELESS XT High-Fidelity Gaming Headset Slate (Revival Series)",
+    "exclusive": false,
+    "date_end": "2027-01-01T00:00:00",
+    "date_start": "2025-10-27T00:00:00",
+    "id": 880493,
+    "regions": [
+      "US"
+    ],
+    "discount": "57%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/10/27/130741-4902ff414d2f0ee9.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Corsair VIRTUOSO RGB WIRELESS XT High-Fidelity Gaming Headset Slate (Revival Series)",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRE",
+    "frameset_link": "",
+    "goto_link": "https://ntzgd.com/g/ygwa3jauc05af0702a2745cfa0a3aa/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 130741,
+      "name": "Corsair WW",
+      "site_url": "https://corsair.com"
+    },
+    "description": null,
+    "short_name": "Corsair M75 WIRELESS Lightweight RGB Gaming Mouse, Black (Revival Series)",
+    "exclusive": false,
+    "date_end": "2027-01-01T00:00:00",
+    "date_start": "2025-10-27T00:00:00",
+    "id": 880492,
+    "regions": [
+      "US"
+    ],
+    "discount": "73%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/10/27/130741-4902ff414d2f0ee9.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Corsair M75 WIRELESS Lightweight RGB Gaming Mouse, Black (Revival Series)",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRE",
+    "frameset_link": "",
+    "goto_link": "https://ntzgd.com/g/6i0wvos9um5af0702a2745cfa0a3aa/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 130741,
+      "name": "Corsair WW",
+      "site_url": "https://corsair.com"
+    },
+    "description": null,
+    "short_name": "Corsair HS80 MAX WIRELESS Gaming Headset, Steel Gray (Revival Series)",
+    "exclusive": false,
+    "date_end": "2027-01-01T00:00:00",
+    "date_start": "2025-10-27T00:00:00",
+    "id": 880491,
+    "regions": [
+      "US"
+    ],
+    "discount": "56%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/10/27/130741-4902ff414d2f0ee9.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Corsair HS80 MAX WIRELESS Gaming Headset, Steel Gray (Revival Series)",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRE",
+    "frameset_link": "",
+    "goto_link": "https://ntzgd.com/g/u38ntv8mav5af0702a2745cfa0a3aa/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 130741,
+      "name": "Corsair WW",
+      "site_url": "https://corsair.com"
+    },
+    "description": null,
+    "short_name": "Corsair K70 CORE RGB Mechanical Gaming Keyboard Steel Grey (Revival Series)",
+    "exclusive": false,
+    "date_end": "2027-01-01T00:00:00",
+    "date_start": "2025-10-27T00:00:00",
+    "id": 880490,
+    "regions": [
+      "US"
+    ],
+    "discount": "40%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/10/27/130741-4902ff414d2f0ee9.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Corsair K70 CORE RGB Mechanical Gaming Keyboard Steel Grey (Revival Series)",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRE",
+    "frameset_link": "",
+    "goto_link": "https://ntzgd.com/g/bdv4tub5975af0702a2745cfa0a3aa/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 130741,
+      "name": "Corsair WW",
+      "site_url": "https://corsair.com"
+    },
+    "description": null,
+    "short_name": "Corsair K100 RGB Optical-Mechanical Gaming Keyboard CORSAIR OPX Switch Black (Revival Series)",
+    "exclusive": false,
+    "date_end": "2027-01-01T00:00:00",
+    "date_start": "2025-10-27T00:00:00",
+    "id": 880489,
+    "regions": [
+      "US"
+    ],
+    "discount": "60%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/10/27/130741-4902ff414d2f0ee9.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Corsair K100 RGB Optical-Mechanical Gaming Keyboard CORSAIR OPX Switch Black (Revival Series)",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRE",
+    "frameset_link": "",
+    "goto_link": "https://ntzgd.com/g/4t45y3u2vi5af0702a2745cfa0a3aa/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 130741,
+      "name": "Corsair WW",
+      "site_url": "https://corsair.com"
+    },
+    "description": null,
+    "short_name": "Corsair HARPOON RGB WIRELESS Gaming Mouse (Revival Series)",
+    "exclusive": false,
+    "date_end": "2027-01-01T00:00:00",
+    "date_start": "2025-10-27T00:00:00",
+    "id": 880488,
+    "regions": [
+      "US"
+    ],
+    "discount": "67%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/10/27/130741-4902ff414d2f0ee9.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Corsair HARPOON RGB WIRELESS Gaming Mouse (Revival Series)",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRE",
+    "frameset_link": "",
+    "goto_link": "https://ntzgd.com/g/07t0urmjka5af0702a2745cfa0a3aa/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 130741,
+      "name": "Corsair WW",
+      "site_url": "https://corsair.com"
+    },
+    "description": null,
+    "short_name": "Corsair K65 PRO MINI RGB 65% Optical-Mechanical Gaming Keyboard (Revival Series)",
+    "exclusive": false,
+    "date_end": "2027-01-01T00:00:00",
+    "date_start": "2025-10-27T00:00:00",
+    "id": 880487,
+    "regions": [
+      "US"
+    ],
+    "discount": "62%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/10/27/130741-4902ff414d2f0ee9.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Corsair K65 PRO MINI RGB 65% Optical-Mechanical Gaming Keyboard (Revival Series)",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRE",
+    "frameset_link": "",
+    "goto_link": "https://ntzgd.com/g/kc9b4nkk265af0702a2745cfa0a3aa/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 130741,
+      "name": "Corsair WW",
+      "site_url": "https://corsair.com"
+    },
+    "description": null,
+    "short_name": "Corsair KATAR PRO Ultra-Light Gaming Mouse (Revival Series)",
+    "exclusive": false,
+    "date_end": "2027-01-01T00:00:00",
+    "date_start": "2025-10-27T00:00:00",
+    "id": 880486,
+    "regions": [
+      "US"
+    ],
+    "discount": "33%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/10/27/130741-4902ff414d2f0ee9.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Corsair KATAR PRO Ultra-Light Gaming Mouse (Revival Series)",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRE",
+    "frameset_link": "",
+    "goto_link": "https://ntzgd.com/g/e6d4io5v795af0702a2745cfa0a3aa/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 130741,
+      "name": "Corsair WW",
+      "site_url": "https://corsair.com"
+    },
+    "description": null,
+    "short_name": "Corsair HS35 v2 Multiplatform Gaming Headset  Blue (Revival Series)",
+    "exclusive": false,
+    "date_end": "2027-01-01T00:00:00",
+    "date_start": "2025-10-27T00:00:00",
+    "id": 880485,
+    "regions": [
+      "US"
+    ],
+    "discount": "60%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/10/27/130741-4902ff414d2f0ee9.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Corsair HS35 v2 Multiplatform Gaming Headset  Blue (Revival Series)",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRE",
+    "frameset_link": "",
+    "goto_link": "https://ntzgd.com/g/thgulquxef5af0702a2745cfa0a3aa/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 130741,
+      "name": "Corsair WW",
+      "site_url": "https://corsair.com"
+    },
+    "description": null,
+    "short_name": "Corsair VOID RGB ELITE Wireless Premium Gaming Headset",
+    "exclusive": false,
+    "date_end": "2027-01-01T00:00:00",
+    "date_start": "2025-10-27T00:00:00",
+    "id": 880484,
+    "regions": [
+      "US"
+    ],
+    "discount": "64%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/10/27/130741-4902ff414d2f0ee9.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Corsair VOID RGB ELITE Wireless Premium Gaming Headset",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRE",
+    "frameset_link": "",
+    "goto_link": "https://ntzgd.com/g/9teczxzs0w5af0702a2745cfa0a3aa/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 130741,
+      "name": "Corsair WW",
+      "site_url": "https://corsair.com"
+    },
+    "description": null,
+    "short_name": "The Dark Ages Keyboard, Desk Mat, and Mouse Bundle",
+    "exclusive": false,
+    "date_end": "2027-01-01T00:00:00",
+    "date_start": "2025-10-27T00:00:00",
+    "id": 880483,
+    "regions": [
+      "US"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/10/27/130741-4902ff414d2f0ee9.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "The Dark Ages Keyboard, Desk Mat, and Mouse Bundle",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRE",
+    "frameset_link": "",
+    "goto_link": "https://ntzgd.com/g/7krqhzecbn5af0702a2745cfa0a3aa/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 130741,
+      "name": "Corsair WW",
+      "site_url": "https://corsair.com"
+    },
+    "description": null,
+    "short_name": "Corsair DOOM The Dark Ages 4-piece Gaming Peripherals Bundle",
+    "exclusive": false,
+    "date_end": "2027-01-01T00:00:00",
+    "date_start": "2025-10-27T00:00:00",
+    "id": 880482,
+    "regions": [
+      "US"
+    ],
+    "discount": "15%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/10/27/130741-4902ff414d2f0ee9.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Corsair DOOM The Dark Ages 4-piece Gaming Peripherals Bundle",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRE",
+    "frameset_link": "",
+    "goto_link": "https://ntzgd.com/g/de9u1lx3w35af0702a2745cfa0a3aa/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 130741,
+      "name": "Corsair WW",
+      "site_url": "https://corsair.com"
+    },
+    "description": null,
+    "short_name": "Corsair DOOM The Dark Ages 8-Piece Bundle",
+    "exclusive": false,
+    "date_end": "2027-01-01T00:00:00",
+    "date_start": "2025-10-27T00:00:00",
+    "id": 880481,
+    "regions": [
+      "US"
+    ],
+    "discount": "15%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/10/27/130741-4902ff414d2f0ee9.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Corsair DOOM The Dark Ages 8-Piece Bundle",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRE",
+    "frameset_link": "",
+    "goto_link": "https://ntzgd.com/g/y7je16bo335af0702a2745cfa0a3aa/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 130741,
+      "name": "Corsair WW",
+      "site_url": "https://corsair.com"
+    },
+    "description": null,
+    "short_name": "Corsair DOOM The Dark Ages Keyboard, Desk Mat, and Stream Deck Bundle",
+    "exclusive": false,
+    "date_end": "2027-01-01T00:00:00",
+    "date_start": "2025-10-27T00:00:00",
+    "id": 880480,
+    "regions": [
+      "US"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/10/27/130741-4902ff414d2f0ee9.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Corsair DOOM The Dark Ages Keyboard, Desk Mat, and Stream Deck Bundle",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRE",
+    "frameset_link": "",
+    "goto_link": "https://ntzgd.com/g/nmnzicqd6c5af0702a2745cfa0a3aa/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 130741,
+      "name": "Corsair WW",
+      "site_url": "https://corsair.com"
+    },
+    "description": null,
+    "short_name": "Corsair K55 RGB PRO Gaming Keyboard (Revival Series)",
+    "exclusive": false,
+    "date_end": "2027-01-01T00:00:00",
+    "date_start": "2025-10-27T00:00:00",
+    "id": 880479,
+    "regions": [
+      "US"
+    ],
+    "discount": "67%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/10/27/130741-4902ff414d2f0ee9.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Corsair K55 RGB PRO Gaming Keyboard (Revival Series)",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRE",
+    "frameset_link": "",
+    "goto_link": "https://ntzgd.com/g/geomtlnkck5af0702a2745cfa0a3aa/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 130741,
+      "name": "Corsair WW",
+      "site_url": "https://corsair.com"
+    },
+    "description": null,
+    "short_name": "Corsair HS55 WIRELESS CORE Gaming Headset (Revival Series)",
+    "exclusive": false,
+    "date_end": "2027-01-01T00:00:00",
+    "date_start": "2025-10-27T00:00:00",
+    "id": 880478,
+    "regions": [
+      "US"
+    ],
+    "discount": "80%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/10/27/130741-4902ff414d2f0ee9.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Corsair HS55 WIRELESS CORE Gaming Headset (Revival Series)",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRE",
+    "frameset_link": "",
+    "goto_link": "https://ntzgd.com/g/59vvq83h1o5af0702a2745cfa0a3aa/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 130741,
+      "name": "Corsair WW",
+      "site_url": "https://corsair.com"
+    },
+    "description": null,
+    "short_name": "Corsair HS55 WIRELESS Gaming Headset Carbon (Revival Series)",
+    "exclusive": false,
+    "date_end": "2027-01-01T00:00:00",
+    "date_start": "2025-10-27T00:00:00",
+    "id": 880477,
+    "regions": [
+      "US"
+    ],
+    "discount": "80%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/10/27/130741-4902ff414d2f0ee9.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Corsair HS55 WIRELESS Gaming Headset Carbon (Revival Series)",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRE",
+    "frameset_link": "",
+    "goto_link": "https://ntzgd.com/g/uneu75e0en5af0702a2745cfa0a3aa/?i=3"
   }
 ]

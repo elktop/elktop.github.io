@@ -115,5 +115,44 @@
     "promocode": "SLEEP15",
     "frameset_link": "",
     "goto_link": "https://tywhh.com/g/ruckpap4365af0702a273f9789bf0e/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 146096,
+      "name": "Aurabits Many GEOs",
+      "site_url": "https://aurabits.shop/"
+    },
+    "description": "",
+    "short_name": "Save 15% on Sleep Kit",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-11-25T13:33:38",
+    "id": 884707,
+    "regions": [
+      "GB",
+      "US"
+    ],
+    "discount": "15%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/10/30/146096-879afbd17264fd64.svg",
+    "species": "promocode",
+    "categories": [],
+    "name": "Save 15% on Sleep Kit",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "SLEEP15",
+    "frameset_link": "",
+    "goto_link": "https://tywhh.com/g/ruckpap4365af0702a273f9789bf0e/?i=3"
   }
 ]

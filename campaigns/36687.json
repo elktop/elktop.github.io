@@ -166,5 +166,61 @@
     "promocode": "NOT REQUIRED",
     "frameset_link": "",
     "goto_link": "https://ficca2021.com/g/5w9ljoiuz85af0702a27f3199c6ed1/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 36687,
+      "name": "Reebok UAE promo codes & links",
+      "site_url": "https://www.reebok.ae/"
+    },
+    "description": "",
+    "short_name": "Free delivery in UAE on purchase above 250 AED",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-01-11T10:35:40",
+    "id": 623807,
+    "regions": [
+      "AE",
+      "BH",
+      "KW",
+      "OM",
+      "QA",
+      "SA"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/7/19/36687-01ed7683018ccecd.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 4,
+        "name": "Shoes"
+      },
+      {
+        "id": 5,
+        "name": "Clothing"
+      },
+      {
+        "id": 6,
+        "name": "Sports & Recreation"
+      }
+    ],
+    "name": "Free delivery in UAE on purchase above 250 AED",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "",
+    "goto_link": "https://ficca2021.com/g/5w9ljoiuz85af0702a27f3199c6ed1/?i=3"
   }
 ]

@@ -289,5 +289,102 @@
     "promocode": "APP15",
     "frameset_link": "https://rkdro.com/coupon/o3qk70d1o15af0702a273a63fe0dac/",
     "goto_link": "https://rkdro.com/g/3up6hgntl15af0702a273a63fe0dac/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 17400,
+      "name": "Mamasandpapas AE SA KW Offline codes & Links",
+      "site_url": "https://mamasandpapas.ae/"
+    },
+    "description": "Applicable on Selected Lines",
+    "short_name": "Eid Super Sale: 30-50% Off on Everything",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-05-30T13:19:37",
+    "id": 762709,
+    "regions": [
+      "AE",
+      "KW",
+      "SA"
+    ],
+    "discount": "30%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/4/12/17400-10d8c840d9f1a9f9.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 1,
+        "name": "Toys, Kids & Babies"
+      }
+    ],
+    "name": "Eid Super Sale: 30-50% Off on Everything",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "https://rkdro.com/coupon/jdk1feaumg5af0702a273a63fe0dac/",
+    "goto_link": "https://rkdro.com/g/u4ntjmxzsn5af0702a273a63fe0dac/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 17400,
+      "name": "Mamasandpapas AE SA KW Offline codes & Links",
+      "site_url": "https://mamasandpapas.ae/"
+    },
+    "description": "",
+    "short_name": "Get 15% Off on your First App Purchase",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-08-07T10:15:39",
+    "id": 569432,
+    "regions": [
+      "AE",
+      "BH",
+      "KW",
+      "OM",
+      "QA",
+      "SA"
+    ],
+    "discount": "15%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/4/12/17400-10d8c840d9f1a9f9.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 1,
+        "name": "Toys, Kids & Babies"
+      },
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Get 15% Off on your First App Purchase",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "APP15",
+    "frameset_link": "https://rkdro.com/coupon/o3qk70d1o15af0702a273a63fe0dac/",
+    "goto_link": "https://rkdro.com/g/3up6hgntl15af0702a273a63fe0dac/?i=3"
   }
 ]

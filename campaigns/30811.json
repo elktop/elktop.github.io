@@ -127,5 +127,48 @@
     "promocode": "NOT REQUIRED",
     "frameset_link": "https://rzekl.com/coupon/fc1di2kvub5af0702a27a0e6d6c1fa/",
     "goto_link": "https://rzekl.com/g/jajpm2ayqx5af0702a27a0e6d6c1fa/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 30811,
+      "name": "Emirates Draw CPS Many Geos",
+      "site_url": "https://emiratesdraw.com/"
+    },
+    "description": "Live the MEGA millionaire live! Win 100 MLN in Mega 7 draw!",
+    "short_name": "WIN 100 000 000 AED in Mega 7 !",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-01-29T16:28:13",
+    "id": 627808,
+    "regions": [
+      "00"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 3,
+        "name": "Gift for an order"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/2/28/30811-64f1087d2c5db5f5.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 19,
+        "name": "Games"
+      }
+    ],
+    "name": "WIN 100 000 000 AED in Mega 7 !",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "https://rzekl.com/coupon/fc1di2kvub5af0702a27a0e6d6c1fa/",
+    "goto_link": "https://rzekl.com/g/jajpm2ayqx5af0702a27a0e6d6c1fa/?i=3"
   }
 ]

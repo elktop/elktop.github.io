@@ -213,5 +213,48 @@
     "promocode": "DISZKONT5",
     "frameset_link": "",
     "goto_link": "https://vxrlm.com/g/ke742tnvdn5af0702a277eaf385c59/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 42148,
+      "name": "Travelking PL & HU",
+      "site_url": "https://travelking.pl/"
+    },
+    "description": "",
+    "short_name": "5% discount (HU geo)",
+    "exclusive": true,
+    "date_end": "2026-06-30T23:59:00",
+    "date_start": "2026-01-01T00:00:00",
+    "id": 892855,
+    "regions": [
+      "HU"
+    ],
+    "discount": "5%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/11/1/42148-acc3e8710ac31851.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 12,
+        "name": "Tours & Travels"
+      }
+    ],
+    "name": "5% discount (HU geo)",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "DISZKONT5",
+    "frameset_link": "",
+    "goto_link": "https://vxrlm.com/g/ke742tnvdn5af0702a277eaf385c59/?i=3"
   }
 ]

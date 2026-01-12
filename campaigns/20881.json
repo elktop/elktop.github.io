@@ -187,5 +187,68 @@
     "promocode": "NOT REQUIRED",
     "frameset_link": "https://rzekl.com/coupon/d539pqg7rh5af0702a27219aa26f6f/",
     "goto_link": "https://rzekl.com/g/cknugekxem5af0702a27219aa26f6f/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.15",
+    "campaign": {
+      "id": 20881,
+      "name": "Alibaba WW",
+      "site_url": "https://www.alibaba.com/"
+    },
+    "description": "Alibaba Guaranteed products. Over 80% below retail price with spotlight on other savings. First-time users of Alibaba Guaranteed products in the United States can enjoy additional benefit of free shipping (capped at $20).\r\n\r\nType: Special promotion\r\n\r\nCategories: ALL\r\n\r\nRegion: NO,NZ,SK,PT,CZ,HU,GR,RO,IE,BG,HR,RS,AL,LT,BA,IS,LV,EE,MK,SI,AD,LU,MD,MT,GL,AM,ME,MC,GI,FO,GG,LI,VN,TH,ID,PH,SG,JP,KR",
+    "short_name": "Saving Spotlight (over 80% below retail price)",
+    "exclusive": false,
+    "date_end": "2029-06-13T23:59:00",
+    "date_start": "2024-08-05T00:00:00",
+    "id": 780334,
+    "regions": [
+      "AT",
+      "AU",
+      "BE",
+      "CA",
+      "CH",
+      "DE",
+      "ES",
+      "FR",
+      "GB",
+      "IT",
+      "MX",
+      "NL",
+      "US"
+    ],
+    "discount": "80%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2020/11/2/20881-ff9430e87ffe5736.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      },
+      {
+        "id": 7,
+        "name": "Homeware"
+      },
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Saving Spotlight (over 80% below retail price)",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "https://rzekl.com/coupon/d539pqg7rh5af0702a27219aa26f6f/",
+    "goto_link": "https://rzekl.com/g/cknugekxem5af0702a27219aa26f6f/?i=3"
   }
 ]

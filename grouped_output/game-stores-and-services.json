@@ -113,7 +113,7 @@
       "cashback_link_data": null
     },
     "discountCount": 0,
-    "couponCount": 3
+    "couponCount": 4
   },
   {
     "site_url": "https://steamgold.ru/",
@@ -319,7 +319,7 @@
       "cashback_link_data": null
     },
     "discountCount": 0,
-    "couponCount": 3
+    "couponCount": 4
   },
   {
     "site_url": "https://www.gamepark.ru/",
@@ -929,6 +929,49 @@
     },
     "affiliate": {
       "goto_link": "https://xmknb.com/g/rg6cdc51vu5af0702a27904614434c/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://zaka-zaka.com",
+    "name": "Zaka-zaka [CPS] RU + CIS",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/12/24/159044-f047d24fcbf52df3.svg",
+    "categories": [
+      {
+        "name": "Online Games",
+        "id": 6,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Game Stores and Services",
+        "id": 214,
+        "language": "en",
+        "parent": {
+          "name": "Online Games",
+          "id": 6,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 159044,
+    "category": {
+      "name": "Game Stores and Services",
+      "id": 214,
+      "language": "en",
+      "parent": {
+        "name": "Online Games",
+        "id": 6,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://heqgr.com/g/6znf8911en5af0702a277b456b25e2/?erid=2bL9aMPo2e49hMef4rqy6bZVTY",
       "landings": [],
       "cashback_link_data": null
     },
