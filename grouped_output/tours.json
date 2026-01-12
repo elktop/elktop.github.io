@@ -2,7 +2,6 @@
   {
     "site_url": "https://travelking.pl/",
     "name": "Travelking PL & HU",
-    "img": "platform/42148.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/11/1/42148-acc3e8710ac31851.svg",
     "categories": [
       {
@@ -63,12 +62,11 @@
       "cashback_link_data": null
     },
     "discountCount": 0,
-    "couponCount": 4
+    "couponCount": 5
   },
   {
     "site_url": "https://tickets.ua/",
     "name": "Tickets [CPS] UA",
-    "img": "platform/13903.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/29/13903-b220728043a7dbfd.svg",
     "categories": [
       {

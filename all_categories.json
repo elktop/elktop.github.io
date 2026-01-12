@@ -2,26 +2,31 @@
   {
     "label": "Package Holidays",
     "value": "package-holidays",
-    "count": 7
+    "count": 8
   },
   {
     "label": "Buses",
     "value": "buses",
-    "count": 1
+    "count": 2
   },
   {
     "label": "Flights",
     "value": "flights",
-    "count": 9
+    "count": 11
   },
   {
     "label": "Hotels",
     "value": "hotels",
-    "count": 11
+    "count": 12
   },
   {
     "label": "Trains",
     "value": "trains",
+    "count": 1
+  },
+  {
+    "label": "Metasearch Engines",
+    "value": "metasearch-engines",
     "count": 1
   },
   {
@@ -37,12 +42,12 @@
   {
     "label": "Vacation Rentals",
     "value": "vacation-rentals",
-    "count": 1
+    "count": 2
   },
   {
     "label": "Car Rentals",
     "value": "car-rentals",
-    "count": 7
+    "count": 8
   },
   {
     "label": "Pets",
@@ -52,27 +57,27 @@
   {
     "label": "Marketplaces (including Chinese Stores)",
     "value": "marketplaces-including-chinese-stores",
-    "count": 13
+    "count": 15
   },
   {
     "label": "Books",
     "value": "books",
-    "count": 6
+    "count": 7
   },
   {
     "label": "Personal Care & Pharmacy",
     "value": "personal-care-pharmacy",
-    "count": 47
+    "count": 52
   },
   {
     "label": "Food & Food delivery",
     "value": "food-food-delivery",
-    "count": 9
+    "count": 10
   },
   {
     "label": "Adult",
     "value": "adult",
-    "count": 4
+    "count": 3
   },
   {
     "label": "Car & Bike Accessories",
@@ -82,7 +87,7 @@
   {
     "label": "Hobby & Stationery",
     "value": "hobby-stationery",
-    "count": 11
+    "count": 12
   },
   {
     "label": "Toys, Kids & Babies",
@@ -97,12 +102,12 @@
   {
     "label": "Furniture & Homeware",
     "value": "furniture-homeware",
-    "count": 21
+    "count": 22
   },
   {
     "label": "Household Appliances & Electronics",
     "value": "household-appliances-electronics",
-    "count": 48
+    "count": 55
   },
   {
     "label": "Jewelry & Luxury Goods",
@@ -117,7 +122,7 @@
   {
     "label": "Cars & Bikes",
     "value": "cars-bikes",
-    "count": 6
+    "count": 7
   },
   {
     "label": "Sports & Outdoor",
@@ -137,12 +142,12 @@
   {
     "label": "Clothing, Footwear, Accessories",
     "value": "clothing-footwear-accessories",
-    "count": 101
+    "count": 103
   },
   {
     "label": "Fitness",
     "value": "fitness",
-    "count": 4
+    "count": 5
   },
   {
     "label": "Transportation services",
@@ -157,12 +162,12 @@
   {
     "label": "Other Services",
     "value": "other-services",
-    "count": 30
+    "count": 31
   },
   {
     "label": "Online Education",
     "value": "online-education",
-    "count": 49
+    "count": 52
   },
   {
     "label": "Art & Collecting",
@@ -172,7 +177,7 @@
   {
     "label": "Event Tickets & Entertainments",
     "value": "event-tickets-entertainments",
-    "count": 6
+    "count": 8
   },
   {
     "label": "Jobs and freelance",
@@ -192,12 +197,12 @@
   {
     "label": "Dating Services",
     "value": "dating-services",
-    "count": 2
+    "count": 3
   },
   {
     "label": "IT Services & Soft",
     "value": "it-services-soft",
-    "count": 35
+    "count": 37
   },
   {
     "label": "News and Media",
@@ -207,12 +212,12 @@
   {
     "label": "Cars",
     "value": "cars",
-    "count": 1
+    "count": 2
   },
   {
     "label": "Telecommunications",
     "value": "telecommunications",
-    "count": 5
+    "count": 6
   },
   {
     "label": "Online Food Delivery",

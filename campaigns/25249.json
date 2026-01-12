@@ -170,5 +170,91 @@
     "promocode": "NOT REQUIRED",
     "frameset_link": "https://grfpr.com/coupon/g7onrn9taq5af0702a27ddf84d4c0b/",
     "goto_link": "https://grfpr.com/g/7p7ztf27j65af0702a27ddf84d4c0b/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 25249,
+      "name": "TurboVPN WW",
+      "site_url": "https://turbovpn.com/"
+    },
+    "description": "Promo code is not required. The link contains the discount.",
+    "short_name": "Save 58% for 12 Months Plan",
+    "exclusive": true,
+    "date_end": null,
+    "date_start": "2025-05-26T06:34:03",
+    "id": 851695,
+    "regions": [
+      "00"
+    ],
+    "discount": "58%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/9/24/25249-37aa6fea5015e46e.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Save 58% for 12 Months Plan",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "https://grfpr.com/coupon/4zbv4hvhsj5af0702a27ddf84d4c0b/",
+    "goto_link": "https://grfpr.com/g/qtk9r1ypxa5af0702a27ddf84d4c0b/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 25249,
+      "name": "TurboVPN WW",
+      "site_url": "https://turbovpn.com/"
+    },
+    "description": "Promo code is not required. The link contains the discount.",
+    "short_name": "Save 72% + 3 Months for 24 Months Plan",
+    "exclusive": true,
+    "date_end": null,
+    "date_start": "2025-05-26T06:31:13",
+    "id": 851694,
+    "regions": [
+      "00"
+    ],
+    "discount": "72%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/9/24/25249-37aa6fea5015e46e.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Save 72% + 3 Months for 24 Months Plan",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "https://grfpr.com/coupon/g7onrn9taq5af0702a27ddf84d4c0b/",
+    "goto_link": "https://grfpr.com/g/7p7ztf27j65af0702a27ddf84d4c0b/?i=3"
   }
 ]

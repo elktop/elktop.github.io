@@ -2,7 +2,6 @@
   {
     "site_url": "https://2-berega.ru/",
     "name": "2 Берега",
-    "img": "platform/4855.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/4/9/4855-a9a4885fb2f3d178.svg",
     "categories": [
       {
@@ -52,13 +51,12 @@
       ],
       "cashback_link_data": null
     },
-    "discountCount": 2,
-    "couponCount": 5
+    "discountCount": 4,
+    "couponCount": 3
   },
   {
     "site_url": "https://levelkitchen.com/",
     "name": "Level Kitchen",
-    "img": "platform/18262.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/12/18262-1cde42718b4579d7.svg",
     "categories": [
       {
@@ -125,7 +123,6 @@
   {
     "site_url": "https://ollis.ru/",
     "name": "Ollis",
-    "img": "platform/19806.jpg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/3/29/19806-092f2aaff2f4b24b.jpg",
     "categories": [
       {
@@ -169,13 +166,12 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "discountCount": 2,
-    "couponCount": 2
+    "discountCount": 3,
+    "couponCount": 1
   },
   {
     "site_url": "https://tyumen.sushi-master.ru/",
     "name": "sushi-master",
-    "img": "platform/20736.jpg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/2/28/20736-c32ab475e73af6ae.jpg",
     "categories": [
       {
@@ -236,7 +232,6 @@
   {
     "site_url": "https://letbefit.ru/",
     "name": "BeFit",
-    "img": "platform/22320.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/10/15/22320-c9f0495221a967d3.svg",
     "categories": [
       {
@@ -333,7 +328,6 @@
   {
     "site_url": "https://m-food.ru/",
     "name": "My Food",
-    "img": "platform/22771.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/12/22771-2a112c9de18e2464.svg",
     "categories": [
       {
@@ -400,7 +394,6 @@
   {
     "site_url": "https://crosspack.ru/",
     "name": "crosspack.ru",
-    "img": "platform/33072.jpg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/2/13/33072-6d67c4768e52184e.jpg",
     "categories": [
       {
@@ -444,7 +437,6 @@
   {
     "site_url": "https://simplymeal.ru/",
     "name": "Simply Meal RU",
-    "img": "platform/90282.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/2/20/90282-3709b868479b24fb.svg",
     "categories": [
       {
@@ -500,7 +492,6 @@
   {
     "site_url": "https://allopizza.su/msk/all",
     "name": "Pizza-allo",
-    "img": "platform/21734.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/2/5/21734-37bcf0015ba7b728.png",
     "categories": [
       {
@@ -544,7 +535,6 @@
   {
     "site_url": "https://eda.yandex.ru/",
     "name": "Yandex eda",
-    "img": "platform/27278.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/1/14/27278-0abb3d0c54679551.png",
     "categories": [
       {
@@ -588,7 +578,6 @@
   {
     "site_url": "https://polza.diet/",
     "name": "Польза",
-    "img": "platform/28861.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/7/11/28861-1d3131378dd1cd4c.png",
     "categories": [
       {
@@ -643,7 +632,6 @@
   {
     "site_url": "https://niyama.ru/",
     "name": "Нияма",
-    "img": "platform/15192.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/12/8/15192-e2aefb8d7e971f24.png",
     "categories": [
       {
@@ -687,7 +675,6 @@
   {
     "site_url": "https://foodband.ru/",
     "name": "Foodband",
-    "img": "platform/18780.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/10/7/18780-06b292277055c0b6.svg",
     "categories": [
       {
@@ -731,7 +718,6 @@
   {
     "site_url": "https://www.justfood.pro/",
     "name": "justfood",
-    "img": "platform/18904.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/5/27/18904-9688558adcd9e51c.svg",
     "categories": [
       {
@@ -798,7 +784,6 @@
   {
     "site_url": "https://wolt.com/",
     "name": "Wolt  DEU, CYP, GEO, JPN, LTU, LVA, MLT, KAZ",
-    "img": "platform/32072.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/1/11/32072-a61d74b1e0f8008b.svg",
     "categories": [
       {
@@ -913,7 +898,6 @@
   {
     "site_url": "https://pizzahut.ru",
     "name": "Pizzahut.ru",
-    "img": "platform/42857.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/9/29/42857-53a6001b991894b6.svg",
     "categories": [
       {
@@ -957,7 +941,6 @@
   {
     "site_url": "https://dominopizza.ru/",
     "name": "dominopizza.ru",
-    "img": "platform/46169.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/2/16/46169-141d26c717e9301d.svg",
     "categories": [
       {
@@ -1013,7 +996,6 @@
   {
     "site_url": "https://wolt.com/",
     "name": "WOLT CZ PL HU GR SK HR RS",
-    "img": "platform/92120.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/5/10/92120-8c987e88a6327ddb.svg",
     "categories": [
       {
@@ -1058,12 +1040,11 @@
       "cashback_link_data": null
     },
     "discountCount": 0,
-    "couponCount": 4
+    "couponCount": 6
   },
   {
     "site_url": "https://www.ubereats.com/",
     "name": "UberEats UK",
-    "img": "platform/95470.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/3/29/95470-b55affbfe8a881b7.svg",
     "categories": [
       {
@@ -1102,12 +1083,11 @@
       "cashback_link_data": null
     },
     "discountCount": 0,
-    "couponCount": 2
+    "couponCount": 3
   },
   {
     "site_url": "https://growfood.pro/",
     "name": "Growfood",
-    "img": "platform/15909.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/8/19/15909-488fa91cea6409b5.png",
     "categories": [
       {
@@ -1151,7 +1131,6 @@
   {
     "site_url": "https://pizzasushiwok.ru/",
     "name": "pizzasushiwok",
-    "img": "platform/26110.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/2/9/26110-5ec1a4f01b6f3d2e.svg",
     "categories": [
       {
@@ -1195,7 +1174,6 @@
   {
     "site_url": "https://hellochef.me/",
     "name": "Hello Chef AE links & promo codes",
-    "img": "platform/28724.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/5/3/28724-a5d9660d3f74afb3.svg",
     "categories": [
       {
@@ -1250,7 +1228,6 @@
   {
     "site_url": "https://www.prostoeda.pro",
     "name": "Prostoeda.pro",
-    "img": "platform/95451.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/5/20/95451-4743e966ca8725d3.svg",
     "categories": [
       {

@@ -92,5 +92,52 @@
     "promocode": "NOT REQUIRED",
     "frameset_link": "https://heqgr.com/coupon/2qqzi7ty485af0702a27e9d82934dd/",
     "goto_link": "https://heqgr.com/g/boe9r1eg6x5af0702a27e9d82934dd/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 29148,
+      "name": "Viaconto RO",
+      "site_url": "https://www.viaconto.ro/"
+    },
+    "description": "The discount applies to customers who do not have an active loan and is valid for the first 30 days.",
+    "short_name": "For existing customers -50% discount on interest.",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-12-20T20:29:55",
+    "id": 618355,
+    "regions": [
+      "RO"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2022/7/13/29148-21f1a7e216c2ad74.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 15,
+        "name": "Finance & Insurance"
+      },
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "For existing customers -50% discount on interest.",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "https://heqgr.com/coupon/2qqzi7ty485af0702a27e9d82934dd/",
+    "goto_link": "https://heqgr.com/g/boe9r1eg6x5af0702a27e9d82934dd/?i=3"
   }
 ]

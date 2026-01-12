@@ -170,5 +170,91 @@
     "promocode": "ADMITAD20",
     "frameset_link": "",
     "goto_link": "https://kpwfp.com/g/is22x6hnrq5af0702a2740e692d5b7/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 99414,
+      "name": "Multilogin WW",
+      "site_url": "https://multilogin.com/"
+    },
+    "description": "The code provides 100% discount for \"Trial\" (the full price is 2 euro). If using the code, the reward for the trial order will be $0 (because the order amount is $0), but the publisher will make sure that the user registers his/her email for the trial, meaning that all the future purchases from this user will be attributed to this publisher (for 90 days, same as cookie lifetime), even if after that they click on different sources which can rewrite the cookie).",
+    "short_name": "100% discount for trial version",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-11-19T18:33:41",
+    "id": 883981,
+    "regions": [
+      "00"
+    ],
+    "discount": "99%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/6/14/99414-1f7b45d4a02de06a.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "100% discount for trial version",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ADMITAD",
+    "frameset_link": "",
+    "goto_link": "https://kpwfp.com/g/y67a1qx37m5af0702a2740e692d5b7/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 99414,
+      "name": "Multilogin WW",
+      "site_url": "https://multilogin.com/"
+    },
+    "description": "Valid for Pro and Business plans, can be used once by a user",
+    "short_name": "20 OFF for a monthly plan",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-11-13T12:28:56",
+    "id": 882926,
+    "regions": [
+      "00"
+    ],
+    "discount": "20%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/6/14/99414-1f7b45d4a02de06a.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "20 OFF for a monthly plan",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ADMITAD20",
+    "frameset_link": "",
+    "goto_link": "https://kpwfp.com/g/is22x6hnrq5af0702a2740e692d5b7/?i=3"
   }
 ]

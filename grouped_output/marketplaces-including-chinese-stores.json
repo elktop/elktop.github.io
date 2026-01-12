@@ -2,7 +2,6 @@
   {
     "site_url": "https://noracora.com/",
     "name": "Noracora WW",
-    "img": "platform/24287.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/2/26/24287-ff8b06f448b60cfe.png",
     "categories": [
       {
@@ -57,13 +56,12 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "discountCount": 6,
-    "couponCount": 2
+    "discountCount": 9,
+    "couponCount": 3
   },
   {
     "site_url": "https://lilicloth.com/",
     "name": "Lilicloth WW",
-    "img": "platform/24288.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/3/1/24288-24c2d19331bac327.png",
     "categories": [
       {
@@ -118,13 +116,12 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "discountCount": 12,
-    "couponCount": 2
+    "discountCount": 18,
+    "couponCount": 3
   },
   {
     "site_url": "https://www.stylewe.com/",
     "name": "Stylewe WW",
-    "img": "platform/24295.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/13/24295-07dfd83505a6144b.svg",
     "categories": [
       {
@@ -179,13 +176,12 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "discountCount": 16,
-    "couponCount": 10
+    "discountCount": 24,
+    "couponCount": 15
   },
   {
     "site_url": "https://roselinlin.com/",
     "name": "Roselinlin WW",
-    "img": "platform/24669.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/13/24669-15abdfd554adc35a.svg",
     "categories": [
       {
@@ -240,13 +236,12 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "discountCount": 12,
-    "couponCount": 2
+    "discountCount": 18,
+    "couponCount": 3
   },
   {
     "site_url": "https://www.geekmaxi.com/",
     "name": "Geekmaxi Many GEOs",
-    "img": "platform/24738.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/11/14/24738-d6714cbdb73c2054.svg",
     "categories": [
       {
@@ -322,13 +317,12 @@
       ],
       "cashback_link_data": null
     },
-    "discountCount": 2,
-    "couponCount": 290
+    "discountCount": 3,
+    "couponCount": 435
   },
   {
     "site_url": "https://www.vevor.com",
     "name": "Vevor Many GEOs",
-    "img": "platform/25369.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/10/30/25369-3ae019f04d60560b.svg",
     "categories": [
       {
@@ -567,13 +561,12 @@
       ],
       "cashback_link_data": null
     },
-    "discountCount": 12,
-    "couponCount": 23
+    "discountCount": 18,
+    "couponCount": 34
   },
   {
     "site_url": "https://www.infostore.com.br",
     "name": "Info Store (EN)",
-    "img": "platform/37077.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/7/24/37077-29d3519507707ad4.svg",
     "categories": [
       {
@@ -623,7 +616,6 @@
   {
     "site_url": "https://www.joom.ru/ru",
     "name": "Joom RU",
-    "img": "platform/35530.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/6/22/35530-5089dcb4d939fbb5.png",
     "categories": [
       {
@@ -679,7 +671,6 @@
   {
     "site_url": "https://www.justfashionnow.com/",
     "name": "Justfashionnow WW",
-    "img": "platform/24286.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/3/1/24286-7f653b51c4842598.png",
     "categories": [
       {
@@ -735,13 +726,12 @@
       "cashback_link_data": null
     },
     "discountCount": 0,
-    "couponCount": 2
+    "couponCount": 3
   },
   {
-    "site_url": "https://us.donnermusic.com/",
-    "name": "Donnerdeal US",
-    "img": "platform/26000.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/13/26000-6646537caf0f9865.svg",
+    "site_url": "https://uae.sharafdg.com/",
+    "name": "SharafDG AE offline codes & links",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/15/19333-91a6c2a68180cfcd.svg",
     "categories": [
       {
         "name": "Marketplaces (including Chinese Stores)",
@@ -755,41 +745,13 @@
         }
       },
       {
-        "name": "Hobby & Stationery",
-        "id": 89,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Household Appliances & Electronics",
-        "id": 65,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
         "name": "Online stores",
         "id": 62,
         "language": "en",
         "parent": null
-      },
-      {
-        "name": "Smart tracking programs",
-        "id": 382,
-        "language": "en",
-        "parent": null
       }
     ],
-    "id": 26000,
+    "id": 19333,
     "category": {
       "name": "Marketplaces (including Chinese Stores)",
       "id": 96,
@@ -802,33 +764,97 @@
       }
     },
     "affiliate": {
-      "goto_link": "https://dhwnh.com/g/11pkisav6i5af0702a2754f7a9dbf9/",
+      "goto_link": "https://qwpeg.com/g/9daxl1yk105af0702a2765c829fe6a/",
       "landings": [
         {
-          "id": 29399,
-          "name": "Donner Sales Page 2025",
-          "code": "63f2530bd4"
+          "id": 12488,
+          "name": "Mobile Mondays",
+          "code": "5202a9bf5d"
         },
         {
-          "id": 25810,
-          "name": "Donner DealZone",
-          "code": "8905c2b4a4"
+          "id": 12197,
+          "name": "Xbox Series X",
+          "code": "ae0e92b535"
         },
         {
-          "id": 20309,
-          "name": "Donner Music",
-          "code": "de3af48681"
+          "id": 9731,
+          "name": "Watches",
+          "code": "388dfd96ce"
+        },
+        {
+          "id": 12427,
+          "name": "UAE 49th National Day",
+          "code": "d81e46ed77"
+        },
+        {
+          "id": 12176,
+          "name": "SharafDG Beauty Store",
+          "code": "695c50d704"
+        },
+        {
+          "id": 10135,
+          "name": "Super saver deals",
+          "code": "1ee7721e54"
+        },
+        {
+          "id": 12138,
+          "name": "Super Deals on Tablets and Accessories",
+          "code": "65c8794699"
+        },
+        {
+          "id": 9733,
+          "name": "Perfumes",
+          "code": "defab03cea"
+        },
+        {
+          "id": 12174,
+          "name": "Midweek Offers",
+          "code": "3a2a3987d0"
+        },
+        {
+          "id": 10205,
+          "name": "Ramadan 2020",
+          "code": "14c6f17b31"
+        },
+        {
+          "id": 12067,
+          "name": "The New iPad Air",
+          "code": "c5ac37cffe"
+        },
+        {
+          "id": 12195,
+          "name": "11.11 Single's Day Sale",
+          "code": "4952b643b3"
+        },
+        {
+          "id": 9732,
+          "name": "Home Appliances",
+          "code": "95f14b8278"
+        },
+        {
+          "id": 12489,
+          "name": "Best 21 deals from top sellers",
+          "code": "7f93d1a0be"
+        },
+        {
+          "id": 12068,
+          "name": "Super deals",
+          "code": "fa0f187614"
+        },
+        {
+          "id": 21934,
+          "name": "DG Friday",
+          "code": "d53bdcc976"
         }
       ],
       "cashback_link_data": null
     },
     "discountCount": 0,
-    "couponCount": 4
+    "couponCount": 0
   },
   {
     "site_url": "https://store.govee.com/",
     "name": "Govee Many GEOs",
-    "img": "platform/24808.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/7/24808-7957accbb1fe1dec.png",
     "categories": [
       {
@@ -907,9 +933,51 @@
     "couponCount": 0
   },
   {
+    "site_url": "https://shopee.com.br/",
+    "name": "Shopee CPA BR",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/5/13/24908-16c7d0d7b82ec165.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Marketplaces (including Chinese Stores)",
+        "id": 96,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 24908,
+    "category": {
+      "name": "Marketplaces (including Chinese Stores)",
+      "id": 96,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://xqjeo.com/g/knlhlz71ux5af0702a2704f147125c/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
+  },
+  {
     "site_url": "https://www.shopsy.in/",
     "name": "Shopsy App [CPS] IN",
-    "img": "platform/27560.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/10/5/27560-6dabd54faa7124ed.svg",
     "categories": [
       {
@@ -951,9 +1019,51 @@
     "couponCount": 0
   },
   {
+    "site_url": "https://shopee.com.mx/",
+    "name": "Shopee MX",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/7/17/43825-740bee2895d9667e.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Marketplaces (including Chinese Stores)",
+        "id": 96,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 43825,
+    "category": {
+      "name": "Marketplaces (including Chinese Stores)",
+      "id": 96,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://zallj.com/g/qy94wfbelw5af0702a276e79f7c2cd/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
+  },
+  {
     "site_url": "https://cleaningsuperstore.com",
     "name": "Cleaning Superstore UAE",
-    "img": "platform/136045.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/11/11/136045-0b181b613d345d02.svg",
     "categories": [
       {

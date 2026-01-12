@@ -2,7 +2,6 @@
   {
     "site_url": "https://www.issaonline.com/",
     "name": "ISSA Many Geos",
-    "img": "platform/28241.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/4/15/28241-5a3fd3c5619966f6.png",
     "categories": [
       {
@@ -40,13 +39,12 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "discountCount": 22,
-    "couponCount": 4
+    "discountCount": 33,
+    "couponCount": 6
   },
   {
     "site_url": "https://clubs.xfit.ru/",
     "name": "X-Fit",
-    "img": "platform/21842.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/8/3/21842-0565b8320f3fd383.png",
     "categories": [
       {
@@ -88,9 +86,73 @@
     "couponCount": 0
   },
   {
+    "site_url": "https://fitstars.ru/",
+    "name": "Fitstars RU",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/2/26/22919-8fbc3ae2f222324a.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Fitness",
+        "id": 205,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "11.11 & Black Friday 2025",
+        "id": 377,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 22919,
+    "category": {
+      "name": "Fitness",
+      "id": 205,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://qbzdl.com/g/lcz5l7shqa5af0702a27253f07e8f6/?erid=MvGzQC98w3Z1gMq1owUoBEjD",
+      "landings": [
+        {
+          "id": 22268,
+          "name": "Новогодний розыгрыш",
+          "code": "4fc46a37d8"
+        },
+        {
+          "id": 25052,
+          "name": "Фитнес набор в подарок",
+          "code": "84ae642591"
+        },
+        {
+          "id": 25608,
+          "name": "Подписка Фитстарс",
+          "code": "4dbb31ef5c"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
+  },
+  {
     "site_url": "https://toughmudder.co.uk/",
     "name": "Tough Mudder UK",
-    "img": "platform/27773.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/29/27773-90b5a30ba8e5861e.svg",
     "categories": [
       {
@@ -134,7 +196,6 @@
   {
     "site_url": "https://apollo.online/",
     "name": "Apollo UA",
-    "img": "platform/109297.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/3/31/109297-a8ec6fe834b1a953.svg",
     "categories": [
       {

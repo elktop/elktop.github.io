@@ -148,5 +148,80 @@
     "promocode": "NOT REQUIRED",
     "frameset_link": "",
     "goto_link": "https://lsuix.com/g/pbg64xap4z5af0702a27d98abc09ee/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 105191,
+      "name": "Symbol fashion Many GEOs",
+      "site_url": "https://symbol.fashion/"
+    },
+    "description": "",
+    "short_name": "Discounts of -60%",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-09-13T16:10:07",
+    "id": 797147,
+    "regions": [
+      "AT",
+      "BE",
+      "BG",
+      "CH",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IT",
+      "LT",
+      "LU",
+      "LV",
+      "NL",
+      "PL",
+      "PT",
+      "RO",
+      "SI",
+      "SK"
+    ],
+    "discount": "60%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/8/15/105191-5354850cf3f2277c.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      },
+      {
+        "id": 4,
+        "name": "Shoes"
+      },
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Discounts of -60%",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "",
+    "goto_link": "https://lsuix.com/g/pbg64xap4z5af0702a27d98abc09ee/?i=3"
   }
 ]

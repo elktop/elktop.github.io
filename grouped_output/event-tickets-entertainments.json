@@ -2,7 +2,6 @@
   {
     "site_url": "https://sz.kz/",
     "name": "Satty Zhuldyz.KZ",
-    "img": "platform/23467.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/7/23467-b03448015a3ef6d1.svg",
     "categories": [
       {
@@ -57,7 +56,6 @@
   {
     "site_url": "https://www.stoloto.ru/",
     "name": "Столото",
-    "img": "platform/13970.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/11/25/13970-c1d9aaa476660095.svg",
     "categories": [
       {
@@ -156,9 +154,68 @@
     "couponCount": 1
   },
   {
+    "site_url": "https://videodedmoroz.ru/",
+    "name": "Видео Дед Мороз",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/11/29/20730-9eda0565591f8926.svg",
+    "categories": [
+      {
+        "name": "Event Tickets & Entertainments",
+        "id": 99,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Other Services",
+        "id": 93,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "New Year Festival 2026",
+        "id": 378,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 20730,
+    "category": {
+      "name": "Event Tickets & Entertainments",
+      "id": 99,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://bednari.com/g/rx53bpbk7e5af0702a272e0c36359d/?erid=25H8d7vbP8SRTvJ4Aw3JKh",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
+  },
+  {
     "site_url": "https://www.tiqets.com/",
     "name": "Tiqets WW",
-    "img": "platform/20870.jpg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/5/6/20870-8f62cb3a3cfeb5f0.jpg",
     "categories": [
       {
@@ -252,9 +309,69 @@
     "couponCount": 0
   },
   {
+    "site_url": "https://broadway-moscow.ru/",
+    "name": "Broadway-moscow",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/11/27/27207-68468ee910f3fb1c.jpg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Event Tickets & Entertainments",
+        "id": 99,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Back to school 2025",
+        "id": 371,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "New Year Festival 2026",
+        "id": 378,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 27207,
+    "category": {
+      "name": "Event Tickets & Entertainments",
+      "id": 99,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://dorinebeaumont.com/g/ilujhhvavz5af0702a27ccddac0aa6/?erid=2bL9aMPo2e49hMef4peVu9ZzMn",
+      "landings": [
+        {
+          "id": 21490,
+          "name": "Мюзикл \"Ничего не бойся, я с тобой\"",
+          "code": "9cf23e4d4f"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
+  },
+  {
     "site_url": "https://play.google.com/store/apps/details?id=story.tv.drama.reels&hl=en",
     "name": "Story TV [Android, CPT] IN",
-    "img": "platform/34636.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/7/31/34636-098fa0d201819657.svg",
     "categories": [
       {
@@ -298,7 +415,6 @@
   {
     "site_url": "https://more-on.ru/",
     "name": "more-on.ru",
-    "img": "platform/36798.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/5/19/36798-05169817a93dda68.svg",
     "categories": [
       {
@@ -446,7 +562,6 @@
   {
     "site_url": "https://www.ticombo.com/",
     "name": "Ticombo - Global Event Tickets Many GEOs",
-    "img": "platform/142825.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/10/13/142825-77f616015645fd63.svg",
     "categories": [
       {

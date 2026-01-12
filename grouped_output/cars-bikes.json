@@ -1,8 +1,73 @@
 [
   {
+    "site_url": "https://atl.ua",
+    "name": "АТЛ UA",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/12/1/26896-1a39a4b38b6f065d.jpg",
+    "categories": [
+      {
+        "name": "Cars & Bikes",
+        "id": 196,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Car & Bike Accessories",
+        "id": 92,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Smart Tracking_UA",
+        "id": 379,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 26896,
+    "category": {
+      "name": "Cars & Bikes",
+      "id": 196,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://uuwgc.com/g/0mgk62pzxv5af0702a2724bde01f1a/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 1,
+    "couponCount": 0
+  },
+  {
     "site_url": "https://koleso.ru/",
     "name": "Колесо  RU",
-    "img": "platform/110058.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/9/23/110058-c2a244ec686faf39.svg",
     "categories": [
       {
@@ -63,7 +128,6 @@
   {
     "site_url": "https://rossko.ru",
     "name": "Rossko RU",
-    "img": "platform/117397.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/12/23/117397-244d97f518fc9d3b.svg",
     "categories": [
       {
@@ -118,7 +182,6 @@
   {
     "site_url": "https://globaldrive.ru/",
     "name": "Globaldrive [CPS] RU",
-    "img": "platform/26101.jpg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/11/19/26101-8a9f7c633506d6f2.jpg",
     "categories": [
       {
@@ -184,7 +247,6 @@
   {
     "site_url": "https://autopiter.ru/",
     "name": "Autopiter",
-    "img": "platform/27802.jpg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/2/22/27802-b22e38420ff4de50.jpg",
     "categories": [
       {
@@ -256,7 +318,6 @@
   {
     "site_url": "https://hyperauto.ru/",
     "name": "",
-    "img": "platform/37704.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/9/25/37704-4f6221a94ecc3bb5.svg",
     "categories": [
       {
@@ -300,7 +361,6 @@
   {
     "site_url": "https://autopiter.kz/",
     "name": "Autopiter KZ",
-    "img": "platform/38740.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/8/38740-547b60bef3f46830.svg",
     "categories": [
       {

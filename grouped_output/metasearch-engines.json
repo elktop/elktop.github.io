@@ -1,0 +1,62 @@
+[
+  {
+    "site_url": "https://flightnetwork.com/",
+    "name": "Flight Network WW",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/12/3/130860-fcc3881f78ffbd6e.svg",
+    "categories": [
+      {
+        "name": "Metasearch Engines",
+        "id": 218,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Flights",
+        "id": 44,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 130860,
+    "category": {
+      "name": "Metasearch Engines",
+      "id": 218,
+      "language": "en",
+      "parent": {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://xyowz.com/g/n2q2nolvw65af0702a276d2e807f50/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 3
+  }
+]

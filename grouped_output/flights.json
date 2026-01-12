@@ -2,7 +2,6 @@
   {
     "site_url": "https://www.anywayanyday.com/",
     "name": "AnywayAnyday RU UA DE US",
-    "img": "platform/14080.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/2/8/14080-2215677fade7698d.svg",
     "categories": [
       {
@@ -63,7 +62,6 @@
   {
     "site_url": "https://www.mytrip.com/",
     "name": "Mytrip.com WW",
-    "img": "platform/39738.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/12/3/39738-7fc9e48be7f54b93.svg",
     "categories": [
       {
@@ -108,12 +106,11 @@
       "cashback_link_data": null
     },
     "discountCount": 0,
-    "couponCount": 2
+    "couponCount": 3
   },
   {
     "site_url": "https://www.gotogate.com/",
     "name": "Gotogate WW",
-    "img": "platform/39739.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/30/39739-d864f35e57eaf4c2.svg",
     "categories": [
       {
@@ -152,12 +149,11 @@
       "cashback_link_data": null
     },
     "discountCount": 0,
-    "couponCount": 2
+    "couponCount": 3
   },
   {
     "site_url": "https://www.aviasales.ru/",
     "name": "Aviasales WW",
-    "img": "platform/1678.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/2/5/1678-2b9e921ee7b75847.png",
     "categories": [
       {
@@ -201,7 +197,6 @@
   {
     "site_url": "https://www.jetradar.com/",
     "name": "JetRadar.com INT",
-    "img": "platform/13688.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/2/5/13688-8f7d86cb3762b22b.png",
     "categories": [
       {
@@ -245,7 +240,6 @@
   {
     "site_url": "https://www.aviakassa.com/",
     "name": "Aviakassa RU",
-    "img": "platform/14674.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/7/7/14674-a62f87315004bca5.png",
     "categories": [
       {
@@ -293,9 +287,90 @@
     "couponCount": 0
   },
   {
+    "site_url": "https://www.lastminute.com/",
+    "name": "Lastminute UK",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2022/2/3/23264-72ac83331317521b.jpg",
+    "categories": [
+      {
+        "name": "Flights",
+        "id": 44,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Car Rentals",
+        "id": 91,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Hotels",
+        "id": 41,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Package Holidays",
+        "id": 45,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 23264,
+    "category": {
+      "name": "Flights",
+      "id": 44,
+      "language": "en",
+      "parent": {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://ficca2021.com/g/xd2ywk7t4q5af0702a27c3b062c55e/",
+      "landings": [
+        {
+          "id": 12328,
+          "name": "New Gift Card Campaign",
+          "code": "a0a3c3081e"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
+  },
+  {
     "site_url": "https://flysmartavia.com/",
     "name": "Flysmartavia",
-    "img": "platform/29892.jpg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/11/18/29892-62c31413941889cd.jpg",
     "categories": [
       {
@@ -339,7 +414,6 @@
   {
     "site_url": "https://tinkoff.ru/travel/flights/",
     "name": "Авиа в Т-Банке RU",
-    "img": "platform/77120.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/24/77120-f4e5349351f557ec.svg",
     "categories": [
       {
@@ -408,9 +482,51 @@
     "couponCount": 0
   },
   {
+    "site_url": "https://vagamo.com",
+    "name": "Vagamo US",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/2/20/121806-9236c45d5eaad583.svg",
+    "categories": [
+      {
+        "name": "Flights",
+        "id": 44,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 121806,
+    "category": {
+      "name": "Flights",
+      "id": 44,
+      "language": "en",
+      "parent": {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://rthsu.com/g/0lyhuakd0e5af0702a276ac117ee14/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
+  },
+  {
     "site_url": "https://airadvisor.com",
     "name": "AirAdvisor",
-    "img": "platform/140449.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/9/30/140449-5b26b5d7ad91610a.svg",
     "categories": [
       {

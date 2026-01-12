@@ -454,5 +454,233 @@
     "promocode": "NOT REQUIRED",
     "frameset_link": "https://bednari.com/coupon/gjw96b6fb15af0702a27802cfca7bc/",
     "goto_link": "https://bednari.com/g/klxvxvygto5af0702a27802cfca7bc/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 26456,
+      "name": "Humanic CZ & SK",
+      "site_url": "https://www.humanic.net/cz/"
+    },
+    "description": "",
+    "short_name": "Sale",
+    "exclusive": false,
+    "date_end": "2026-01-31T23:59:00",
+    "date_start": "2025-12-29T00:00:00",
+    "id": 893790,
+    "regions": [
+      "CZ",
+      "SK"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/10/22/26456-7ae6205b8b5c0f49.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      },
+      {
+        "id": 4,
+        "name": "Shoes"
+      }
+    ],
+    "name": "Sale",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "https://bednari.com/coupon/6z96htgug75af0702a27802cfca7bc/",
+    "goto_link": "https://bednari.com/g/6xqkoovk7s5af0702a27802cfca7bc/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 26456,
+      "name": "Humanic CZ & SK",
+      "site_url": "https://www.humanic.net/cz/"
+    },
+    "description": "*Only valid in the HUMANIC online shop and in the APP. The discount does not apply to the brands UGG, Birkenstock, Asics, Kazar, ON, Dr. Martens or items sold by partners. Cannot be combined with other promotions and vouchers.",
+    "short_name": "SK DISCOUNT 10% and there is no minimum order value",
+    "exclusive": false,
+    "date_end": "2026-03-31T23:59:00",
+    "date_start": "2026-01-01T00:00:00",
+    "id": 889578,
+    "regions": [
+      "SK"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/10/22/26456-7ae6205b8b5c0f49.png",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      },
+      {
+        "id": 4,
+        "name": "Shoes"
+      }
+    ],
+    "name": "SK DISCOUNT 10% and there is no minimum order value",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "Q10HUMANICSK26A1",
+    "frameset_link": "https://bednari.com/coupon/7vvy4qx3bk5af0702a27802cfca7bc/",
+    "goto_link": "https://bednari.com/g/qq6drq5mws5af0702a27802cfca7bc/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 26456,
+      "name": "Humanic CZ & SK",
+      "site_url": "https://www.humanic.net/cz/"
+    },
+    "description": "*Only valid in the HUMANIC online shop and in the APP. The discount does not apply to the brands UGG, Birkenstock, Asics, Kazar, ON, Dr. Martens or items sold by partners. Cannot be combined with other promotions and vouchers.",
+    "short_name": "CZ DISCOUNT 10% and there is no minimum order value",
+    "exclusive": false,
+    "date_end": "2026-03-31T23:59:00",
+    "date_start": "2026-01-01T00:00:00",
+    "id": 889577,
+    "regions": [
+      "CZ"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/10/22/26456-7ae6205b8b5c0f49.png",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      },
+      {
+        "id": 4,
+        "name": "Shoes"
+      }
+    ],
+    "name": "CZ DISCOUNT 10% and there is no minimum order value",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "Q10HUMANICCZ26A1",
+    "frameset_link": "https://bednari.com/coupon/ttv3utaxk85af0702a27802cfca7bc/",
+    "goto_link": "https://bednari.com/g/8xepmq22c15af0702a27802cfca7bc/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 26456,
+      "name": "Humanic CZ & SK",
+      "site_url": "https://www.humanic.net/cz/"
+    },
+    "description": "​​​​​​​​​​​​​​VAŠE VÝHODY ​​​​​​​ ➤ Za 200 bodov 20% zľava ➤ Digitálna zákaznícka karta v aplikácií ➤ Personalizované kupóny ➤ Narodeninové prekvapenie ➤ Exkluzívne zľavy a klubové ceny ➤ Výmena tovaru bez pokladničného dokladu\r\nThe discount can ONLY be redeemed in the online shop!",
+    "short_name": "SK shoemanic club sign-up",
+    "exclusive": false,
+    "date_end": "2026-04-30T23:59:00",
+    "date_start": "2024-01-09T00:00:00",
+    "id": 621578,
+    "regions": [
+      "SK"
+    ],
+    "discount": "20%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/10/22/26456-7ae6205b8b5c0f49.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 4,
+        "name": "Shoes"
+      }
+    ],
+    "name": "SK shoemanic club sign-up",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "https://bednari.com/coupon/yi0h38m0sa5af0702a27802cfca7bc/",
+    "goto_link": "https://bednari.com/g/0l01v5z6dp5af0702a27802cfca7bc/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 26456,
+      "name": "Humanic CZ & SK",
+      "site_url": "https://www.humanic.net/cz/"
+    },
+    "description": "​​​​​​​​​​​​​​VAŠE VÝHODY ​​​​​​​ ➤ Za 4 000 bodů sleva 20 % ➤Zákaznická karta v mobilní aplikaci ➤ Atraktivní slevové kupóny ➤ Narozeninové překvapení ➤ Exkluzivní akce a zvýhodněné ceny ➤ Snadná výměna zboží bez dokladu\r\nThe discount can ONLY be redeemed in the online shop!",
+    "short_name": "CZ shoemanic club sign-up",
+    "exclusive": false,
+    "date_end": "2026-04-30T23:59:00",
+    "date_start": "2024-01-09T00:00:00",
+    "id": 621577,
+    "regions": [
+      "CZ"
+    ],
+    "discount": "20%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/10/22/26456-7ae6205b8b5c0f49.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 4,
+        "name": "Shoes"
+      }
+    ],
+    "name": "CZ shoemanic club sign-up",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "https://bednari.com/coupon/gjw96b6fb15af0702a27802cfca7bc/",
+    "goto_link": "https://bednari.com/g/klxvxvygto5af0702a27802cfca7bc/?i=3"
   }
 ]

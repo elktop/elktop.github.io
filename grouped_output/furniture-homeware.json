@@ -2,7 +2,6 @@
   {
     "site_url": "https://restoll.ru",
     "name": "Restoll",
-    "img": "platform/25308.jpg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/9/13/25308-8a70cbc5aef5982b.jpg",
     "categories": [
       {
@@ -57,7 +56,6 @@
   {
     "site_url": "https://www.miravia.es/",
     "name": "Miravia ES",
-    "img": "platform/31369.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/12/19/31369-37a9656646d5455a.svg",
     "categories": [
       {
@@ -298,7 +296,6 @@
   {
     "site_url": "https://www.nozhikov.ru/",
     "name": "Ножиков",
-    "img": "platform/15411.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/17/15411-4235cec652a39301.svg",
     "categories": [
       {
@@ -359,7 +356,6 @@
   {
     "site_url": "https://shop.aquaphor.ru/",
     "name": "Аквафор",
-    "img": "platform/20551.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/13/20551-7f5e969a80aa4ea0.svg",
     "categories": [
       {
@@ -414,7 +410,6 @@
   {
     "site_url": "https://mebel169.ru/",
     "name": "Mebel169",
-    "img": "platform/21642.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/8/21642-2c2ede0ba9dd0b9a.svg",
     "categories": [
       {
@@ -458,7 +453,6 @@
   {
     "site_url": "https://megastroy.com/",
     "name": "МЕГАСТРОЙ",
-    "img": "platform/26035.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/11/24/26035-9da86fdaf81d2508.png",
     "categories": [
       {
@@ -502,7 +496,6 @@
   {
     "site_url": "https://cozyhome.ru/",
     "name": "COZY HOME",
-    "img": "platform/26239.jpg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/7/11/26239-9ee15859e5e68126.jpg",
     "categories": [
       {
@@ -546,7 +539,6 @@
   {
     "site_url": "https://www.hasznos-holmik.hu/",
     "name": "Hasznos-holmik HU",
-    "img": "platform/77545.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/1/15/77545-b07e5c247730eb9c.png",
     "categories": [
       {
@@ -683,13 +675,12 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "discountCount": 2,
+    "discountCount": 3,
     "couponCount": 0
   },
   {
     "site_url": "https://www.delsol.com.mx/",
     "name": "DelSol MX",
-    "img": "platform/121943.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/2/18/121943-43942d1ef345e90f.svg",
     "categories": [
       {
@@ -777,7 +768,6 @@
   {
     "site_url": "https://dubok.cz/",
     "name": "Dubok CZ",
-    "img": "platform/34240.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/4/6/34240-90f50efb1cec1432.svg",
     "categories": [
       {
@@ -822,12 +812,11 @@
       "cashback_link_data": null
     },
     "discountCount": 0,
-    "couponCount": 4
+    "couponCount": 6
   },
   {
     "site_url": "https://www.dushevoi.ru/",
     "name": "dushevoi.ru",
-    "img": "platform/34850.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/4/20/34850-466fc17c8858fdcb.svg",
     "categories": [
       {
@@ -871,7 +860,6 @@
   {
     "site_url": "https://www.moveislinhares.com.br",
     "name": "Moveis Linhares",
-    "img": "platform/37419.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/7/21/37419-74064b9947f650f9.svg",
     "categories": [
       {
@@ -915,7 +903,6 @@
   {
     "site_url": "https://openhagen.com/",
     "name": "Openhagen WW",
-    "img": "platform/98967.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/4/29/98967-5e4bd90c095c73b6.svg",
     "categories": [
       {
@@ -965,12 +952,11 @@
       "cashback_link_data": null
     },
     "discountCount": 0,
-    "couponCount": 2
+    "couponCount": 3
   },
   {
     "site_url": "https://postel-deluxe.ru/",
     "name": "Postel Deluxe",
-    "img": "platform/3940.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/11/24/3940-778698de608b94f7.svg",
     "categories": [
       {
@@ -1014,7 +1000,6 @@
   {
     "site_url": "https://zvet.ru/",
     "name": "Цвет Диванов",
-    "img": "platform/9658.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/13/9658-d7158ea4726bca5b.svg",
     "categories": [
       {
@@ -1058,7 +1043,6 @@
   {
     "site_url": "https://www.pepperfry.com/",
     "name": "Pepperfry Web [CPS] IN",
-    "img": "platform/16248.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/12/21/16248-2e24fe62b4175916.svg",
     "categories": [
       {
@@ -1100,9 +1084,51 @@
     "couponCount": 0
   },
   {
+    "site_url": "https://www.mobly.com.br/",
+    "name": "Mobly BR",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2020/10/5/22879-9337404a29b0029b.png",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Furniture & Homeware",
+        "id": 66,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 22879,
+    "category": {
+      "name": "Furniture & Homeware",
+      "id": 66,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://qbzdl.com/g/ppk2hfn3tf5af0702a27997980e8e4/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
+  },
+  {
     "site_url": "https://www.whirlpool.mx/",
     "name": "Whirlpool MX/CO",
-    "img": "platform/43361.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/10/17/43361-a4433a27a8b7a214.svg",
     "categories": [
       {
@@ -1157,7 +1183,6 @@
   {
     "site_url": "https://consul-coton.ru",
     "name": "Consul-coton RU",
-    "img": "platform/117240.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/12/2/117240-032ae5e2d8885ce2.svg",
     "categories": [
       {
@@ -1201,7 +1226,6 @@
   {
     "site_url": "https://stylishop.com/",
     "name": "Styli Shop Offline Coupons - GCC",
-    "img": "platform/118941.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/2/26/118941-f3edeaf22f08c1e0.svg",
     "categories": [
       {
@@ -1465,7 +1489,6 @@
   {
     "site_url": "https://hausandkinder.com",
     "name": "Haus & kinder [ CPS ] IN",
-    "img": "platform/140389.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/8/11/140389-53558af5f57d29e0.svg",
     "categories": [
       {
@@ -1509,7 +1532,6 @@
   {
     "site_url": "https://malare.ru/",
     "name": "Malare - завод красок для дома и бизнеса RU",
-    "img": "platform/142245.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/9/17/142245-8a7b4997b4991000.svg",
     "categories": [
       {

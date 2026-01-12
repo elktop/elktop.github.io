@@ -170,5 +170,91 @@
     "promocode": "NOT REQUIRED",
     "frameset_link": "https://ad.admitad.com/coupon/zoscft4bh35af0702a270a9c5c4e41/",
     "goto_link": "https://ad.admitad.com/g/o6tn9uf7n55af0702a270a9c5c4e41/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 28507,
+      "name": "The Body Shop UK",
+      "site_url": "https://www.thebodyshop.com/en-gb/"
+    },
+    "description": "promocode is not required.",
+    "short_name": "Join the club and get 15% OFF",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-09-20T12:29:20",
+    "id": 583422,
+    "regions": [
+      "GB"
+    ],
+    "discount": "15%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2022/4/20/28507-068c9e099fac059c.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Join the club and get 15% OFF",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "https://ad.admitad.com/coupon/eg6jogup3w5af0702a270a9c5c4e41/",
+    "goto_link": "https://ad.admitad.com/g/e9ezn2bxjw5af0702a270a9c5c4e41/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 28507,
+      "name": "The Body Shop UK",
+      "site_url": "https://www.thebodyshop.com/en-gb/"
+    },
+    "description": "promocode is not required. minimum order amount £30",
+    "short_name": "Free delivery on orders over £30",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2023-09-20T12:19:39",
+    "id": 583415,
+    "regions": [
+      "GB"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2022/4/20/28507-068c9e099fac059c.png",
+    "species": "action",
+    "categories": [
+      {
+        "id": 2,
+        "name": "Personal Care & Pharmacy"
+      }
+    ],
+    "name": "Free delivery on orders over £30",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "https://ad.admitad.com/coupon/zoscft4bh35af0702a270a9c5c4e41/",
+    "goto_link": "https://ad.admitad.com/g/o6tn9uf7n55af0702a270a9c5c4e41/?i=3"
   }
 ]

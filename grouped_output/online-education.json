@@ -1,109 +1,7 @@
 [
   {
-    "site_url": "https://lingualeo.com/",
-    "name": "Lingualeo",
-    "img": "platform/2476.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2024/2/20/2476-76c48122217d3a08.svg",
-    "categories": [
-      {
-        "name": "Online Education",
-        "id": 98,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "New Year Festival 2026",
-        "id": 378,
-        "language": "en",
-        "parent": null
-      }
-    ],
-    "id": 2476,
-    "category": {
-      "name": "Online Education",
-      "id": 98,
-      "language": "en",
-      "parent": {
-        "name": "Online Services",
-        "id": 18,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://xcdus.com/g/e583077b635af0702a27c814d4b7c0/?erid=5jtCeReLm1S3Xx3LfA8SFZ6",
-      "landings": [
-        {
-          "id": 21714,
-          "name": "Страница Premium",
-          "code": "54b349ff1a"
-        },
-        {
-          "id": 22005,
-          "name": "Подарки другу",
-          "code": "619e8e1969"
-        },
-        {
-          "id": 26113,
-          "name": "Годовой премиум скидка 60 процентов",
-          "code": "4acfe94f27"
-        },
-        {
-          "id": 22435,
-          "name": "Киберпонедельник.. Все тематические курсы за 1990 рублей вместо 60176",
-          "code": "5f17e372ab"
-        },
-        {
-          "id": 21715,
-          "name": "Главная страница",
-          "code": "6e209b8db6"
-        },
-        {
-          "id": 22003,
-          "name": "вечный Premium со скидкой 60 процентов",
-          "code": "5135c20591"
-        },
-        {
-          "id": 22004,
-          "name": "два года за 4990 рублей со скидкой 58 процентов",
-          "code": "bf65ef740e"
-        },
-        {
-          "id": 21809,
-          "name": "год Premium-подписки со скидкой 50 процентов",
-          "code": "543051db27"
-        },
-        {
-          "id": 31124,
-          "name": "1 Месяц Premium-доступа в подарок",
-          "code": "9852cb6c31"
-        },
-        {
-          "id": 22500,
-          "name": "Промо Etorazvod для старых пользователей",
-          "code": "a469b2544f"
-        }
-      ],
-      "cashback_link_data": null
-    },
-    "discountCount": 9,
-    "couponCount": 1
-  },
-  {
     "site_url": "https://skyeng.ru/",
     "name": "Skyeng",
-    "img": "platform/14359.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2020/10/9/14359-298c5da2cb03118c.png",
     "categories": [
       {
@@ -333,7 +231,6 @@
   {
     "site_url": "https://www.uchmet.ru/",
     "name": "Uchmet",
-    "img": "platform/16824.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/12/16824-3b02cf9188ffccf3.svg",
     "categories": [
       {
@@ -381,9 +278,62 @@
     "couponCount": 1
   },
   {
+    "site_url": "https://www.skillshare.com/",
+    "name": "Skillshare Many GEOs",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/13/17846-1caf7a675c597bd3.svg",
+    "categories": [
+      {
+        "name": "Online Education",
+        "id": 98,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 17846,
+    "category": {
+      "name": "Online Education",
+      "id": 98,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://xnmik.com/g/aguipktae05af0702a2782bf971235/",
+      "landings": [
+        {
+          "id": 3911,
+          "name": "CRAFTS_IMAGES_HERO",
+          "code": "a148a771fb"
+        },
+        {
+          "id": 8469,
+          "name": "Direct to Pay Landing Page - discount for Annual Membership",
+          "code": "639cd5b4a2"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 24,
+    "couponCount": 1
+  },
+  {
     "site_url": "https://gb.ru",
     "name": "GeekBrains",
-    "img": "platform/18395.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2020/9/30/18395-7cd3143d24f2a50c.png",
     "categories": [
       {
@@ -614,7 +564,6 @@
   {
     "site_url": "https://productstar.ru/",
     "name": "Productstar",
-    "img": "platform/23344.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/14/23344-024d2c814b8962be.svg",
     "categories": [
       {
@@ -880,7 +829,6 @@
   {
     "site_url": "https://skysmart.ru/",
     "name": "Skysmart RU",
-    "img": "platform/23485.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2020/10/9/23485-c55bca3fadf75cdb.png",
     "categories": [
       {
@@ -1085,7 +1033,6 @@
   {
     "site_url": "https://puzzle-movies.com/",
     "name": "Puzzle Movies",
-    "img": "platform/28921.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/6/22/28921-762f87b1d50de284.png",
     "categories": [
       {
@@ -1146,7 +1093,6 @@
   {
     "site_url": "https://eduson.academy/",
     "name": "Eduson.academy",
-    "img": "platform/44243.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/10/31/44243-73ca961299a8ff94.svg",
     "categories": [
       {
@@ -1267,7 +1213,6 @@
   {
     "site_url": "https://smart-inc.ru/",
     "name": "Институт психологии Smart",
-    "img": "platform/77081.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/8/9/77081-946f0a9ca9834750.svg",
     "categories": [
       {
@@ -1381,9 +1326,108 @@
     "couponCount": 5
   },
   {
+    "site_url": "https://lingualeo.com/",
+    "name": "Lingualeo",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/2/20/2476-76c48122217d3a08.svg",
+    "categories": [
+      {
+        "name": "Online Education",
+        "id": 98,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "New Year Festival 2026",
+        "id": 378,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 2476,
+    "category": {
+      "name": "Online Education",
+      "id": 98,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://xcdus.com/g/e583077b635af0702a27c814d4b7c0/?erid=5jtCeReLm1S3Xx3LfA8SFZ6",
+      "landings": [
+        {
+          "id": 21714,
+          "name": "Страница Premium",
+          "code": "54b349ff1a"
+        },
+        {
+          "id": 22005,
+          "name": "Подарки другу",
+          "code": "619e8e1969"
+        },
+        {
+          "id": 26113,
+          "name": "Годовой премиум скидка 60 процентов",
+          "code": "4acfe94f27"
+        },
+        {
+          "id": 22435,
+          "name": "Киберпонедельник.. Все тематические курсы за 1990 рублей вместо 60176",
+          "code": "5f17e372ab"
+        },
+        {
+          "id": 21715,
+          "name": "Главная страница",
+          "code": "6e209b8db6"
+        },
+        {
+          "id": 22003,
+          "name": "вечный Premium со скидкой 60 процентов",
+          "code": "5135c20591"
+        },
+        {
+          "id": 22004,
+          "name": "два года за 4990 рублей со скидкой 58 процентов",
+          "code": "bf65ef740e"
+        },
+        {
+          "id": 21809,
+          "name": "год Premium-подписки со скидкой 50 процентов",
+          "code": "543051db27"
+        },
+        {
+          "id": 31124,
+          "name": "1 Месяц Premium-доступа в подарок",
+          "code": "9852cb6c31"
+        },
+        {
+          "id": 22500,
+          "name": "Промо Etorazvod для старых пользователей",
+          "code": "a469b2544f"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 10,
+    "couponCount": 0
+  },
+  {
     "site_url": "https://otus.ru/",
     "name": "Otus",
-    "img": "platform/21788.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/5/14/21788-82d5022e6e0e1970.svg",
     "categories": [
       {
@@ -1483,7 +1527,6 @@
   {
     "site_url": "https://www.doma.uchi.ru/",
     "name": "Учи.Дома",
-    "img": "platform/22945.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/4/25/22945-3dbc3856b8faa963.svg",
     "categories": [
       {
@@ -1589,7 +1632,6 @@
   {
     "site_url": "https://practicum.yandex.ru/",
     "name": "Яндекс Практикум",
-    "img": "platform/25914.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/8/3/25914-56f792cb060ce54f.png",
     "categories": [
       {
@@ -1864,7 +1906,6 @@
   {
     "site_url": "https://karpov.courses",
     "name": "Karpov.courses",
-    "img": "platform/43824.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/12/1/43824-b2d4f9934b6ead2f.svg",
     "categories": [
       {
@@ -1985,7 +2026,6 @@
   {
     "site_url": "https://simulative.ru/",
     "name": "simulative.ru",
-    "img": "platform/98907.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/5/8/98907-be6de986384cf072.svg",
     "categories": [
       {
@@ -2081,7 +2121,6 @@
   {
     "site_url": "https://englex.ru/",
     "name": "Инглекс",
-    "img": "platform/18326.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/12/21/18326-569d501842d9f94d.svg",
     "categories": [
       {
@@ -2217,7 +2256,6 @@
   {
     "site_url": "https://tetrika-school.ru/",
     "name": "Tetrika-school",
-    "img": "platform/21079.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2020/10/19/21079-dc42bc6bed43dbd2.png",
     "categories": [
       {
@@ -2393,7 +2431,6 @@
   {
     "site_url": "https://www.school-xyz.com/",
     "name": "XYZ School",
-    "img": "platform/24216.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/12/24216-19ac8481ceaf28f4.svg",
     "categories": [
       {
@@ -2514,7 +2551,6 @@
   {
     "site_url": "https://www.italki.com/",
     "name": "italki WW",
-    "img": "platform/24736.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/11/11/24736-096c8ef1af3efff0.svg",
     "categories": [
       {
@@ -2570,12 +2606,11 @@
       "cashback_link_data": null
     },
     "discountCount": 0,
-    "couponCount": 2
+    "couponCount": 3
   },
   {
     "site_url": "https://zaochnik.ru/",
     "name": "zaochnik",
-    "img": "platform/26664.jpg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/10/19/26664-45402df390a29890.jpg",
     "categories": [
       {
@@ -2617,9 +2652,51 @@
     "couponCount": 2
   },
   {
+    "site_url": "https://www.domestika.org/",
+    "name": "Domestika Many GEOs",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/31/35362-7d9b0f0f773e7a99.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Online Education",
+        "id": 98,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 35362,
+    "category": {
+      "name": "Online Education",
+      "id": 98,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://codeaven.com/g/k4sr06jzu65af0702a27fba72b73c2/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 1
+  },
+  {
     "site_url": "https://bangbangeducation.ru",
     "name": "Bang Bang Education",
-    "img": "platform/40582.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/30/40582-d9499a01963b562a.svg",
     "categories": [
       {
@@ -2679,7 +2756,6 @@
   {
     "site_url": "https://anecole.com/",
     "name": "ANECOLE RU",
-    "img": "platform/105113.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/17/105113-c97ea7f3d88d347d.svg",
     "categories": [
       {
@@ -2820,7 +2896,6 @@
   {
     "site_url": "https://ibls.one",
     "name": "IBLS",
-    "img": "platform/108706.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/2/6/108706-abeeeff5cb83af98.svg",
     "categories": [
       {
@@ -2895,7 +2970,6 @@
   {
     "site_url": "https://mosdigitals.ru/",
     "name": "mosdigitals RU",
-    "img": "platform/120023.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/24/120023-df95e81aa3da7f05.svg",
     "categories": [
       {
@@ -2967,7 +3041,6 @@
   {
     "site_url": "https://brunoyam.com/",
     "name": "Бруноям RU",
-    "img": "platform/120083.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/29/120083-63e0290875c8f202.svg",
     "categories": [
       {
@@ -3011,7 +3084,6 @@
   {
     "site_url": "https://100points.ru/",
     "name": "100балльный репетитор RU",
-    "img": "platform/134816.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/9/24/134816-24b933507cb7efc9.svg",
     "categories": [
       {
@@ -3232,7 +3304,6 @@
   {
     "site_url": "https://wikium.ru/",
     "name": "Викиум",
-    "img": "platform/15098.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/12/15098-310fa3101edf3764.svg",
     "categories": [
       {
@@ -3322,7 +3393,6 @@
   {
     "site_url": "https://www.fiverr.com/",
     "name": "Fiverr Many GEO's",
-    "img": "platform/18789.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/9/18789-ae5fe7fbd179bf9a.svg",
     "categories": [
       {
@@ -3383,7 +3453,6 @@
   {
     "site_url": "https://www.toprankers.com/",
     "name": "Top Rankers [CPA] IN",
-    "img": "platform/22604.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/13/22604-b2e314cda9d4950e.svg",
     "categories": [
       {
@@ -3427,7 +3496,6 @@
   {
     "site_url": "https://www.edureka.co/",
     "name": "Edureka [CPS] WW",
-    "img": "platform/23097.jpg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/8/6/23097-0af7402e44d2938d.jpg",
     "categories": [
       {
@@ -3487,7 +3555,6 @@
   {
     "site_url": "https://online.synchronize.ru/",
     "name": "Синхронизация RU",
-    "img": "platform/27872.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/10/18/27872-1c47d76625671dfc.svg",
     "categories": [
       {
@@ -3542,7 +3609,6 @@
   {
     "site_url": "https://sotkaonline.ru/",
     "name": "Сотка",
-    "img": "platform/29232.jpg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/8/5/29232-05fafa1c6f81ffe6.jpg",
     "categories": [
       {
@@ -3631,9 +3697,51 @@
     "couponCount": 0
   },
   {
+    "site_url": "https://www.grancursosonline.com.br/",
+    "name": "Gran Cursos BR",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/14/29511-1095484d3564ba13.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Online Education",
+        "id": 98,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 29511,
+    "category": {
+      "name": "Online Education",
+      "id": 98,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://grfpr.com/g/jt01sq424s5af0702a27120e7a318f/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
+  },
+  {
     "site_url": "https://kata.academy/",
     "name": "kata.academy",
-    "img": "platform/29569.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/10/18/29569-0cc5a5a55a885e6a.png",
     "categories": [
       {
@@ -3718,7 +3826,6 @@
   {
     "site_url": "https://preply.com/",
     "name": "Preply",
-    "img": "platform/29694.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/11/16/29694-58cb4585d8a2d2e8.svg",
     "categories": [
       {
@@ -3762,7 +3869,6 @@
   {
     "site_url": "https://lectarium.ru/",
     "name": "Lectarium.ru",
-    "img": "platform/29967.jpg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/11/28/29967-56c5fcb58c1695b1.jpg",
     "categories": [
       {
@@ -3818,7 +3924,6 @@
   {
     "site_url": "https://www.yescenter.ru/",
     "name": "YES Education Group",
-    "img": "platform/30176.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/4/20/30176-20f6c9f1703261aa.svg",
     "categories": [
       {
@@ -3862,7 +3967,6 @@
   {
     "site_url": "https://stockedge.com/",
     "name": "Stockedge [CPR] IN",
-    "img": "platform/32964.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/6/26/32964-35ed8ec8940c713d.svg",
     "categories": [
       {
@@ -3912,7 +4016,6 @@
   {
     "site_url": "https://youtalk.ru/",
     "name": "Youtalk",
-    "img": "platform/34454.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/5/2/34454-495fd0874b6536f4.svg",
     "categories": [
       {
@@ -3984,7 +4087,6 @@
   {
     "site_url": "https://nadpo.ru/",
     "name": "НАДПО",
-    "img": "platform/38693.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/4/3/38693-aac7070380112c32.svg",
     "categories": [
       {
@@ -4096,7 +4198,6 @@
   {
     "site_url": "https://skillbox.ru/",
     "name": "skillbox.ru",
-    "img": "platform/94747.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/4/11/94747-b786b69db1f09b2d.svg",
     "categories": [
       {
@@ -4241,7 +4342,6 @@
   {
     "site_url": "https://geekbrains.kz/sale/",
     "name": "Geekbrains KZ",
-    "img": "platform/98599.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/3/17/98599-2a8fef8a01e7e781.svg",
     "categories": [
       {
@@ -4337,7 +4437,6 @@
   {
     "site_url": "https://skillbox.kz/",
     "name": "Skillbox KZ",
-    "img": "platform/98770.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/20/98770-1c00f264a12e0f34.svg",
     "categories": [
       {
@@ -4477,7 +4576,6 @@
   {
     "site_url": "https://ncrdo.ru",
     "name": "НЦРДО RU",
-    "img": "platform/99616.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/5/26/99616-5befe7c1787640ff.svg",
     "categories": [
       {
@@ -4527,7 +4625,6 @@
   {
     "site_url": "https://www.liveexpert.org/",
     "name": "LiveExpert",
-    "img": "platform/99846.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/19/99846-a933aa36e0867186.svg",
     "categories": [
       {
@@ -4582,7 +4679,6 @@
   {
     "site_url": "https://psychodemia.ru/",
     "name": "",
-    "img": "platform/101848.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/6/18/101848-b9f8adbb6e1b65f2.svg",
     "categories": [
       {
@@ -4626,7 +4722,6 @@
   {
     "site_url": "https://mitm.institute",
     "name": "Московский институт технологий и управления",
-    "img": "platform/121276.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/3/5/121276-fe875684ffdff8f1.svg",
     "categories": [
       {
@@ -4676,7 +4771,6 @@
   {
     "site_url": "https://www.box.com/",
     "name": "Box Many GEOs",
-    "img": "platform/124592.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/3/20/124592-821ac000d1128ee3.svg",
     "categories": [
       {
@@ -4786,7 +4880,6 @@
   {
     "site_url": "https://webium.ru/",
     "name": "Онлайн-школа Вебиум",
-    "img": "platform/124769.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/3/27/124769-1992e349a14022ed.svg",
     "categories": [
       {
@@ -4830,7 +4923,6 @@
   {
     "site_url": "https://insperia.ru/",
     "name": "Insperia RU",
-    "img": "platform/127068.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/10/24/127068-45f464ade4ce0274.svg",
     "categories": [
       {
@@ -4874,7 +4966,6 @@
   {
     "site_url": "https://el-ed.ru/",
     "name": "ЕГЭLand RU",
-    "img": "platform/140380.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/9/10/140380-01222bd603311c61.svg",
     "categories": [
       {

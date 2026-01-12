@@ -394,5 +394,203 @@
     "promocode": "NOT REQUIRED",
     "frameset_link": "https://uhtkc.com/coupon/z89y8qcgua5af0702a27d04f993eab/",
     "goto_link": "https://uhtkc.com/g/8r4s4a6vp65af0702a27d04f993eab/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 26471,
+      "name": "Newbalance Many geos",
+      "site_url": "https://newbalance.cz/"
+    },
+    "description": "",
+    "short_name": "HU sale do -40%",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-02-07T14:17:34",
+    "id": 630186,
+    "regions": [
+      "HU"
+    ],
+    "discount": "40%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/5/4/26471-36fde9999887eed6.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      },
+      {
+        "id": 4,
+        "name": "Shoes"
+      },
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "HU sale do -40%",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "https://uhtkc.com/coupon/28b40egfce5af0702a27d04f993eab/",
+    "goto_link": "https://uhtkc.com/g/50ziv5rz8i5af0702a27d04f993eab/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 26471,
+      "name": "Newbalance Many geos",
+      "site_url": "https://newbalance.cz/"
+    },
+    "description": "",
+    "short_name": "SK sale do -40%",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-02-07T14:16:41",
+    "id": 630185,
+    "regions": [
+      "SK"
+    ],
+    "discount": "40%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/5/4/26471-36fde9999887eed6.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      },
+      {
+        "id": 4,
+        "name": "Shoes"
+      },
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "SK sale do -40%",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "https://uhtkc.com/coupon/bn0t9xm3ew5af0702a27d04f993eab/",
+    "goto_link": "https://uhtkc.com/g/cryma6oqpu5af0702a27d04f993eab/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 26471,
+      "name": "Newbalance Many geos",
+      "site_url": "https://newbalance.cz/"
+    },
+    "description": "",
+    "short_name": "CZ sale do -40%",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-02-07T14:15:46",
+    "id": 630183,
+    "regions": [
+      "CZ"
+    ],
+    "discount": "40%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/5/4/26471-36fde9999887eed6.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      },
+      {
+        "id": 4,
+        "name": "Shoes"
+      },
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "CZ sale do -40%",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "https://uhtkc.com/coupon/4wn31oskd75af0702a27d04f993eab/",
+    "goto_link": "https://uhtkc.com/g/fv1unhy8105af0702a27d04f993eab/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 26471,
+      "name": "Newbalance Many geos",
+      "site_url": "https://newbalance.cz/"
+    },
+    "description": "",
+    "short_name": "Free Delivery",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-01-02T17:20:52",
+    "id": 621587,
+    "regions": [
+      "CZ",
+      "HU",
+      "SK"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/5/4/26471-36fde9999887eed6.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 4,
+        "name": "Shoes"
+      }
+    ],
+    "name": "Free Delivery",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "https://uhtkc.com/coupon/z89y8qcgua5af0702a27d04f993eab/",
+    "goto_link": "https://uhtkc.com/g/8r4s4a6vp65af0702a27d04f993eab/?i=3"
   }
 ]

@@ -1,0 +1,45 @@
+[
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 35362,
+      "name": "Domestika Many GEOs",
+      "site_url": "https://www.domestika.org/"
+    },
+    "description": "Not applicable to the purchase of packs or the Domestika Plus subscription",
+    "short_name": "Exclusive discount code for an extra 10% on the purchase of any Domestika course",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-04-25T20:37:58",
+    "id": 750277,
+    "regions": [
+      "00"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/8/31/35362-7d9b0f0f773e7a99.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 22,
+        "name": "Online Education"
+      }
+    ],
+    "name": "Exclusive discount code for an extra 10% on the purchase of any Domestika course",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ADMITAD10",
+    "frameset_link": "",
+    "goto_link": "https://codeaven.com/g/3irjfvppnx5af0702a27fba72b73c2/?i=3"
+  }
+]

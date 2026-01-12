@@ -2,7 +2,6 @@
   {
     "site_url": "https://airo.ru/",
     "name": "Airo",
-    "img": "platform/18887.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/10/23/18887-19979f6f0164dddb.svg",
     "categories": [
       {
@@ -46,7 +45,6 @@
   {
     "site_url": "https://www.domovenok.ru/",
     "name": "Domovenok",
-    "img": "platform/21083.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/12/27/21083-313972da3a2d6848.svg",
     "categories": [
       {
@@ -90,7 +88,6 @@
   {
     "site_url": "https://invideo.io/",
     "name": "InVideo WW",
-    "img": "platform/23841.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/7/17/23841-aac9b3cfa5ed901e.svg",
     "categories": [
       {
@@ -128,13 +125,12 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "discountCount": 6,
-    "couponCount": 16
+    "discountCount": 9,
+    "couponCount": 24
   },
   {
     "site_url": "https://alter.ru/start",
     "name": "Alter",
-    "img": "platform/24854.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/6/28/24854-b20488b3c44f1f9b.png",
     "categories": [
       {
@@ -193,9 +189,68 @@
     "couponCount": 1
   },
   {
+    "site_url": "https://themeforest.net/",
+    "name": "Envato Market Many GEOs",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/11/24/21122-e6f97de40a6ce2df.svg",
+    "categories": [
+      {
+        "name": "Other Services",
+        "id": 93,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "IT Services & Soft",
+        "id": 122,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 21122,
+    "category": {
+      "name": "Other Services",
+      "id": 93,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://rkdro.com/g/asu3g6un0r5af0702a2753f7fdfbf4/",
+      "landings": [
+        {
+          "id": 10805,
+          "name": "Template Kits",
+          "code": "df7b5954cd"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 12,
+    "couponCount": 0
+  },
+  {
     "site_url": "https://www.edrawsoft.com/",
     "name": "Edrawsoft WW",
-    "img": "platform/23197.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/11/28/23197-c4a21cdf5105f81b.svg",
     "categories": [
       {
@@ -366,7 +421,6 @@
   {
     "site_url": "https://www.petrolplus.ru/",
     "name": "Petrolplus",
-    "img": "platform/26798.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/10/27/26798-7b98b9f85dac8771.svg",
     "categories": [
       {
@@ -471,7 +525,6 @@
   {
     "site_url": "https://emiratesdraw.com/",
     "name": "Emirates Draw CPS Many Geos",
-    "img": "platform/30811.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/2/28/30811-64f1087d2c5db5f5.svg",
     "categories": [
       {
@@ -520,13 +573,12 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "discountCount": 2,
+    "discountCount": 3,
     "couponCount": 0
   },
   {
     "site_url": "https://www.wondershare.com/",
     "name": "Wondershare WW",
-    "img": "platform/23157.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/11/28/23157-cd85af7f8d7bfe13.svg",
     "categories": [
       {
@@ -1087,12 +1139,11 @@
       "cashback_link_data": null
     },
     "discountCount": 0,
-    "couponCount": 3
+    "couponCount": 4
   },
   {
     "site_url": "https://gruzovichkof.ru/",
     "name": "Gruzovichkof",
-    "img": "platform/26165.jpg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/10/25/26165-700d6078681376c0.jpg",
     "categories": [
       {
@@ -1142,7 +1193,6 @@
   {
     "site_url": "https://Ultahost.com",
     "name": "Ultahost WW",
-    "img": "platform/39284.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/9/1/39284-9c6b0ef9a2874768.svg",
     "categories": [
       {
@@ -1187,12 +1237,11 @@
       "cashback_link_data": null
     },
     "discountCount": 0,
-    "couponCount": 2
+    "couponCount": 3
   },
   {
     "site_url": "https://freedom.to",
     "name": "Freedom WW",
-    "img": "platform/40489.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/9/22/40489-512ad9c5c802a728.svg",
     "categories": [
       {
@@ -1231,12 +1280,11 @@
       "cashback_link_data": null
     },
     "discountCount": 0,
-    "couponCount": 2
+    "couponCount": 3
   },
   {
     "site_url": "https://ggpick.com",
     "name": "GGPick [CPS] ManyGEOs",
-    "img": "platform/127034.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/5/30/127034-076b839dea3f9f0b.svg",
     "categories": [
       {
@@ -1395,12 +1443,11 @@
       "cashback_link_data": null
     },
     "discountCount": 0,
-    "couponCount": 4
+    "couponCount": 6
   },
   {
     "site_url": "https://picsart.com/",
     "name": "Picsart WW",
-    "img": "platform/127045.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/4/24/127045-ebaa8747efb1afd1.svg",
     "categories": [
       {
@@ -1483,12 +1530,11 @@
       "cashback_link_data": null
     },
     "discountCount": 0,
-    "couponCount": 4
+    "couponCount": 6
   },
   {
     "site_url": "https://www.valuedopinions.co.in/",
     "name": "Valued Opinions [CPL] IN",
-    "img": "platform/22421.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/9/24/22421-608784be3ab75f24.svg",
     "categories": [
       {
@@ -1532,7 +1578,6 @@
   {
     "site_url": "https://pro.rbc.ru/offers/",
     "name": "RBK Pro",
-    "img": "platform/26229.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/5/29/26229-bbc177c7bcbb2ea3.svg",
     "categories": [
       {
@@ -1604,7 +1649,6 @@
   {
     "site_url": "https://www.parcel2go.com",
     "name": "Parcel2Go UK",
-    "img": "platform/26660.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/8/29/26660-83b5e6c1337c8893.svg",
     "categories": [
       {
@@ -1648,7 +1692,6 @@
   {
     "site_url": "https://www.pdffiller.com/",
     "name": "Pdffiller Many Geos",
-    "img": "platform/30956.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/12/3/30956-59bfdaf85ce8dc91.svg",
     "categories": [
       {
@@ -1692,7 +1735,6 @@
   {
     "site_url": "https://www.thehindu.com/",
     "name": "The Hindu [CPS] IN",
-    "img": "platform/33979.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/5/5/33979-7c6aa0bee8ce0547.svg",
     "categories": [
       {
@@ -1736,7 +1778,6 @@
   {
     "site_url": "https://vectorstock.com",
     "name": "VectorStock WW",
-    "img": "platform/34192.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/1/34192-f1c44917bef51c7c.svg",
     "categories": [
       {
@@ -1791,7 +1832,6 @@
   {
     "site_url": "https://smartreading.ru",
     "name": "Smart Reading",
-    "img": "platform/36190.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/7/7/36190-12c1e2ee4fd5fc9a.svg",
     "categories": [
       {
@@ -1874,7 +1914,6 @@
   {
     "site_url": "https://ticketscloud.com/",
     "name": "Ticketscloud RU",
-    "img": "platform/39458.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/1/15/39458-d8d541e95fdab907.svg",
     "categories": [
       {
@@ -1940,7 +1979,6 @@
   {
     "site_url": "https://arenda.yandex.ru/",
     "name": "Яндекс Аренда RU",
-    "img": "platform/40594.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/9/20/40594-86233c3dc6dbb45c.svg",
     "categories": [
       {
@@ -2001,7 +2039,6 @@
   {
     "site_url": "https://www.ccleaner.com/ccleaner",
     "name": "CCLeanerWW",
-    "img": "platform/45941.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/4/4/45941-bc5fbd56e62d2ed2.svg",
     "categories": [
       {
@@ -2067,7 +2104,6 @@
   {
     "site_url": "https://mts.ru/personal/vybrat-nomer/",
     "name": "",
-    "img": "platform/48995.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/12/15/48995-2c873a00c63c66ea.svg",
     "categories": [
       {
@@ -2133,7 +2169,6 @@
   {
     "site_url": "https://cyber-florist.com/",
     "name": "Cyber Florist Many GEOs",
-    "img": "platform/50025.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/1/12/50025-9e5d3b67fe3630e4.svg",
     "categories": [
       {
@@ -2183,7 +2218,6 @@
   {
     "site_url": "https://onboarding.admitad.com/",
     "name": "Admitad Onboarding Affiliate Offer",
-    "img": "platform/105626.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/5/12/105626-b51a06f6c685d6bb.svg",
     "categories": [
       {
@@ -2227,7 +2261,6 @@
   {
     "site_url": "https://drive.yango.com/",
     "name": "Yango Drive AE Promo codes & Links",
-    "img": "platform/111007.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/10/3/111007-17eee65b8fff32a7.svg",
     "categories": [
       {
@@ -2327,7 +2360,6 @@
   {
     "site_url": "https://kaiten.ru/",
     "name": "Kaiten RU",
-    "img": "platform/111444.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/10/10/111444-074f4e8fbd7ca2d9.svg",
     "categories": [
       {
@@ -2393,7 +2425,6 @@
   {
     "site_url": "https://www.notta.ai/",
     "name": "Notta AI WW",
-    "img": "platform/127037.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/5/21/127037-ca7b0cd155d1fced.svg",
     "categories": [
       {
@@ -2465,7 +2496,6 @@
   {
     "site_url": "https://www.tiktok.com/",
     "name": "TikTok Lite [Android, CPI/CPA] BR",
-    "img": "platform/147512.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/11/27/147512-5988b7c91891a520.svg",
     "categories": [
       {

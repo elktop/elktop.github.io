@@ -234,5 +234,85 @@
     "promocode": "WILLKOMMEN10",
     "frameset_link": "",
     "goto_link": "https://xyowz.com/g/toehpnxzjs5af0702a27cadd1b4d81/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 144417,
+      "name": "Tatkraft Home & Office Furniture Partners EU",
+      "site_url": "https://tatkraftshop.eu"
+    },
+    "description": "For new customers only, one-time use.\r\nNot combinable with other discounts.\r\nFree EU shipping.",
+    "short_name": "10 % off for new customers – code WILLKOMMEN10",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-11-12T11:06:58",
+    "id": 882845,
+    "regions": [
+      "AT",
+      "BA",
+      "BE",
+      "BG",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IS",
+      "IT",
+      "LT",
+      "LU",
+      "LV",
+      "MD",
+      "ME",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "RS",
+      "SE",
+      "SI",
+      "SK"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/12/18/144417-8a9efc73a3040562.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 7,
+        "name": "Homeware"
+      },
+      {
+        "id": 23,
+        "name": "DIY, Garden"
+      }
+    ],
+    "name": "10 % off for new customers – code WILLKOMMEN10",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "WILLKOMMEN10",
+    "frameset_link": "",
+    "goto_link": "https://xyowz.com/g/toehpnxzjs5af0702a27cadd1b4d81/?i=3"
   }
 ]

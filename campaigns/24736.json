@@ -84,5 +84,48 @@
     "promocode": "Genad1",
     "frameset_link": "https://xcdus.com/coupon/smld7hn8zd5af0702a270dfa1a7923/",
     "goto_link": "https://xcdus.com/g/c1ln97shg15af0702a270dfa1a7923/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "5.13",
+    "campaign": {
+      "id": 24736,
+      "name": "italki WW",
+      "site_url": "https://www.italki.com/"
+    },
+    "description": "New users only",
+    "short_name": "Buy 10.00 get 5.00 USD for free",
+    "exclusive": false,
+    "date_end": "2027-12-22T23:59:00",
+    "date_start": "2025-12-29T00:00:00",
+    "id": 893774,
+    "regions": [
+      "00"
+    ],
+    "discount": "5 $",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/11/11/24736-096c8ef1af3efff0.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 22,
+        "name": "Online Education"
+      }
+    ],
+    "name": "Buy 10.00 get 5.00 USD for free",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "Genad1",
+    "frameset_link": "https://xcdus.com/coupon/smld7hn8zd5af0702a270dfa1a7923/",
+    "goto_link": "https://xcdus.com/g/c1ln97shg15af0702a270dfa1a7923/?i=3"
   }
 ]

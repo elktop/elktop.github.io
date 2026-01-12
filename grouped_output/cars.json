@@ -2,7 +2,6 @@
   {
     "site_url": "https://turbosto.com.ua/",
     "name": "Turbosto UA",
-    "img": "platform/90288.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/3/7/90288-49ca3d04665f5f8c.svg",
     "categories": [
       {
@@ -53,6 +52,49 @@
       "cashback_link_data": null
     },
     "discountCount": 1,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://top-master.com.ua",
+    "name": "Top-master UA",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/11/26/147321-d0a56ccca36f2111.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Cars",
+        "id": 256,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 147321,
+    "category": {
+      "name": "Cars",
+      "id": 256,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://uuwgc.com/g/0yumlzlsyy5af0702a27fdc0c62af2/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
     "couponCount": 0
   }
 ]

@@ -2,7 +2,6 @@
   {
     "site_url": "https://www.myheritage.com/",
     "name": "MyHeritage DNA WW",
-    "img": "platform/41597.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/11/18/41597-5bf4ef2b3fe781fa.svg",
     "categories": [
       {
@@ -58,7 +57,6 @@
   {
     "site_url": "https://ridmi.com.ua/",
     "name": "Ridmi UA",
-    "img": "platform/42158.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/10/17/42158-3f1937c76eda253a.svg",
     "categories": [
       {
@@ -112,9 +110,63 @@
     "couponCount": 0
   },
   {
+    "site_url": "https://bohdan-books.com/",
+    "name": "Bohdan-books UA",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/8/6/80430-35d5a07e4875e41b.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Books",
+        "id": 70,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Smart Tracking_UA",
+        "id": 379,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 80430,
+    "category": {
+      "name": "Books",
+      "id": 70,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://xnmik.com/g/zmkzuvfdp25af0702a277a58ab5bae/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 4,
+    "couponCount": 0
+  },
+  {
     "site_url": "https://www.legimi.pl/",
     "name": "Legimi PL",
-    "img": "platform/26337.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/29/26337-0aac8d0470ecd307.svg",
     "categories": [
       {
@@ -158,7 +210,6 @@
   {
     "site_url": "https://www.gramedia.com/",
     "name": "Gramedia [CPS] ID",
-    "img": "platform/91854.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/3/15/91854-00fab9a98c884cd7.svg",
     "categories": [
       {
@@ -202,7 +253,6 @@
   {
     "site_url": "https://litgorod.ru",
     "name": "Litgorod RU",
-    "img": "platform/128889.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/5/28/128889-2ad9e54782181a9c.svg",
     "categories": [
       {
@@ -246,7 +296,6 @@
   {
     "site_url": "https://storiesofbible.com/",
     "name": "Stories of Bible AU CA UK US",
-    "img": "platform/142763.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/9/16/142763-97755456c52de18f.svg",
     "categories": [
       {

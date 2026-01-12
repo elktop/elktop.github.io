@@ -2,7 +2,6 @@
   {
     "site_url": "https://www.viaconto.ro/",
     "name": "Viaconto RO",
-    "img": "platform/29148.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/7/13/29148-21f1a7e216c2ad74.svg",
     "categories": [
       {
@@ -46,13 +45,12 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "discountCount": 2,
+    "discountCount": 3,
     "couponCount": 0
   },
   {
     "site_url": "https://horacredit.ro/",
     "name": "HoraCredit RO",
-    "img": "platform/20493.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/6/2/20493-b9f1d91e4034ce08.svg",
     "categories": [
       {
@@ -124,7 +122,6 @@
   {
     "site_url": "https://www.zonky.cz/",
     "name": "Zonky CZ",
-    "img": "platform/25944.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/6/25/25944-cdad5b2c52f884c5.svg",
     "categories": [
       {
@@ -168,7 +165,6 @@
   {
     "site_url": "https://www.solcredito.mx/",
     "name": "Sol Crédito MX",
-    "img": "platform/32035.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/31/32035-fd763674e6184049.svg",
     "categories": [
       {
@@ -212,7 +208,6 @@
   {
     "site_url": "https://coolcredit.cz/",
     "name": "CoolCredit cz",
-    "img": "platform/32932.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/9/14/32932-c3a1c5af0853c7bb.svg",
     "categories": [
       {
@@ -256,7 +251,6 @@
   {
     "site_url": "https://vistacredit.cz/",
     "name": "Vistacredit CZ CPS",
-    "img": "platform/42348.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/12/8/42348-7ec6a4f5880fac9e.svg",
     "categories": [
       {
@@ -328,7 +322,6 @@
   {
     "site_url": "https://www.proficredit.cz/",
     "name": "Proficredit cz CPS",
-    "img": "platform/100491.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/6/10/100491-6c1081d94f844f75.svg",
     "categories": [
       {
@@ -372,7 +365,6 @@
   {
     "site_url": "https://www.zonky.cz/",
     "name": "Zonky cz CPS",
-    "img": "platform/101203.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/6/25/101203-6f5b992b58ad3f25.svg",
     "categories": [
       {
@@ -416,7 +408,6 @@
   {
     "site_url": "https://credito-365.mx/",
     "name": "Credito365",
-    "img": "platform/120523.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/23/120523-aad968f776df218d.svg",
     "categories": [
       {
@@ -460,7 +451,6 @@
   {
     "site_url": "https://crediton.cz/",
     "name": "AvaFin (Crediton) CZ/SK",
-    "img": "platform/121746.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/6/17/121746-955b922a45a40978.svg",
     "categories": [
       {
@@ -504,7 +494,6 @@
   {
     "site_url": "https://creditportal.cz/",
     "name": "Сreditportal CZ/SK",
-    "img": "platform/121764.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/2/13/121764-1000afbec062f1dd.svg",
     "categories": [
       {
@@ -548,7 +537,6 @@
   {
     "site_url": "https://www.westernunion.com/",
     "name": "Western Union Many GEOs",
-    "img": "platform/131897.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/7/21/131897-6859ac500c8fed45.svg",
     "categories": [
       {
@@ -702,7 +690,6 @@
   {
     "site_url": "https://slana.mx/",
     "name": "$Lana MX",
-    "img": "platform/145562.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/10/20/145562-9d0cc1aa365d94b8.svg",
     "categories": [
       {

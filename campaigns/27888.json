@@ -424,5 +424,218 @@
     "promocode": "NOT REQUIRED",
     "frameset_link": "https://xnmik.com/coupon/3a8wg1o3mc5af0702a27be0d510ed1/",
     "goto_link": "https://xnmik.com/g/r8vi9fw5na5af0702a27be0d510ed1/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 27888,
+      "name": "Joom Many GEOs",
+      "site_url": "https://www.joom.com/"
+    },
+    "description": "Korean Cosmetics 2 items with 20% off + Sale discounts",
+    "short_name": "Korean Cosmetics 2 items with 20% off + Sale discounts",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-08-29T22:56:39",
+    "id": 792030,
+    "regions": [
+      "AT",
+      "BE",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "EE",
+      "ES",
+      "FR",
+      "GB",
+      "GE",
+      "GR",
+      "HU",
+      "IE",
+      "IL",
+      "IT",
+      "KZ",
+      "LT",
+      "LV",
+      "MD",
+      "MT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "SE",
+      "SK",
+      "UA"
+    ],
+    "discount": "20%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/12/6/27888-c1e25abb5be26939.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 34,
+        "name": "Marketplaces (including Chinese Stores)"
+      }
+    ],
+    "name": "Korean Cosmetics 2 items with 20% off + Sale discounts",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "https://xnmik.com/coupon/xj0q23ba825af0702a27be0d510ed1/",
+    "goto_link": "https://xnmik.com/g/0nn9nlif7i5af0702a27be0d510ed1/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 27888,
+      "name": "Joom Many GEOs",
+      "site_url": "https://www.joom.com/"
+    },
+    "description": "Jewelry from India 3 items with 60% off",
+    "short_name": "Jewelry from India 3 items with 60% off",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-08-29T22:55:58",
+    "id": 792029,
+    "regions": [
+      "AT",
+      "BE",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "EE",
+      "ES",
+      "FR",
+      "GB",
+      "GE",
+      "GR",
+      "HU",
+      "IE",
+      "IL",
+      "IT",
+      "KZ",
+      "LT",
+      "LV",
+      "MD",
+      "MT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "SE",
+      "SK",
+      "UA"
+    ],
+    "discount": "60%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/12/6/27888-c1e25abb5be26939.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 34,
+        "name": "Marketplaces (including Chinese Stores)"
+      }
+    ],
+    "name": "Jewelry from India 3 items with 60% off",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "https://xnmik.com/coupon/zyixrfgbxz5af0702a27be0d510ed1/",
+    "goto_link": "https://xnmik.com/g/d480d9jnw75af0702a27be0d510ed1/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "4.18",
+    "campaign": {
+      "id": 27888,
+      "name": "Joom Many GEOs",
+      "site_url": "https://www.joom.com/"
+    },
+    "description": "Best from India with 44% coupon",
+    "short_name": "Best from India with 44% coupon",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-08-29T22:55:13",
+    "id": 792028,
+    "regions": [
+      "AT",
+      "BE",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "EE",
+      "ES",
+      "FR",
+      "GB",
+      "GE",
+      "GR",
+      "HU",
+      "IE",
+      "IL",
+      "IT",
+      "KZ",
+      "LT",
+      "LV",
+      "MD",
+      "MT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "SE",
+      "SK",
+      "UA"
+    ],
+    "discount": "44%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2023/12/6/27888-c1e25abb5be26939.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 34,
+        "name": "Marketplaces (including Chinese Stores)"
+      }
+    ],
+    "name": "Best from India with 44% coupon",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "https://xnmik.com/coupon/3a8wg1o3mc5af0702a27be0d510ed1/",
+    "goto_link": "https://xnmik.com/g/r8vi9fw5na5af0702a27be0d510ed1/?i=3"
   }
 ]

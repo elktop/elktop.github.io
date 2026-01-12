@@ -2,7 +2,6 @@
   {
     "site_url": "https://www.tez-tour.com/",
     "name": "Tez Tour  RU & CIS",
-    "img": "platform/19038.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2020/12/1/19038-72ea9a9b4430e777.png",
     "categories": [
       {
@@ -131,7 +130,6 @@
   {
     "site_url": "https://www.italiarail.com/",
     "name": "Italiarail [CPS] Many GEOs",
-    "img": "platform/21754.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/8/21754-dbe3c838f137a520.svg",
     "categories": [
       {
@@ -208,13 +206,83 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "discountCount": 12,
+    "discountCount": 18,
     "couponCount": 0
+  },
+  {
+    "site_url": "https://www.tarispb.ru",
+    "name": "Тари Тур RU",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/12/2/146683-bd16cb739198eac0.svg",
+    "categories": [
+      {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Package Holidays",
+        "id": 45,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Hotels",
+        "id": 41,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Tours",
+        "id": 234,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "New Year Festival 2026",
+        "id": 378,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 146683,
+    "category": {
+      "name": "Package Holidays",
+      "id": 45,
+      "language": "en",
+      "parent": {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://ogsib.com/g/wdrzixul9o5af0702a27e8f59da0b4/?erid=2bL9aMPo2e49hMef4rqxsH9G97",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 1
   },
   {
     "site_url": "https://sletat.ru/",
     "name": "Слетать.ру",
-    "img": "platform/22099.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/9/16/22099-92b4a56f56e9137d.svg",
     "categories": [
       {
@@ -320,7 +388,6 @@
   {
     "site_url": "https://www.sanatoriums.com/",
     "name": "Sanatoriums",
-    "img": "platform/27676.jpg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/2/8/27676-d266269ca85d317f.jpg",
     "categories": [
       {
@@ -364,7 +431,6 @@
   {
     "site_url": "https://www.travelsupermarket.com/",
     "name": "Travel Supermarket UK",
-    "img": "platform/27953.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/1/12/27953-ba206d2ba943c450.svg",
     "categories": [
       {
@@ -461,7 +527,6 @@
   {
     "site_url": "https://www.omanair.com/",
     "name": "Oman Airway Global",
-    "img": "platform/100459.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/5/20/100459-cf52355a06ed0c9a.svg",
     "categories": [
       {
@@ -516,7 +581,6 @@
   {
     "site_url": "https://armatatour.ru",
     "name": "Armatatour RU",
-    "img": "platform/131724.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/7/1/131724-cf32a8a89265588f.svg",
     "categories": [
       {

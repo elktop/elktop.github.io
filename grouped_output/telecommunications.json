@@ -2,7 +2,6 @@
   {
     "site_url": "https://www.ufanet.ru/",
     "name": "",
-    "img": "platform/36195.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/5/30/36195-a9579484fec735f0.svg",
     "categories": [
       {
@@ -89,7 +88,6 @@
   {
     "site_url": "https://www.globalyo.com/",
     "name": "Global YO WW",
-    "img": "platform/44814.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/8/7/44814-9ce2fca0c7b24128.svg",
     "categories": [
       {
@@ -139,13 +137,12 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "discountCount": 2,
-    "couponCount": 2
+    "discountCount": 3,
+    "couponCount": 3
   },
   {
     "site_url": "https://hyperhost.ua/",
     "name": "English (US)",
-    "img": "platform/105262.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/19/105262-e9a6b920ed84449b.svg",
     "categories": [
       {
@@ -206,7 +203,6 @@
   {
     "site_url": "https://www.tinkoff.ru/mobile-operator/form/",
     "name": "Т- Мобайл (SIM-карты)",
-    "img": "platform/21070.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/2/21070-44b909eb66a0025f.svg",
     "categories": [
       {
@@ -297,7 +293,6 @@
   {
     "site_url": "https://sbermobile.ru/",
     "name": "СберМобайл RU",
-    "img": "platform/120932.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/31/120932-a78f80156bfd728c.svg",
     "categories": [
       {
@@ -343,5 +338,48 @@
     },
     "discountCount": 0,
     "couponCount": 4
+  },
+  {
+    "site_url": "https://www.airalo.com/",
+    "name": "Airalo LATAM",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/9/20/108775-6887c48555510ffe.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Telecommunications",
+        "id": 20,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 108775,
+    "category": {
+      "name": "Telecommunications",
+      "id": 20,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://ewwhk.com/g/olpcjo8eyw5af0702a2754343a3e29/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
   }
 ]

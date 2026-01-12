@@ -256,5 +256,134 @@
     "promocode": "admitad",
     "frameset_link": "https://codeaven.com/coupon/sa1v62xbtl5af0702a274c82334b24/",
     "goto_link": "https://codeaven.com/g/rmavq6symd5af0702a274c82334b24/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 28476,
+      "name": "iolo WW",
+      "site_url": "https://www.iolo.com/"
+    },
+    "description": "",
+    "short_name": "60% OFF System Mechanic CPA - Admitad",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-03-04T11:46:39",
+    "id": 837114,
+    "regions": [
+      "00"
+    ],
+    "discount": "60%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2022/4/15/28476-77ae0f6d78db9243.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "60% OFF System Mechanic CPA - Admitad",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "https://codeaven.com/coupon/ltyxg1z9cp5af0702a274c82334b24/",
+    "goto_link": "https://codeaven.com/g/5vvyuky11b5af0702a274c82334b24/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 28476,
+      "name": "iolo WW",
+      "site_url": "https://www.iolo.com/"
+    },
+    "description": "",
+    "short_name": "Get a massive 70% off System Mechanic, just $14.98! Coupon code: admitad",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2022-06-23T00:00:00",
+    "id": 464053,
+    "regions": [
+      "US"
+    ],
+    "discount": "70%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2022/4/15/28476-77ae0f6d78db9243.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Get a massive 70% off System Mechanic, just $14.98! Coupon code: admitad",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "admitad",
+    "frameset_link": "https://codeaven.com/coupon/52nvtoke4t5af0702a274c82334b24/",
+    "goto_link": "https://codeaven.com/g/gxdyft35di5af0702a274c82334b24/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 28476,
+      "name": "iolo WW",
+      "site_url": "https://www.iolo.com/"
+    },
+    "description": "",
+    "short_name": "Get a massive 70% off System Mechanic Pro, just $20.98! Coupon code: admitad",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2022-06-23T00:00:00",
+    "id": 464050,
+    "regions": [
+      "US"
+    ],
+    "discount": "70%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2022/4/15/28476-77ae0f6d78db9243.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 8,
+        "name": "Computers & Electronics"
+      }
+    ],
+    "name": "Get a massive 70% off System Mechanic Pro, just $20.98! Coupon code: admitad",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "admitad",
+    "frameset_link": "https://codeaven.com/coupon/sa1v62xbtl5af0702a274c82334b24/",
+    "goto_link": "https://codeaven.com/g/rmavq6symd5af0702a274c82334b24/?i=3"
   }
 ]

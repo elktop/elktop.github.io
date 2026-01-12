@@ -3,7 +3,6 @@
     {
       "site_url": "https://shop.megafon.ru/",
       "name": "МегаФон",
-      "img": "platform/2402.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2024/1/16/2402-40e3a5aa54f776dd.svg",
       "categories": [
         {
@@ -45,110 +44,8 @@
       "couponCount": 1
     },
     {
-      "site_url": "https://lingualeo.com/",
-      "name": "Lingualeo",
-      "img": "platform/2476.svg",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2024/2/20/2476-76c48122217d3a08.svg",
-      "categories": [
-        {
-          "name": "Online Education",
-          "id": 98,
-          "language": "en",
-          "parent": {
-            "name": "Online Services",
-            "id": 18,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        },
-        {
-          "name": "New Year Festival 2026",
-          "id": 378,
-          "language": "en",
-          "parent": null
-        }
-      ],
-      "id": 2476,
-      "category": {
-        "name": "Online Education",
-        "id": 98,
-        "language": "en",
-        "parent": {
-          "name": "Online Services",
-          "id": 18,
-          "language": "en",
-          "parent": null
-        }
-      },
-      "affiliate": {
-        "goto_link": "https://xcdus.com/g/e583077b635af0702a27c814d4b7c0/?erid=5jtCeReLm1S3Xx3LfA8SFZ6",
-        "landings": [
-          {
-            "id": 21714,
-            "name": "Страница Premium",
-            "code": "54b349ff1a"
-          },
-          {
-            "id": 22005,
-            "name": "Подарки другу",
-            "code": "619e8e1969"
-          },
-          {
-            "id": 26113,
-            "name": "Годовой премиум скидка 60 процентов",
-            "code": "4acfe94f27"
-          },
-          {
-            "id": 22435,
-            "name": "Киберпонедельник.. Все тематические курсы за 1990 рублей вместо 60176",
-            "code": "5f17e372ab"
-          },
-          {
-            "id": 21715,
-            "name": "Главная страница",
-            "code": "6e209b8db6"
-          },
-          {
-            "id": 22003,
-            "name": "вечный Premium со скидкой 60 процентов",
-            "code": "5135c20591"
-          },
-          {
-            "id": 22004,
-            "name": "два года за 4990 рублей со скидкой 58 процентов",
-            "code": "bf65ef740e"
-          },
-          {
-            "id": 21809,
-            "name": "год Premium-подписки со скидкой 50 процентов",
-            "code": "543051db27"
-          },
-          {
-            "id": 31124,
-            "name": "1 Месяц Premium-доступа в подарок",
-            "code": "9852cb6c31"
-          },
-          {
-            "id": 22500,
-            "name": "Промо Etorazvod для старых пользователей",
-            "code": "a469b2544f"
-          }
-        ],
-        "cashback_link_data": null
-      },
-      "discountCount": 9,
-      "couponCount": 1
-    },
-    {
       "site_url": "https://groupprice.ru/",
       "name": "GroupPrice",
-      "img": "platform/2814.png",
       "image": "https://cdn.admitad-connect.com/campaign/images/2020/10/14/2814-2b06af32b7abd306.png",
       "categories": [
         {
@@ -215,7 +112,6 @@
     {
       "site_url": "https://2-berega.ru/",
       "name": "2 Берега",
-      "img": "platform/4855.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2024/4/9/4855-a9a4885fb2f3d178.svg",
       "categories": [
         {
@@ -265,13 +161,12 @@
         ],
         "cashback_link_data": null
       },
-      "discountCount": 2,
-      "couponCount": 5
+      "discountCount": 4,
+      "couponCount": 3
     },
     {
       "site_url": "https://www.aliexpress.com/",
       "name": "Aliexpress WW",
-      "img": "platform/6115.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/14/6115-e9b6f3723f58304b.svg",
       "categories": [
         {
@@ -497,13 +392,78 @@
         ],
         "cashback_link_data": null
       },
-      "discountCount": 29,
-      "couponCount": 208
+      "discountCount": 33,
+      "couponCount": 217
+    },
+    {
+      "site_url": "https://itmag.ua/",
+      "name": "ITMag UA",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2025/7/22/7952-d8cd72c19b7c5def.svg",
+      "categories": [
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Household Appliances & Electronics",
+          "id": 65,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Smart Tracking_UA",
+          "id": 379,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Smart tracking programs",
+          "id": 382,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "id": 7952,
+      "category": {
+        "name": "Household Appliances & Electronics",
+        "id": 65,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      "affiliate": {
+        "goto_link": "https://bywiola.com/g/b068256ff55af0702a27ee56bcdf5d/",
+        "landings": [
+          {
+            "id": 502,
+            "name": "ITMAG UA",
+            "code": "4596580acb"
+          },
+          {
+            "id": 501,
+            "name": "itmag.ua",
+            "code": "75488e473d"
+          }
+        ],
+        "cashback_link_data": null
+      },
+      "discountCount": 2,
+      "couponCount": 1
     },
     {
       "site_url": "https://baon.ru/",
       "name": "Baon",
-      "img": "platform/10964.jpg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/18/10964-2393d8a4294a0afa.jpg",
       "categories": [
         {
@@ -553,7 +513,6 @@
     {
       "site_url": "https://tefal.ru/",
       "name": "Tefal",
-      "img": "platform/14113.jpg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2020/10/19/14113-37f7a7e0b8b3074a.jpg",
       "categories": [
         {
@@ -615,7 +574,6 @@
     {
       "site_url": "https://skyeng.ru/",
       "name": "Skyeng",
-      "img": "platform/14359.png",
       "image": "https://cdn.admitad-connect.com/campaign/images/2020/10/9/14359-298c5da2cb03118c.png",
       "categories": [
         {
@@ -845,7 +803,6 @@
     {
       "site_url": "https://elyts.ru/",
       "name": "Elyts",
-      "img": "platform/14482.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2024/9/12/14482-b4b69946538b6962.svg",
       "categories": [
         {
@@ -895,7 +852,6 @@
     {
       "site_url": "https://answear.ua/",
       "name": "Answear UA",
-      "img": "platform/14578.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/21/14578-bebcd89184c71b99.svg",
       "categories": [
         {
@@ -973,7 +929,6 @@
     {
       "site_url": "https://www.proficosmetics.ru/",
       "name": "Галерея Косметики",
-      "img": "platform/15437.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/13/15437-59a932c8ecdf6ede.svg",
       "categories": [
         {
@@ -1028,7 +983,6 @@
     {
       "site_url": "https://moulinex.ru/",
       "name": "Moulinex",
-      "img": "platform/15488.jpg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2020/10/26/15488-45e62abccca25147.jpg",
       "categories": [
         {
@@ -1078,7 +1032,6 @@
     {
       "site_url": "https://www.uchmet.ru/",
       "name": "Uchmet",
-      "img": "platform/16824.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/12/16824-3b02cf9188ffccf3.svg",
       "categories": [
         {
@@ -1128,7 +1081,6 @@
     {
       "site_url": "https://mi-shop.com",
       "name": "Xiaomi",
-      "img": "platform/17101.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2022/8/29/17101-8924aa066d314c08.svg",
       "categories": [
         {
@@ -1211,7 +1163,6 @@
     {
       "site_url": "https://shop.tastycoffee.ru/",
       "name": "Tasty Coffee",
-      "img": "platform/17220.png",
       "image": "https://cdn.admitad-connect.com/campaign/images/2023/5/11/17220-2ef89f8d806226bb.png",
       "categories": [
         {
@@ -1266,7 +1217,6 @@
     {
       "site_url": "https://depositphotos.com/",
       "name": "Depositphotos [CPS] WW",
-      "img": "platform/17314.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2025/10/27/17314-c3f358b37b3c9295.svg",
       "categories": [
         {
@@ -1332,13 +1282,12 @@
         "landings": [],
         "cashback_link_data": null
       },
-      "discountCount": 2,
-      "couponCount": 2
+      "discountCount": 3,
+      "couponCount": 3
     },
     {
       "site_url": "https://www.nh-hotels.com/",
       "name": "Minor Hotels Many GEOs",
-      "img": "platform/17396.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2025/6/17/17396-d8dbf59575c6abb3.svg",
       "categories": [
         {
@@ -1376,13 +1325,12 @@
         "landings": [],
         "cashback_link_data": null
       },
-      "discountCount": 8,
-      "couponCount": 2
+      "discountCount": 12,
+      "couponCount": 3
     },
     {
       "site_url": "https://mamasandpapas.ae/",
       "name": "Mamasandpapas AE SA KW Offline codes & Links",
-      "img": "platform/17400.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2023/4/12/17400-10d8c840d9f1a9f9.svg",
       "categories": [
         {
@@ -1420,13 +1368,66 @@
         "landings": [],
         "cashback_link_data": null
       },
-      "discountCount": 2,
-      "couponCount": 2
+      "discountCount": 3,
+      "couponCount": 3
+    },
+    {
+      "site_url": "https://www.skillshare.com/",
+      "name": "Skillshare Many GEOs",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/13/17846-1caf7a675c597bd3.svg",
+      "categories": [
+        {
+          "name": "Online Education",
+          "id": 98,
+          "language": "en",
+          "parent": {
+            "name": "Online Services",
+            "id": 18,
+            "language": "en",
+            "parent": null
+          }
+        },
+        {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      ],
+      "id": 17846,
+      "category": {
+        "name": "Online Education",
+        "id": 98,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      "affiliate": {
+        "goto_link": "https://xnmik.com/g/aguipktae05af0702a2782bf971235/",
+        "landings": [
+          {
+            "id": 3911,
+            "name": "CRAFTS_IMAGES_HERO",
+            "code": "a148a771fb"
+          },
+          {
+            "id": 8469,
+            "name": "Direct to Pay Landing Page - discount for Annual Membership",
+            "code": "639cd5b4a2"
+          }
+        ],
+        "cashback_link_data": null
+      },
+      "discountCount": 24,
+      "couponCount": 1
     },
     {
       "site_url": "https://www.glasseslit.com/",
       "name": "Glasseslit WW",
-      "img": "platform/17970.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2025/5/19/17970-e3bf116fa6fe6de2.svg",
       "categories": [
         {
@@ -1475,13 +1476,12 @@
         "landings": [],
         "cashback_link_data": null
       },
-      "discountCount": 8,
-      "couponCount": 10
+      "discountCount": 11,
+      "couponCount": 13
     },
     {
       "site_url": "https://www.economybookings.com/",
       "name": "Economybookings Many GEO's",
-      "img": "platform/18153.png",
       "image": "https://cdn.admitad-connect.com/campaign/images/2020/10/2/18153-cc5470d792ef365d.png",
       "categories": [
         {
@@ -1607,12 +1607,11 @@
         "cashback_link_data": null
       },
       "discountCount": 1,
-      "couponCount": 4
+      "couponCount": 6
     },
     {
       "site_url": "https://levelkitchen.com/",
       "name": "Level Kitchen",
-      "img": "platform/18262.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/12/18262-1cde42718b4579d7.svg",
       "categories": [
         {
@@ -1679,7 +1678,6 @@
     {
       "site_url": "https://gb.ru",
       "name": "GeekBrains",
-      "img": "platform/18395.png",
       "image": "https://cdn.admitad-connect.com/campaign/images/2020/9/30/18395-7cd3143d24f2a50c.png",
       "categories": [
         {
@@ -1910,7 +1908,6 @@
     {
       "site_url": "https://ru.sv77.com/",
       "name": "Svmoscow",
-      "img": "platform/18806.png",
       "image": "https://cdn.admitad-connect.com/campaign/images/2020/10/14/18806-66cf99bff38fcb49.png",
       "categories": [
         {
@@ -1960,7 +1957,6 @@
     {
       "site_url": "https://airo.ru/",
       "name": "Airo",
-      "img": "platform/18887.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2023/10/23/18887-19979f6f0164dddb.svg",
       "categories": [
         {
@@ -2004,7 +2000,6 @@
     {
       "site_url": "https://vipavenue.ru/",
       "name": "VipAvenue",
-      "img": "platform/19294.png",
       "image": "https://cdn.admitad-connect.com/campaign/images/2020/10/15/19294-9e3a601c403efb3d.png",
       "categories": [
         {
@@ -2054,7 +2049,6 @@
     {
       "site_url": "https://online.globus.ru/",
       "name": "online.globus.ru",
-      "img": "platform/19328.png",
       "image": "https://cdn.admitad-connect.com/campaign/images/2021/11/30/19328-9341624c1b8afe28.png",
       "categories": [
         {
@@ -2136,7 +2130,6 @@
     {
       "site_url": "https://korston.ru/",
       "name": "Korston",
-      "img": "platform/19773.png",
       "image": "https://cdn.admitad-connect.com/campaign/images/2021/3/11/19773-4906a340379dec03.png",
       "categories": [
         {
@@ -2214,7 +2207,6 @@
     {
       "site_url": "https://ollis.ru/",
       "name": "Ollis",
-      "img": "platform/19806.jpg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2022/3/29/19806-092f2aaff2f4b24b.jpg",
       "categories": [
         {
@@ -2258,13 +2250,12 @@
         "landings": [],
         "cashback_link_data": null
       },
-      "discountCount": 2,
-      "couponCount": 2
+      "discountCount": 3,
+      "couponCount": 1
     },
     {
       "site_url": "https://fitomarket.ru/",
       "name": "Фитомаркет Эвалар",
-      "img": "platform/20158.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2023/9/21/20158-37338d5e53a2ced5.svg",
       "categories": [
         {
@@ -2342,7 +2333,6 @@
     {
       "site_url": "https://global.redmagic.gg/",
       "name": "Redmagic WW",
-      "img": "platform/20543.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2025/9/5/20543-75ebe1c2bc996c2b.svg",
       "categories": [
         {
@@ -2407,13 +2397,12 @@
         ],
         "cashback_link_data": null
       },
-      "discountCount": 20,
-      "couponCount": 4
+      "discountCount": 30,
+      "couponCount": 6
     },
     {
       "site_url": "https://tyumen.sushi-master.ru/",
       "name": "sushi-master",
-      "img": "platform/20736.jpg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2022/2/28/20736-c32ab475e73af6ae.jpg",
       "categories": [
         {
@@ -2474,7 +2463,6 @@
     {
       "site_url": "https://cosmogon.ru/",
       "name": "cosmogon",
-      "img": "platform/21071.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/20/21071-392c0d658ee73fd8.svg",
       "categories": [
         {
@@ -2529,7 +2517,6 @@
     {
       "site_url": "https://www.domovenok.ru/",
       "name": "Domovenok",
-      "img": "platform/21083.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2023/12/27/21083-313972da3a2d6848.svg",
       "categories": [
         {
@@ -2571,9 +2558,51 @@
       "couponCount": 1
     },
     {
+      "site_url": "https://www.malabargoldanddiamonds.com/",
+      "name": "Malabar [CPS] IN",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2022/2/25/21484-678554fc96bd1593.jpg",
+      "categories": [
+        {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        },
+        {
+          "name": "Clothing, Footwear, Accessories",
+          "id": 64,
+          "language": "en",
+          "parent": {
+            "name": "Online stores",
+            "id": 62,
+            "language": "en",
+            "parent": null
+          }
+        }
+      ],
+      "id": 21484,
+      "category": {
+        "name": "Clothing, Footwear, Accessories",
+        "id": 64,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      "affiliate": {
+        "goto_link": "https://tjzuh.com/g/zcflox2g0n5af0702a2724725e5aee/",
+        "landings": [],
+        "cashback_link_data": null
+      },
+      "discountCount": 261,
+      "couponCount": 12
+    },
+    {
       "site_url": "https://adminvps.ru/",
       "name": "Adminvps",
-      "img": "platform/21749.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/12/21749-2295977214968c64.svg",
       "categories": [
         {
@@ -2617,7 +2646,6 @@
     {
       "site_url": "https://euro-diski.ru/",
       "name": "Euro-diski",
-      "img": "platform/21894.jpg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2022/7/21/21894-27f9f1cf3321a6bb.jpg",
       "categories": [
         {
@@ -2667,7 +2695,6 @@
     {
       "site_url": "https://letbefit.ru/",
       "name": "BeFit",
-      "img": "platform/22320.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2024/10/15/22320-c9f0495221a967d3.svg",
       "categories": [
         {
@@ -2764,7 +2791,6 @@
     {
       "site_url": "https://randewoo.ru/",
       "name": "Randewoo",
-      "img": "platform/22484.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/23/22484-276d0824abb5ce1b.svg",
       "categories": [
         {
@@ -2959,7 +2985,6 @@
     {
       "site_url": "https://m-food.ru/",
       "name": "My Food",
-      "img": "platform/22771.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/12/22771-2a112c9de18e2464.svg",
       "categories": [
         {
@@ -3026,7 +3051,6 @@
     {
       "site_url": "https://productstar.ru/",
       "name": "Productstar",
-      "img": "platform/23344.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/14/23344-024d2c814b8962be.svg",
       "categories": [
         {
@@ -3292,7 +3316,6 @@
     {
       "site_url": "https://www.lookfantastic.com/",
       "name": "Lookfantastic Many GEOs",
-      "img": "platform/23390.png",
       "image": "https://cdn.admitad-connect.com/campaign/images/2023/2/14/23390-6ae8efddb4da5c02.png",
       "categories": [
         {
@@ -3330,13 +3353,12 @@
         "landings": [],
         "cashback_link_data": null
       },
-      "discountCount": 2,
-      "couponCount": 2
+      "discountCount": 3,
+      "couponCount": 3
     },
     {
       "site_url": "https://skysmart.ru/",
       "name": "Skysmart RU",
-      "img": "platform/23485.png",
       "image": "https://cdn.admitad-connect.com/campaign/images/2020/10/9/23485-c55bca3fadf75cdb.png",
       "categories": [
         {
@@ -3541,7 +3563,6 @@
     {
       "site_url": "https://invideo.io/",
       "name": "InVideo WW",
-      "img": "platform/23841.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2025/7/17/23841-aac9b3cfa5ed901e.svg",
       "categories": [
         {
@@ -3579,13 +3600,12 @@
         "landings": [],
         "cashback_link_data": null
       },
-      "discountCount": 6,
-      "couponCount": 16
+      "discountCount": 9,
+      "couponCount": 24
     },
     {
       "site_url": "https://noracora.com/",
       "name": "Noracora WW",
-      "img": "platform/24287.png",
       "image": "https://cdn.admitad-connect.com/campaign/images/2021/2/26/24287-ff8b06f448b60cfe.png",
       "categories": [
         {
@@ -3640,13 +3660,12 @@
         "landings": [],
         "cashback_link_data": null
       },
-      "discountCount": 6,
-      "couponCount": 2
+      "discountCount": 9,
+      "couponCount": 3
     },
     {
       "site_url": "https://lilicloth.com/",
       "name": "Lilicloth WW",
-      "img": "platform/24288.png",
       "image": "https://cdn.admitad-connect.com/campaign/images/2021/3/1/24288-24c2d19331bac327.png",
       "categories": [
         {
@@ -3701,13 +3720,12 @@
         "landings": [],
         "cashback_link_data": null
       },
-      "discountCount": 12,
-      "couponCount": 2
+      "discountCount": 18,
+      "couponCount": 3
     },
     {
       "site_url": "https://www.stylewe.com/",
       "name": "Stylewe WW",
-      "img": "platform/24295.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/13/24295-07dfd83505a6144b.svg",
       "categories": [
         {
@@ -3762,13 +3780,12 @@
         "landings": [],
         "cashback_link_data": null
       },
-      "discountCount": 16,
-      "couponCount": 10
+      "discountCount": 24,
+      "couponCount": 15
     },
     {
       "site_url": "https://nfo.ru/",
       "name": "NFO (Norwegian Fish Oil)",
-      "img": "platform/24478.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/6/24478-d8286b3fc2481780.svg",
       "categories": [
         {
@@ -3851,7 +3868,6 @@
     {
       "site_url": "https://www.clevguard.com/",
       "name": "Clevguard WW",
-      "img": "platform/24655.png",
       "image": "https://cdn.admitad-connect.com/campaign/images/2021/3/15/24655-c92b7e8139a55e2b.png",
       "categories": [
         {
@@ -3889,13 +3905,12 @@
         "landings": [],
         "cashback_link_data": null
       },
-      "discountCount": 18,
-      "couponCount": 2
+      "discountCount": 27,
+      "couponCount": 3
     },
     {
       "site_url": "https://roselinlin.com/",
       "name": "Roselinlin WW",
-      "img": "platform/24669.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/13/24669-15abdfd554adc35a.svg",
       "categories": [
         {
@@ -3950,13 +3965,12 @@
         "landings": [],
         "cashback_link_data": null
       },
-      "discountCount": 12,
-      "couponCount": 2
+      "discountCount": 18,
+      "couponCount": 3
     },
     {
       "site_url": "https://www.geekmaxi.com/",
       "name": "Geekmaxi Many GEOs",
-      "img": "platform/24738.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2024/11/14/24738-d6714cbdb73c2054.svg",
       "categories": [
         {
@@ -4032,13 +4046,12 @@
         ],
         "cashback_link_data": null
       },
-      "discountCount": 2,
-      "couponCount": 290
+      "discountCount": 3,
+      "couponCount": 435
     },
     {
       "site_url": "https://alter.ru/start",
       "name": "Alter",
-      "img": "platform/24854.png",
       "image": "https://cdn.admitad-connect.com/campaign/images/2021/6/28/24854-b20488b3c44f1f9b.png",
       "categories": [
         {
@@ -4099,7 +4112,6 @@
     {
       "site_url": "https://travel.yandex.ru/",
       "name": "Яндекс.Путешествия",
-      "img": "platform/25224.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2023/5/16/25224-dcc2c153a070ebf9.svg",
       "categories": [
         {
@@ -4241,7 +4253,6 @@
     {
       "site_url": "https://aimclo.ru/",
       "name": "Aim clo",
-      "img": "platform/25281.png",
       "image": "https://cdn.admitad-connect.com/campaign/images/2024/5/16/25281-059e6d3b7f9a3d40.png",
       "categories": [
         {
@@ -4297,7 +4308,6 @@
     {
       "site_url": "https://restoll.ru",
       "name": "Restoll",
-      "img": "platform/25308.jpg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2021/9/13/25308-8a70cbc5aef5982b.jpg",
       "categories": [
         {
@@ -4352,7 +4362,6 @@
     {
       "site_url": "https://www.vevor.com",
       "name": "Vevor Many GEOs",
-      "img": "platform/25369.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2024/10/30/25369-3ae019f04d60560b.svg",
       "categories": [
         {
@@ -4591,13 +4600,12 @@
         ],
         "cashback_link_data": null
       },
-      "discountCount": 12,
-      "couponCount": 23
+      "discountCount": 18,
+      "couponCount": 34
     },
     {
       "site_url": "https://askent.ru",
       "name": "Askent",
-      "img": "platform/26006.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2025/2/28/26006-8a017402fa1695ab.svg",
       "categories": [
         {
@@ -4641,7 +4649,6 @@
     {
       "site_url": "https://aravia.ru",
       "name": "Aravia",
-      "img": "platform/26032.svg",
       "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/13/26032-83f320d496a2f9e8.svg",
       "categories": [
         {
@@ -4697,7 +4704,6 @@
     {
       "site_url": "https://www.humanic.net/cz/",
       "name": "Humanic CZ & SK",
-      "img": "platform/26456.png",
       "image": "https://cdn.admitad-connect.com/campaign/images/2021/10/22/26456-7ae6205b8b5c0f49.png",
       "categories": [
         {
@@ -4735,48 +4741,14 @@
         "landings": [],
         "cashback_link_data": null
       },
-      "discountCount": 6,
-      "couponCount": 4
+      "discountCount": 9,
+      "couponCount": 6
     },
     {
-      "site_url": "https://www.cotosen.com/",
-      "name": "Cotosen WW",
-      "img": "platform/26821.png",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2021/11/17/26821-760d33b232b51b31.png",
+      "site_url": "https://www.zoohit.cz/",
+      "name": "",
+      "image": "https://cdn.admitad-connect.com/campaign/images/2023/5/24/26623-6c0d1047b2f1b43b.svg",
       "categories": [
-        {
-          "name": "Hobby & Stationery",
-          "id": 89,
-          "language": "en",
-          "parent": {
-            "name": "Online stores",
-            "id": 62,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Marketplaces (including Chinese Stores)",
-          "id": 96,
-          "language": "en",
-          "parent": {
-            "name": "Online stores",
-            "id": 62,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Clothing, Footwear, Accessories",
-          "id": 64,
-          "language": "en",
-          "parent": {
-            "name": "Online stores",
-            "id": 62,
-            "language": "en",
-            "parent": null
-          }
-        },
         {
           "name": "Online stores",
           "id": 62,
@@ -4784,8 +4756,8 @@
           "parent": null
         },
         {
-          "name": "Sports & Outdoor",
-          "id": 85,
+          "name": "Pets",
+          "id": 74,
           "language": "en",
           "parent": {
             "name": "Online stores",
@@ -4795,10 +4767,10 @@
           }
         }
       ],
-      "id": 26821,
+      "id": 26623,
       "category": {
-        "name": "Hobby & Stationery",
-        "id": 89,
+        "name": "Pets",
+        "id": 74,
         "language": "en",
         "parent": {
           "name": "Online stores",
@@ -4808,155 +4780,13 @@
         }
       },
       "affiliate": {
-        "goto_link": "https://gndrz.com/g/7ez2cndy8k5af0702a27fe9cf762a5/",
-        "landings": [
-          {
-            "id": 31493,
-            "name": "New Year Sale",
-            "code": "0451cdc7dc"
-          },
-          {
-            "id": 31085,
-            "name": "Cotosen",
-            "code": "82105f332e"
-          },
-          {
-            "id": 31086,
-            "name": "Fall winter 2025",
-            "code": "ca4b91c5ea"
-          },
-          {
-            "id": 31358,
-            "name": "Black Friday sale",
-            "code": "030f45d7cd"
-          }
-        ],
-        "cashback_link_data": null
-      },
-      "discountCount": 4,
-      "couponCount": 4
-    },
-    {
-      "site_url": "https://www.wayrates.com/",
-      "name": "Wayrates WW",
-      "img": "platform/26846.png",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2021/11/25/26846-d58dfb65a2cfcd62.png",
-      "categories": [
-        {
-          "name": "Sports & Outdoor",
-          "id": 85,
-          "language": "en",
-          "parent": {
-            "name": "Online stores",
-            "id": 62,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Marketplaces (including Chinese Stores)",
-          "id": 96,
-          "language": "en",
-          "parent": {
-            "name": "Online stores",
-            "id": 62,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Clothing, Footwear, Accessories",
-          "id": 64,
-          "language": "en",
-          "parent": {
-            "name": "Online stores",
-            "id": 62,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      ],
-      "id": 26846,
-      "category": {
-        "name": "Sports & Outdoor",
-        "id": 85,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      "affiliate": {
-        "goto_link": "https://zallj.com/g/gfhc91n9bb5af0702a271d81d40fc4/",
-        "landings": [
-          {
-            "id": 30275,
-            "name": "Wayrates",
-            "code": "ce65fa65ae"
-          },
-          {
-            "id": 31090,
-            "name": "F W 2025",
-            "code": "c6868bf219"
-          }
-        ],
-        "cashback_link_data": null
-      },
-      "discountCount": 4,
-      "couponCount": 4
-    },
-    {
-      "site_url": "https://www.nadula.com/",
-      "name": "Nadula WW",
-      "img": "platform/27495.svg",
-      "image": "https://cdn.admitad-connect.com/campaign/images/2024/11/29/27495-e97a7ec938a4ee65.svg",
-      "categories": [
-        {
-          "name": "Clothing, Footwear, Accessories",
-          "id": 64,
-          "language": "en",
-          "parent": {
-            "name": "Online stores",
-            "id": 62,
-            "language": "en",
-            "parent": null
-          }
-        },
-        {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      ],
-      "id": 27495,
-      "category": {
-        "name": "Clothing, Footwear, Accessories",
-        "id": 64,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      },
-      "affiliate": {
-        "goto_link": "https://xpuvo.com/g/oy5ftorbbz5af0702a2745ffeb074b/",
+        "goto_link": "https://rcpsj.com/g/dnfdwctwlt5af0702a27e88da1467f/",
         "landings": [],
         "cashback_link_data": null
       },
       "discountCount": 8,
-      "couponCount": 10
+      "couponCount": 6
     }
   ],
-  "totalPosts": 608
+  "totalPosts": 648
 }

@@ -2,7 +2,6 @@
   {
     "site_url": "https://teamo.ru/",
     "name": "Teamo - Revshare",
-    "img": "platform/488.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/12/488-0531dca730e488af.svg",
     "categories": [
       {
@@ -92,7 +91,6 @@
   {
     "site_url": "https://linkyou.ru/",
     "name": "linkyou",
-    "img": "platform/20867.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/12/20867-7e08f9428bd86faf.svg",
     "categories": [
       {
@@ -127,6 +125,55 @@
     },
     "affiliate": {
       "goto_link": "https://zallj.com/g/p06og8qbil5af0702a27a845b70db0/?erid=MvGzQC98w3Z1gMq1nwNnwmxq",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://www.elitedate.cz/",
+    "name": "Elitedate CZ/SK/HU/RO CPL+CPS",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/1/9/49070-d95afdb994f8be9f.svg",
+    "categories": [
+      {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Dating Services",
+        "id": 38,
+        "language": "en",
+        "parent": {
+          "name": "Online Services",
+          "id": 18,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 49070,
+    "category": {
+      "name": "Dating Services",
+      "id": 38,
+      "language": "en",
+      "parent": {
+        "name": "Online Services",
+        "id": 18,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://ypetp.com/g/vvdd5k8qbw5af0702a27eea6df302f/",
       "landings": [],
       "cashback_link_data": null
     },

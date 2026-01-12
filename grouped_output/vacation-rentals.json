@@ -1,8 +1,149 @@
 [
   {
+    "site_url": "https://kkday.com",
+    "name": "KKday WW",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/6/13/44678-c41ad1d33845af28.svg",
+    "categories": [
+      {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Vacation Rentals",
+        "id": 212,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Tours",
+        "id": 234,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Package Holidays",
+        "id": 45,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 44678,
+    "category": {
+      "name": "Vacation Rentals",
+      "id": 212,
+      "language": "en",
+      "parent": {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://rcpsj.com/g/sbdob37fx15af0702a275053cbfa2e/",
+      "landings": [
+        {
+          "id": 31214,
+          "name": "11.11 Campaign _1 Nov - 16 Nov_ PH",
+          "code": "ceab1607dd"
+        },
+        {
+          "id": 31226,
+          "name": "Black Friday Cyber Monday__Outbound to Korea __1 Oct - 31 Dec",
+          "code": "830a384266"
+        },
+        {
+          "id": 31227,
+          "name": "Black Friday Cyber Monday__Outbound to Switzerland __1 Oct - 30 Nov",
+          "code": "29d503620a"
+        },
+        {
+          "id": 31215,
+          "name": "11.11 Campaign _1 Nov - 16 Nov_ International",
+          "code": "b5b28860f8"
+        },
+        {
+          "id": 31218,
+          "name": "Black Friday Cyber Monday__Outbound to Europe __1 Oct - 31 Dec 2025__TH",
+          "code": "60f013553c"
+        },
+        {
+          "id": 31219,
+          "name": "Black Friday Cyber Monday__Outbound to TW __1 Oct - 30 Nov__SG",
+          "code": "f934bfd568"
+        },
+        {
+          "id": 31220,
+          "name": "Black Friday Cyber Monday__Outbound to TW __1 Oct - 30 Nov__MY",
+          "code": "0b75ce26d9"
+        },
+        {
+          "id": 31217,
+          "name": "Black Friday Cyber Monday__Outbound to Europe __1 Oct - 31 Dec 2025__MY",
+          "code": "ddcde2f8ff"
+        },
+        {
+          "id": 31221,
+          "name": "Black Friday Cyber Monday__Outbound to TW __1 Oct - 30 Nov__TH",
+          "code": "ca22709f47"
+        },
+        {
+          "id": 31216,
+          "name": "Black Friday Cyber Monday__Outbound to Europe __1 Oct - 31 Dec 2025__SG",
+          "code": "6f798e44df"
+        },
+        {
+          "id": 31224,
+          "name": "Black Friday Cyber Monday__Outbound to Snow Sports __1 Oct - 30 Nov__MY",
+          "code": "fb1ee4847f"
+        },
+        {
+          "id": 31222,
+          "name": "Black Friday Cyber Monday__Outbound to TW __1 Oct - 30 Nov__PH",
+          "code": "780c64d819"
+        },
+        {
+          "id": 31223,
+          "name": "Black Friday Cyber Monday__Outbound to Snow Sports __1 Oct - 30 Nov__SG",
+          "code": "8422951430"
+        },
+        {
+          "id": 31225,
+          "name": "Black Friday Cyber Monday__Outbound to Snow Sports __1 Oct - 30 Nov__ID",
+          "code": "75a662ac1d"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
+  },
+  {
     "site_url": "https://travel.mts.ru/",
     "name": "",
-    "img": "platform/44734.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/11/3/44734-30d406936978553a.svg",
     "categories": [
       {

@@ -528,5 +528,270 @@
     "promocode": "NOT REQUIRED",
     "frameset_link": "",
     "goto_link": "https://fxxag.com/g/tnd6jx5d975af0702a27cf5d098ee2/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 113770,
+      "name": "Levi’s® Many GEOs",
+      "site_url": "https://www.levi.com/"
+    },
+    "description": "50% off all sale items\r\n+ Extra 10% off for Levi's® Red Tab™ Members\r\nNot a member yet? Signing up is easy and free!",
+    "short_name": "Extra 10% off for Levi's® Red Tab™ Members",
+    "exclusive": false,
+    "date_end": "2026-02-01T23:59:00",
+    "date_start": "2026-01-26T00:00:00",
+    "id": 892950,
+    "regions": [
+      "GB"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/11/5/113770-897adf08e420a2b7.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Extra 10% off for Levi's® Red Tab™ Members",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "",
+    "goto_link": "https://fxxag.com/g/sxubm486u65af0702a27cf5d098ee2/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 113770,
+      "name": "Levi’s® Many GEOs",
+      "site_url": "https://www.levi.com/"
+    },
+    "description": "All sale items 50% off\r\nSave 50% on all sale items when you shop online, on the Levi's® App or at any of our Levi's® stores. \r\nGet your favourite styles before they’re gone.",
+    "short_name": "All sale items 50% off",
+    "exclusive": false,
+    "date_end": "2026-02-01T23:59:00",
+    "date_start": "2026-01-15T00:00:00",
+    "id": 892949,
+    "regions": [
+      "GB"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/11/5/113770-897adf08e420a2b7.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "All sale items 50% off",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "",
+    "goto_link": "https://fxxag.com/g/5tzh5domur5af0702a27cf5d098ee2/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 113770,
+      "name": "Levi’s® Many GEOs",
+      "site_url": "https://www.levi.com/"
+    },
+    "description": "Don't miss out - Up to 50% off selected items.\r\nBigger, better discounts.\r\nSave up to 50% off on timeless staples and seasonal must-haves to update your wardrobe.",
+    "short_name": "Up to 50% off selected items - bigger discounts",
+    "exclusive": false,
+    "date_end": "2026-01-14T23:59:00",
+    "date_start": "2026-01-02T00:00:00",
+    "id": 892948,
+    "regions": [
+      "GB"
+    ],
+    "discount": "50%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/11/5/113770-897adf08e420a2b7.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Up to 50% off selected items - bigger discounts",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "",
+    "goto_link": "https://fxxag.com/g/8gmoyazblt5af0702a27cf5d098ee2/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 113770,
+      "name": "Levi’s® Many GEOs",
+      "site_url": "https://www.levi.com/"
+    },
+    "description": "For instant access to this discount, register and verify your student status with UNiDAYS",
+    "short_name": "UNiDAYS: STUDENTS GET 20% OFF",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-02-04T10:52:44",
+    "id": 832846,
+    "regions": [
+      "GB"
+    ],
+    "discount": "20%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/11/5/113770-897adf08e420a2b7.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "UNiDAYS: STUDENTS GET 20% OFF",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "",
+    "goto_link": "https://fxxag.com/g/8ofw4ux8865af0702a27cf5d098ee2/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 113770,
+      "name": "Levi’s® Many GEOs",
+      "site_url": "https://www.levi.com/"
+    },
+    "description": "Sign up to our newsletter and get 10% off your first purchase + free shipping and free returns on all orders. Sign up now.",
+    "short_name": "10% off your first purchase",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-02-04T10:48:35",
+    "id": 832836,
+    "regions": [
+      "GB"
+    ],
+    "discount": "10%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/11/5/113770-897adf08e420a2b7.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "10% off your first purchase",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "",
+    "goto_link": "https://fxxag.com/g/tmzwpkqw105af0702a27cf5d098ee2/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 113770,
+      "name": "Levi’s® Many GEOs",
+      "site_url": "https://www.levi.com/"
+    },
+    "description": "Shipping (Express delivery) for Levi's® Red Tab™ Member (FREE on all orders);\r\n\r\nShipping (Express delivery) for Guests - £5.99 on orders below £69.99\r\nFREE on orders above £69.99",
+    "short_name": "Free Express Shipping",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-02-04T10:46:28",
+    "id": 832834,
+    "regions": [
+      "BE",
+      "DE",
+      "ES",
+      "FR",
+      "GB",
+      "IE",
+      "IT",
+      "NL"
+    ],
+    "discount": null,
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2024/11/5/113770-897adf08e420a2b7.svg",
+    "species": "action",
+    "categories": [
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Free Express Shipping",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "NOT REQUIRED",
+    "frameset_link": "",
+    "goto_link": "https://fxxag.com/g/tnd6jx5d975af0702a27cf5d098ee2/?i=3"
   }
 ]

@@ -100,5 +100,56 @@
     "promocode": "AFF15",
     "frameset_link": "https://rzekl.com/coupon/mbtbw2pcbg5af0702a27608cdf386b/",
     "goto_link": "https://rzekl.com/g/nzg3ia0tjh5af0702a27608cdf386b/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 24286,
+      "name": "Justfashionnow WW",
+      "site_url": "https://www.justfashionnow.com/"
+    },
+    "description": "Long Term Code：AFF15 \r\nDetails：15% Off, no limited, sitewide\r\nThis code is active for both domain.",
+    "short_name": "Long Term Sitewide Code AFF15 for 15% OFF",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-05-17T16:40:58",
+    "id": 757616,
+    "regions": [
+      "00"
+    ],
+    "discount": "15%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2021/3/1/24286-7f653b51c4842598.png",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 3,
+        "name": "Accessories & Bags"
+      },
+      {
+        "id": 4,
+        "name": "Shoes"
+      },
+      {
+        "id": 5,
+        "name": "Clothing"
+      }
+    ],
+    "name": "Long Term Sitewide Code AFF15 for 15% OFF",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "AFF15",
+    "frameset_link": "https://rzekl.com/coupon/mbtbw2pcbg5af0702a27608cdf386b/",
+    "goto_link": "https://rzekl.com/g/nzg3ia0tjh5af0702a27608cdf386b/?i=3"
   }
 ]

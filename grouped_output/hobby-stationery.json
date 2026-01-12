@@ -2,7 +2,6 @@
   {
     "site_url": "https://www.cotosen.com/",
     "name": "Cotosen WW",
-    "img": "platform/26821.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/11/17/26821-760d33b232b51b31.png",
     "categories": [
       {
@@ -94,13 +93,12 @@
       ],
       "cashback_link_data": null
     },
-    "discountCount": 4,
-    "couponCount": 4
+    "discountCount": 9,
+    "couponCount": 3
   },
   {
     "site_url": "https://corsair.com",
     "name": "Corsair WW",
-    "img": "platform/130741.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/10/27/130741-4902ff414d2f0ee9.svg",
     "categories": [
       {
@@ -160,13 +158,12 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "discountCount": 44,
-    "couponCount": 4
+    "discountCount": 66,
+    "couponCount": 6
   },
   {
     "site_url": "https://www.mann-ivanov-ferber.ru/",
     "name": "Издательство «МИФ»",
-    "img": "platform/15585.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/3/28/15585-1f8e8f0d4356d65a.svg",
     "categories": [
       {
@@ -249,7 +246,6 @@
   {
     "site_url": "https://www.buket-piter.ru/",
     "name": "Букет СПБ RU",
-    "img": "platform/17378.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/5/17378-2b8bf049c97b2140.svg",
     "categories": [
       {
@@ -299,7 +295,6 @@
   {
     "site_url": "https://krasniykarandash.ru/",
     "name": "Арт-маркет \"Красный Карандаш\"",
-    "img": "platform/21382.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/17/21382-1e3c5c584bcc1774.svg",
     "categories": [
       {
@@ -366,7 +361,6 @@
   {
     "site_url": "https://www.alamy.com",
     "name": "Alamy WW",
-    "img": "platform/22921.jpeg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/11/1/22921-f5ce96445c8652e4.jpeg",
     "categories": [
       {
@@ -421,13 +415,12 @@
       ],
       "cashback_link_data": null
     },
-    "discountCount": 10,
+    "discountCount": 15,
     "couponCount": 0
   },
   {
     "site_url": "https://www.floraexpress.ru/",
     "name": "Floraexpress",
-    "img": "platform/15218.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/6/15218-4343911c873f090f.svg",
     "categories": [
       {
@@ -503,7 +496,6 @@
   {
     "site_url": "https://www.zavvi.com/",
     "name": "Zavvi Many Geos",
-    "img": "platform/23405.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/6/23405-eb3cc847fc62cdd3.svg",
     "categories": [
       {
@@ -547,7 +539,6 @@
   {
     "site_url": "https://beurer-belarus.by/",
     "name": "Beurer BY",
-    "img": "platform/35866.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/4/21/35866-48ebad5c8fbdec4b.svg",
     "categories": [
       {
@@ -608,7 +599,6 @@
   {
     "site_url": "https://woodestic.com",
     "name": "Woodestic Many Geos",
-    "img": "platform/43020.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/10/26/43020-69381cae5e2062d9.svg",
     "categories": [
       {
@@ -650,9 +640,51 @@
     "couponCount": 0
   },
   {
+    "site_url": "https://tiendapanini.com.mx/",
+    "name": "Tienda Panini MX",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/28/120841-c2c7c92132d90460.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Hobby & Stationery",
+        "id": 89,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 120841,
+    "category": {
+      "name": "Hobby & Stationery",
+      "id": 89,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://xqjeo.com/g/1wassx30j95af0702a272dd3217280/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
+  },
+  {
     "site_url": "https://maxmassage.ru/",
     "name": "Maxmassage RU",
-    "img": "platform/142248.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/9/9/142248-ca5a9285df31ed2d.svg",
     "categories": [
       {

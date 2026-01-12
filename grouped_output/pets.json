@@ -1,8 +1,50 @@
 [
   {
+    "site_url": "https://www.zoohit.cz/",
+    "name": "",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/5/24/26623-6c0d1047b2f1b43b.svg",
+    "categories": [
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Pets",
+        "id": 74,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 26623,
+    "category": {
+      "name": "Pets",
+      "id": 74,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://rcpsj.com/g/dnfdwctwlt5af0702a27e88da1467f/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 8,
+    "couponCount": 6
+  },
+  {
     "site_url": "https://www.dogeat.ru/",
     "name": "Старая Ферма",
-    "img": "platform/40716.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/14/40716-6140055e55c7fb39.svg",
     "categories": [
       {
@@ -50,53 +92,8 @@
     "couponCount": 13
   },
   {
-    "site_url": "https://www.zoohit.cz/",
-    "name": "",
-    "img": "platform/26623.svg",
-    "image": "https://cdn.admitad-connect.com/campaign/images/2023/5/24/26623-6c0d1047b2f1b43b.svg",
-    "categories": [
-      {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      },
-      {
-        "name": "Pets",
-        "id": 74,
-        "language": "en",
-        "parent": {
-          "name": "Online stores",
-          "id": 62,
-          "language": "en",
-          "parent": null
-        }
-      }
-    ],
-    "id": 26623,
-    "category": {
-      "name": "Pets",
-      "id": 74,
-      "language": "en",
-      "parent": {
-        "name": "Online stores",
-        "id": 62,
-        "language": "en",
-        "parent": null
-      }
-    },
-    "affiliate": {
-      "goto_link": "https://rcpsj.com/g/dnfdwctwlt5af0702a27e88da1467f/",
-      "landings": [],
-      "cashback_link_data": null
-    },
-    "discountCount": 0,
-    "couponCount": 4
-  },
-  {
     "site_url": "https://www.zooplus.de",
     "name": "Zooplus DE",
-    "img": "platform/28221.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/9/6/28221-2ad1b703831233d0.svg",
     "categories": [
       {
@@ -135,12 +132,11 @@
       "cashback_link_data": null
     },
     "discountCount": 0,
-    "couponCount": 2
+    "couponCount": 3
   },
   {
     "site_url": "https://zoopt.ru/",
     "name": "ЗооОптТорг",
-    "img": "platform/27653.jpg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/2/4/27653-21868e7ea453f354.jpg",
     "categories": [
       {
@@ -190,7 +186,6 @@
   {
     "site_url": "https://waudog.ua/",
     "name": "WAUDOG UA",
-    "img": "platform/128491.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/10/16/128491-9b589f127f6679c5.svg",
     "categories": [
       {

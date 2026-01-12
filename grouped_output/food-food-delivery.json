@@ -2,7 +2,6 @@
   {
     "site_url": "https://shop.tastycoffee.ru/",
     "name": "Tasty Coffee",
-    "img": "platform/17220.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/5/11/17220-2ef89f8d806226bb.png",
     "categories": [
       {
@@ -57,7 +56,6 @@
   {
     "site_url": "https://online.globus.ru/",
     "name": "online.globus.ru",
-    "img": "platform/19328.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/11/30/19328-9341624c1b8afe28.png",
     "categories": [
       {
@@ -139,7 +137,6 @@
   {
     "site_url": "https://hvalwaters.ru/",
     "name": "Hvalwaters",
-    "img": "platform/29640.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/10/21/29640-8ea76f8638bfda15.png",
     "categories": [
       {
@@ -200,7 +197,6 @@
   {
     "site_url": "https://sushishop.ru",
     "name": "sushishop.ru",
-    "img": "platform/30934.jpg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/1/17/30934-8b1d59765b22500f.jpg",
     "categories": [
       {
@@ -261,7 +257,6 @@
   {
     "site_url": "https://nespresso.press",
     "name": "Nespresso.press",
-    "img": "platform/95657.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/4/8/95657-b4cc7cca067b4597.svg",
     "categories": [
       {
@@ -316,7 +311,6 @@
   {
     "site_url": "https://vipfish.ru/",
     "name": "Vipfish",
-    "img": "platform/26886.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/12/20/26886-8297124a3607c947.png",
     "categories": [
       {
@@ -383,7 +377,6 @@
   {
     "site_url": "https://yagodar.ua",
     "name": "YAGODAR | ЯГОДАР UA",
-    "img": "platform/143298.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/9/29/143298-47d2aa4f846f0fe0.svg",
     "categories": [
       {
@@ -449,7 +442,6 @@
   {
     "site_url": "https://zanducare.com/",
     "name": "Emami Zanducare [ CPS ] IN",
-    "img": "platform/102797.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/6/26/102797-e73770522c420f8c.svg",
     "categories": [
       {
@@ -502,9 +494,51 @@
     "couponCount": 0
   },
   {
+    "site_url": "https://www.wildfork.mx/",
+    "name": "Wild Fork MX",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/10/31/113236-9755ac22d8abc145.svg",
+    "categories": [
+      {
+        "name": "Food & Food delivery",
+        "id": 63,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 113236,
+    "category": {
+      "name": "Food & Food delivery",
+      "id": 63,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://ujhjj.com/g/yod9v3b82v5af0702a27030f2cdcde/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
+  },
+  {
     "site_url": "https://throwmenot.ae",
     "name": "ThrowMeNot AE",
-    "img": "platform/143665.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/9/23/143665-9e18afccf8fa6479.svg",
     "categories": [
       {

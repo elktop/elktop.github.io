@@ -2,7 +2,6 @@
   {
     "site_url": "https://www.nh-hotels.com/",
     "name": "Minor Hotels Many GEOs",
-    "img": "platform/17396.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/6/17/17396-d8dbf59575c6abb3.svg",
     "categories": [
       {
@@ -40,13 +39,12 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "discountCount": 8,
-    "couponCount": 2
+    "discountCount": 12,
+    "couponCount": 3
   },
   {
     "site_url": "https://korston.ru/",
     "name": "Korston",
-    "img": "platform/19773.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/3/11/19773-4906a340379dec03.png",
     "categories": [
       {
@@ -124,7 +122,6 @@
   {
     "site_url": "https://travel.yandex.ru/",
     "name": "Яндекс.Путешествия",
-    "img": "platform/25224.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/5/16/25224-dcc2c153a070ebf9.svg",
     "categories": [
       {
@@ -266,7 +263,6 @@
   {
     "site_url": "https://ostrovok.ru/",
     "name": "Островок RU",
-    "img": "platform/2281.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/4/3/2281-6e9950e75b2d8b59.svg",
     "categories": [
       {
@@ -310,7 +306,6 @@
   {
     "site_url": "https://www.trip.com/",
     "name": "Trip.com WW",
-    "img": "platform/23733.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2020/10/14/23733-2a3d1f32bb748535.png",
     "categories": [
       {
@@ -463,13 +458,12 @@
       ],
       "cashback_link_data": null
     },
-    "discountCount": 16,
+    "discountCount": 24,
     "couponCount": 0
   },
   {
     "site_url": "https://www.avito.ru/moskva/kvartiry/sdam/posutochno/-ASgBAgICAkSSA8gQ8AeSUg/",
     "name": "Avito Путешествия RU",
-    "img": "platform/42483.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/4/22/42483-aea076ae9e42bcdf.svg",
     "categories": [
       {
@@ -599,7 +593,6 @@
   {
     "site_url": "https://cuva.ru",
     "name": "",
-    "img": "platform/44618.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/12/21/44618-9539a4bfd0ce3452.svg",
     "categories": [
       {
@@ -659,7 +652,6 @@
   {
     "site_url": "https://tbank.ru/travel/hotels/new/",
     "name": "Отели в Т-Банке RU",
-    "img": "platform/118265.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/20/118265-d4679c1a8b8c06f3.svg",
     "categories": [
       {
@@ -718,9 +710,51 @@
     "couponCount": 1
   },
   {
+    "site_url": "https://www.barcelo.com/",
+    "name": "Barcelo MX/BR",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2022/12/13/30383-f9df4200511f8cff.png",
+    "categories": [
+      {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Hotels",
+        "id": 41,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 30383,
+    "category": {
+      "name": "Hotels",
+      "id": 41,
+      "language": "en",
+      "parent": {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://rzekl.com/g/vpzo6yorzq5af0702a27465bc89443/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
+  },
+  {
     "site_url": "https://www.cvc.com.br/",
     "name": "CVC BR (EN)",
-    "img": "platform/135305.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/8/5/135305-adde20263d9509b9.svg",
     "categories": [
       {
@@ -786,7 +820,6 @@
   {
     "site_url": "https://www.theparkhotels.com/",
     "name": "The Park [CPS] IN",
-    "img": "platform/146175.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/10/30/146175-63f694270f35ffad.svg",
     "categories": [
       {
@@ -830,7 +863,6 @@
   {
     "site_url": "https://www.oberoihotels.com/",
     "name": "Oberoi Hotels [CPS] IN",
-    "img": "platform/146430.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/11/4/146430-5e469ec24f7d8e21.svg",
     "categories": [
       {

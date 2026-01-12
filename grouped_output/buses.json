@@ -2,7 +2,6 @@
   {
     "site_url": "https://unitiki.com/",
     "name": "Unitiki",
-    "img": "platform/16290.jpg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2020/10/1/16290-04ff2d9e2afdac2b.jpg",
     "categories": [
       {
@@ -37,6 +36,49 @@
     },
     "affiliate": {
       "goto_link": "https://naiawork.com/g/r3grkojfq95af0702a275d47c3f2f9/?erid=25H8d7vbP8SRTvGZQtmegx",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://www.clickbus.com.mx/",
+    "name": "ClickBus MX",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/9/19/109860-c1d274a647252ed3.svg",
+    "categories": [
+      {
+        "name": "Buses",
+        "id": 207,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 109860,
+    "category": {
+      "name": "Buses",
+      "id": 207,
+      "language": "en",
+      "parent": {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://qbzdl.com/g/s1iolshy5e5af0702a275f55e34353/",
       "landings": [],
       "cashback_link_data": null
     },

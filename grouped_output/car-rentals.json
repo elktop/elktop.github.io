@@ -2,7 +2,6 @@
   {
     "site_url": "https://www.economybookings.com/",
     "name": "Economybookings Many GEO's",
-    "img": "platform/18153.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2020/10/2/18153-cc5470d792ef365d.png",
     "categories": [
       {
@@ -128,12 +127,11 @@
       "cashback_link_data": null
     },
     "discountCount": 1,
-    "couponCount": 4
+    "couponCount": 6
   },
   {
     "site_url": "https://www.movida.com.br/",
     "name": "Movida BR CPA",
-    "img": "platform/87108.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/3/20/87108-909f4e90b13ba6a5.svg",
     "categories": [
       {
@@ -177,7 +175,6 @@
   {
     "site_url": "https://www.qeeq.com/",
     "name": "QEEQ WW",
-    "img": "platform/18989.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/15/18989-5ce88a0b69e6d75a.svg",
     "categories": [
       {
@@ -257,13 +254,12 @@
       ],
       "cashback_link_data": null
     },
-    "discountCount": 4,
+    "discountCount": 6,
     "couponCount": 0
   },
   {
     "site_url": "https://www.almak-prokat.ru/",
     "name": "Альмак Прокат RU",
-    "img": "platform/144021.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/10/1/144021-ad634b0d7ff530b9.svg",
     "categories": [
       {
@@ -324,7 +320,6 @@
   {
     "site_url": "https://localrent.com/",
     "name": "Myrentacar WW",
-    "img": "platform/15387.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/3/28/15387-d9ba6b56ab62c500.svg",
     "categories": [
       {
@@ -368,7 +363,6 @@
   {
     "site_url": "https://www.discovercars.com",
     "name": "DiscoverCars WW",
-    "img": "platform/20065.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2020/11/30/20065-6703f84905227d30.png",
     "categories": [
       {
@@ -956,9 +950,51 @@
     "couponCount": 0
   },
   {
+    "site_url": "https://queropassagem.com.br/",
+    "name": "Quero Passagem (EN)",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/9/22417-c5ecc04cb89b7edb.svg",
+    "categories": [
+      {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Car Rentals",
+        "id": 91,
+        "language": "en",
+        "parent": {
+          "name": "Travel & Tourism",
+          "id": 40,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 22417,
+    "category": {
+      "name": "Car Rentals",
+      "id": 91,
+      "language": "en",
+      "parent": {
+        "name": "Travel & Tourism",
+        "id": 40,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://bednari.com/g/97wv4t3aix5af0702a2747756b85cb/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
+  },
+  {
     "site_url": "https://www.america-carrental.com",
     "name": "America-carrental MX",
-    "img": "platform/144297.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/11/27/144297-74d1295df02ccf85.svg",
     "categories": [
       {

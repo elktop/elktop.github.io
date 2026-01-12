@@ -86,5 +86,49 @@
     "promocode": "WISHSHOPPING",
     "frameset_link": "https://yyczo.com/coupon/f6yr28wgu35af0702a27915730f414/",
     "goto_link": "https://yyczo.com/g/3ladrzq3my5af0702a27915730f414/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 24352,
+      "name": "Wish Many GEOs",
+      "site_url": "https://www.wish.com/"
+    },
+    "description": "",
+    "short_name": "Sign up and save 15% on your first Wish purchase. Use code.",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2024-10-30T00:00:00",
+    "id": 806195,
+    "regions": [
+      "CA",
+      "US"
+    ],
+    "discount": "15%",
+    "types": [
+      {
+        "id": 1,
+        "name": "Free delivery"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2022/10/7/24352-5da9ab9e46e99500.jpg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 34,
+        "name": "Marketplaces (including Chinese Stores)"
+      }
+    ],
+    "name": "Sign up and save 15% on your first Wish purchase. Use code.",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "WISHSHOPPING",
+    "frameset_link": "https://yyczo.com/coupon/f6yr28wgu35af0702a27915730f414/",
+    "goto_link": "https://yyczo.com/g/3ladrzq3my5af0702a27915730f414/?i=3"
   }
 ]

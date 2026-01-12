@@ -2,7 +2,6 @@
   {
     "site_url": "https://answear.ua/",
     "name": "Answear UA",
-    "img": "platform/14578.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/21/14578-bebcd89184c71b99.svg",
     "categories": [
       {
@@ -80,7 +79,6 @@
   {
     "site_url": "https://mi-shop.com",
     "name": "Xiaomi",
-    "img": "platform/17101.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/8/29/17101-8924aa066d314c08.svg",
     "categories": [
       {
@@ -163,7 +161,6 @@
   {
     "site_url": "https://fitomarket.ru/",
     "name": "Фитомаркет Эвалар",
-    "img": "platform/20158.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/9/21/20158-37338d5e53a2ced5.svg",
     "categories": [
       {
@@ -241,7 +238,6 @@
   {
     "site_url": "https://www.wayrates.com/",
     "name": "Wayrates WW",
-    "img": "platform/26846.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/11/25/26846-d58dfb65a2cfcd62.png",
     "categories": [
       {
@@ -312,13 +308,12 @@
       ],
       "cashback_link_data": null
     },
-    "discountCount": 4,
-    "couponCount": 4
+    "discountCount": 9,
+    "couponCount": 3
   },
   {
     "site_url": "https://www.planeta-sport.ru/",
     "name": "Планета Спорт",
-    "img": "platform/11347.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2020/10/1/11347-40a91b60ee22488a.png",
     "categories": [
       {
@@ -373,7 +368,6 @@
   {
     "site_url": "https://www.sportmaster.ru/",
     "name": "Спортмастер",
-    "img": "platform/14647.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/8/14647-0dd7fbe25553b712.png",
     "categories": [
       {
@@ -440,7 +434,6 @@
   {
     "site_url": "https://www.bodylab24.de/",
     "name": "Bodylab24 DE",
-    "img": "platform/26696.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/29/26696-930ecde5754fe5ea.svg",
     "categories": [
       {
@@ -495,7 +488,6 @@
   {
     "site_url": "https://barfits.ru",
     "name": "Barfits",
-    "img": "platform/25270.jpg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/8/12/25270-5e23560857545e64.jpg",
     "categories": [
       {
@@ -545,7 +537,6 @@
   {
     "site_url": "https://sitpack.com/",
     "name": "Sitpack WW",
-    "img": "platform/113984.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/24/113984-85ace6283e127d5d.png",
     "categories": [
       {
@@ -584,12 +575,11 @@
       "cashback_link_data": null
     },
     "discountCount": 0,
-    "couponCount": 2
+    "couponCount": 3
   },
   {
     "site_url": "https://www.velosklad.ru/",
     "name": "ВелоСклад",
-    "img": "platform/15894.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2020/10/1/15894-78421c7a863b0fdc.png",
     "categories": [
       {
@@ -633,7 +623,6 @@
   {
     "site_url": "https://www.birota.ru/",
     "name": "birota",
-    "img": "platform/27368.jpg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/4/15/27368-78459cea7cfb9b8d.jpg",
     "categories": [
       {
@@ -732,7 +721,6 @@
   {
     "site_url": "https://www.thejockeyclub.co.uk",
     "name": "Jockey Club UK",
-    "img": "platform/27749.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/2/11/27749-b21ac1d4370a8b77.png",
     "categories": [
       {

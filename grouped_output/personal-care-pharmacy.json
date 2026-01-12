@@ -2,7 +2,6 @@
   {
     "site_url": "https://www.proficosmetics.ru/",
     "name": "Галерея Косметики",
-    "img": "platform/15437.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/13/15437-59a932c8ecdf6ede.svg",
     "categories": [
       {
@@ -57,7 +56,6 @@
   {
     "site_url": "https://randewoo.ru/",
     "name": "Randewoo",
-    "img": "platform/22484.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/23/22484-276d0824abb5ce1b.svg",
     "categories": [
       {
@@ -252,7 +250,6 @@
   {
     "site_url": "https://www.lookfantastic.com/",
     "name": "Lookfantastic Many GEOs",
-    "img": "platform/23390.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/2/14/23390-6ae8efddb4da5c02.png",
     "categories": [
       {
@@ -290,13 +287,12 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "discountCount": 2,
-    "couponCount": 2
+    "discountCount": 3,
+    "couponCount": 3
   },
   {
     "site_url": "https://aravia.ru",
     "name": "Aravia",
-    "img": "platform/26032.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/13/26032-83f320d496a2f9e8.svg",
     "categories": [
       {
@@ -350,9 +346,63 @@
     "couponCount": 7
   },
   {
+    "site_url": "https://nutritive.com.ua",
+    "name": "Nutritive Cosmetics UA",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/4/19/27496-399108c67404c7e5.svg",
+    "categories": [
+      {
+        "name": "Personal Care & Pharmacy",
+        "id": 67,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Smart Tracking_UA",
+        "id": 379,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 27496,
+    "category": {
+      "name": "Personal Care & Pharmacy",
+      "id": 67,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://rzekl.com/g/s8bjzgsdvd5af0702a27f8e73c2259/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 3,
+    "couponCount": 5
+  },
+  {
     "site_url": "https://doctorslon.ru/",
     "name": "DoctorSlon",
-    "img": "platform/35214.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/30/35214-a913e07016f6972d.svg",
     "categories": [
       {
@@ -408,7 +458,6 @@
   {
     "site_url": "https://www.rigla.ru/",
     "name": "РИГЛА",
-    "img": "platform/17045.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/4/22/17045-994123553e9ab5b2.png",
     "categories": [
       {
@@ -452,7 +501,6 @@
   {
     "site_url": "https://www.ochkov.net/",
     "name": "Ochkov",
-    "img": "platform/17863.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/21/17863-9e95bb01c305ab7b.svg",
     "categories": [
       {
@@ -508,7 +556,6 @@
   {
     "site_url": "https://www.pharmacosmetica.ru/",
     "name": "Pharmacosmetica.ru",
-    "img": "platform/20231.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/13/20231-1ca1ce044ac585ad.svg",
     "categories": [
       {
@@ -608,7 +655,6 @@
   {
     "site_url": "https://www.budzdorov.ru/",
     "name": "Budzdorov",
-    "img": "platform/23446.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2020/10/15/23446-1a07392a64421ef4.png",
     "categories": [
       {
@@ -652,7 +698,6 @@
   {
     "site_url": "https://www.nealsyardremedies.com/",
     "name": "Neal's Yard Remedies UK US",
-    "img": "platform/24688.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/6/24688-5968e074a4976083.svg",
     "categories": [
       {
@@ -690,13 +735,67 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "discountCount": 18,
+    "discountCount": 27,
+    "couponCount": 0
+  },
+  {
+    "site_url": "https://medmag.ua/",
+    "name": "Medmag UA",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/19/24741-37379091625484b7.jpg",
+    "categories": [
+      {
+        "name": "Personal Care & Pharmacy",
+        "id": 67,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Smart Tracking_UA",
+        "id": 379,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 24741,
+    "category": {
+      "name": "Personal Care & Pharmacy",
+      "id": 67,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://ad.admitad.com/g/4puec3155r5af0702a27e4bdeeca69/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 2,
     "couponCount": 0
   },
   {
     "site_url": "https://mariefreshcosmetics.com/",
     "name": "Marie Fresh Cosmetics Many Geos",
-    "img": "platform/26446.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/11/10/26446-24c4ea4dbb6e97a5.svg",
     "categories": [
       {
@@ -752,7 +851,6 @@
   {
     "site_url": "https://www.thebodyshop.com/en-gb/",
     "name": "The Body Shop UK",
-    "img": "platform/28507.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/4/20/28507-068c9e099fac059c.png",
     "categories": [
       {
@@ -790,13 +888,12 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "discountCount": 4,
+    "discountCount": 6,
     "couponCount": 0
   },
   {
     "site_url": "https://www.vperfumes.com/home",
     "name": "Vperfumes GCC Links& Offline codes",
-    "img": "platform/29277.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/11/18/29277-309be5ed10adfc4a.svg",
     "categories": [
       {
@@ -834,13 +931,12 @@
       "landings": [],
       "cashback_link_data": null
     },
-    "discountCount": 2,
+    "discountCount": 3,
     "couponCount": 0
   },
   {
     "site_url": "https://mamash.ua/",
     "name": "Mamash UA",
-    "img": "platform/37980.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/6/23/37980-5f0bc39b25e03866.svg",
     "categories": [
       {
@@ -896,7 +992,6 @@
   {
     "site_url": "https://iherbgroup.ru",
     "name": "Iherb.group",
-    "img": "platform/38150.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/1/23/38150-a8b3c61d705ecb4d.svg",
     "categories": [
       {
@@ -940,7 +1035,6 @@
   {
     "site_url": "https://doctorslon.kz/",
     "name": "Doctorslon KZ",
-    "img": "platform/40417.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/14/40417-364de08f3dd8504e.svg",
     "categories": [
       {
@@ -995,7 +1089,6 @@
   {
     "site_url": "https://aptekiplus.ru/",
     "name": "",
-    "img": "platform/45296.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/1/10/45296-adf02f14d781cbbc.svg",
     "categories": [
       {
@@ -1037,9 +1130,63 @@
     "couponCount": 0
   },
   {
+    "site_url": "https://orto-line.com.ua/",
+    "name": "Orto-line UA",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2025/12/16/147054-54323c4a5b0c5e0f.svg",
+    "categories": [
+      {
+        "name": "Personal Care & Pharmacy",
+        "id": 67,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Smart tracking programs",
+        "id": 382,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "Smart Tracking_UA",
+        "id": 379,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 147054,
+    "category": {
+      "name": "Personal Care & Pharmacy",
+      "id": 67,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://ypetp.com/g/iy6kfjpp9n5af0702a273f16cae2b8/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 7,
+    "couponCount": 0
+  },
+  {
     "site_url": "https://zdravcity.ru/",
     "name": "Zdravcity RU",
-    "img": "platform/18054.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/21/18054-d68796701e188db5.svg",
     "categories": [
       {
@@ -1089,7 +1236,6 @@
   {
     "site_url": "https://www.dewal.ru/",
     "name": "Dewal",
-    "img": "platform/18757.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/7/18757-2990649403096106.svg",
     "categories": [
       {
@@ -1162,7 +1308,6 @@
   {
     "site_url": "https://me.currentbody.com/",
     "name": "Currentbody MENA",
-    "img": "platform/26079.jpg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/9/23/26079-9b6e7f8f7a49eecb.jpg",
     "categories": [
       {
@@ -1201,12 +1346,11 @@
       "cashback_link_data": null
     },
     "discountCount": 0,
-    "couponCount": 2
+    "couponCount": 3
   },
   {
     "site_url": "https://www.docmorris.fr/",
     "name": "DocMorris FR",
-    "img": "platform/26914.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/29/26914-d9e97368affa3e2b.svg",
     "categories": [
       {
@@ -1250,7 +1394,6 @@
   {
     "site_url": "https://ozerki.ru/",
     "name": "Аптека  Озерки",
-    "img": "platform/29341.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/5/31/29341-f6161b73f4611ae7.svg",
     "categories": [
       {
@@ -1294,7 +1437,6 @@
   {
     "site_url": "https://babor.ru/",
     "name": "BABOR",
-    "img": "platform/30104.jpg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/11/8/30104-8d3d129472f41880.jpg",
     "categories": [
       {
@@ -1350,7 +1492,6 @@
   {
     "site_url": "https://patchandgo.ru/",
     "name": "Patch and Go",
-    "img": "platform/33287.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/9/2/33287-f076d6f6ca7ea4ad.svg",
     "categories": [
       {
@@ -1406,7 +1547,6 @@
   {
     "site_url": "https://yamanshop.ru",
     "name": "",
-    "img": "platform/98190.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/5/7/98190-cb3b1d1ddd14ca37.svg",
     "categories": [
       {
@@ -1450,7 +1590,6 @@
   {
     "site_url": "https://aurabits.shop/",
     "name": "Aurabits",
-    "img": "platform/146096.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/10/30/146096-879afbd17264fd64.svg",
     "categories": [
       {
@@ -1517,12 +1656,11 @@
       "cashback_link_data": null
     },
     "discountCount": 0,
-    "couponCount": 2
+    "couponCount": 3
   },
   {
     "site_url": "https://royalsamplesbox.ru/",
     "name": "Royalsamples",
-    "img": "platform/20717.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/5/12/20717-f44bb2998ca326ab.svg",
     "categories": [
       {
@@ -1566,7 +1704,6 @@
   {
     "site_url": "https://www.velodrive.ru/",
     "name": "Velodrive.ru",
-    "img": "platform/21324.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/4/6/21324-7954c3a16ae1289b.svg",
     "categories": [
       {
@@ -1633,7 +1770,6 @@
   {
     "site_url": "https://www.themancompany.com/",
     "name": "TheManCompany [CPS] IN",
-    "img": "platform/21497.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/2/12/21497-25ea3beffe5f2b4a.png",
     "categories": [
       {
@@ -1677,7 +1813,6 @@
   {
     "site_url": "https://www.forestessentialsindia.com/",
     "name": "Forest Essentials [CPS] WW",
-    "img": "platform/23441.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2020/12/4/23441-be2cb2c920a9490b.png",
     "categories": [
       {
@@ -1721,7 +1856,6 @@
   {
     "site_url": "https://www.kapiva.in/",
     "name": "Kapiva [CPS] IN",
-    "img": "platform/23646.png",
     "image": "https://cdn.admitad-connect.com/campaign/images/2021/2/12/23646-373e4070f9bd8933.png",
     "categories": [
       {
@@ -1765,7 +1899,6 @@
   {
     "site_url": "https://www.myvitamins.com/",
     "name": "MyVitamins UK DE",
-    "img": "platform/23809.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/3/17/23809-3a8e8c4c158bce8c.svg",
     "categories": [
       {
@@ -1807,9 +1940,84 @@
     "couponCount": 0
   },
   {
+    "site_url": "https://www.puravida.com.br/",
+    "name": "Puravida BR",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2023/11/24/26059-16eedb0cc35cad4b.svg",
+    "categories": [
+      {
+        "name": "Personal Care & Pharmacy",
+        "id": 67,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      },
+      {
+        "name": "eHealth",
+        "id": 202,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Food & Food delivery",
+        "id": 63,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      }
+    ],
+    "id": 26059,
+    "category": {
+      "name": "Personal Care & Pharmacy",
+      "id": 67,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://naiawork.com/g/ilxe95r7wa5af0702a27179a3ea1a2/",
+      "landings": [
+        {
+          "id": 18337,
+          "name": "Saúde",
+          "code": "d2915b4e9d"
+        },
+        {
+          "id": 18336,
+          "name": "Beleza",
+          "code": "16c737f5a7"
+        }
+      ],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
+  },
+  {
     "site_url": "https://www.sephora.pl/",
     "name": "Sephora PL",
-    "img": "platform/26358.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/29/26358-b17840a3ef3cc782.svg",
     "categories": [
       {
@@ -1853,7 +2061,6 @@
   {
     "site_url": "https://www.farmaciaigea.com/",
     "name": "Farmacia Igea IT",
-    "img": "platform/27982.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2023/8/29/27982-6e09d63cc77ca1c0.svg",
     "categories": [
       {
@@ -1897,7 +2104,6 @@
   {
     "site_url": "https://snowsea.ru/",
     "name": "Snow Sea",
-    "img": "platform/29217.jpg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2022/8/8/29217-076f9b36374f91d2.jpg",
     "categories": [
       {
@@ -1939,9 +2145,51 @@
     "couponCount": 0
   },
   {
+    "site_url": "https://www.lojafamilynes.com.br/",
+    "name": "FamilyNes BR",
+    "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/10/97297-21b8beb9b52409d4.svg",
+    "categories": [
+      {
+        "name": "Personal Care & Pharmacy",
+        "id": 67,
+        "language": "en",
+        "parent": {
+          "name": "Online stores",
+          "id": 62,
+          "language": "en",
+          "parent": null
+        }
+      },
+      {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    ],
+    "id": 97297,
+    "category": {
+      "name": "Personal Care & Pharmacy",
+      "id": 67,
+      "language": "en",
+      "parent": {
+        "name": "Online stores",
+        "id": 62,
+        "language": "en",
+        "parent": null
+      }
+    },
+    "affiliate": {
+      "goto_link": "https://rkdro.com/g/kbf3bo1bnm5af0702a27d279f349c5/",
+      "landings": [],
+      "cashback_link_data": null
+    },
+    "discountCount": 0,
+    "couponCount": 0
+  },
+  {
     "site_url": "https://gls.store",
     "name": "GLS store RU",
-    "img": "platform/98498.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/10/17/98498-f3cfbfb3cf1d02cf.svg",
     "categories": [
       {
@@ -1985,7 +2233,6 @@
   {
     "site_url": "https://ochkarik.ru/",
     "name": "Очкарик RU",
-    "img": "platform/102500.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/7/10/102500-cbcfcf9d4aac5a09.svg",
     "categories": [
       {
@@ -2041,7 +2288,6 @@
   {
     "site_url": "https://samson-pharma.ru",
     "name": "Самсон-Фарма RU",
-    "img": "platform/107100.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/8/15/107100-d88d8b9063653875.svg",
     "categories": [
       {
@@ -2085,7 +2331,6 @@
   {
     "site_url": "https://superapteka.ru",
     "name": "Супераптека RU",
-    "img": "platform/107571.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/8/19/107571-dad8bb22cc9dcb1e.svg",
     "categories": [
       {
@@ -2129,7 +2374,6 @@
   {
     "site_url": "https://stoletov.ru",
     "name": "Доктор Столетов RU",
-    "img": "platform/107575.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/8/19/107575-12caa1e0b4d53246.svg",
     "categories": [
       {
@@ -2173,7 +2417,6 @@
   {
     "site_url": "https://www.dermazonestore.com/",
     "name": "DermaZone Many GEOs links & promo codes",
-    "img": "platform/108555.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/9/20/108555-eab5bc55efbb349b.svg",
     "categories": [
       {
@@ -2217,7 +2460,6 @@
   {
     "site_url": "https://www.letoile.kz",
     "name": "ЛЭТУАЛЬ KZ",
-    "img": "platform/117473.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2024/12/12/117473-e5e3e2e09df1ccd0.svg",
     "categories": [
       {
@@ -2261,7 +2503,6 @@
   {
     "site_url": "https://www.ladymakeup.pl",
     "name": "Ladymakeup PL, IL",
-    "img": "platform/124955.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/4/15/124955-84952fafc86da2a9.svg",
     "categories": [
       {
@@ -2305,7 +2546,6 @@
   {
     "site_url": "https://letoile.ae/",
     "name": "LETOILE AE QA",
-    "img": "platform/125954.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/6/10/125954-6c40181500fc6d3b.svg",
     "categories": [
       {
@@ -2349,7 +2589,6 @@
   {
     "site_url": "https://cloveoralcare.com/",
     "name": "Clove Oral Care [ CPS ] IN",
-    "img": "platform/128030.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/7/2/128030-2580d9dc2dcae5bb.svg",
     "categories": [
       {
@@ -2393,7 +2632,6 @@
   {
     "site_url": "https://www.kamaayurveda.in/",
     "name": "Kama Ayurveda [ CPS ] IN",
-    "img": "platform/144572.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/10/15/144572-77cb8da509dca568.svg",
     "categories": [
       {
@@ -2437,7 +2675,6 @@
   {
     "site_url": "https://www.stylevana.com/",
     "name": "Stylevana WW",
-    "img": "platform/145575.svg",
     "image": "https://cdn.admitad-connect.com/campaign/images/2025/11/20/145575-d400c86acc111223.svg",
     "categories": [
       {

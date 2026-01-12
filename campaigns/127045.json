@@ -170,5 +170,91 @@
     "promocode": "PICSARTDESIGN5",
     "frameset_link": "",
     "goto_link": "https://yknhc.com/g/kgbum8wr5l5af0702a2737d2dcea90/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 127045,
+      "name": "Picsart WW",
+      "site_url": "https://picsart.com/"
+    },
+    "description": "Discount Percentage 5% Yearly or Monthly (or both): Both Subscription Plans by default, we select all plans",
+    "short_name": "Code Name: ADMITAD6",
+    "exclusive": true,
+    "date_end": "2026-05-30T23:59:00",
+    "date_start": "2025-05-30T00:00:00",
+    "id": 852690,
+    "regions": [
+      "00"
+    ],
+    "discount": "6%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/4/24/127045-ebaa8747efb1afd1.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "Code Name: ADMITAD6",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "ADMITAD6",
+    "frameset_link": "",
+    "goto_link": "https://yknhc.com/g/780x466blm5af0702a2737d2dcea90/?i=3"
+  },
+  {
+    "status": "active",
+    "rating": "0.00",
+    "campaign": {
+      "id": 127045,
+      "name": "Picsart WW",
+      "site_url": "https://picsart.com/"
+    },
+    "description": "Expiration Date: ongoing\r\nDiscount Percentage 5% Yearly or Monthly (or both): Both Subscription Plans by default, we select all plans",
+    "short_name": "Code Name: PICSARTDESIGN5",
+    "exclusive": false,
+    "date_end": null,
+    "date_start": "2025-05-21T11:05:12",
+    "id": 851266,
+    "regions": [
+      "00"
+    ],
+    "discount": "5%",
+    "types": [
+      {
+        "id": 2,
+        "name": "Order discount"
+      }
+    ],
+    "image": "http://cdn.admitad.com/campaign/images/2025/4/24/127045-ebaa8747efb1afd1.svg",
+    "species": "promocode",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Services"
+      }
+    ],
+    "name": "Code Name: PICSARTDESIGN5",
+    "language": "en",
+    "is_unique": false,
+    "is_personal": false,
+    "is_tracking_promo_code": false,
+    "customer_type": null,
+    "has_affiliate_link": true,
+    "promocode": "PICSARTDESIGN5",
+    "frameset_link": "",
+    "goto_link": "https://yknhc.com/g/kgbum8wr5l5af0702a2737d2dcea90/?i=3"
   }
 ]
